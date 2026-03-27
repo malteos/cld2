@@ -192,7 +192,7 @@ static const bool FLAGS_cld_echotext = true;
 static const int32 FLAGS_cld_textlimit = 4;
 static const int32 FLAGS_cld_smoothwidth = 20;
 static const bool FLAGS_cld_2011_hints = true;
-static const int32 FLAGS_cld_max_lang_tag_scan_kb = 8;
+static const int32 FLAGS_cld_max_lang_tag_scan_kb = 1;
 
 static const bool FLAGS_dbgscore = false;
 
