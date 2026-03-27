@@ -29,6 +29,7 @@ namespace CLD2 {
 
 // Constructor, destructor
 OffsetMap::OffsetMap() {
+  active_ = true;
   Clear();
 }
 
@@ -92,6 +93,7 @@ void OffsetMap::Printmap(const char* filename) {
 
 // Reset to offset 0
 void OffsetMap::Reset() {
+  if (!active_) return;
   MaybeFlushAll();
 
   next_diff_sub_ = 0;
@@ -104,7 +106,7 @@ void OffsetMap::Reset() {
 
 // Add to  mapping from A to A', specifying how many next bytes are
 // identical in A and A'
-void OffsetMap::Copy(int bytes) {
+void OffsetMap::CopyImpl(int bytes) {
   if (bytes == 0) {return;}
   max_aoffset_ += bytes;           // Largest seen so far
   max_aprimeoffset_ += bytes;      // Largest seen so far
@@ -119,7 +121,7 @@ void OffsetMap::Copy(int bytes) {
 
 // Add to mapping from A to A', specifying how many next bytes are
 // inserted in A' while not advancing in A at all
-void OffsetMap::Insert(int bytes){
+void OffsetMap::InsertImpl(int bytes){
   if (bytes == 0) {return;}
   max_aprimeoffset_ += bytes;      // Largest seen so far
   if (pending_op_ == INSERT_OP) {
@@ -138,7 +140,7 @@ void OffsetMap::Insert(int bytes){
 
 // Add to mapping from A to A', specifying how many next bytes are
 // deleted from A while not advancing in A' at all
-void OffsetMap::Delete(int bytes){
+void OffsetMap::DeleteImpl(int bytes){
   if (bytes == 0) {return;}
   max_aoffset_ += bytes;           // Largest seen so far
   if (pending_op_ == DELETE_OP) {

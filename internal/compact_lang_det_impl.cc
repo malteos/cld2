@@ -1800,6 +1800,11 @@ Language DetectLanguageSummaryV2(
 
   // Loop through text spans in a single script
   ScriptScanner ss(buffer, buffer_length, is_plain_text);
+  // Disable offset tracking when result chunk vector is not needed
+  if (resultchunkvector == NULL) {
+    ss.map2original_.SetActive(false);
+    ss.map2uplow_.SetActive(false);
+  }
   LangSpan scriptspan;
 
   scoringcontext.scanner = &ss;

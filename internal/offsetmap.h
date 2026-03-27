@@ -51,20 +51,29 @@ class OffsetMap {
   OffsetMap();
   ~OffsetMap();
 
+  // Enable or disable tracking. When disabled, Copy/Insert/Delete are no-ops.
+  void SetActive(bool active) { active_ = active; }
+  bool IsActive() const { return active_; }
+
   // Clear the map
   void Clear();
 
   // Add to  mapping from A to A', specifying how many next bytes correspond
   // in A and A'
-  void Copy(int bytes);
+  void Copy(int bytes) { if (!active_) return; CopyImpl(bytes); }
 
   // Add to mapping from A to A', specifying how many next bytes are
   // inserted in A' while not advancing in A at all
-  void Insert(int bytes);
+  void Insert(int bytes) { if (!active_) return; InsertImpl(bytes); }
 
   // Add to mapping from A to A', specifying how many next bytes are
   // deleted from A while not advancing in A' at all
-  void Delete(int bytes);
+  void Delete(int bytes) { if (!active_) return; DeleteImpl(bytes); }
+
+  // Internal implementations (called when active)
+  void CopyImpl(int bytes);
+  void InsertImpl(int bytes);
+  void DeleteImpl(int bytes);
 
   // Print map to file, for debugging
   void Printmap(const char* filename);
@@ -154,6 +163,7 @@ class OffsetMap {
   // operations are found.
   static bool CopyDeletes(OffsetMap* source, OffsetMap* dest);
 
+  bool active_;
   std::string diffs_;
   MapOp pending_op_;
   uint32 pending_length_;
