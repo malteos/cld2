@@ -328,6 +328,7 @@ int GetQuadHits(const char* text,
     scoringcontext->scoringtables->quadgram_obj2;
   int next_base = hitbuffer->next_base;
   int next_base_limit = hitbuffer->maxscoringhits;
+  bool has_dual_table = (quadgram_obj2->kCLDTableSize != 0);
 
   // Run a little cache of last quad hits to catch overly-repetitive "text"
   // We don't care if we miss a couple repetitions at scriptspan boundaries
@@ -350,16 +351,23 @@ int GetQuadHits(const char* text,
 
     // Filter out recent repeats
     if ((quadhash != prior_quadhash[0]) && (quadhash != prior_quadhash[1])) {
-      // Look up this quadgram and save <offset, indirect>
-      uint32 indirect_flag = 0;   // For dual tables
-      const CLD2TableSummary* hit_obj = quadgram_obj;
-      uint32 probs = QuadHashV3Lookup4(quadgram_obj, quadhash);
-      if ((probs == 0) && (quadgram_obj2->kCLDTableSize != 0)) {
-        // Try lookup in dual table if not found in first one
-        // Note: we need to know later which of two indirect tables to use.
+      // Look up this quadgram in both tables speculatively
+      uint32 probs1 = QuadHashV3Lookup4(quadgram_obj, quadhash);
+      uint32 probs2 = (has_dual_table) ?
+        QuadHashV3Lookup4(quadgram_obj2, quadhash) : 0;
+
+      // Select the result: prefer table 1, fall back to table 2
+      uint32 probs;
+      uint32 indirect_flag;
+      const CLD2TableSummary* hit_obj;
+      if (probs1 != 0) {
+        probs = probs1;
+        indirect_flag = 0;
+        hit_obj = quadgram_obj;
+      } else {
+        probs = probs2;
         indirect_flag = 0x80000000u;
         hit_obj = quadgram_obj2;
-        probs = QuadHashV3Lookup4(quadgram_obj2, quadhash);
       }
       if (probs != 0) {
         // Round-robin two entries of actual hits
@@ -369,7 +377,6 @@ int GetQuadHits(const char* text,
         // Save indirect subscript for later scoring; 1 or 2 langprobs
         int indirect_subscr = probs & ~hit_obj->kCLDTableKeyMask;
         hitbuffer->base[next_base].offset = src - text;     // Offset in text
-        // Flip the high bit for table2
         hitbuffer->base[next_base].indirect = indirect_subscr | indirect_flag;
         ++next_base;
       }
