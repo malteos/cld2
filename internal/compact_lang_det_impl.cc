@@ -1951,6 +1951,9 @@ Language DetectLanguageSummaryV2(
                        resultchunkvector);
 
     total_text_bytes += scriptspan.text_bytes;
+
+    // Early exit once we have enough text for reliable detection
+    if (total_text_bytes >= textlimit) {break;}
   }     // End while (ss.GetOneScriptSpanLower())
 
   // Deallocate full-document prediction table
