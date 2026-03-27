@@ -30,3 +30,15 @@ __Hints.__ Several hints can be supplied. Because these can be inaccurate on web
 __Optimized for space and speed.__ The table-driven extraction of letter sequences and table-driven scoring is highly optimized for both space and speed, running about 10x faster than other detectors and covering over 70 languages in 1.8MB of x86 code and tables. The main quadgram lookup table consists of 256K four-byte entries, covering about 50 languages. Detection over the average web page of 30KB (half tags/digits/punctuation, half letters) takes roughly 1 msec on a current x86 processor.
 
 CLD2 is an update of the original CLD, adding more languages, updating to Unicode 6.2 characters, improving scoring, and adding the optional output vector of labelled language spans.
+
+## Auto research
+
+###  Running the agent
+Simply spin up your Claude/Codex or whatever you want in this repo (and disable all permissions), then you can prompt something like:
+
+```
+Hi have a look at program.md and let's kick off a new experiment! let's do the setup first.
+```
+
+The `program.md` file is essentially a super lightweight "skill".
+

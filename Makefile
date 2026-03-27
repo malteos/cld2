@@ -5,9 +5,10 @@ CXX := g++
 CXXFLAGS := -O2 -std=c++11 -Wno-narrowing
 
 WARC := data/crawl-data/CC-MAIN-2026-12/segments/1772687277079.88/warc/CC-MAIN-20260305070756-20260305100756-00076.warc.gz
-CACHE := data/benchmark/cache.jsonl
+CACHE := data/benchmark/test-data/10k.jsonl
 NUM_PAGES := 10000
 ITERATIONS := 5
+EXPERIMENT := baseline
 RESULTS := data/benchmark/results.csv
 
 # CLD2 source files
@@ -38,7 +39,7 @@ CLD2_SOURCES := \
 	$(CLD2_SRC)/cld2_generated_distinctoctachrome.cc \
 	$(CLD2_SRC)/cld_generated_score_quad_octa_2.cc
 
-.PHONY: setup extract benchmark clean
+.PHONY: setup extract benchmark run clean
 
 # Python venv (for WARC extraction only)
 setup: $(VENV)/bin/activate
@@ -64,11 +65,13 @@ tools/benchmark_bin: tools/benchmark.cc $(CLD2_SOURCES)
 # Run benchmark (extract if needed, compile, then run)
 benchmark: extract tools/benchmark_bin
 	./tools/benchmark_bin \
-		--cache $(CACHE) \
 		--experiment $(EXPERIMENT) \
-		--num-pages $(NUM_PAGES) \
 		--iterations $(ITERATIONS) \
 		--results-file $(RESULTS)
+
+# Recompile and run benchmark (no extraction, no extra args)
+run: clean tools/benchmark_bin
+	./tools/benchmark_bin
 
 clean:
 	rm -f tools/benchmark_bin
