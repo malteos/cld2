@@ -21,6 +21,7 @@
 #include <string.h>
 
 #include "fixunicodevalue.h"
+#include "generated_ulscript.h"
 #include "lang_script.h"
 #include "port.h"
 #include "utf8statetable.h"
@@ -1056,10 +1057,22 @@ void ScriptScanner::LowerScriptSpan(LangSpan* span) {
 // Copy next run of same-script non-tag letters to buffer [NUL terminated]
 // Force Latin, Cyrillic, Greek scripts to be lowercase
 // Buffer ALWAYS has leading space and trailing space space space NUL
+// Scripts that have uppercase/lowercase distinctions
+static inline bool ScriptHasCase(ULScript ulscript) {
+  return ulscript == ULScript_Latin ||
+         ulscript == ULScript_Greek ||
+         ulscript == ULScript_Cyrillic ||
+         ulscript == ULScript_Armenian ||
+         ulscript == ULScript_Georgian;
+}
+
 bool ScriptScanner::GetOneScriptSpanLower(LangSpan* span) {
   bool ok = GetOneScriptSpan(span);
   if (ok) {
-    LowerScriptSpan(span);
+    // Only lowercase scripts that have case distinctions
+    if (ScriptHasCase(span->ulscript)) {
+      LowerScriptSpan(span);
+    }
   }
   return ok;
 }
