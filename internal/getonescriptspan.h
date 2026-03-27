@@ -89,8 +89,8 @@ class ScriptScanner {
   int byte_length_;               // Bytes left
 
   bool is_plain_text_;            // true fo text, false for HTML
-  char* script_buffer_;           // Holds text with expanded entities
-  char* script_buffer_lower_;     // Holds lowercased text
+  char script_buffer_[kMaxScriptBuffer];           // Holds text with expanded entities
+  char script_buffer_lower_[kMaxScriptLowerBuffer]; // Holds lowercased text
   bool letters_marks_only_;       // To distinguish scriptspan of one
                                   // letters/marks vs. any mixture of text
   bool one_script_only_;          // To distinguish scriptspan of one

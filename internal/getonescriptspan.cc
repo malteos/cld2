@@ -571,8 +571,6 @@ ScriptScanner::ScriptScanner(const char* buffer,
   letters_marks_only_(true),
   one_script_only_(true),
   exit_state_(kMaxExitStateLettersMarksOnly) {
-    script_buffer_ = new char[kMaxScriptBuffer];
-    script_buffer_lower_ = new char[kMaxScriptLowerBuffer];
     map2original_.Clear();    // map from script_buffer_ to buffer
     map2uplow_.Clear();       // map from script_buffer_lower_ to script_buffer_
 }
@@ -590,16 +588,13 @@ ScriptScanner::ScriptScanner(const char* buffer,
   letters_marks_only_(!any_text),
   one_script_only_(!any_script),
   exit_state_(any_text ? kMaxExitStateAllText : kMaxExitStateLettersMarksOnly) {
-    script_buffer_ = new char[kMaxScriptBuffer];
-    script_buffer_lower_ = new char[kMaxScriptLowerBuffer];
     map2original_.Clear();    // map from script_buffer_ to buffer
     map2uplow_.Clear();       // map from script_buffer_lower_ to script_buffer_
 }
 
 
 ScriptScanner::~ScriptScanner() {
-  delete[] script_buffer_;
-  delete[] script_buffer_lower_;
+  // script_buffer_ and script_buffer_lower_ are now member arrays, no delete needed
 }
 
 
