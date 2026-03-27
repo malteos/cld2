@@ -792,7 +792,8 @@ int CheapSqueezeInplace(char* isrc,
 
   int hash = 0;
   // Allocate local prediction table.
-  int* predict_tbl = new int[kPredictionTableSize];
+  int predict_tbl_local[kPredictionTableSize];
+  int* predict_tbl = predict_tbl_local;
   memset(predict_tbl, 0, kPredictionTableSize * sizeof(predict_tbl[0]));
 
   int chunksize = ichunksize;
@@ -860,7 +861,7 @@ int CheapSqueezeInplace(char* isrc,
   }
 
   // Deallocate local prediction table
-  delete[] predict_tbl;
+  // predict_tbl is stack-allocated, no delete needed
   return static_cast<int>(dst - isrc);
 }
 
@@ -876,7 +877,8 @@ int CheapSqueezeInplaceOverwrite(char* isrc,
 
   int hash = 0;
   // Allocate local prediction table.
-  int* predict_tbl = new int[kPredictionTableSize];
+  int predict_tbl_local[kPredictionTableSize];
+  int* predict_tbl = predict_tbl_local;
   memset(predict_tbl, 0, kPredictionTableSize * sizeof(predict_tbl[0]));
 
   int chunksize = ichunksize;
@@ -935,7 +937,7 @@ int CheapSqueezeInplaceOverwrite(char* isrc,
   }
 
   // Deallocate local prediction table
-  delete[] predict_tbl;
+  // predict_tbl is stack-allocated, no delete needed
   return static_cast<int>(dst - isrc);
 }
 
@@ -956,7 +958,8 @@ bool CheapSqueezeTriggerTest(const char* src, int src_len, int testsize) {
   int predict_thresh = (testsize * kPredictTriggerPercent) / 100;
   int hash = 0;
   // Allocate local prediction table.
-  int* predict_tbl = new int[kPredictionTableSize];
+  int predict_tbl_local[kPredictionTableSize];
+  int* predict_tbl = predict_tbl_local;
   memset(predict_tbl, 0, kPredictionTableSize * sizeof(predict_tbl[0]));
 
   bool retval = false;
@@ -966,7 +969,7 @@ bool CheapSqueezeTriggerTest(const char* src, int src_len, int testsize) {
     retval = true;
   }
   // Deallocate local prediction table
-  delete[] predict_tbl;
+  // predict_tbl is stack-allocated, no delete needed
   return retval;
 }
 
@@ -1835,9 +1838,10 @@ Language DetectLanguageSummaryV2(
   prior_lang = UNKNOWN_LANGUAGE;
   prior_unreliable = false;
 
-  // Allocate full-document prediction table for finding repeating words
+  // Stack-allocate prediction table to avoid heap overhead
   int hash = 0;
-  int* predict_tbl = new int[kPredictionTableSize];
+  int predict_tbl_storage[kPredictionTableSize];
+  int* predict_tbl = predict_tbl_storage;
   if (FlagRepeats(flags)) {
     memset(predict_tbl, 0, kPredictionTableSize * sizeof(predict_tbl[0]));
   }
@@ -1882,7 +1886,7 @@ Language DetectLanguageSummaryV2(
                     total_text_bytes);
           }
           // Deallocate full-document prediction table
-          delete[] predict_tbl;
+          // predict_tbl is stack-allocated, no delete needed
 
           return DetectLanguageSummaryV2(
                             buffer,
@@ -1944,7 +1948,7 @@ Language DetectLanguageSummaryV2(
   }     // End while (ss.GetOneScriptSpanLower())
 
   // Deallocate full-document prediction table
-  delete[] predict_tbl;
+  // predict_tbl is stack-allocated, no delete needed
 
   if (FLAGS_cld2_html && !FLAGS_cld2_quiet) {
     // If no forced <cr>, put one in front of dump
