@@ -882,6 +882,25 @@ bool ScriptScanner::GetOneScriptSpan(LangSpan* span) {
     bool need_break = false;
 
     while (take < byte_length_) {
+      // Fast path for ASCII Latin letters in Latin spans (most common case)
+      if (spanscript == 1 && !is_plain_text_) {
+        // Batch-copy ASCII letters (a-z, A-Z) without per-char checks
+        while (take < byte_length_ && put < kMaxScriptBytes) {
+          uint8 c = static_cast<uint8>(next_byte_[take]);
+          if ((c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z')) {
+            script_buffer_[put] = next_byte_[take];
+            ++take; ++put; ++letter_count;
+            map2original_.Copy(1);
+          } else {
+            break;
+          }
+        }
+        if (take >= byte_length_ || put >= kMaxScriptBytes) {
+          sc = spanscript;
+          break;
+        }
+      }
+
       // We are at a letter, nonletter, tag, or entity
       if (IsSpecial(next_byte_[take]) && !is_plain_text_) {
         if (next_byte_[take] == '<') {
