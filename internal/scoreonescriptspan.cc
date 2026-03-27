@@ -214,7 +214,7 @@ void ScoreOneChunk(const char* text, ULScript ulscript,
   int first_linear_in_chunk = hitbuffer->chunk_start[chunk_i];
   int first_linear_in_next_chunk = hitbuffer->chunk_start[chunk_i + 1];
 
-  chunk_tote->Reinit();
+  // chunk_tote->Reinit() removed — caller passes freshly constructed Tote
   cspan->delta_len = 0;
   cspan->distinct_len = 0;
   if (scoringcontext->flags_cld2_verbose) {
