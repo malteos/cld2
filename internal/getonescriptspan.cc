@@ -519,7 +519,7 @@ int ScanToLetterOrSpecial(const char* src, int len) {
 //          |    | end of string
 // advances <tag <tag2>
 //          ||
-int ScanToPossibleLetter(const char* isrc, int len, int max_exit_state) {
+__attribute__((hot)) int ScanToPossibleLetter(const char* isrc, int len, int max_exit_state) {
   const uint8* src = reinterpret_cast<const uint8*>(isrc);
   const uint8* srclimit = src + len;
   const uint8* tagParseTbl = kTagParseTbl_0;
@@ -1063,7 +1063,7 @@ bool __attribute__((hot)) ScriptScanner::GetOneScriptSpan(LangSpan* span) {
 // List changes with each version of Unicode, so just always lowercase
 // Unicode 6.2.0:
 //   ARMENIAN COPTIC CYRILLIC DESERET GEORGIAN GLAGOLITIC GREEK LATIN
-void ScriptScanner::LowerScriptSpan(LangSpan* span) {
+void __attribute__((hot)) ScriptScanner::LowerScriptSpan(LangSpan* span) {
   // Fast path: if text is all ASCII, do simple lowering in-place
   const uint8* text = reinterpret_cast<const uint8*>(span->text);
   int len = span->text_bytes;
