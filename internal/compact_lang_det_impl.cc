@@ -1800,7 +1800,14 @@ Language DetectLanguageSummaryV2(
     {ULScript_Latin, ULScript_Hani, ULScript_Common, ULScript_Common};
 
   // Loop through text spans in a single script
-  ScriptScanner ss(buffer, buffer_length, is_plain_text);
+  // Cap the scanner's view to avoid parsing HTML far beyond what we'll use
+  int scanner_limit = buffer_length;
+  int textlimit_bytes = FLAGS_cld_textlimit << 10;
+  if (textlimit_bytes > 0 && resultchunkvector == NULL) {
+    int max_scan = textlimit_bytes * 13;  // ~13x for very tag-heavy pages
+    if (max_scan < scanner_limit) scanner_limit = max_scan;
+  }
+  ScriptScanner ss(buffer, scanner_limit, is_plain_text);
   // Disable offset tracking when result chunk vector is not needed
   if (resultchunkvector == NULL) {
     ss.map2original_.SetActive(false);
