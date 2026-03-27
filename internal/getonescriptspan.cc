@@ -1050,15 +1050,27 @@ bool ScriptScanner::GetOneScriptSpan(LangSpan* span) {
 // Unicode 6.2.0:
 //   ARMENIAN COPTIC CYRILLIC DESERET GEORGIAN GLAGOLITIC GREEK LATIN
 void ScriptScanner::LowerScriptSpan(LangSpan* span) {
-  // If needed, lowercase all the text. If we do it sooner, might miss
-  // lowercasing an entity such as &Aacute;
-  // We only need to do this for Latn and Cyrl scripts
+  // Fast path: if text is all ASCII, do simple lowering in-place
+  const uint8* text = reinterpret_cast<const uint8*>(span->text);
+  int len = span->text_bytes;
+  bool all_ascii = true;
+  for (int i = 0; i < len; ++i) {
+    if (text[i] >= 0x80) { all_ascii = false; break; }
+  }
+  if (all_ascii) {
+    // Lowercase ASCII in-place (safe since script_buffer_ is writable)
+    char* buf = const_cast<char*>(span->text);
+    for (int i = 0; i < len; ++i) {
+      if (buf[i] >= 'A' && buf[i] <= 'Z') {
+        buf[i] += 32;
+      }
+    }
+    // No need to change span->text or text_bytes - it's already in script_buffer_
+    return;
+  }
+
+  // Full Unicode lowercase for non-ASCII text
   map2uplow_.Clear();
-  // Full Unicode lowercase of the entire buffer, including
-  // four pad bytes off the end.
-  // Ahhh. But the last byte 0x00 is not interchange-valid, so we do 3 pad
-  // bytes and put the 0x00 in explicitly.
-  // Build an offset map from script_buffer_lower_ back to script_buffer_
   int consumed, filled, changed;
   StringPiece istr(span->text, span->text_bytes + 3);
   StringPiece ostr(script_buffer_lower_, kMaxScriptLowerBuffer);
