@@ -1961,6 +1961,18 @@ Language DetectLanguageSummaryV2(
 
     // Early exit once we have enough text for reliable detection
     if (total_text_bytes >= textlimit) {break;}
+
+    // Aggressive early exit: if we already have enough text and a clearly
+    // dominant language, stop processing
+    if (total_text_bytes >= 32768 && !FlagFinish(flags)) {
+      int top_key = doc_tote.CurrentTopKey();
+      if (top_key != DocTote::kUnusedKey) {
+        int top_sub = doc_tote.Find(top_key);
+        if (top_sub >= 0 && doc_tote.Value(top_sub) > (total_text_bytes * 19 / 20)) {
+          break;  // 95%+ of text is one language after 20KB
+        }
+      }
+    }
   }     // End while (ss.GetOneScriptSpanLower())
 
   // Deallocate full-document prediction table
