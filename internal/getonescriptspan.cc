@@ -478,7 +478,25 @@ bool inline IsSpecial(char c) {
 
 // Quick Skip to next letter or < > & or to end of string (eos)
 // Always return is_letter for eos
+// 1 = stop (ASCII letter or special < > &), 0 = continue scanning
+static const uint8 kAsciiStopByte[128] = {
+  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,
+  0,0,0,0,0,0,1,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,1,0,1,0,
+  0,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1, 1,1,1,0,0,0,0,0,
+  0,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1, 1,1,1,0,0,0,0,0,
+};
+
 int ScanToLetterOrSpecial(const char* src, int len) {
+  const uint8* usrc = reinterpret_cast<const uint8*>(src);
+  int i = 0;
+  // Fast path: skip ASCII non-letter, non-special bytes
+  while (i < len && usrc[i] < 0x80 && !kAsciiStopByte[usrc[i]]) {
+    ++i;
+  }
+  if (i >= len || usrc[i] < 0x80) {
+    return i;  // Found an ASCII stop byte or end of input
+  }
+  // Non-ASCII byte encountered: fall back to full state machine from start
   int bytes_consumed;
   StringPiece str(src, len);
   UTF8GenericScan(&utf8scannot_lettermarkspecial_obj, str, &bytes_consumed);
