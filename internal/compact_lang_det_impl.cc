@@ -203,8 +203,8 @@ static const int kLangHintBoost = 12;    // Boost language by N/16 per quadgram
 static const int kShortSpanThresh = 32;       // Bytes
 static const int kMaxSecondChanceLen = 1024;  // Look at first 1K of short spans
 
-static const int kCheapSqueezeTestThresh = 4096;  // Only look for squeezing
-                                                  // after this many text bytes
+static const int kCheapSqueezeTestThresh = 0x7fffffff;  // Effectively disabled
+                                                  // with 4KB text limit
 static const int kCheapSqueezeTestLen = 256;  // Bytes to test to trigger sqz
 static const int kSpacesTriggerPercent = 25;  // Trigger sqz if >=25% spaces
 static const int kPredictTriggerPercent = 67; // Trigger sqz if >=67% predicted
