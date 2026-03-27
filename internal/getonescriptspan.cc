@@ -1091,9 +1091,23 @@ int ScriptScanner::MapBack(int text_offset) {
 }
 
 
+// Fast ASCII lookup: 0=non-letter, 1=Latin letter
+static const uint8 kAsciiLetterScript[128] = {
+  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,
+  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,
+  0,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1, 1,1,1,0,0,0,0,0,
+  0,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1, 1,1,1,0,0,0,0,0,
+};
+
 // Gets lscript number for letters; always returns
 //   0 (common script) for non-letters
 int GetUTF8LetterScriptNum(const char* src) {
+  uint8 c = *reinterpret_cast<const uint8*>(src);
+  if (c < 0x80) {
+    // Fast path for ASCII: Latin letters return 1, everything else 0
+    return kAsciiLetterScript[c];
+  }
+  // Non-ASCII: use the full state machine
   int srclen = UTF8OneCharLen(src);
   const uint8* usrc = reinterpret_cast<const uint8*>(src);
   return UTF8GenericPropertyTwoByte(&utf8prop_lettermarkscriptnum_obj,
