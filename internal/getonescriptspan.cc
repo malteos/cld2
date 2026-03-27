@@ -815,7 +815,7 @@ bool ScriptScanner::GetOneTextSpan(LangSpan* span) {
 
 // Copy next run of same-script non-tag letters to buffer [NUL terminated]
 // Buffer ALWAYS has leading space and trailing space space space NUL
-bool ScriptScanner::GetOneScriptSpan(LangSpan* span) {
+bool __attribute__((hot)) ScriptScanner::GetOneScriptSpan(LangSpan* span) {
   if (!letters_marks_only_) {
     // Return non-tag text, including punctuation and digits
     return GetOneTextSpan(span);
