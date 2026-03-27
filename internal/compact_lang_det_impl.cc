@@ -190,7 +190,7 @@ static const bool FLAGS_cld_forcewords = true;
 static const bool FLAGS_cld_showme = false;
 static const bool FLAGS_cld_echotext = true;
 static const int32 FLAGS_cld_textlimit = 112;
-static const int32 FLAGS_cld_smoothwidth = 20;
+static const int32 FLAGS_cld_smoothwidth = 10;
 static const bool FLAGS_cld_2011_hints = true;
 static const int32 FLAGS_cld_max_lang_tag_scan_kb = 1;
 
