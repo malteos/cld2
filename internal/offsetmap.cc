@@ -42,6 +42,7 @@ OffsetMap::~OffsetMap() {
 //   Windows are the a and a' ranges covered by diffs_[next_diff_sub_-1]
 //   which is a fake range of width 0 mapping 0=>0
 void OffsetMap::Clear() {
+  if (!active_) return;
   diffs_.clear();
   pending_op_ = COPY_OP;
   pending_length_ = 0;
