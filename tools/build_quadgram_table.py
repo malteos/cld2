@@ -241,13 +241,16 @@ def build_table(lang_data, bucket_count=4096, pslang_start=122,
         if len(scores) >= 3:
             langprob |= (scores[2][0] & 0xFF) << 24
 
-        # Prob subscript: encode the score pattern
-        # Use subscript 3 (hi=3, which gives probs [3,2,1])
-        prob_sub = 3
-        if len(scores) >= 1 and scores[0][1] >= 10:
-            prob_sub = 12  # High confidence
-        elif len(scores) >= 1 and scores[0][1] >= 6:
-            prob_sub = 6
+        # Prob subscript indexes into kLgProbV2Tbl (8 bytes per entry)
+        # Last 3 bytes are probabilities for top1/top2/top3 language
+        # kLgProbV2TblBackmap: prob -> subscript
+        # prob 1->0, 2->1, 3->3, 4->6, 5->10, 6->15, 7->21, 8->28,
+        # 9->36, 10->45, 11->55, 12->66
+        backmap = [0, 0, 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, 66]
+        if len(scores) >= 1:
+            prob_sub = backmap[min(scores[0][1], 12)]
+        else:
+            prob_sub = 0
         langprob |= prob_sub & 0xFF
 
         # Add to indirect table
