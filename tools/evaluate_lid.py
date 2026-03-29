@@ -69,6 +69,14 @@ CLD2_TO_ISO639_3 = {
     # New languages added to CLD2
     "arg": "arg",  # Aragonese
     "vec": "vec",  # Venetian
+    "bik": "bik",  # Bikol
+    "acf": "acf",  # Saint Lucian Creole French
+    "crh": "crh",  # Crimean Tatar
+    "rcf": "rcf",  # Réunion Creole French
+    "gom": "gom",  # Goan Konkani
+    "bcl": "bcl",  # Central Bikol
+    "lij": "lij",  # Ligurian
+    "kab": "kab",  # Kabyle
     # Special
     "un": "und",  # unknown
     "xxx": "xxx",  # ignore

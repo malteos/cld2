@@ -211,14 +211,14 @@ extern const char* const kLanguageToName[kLanguageToNameSize] = {
   "WARAY_PHILIPPINES",     // 182 war
   "ARAGONESE",             // 183 arg
   "VENETIAN",              // 184 vec
-  "185",                   // 185
-  "186",                   // 186
-  "187",                   // 187
-  "188",                   // 188
-  "189",                   // 189
-  "190",                   // 190
-  "191",                   // 191
-  "192",                   // 192
+  "BIKOL",               // 185 bik
+  "ACEF_CREOLE",         // 186 acf
+  "CRIMEAN_TATAR",       // 187 crh
+  "REUNION_CREOLE",      // 188 rcf
+  "GOAN_KONKANI",        // 189 gom
+  "CENTRAL_BIKOL",       // 190 bcl
+  "LIGURIAN",            // 191 lij
+  "KABYLE",              // 192 kab
   "193",                   // 193
   "194",                   // 194
   "195",                   // 195
@@ -830,14 +830,14 @@ extern const char* const kLanguageToCode[kLanguageToCodeSize] = {
   "war",   // 182 WARAY_PHILIPPINES
   "arg",   // 183 ARAGONESE
   "vec",   // 184 VENETIAN
-  "",      // 185 185
-  "",      // 186 186
-  "",      // 187 187
-  "",      // 188 188
-  "",      // 189 189
-  "",      // 190 190
-  "",      // 191 191
-  "",      // 192 192
+  "bik",   // 185 BIKOL
+  "acf",   // 186 ACEF_CREOLE
+  "crh",   // 187 CRIMEAN_TATAR
+  "rcf",   // 188 REUNION_CREOLE
+  "gom",   // 189 GOAN_KONKANI
+  "bcl",   // 190 CENTRAL_BIKOL
+  "lij",   // 191 LIGURIAN
+  "kab",   // 192 KABYLE
   "",      // 193 193
   "",      // 194 194
   "",      // 195 195
@@ -2687,16 +2687,16 @@ extern const uint8 kLanguageToPLang[kLanguageToPLangSize] = {
   119,  // 180 tum
   120,  // 181 ve
   121,  // 182 war
-  122,  // 183 arg ARAGONESE
-  123,  // 184 vec VENETIAN
-    0,  // 185
-    0,  // 186
-    0,  // 187
-    0,  // 188
-    0,  // 189
-    0,  // 190
-    0,  // 191
-    0,  // 192
+  123,  // 183 arg ARAGONESE (pslang=123)
+  131,  // 184 vec VENETIAN (pslang=131)
+  125,  // 185 bik BIKOL (pslang=125)
+  122,  // 186 acf ACEF_CREOLE (pslang=122)
+  126,  // 187 crh CRIMEAN_TATAR (pslang=126)
+  130,  // 188 rcf REUNION_CREOLE (pslang=130)
+  127,  // 189 gom GOAN_KONKANI (pslang=127)
+  124,  // 190 bcl CENTRAL_BIKOL (pslang=124)
+  129,  // 191 lij LIGURIAN (pslang=129)
+  128,  // 192 kab KABYLE (pslang=128)
     0,  // 193
     0,  // 194
     0,  // 195
@@ -3142,16 +3142,16 @@ extern const uint16 kPLangToLanguageLatn[256] = {
   TUMBUKA,               // 119
   VENDA,                 // 120
   WARAY_PHILIPPINES,     // 121
-  ARAGONESE,             // 122
-  VENETIAN,              // 123
-  UNKNOWN_LANGUAGE,      // 124
-  UNKNOWN_LANGUAGE,      // 125
-  UNKNOWN_LANGUAGE,      // 126
-  UNKNOWN_LANGUAGE,      // 127
-  UNKNOWN_LANGUAGE,      // 128
-  UNKNOWN_LANGUAGE,      // 129
-  UNKNOWN_LANGUAGE,      // 130
-  UNKNOWN_LANGUAGE,      // 131
+  ACEF_CREOLE,           // 122 (acf)
+  ARAGONESE,             // 123 (arg)
+  CENTRAL_BIKOL,         // 124 (bcl)
+  BIKOL,                 // 125 (bik)
+  CRIMEAN_TATAR,         // 126 (crh)
+  GOAN_KONKANI,          // 127 (gom)
+  KABYLE,                // 128 (kab)
+  LIGURIAN,              // 129 (lij)
+  REUNION_CREOLE,        // 130 (rcf)
+  VENETIAN,              // 131 (vec)
   UNKNOWN_LANGUAGE,      // 132
   UNKNOWN_LANGUAGE,      // 133
   UNKNOWN_LANGUAGE,      // 134
