@@ -219,16 +219,16 @@ extern const char* const kLanguageToName[kLanguageToNameSize] = {
   "CENTRAL_BIKOL",       // 190 bcl
   "LIGURIAN",            // 191 lij
   "KABYLE",              // 192 kab
-  "193",                   // 193
-  "194",                   // 194
-  "195",                   // 195
-  "196",                   // 196
-  "197",                   // 197
-  "198",                   // 198
-  "199",                   // 199
-  "200",                   // 200
-  "201",                   // 201
-  "202",                   // 202
+  "GUIANESE_CREOLE",     // 193 gcr
+  "KIKUYU",              // 194 kik
+  "LATGALIAN",           // 195 ltg
+  "FULFULDE",            // 196 fuv
+  "GUADELOUPE_CREOLE",   // 197 gcf
+  "EXTREMADURAN",        // 198 ext
+  "NYANKORE",            // 199 nyn
+  "GUN",                 // 200 guw
+  "NIGERIAN_PIDGIN",     // 201 pcm
+  "ACEHNESE",            // 202 ace
   "203",                   // 203
   "204",                   // 204
   "205",                   // 205
@@ -838,16 +838,16 @@ extern const char* const kLanguageToCode[kLanguageToCodeSize] = {
   "bcl",   // 190 CENTRAL_BIKOL
   "lij",   // 191 LIGURIAN
   "kab",   // 192 KABYLE
-  "",      // 193 193
-  "",      // 194 194
-  "",      // 195 195
-  "",      // 196 196
-  "",      // 197 197
-  "",      // 198 198
-  "",      // 199 199
-  "",      // 200 200
-  "",      // 201 201
-  "",      // 202 202
+  "gcr",   // 193 GUIANESE_CREOLE
+  "kik",   // 194 KIKUYU
+  "ltg",   // 195 LATGALIAN
+  "fuv",   // 196 FULFULDE
+  "gcf",   // 197 GUADELOUPE_CREOLE
+  "ext",   // 198 EXTREMADURAN
+  "nyn",   // 199 NYANKORE
+  "guw",   // 200 GUN
+  "pcm",   // 201 NIGERIAN_PIDGIN
+  "ace",   // 202 ACEHNESE
   "",      // 203 203
   "",      // 204 204
   "",      // 205 205
@@ -2687,26 +2687,26 @@ extern const uint8 kLanguageToPLang[kLanguageToPLangSize] = {
   119,  // 180 tum
   120,  // 181 ve
   121,  // 182 war
-  123,  // 183 arg ARAGONESE (pslang=123)
-  131,  // 184 vec VENETIAN (pslang=131)
-  125,  // 185 bik BIKOL (pslang=125)
-  122,  // 186 acf ACEF_CREOLE (pslang=122)
-  126,  // 187 crh CRIMEAN_TATAR (pslang=126)
-  130,  // 188 rcf REUNION_CREOLE (pslang=130)
-  127,  // 189 gom GOAN_KONKANI (pslang=127)
-  124,  // 190 bcl CENTRAL_BIKOL (pslang=124)
-  129,  // 191 lij LIGURIAN (pslang=129)
-  128,  // 192 kab KABYLE (pslang=128)
-    0,  // 193
-    0,  // 194
-    0,  // 195
-    0,  // 196
-    0,  // 197
-    0,  // 198
-    0,  // 199
-    0,  // 200
-    0,  // 201
-    0,  // 202
+  123,  // 183 arg ARAGONESE
+  136,  // 184 vec VENETIAN
+  125,  // 185 bik BIKOL
+  122,  // 186 acf ACEF_CREOLE
+  126,  // 187 crh CRIMEAN_TATAR
+  135,  // 188 rcf REUNION_CREOLE
+  130,  // 189 gom GOAN_KONKANI
+  124,  // 190 bcl CENTRAL_BIKOL
+  133,  // 191 lij LIGURIAN
+  131,  // 192 kab KABYLE
+  129,  // 193 gcr GUIANESE_CREOLE
+  132,  // 194 kik KIKUYU
+  134,  // 195 ltg LATGALIAN
+  127,  // 196 fuv FULFULDE
+  128,  // 197 gcf GUADELOUPE_CREOLE
+    0,  // 198 ext EXTREMADURAN (no training data)
+    0,  // 199 nyn NYANKORE (no training data)
+    0,  // 200 guw GUN (no training data)
+    0,  // 201 pcm NIGERIAN_PIDGIN (no training data)
+    0,  // 202 ace ACEHNESE (no training data)
     0,  // 203
     0,  // 204
     0,  // 205
@@ -3147,21 +3147,16 @@ extern const uint16 kPLangToLanguageLatn[256] = {
   CENTRAL_BIKOL,         // 124 (bcl)
   BIKOL,                 // 125 (bik)
   CRIMEAN_TATAR,         // 126 (crh)
-  GOAN_KONKANI,          // 127 (gom)
-  KABYLE,                // 128 (kab)
-  LIGURIAN,              // 129 (lij)
-  REUNION_CREOLE,        // 130 (rcf)
-  VENETIAN,              // 131 (vec)
-  UNKNOWN_LANGUAGE,      // 132
-  UNKNOWN_LANGUAGE,      // 133
-  UNKNOWN_LANGUAGE,      // 134
-  UNKNOWN_LANGUAGE,      // 135
-  UNKNOWN_LANGUAGE,      // 136
-  UNKNOWN_LANGUAGE,      // 137
-  UNKNOWN_LANGUAGE,      // 138
-  UNKNOWN_LANGUAGE,      // 139
-  UNKNOWN_LANGUAGE,      // 140
-  UNKNOWN_LANGUAGE,      // 141
+  FULFULDE,              // 127 (fuv)
+  GUADELOUPE_CREOLE,     // 128 (gcf)
+  GUIANESE_CREOLE,       // 129 (gcr)
+  GOAN_KONKANI,          // 130 (gom)
+  KABYLE,                // 131 (kab)
+  KIKUYU,                // 132 (kik)
+  LIGURIAN,              // 133 (lij)
+  LATGALIAN,             // 134 (ltg)
+  REUNION_CREOLE,        // 135 (rcf)
+  VENETIAN,              // 136 (vec)
   UNKNOWN_LANGUAGE,      // 142
   UNKNOWN_LANGUAGE,      // 143
   UNKNOWN_LANGUAGE,      // 144

@@ -77,6 +77,16 @@ CLD2_TO_ISO639_3 = {
     "bcl": "bcl",  # Central Bikol
     "lij": "lij",  # Ligurian
     "kab": "kab",  # Kabyle
+    "gcr": "gcr",  # Guianese Creole French
+    "kik": "kik",  # Kikuyu
+    "ltg": "ltg",  # Latgalian
+    "fuv": "fuv",  # Nigerian Fulfulde
+    "gcf": "gcf",  # Guadeloupean Creole French
+    "ext": "ext",  # Extremaduran
+    "nyn": "nyn",  # Nyankore
+    "guw": "guw",  # Gun
+    "pcm": "pcm",  # Nigerian Pidgin
+    "ace": "ace",  # Acehnese
     # Special
     "un": "und",  # unknown
     "xxx": "xxx",  # ignore
