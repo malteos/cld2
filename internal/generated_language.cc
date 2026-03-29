@@ -3404,14 +3404,14 @@ extern const uint16 kPLangToLanguageOthr[256] = {
   UNKNOWN_LANGUAGE,      // 126
   UNKNOWN_LANGUAGE,      // 127
   UNKNOWN_LANGUAGE,      // 128
-  UNKNOWN_LANGUAGE,      // 129
-  UNKNOWN_LANGUAGE,      // 130
-  UNKNOWN_LANGUAGE,      // 131
-  UNKNOWN_LANGUAGE,      // 132
-  UNKNOWN_LANGUAGE,      // 133
-  UNKNOWN_LANGUAGE,      // 134
-  UNKNOWN_LANGUAGE,      // 135
-  UNKNOWN_LANGUAGE,      // 136
+  GUIANESE_CREOLE,       // 129 (gcr) - also in Othr for completeness
+  GOAN_KONKANI,          // 130 (gom) - Devanagari script
+  KABYLE,                // 131 (kab)
+  KIKUYU,                // 132 (kik)
+  LIGURIAN,              // 133 (lij)
+  LATGALIAN,             // 134 (ltg)
+  REUNION_CREOLE,        // 135 (rcf)
+  VENETIAN,              // 136 (vec)
   UNKNOWN_LANGUAGE,      // 137
   UNKNOWN_LANGUAGE,      // 138
   UNKNOWN_LANGUAGE,      // 139
