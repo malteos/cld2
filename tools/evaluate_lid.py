@@ -104,6 +104,7 @@ COMMONLID_ALIASES = {
     "fro": "fra",   # Old French -> French
     "grc": "ell",   # Ancient Greek -> Greek
     "fil": "tgl",   # Filipino -> Tagalog
+    "gug": "grn",   # Paraguayan Guaraní -> Guaraní (CLD2: gn)
 }
 
 # Set of ISO 639-3 codes that CLD2 can detect
