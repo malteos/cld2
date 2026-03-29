@@ -37,7 +37,8 @@ CLD2_SOURCES := \
 	$(CLD2_SRC)/cld2_generated_quad0122.cc \
 	$(CLD2_SRC)/cld2_generated_deltaocta0122.cc \
 	$(CLD2_SRC)/cld2_generated_distinctocta0122.cc \
-	$(CLD2_SRC)/cld_generated_score_quad_octa_0122_2.cc
+	$(CLD2_SRC)/cld_generated_score_quad_octa_0122_2.cc \
+	$(CLD2_SRC)/cld2_generated_quad_new.cc
 
 .PHONY: setup extract benchmark run evaluate clean
 

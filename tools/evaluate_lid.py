@@ -66,6 +66,9 @@ CLD2_TO_ISO639_3 = {
     "kri": "kri", "loz": "loz", "lua": "lua", "luo": "luo", "new": "new",
     "ny": "nya", "os": "oss", "pam": "pam", "nso": "nso", "raj": "raj",
     "crs": "crs", "tum": "tum", "ve": "ven", "war": "war",
+    # New languages added to CLD2
+    "arg": "arg",  # Aragonese
+    "vec": "vec",  # Venetian
     # Special
     "un": "und",  # unknown
     "xxx": "xxx",  # ignore

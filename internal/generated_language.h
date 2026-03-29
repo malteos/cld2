@@ -212,8 +212,8 @@ typedef enum {
   TUMBUKA                      = 180,  // tum
   VENDA                        = 181,  // ve
   WARAY_PHILIPPINES            = 182,  // war
-  X_183                        = 183,  //
-  X_184                        = 184,  //
+  ARAGONESE                    = 183,  // arg
+  VENETIAN                     = 184,  // vec
   X_185                        = 185,  //
   X_186                        = 186,  //
   X_187                        = 187,  //

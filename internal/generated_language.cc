@@ -209,8 +209,8 @@ extern const char* const kLanguageToName[kLanguageToNameSize] = {
   "TUMBUKA",               // 180 tum
   "VENDA",                 // 181 ve
   "WARAY_PHILIPPINES",     // 182 war
-  "183",                   // 183
-  "184",                   // 184
+  "ARAGONESE",             // 183 arg
+  "VENETIAN",              // 184 vec
   "185",                   // 185
   "186",                   // 186
   "187",                   // 187
@@ -828,8 +828,8 @@ extern const char* const kLanguageToCode[kLanguageToCodeSize] = {
   "tum",   // 180 TUMBUKA
   "ve",    // 181 VENDA
   "war",   // 182 WARAY_PHILIPPINES
-  "",      // 183 183
-  "",      // 184 184
+  "arg",   // 183 ARAGONESE
+  "vec",   // 184 VENETIAN
   "",      // 185 185
   "",      // 186 186
   "",      // 187 187
@@ -2687,8 +2687,8 @@ extern const uint8 kLanguageToPLang[kLanguageToPLangSize] = {
   119,  // 180 tum
   120,  // 181 ve
   121,  // 182 war
-    0,  // 183
-    0,  // 184
+  122,  // 183 arg ARAGONESE
+  123,  // 184 vec VENETIAN
     0,  // 185
     0,  // 186
     0,  // 187
@@ -3142,8 +3142,8 @@ extern const uint16 kPLangToLanguageLatn[256] = {
   TUMBUKA,               // 119
   VENDA,                 // 120
   WARAY_PHILIPPINES,     // 121
-  UNKNOWN_LANGUAGE,      // 122
-  UNKNOWN_LANGUAGE,      // 123
+  ARAGONESE,             // 122
+  VENETIAN,              // 123
   UNKNOWN_LANGUAGE,      // 124
   UNKNOWN_LANGUAGE,      // 125
   UNKNOWN_LANGUAGE,      // 126
