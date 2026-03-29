@@ -1,0 +1,7 @@
+commit	macro_f1	micro_f1	coverage	status	description
+2af08d2	0.4598	0.8694	0.7667	keep	baseline (CLD2 as-is on CommonLID 109 langs)
+646bdec	0.6391	0.9202	0.7667	keep	switch to full 0122 tables (160+ lang-scripts)
+763810c	0.6489	0.9216	0.7778	keep	fix ory/gug language code mappings
+b0849b4	0.6597	0.9241	0.8000	keep	add Aragonese (arg) + Venetian (vec)
+f2b3d10	0.6616	0.9230	0.8889	keep	add 8 more langs (bik/acf/crh/rcf/gom/bcl/lij/kab)
+ab8cf7f	0.6712	0.9230	1.0000	keep	100% coverage: add gcr/kik/ltg/fuv/gcf + 5 more
