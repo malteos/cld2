@@ -9,3 +9,5 @@ ab8cf7f	0.6712	0.9230	1.0000	keep	100% coverage: add gcr/kik/ltg/fuv/gcf + 5 mor
 e9b7708	0.7430	0.9296	1.0000	discard	fix prob encoding (train-test leakage via CommonLID)
 469439a	0.7097	0.9228	1.0000	keep	clean rebuild: GlotLID-only training + contrast (no leakage)
 e2a9584	0.7117	0.9233	1.0000	keep	add hand-written training data for acf/gcr/lin/gcf
+7ab1284	0.7087	0.9131	1.0000	discard	2x score boost for kQuad_obj2 (acf 0.15->0.40)
+cf6a03b	0.7112	0.9136	1.0000	keep	inject acf into main table kQuad_obj (acf 0.15->0.65)
