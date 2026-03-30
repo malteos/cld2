@@ -6,4 +6,5 @@ b0849b4	0.6597	0.9241	0.8000	keep	add Aragonese (arg) + Venetian (vec)
 f2b3d10	0.6616	0.9230	0.8889	keep	add 8 more langs (bik/acf/crh/rcf/gom/bcl/lij/kab)
 ab8cf7f	0.6712	0.9230	1.0000	keep	100% coverage: add gcr/kik/ltg/fuv/gcf + 5 more
 5c3498d	0.7128	0.9279	1.0000	keep	dual-table scoring + Devanagari support + more contrast
-e9b7708	0.7430	0.9296	1.0000	keep	fix probability encoding (proper kLgProbV2TblBackmap)
+e9b7708	0.7430	0.9296	1.0000	discard	fix prob encoding (train-test leakage via CommonLID)
+469439a	0.7097	0.9228	1.0000	keep	clean rebuild: GlotLID-only training + contrast (no leakage)

@@ -344,6 +344,28 @@ def generate_cpp(buckets, indirect, pslang_map, keymask, size_one,
     return "\n".join(lines)
 
 
+def _load_text_file(path):
+    """Load text lines from a .txt or .jsonl file."""
+    import json as _json
+    texts = []
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            if path.endswith(".jsonl"):
+                try:
+                    record = _json.loads(line)
+                    text = record.get("text", "").strip()
+                    if text:
+                        texts.append(text)
+                except _json.JSONDecodeError:
+                    continue
+            else:
+                texts.append(line)
+    return texts
+
+
 def main():
     parser = argparse.ArgumentParser(description="Build CLD2 quadgram table")
     parser.add_argument("--lang", action="append", required=True,
@@ -364,21 +386,22 @@ def main():
                         help="Script for new languages (default: Latn)")
     args = parser.parse_args()
 
-    # Load training data
+    # Load training data (supports .txt and .jsonl)
     lang_data = {}
     for spec in args.lang:
         code, path = spec.split(":", 1)
-        with open(path, "r", encoding="utf-8") as f:
-            texts = [line.strip() for line in f if line.strip()]
-        lang_data[code] = texts
+        texts = _load_text_file(path)
+        if code in lang_data:
+            lang_data[code].extend(texts)
+        else:
+            lang_data[code] = texts
         print(f"Loaded {len(texts)} lines for {code} from {path}", file=sys.stderr)
 
     # Load contrast data
     contrast_data = {}
     for spec in args.contrast:
         code, path = spec.split(":", 1)
-        with open(path, "r", encoding="utf-8") as f:
-            texts = [line.strip() for line in f if line.strip()]
+        texts = _load_text_file(path)
         contrast_data[code] = texts
         print(f"Loaded {len(texts)} contrast lines for {code} from {path}", file=sys.stderr)
 
