@@ -10,4 +10,5 @@ e9b7708	0.7430	0.9296	1.0000	discard	fix prob encoding (train-test leakage via C
 469439a	0.7097	0.9228	1.0000	keep	clean rebuild: GlotLID-only training + contrast (no leakage)
 e2a9584	0.7117	0.9233	1.0000	keep	add hand-written training data for acf/gcr/lin/gcf
 7ab1284	0.7087	0.9131	1.0000	discard	2x score boost for kQuad_obj2 (acf 0.15->0.40)
-cf6a03b	0.7112	0.9136	1.0000	keep	inject acf into main table kQuad_obj (acf 0.15->0.65)
+cf6a03b	0.7112	0.9136	1.0000	discard	inject acf only into main table (superseded)
+280ce37	0.7097	0.9120	1.0000	keep	inject acf/gcr/gcf/lin into main table with replacement
