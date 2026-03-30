@@ -2,27 +2,17 @@
 """
 Inject new languages into CLD2's main quadgram scoring table (kQuad_obj).
 
-Instead of relying on the secondary table (kQuad_obj2), this tool modifies
-the MAIN table's indirect entries (kCLDTableInd) to add new languages as
-scoring candidates alongside their confusable neighbors.
-
-For example: if a langprob entry scores [hat, fra, 0] for a quadgram, and
-we know acf (Saint Lucian Creole) shares that quadgram, we change it to
-[hat, fra, acf] so CLD2 considers acf as a candidate.
-
-The approach:
-1. Parse the C++ source to extract kCLDTableInd[] entries
-2. For each injection rule (e.g., "add acf where hat exists"):
-   - Find langprob entries containing the source language
-   - If an empty slot exists (lang=0), insert the target language
-   - Adjust probability subscript to give the new language a fair score
-3. Write the modified table back as valid C++
+Two strategies for injection:
+1. Empty-slot: if a langprob entry has an unused slot (lang=0), fill it
+2. Replace: if all 3 slots are full, replace the LOWEST-probability language
+   (only if it's not the source language and not in a protected list)
 
 Usage:
     python3 tools/inject_languages.py \
         --input internal/cld2_generated_quad0122.cc \
-        --inject hat:acf --inject hat:gcr --inject hat:gcf \
-        --inject yor:lin \
+        --inject 83:122 --inject 83:129 --inject 83:128 \
+        --inject 74:135 \
+        --prob 4 \
         --output internal/cld2_generated_quad0122.cc
 """
 
@@ -30,60 +20,79 @@ import argparse
 import re
 import sys
 
-# kLgProbV2Tbl backmap: desired probability value -> subscript
-# From cldutil_shared.h
 PROB_BACKMAP = [0, 0, 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, 66]
 
+# kLgProbV2Tbl last 3 bytes (prob1, prob2, prob3) for first 78 entries
+# These are the probabilities for 3-language lookup (Group 0: mid = average)
+# Format: each entry is (hi, mid, lo) probabilities
+LG_PROB_TABLE = []
+for hi in range(1, 13):
+    for lo in range(1, hi + 1):
+        mid = (hi + lo + 1) // 2
+        LG_PROB_TABLE.append((hi, mid, lo))
 
-def find_best_prob3_match(prob1, prob2, prob3):
-    """Find the probability subscript that best matches three target probabilities.
-    Simplified version of CLD2's FindBestProb3Match."""
-    # The kLgProbV2Tbl has 240 entries, each 8 bytes.
-    # Bytes 5,6,7 are the 3-probability values.
-    # We need to find the entry whose [5],[6],[7] best match our targets.
-    #
-    # For simplicity, use the backmap: if all three probs are equal,
-    # use PROB_BACKMAP[prob1]. Otherwise, search the table pattern.
-    #
-    # The table is organized as: for each (hi, lo) pair where hi >= lo >= 1,
-    # there are entries with hi, interpolated, lo probabilities.
-    # Group 0: entries 0-77 (mid = (hi+lo)/2)
-    # Group 1: entries 78-155 (mid = (3*hi+lo)/4)
-    # Group 2: entries 156-233 (mid = (hi+3*lo)/4)
 
-    if prob1 == prob2 == prob3:
-        return PROB_BACKMAP[min(prob1, 12)]
-
-    # For the common case of (hi, mid, lo) pattern:
-    hi = max(prob1, prob2, prob3)
-    lo = min(prob1, prob2, prob3)
-    if hi == lo:
-        return PROB_BACKMAP[hi]
-
-    # Compute base index for this (hi, lo) pair
-    # Each hi value starts at: sum of (hi-1) entries before it
-    # hi=1: 1 entry (lo=1), hi=2: 2 entries, hi=3: 3 entries, ...
-    base = 0
-    for h in range(1, hi):
-        base += h
-    base += (hi - lo)  # offset within this hi group
-
-    # Check if mid matches group 0 (1/2), group 1 (3/4), or group 2 (1/4)
-    mid = prob2 if prob1 >= prob2 >= prob3 else sorted([prob1, prob2, prob3])[1]
-    mid_half = (hi + lo + 1) // 2
-    mid_3q = (3 * hi + lo + 2) // 4
-    mid_1q = (hi + 3 * lo + 2) // 4
-
-    if abs(mid - mid_3q) <= abs(mid - mid_half) and abs(mid - mid_3q) <= abs(mid - mid_1q):
-        return base + 78  # Group 1
-    elif abs(mid - mid_1q) < abs(mid - mid_half):
-        return base + 156  # Group 2
+def get_probs_for_subscript(sub):
+    """Get approximate (prob1, prob2, prob3) for a probability subscript."""
+    if sub >= 234:
+        return (1, 1, 1)
+    group = sub // 78
+    idx = sub % 78
+    if idx >= len(LG_PROB_TABLE):
+        return (1, 1, 1)
+    hi, mid, lo = LG_PROB_TABLE[idx]
+    if group == 0:
+        return (hi, mid, lo)
+    elif group == 1:
+        return (hi, (3*hi + lo + 2) // 4, lo)
     else:
-        return base  # Group 0
+        return (hi, (hi + 3*lo + 2) // 4, lo)
+
+
+def decode_langprob(lp):
+    return (lp & 0xFF, (lp >> 8) & 0xFF, (lp >> 16) & 0xFF, (lp >> 24) & 0xFF)
+
+
+def encode_langprob(prob_sub, lang1, lang2, lang3):
+    return (lang3 << 24) | (lang2 << 16) | (lang1 << 8) | (prob_sub & 0xFF)
+
+
+def find_best_prob_subscript(p1, p2, p3):
+    """Find the probability subscript that best matches three target values."""
+    p1, p2, p3 = max(1, p1), max(1, p2), max(1, p3)
+    # Ensure sorted descending
+    probs = sorted([p1, p2, p3], reverse=True)
+    hi, mid, lo = probs
+
+    if hi == lo:
+        return PROB_BACKMAP[min(hi, 12)]
+
+    # Find base index for this (hi, lo) pair
+    base = 0
+    for h in range(1, min(hi, 12)):
+        base += h
+    base += min(hi, 12) - max(lo, 1)
+    if base >= 78:
+        base = 77
+
+    # Pick best group based on mid value
+    mid_g0 = (hi + lo + 1) // 2
+    mid_g1 = (3 * hi + lo + 2) // 4
+    mid_g2 = (hi + 3 * lo + 2) // 4
+
+    d0 = abs(mid - mid_g0)
+    d1 = abs(mid - mid_g1)
+    d2 = abs(mid - mid_g2)
+
+    if d1 <= d0 and d1 <= d2:
+        return base + 78
+    elif d2 < d0:
+        return base + 156
+    return base
 
 
 def parse_indirect_table(cpp_source):
-    """Parse kQuad0122Ind[] from C++ source. Returns list of uint32 values."""
+    """Parse kQuad0122Ind[] from C++ source."""
     entries = []
     in_indirect = False
     for line in cpp_source.split('\n'):
@@ -98,112 +107,115 @@ def parse_indirect_table(cpp_source):
     return entries
 
 
-def decode_langprob(lp):
-    """Decode a uint32 langprob into (prob_sub, lang1, lang2, lang3)."""
-    return (lp & 0xFF, (lp >> 8) & 0xFF, (lp >> 16) & 0xFF, (lp >> 24) & 0xFF)
+def inject_languages(entries, injections, prob_value=4, protect=None):
+    """Inject new languages into indirect table entries.
 
-
-def encode_langprob(prob_sub, lang1, lang2, lang3):
-    """Encode (prob_sub, lang1, lang2, lang3) into a uint32 langprob."""
-    return (lang3 << 24) | (lang2 << 16) | (lang1 << 8) | (prob_sub & 0xFF)
-
-
-def inject_language(entries, source_pslang, target_pslang, prob_value=None):
-    """Inject target_pslang into entries that contain source_pslang.
-
-    For each entry containing source_pslang with an empty slot (lang=0),
-    insert target_pslang into the empty slot.
+    Strategy:
+    1. If source_pslang present and empty slot available: fill it (simple)
+    2. If all slots full: replace the slot with the lowest probability
+       (unless it's the source language or in the protected set)
 
     Args:
         entries: list of uint32 langprob values (modified in place)
-        source_pslang: the confusable language to look for (e.g., hat=83)
-        target_pslang: the new language to inject (e.g., acf=122)
-        prob_value: probability to assign (1-12). If None, uses source's prob minus 2.
+        injections: list of (source_pslang, target_pslang) tuples
+        prob_value: probability for injected language (1-12)
+        protect: set of pslangs that must not be replaced
 
     Returns:
-        number of entries modified
+        stats dict
     """
-    modified = 0
-    for i in range(len(entries)):
-        lp = entries[i]
-        if lp == 0:
-            continue
+    if protect is None:
+        protect = set()
 
-        prob_sub, lang1, lang2, lang3 = decode_langprob(lp)
-        langs = [lang1, lang2, lang3]
+    stats = {"simple": 0, "replaced": 0, "skipped_present": 0, "skipped_protected": 0}
 
-        if source_pslang not in langs:
-            continue
+    for src_pslang, tgt_pslang in injections:
+        for i in range(len(entries)):
+            lp = entries[i]
+            if lp == 0:
+                continue
 
-        # Find an empty slot
-        empty_slot = None
-        for slot in range(3):
-            if langs[slot] == 0:
-                empty_slot = slot
+            prob_sub, l1, l2, l3 = decode_langprob(lp)
+            langs = [l1, l2, l3]
+
+            if src_pslang not in langs:
+                continue
+            if tgt_pslang in langs:
+                stats["skipped_present"] += 1
+                continue
+
+            # Try empty slot first
+            empty_slot = None
+            for s in range(3):
+                if langs[s] == 0:
+                    empty_slot = s
+                    break
+
+            if empty_slot is not None:
+                langs[empty_slot] = tgt_pslang
+                # Recompute prob subscript with new language getting prob_value
+                probs = list(get_probs_for_subscript(prob_sub))
+                probs[empty_slot] = prob_value
+                # Sort by probability descending, keeping lang-prob pairs together
+                paired = sorted(zip(probs, langs), reverse=True)
+                new_probs = [p for p, _ in paired]
+                new_langs = [l for _, l in paired]
+                new_sub = find_best_prob_subscript(*new_probs)
+                entries[i] = encode_langprob(new_sub, new_langs[0], new_langs[1], new_langs[2])
+                stats["simple"] += 1
+                continue
+
+            # All slots full — find the lowest-probability language to replace
+            probs = list(get_probs_for_subscript(prob_sub))
+            # Pair (prob, lang, slot_index) and sort ascending by prob
+            paired = [(probs[s], langs[s], s) for s in range(3)]
+            paired.sort()
+
+            replaced = False
+            for p, lang, slot in paired:
+                if lang == src_pslang:
+                    continue  # Never replace the source language
+                if lang in protect:
+                    continue  # Don't replace protected languages
+                # Replace this language with the target
+                langs[slot] = tgt_pslang
+                probs[slot] = prob_value
+                # Re-sort by probability
+                repaired = sorted(zip(probs, langs), reverse=True)
+                new_probs = [pr for pr, _ in repaired]
+                new_langs = [la for _, la in repaired]
+                new_sub = find_best_prob_subscript(*new_probs)
+                entries[i] = encode_langprob(new_sub, new_langs[0], new_langs[1], new_langs[2])
+                stats["replaced"] += 1
+                replaced = True
                 break
 
-        if empty_slot is None:
-            continue  # All 3 slots full, skip
+            if not replaced:
+                stats["skipped_protected"] += 1
 
-        # Determine probability for the new language
-        # Use source language's probability minus a penalty (new lang is less likely)
-        source_slot = langs.index(source_pslang)
-
-        # Insert target into empty slot
-        langs[empty_slot] = target_pslang
-
-        # Recompute probability subscript
-        # Get approximate probabilities from current subscript
-        # The new language gets a slightly lower probability than the source
-        if prob_value is not None:
-            # Use specified probability for all slots
-            new_probs = [0, 0, 0]
-            for s in range(3):
-                if langs[s] == target_pslang:
-                    new_probs[s] = prob_value
-                elif langs[s] == source_pslang:
-                    new_probs[s] = prob_value + 2  # source gets higher score
-                elif langs[s] != 0:
-                    new_probs[s] = max(1, prob_value - 1)
-            # Sort: highest prob first
-            paired = sorted(zip(new_probs, langs), reverse=True)
-            new_probs = [p for p, _ in paired]
-            langs = [l for _, l in paired]
-            new_sub = find_best_prob3_match(*new_probs)
-        else:
-            # Keep existing probability subscript (simplest approach)
-            new_sub = prob_sub
-
-        entries[i] = encode_langprob(new_sub, langs[0], langs[1], langs[2])
-        modified += 1
-
-    return modified
+    return stats
 
 
 def rebuild_cpp_indirect(original_source, new_entries):
-    """Replace kQuad0122Ind[] in the C++ source with modified entries."""
+    """Replace kQuad0122Ind[] in C++ source with modified entries."""
     lines = original_source.split('\n')
     result = []
-    in_indirect = False
-    skip_until_close = False
+    skip = False
 
     for line in lines:
         if 'kQuad0122Ind[' in line and '= {' in line:
             result.append(line)
-            in_indirect = True
-            skip_until_close = True
-            # Write new entries
+            skip = True
             for i in range(0, len(new_entries), 4):
                 chunk = new_entries[i:i+4]
                 hex_vals = ', '.join(f'0x{v:08x}' for v in chunk)
                 result.append(f'  {hex_vals},')
             continue
 
-        if skip_until_close:
+        if skip:
             if line.strip().startswith('};'):
-                skip_until_close = False
+                skip = False
                 result.append(line)
-            # Skip original data lines
             continue
 
         result.append(line)
@@ -213,14 +225,15 @@ def rebuild_cpp_indirect(original_source, new_entries):
 
 def main():
     parser = argparse.ArgumentParser(description="Inject languages into CLD2 main quadgram table")
-    parser.add_argument("--input", required=True, help="Input C++ source file")
-    parser.add_argument("--output", required=True, help="Output C++ source file")
+    parser.add_argument("--input", required=True)
+    parser.add_argument("--output", required=True)
     parser.add_argument("--inject", action="append", required=True,
-                        help="source_pslang:target_pslang (e.g., 83:122 to add acf where hat exists)")
-    parser.add_argument("--prob", type=int, default=None,
-                        help="Probability value for injected languages (1-12, default: auto)")
-    parser.add_argument("--dry-run", action="store_true",
-                        help="Only report what would be changed")
+                        help="source_pslang:target_pslang")
+    parser.add_argument("--prob", type=int, default=4,
+                        help="Probability value for injected languages (1-12)")
+    parser.add_argument("--protect", type=int, nargs="*", default=[],
+                        help="Pslangs that must not be replaced in full entries")
+    parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
     print(f"Reading {args.input}...", file=sys.stderr)
@@ -230,27 +243,35 @@ def main():
     entries = parse_indirect_table(source)
     print(f"Parsed {len(entries)} indirect entries", file=sys.stderr)
 
-    total_modified = 0
+    injections = []
     for spec in args.inject:
-        src_pslang, tgt_pslang = map(int, spec.split(':'))
-        n = inject_language(entries, src_pslang, tgt_pslang, prob_value=args.prob)
-        print(f"  Inject pslang {tgt_pslang} where pslang {src_pslang} exists: {n} entries modified",
-              file=sys.stderr)
-        total_modified += n
+        src, tgt = map(int, spec.split(':'))
+        injections.append((src, tgt))
 
-    print(f"Total entries modified: {total_modified}", file=sys.stderr)
+    protect = set(args.protect)
+    # Always protect common major languages from replacement
+    # (en=1, fr=5, es=11, de=6, pt=10, it=7, nl=3)
+    protect.update({1, 3, 5, 6, 7, 10, 11})
+
+    stats = inject_languages(entries, injections, prob_value=args.prob, protect=protect)
+
+    print(f"Results:", file=sys.stderr)
+    print(f"  Simple (empty slot): {stats['simple']}", file=sys.stderr)
+    print(f"  Replaced (lowest prob): {stats['replaced']}", file=sys.stderr)
+    print(f"  Skipped (already present): {stats['skipped_present']}", file=sys.stderr)
+    print(f"  Skipped (all protected): {stats['skipped_protected']}", file=sys.stderr)
+    print(f"  Total modified: {stats['simple'] + stats['replaced']}", file=sys.stderr)
 
     if args.dry_run:
-        print("Dry run - no output written", file=sys.stderr)
+        print("Dry run — no output written", file=sys.stderr)
         return
 
     print(f"Rebuilding C++ source...", file=sys.stderr)
     new_source = rebuild_cpp_indirect(source, entries)
 
-    print(f"Writing {args.output}...", file=sys.stderr)
     with open(args.output, 'w') as f:
         f.write(new_source)
-    print("Done.", file=sys.stderr)
+    print(f"Written to {args.output}", file=sys.stderr)
 
 
 if __name__ == "__main__":
