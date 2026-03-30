@@ -8,3 +8,4 @@ ab8cf7f	0.6712	0.9230	1.0000	keep	100% coverage: add gcr/kik/ltg/fuv/gcf + 5 mor
 5c3498d	0.7128	0.9279	1.0000	keep	dual-table scoring + Devanagari support + more contrast
 e9b7708	0.7430	0.9296	1.0000	discard	fix prob encoding (train-test leakage via CommonLID)
 469439a	0.7097	0.9228	1.0000	keep	clean rebuild: GlotLID-only training + contrast (no leakage)
+e2a9584	0.7117	0.9233	1.0000	keep	add hand-written training data for acf/gcr/lin/gcf

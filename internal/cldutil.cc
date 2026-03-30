@@ -369,12 +369,15 @@ int GetQuadHits(const char* text,
           hitbuffer->base[next_base].indirect = indirect_subscr;
           ++next_base;
         }
-        // Also record table 2 hit (new languages get scored alongside existing)
+        // Also record table 2 hit with boosted weight (3x) so new languages
+        // can compete with established languages in the main table
         if (probs2 != 0) {
           int indirect_subscr = probs2 & ~quadgram_obj2->kCLDTableKeyMask;
-          hitbuffer->base[next_base].offset = src - text;
-          hitbuffer->base[next_base].indirect = indirect_subscr | 0x80000000u;
-          ++next_base;
+          for (int boost = 0; boost < 2 && next_base < next_base_limit; ++boost) {
+            hitbuffer->base[next_base].offset = src - text;
+            hitbuffer->base[next_base].indirect = indirect_subscr | 0x80000000u;
+            ++next_base;
+          }
         }
       }
     }
