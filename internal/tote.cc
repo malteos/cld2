@@ -68,33 +68,32 @@ void Tote::CurrentTopThreeKeys(int* key3) const {
   key3[2] = -1;
   int score3[3] = {-1, -1, -1};
   uint64 tempmask = in_use_mask_;
-  int base = 0;
+  // Skip directly to set bits using __builtin_ctzll
   while (tempmask != 0) {
-    if (tempmask & 1) {
-      // Look at four in-use keys
-      for (int i = 0; i < 4; ++i) {
-        int insert_me = score_[base + i];
-        // Favor lower numbers on ties
-        if (insert_me > score3[2]) {
-          // Insert
-          int insert_at = 2;
-          if (insert_me > score3[1]) {
-            score3[2] = score3[1];
-            key3[2] = key3[1];
-            insert_at = 1;
-            if (insert_me > score3[0]) {
-              score3[1] = score3[0];
-              key3[1] = key3[0];
-              insert_at = 0;
-            }
+    int group = __builtin_ctzll(tempmask);
+    int base = group * 4;
+    // Look at four in-use keys
+    for (int i = 0; i < 4; ++i) {
+      int insert_me = score_[base + i];
+      // Favor lower numbers on ties
+      if (insert_me > score3[2]) {
+        // Insert
+        int insert_at = 2;
+        if (insert_me > score3[1]) {
+          score3[2] = score3[1];
+          key3[2] = key3[1];
+          insert_at = 1;
+          if (insert_me > score3[0]) {
+            score3[1] = score3[0];
+            key3[1] = key3[0];
+            insert_at = 0;
           }
-          score3[insert_at] = insert_me;
-          key3[insert_at] = base + i;
         }
+        score3[insert_at] = insert_me;
+        key3[insert_at] = base + i;
       }
     }
-    tempmask >>= 1;
-    base += 4;
+    tempmask &= tempmask - 1;  // Clear lowest set bit
   }
 }
 

@@ -1,0 +1,29 @@
+commit	total_ms	accuracy	status	description
+73b2d27	3564.877	1.0000	keep	baseline
+143d9de	3508.268	1.0000	keep	stack-allocate ScoringHitBuffer and predict_tbl
+40e2605	3404.265	1.0000	keep	disable OffsetMap tracking when resultchunkvector is NULL
+f01af5e	3370.533	1.0000	keep	skip LowerScriptSpan for caseless scripts
+bd25c93	3303.989	1.0000	keep	reduce lang tag scan from 8KB to 1KB
+cc3555e	3528.921	1.0000	discard	disable forced word scoring (slower)
+5d03004	0.000	0.0000	crash	skip UTF-8 validation (segfaults)
+f15f58b	3317.393	1.0000	keep	stack-allocate close_set_count
+8df094b	3272.997	1.0000	keep	fast ASCII path in GetUTF8LetterScriptNum
+282b76d	3256.943	1.0000	keep	fast ASCII scan in ScanToLetterOrSpecial
+91bfeaf	3133.888	1.0000	keep	early exit at 112KB text limit
+656ea78	3350.032	0.9937	discard	disable HTML lang tag scan entirely
+0c80007	3140.471	1.0000	keep	OffsetMap::Clear no-op when inactive
+2cc1646	3122.331	1.0000	keep	fast ASCII lowercase in LowerScriptSpan
+ffda8b9	3103.243	1.0000	keep	batch-copy ASCII Latin letters in inner loop
+e2014f8	3096.428	1.0000	keep	reduce smoothwidth from 20 to 10
+c296a38	3086.130	1.0000	keep	cap ScriptScanner view to 13x text limit
+a49cbc0	3024.854	1.0000	keep	early exit when dominant lang detected (32KB/95%)
+96469d9	3005.184	1.0000	keep	__attribute__((hot)) on GetOneScriptSpan
+3a02b9f	3049.995	0.9991	discard	lower good-answer thresholds
+e142533	3086.665	0.9977	discard	limit UTF-8 validation to 350KB
+7e2c3df	2995.662	1.0000	keep	__builtin_ctzll in CurrentTopThreeKeys
+efc52f0	2955.589	1.0000	keep	tiered early exit (99% at 8KB / 95% at 32KB)
+37487d9	2944.476	0.9957	discard	skip all recursive retries
+cccf220	2957.795	1.0000	keep	eliminate heap alloc for ScriptScanner buffers
+5e094a6	2953.703	1.0000	keep	hot attributes on LowerScriptSpan + ScanToPossibleLetter
+f587d67	2946.000	1.0000	keep	speculative dual table lookup in GetQuadHits
+5a88c12	2938.938	1.0000	keep	remove redundant Tote::Reinit in ScoreOneChunk
