@@ -2688,24 +2688,24 @@ extern const uint8 kLanguageToPLang[kLanguageToPLangSize] = {
   120,  // 181 ve
   121,  // 182 war
   123,  // 183 arg ARAGONESE
-  136,  // 184 vec VENETIAN
-  125,  // 185 bik BIKOL
+  140,  // 184 vec VENETIAN
+  124,  // 185 bik BIKOL
   122,  // 186 acf ACEF_CREOLE
-  126,  // 187 crh CRIMEAN_TATAR
-  135,  // 188 rcf REUNION_CREOLE
+  125,  // 187 crh CRIMEAN_TATAR
+  139,  // 188 rcf REUNION_CREOLE
   130,  // 189 gom GOAN_KONKANI
-  124,  // 190 bcl CENTRAL_BIKOL
-  133,  // 191 lij LIGURIAN
-  131,  // 192 kab KABYLE
+  124,  // 190 bcl CENTRAL_BIKOL (shares bik pslang)
+  134,  // 191 lij LIGURIAN
+  132,  // 192 kab KABYLE
   129,  // 193 gcr GUIANESE_CREOLE
-  132,  // 194 kik KIKUYU
-  134,  // 195 ltg LATGALIAN
+  133,  // 194 kik KIKUYU
+  136,  // 195 ltg LATGALIAN
   127,  // 196 fuv FULFULDE
   128,  // 197 gcf GUADELOUPE_CREOLE
-    0,  // 198 ext EXTREMADURAN (no training data)
-    0,  // 199 nyn NYANKORE (no training data)
-    0,  // 200 guw GUN (no training data)
-    0,  // 201 pcm NIGERIAN_PIDGIN (no training data)
+  126,  // 198 ext EXTREMADURAN
+  137,  // 199 nyn NYANKORE
+  131,  // 200 guw GUN
+  138,  // 201 pcm NIGERIAN_PIDGIN
     0,  // 202 ace ACEHNESE (no training data)
     0,  // 203
     0,  // 204
@@ -3144,20 +3144,23 @@ extern const uint16 kPLangToLanguageLatn[256] = {
   WARAY_PHILIPPINES,     // 121
   ACEF_CREOLE,           // 122 (acf)
   ARAGONESE,             // 123 (arg)
-  CENTRAL_BIKOL,         // 124 (bcl)
-  BIKOL,                 // 125 (bik)
-  CRIMEAN_TATAR,         // 126 (crh)
+  BIKOL,                 // 124 (bik/bcl)
+  CRIMEAN_TATAR,         // 125 (crh)
+  EXTREMADURAN,          // 126 (ext)
   FULFULDE,              // 127 (fuv)
   GUADELOUPE_CREOLE,     // 128 (gcf)
   GUIANESE_CREOLE,       // 129 (gcr)
   GOAN_KONKANI,          // 130 (gom)
-  KABYLE,                // 131 (kab)
-  KIKUYU,                // 132 (kik)
-  LIGURIAN,              // 133 (lij)
-  LATGALIAN,             // 134 (ltg)
-  REUNION_CREOLE,        // 135 (rcf)
-  VENETIAN,              // 136 (vec)
-  UNKNOWN_LANGUAGE,      // 142
+  GUN,                   // 131 (guw)
+  KABYLE,                // 132 (kab)
+  KIKUYU,                // 133 (kik)
+  LIGURIAN,              // 134 (lij)
+  LINGALA,               // 135 (lin)
+  LATGALIAN,             // 136 (ltg)
+  NYANKORE,              // 137 (nyn)
+  NIGERIAN_PIDGIN,       // 138 (pcm)
+  REUNION_CREOLE,        // 139 (rcf)
+  VENETIAN,              // 140 (vec)
   UNKNOWN_LANGUAGE,      // 143
   UNKNOWN_LANGUAGE,      // 144
   UNKNOWN_LANGUAGE,      // 145
@@ -3404,14 +3407,8 @@ extern const uint16 kPLangToLanguageOthr[256] = {
   UNKNOWN_LANGUAGE,      // 126
   UNKNOWN_LANGUAGE,      // 127
   UNKNOWN_LANGUAGE,      // 128
-  GUIANESE_CREOLE,       // 129 (gcr) - also in Othr for completeness
+  UNKNOWN_LANGUAGE,      // 129
   GOAN_KONKANI,          // 130 (gom) - Devanagari script
-  KABYLE,                // 131 (kab)
-  KIKUYU,                // 132 (kik)
-  LIGURIAN,              // 133 (lij)
-  LATGALIAN,             // 134 (ltg)
-  REUNION_CREOLE,        // 135 (rcf)
-  VENETIAN,              // 136 (vec)
   UNKNOWN_LANGUAGE,      // 137
   UNKNOWN_LANGUAGE,      // 138
   UNKNOWN_LANGUAGE,      // 139

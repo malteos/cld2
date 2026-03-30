@@ -126,6 +126,7 @@ COMMONLID_ALIASES = {
     "grc": "ell",   # Ancient Greek -> Greek
     "fil": "tgl",   # Filipino -> Tagalog
     "gug": "grn",   # Paraguayan Guaraní -> Guaraní (CLD2: gn)
+    "bcl": "bik",   # Central Bikol -> Bikol (same language family)
 }
 
 # Set of ISO 639-3 codes that CLD2 can detect
@@ -238,9 +239,9 @@ def compute_metrics(true_labels, pred_labels):
 
 def main():
     parser = argparse.ArgumentParser(description="Evaluate CLD2 on CommonLID")
-    parser.add_argument("--data", default="data/commonlid/commonlid.tsv.gz",
+    parser.add_argument("--data", default="data/evaluation/commonlid.tsv.gz",
                         help="Path to CommonLID TSV.gz file")
-    parser.add_argument("--output", default="data/commonlid/results",
+    parser.add_argument("--output", default="data/evaluation/results",
                         help="Output directory for detailed results")
     parser.add_argument("--binary", default="tools/cld2_detect",
                         help="Path to cld2_detect binary")
