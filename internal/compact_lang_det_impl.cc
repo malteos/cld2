@@ -982,7 +982,7 @@ void RemoveExtendedLanguages(DocTote* doc_tote) {
 }
 
 static const int kMinReliableKeepPercent = 41;  // Remove lang if reli < this
-static const int kMinReliableKeepPercentT2 = 52; // Stricter for table 2 langs
+static const int kMinReliableKeepPercentT2 = 60; // Stricter for table 2 langs
 
 // For Tier3 languages, require a minimum number of bytes to be first-place lang
 static const int kGoodFirstT3MinBytes = 24;         // <this => no first
