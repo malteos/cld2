@@ -21,6 +21,7 @@
 #include <string.h>
 
 #include "fixunicodevalue.h"
+#include "generated_ulscript.h"
 #include "lang_script.h"
 #include "port.h"
 #include "utf8statetable.h"
@@ -477,7 +478,25 @@ bool inline IsSpecial(char c) {
 
 // Quick Skip to next letter or < > & or to end of string (eos)
 // Always return is_letter for eos
+// 1 = stop (ASCII letter or special < > &), 0 = continue scanning
+static const uint8 kAsciiStopByte[128] = {
+  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,
+  0,0,0,0,0,0,1,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,1,0,1,0,
+  0,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1, 1,1,1,0,0,0,0,0,
+  0,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1, 1,1,1,0,0,0,0,0,
+};
+
 int ScanToLetterOrSpecial(const char* src, int len) {
+  const uint8* usrc = reinterpret_cast<const uint8*>(src);
+  int i = 0;
+  // Fast path: skip ASCII non-letter, non-special bytes
+  while (i < len && usrc[i] < 0x80 && !kAsciiStopByte[usrc[i]]) {
+    ++i;
+  }
+  if (i >= len || usrc[i] < 0x80) {
+    return i;  // Found an ASCII stop byte or end of input
+  }
+  // Non-ASCII byte encountered: fall back to full state machine from start
   int bytes_consumed;
   StringPiece str(src, len);
   UTF8GenericScan(&utf8scannot_lettermarkspecial_obj, str, &bytes_consumed);
@@ -500,7 +519,7 @@ int ScanToLetterOrSpecial(const char* src, int len) {
 //          |    | end of string
 // advances <tag <tag2>
 //          ||
-int ScanToPossibleLetter(const char* isrc, int len, int max_exit_state) {
+__attribute__((hot)) int ScanToPossibleLetter(const char* isrc, int len, int max_exit_state) {
   const uint8* src = reinterpret_cast<const uint8*>(isrc);
   const uint8* srclimit = src + len;
   const uint8* tagParseTbl = kTagParseTbl_0;
@@ -552,8 +571,6 @@ ScriptScanner::ScriptScanner(const char* buffer,
   letters_marks_only_(true),
   one_script_only_(true),
   exit_state_(kMaxExitStateLettersMarksOnly) {
-    script_buffer_ = new char[kMaxScriptBuffer];
-    script_buffer_lower_ = new char[kMaxScriptLowerBuffer];
     map2original_.Clear();    // map from script_buffer_ to buffer
     map2uplow_.Clear();       // map from script_buffer_lower_ to script_buffer_
 }
@@ -571,16 +588,13 @@ ScriptScanner::ScriptScanner(const char* buffer,
   letters_marks_only_(!any_text),
   one_script_only_(!any_script),
   exit_state_(any_text ? kMaxExitStateAllText : kMaxExitStateLettersMarksOnly) {
-    script_buffer_ = new char[kMaxScriptBuffer];
-    script_buffer_lower_ = new char[kMaxScriptLowerBuffer];
     map2original_.Clear();    // map from script_buffer_ to buffer
     map2uplow_.Clear();       // map from script_buffer_lower_ to script_buffer_
 }
 
 
 ScriptScanner::~ScriptScanner() {
-  delete[] script_buffer_;
-  delete[] script_buffer_lower_;
+  // script_buffer_ and script_buffer_lower_ are now member arrays, no delete needed
 }
 
 
@@ -796,7 +810,7 @@ bool ScriptScanner::GetOneTextSpan(LangSpan* span) {
 
 // Copy next run of same-script non-tag letters to buffer [NUL terminated]
 // Buffer ALWAYS has leading space and trailing space space space NUL
-bool ScriptScanner::GetOneScriptSpan(LangSpan* span) {
+bool __attribute__((hot)) ScriptScanner::GetOneScriptSpan(LangSpan* span) {
   if (!letters_marks_only_) {
     // Return non-tag text, including punctuation and digits
     return GetOneTextSpan(span);
@@ -863,6 +877,25 @@ bool ScriptScanner::GetOneScriptSpan(LangSpan* span) {
     bool need_break = false;
 
     while (take < byte_length_) {
+      // Fast path for ASCII Latin letters in Latin spans (most common case)
+      if (spanscript == 1 && !is_plain_text_) {
+        // Batch-copy ASCII letters (a-z, A-Z) without per-char checks
+        while (take < byte_length_ && put < kMaxScriptBytes) {
+          uint8 c = static_cast<uint8>(next_byte_[take]);
+          if ((c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z')) {
+            script_buffer_[put] = next_byte_[take];
+            ++take; ++put; ++letter_count;
+            map2original_.Copy(1);
+          } else {
+            break;
+          }
+        }
+        if (take >= byte_length_ || put >= kMaxScriptBytes) {
+          sc = spanscript;
+          break;
+        }
+      }
+
       // We are at a letter, nonletter, tag, or entity
       if (IsSpecial(next_byte_[take]) && !is_plain_text_) {
         if (next_byte_[take] == '<') {
@@ -1030,16 +1063,28 @@ bool ScriptScanner::GetOneScriptSpan(LangSpan* span) {
 // List changes with each version of Unicode, so just always lowercase
 // Unicode 6.2.0:
 //   ARMENIAN COPTIC CYRILLIC DESERET GEORGIAN GLAGOLITIC GREEK LATIN
-void ScriptScanner::LowerScriptSpan(LangSpan* span) {
-  // If needed, lowercase all the text. If we do it sooner, might miss
-  // lowercasing an entity such as &Aacute;
-  // We only need to do this for Latn and Cyrl scripts
+void __attribute__((hot)) ScriptScanner::LowerScriptSpan(LangSpan* span) {
+  // Fast path: if text is all ASCII, do simple lowering in-place
+  const uint8* text = reinterpret_cast<const uint8*>(span->text);
+  int len = span->text_bytes;
+  bool all_ascii = true;
+  for (int i = 0; i < len; ++i) {
+    if (text[i] >= 0x80) { all_ascii = false; break; }
+  }
+  if (all_ascii) {
+    // Lowercase ASCII in-place (safe since script_buffer_ is writable)
+    char* buf = const_cast<char*>(span->text);
+    for (int i = 0; i < len; ++i) {
+      if (buf[i] >= 'A' && buf[i] <= 'Z') {
+        buf[i] += 32;
+      }
+    }
+    // No need to change span->text or text_bytes - it's already in script_buffer_
+    return;
+  }
+
+  // Full Unicode lowercase for non-ASCII text
   map2uplow_.Clear();
-  // Full Unicode lowercase of the entire buffer, including
-  // four pad bytes off the end.
-  // Ahhh. But the last byte 0x00 is not interchange-valid, so we do 3 pad
-  // bytes and put the 0x00 in explicitly.
-  // Build an offset map from script_buffer_lower_ back to script_buffer_
   int consumed, filled, changed;
   StringPiece istr(span->text, span->text_bytes + 3);
   StringPiece ostr(script_buffer_lower_, kMaxScriptLowerBuffer);
@@ -1056,10 +1101,22 @@ void ScriptScanner::LowerScriptSpan(LangSpan* span) {
 // Copy next run of same-script non-tag letters to buffer [NUL terminated]
 // Force Latin, Cyrillic, Greek scripts to be lowercase
 // Buffer ALWAYS has leading space and trailing space space space NUL
+// Scripts that have uppercase/lowercase distinctions
+static inline bool ScriptHasCase(ULScript ulscript) {
+  return ulscript == ULScript_Latin ||
+         ulscript == ULScript_Greek ||
+         ulscript == ULScript_Cyrillic ||
+         ulscript == ULScript_Armenian ||
+         ulscript == ULScript_Georgian;
+}
+
 bool ScriptScanner::GetOneScriptSpanLower(LangSpan* span) {
   bool ok = GetOneScriptSpan(span);
   if (ok) {
-    LowerScriptSpan(span);
+    // Only lowercase scripts that have case distinctions
+    if (ScriptHasCase(span->ulscript)) {
+      LowerScriptSpan(span);
+    }
   }
   return ok;
 }
@@ -1078,9 +1135,23 @@ int ScriptScanner::MapBack(int text_offset) {
 }
 
 
+// Fast ASCII lookup: 0=non-letter, 1=Latin letter
+static const uint8 kAsciiLetterScript[128] = {
+  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,
+  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,
+  0,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1, 1,1,1,0,0,0,0,0,
+  0,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1, 1,1,1,0,0,0,0,0,
+};
+
 // Gets lscript number for letters; always returns
 //   0 (common script) for non-letters
 int GetUTF8LetterScriptNum(const char* src) {
+  uint8 c = *reinterpret_cast<const uint8*>(src);
+  if (c < 0x80) {
+    // Fast path for ASCII: Latin letters return 1, everything else 0
+    return kAsciiLetterScript[c];
+  }
+  // Non-ASCII: use the full state machine
   int srclen = UTF8OneCharLen(src);
   const uint8* usrc = reinterpret_cast<const uint8*>(src);
   return UTF8GenericPropertyTwoByte(&utf8prop_lettermarkscriptnum_obj,

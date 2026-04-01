@@ -214,7 +214,7 @@ void ScoreOneChunk(const char* text, ULScript ulscript,
   int first_linear_in_chunk = hitbuffer->chunk_start[chunk_i];
   int first_linear_in_next_chunk = hitbuffer->chunk_start[chunk_i + 1];
 
-  chunk_tote->Reinit();
+  // chunk_tote->Reinit() removed — caller passes freshly constructed Tote
   cspan->delta_len = 0;
   cspan->distinct_len = 0;
   if (scoringcontext->flags_cld2_verbose) {
@@ -1164,8 +1164,9 @@ void ScoreCJKScriptSpan(const LangSpan& scriptspan,
                         ScoringContext* scoringcontext,
                         DocTote* doc_tote,
                         ResultChunkVector* vec) {
-  // Allocate three parallel arrays of scoring hits
-  ScoringHitBuffer* hitbuffer = new ScoringHitBuffer;
+  // Stack-allocate scoring hit buffer to avoid heap overhead
+  ScoringHitBuffer hitbuffer_storage;
+  ScoringHitBuffer* hitbuffer = &hitbuffer_storage;
   hitbuffer->init();
   hitbuffer->ulscript = scriptspan.ulscript;
 
@@ -1208,7 +1209,7 @@ void ScoreCJKScriptSpan(const LangSpan& scriptspan,
     letter_offset = next_offset;
   }
 
-  delete hitbuffer;
+  // hitbuffer is stack-allocated, no delete needed
   // Context across buffers is not connected yet
   scoringcontext->prior_chunk_lang = UNKNOWN_LANGUAGE;
 }
@@ -1232,8 +1233,9 @@ void ScoreQuadScriptSpan(const LangSpan& scriptspan,
                          ScoringContext* scoringcontext,
                          DocTote* doc_tote,
                          ResultChunkVector* vec) {
-  // Allocate three parallel arrays of scoring hits
-  ScoringHitBuffer* hitbuffer = new ScoringHitBuffer;
+  // Stack-allocate scoring hit buffer to avoid heap overhead
+  ScoringHitBuffer hitbuffer_storage;
+  ScoringHitBuffer* hitbuffer = &hitbuffer_storage;
   hitbuffer->init();
   hitbuffer->ulscript = scriptspan.ulscript;
 
@@ -1273,7 +1275,7 @@ void ScoreQuadScriptSpan(const LangSpan& scriptspan,
     letter_offset = next_offset;
   }
 
-  delete hitbuffer;
+  // hitbuffer is stack-allocated, no delete needed
 }
 
 

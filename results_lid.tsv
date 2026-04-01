@@ -1,0 +1,14 @@
+commit	macro_f1	micro_f1	coverage	status	description
+2af08d2	0.4598	0.8694	0.7667	keep	baseline (CLD2 as-is on CommonLID 109 langs)
+646bdec	0.6391	0.9202	0.7667	keep	switch to full 0122 tables (160+ lang-scripts)
+763810c	0.6489	0.9216	0.7778	keep	fix ory/gug language code mappings
+b0849b4	0.6597	0.9241	0.8000	keep	add Aragonese (arg) + Venetian (vec)
+f2b3d10	0.6616	0.9230	0.8889	keep	add 8 more langs (bik/acf/crh/rcf/gom/bcl/lij/kab)
+ab8cf7f	0.6712	0.9230	1.0000	keep	100% coverage: add gcr/kik/ltg/fuv/gcf + 5 more
+5c3498d	0.7128	0.9279	1.0000	keep	dual-table scoring + Devanagari support + more contrast
+e9b7708	0.7430	0.9296	1.0000	discard	fix prob encoding (train-test leakage via CommonLID)
+469439a	0.7097	0.9228	1.0000	keep	clean rebuild: GlotLID-only training + contrast (no leakage)
+e2a9584	0.7117	0.9233	1.0000	keep	add hand-written training data for acf/gcr/lin/gcf
+7ab1284	0.7087	0.9131	1.0000	discard	2x score boost for kQuad_obj2 (acf 0.15->0.40)
+cf6a03b	0.7112	0.9136	1.0000	discard	inject acf only into main table (superseded)
+280ce37	0.7097	0.9120	1.0000	keep	inject acf/gcr/gcf/lin into main table with replacement
