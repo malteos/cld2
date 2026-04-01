@@ -28,7 +28,7 @@
 \begin{abstract}
 Google's Compact Language Detector~2 (CLD2) remains widely deployed for fast language identification, yet its default configuration recognizes only 71~language-script combinations---leaving many languages undetectable.
 We present a method to extend CLD2's coverage to over 100~languages without retraining its primary data tables.
-Through 29~incremental experiments on the CommonLID benchmark (373K~samples, 89~languages), we improve macro~\fone{} from 0.4650 to 0.7676 (+65\% relative) and micro~\fone{} from 0.8694 to 0.9330.
+Through 28~incremental experiments on the CommonLID benchmark (373K~samples, 89~languages), we improve macro~\fone{} from 0.4650 to 0.7676 (+65\% relative) and micro~\fone{} from 0.8694 to 0.9330.
 The gains come from five complementary strategies:
 (1)~activating CLD2's unused full-size quadgram tables (120+ language-script pairs);
 (2)~generating a second quadgram table for 17~previously unsupported languages from the GlotLID corpus;
@@ -171,9 +171,9 @@ This is a one-time registration step; the quadgram data for these languages is p
 \section{Experiments}
 \label{sec:experiments}
 
-We conduct 29~experiments in two phases.
+We conduct 28~experiments in two phases.
 Phase~1 (experiments 0--11) establishes the table generation and dual-scoring infrastructure.
-Phase~2 (experiments 12--29) tunes the scoring engine parameters.
+Phase~2 (experiments 12--27) tunes the scoring engine parameters.
 Table~\ref{tab:progress} summarizes the key milestones.
 
 \begin{table}[t]
@@ -192,13 +192,13 @@ Table~\ref{tab:progress} summarizes the key milestones.
 12 & + 64K hash buckets & 0.7304 & 0.9263 \\
 13 & + chunk size 50 & 0.7358 & 0.9282 \\
 16 & + tiered score boost & 0.7386 & 0.9280 \\
-21 & + gram count = 8 (fixed) & 0.7528 & 0.9288 \\
-23 & + reliability cap 25$\times n$ & 0.7562 & 0.9337 \\
-28 & + UNK threshold = 55\% & 0.7664 & 0.9328 \\
-29 & + chunk size 150 & \textbf{0.7676} & \textbf{0.9330} \\
+19 & + gram count = 8 (fixed) & 0.7528 & 0.9288 \\
+21 & + reliability cap 25$\times n$ & 0.7562 & 0.9337 \\
+26 & + UNK threshold = 55\% & 0.7664 & 0.9328 \\
+27 & + chunk size 150 & \textbf{0.7676} & \textbf{0.9330} \\
 \bottomrule
 \end{tabular}
-\caption{Key experiment milestones (full list in Appendix~\ref{app:experiments}). Phase~1 (\#0--11) builds the table infrastructure; Phase~2 (\#12--29) tunes scoring parameters.}
+\caption{Key experiment milestones (full list in Appendix~\ref{app:experiments}). Phase~1 (\#0--11) builds the table infrastructure; Phase~2 (\#12--27) tunes scoring parameters.}
 \label{tab:progress}
 \end{table}
 
@@ -237,7 +237,7 @@ $\tau$ & Macro & Micro & $k$ & Macro & Micro \\
 \label{tab:threshold}
 \end{table}
 
-\subsection{Phase 2: Scoring engine tuning (\#12--\#29)}
+\subsection{Phase 2: Scoring engine tuning (\#12--\#27)}
 \label{sec:phase2}
 
 Phase~2 discovers that CLD2's default scoring parameters were suboptimal for the dual-table configuration.
@@ -270,11 +270,11 @@ Applying a stricter reliability threshold (60\% vs.\ 41\%) specifically for tabl
 \begin{figure}[t]
 \centering
 \includegraphics[width=\linewidth]{figures/progress_lid.png}
-\caption{Macro and micro \fone{} across 29 experiments. Horizontal lines show GlotLID v3 and OpenLID-v3 baselines. CLD2 surpasses both on both metrics by experiment~13.}
+\caption{Macro and micro \fone{} across all 28 experiments. Horizontal lines show GlotLID v3 and OpenLID-v3 baselines. CLD2 surpasses both on both metrics by experiment~13.}
 \label{fig:progress}
 \end{figure}
 
-Figure~\ref{fig:progress} shows the macro and micro \fone{} trajectory across all 29~experiments.
+Figure~\ref{fig:progress} shows the macro and micro \fone{} trajectory across all 28~experiments.
 The final configuration achieves macro~\fone{} = 0.7676 and micro~\fone{} = 0.9330.
 Phase~1 contributes the majority of macro~\fone{} improvement (+0.265), while Phase~2 adds a further +0.038 through parameter tuning.
 
@@ -405,24 +405,62 @@ These parameters interact non-linearly: chunk size was re-optimized three times 
 Applying tiered boosts (+1 to +4) for high-precision/low-recall languages and penalties ($-$1) for high-FP languages improved macro~\fone{} by +0.008 cumulatively.
 Notably, boosting Goan Konkani by +4 was safe because its Devanagari quadgrams cannot collide with Latin-script languages.
 
+\paragraph{Less is more for table~2.}
+Counterintuitively, reducing quadgrams per language from 50K to 4K \emph{improved} both metrics.
+With too many quadgrams, low-frequency entries caused hash collisions with unrelated languages, generating false positives without contributing meaningful signal.
+
+\paragraph{Contrast filtering with comprehensive tables.}
+When the primary table comprehensively covers contrast languages, filtering shared quadgrams from the secondary table reliably reduces false positives.
+The optimal threshold $\tau{=}1.0$ has an intuitive interpretation: only suppress a quadgram if it is \emph{more common} in a primary-table language than in the target language.
+The same filter is harmful with sparse primary tables (see below).
+
 \subsection{What did not work}
+\label{sec:didntwork}
 
 \paragraph{Contrast filtering with sparse tables.}
 The same filtering strategy that improved results by +0.012 with the 0122 tables \emph{degraded} results by $-$0.043 with the Chrome tables.
 Shared quadgrams serve as signal amplifiers when primary coverage is sparse.
+This context-dependence is the paper's most counterintuitive finding.
 
 \paragraph{Adding primary-table languages to secondary table.}
 Adding Lingala (already in the 0122 table, PLang~69) to the secondary table produced 490~false positives and 0~true positives.
+The primary table's calibrated probabilities cannot be supplemented by crude secondary entries for the same language.
 
 \paragraph{Score boosting 2$\times$ for all table~2 languages.}
 Doubling all table~2 scores caused massive false positives ($-$0.042 macro~\fone{}).
 The selective, tiered approach was essential.
+Relatedly, reverting to the original fallback-only logic (table~2 fires only when table~1 misses) dropped macro~\fone{} by $-$0.010, confirming that dual scoring is necessary.
 
 \paragraph{Solo-hit double-recording.}
 Recording table~2 hits twice when table~1 had no match (intending to boost uniquely table-2 quadgrams) crashed both metrics ($-$0.04 macro, $-$0.015 micro).
 
 \paragraph{Additional contrast languages.}
 Adding Swahili, Occitan, Tatar, or Hindi/Marathi as contrast languages either hurt or was neutral in every combination tested.
+Swahili contrast helped Kikuyu ($-$31 FPs) but hurt Crimean Tatar, illustrating that contrast effects propagate unpredictably across languages.
+
+\paragraph{Probability index tuning.}
+Fixed probability indices for indirect table entries (high values for strong single-language entries, moderate values, frequency-calibrated values) all underperformed the simple frequency-based formula.
+The existing \texttt{kLgProbV2Tbl} lookup table was designed for naturally distributed probability patterns; artificial fixed indices disrupted the scoring balance.
+
+\paragraph{Expected-score calibration.}
+Setting non-zero \texttt{kAvgDeltaOctaScore} values for new languages caused a slight regression.
+CLD2's \texttt{ReliabilityExpected()} returns 100\% reliability when the expected score is zero (no data available); adding expected scores made the reliability check stricter, rejecting some correct predictions.
+
+\paragraph{Close-set grouping.}
+CLD2's \texttt{LanguageCloseSet} mechanism treats grouped languages as interchangeable---the higher-scoring language always wins.
+Adding Aragonese to Spanish's close set would improve reliability but would always return Spanish, defeating the purpose of extending coverage.
+
+\paragraph{Alternative table sets.}
+The 0720 quadgram tables with 0527 delta/octa scoring gave macro~\fone{} = 0.714 (vs.\ 0.730 with 0122).
+The \emph{quadchrome\_16} tables had the same 71-language coverage as quadchrome\_2, providing no benefit.
+
+\paragraph{Mutual contrast between new languages.}
+Using other new languages as contrast for each other (e.g., penalizing Aragonese quadgrams that also appear in Occitan) consistently hurt performance.
+These languages share legitimate quadgrams that distinguish them from primary-table languages; removing shared quadgrams between new languages left too few entries for any of them.
+
+\paragraph{Adaptive quadgram counts and relaxed repeat filter.}
+Automatically reducing quadgram counts for languages with high contrast overlap gave 0.727 (vs.\ 0.730 baseline).
+Relaxing the quadgram repeat filter (from 2-entry to 1-entry deduplication) also degraded results ($-$0.001 macro~\fone{}), as the redundant scoring introduced noise without adding discriminative signal.
 
 \subsection{Limitations}
 
@@ -445,7 +483,7 @@ Our work is most closely related to efforts to extend CLD2 via its dynamic-loadi
 %------------------------------------------------------------------
 \section{Conclusion}
 
-We demonstrated that CLD2's language coverage can be substantially extended through table selection, dual-table scoring, contrast-filtered table generation, per-language score calibration, and systematic parameter tuning---achieving a 65\% relative improvement in macro~\fone{} on CommonLID across 29~experiments.
+We demonstrated that CLD2's language coverage can be substantially extended through table selection, dual-table scoring, contrast-filtered table generation, per-language score calibration, and systematic parameter tuning---achieving a 65\% relative improvement in macro~\fone{} on CommonLID across 28 experiments.
 The extended system outperforms both GlotLID's macro~\fone{} (0.7676 vs.\ 0.7354) and micro~\fone{} (0.9330 vs.\ 0.8015) at 76$\times$ the throughput.
 
 Our analysis reveals two key findings applicable beyond CLD2:
@@ -494,7 +532,7 @@ Nyankore & nyn & 199 & 135 \\
 \section{Full experiment log}
 \label{app:experiments}
 
-Table~\ref{tab:fulllog} lists all 29 experiments with their macro and micro \fone{} scores.
+Table~\ref{tab:fulllog} lists all 28 experiments with their macro and micro \fone{} scores.
 
 \begin{table*}[h]
 \centering
