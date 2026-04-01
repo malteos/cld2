@@ -40,7 +40,7 @@ namespace CLD2 {
 
 static const int kMinCJKUTF8CharBytes = 3;
 
-static const int kMinGramCount = 3;
+static const int kMinGramCount = 8;
 static const int kMaxGramCount = 16;
 
 static const int UTFmax = 4;        // Max number of bytes in a UTF-8 character
