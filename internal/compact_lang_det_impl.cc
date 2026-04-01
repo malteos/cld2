@@ -982,6 +982,7 @@ void RemoveExtendedLanguages(DocTote* doc_tote) {
 }
 
 static const int kMinReliableKeepPercent = 41;  // Remove lang if reli < this
+static const int kMinReliableKeepPercentT2 = 52; // Stricter for table 2 langs
 
 // For Tier3 languages, require a minimum number of bytes to be first-place lang
 static const int kGoodFirstT3MinBytes = 24;         // <this => no first
@@ -1083,8 +1084,12 @@ void RemoveUnreliableLanguages(DocTote* doc_tote,
 
     // Reliable percent is stored as reliable score over stored bytecount
     int reliable_percent = reli / bytes;
-    if (reliable_percent >= kMinReliableKeepPercent) {  // Keeper?
-       continue;                                        // yes
+    // Use stricter threshold for table 2 languages (PLang >= 122)
+    int plang_ps = PerScriptNumber(ULScript_Latin, lang);
+    int threshold = (plang_ps >= 122) ? kMinReliableKeepPercentT2 :
+                                        kMinReliableKeepPercent;
+    if (reliable_percent >= threshold) {  // Keeper?
+       continue;                          // yes
     }
 
     // Delete unreliable entry
