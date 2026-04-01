@@ -39,7 +39,7 @@ CLD2_SOURCES := \
 	$(CLD2_SRC)/cld2_generated_distinctoctachrome.cc \
 	$(CLD2_SRC)/cld_generated_score_quad_octa_2.cc
 
-.PHONY: setup extract benchmark run clean
+.PHONY: setup extract benchmark run evaluate clean
 
 # Python venv (for WARC extraction only)
 setup: $(VENV)/bin/activate
@@ -73,5 +73,15 @@ benchmark: extract tools/benchmark_bin
 run: clean tools/benchmark_bin
 	./tools/benchmark_bin
 
+# Compile CLD2 line-level detection CLI
+tools/cld2_detect: tools/cld2_detect.cc $(CLD2_SOURCES)
+	$(CXX) $(CXXFLAGS) -I$(CLD2_SRC) -Ipublic \
+		tools/cld2_detect.cc $(CLD2_SOURCES) \
+		-o tools/cld2_detect
+
+# Run CommonLID evaluation (recompiles cld2_detect first)
+evaluate: tools/cld2_detect
+	$(PYTHON) tools/evaluate_lid.py
+
 clean:
-	rm -f tools/benchmark_bin
+	rm -f tools/benchmark_bin tools/cld2_detect
