@@ -125,17 +125,19 @@ static const int UTFmax = 4;        // Max number of bytes in a UTF-8 character
 // Input: 4-byte entry of 3 language numbers and one probability subscript, plus
 //  an accumulator tote. (language 0 means unused entry)
 // Output: running sums in tote updated
-// Score boost for table 2 languages: +2 for very-high-precision, +1 for moderate
+// Score boost for table 2 languages based on precision/recall ratio
 static inline int BoostAmount(uint8 plang) {
   // +4 for gom(139) (Devanagari, very high prec, very low recall)
   if (plang == 139) return 4;
+  // +3 for ltg(138) (precision 0.93, recall 0.34)
+  if (plang == 138) return 3;
   // +2 for languages with high precision, low recall:
-  // acf(125), kab(129)
-  if (plang == 125 || plang == 129) return 2;
+  // acf(125), lij(128), kab(129), gcr(130), crh(126)
+  if (plang == 125 || plang == 126 || plang == 128 || plang == 129 ||
+      plang == 130) return 2;
   // +1 for others with moderate precision, low recall:
-  // arg(122),vec(123),bik(124),crh(126),rcf(127),gcf(133),ltg(138)
-  if ((plang >= 122 && plang <= 124) || plang == 126 || plang == 127 ||
-      plang == 133 || plang == 138) return 1;
+  // arg(122),vec(123),bik(124),rcf(127),gcf(133)
+  if ((plang >= 122 && plang <= 124) || plang == 127 || plang == 133) return 1;
   // -1 penalty for high-FP languages (high recall, very low precision):
   // kik(131), ext(134), guw(136)
   if (plang == 131 || plang == 134 || plang == 136) return -1;
