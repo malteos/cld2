@@ -217,7 +217,7 @@ static const int kMaxSpaceScan = 32;          // Bytes
 
 static const int kGoodLang1Percent = 70;
 static const int kGoodLang1and2Percent = 93;
-static const int kShortTextThresh = 256;      // Bytes
+static const int kShortTextThresh = 32;      // Bytes
 
 static const int kMinChunkSizeQuads = 4;      // Chunk is at least four quads
 static const int kMaxChunkSizeQuads = 1024;   // Chunk is at most 1K quads
