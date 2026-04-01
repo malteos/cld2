@@ -574,7 +574,7 @@ void GetOctaHits(const char* text,
 int ReliabilityDelta(int value1, int value2, int gramcount) {
   int max_reliability_percent = 100;
   if (gramcount < 8) {
-    max_reliability_percent = 12 * gramcount;
+    max_reliability_percent = 25 * gramcount;
   }
   int fully_reliable_thresh = (gramcount * 5) >> 3;     // see note above
   if (fully_reliable_thresh < kMinGramCount) {          // Fully = 3..16
