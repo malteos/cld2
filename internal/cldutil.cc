@@ -125,16 +125,36 @@ static const int UTFmax = 4;        // Max number of bytes in a UTF-8 character
 // Input: 4-byte entry of 3 language numbers and one probability subscript, plus
 //  an accumulator tote. (language 0 means unused entry)
 // Output: running sums in tote updated
+// PLangs that benefit from a score boost (high precision, low recall)
+static inline bool NeedsBoost(uint8 plang) {
+  // arg(122),vec(123),bik(124),acf(125),crh(126),rcf(127),
+  // kab(129),gcf(133),ltg(138),gom(139)
+  return (plang >= 122 && plang <= 127) || plang == 129 ||
+         plang == 133 || plang == 138 || plang == 139;
+}
+
 void ProcessProbV2Tote(uint32 probs, Tote* tote) {
   uint8 prob123 = (probs >> 0) & 0xff;
   const uint8* prob123_entry = LgProb2TblEntry(prob123);
 
   uint8 top1 = (probs >> 8) & 0xff;
-  if (top1 > 0) {tote->Add(top1, LgProb3(prob123_entry, 0));}
+  if (top1 > 0) {
+    int score = LgProb3(prob123_entry, 0);
+    if (NeedsBoost(top1)) score += 1;
+    tote->Add(top1, score);
+  }
   uint8 top2 = (probs >> 16) & 0xff;
-  if (top2 > 0) {tote->Add(top2, LgProb3(prob123_entry, 1));}
+  if (top2 > 0) {
+    int score = LgProb3(prob123_entry, 1);
+    if (NeedsBoost(top2)) score += 1;
+    tote->Add(top2, score);
+  }
   uint8 top3 = (probs >> 24) & 0xff;
-  if (top3 > 0) {tote->Add(top3, LgProb3(prob123_entry, 2));}
+  if (top3 > 0) {
+    int score = LgProb3(prob123_entry, 2);
+    if (NeedsBoost(top3)) score += 1;
+    tote->Add(top3, score);
+  }
 }
 
 // Return score for a particular per-script language, or zero
