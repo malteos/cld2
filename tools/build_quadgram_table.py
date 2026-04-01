@@ -176,29 +176,57 @@ def build_table(lang_configs, training_dir, contrast_langs=None,
             if len(freqs) > 0:
                 contrast_freqs[lang_code] = freqs
 
+    # Pre-compute normalized frequencies for contrast and mutual filtering
+    print("Pre-computing normalized frequencies...", file=sys.stderr)
+    contrast_norm = {}  # {lang: {quad: freq}}
+    for c_code, c_freqs in contrast_freqs.items():
+        c_total = sum(c_freqs.values())
+        if c_total > 0:
+            contrast_norm[c_code] = {q: c / c_total for q, c in c_freqs.items()}
+
+    lang_norm = {}  # {lang: {quad: freq}}
+    for lang_code, freqs in lang_freqs.items():
+        total = sum(freqs.values())
+        if total > 0:
+            lang_norm[lang_code] = {q: c / total for q, c in freqs.items()}
+
+    # Build per-quadgram max contrast frequency for speed
+    all_contrast_quads = defaultdict(float)  # quad -> max normalized freq across contrast
+    for c_norms in contrast_norm.values():
+        for q, f in c_norms.items():
+            if f > all_contrast_quads[q]:
+                all_contrast_quads[q] = f
+
     # Step 2: For each language, select most distinctive quadgrams
     print("Selecting distinctive quadgrams...", file=sys.stderr)
-    # Build a combined frequency map: quadgram_hash -> [(lang, score), ...]
     hash_to_langs = defaultdict(list)  # hash -> [(plang, score)]
 
     for lang_code, freqs in lang_freqs.items():
         plang = lang_configs[lang_code]
-        total = sum(freqs.values())
-        if total == 0:
+        norms = lang_norm.get(lang_code, {})
+        if not norms:
             continue
 
-        # Score each quadgram by its distinctiveness
+        # Pre-compute max mutual freq for this language's quadgrams
+        mutual_max_map = defaultdict(float)
+        for other_code, other_norms in lang_norm.items():
+            if other_code == lang_code:
+                continue
+            for q in norms:
+                if q in other_norms and other_norms[q] > mutual_max_map[q]:
+                    mutual_max_map[q] = other_norms[q]
+
         scored = []
         for quad, count in freqs.items():
-            freq = count / total
-            # Check if this quadgram is common in contrast languages
-            contrast_score = 0
-            for c_code, c_freqs in contrast_freqs.items():
-                c_total = sum(c_freqs.values())
-                if c_total > 0 and quad in c_freqs:
-                    contrast_score += c_freqs[quad] / c_total
-            # Distinctiveness = frequency * (1 - contrast overlap)
-            distinctiveness = freq * max(0.1, 1.0 - contrast_score * 5)
+            freq = norms[quad]
+            contrast_max = all_contrast_quads.get(quad, 0)
+            mutual_max = mutual_max_map.get(quad, 0)
+
+            # Simple distinctiveness: just use raw frequency
+            # Contrast filtering is handled implicitly by the dual-table
+            # scoring: table 1 languages already have strong quadgram coverage,
+            # so table 2 entries only win when they have more distinctive data
+            distinctiveness = freq
             scored.append((quad, distinctiveness, count))
 
         # Keep top quadgrams by distinctiveness
