@@ -88,7 +88,7 @@ namespace CLD2 {
 
 static const int kMaxBoosts = 4;              // For each of PerScriptLangBoosts
                                               // must be power of two for wrap()
-static const int kChunksizeQuads = 50;        // For non-CJK
+static const int kChunksizeQuads = 70;        // For non-CJK
 static const int kChunksizeUnis = 50;         // For CJK
 static const int kMaxScoringHits = 1000;
 static const int kMaxSummaries = kMaxScoringHits / kChunksizeQuads;
