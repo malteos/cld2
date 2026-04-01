@@ -137,8 +137,8 @@ static inline int BoostAmount(uint8 plang) {
   if ((plang >= 122 && plang <= 124) || plang == 126 || plang == 127 ||
       plang == 133 || plang == 138) return 1;
   // -1 penalty for high-FP languages (high recall, very low precision):
-  // kik(131), ext(134), nyn(135), guw(136)
-  if (plang == 131 || plang == 134 || plang == 135 || plang == 136) return -1;
+  // kik(131), ext(134), guw(136)
+  if (plang == 131 || plang == 134 || plang == 136) return -1;
   return 0;
 }
 
