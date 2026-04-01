@@ -209,25 +209,25 @@ extern const char* const kLanguageToName[kLanguageToNameSize] = {
   "TUMBUKA",               // 180 tum
   "VENDA",                 // 181 ve
   "WARAY_PHILIPPINES",     // 182 war
-  "183",                   // 183
-  "184",                   // 184
-  "185",                   // 185
-  "186",                   // 186
-  "187",                   // 187
-  "188",                   // 188
-  "189",                   // 189
-  "190",                   // 190
-  "191",                   // 191
-  "192",                   // 192
-  "193",                   // 193
-  "194",                   // 194
-  "195",                   // 195
-  "196",                   // 196
-  "197",                   // 197
-  "198",                   // 198
-  "199",                   // 199
-  "200",                   // 200
-  "201",                   // 201
+  "ARAGONESE",             // 183 arg
+  "VENETIAN",              // 184 vec
+  "BIKOL",                 // 185 bik
+  "ACEF_CREOLE",           // 186 acf
+  "CRIMEAN_TATAR",         // 187 crh
+  "REUNION_CREOLE",        // 188 rcf
+  "GOAN_KONKANI",          // 189 gom
+  "CENTRAL_BIKOL",         // 190 bcl
+  "LIGURIAN",              // 191 lij
+  "KABYLE",                // 192 kab
+  "GUIANESE_CREOLE",       // 193 gcr
+  "KIKUYU",                // 194 kik
+  "LATGALIAN",             // 195 ltg
+  "FULFULDE",              // 196 fuv
+  "GUADELOUPE_CREOLE",     // 197 gcf
+  "EXTREMADURAN",          // 198 ext
+  "NYANKORE",              // 199 nyn
+  "GUN",                   // 200 guw
+  "NIGERIAN_PIDGIN",       // 201 pcm
   "202",                   // 202
   "203",                   // 203
   "204",                   // 204
@@ -828,25 +828,25 @@ extern const char* const kLanguageToCode[kLanguageToCodeSize] = {
   "tum",   // 180 TUMBUKA
   "ve",    // 181 VENDA
   "war",   // 182 WARAY_PHILIPPINES
-  "",      // 183 183
-  "",      // 184 184
-  "",      // 185 185
-  "",      // 186 186
-  "",      // 187 187
-  "",      // 188 188
-  "",      // 189 189
-  "",      // 190 190
-  "",      // 191 191
-  "",      // 192 192
-  "",      // 193 193
-  "",      // 194 194
-  "",      // 195 195
-  "",      // 196 196
-  "",      // 197 197
-  "",      // 198 198
-  "",      // 199 199
-  "",      // 200 200
-  "",      // 201 201
+  "arg",   // 183 ARAGONESE
+  "vec",   // 184 VENETIAN
+  "bik",   // 185 BIKOL
+  "acf",   // 186 ACEF_CREOLE
+  "crh",   // 187 CRIMEAN_TATAR
+  "rcf",   // 188 REUNION_CREOLE
+  "gom",   // 189 GOAN_KONKANI
+  "bcl",   // 190 CENTRAL_BIKOL
+  "lij",   // 191 LIGURIAN
+  "kab",   // 192 KABYLE
+  "gcr",   // 193 GUIANESE_CREOLE
+  "kik",   // 194 KIKUYU
+  "ltg",   // 195 LATGALIAN
+  "fuv",   // 196 FULFULDE
+  "gcf",   // 197 GUADELOUPE_CREOLE
+  "ext",   // 198 EXTREMADURAN
+  "nyn",   // 199 NYANKORE
+  "guw",   // 200 GUN
+  "pcm",   // 201 NIGERIAN_PIDGIN
   "",      // 202 202
   "",      // 203 203
   "",      // 204 204
@@ -2687,25 +2687,25 @@ extern const uint8 kLanguageToPLang[kLanguageToPLangSize] = {
   119,  // 180 tum
   120,  // 181 ve
   121,  // 182 war
-    0,  // 183
-    0,  // 184
-    0,  // 185
-    0,  // 186
-    0,  // 187
-    0,  // 188
-    0,  // 189
-    0,  // 190
-    0,  // 191
-    0,  // 192
-    0,  // 193
-    0,  // 194
-    0,  // 195
-    0,  // 196
-    0,  // 197
-    0,  // 198
-    0,  // 199
-    0,  // 200
-    0,  // 201
+  122,  // 183 ARAGONESE
+  123,  // 184 VENETIAN
+  124,  // 185 BIKOL
+  125,  // 186 ACEF_CREOLE
+  126,  // 187 CRIMEAN_TATAR
+  127,  // 188 REUNION_CREOLE
+  139,  // 189 GOAN_KONKANI
+  124,  // 190 CENTRAL_BIKOL (shares bik plang)
+  128,  // 191 LIGURIAN
+  129,  // 192 KABYLE
+  130,  // 193 GUIANESE_CREOLE
+  131,  // 194 KIKUYU
+  138,  // 195 LATGALIAN
+  132,  // 196 FULFULDE
+  133,  // 197 GUADELOUPE_CREOLE
+  134,  // 198 EXTREMADURAN
+  135,  // 199 NYANKORE
+  136,  // 200 GUN
+  137,  // 201 NIGERIAN_PIDGIN
     0,  // 202
     0,  // 203
     0,  // 204
@@ -3142,24 +3142,24 @@ extern const uint16 kPLangToLanguageLatn[256] = {
   TUMBUKA,               // 119
   VENDA,                 // 120
   WARAY_PHILIPPINES,     // 121
-  UNKNOWN_LANGUAGE,      // 122
-  UNKNOWN_LANGUAGE,      // 123
-  UNKNOWN_LANGUAGE,      // 124
-  UNKNOWN_LANGUAGE,      // 125
-  UNKNOWN_LANGUAGE,      // 126
-  UNKNOWN_LANGUAGE,      // 127
-  UNKNOWN_LANGUAGE,      // 128
-  UNKNOWN_LANGUAGE,      // 129
-  UNKNOWN_LANGUAGE,      // 130
-  UNKNOWN_LANGUAGE,      // 131
-  UNKNOWN_LANGUAGE,      // 132
-  UNKNOWN_LANGUAGE,      // 133
-  UNKNOWN_LANGUAGE,      // 134
-  UNKNOWN_LANGUAGE,      // 135
-  UNKNOWN_LANGUAGE,      // 136
-  UNKNOWN_LANGUAGE,      // 137
-  UNKNOWN_LANGUAGE,      // 138
-  UNKNOWN_LANGUAGE,      // 139
+  ARAGONESE,             // 122 (arg)
+  VENETIAN,              // 123 (vec)
+  BIKOL,                 // 124 (bik/bcl)
+  ACEF_CREOLE,           // 125 (acf)
+  CRIMEAN_TATAR,         // 126 (crh)
+  REUNION_CREOLE,        // 127 (rcf)
+  LIGURIAN,              // 128 (lij)
+  KABYLE,                // 129 (kab)
+  GUIANESE_CREOLE,       // 130 (gcr)
+  KIKUYU,                // 131 (kik)
+  FULFULDE,              // 132 (fuv)
+  GUADELOUPE_CREOLE,     // 133 (gcf)
+  EXTREMADURAN,          // 134 (ext)
+  NYANKORE,              // 135 (nyn)
+  GUN,                   // 136 (guw)
+  NIGERIAN_PIDGIN,       // 137 (pcm)
+  LATGALIAN,             // 138 (ltg)
+  GOAN_KONKANI,          // 139 (gom)
   UNKNOWN_LANGUAGE,      // 140
   UNKNOWN_LANGUAGE,      // 141
   UNKNOWN_LANGUAGE,      // 142
@@ -3419,7 +3419,7 @@ extern const uint16 kPLangToLanguageOthr[256] = {
   UNKNOWN_LANGUAGE,      // 136
   UNKNOWN_LANGUAGE,      // 137
   UNKNOWN_LANGUAGE,      // 138
-  UNKNOWN_LANGUAGE,      // 139
+  GOAN_KONKANI,          // 139 (gom) - Devanagari
   UNKNOWN_LANGUAGE,      // 140
   UNKNOWN_LANGUAGE,      // 141
   UNKNOWN_LANGUAGE,      // 142
