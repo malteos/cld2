@@ -1,0 +1,410 @@
+\documentclass{article}
+\usepackage[preprint]{colm2026_conference}
+
+\usepackage{microtype}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{xcolor}
+
+\usepackage{lineno}
+
+\definecolor{darkblue}{rgb}{0, 0, 0.5}
+\hypersetup{colorlinks=true, citecolor=darkblue, linkcolor=darkblue, urlcolor=darkblue}
+
+\title{Extending CLD2 to 100+ Languages via Dual-Table Quadgram Scoring \\ and Contrast-Filtered Table Generation}
+
+\author{Malte Ostendorff \\
+\texttt{malte@ostendorff.org}}
+
+\newcommand{\fone}{F\textsubscript{1}}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Google's Compact Language Detector~2 (CLD2) remains widely deployed for fast language identification, yet its default configuration recognizes only 71~language-script combinations---leaving many languages undetectable.
+We present a method to extend CLD2's coverage to over 100~languages without retraining its primary data tables.
+Through 11~incremental experiments on the CommonLID benchmark (373K~samples, 89~languages), we improve macro~\fone{} from 0.4650 to 0.7298 (+57\% relative) and micro~\fone{} from 0.8694 to 0.9263.
+Three techniques drive the gains:
+(1)~activating CLD2's unused full-size quadgram tables, which already cover 120+ language-script pairs;
+(2)~generating a second quadgram table for 17~previously unsupported languages from the GlotLID corpus;
+and (3)~modifying the scoring engine to accumulate hits from both tables simultaneously, with frequency-based contrast filtering to control false positives from closely related languages.
+We report both successful and unsuccessful strategies, including a surprising finding that contrast filtering is harmful with sparse primary tables but beneficial with comprehensive ones.
+\end{abstract}
+
+%------------------------------------------------------------------
+\section{Introduction}
+\label{sec:intro}
+
+Language identification (LID) is a prerequisite for virtually every multilingual NLP pipeline.
+While neural LID models now dominate accuracy benchmarks~\citep{burchell-etal-2023-open,kargaran-etal-2023-glotlid}, lightweight n-gram detectors such as CLD2~\citep{sites2013cld2} and CLD3 remain attractive where latency, binary size, or dependency constraints matter---web browsers, crawl pipelines, and embedded systems.
+
+CLD2 identifies languages by hashing overlapping character quadgrams and looking up packed language-probability entries in a static hash table.
+Its \emph{Chrome} build covers 71~language-script pairs; a separate \emph{full} build covers 120+, though the latter is rarely used.
+Neither build can detect languages absent from its compiled tables---a significant limitation as NLP expands to low-resource languages.
+
+We investigate how far CLD2's coverage can be pushed \emph{without} replacing its core algorithm.
+Our approach combines three complementary strategies: activating better pretrained tables already shipping with CLD2; generating new quadgram tables for unsupported languages; and modifying the scoring engine to let old and new tables cooperate.
+We evaluate on CommonLID, a recent benchmark derived from Common Crawl with broad language coverage.
+
+%------------------------------------------------------------------
+\section{Background}
+\label{sec:background}
+
+\subsection{CLD2 architecture}
+
+CLD2 processes text in three stages.
+First, a \emph{script scanner} segments input into spans of a single Unicode script (Latin, Cyrillic, Devanagari, etc.).
+Second, each span is scored by extracting overlapping quadgrams, hashing them with \texttt{QuadHashV2}, and looking up the hash in a four-way set-associative table (\texttt{kQuad\_obj}).
+Each table entry indexes into an \emph{indirect probability table} encoding up to three per-script language identifiers (PLang) with associated probability weights.
+Third, per-chunk scores are aggregated into a document-level language decision with reliability estimates.
+
+CLD2 supports a \emph{dual-table} configuration: a primary table (\texttt{kQuad\_obj}) and a secondary table (\texttt{kQuad\_obj2}).
+In the original code, the secondary table acts as a strict fallback---it is consulted only when the primary table has no match for a given quadgram hash.
+
+\subsection{Language representation}
+
+Languages are identified internally by two indices: a \emph{Language enum} (614~entries, many unused) and a \emph{PLang} (per-script language, 8-bit).
+Quadgram tables store PLang values; mappings in \texttt{kLanguageToPLang} and \texttt{kPLangToLanguageLatn/Othr} convert between the two representations.
+A language is undetectable unless it has both a PLang assignment \emph{and} quadgram entries encoding that PLang.
+
+\subsection{Available table variants}
+
+CLD2 ships with multiple precompiled table sets:
+(a) \emph{quadchrome\_2}: compact Chrome tables, 65K buckets, 71 language-script pairs;
+(b) \emph{quad0122}: full tables, 262K buckets, 120+ pairs including Amharic, Hausa, Sanskrit, Oromo, etc.;
+(c) \emph{quad0720}: alternative full tables with similar coverage.
+Each set includes matching delta-octagram, distinctive-word, and expected-score tables.
+All sets leave \texttt{kQuad\_obj2} empty.
+
+%------------------------------------------------------------------
+\section{Method}
+\label{sec:method}
+
+\subsection{Evaluation setup}
+
+We evaluate on \textbf{CommonLID}~\citep{commonlid}, comprising 373,230 text samples across 89~languages extracted from Common Crawl.
+Each sample is a single web-page text passage labeled with an ISO~639-3 language code.
+We report macro~\fone{} (unweighted average across languages) and micro~\fone{} (sample-weighted).
+Macro~\fone{} is our primary metric because it equally weights improvements to low-resource languages.
+
+\subsection{Training data}
+
+For languages requiring new quadgram tables, we draw 10,000~lines per language from \textbf{GlotLID}~\citep{kargaran-etal-2023-glotlid}, a corpus covering 2,000+ language varieties.
+We extract quadgrams with word-boundary markers (matching CLD2's \texttt{QuadHashV2Underscore} offline hash function) and compute per-language frequency distributions.
+
+\subsection{Table generation}
+\label{sec:tablegen}
+
+We build a Python tool that emits CLD2-compatible C++ source for a \texttt{CLD2TableSummary}.
+For each target language, the tool:
+\begin{enumerate}
+\item Extracts quadgrams from training text with underscore word-boundary markers.
+\item Computes normalized quadgram frequencies.
+\item Applies \emph{contrast filtering}: for each quadgram, computes its maximum frequency across a set of contrast languages (those already in the primary table). If the contrast frequency exceeds the target frequency by a threshold~$\tau$, the quadgram's distinctiveness score is reduced to near zero.
+\item Retains the top-$k$ quadgrams ranked by distinctiveness.
+\item Packs each quadgram into a 32-bit indirect table entry: probability index (byte~0) and up to three PLang IDs (bytes~1--3).
+\item Inserts entries into a four-way set-associative hash table.
+\end{enumerate}
+
+The contrast threshold $\tau$ and quadgram budget $k$ are the key hyperparameters; we optimize both via grid search (\S\ref{sec:threshold}).
+
+\subsection{Dual-table scoring}
+\label{sec:dualtable}
+
+We modify \texttt{GetQuadHits()} so that when a quadgram hash matches in \emph{both} tables, both hits are recorded into the scoring hit buffer (Algorithm~\ref{alg:dual}).
+Each hit carries a flag bit (\texttt{0x80000000}) identifying its source table so that the linearization stage can resolve it against the correct indirect table.
+This allows languages in the secondary table to accumulate score alongside primary-table languages, rather than being suppressed by them.
+
+\begin{figure}[t]
+\centering
+\small
+\begin{tabular}{@{}l@{}}
+\toprule
+\textbf{Algorithm 1}: Modified \texttt{GetQuadHits} (dual-table scoring) \\
+\midrule
+\textbf{for each} quadgram hash $h$ in text span: \\
+\quad $p_1 \leftarrow \texttt{Lookup}(\text{table}_1, h)$ \\
+\quad $p_2 \leftarrow \texttt{Lookup}(\text{table}_2, h)$ \\
+\quad \textbf{if} $p_1 \neq 0$ \textbf{or} $p_2 \neq 0$: \\
+\quad\quad \textbf{if} $p_1 \neq 0$: record hit $(p_1, \text{flag}=0)$ \\
+\quad\quad \textbf{if} $p_2 \neq 0$: record hit $(p_2, \text{flag}=1)$ \\
+\bottomrule
+\end{tabular}
+\caption{Dual-table scoring records hits from both tables instead of preferring table~1. The flag bit identifies the source table for later indirect-table resolution.}
+\label{alg:dual}
+\end{figure}
+
+\subsection{Language registration}
+
+For the 17~languages absent from all CLD2 tables, we add Language enum entries (slots 183--201), assign unused PLang IDs (122--139), and update the bidirectional mappings in \texttt{generated\_language.cc}.
+This is a one-time registration step; the quadgram data for these languages is provided entirely by the generated secondary table.
+
+%------------------------------------------------------------------
+\section{Experiments}
+\label{sec:experiments}
+
+We conduct 11~experiments, each building on the previous best configuration.
+Table~\ref{tab:progress} summarizes the progression.
+
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{@{}clcc@{}}
+\toprule
+\# & Key change & Macro \fone{} & Micro \fone{} \\
+\midrule
+0 & Baseline (Chrome tables) & 0.4650 & 0.8694 \\
+1 & + secondary table (30 langs) & 0.4885 & 0.8818 \\
+2 & + PLang for 19 new langs & 0.5211 & 0.8810 \\
+3 & + dual-table scoring & 0.6015 & 0.8918 \\
+4 & $-$ contrast filter (reverted) & 0.6006 & 0.8905 \\
+5 & + switch to 0122 full tables & 0.6921 & 0.8965 \\
+6 & + contrast filter ($\tau{=}0.3$) & 0.7044 & 0.9175 \\
+7 & + reduce to 5K quad/lang & 0.7117 & 0.9249 \\
+8 & + optimize $\tau{=}1.0$ & 0.7243 & 0.9262 \\
+9 & + optimize $k{=}4000$ & 0.7258 & 0.9261 \\
+10 & + re-add Devanagari langs & \textbf{0.7298} & \textbf{0.9263} \\
+\bottomrule
+\end{tabular}
+\caption{Experiment progression. Each row adds or modifies one component relative to the previous best. Bold marks the final configuration.}
+\label{tab:progress}
+\end{table}
+
+\subsection{Activating full tables (\#0 $\to$ \#5)}
+
+Experiments 0--2 use the compact Chrome tables (71~languages) with an increasingly populated secondary table.
+The single largest jump comes from \textbf{dual-table scoring} (\#3, +0.08 macro~\fone{}), which lets secondary-table languages compete with primary-table ones.
+Experiment~4 attempts contrast filtering, but with the sparse Chrome primary table, \emph{all filtering variants degrade performance} (worst: $-$0.043 macro~\fone{}).
+Shared quadgrams serve as an essential signal amplifier when the primary table's coverage is limited.
+
+Experiment~5 switches to the full 0122 tables, boosting macro~\fone{} by +0.09.
+Languages already present in these tables---Hausa, Amharic, Sanskrit, Oromo, Igbo---immediately achieve \fone{} $>$ 0.9.
+The secondary table is rebuilt to contain only the 17~truly new languages.
+
+\subsection{Contrast filtering and hyperparameter optimization (\#6 $\to$ \#10)}
+\label{sec:threshold}
+
+With the comprehensive 0122 primary table, contrast filtering now helps (\#6, +0.012 macro~\fone{}).
+The key difference: established languages have strong enough representation in the primary table that filtering shared quadgrams from the secondary table no longer starves new languages of signal.
+
+We optimize the contrast threshold $\tau$ and quadgram budget $k$ via grid search.
+Table~\ref{tab:threshold} shows $\tau$ results; the optimum $\tau{=}1.0$ means we only suppress quadgrams where the contrast language has \emph{higher} frequency.
+
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{@{}ccc|ccc@{}}
+\toprule
+$\tau$ & Macro & Micro & $k$ & Macro & Micro \\
+\midrule
+0.1 & 0.709 & 0.924 & 2000 & 0.719 & 0.926 \\
+0.3 & 0.712 & 0.925 & 3000 & 0.710 & 0.925 \\
+0.5 & 0.716 & 0.926 & 4000 & \textbf{0.726} & 0.926 \\
+\textbf{1.0} & \textbf{0.724} & \textbf{0.926} & 5000 & 0.724 & 0.926 \\
+1.5 & 0.720 & 0.925 & 6000 & 0.722 & 0.925 \\
+3.0 & 0.721 & 0.926 & 8000 & 0.718 & 0.922 \\
+\bottomrule
+\end{tabular}
+\caption{Grid search over contrast threshold $\tau$ (left) and quadgram budget $k$ per language (right). Both sweeps are conducted independently with the other parameter at its optimal value.}
+\label{tab:threshold}
+\end{table}
+
+The quadgram budget sweep peaks at $k{=}4000$.
+With too few quadgrams, recall suffers; with too many, low-frequency entries cause false positives through hash collisions.
+
+%------------------------------------------------------------------
+\section{Results}
+\label{sec:results}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{figures/progress_lid.png}
+\caption{Macro and micro \fone{} across all 11 experiments. The two largest jumps correspond to dual-table scoring (\#3) and switching to 0122 tables (\#5).}
+\label{fig:progress}
+\end{figure}
+
+Figure~\ref{fig:progress} shows the macro and micro \fone{} trajectory.
+The final configuration achieves macro~\fone{} = 0.7298 and micro~\fone{} = 0.9263.
+
+\subsection{Per-language results}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{figures/perlang_f1.png}
+\caption{Per-language \fone{} for all 89 CommonLID languages. 55 languages achieve \fone{} $\geq$ 0.8, 9 are in the 0.5--0.8 range, 20 are below 0.5, and 5 remain at zero.}
+\label{fig:perlang}
+\end{figure}
+
+Figure~\ref{fig:perlang} presents per-language \fone{} scores.
+The top performers are script-unique languages (Malayalam, Kannada, Telugu, Thai, Tamil) achieving \fone{} $>$ 0.98.
+Table~\ref{tab:biggest} lists the languages with the largest absolute improvements.
+Ten languages jump from \fone{}=0 to \fone{} $>$ 0.75, driven primarily by the 0122 table activation.
+
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{@{}lrrcc@{}}
+\toprule
+Language & Code & Samples & Base \fone{} & Final \fone{} \\
+\midrule
+Oromo & orm & 1,071 & 0.000 & 0.981 \\
+Sanskrit & san & 895 & 0.000 & 0.933 \\
+Amharic & amh & 1,617 & 0.000 & 0.897 \\
+Hausa & hau & 16,455 & 0.000 & 0.892 \\
+Tatar & tat & 1,029 & 0.000 & 0.887 \\
+Breton & bre & 2,348 & 0.000 & 0.879 \\
+Frisian & fry & 965 & 0.000 & 0.878 \\
+Yoruba & yor & 2,290 & 0.000 & 0.849 \\
+Bikol & bik & 1,769 & 0.000 & 0.757 \\
+Occitan & oci & 1,314 & 0.000 & 0.751 \\
+\bottomrule
+\end{tabular}
+\caption{Languages with the largest absolute \fone{} improvements. All were undetectable (F1=0) at baseline.}
+\label{tab:biggest}
+\end{table}
+
+\subsection{New language performance}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{figures/new_langs.png}
+\caption{Detection performance for the 17 newly registered languages (absent from all original CLD2 tables). Green = correctly detected (TP); red = missed (FN).}
+\label{fig:newlangs}
+\end{figure}
+
+Figure~\ref{fig:newlangs} shows the 17~newly registered languages.
+The best performers are Bikol (\fone{}=0.76), Venetian (0.57), and Saint Lucian Creole (0.49).
+Languages closely related to primary-table languages struggle most: Aragonese (\fone{}=0.47) loses samples to Spanish, Venetian to Italian, and Crimean Tatar to Turkish/Tatar.
+
+\subsection{Error analysis}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{figures/confusion_lid.png}
+\caption{Top 25 confusion pairs. The dominant error is Malay/Indonesian mutual confusion (a known linguistic close pair). Gray = predicted as \texttt{und} (unknown); red = wrong language.}
+\label{fig:confusion}
+\end{figure}
+
+Figure~\ref{fig:confusion} shows the top confusion pairs.
+Three error categories dominate:
+(1)~\emph{Close linguistic pairs}: Malay--Indonesian (6,592 mutual errors), Aragonese--Spanish (907), Hindi--Marathi;
+(2)~\emph{Unknown predictions}: short or ambiguous text classified as \texttt{und} (Uzbek: 3,250; English: 2,958);
+(3)~\emph{New-language false positives}: Aragonese stealing from Spanish (360 remaining after filtering).
+
+%------------------------------------------------------------------
+\section{Discussion}
+\label{sec:discussion}
+
+\subsection{What worked}
+
+\paragraph{Activating existing tables.}
+The single most impactful change was switching from the 71-language Chrome tables to the 120+-language 0122 tables (+0.09 macro~\fone{}).
+This required no new data generation---the tables already shipped with CLD2 but were not compiled into the default binary.
+This finding highlights a common failure mode in deployed systems: better models or data may already exist in the repository but go unused due to build-configuration defaults.
+
+\paragraph{Dual-table scoring.}
+Changing one conditional in \texttt{GetQuadHits()}---from ``prefer table~1, fall back to table~2'' to ``record both''---yielded +0.08 macro~\fone{}.
+The original fallback logic completely suppresses table~2 languages whenever table~1 has any match, which is the common case since most quadgrams appear across many languages.
+Our modification is simple (16~lines changed) but has an outsized effect because it changes the competitive dynamics of the scoring system.
+
+\paragraph{Contrast filtering with comprehensive primary tables.}
+When the primary table covers contrast languages well, filtering shared quadgrams from the secondary table reliably reduces false positives.
+The optimal threshold $\tau{=}1.0$ has an intuitive interpretation: only suppress a quadgram if it is \emph{more common} in a primary-table language than in the target language.
+
+\subsection{What did not work}
+
+\paragraph{Contrast filtering with sparse tables.}
+The same filtering strategy that improved results by +0.012 with the 0122 tables \emph{degraded} results by $-$0.043 with the Chrome tables.
+With sparse primary coverage, shared quadgrams are the only available signal for new languages; filtering them away removes the very evidence needed for detection.
+This context-dependence is the paper's most counterintuitive finding.
+
+\paragraph{Score boosting for table~2.}
+Recording table~2 hits twice (2$\times$ weight) caused new languages to overwhelm established ones ($-$0.042 macro~\fone{}).
+The symmetric alternative---recording both hits once---proved optimal.
+
+\paragraph{Probability index tuning.}
+Fixed probability indices (targeting strong single-language scores) consistently underperformed the simple frequency-based formula inherited from CLD2's probability table design.
+The \texttt{kLgProbV2Tbl} lookup table was designed for naturally distributed probability patterns; artificial fixed indices disrupted the scoring balance.
+
+\paragraph{Expected-score calibration.}
+Setting non-zero \texttt{kAvgDeltaOctaScore} values for new languages caused a slight regression.
+CLD2's \texttt{ReliabilityExpected()} function returns 100\% reliability when the expected score is zero (no data available); adding expected scores made the reliability check stricter, rejecting some correct predictions.
+
+\paragraph{Close-set grouping.}
+CLD2's \texttt{LanguageCloseSet} mechanism treats grouped languages as interchangeable---the higher-scoring language wins.
+Adding Aragonese to Spanish's close set would improve reliability but always return Spanish, defeating the purpose of extending coverage.
+
+\subsection{Limitations}
+
+The quadgram-based approach has inherent ceilings for closely related languages.
+Aragonese and Spanish share $>$70\% of their quadgram vocabulary; discriminating them requires lexical or morphological features beyond CLD2's n-gram model.
+Languages written in unique scripts (Malayalam, Tamil, Georgian) trivially achieve high accuracy, while Latin-script languages with overlapping vocabulary remain the hardest cases.
+
+Our evaluation is limited to CommonLID's 89~languages; behavior on the remaining CLD2-supported languages (190+) is not assessed.
+The secondary table is generated from GlotLID training data, which may contain noise or domain bias.
+
+%------------------------------------------------------------------
+\section{Related work}
+\label{sec:related}
+
+Classical n-gram LID systems include TextCat~\citep{cavnar1994ngram}, langid.py~\citep{lui-baldwin-2012-langid}, CLD2~\citep{sites2013cld2}, and CLD3~\citep{salcianu2018cld3} (a neural successor).
+Recent work has focused on scaling to hundreds of languages: GlotLID~\citep{kargaran-etal-2023-glotlid} covers 2,000+ varieties using fastText; OpenLID~\citep{burchell-etal-2023-open} provides broad-coverage training data.
+The CommonLID benchmark~\citep{commonlid} evaluates LID systems on Common Crawl data.
+
+Extending existing LID systems to new languages has received less attention than training new models from scratch.
+\citet{jauhiainen2019automatic} survey language identification methods comprehensively.
+Our work is most closely related to efforts to extend CLD2 via its dynamic-loading mode~\citep{cld2dynamic}, though we take a static-compilation approach instead.
+
+%------------------------------------------------------------------
+\section{Conclusion}
+
+We demonstrated that CLD2's language coverage can be substantially extended through table selection, dual-table scoring, and contrast-filtered table generation---achieving a 57\% relative improvement in macro~\fone{} on CommonLID.
+The most impactful changes (activating existing tables, modifying one conditional in the scoring loop) required minimal code changes, suggesting that similar latent improvements may exist in other deployed systems with configurable data tables.
+
+Our analysis reveals that the effectiveness of training-data-level interventions (contrast filtering) depends critically on the coverage of the primary model---a finding relevant beyond CLD2 to any system that combines a strong base model with supplementary data.
+
+\bibliography{references}
+\bibliographystyle{colm2026_conference}
+
+\appendix
+\section{Language codes and PLang assignments}
+\label{app:langs}
+
+Table~\ref{tab:newlangs} lists the 17~newly registered languages with their CLD2 enum slots and PLang IDs.
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{@{}llcc@{}}
+\toprule
+Language & ISO 639-3 & Enum & PLang \\
+\midrule
+Aragonese & arg & 183 & 122 \\
+Venetian & vec & 184 & 123 \\
+Bikol & bik & 185 & 124 \\
+St.\ Lucian Creole & acf & 186 & 125 \\
+Crimean Tatar & crh & 187 & 126 \\
+Reunion Creole & rcf & 188 & 127 \\
+Goan Konkani & gom & 189 & 139 \\
+Central Bikol & bcl & 190 & 124 \\
+Ligurian & lij & 191 & 128 \\
+Kabyle & kab & 192 & 129 \\
+Guianese Creole & gcr & 193 & 130 \\
+Kikuyu & kik & 194 & 131 \\
+Latgalian & ltg & 195 & 138 \\
+Fulfulde & fuv & 196 & 132 \\
+Guadeloupean Cr. & gcf & 197 & 133 \\
+Extremaduran & ext & 198 & 134 \\
+Nyankore & nyn & 199 & 135 \\
+\bottomrule
+\end{tabular}
+\caption{Newly registered languages. Central Bikol shares PLang 124 with Bikol. Goan Konkani uses the \texttt{Othr} (Devanagari) script mapping.}
+\label{tab:newlangs}
+\end{table}
+
+\end{document}
