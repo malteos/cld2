@@ -235,20 +235,16 @@ def build_table(lang_configs, training_dir, contrast_langs=None,
 
         for quad, score, count in kept:
             qhash = quad_hash_v2_underscore(quad)
-            # Score -> probability index (1-12 range, higher = more probable)
+            # Score -> probability (1-12 range, higher = more probable)
             prob = min(12, max(1, int(score * 1000) + 4))
             hash_to_langs[qhash].append((plang, prob))
 
     print(f"Total unique quadgram hashes: {len(hash_to_langs)}", file=sys.stderr)
 
     # Step 3: Build indirect table entries
-    # Each entry packs up to 3 languages: prob_idx(8) | lang1(8) | lang2(8) | lang3(8)
-    # For entries with more languages, we use 6-lang format (two uint32s)
     indirect = []
-    indirect_map = {}  # indirect_entry_value -> index
-
-    # Reserve index 0 as empty
-    indirect.append(0)
+    indirect_map = {}
+    indirect.append(0)  # Reserve index 0 as empty
 
     # Step 4: Build hash table buckets
     buckets = [[0, 0, 0, 0] for _ in range(bucket_count)]
@@ -260,10 +256,8 @@ def build_table(lang_configs, training_dir, contrast_langs=None,
         lang_probs.sort(key=lambda x: -x[1])
         top3 = lang_probs[:3]
 
-        # Build the probability entry for the indirect table
-        # Use prob index that best matches the distribution
+        # Map probability (1-12) to kLgProbV2Tbl index
         max_prob = top3[0][1] if top3 else 1
-        # Map to kLgProbV2Tbl index (0-77 for 3-lang entries)
         prob_idx = min(77, max(0, (max_prob - 1) * 7))
 
         # Pack: prob_idx | lang1 << 8 | lang2 << 16 | lang3 << 24
