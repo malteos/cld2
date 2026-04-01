@@ -37,7 +37,8 @@ CLD2_SOURCES := \
 	$(CLD2_SRC)/cld2_generated_quadchrome_2.cc \
 	$(CLD2_SRC)/cld2_generated_deltaoctachrome.cc \
 	$(CLD2_SRC)/cld2_generated_distinctoctachrome.cc \
-	$(CLD2_SRC)/cld_generated_score_quad_octa_2.cc
+	$(CLD2_SRC)/cld_generated_score_quad_octa_2.cc \
+	$(CLD2_SRC)/cld2_generated_quad_new.cc
 
 .PHONY: setup extract benchmark run evaluate clean
 
