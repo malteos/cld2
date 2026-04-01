@@ -1,22 +1,23 @@
 #!/usr/bin/env python3
 """
-CommonLID Evaluation Tool for CLD2
+CommonLID Evaluation Tool for Language Identification Models
 
-Loads the CommonLID benchmark, runs CLD2 on each text sample via the
-tools/cld2_detect CLI, and reports macro F1 + micro F1 metrics.
+Loads the CommonLID benchmark and evaluates a language identification model.
+Supports CLD2 (via CLI binary), GlotLID, and OpenLID-v3 (via fasttext).
 
-Output format (grep-friendly, matching benchmark.cc style):
+Output format (grep-friendly):
     ---
+    model: cld2
     samples: 373230
-    languages: 109
-    coverage: 0.7615
-    macro_f1: 0.4523
-    micro_f1: 0.7891
+    languages: 89
+    coverage: 1.0000
+    macro_f1: 0.7298
+    micro_f1: 0.9263
 
 Usage:
-    python3 tools/evaluate_lid.py [--data data/commonlid/commonlid.tsv.gz]
-                                  [--output data/commonlid/results/]
-                                  [--limit N]
+    python3 tools/evaluate_lid.py                          # CLD2 (default)
+    python3 tools/evaluate_lid.py --model glotlid          # GlotLID baseline
+    python3 tools/evaluate_lid.py --model openlid-v3       # OpenLID-v3 baseline
 """
 
 import argparse
@@ -184,8 +185,51 @@ def run_cld2(texts, binary="tools/cld2_detect"):
     return results
 
 
-def compute_metrics(true_labels, pred_labels):
+def load_fasttext_model(model_name):
+    """Download and load a fasttext language identification model."""
+    from huggingface_hub import hf_hub_download
+    import fasttext
+
+    configs = {
+        "glotlid": ("cis-lmu/glotlid", "model.bin"),
+        "openlid-v3": ("HPLT/OpenLID-v3", "openlid-v3.bin"),
+    }
+    if model_name not in configs:
+        print(f"ERROR: Unknown model '{model_name}'. Choose from: {list(configs.keys())}",
+              file=sys.stderr)
+        sys.exit(1)
+
+    repo_id, filename = configs[model_name]
+    print(f"Downloading {model_name} from {repo_id}...", file=sys.stderr)
+    path = hf_hub_download(repo_id=repo_id, filename=filename)
+    print(f"Loading model from {path}...", file=sys.stderr)
+    model = fasttext.load_model(path)
+    return model
+
+
+def run_fasttext(model, texts):
+    """Run a fasttext model on a list of texts. Returns ISO 639-3 codes."""
+    # fasttext expects single-line inputs with no newlines
+    cleaned = [t.replace("\n", " ").replace("\r", " ") for t in texts]
+    predictions = model.predict(cleaned)
+    labels, _scores = predictions
+
+    results = []
+    for label_list in labels:
+        label = label_list[0]  # top prediction
+        # Format: __label__eng_Latn -> eng
+        code = label.replace("__label__", "").split("_")[0]
+        # Normalize via CommonLID aliases (e.g. arb -> ara)
+        code = COMMONLID_ALIASES.get(code, code)
+        results.append(code)
+    return results
+
+
+def compute_metrics(true_labels, pred_labels, supported_set=None):
     """Compute macro F1, micro F1, per-language P/R/F1."""
+    if supported_set is None:
+        supported_set = CLD2_SUPPORTED
+
     all_langs = sorted(set(true_labels) | set(pred_labels))
 
     per_lang = {}
@@ -209,7 +253,7 @@ def compute_metrics(true_labels, pred_labels):
             "f1": f1,
             "tp": tp, "fp": fp, "fn": fn,
             "n_samples": n_true,
-            "supported": lang in CLD2_SUPPORTED,
+            "supported": lang in supported_set,
         }
         total_tp += tp
         total_fp += fp
@@ -222,7 +266,7 @@ def compute_metrics(true_labels, pred_labels):
     micro_r = total_tp / (total_tp + total_fn) if (total_tp + total_fn) > 0 else 0
     micro_f1 = 2 * micro_p * micro_r / (micro_p + micro_r) if (micro_p + micro_r) > 0 else 0
 
-    supported_langs = sum(1 for l in gt_langs if l in CLD2_SUPPORTED)
+    supported_langs = sum(1 for l in gt_langs if l in supported_set)
     coverage = supported_langs / len(gt_langs) if gt_langs else 0
 
     return {
@@ -238,26 +282,41 @@ def compute_metrics(true_labels, pred_labels):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Evaluate CLD2 on CommonLID")
+    parser = argparse.ArgumentParser(description="Evaluate language ID models on CommonLID")
+    parser.add_argument("--model", default="cld2",
+                        choices=["cld2", "glotlid", "openlid-v3"],
+                        help="Model to evaluate (default: cld2)")
     parser.add_argument("--data", default="data/evaluation/commonlid.tsv.gz",
                         help="Path to CommonLID TSV.gz file")
-    parser.add_argument("--output", default="data/evaluation/results",
-                        help="Output directory for detailed results")
+    parser.add_argument("--output", default=None,
+                        help="Output directory (default: data/evaluation/results-<model>)")
     parser.add_argument("--binary", default="tools/cld2_detect",
-                        help="Path to cld2_detect binary")
+                        help="Path to cld2_detect binary (CLD2 only)")
     parser.add_argument("--limit", type=int, default=None,
                         help="Limit number of samples (for testing)")
     parser.add_argument("--batch-size", type=int, default=50000,
                         help="Batch size for piping to cld2_detect")
     args = parser.parse_args()
 
-    # Recompile cld2_detect
-    print("Compiling cld2_detect...", file=sys.stderr)
-    ret = subprocess.run(["make", "tools/cld2_detect"], capture_output=True, text=True)
-    if ret.returncode != 0:
-        print(f"Compilation failed:\n{ret.stderr}", file=sys.stderr)
-        sys.exit(1)
-    print("Compilation OK", file=sys.stderr)
+    model_name = args.model
+    if args.output:
+        output_dir = args.output
+    elif model_name == "cld2":
+        output_dir = "data/evaluation/results"
+    else:
+        output_dir = f"data/evaluation/results-{model_name}"
+
+    # Model-specific setup
+    ft_model = None
+    if model_name == "cld2":
+        print("Compiling cld2_detect...", file=sys.stderr)
+        ret = subprocess.run(["make", "tools/cld2_detect"], capture_output=True, text=True)
+        if ret.returncode != 0:
+            print(f"Compilation failed:\n{ret.stderr}", file=sys.stderr)
+            sys.exit(1)
+        print("Compilation OK", file=sys.stderr)
+    else:
+        ft_model = load_fasttext_model(model_name)
 
     # Load data
     print(f"Loading CommonLID from {args.data}...", file=sys.stderr)
@@ -268,24 +327,39 @@ def main():
     true_labels = [normalize_commonlid_code(tag) for _, tag in samples]
     texts = [text for text, _ in samples]
 
-    # Run CLD2 in batches
-    print(f"Running CLD2 on {len(texts)} samples...", file=sys.stderr)
+    # Run model
+    print(f"Running {model_name} on {len(texts)} samples...", file=sys.stderr)
     pred_labels = []
-    for i in range(0, len(texts), args.batch_size):
-        batch = texts[i:i + args.batch_size]
-        batch_preds = run_cld2(batch, binary=args.binary)
-        pred_labels.extend(batch_preds)
-        print(f"  Processed {min(i + args.batch_size, len(texts))}/{len(texts)}", file=sys.stderr)
+    if model_name == "cld2":
+        for i in range(0, len(texts), args.batch_size):
+            batch = texts[i:i + args.batch_size]
+            batch_preds = run_cld2(batch, binary=args.binary)
+            pred_labels.extend(batch_preds)
+            print(f"  Processed {min(i + args.batch_size, len(texts))}/{len(texts)}",
+                  file=sys.stderr)
+    else:
+        for i in range(0, len(texts), args.batch_size):
+            batch = texts[i:i + args.batch_size]
+            batch_preds = run_fasttext(ft_model, batch)
+            pred_labels.extend(batch_preds)
+            print(f"  Processed {min(i + args.batch_size, len(texts))}/{len(texts)}",
+                  file=sys.stderr)
 
     assert len(pred_labels) == len(true_labels), \
         f"Mismatch: {len(pred_labels)} predictions vs {len(true_labels)} labels"
 
     # Compute metrics
     print("Computing metrics...", file=sys.stderr)
-    metrics = compute_metrics(true_labels, pred_labels)
+    # For fasttext models, treat all ground-truth languages as supported
+    if model_name in ("glotlid", "openlid-v3"):
+        all_gt = set(true_labels) - {"und"}
+        metrics = compute_metrics(true_labels, pred_labels, supported_set=all_gt)
+    else:
+        metrics = compute_metrics(true_labels, pred_labels)
 
     # Print summary (grep-friendly format)
     print("---")
+    print(f"model: {model_name}")
     print(f"samples: {len(samples)}")
     print(f"languages: {metrics['n_gt_languages']}")
     print(f"coverage: {metrics['coverage']:.4f}")
@@ -293,10 +367,10 @@ def main():
     print(f"micro_f1: {metrics['micro_f1']:.4f}")
 
     # Write detailed results
-    os.makedirs(args.output, exist_ok=True)
+    os.makedirs(output_dir, exist_ok=True)
 
     # Per-language TSV
-    per_lang_path = os.path.join(args.output, "per_language.tsv")
+    per_lang_path = os.path.join(output_dir, "per_language.tsv")
     with open(per_lang_path, "w") as f:
         f.write("lang\tn_samples\tsupported\tprecision\trecall\tf1\ttp\tfp\tfn\n")
         for lang in sorted(metrics["per_lang"].keys(),
@@ -308,8 +382,9 @@ def main():
     print(f"Per-language results: {per_lang_path}", file=sys.stderr)
 
     # Summary JSON
-    summary_path = os.path.join(args.output, "summary.json")
-    summary = {k: v for k, v in metrics.items() if k != "per_lang"}
+    summary_path = os.path.join(output_dir, "summary.json")
+    summary = {"model": model_name}
+    summary.update({k: v for k, v in metrics.items() if k != "per_lang"})
     with open(summary_path, "w") as f:
         json.dump(summary, f, indent=2)
     print(f"Summary: {summary_path}", file=sys.stderr)
@@ -319,7 +394,7 @@ def main():
     for t, p in zip(true_labels, pred_labels):
         if t != p:
             confusion[(t, p)] += 1
-    confusion_path = os.path.join(args.output, "confusion.tsv")
+    confusion_path = os.path.join(output_dir, "confusion.tsv")
     with open(confusion_path, "w") as f:
         f.write("true_lang\tpred_lang\tcount\n")
         for (t, p), count in confusion.most_common(200):
