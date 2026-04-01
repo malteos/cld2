@@ -219,29 +219,68 @@ These languages remain difficult because they are closely related to well-establ
 | ind | msa | 2,604 | Known close pair |
 | arg | spa | 907 | Related Romance languages |
 
-## 5. Discussion
+## 5. Comparison with Baseline Models
 
-### 5.1 The Primary Table Matters Most
+To contextualize the results, we evaluated two state-of-the-art open-source language identification models on the same CommonLID benchmark: GlotLID v3 (cis-lmu/glotlid) and OpenLID-v3 (HPLT/OpenLID-v3). Both are fasttext-based models trained on large multilingual corpora.
+
+### 5.1 Accuracy Comparison
+
+| Model | Macro F1 | Micro F1 | Coverage |
+|-------|----------|----------|----------|
+| CLD2 baseline (quadchrome_2) | 0.4650 | 0.8694 | 100% |
+| OpenLID-v3 | 0.6263 | 0.7683 | 100% |
+| **CLD2 extended (this work)** | **0.7298** | **0.9263** | **100%** |
+| GlotLID v3 | 0.7354 | 0.8015 | 100% |
+
+CLD2 extended achieves macro F1 within 0.6% of GlotLID (0.7298 vs 0.7354), while substantially outperforming it on micro F1 (0.9263 vs 0.8015). The micro F1 gap is driven by GlotLID's poor performance on high-volume languages: Uzbek (F1=0.00, 43K samples), Malagasy (F1=0.00, 2.2K samples), and Estonian (F1=0.00, 659 samples) all score zero in GlotLID due to language code mismatches or missing support, whereas CLD2 handles these well.
+
+OpenLID-v3 scores lowest overall, with 18 languages at F1=0 including Breton (2.3K samples), Aragonese (2.3K), Bikol (1.8K), and Frisian (965) — languages it does not cover at all.
+
+### 5.2 Prediction Speed
+
+Measured on 50,000 CommonLID text samples (single-threaded, same hardware):
+
+| Model | Time (s) | Samples/s | us/sample | Relative |
+|-------|----------|-----------|-----------|----------|
+| CLD2 extended | 0.287 | 174,035 | 5.7 | 1.0x |
+| OpenLID-v3 | 7.762 | 6,442 | 155.2 | 27x slower |
+| GlotLID v3 | 21.763 | 2,298 | 435.3 | 76x slower |
+
+CLD2 is **76x faster** than GlotLID and **27x faster** than OpenLID-v3. This is expected: CLD2 uses precomputed hash table lookups on byte sequences (O(n) with small constants), while fasttext models require tokenization and matrix multiplications.
+
+On the HTML benchmark (10,000 Common Crawl pages, including HTML parsing overhead), CLD2 extended processes all pages in 3,139ms (vs 3,565ms for vanilla CLD2 baseline — 12% faster due to prior performance optimizations in the same branch). This corresponds to 0.31ms per page average, or 3,185 pages/second.
+
+### 5.3 Strengths and Weaknesses by Model
+
+**CLD2 extended** excels at high-volume languages with well-established quadgram profiles (Arabic, Persian, Vietnamese, Telugu all >0.98 F1). It struggles with closely related Romance minority languages (Aragonese F1=0.47, Venetian F1=0.57) where quadgram overlap with parent languages is high.
+
+**GlotLID** has the broadest language coverage (2,102 labels) and achieves the best macro F1 by handling many low-resource languages well (Aragonese F1=0.89, Venetian F1=0.83, Goan Konkani F1=0.80). However, it fails catastrophically on some common languages (Uzbek, Malagasy, Estonian all F1=0), likely due to training data gaps or label mismatches, which tanks its micro F1.
+
+**OpenLID-v3** has the narrowest effective coverage among the three, with 18 languages at F1=0. It performs well on the languages it supports but lacks coverage for the tail of minority languages.
+
+## 6. Discussion
+
+### 6.1 The Primary Table Matters Most
 
 The single largest improvement came from switching to the full 0122 tables (Experiment 5, +0.09 macro F1). This table was trained on 120+ language-script combinations with well-calibrated probability distributions. No amount of second-table engineering could match the quality of properly trained primary-table data. The lesson: when extending a language detector, start by activating the best available pretrained data before generating new data.
 
-### 5.2 Dual-Table Scoring is a Double-Edged Sword
+### 6.2 Dual-Table Scoring is a Double-Edged Sword
 
 Enabling dual-table hits (Experiment 3) was the second-largest improvement (+0.08), but it introduced a persistent false-positive problem. Languages in table 2 compete on every quadgram that appears in both tables. For closely related languages (e.g., Aragonese vs. Spanish), the new language accumulates votes from quadgrams that properly belong to the established language. Contrast filtering (Experiment 6) partially mitigates this, but the fundamental tension between recall for new languages and precision against established ones limits achievable accuracy.
 
-### 5.3 Less is More for Table 2
+### 6.3 Less is More for Table 2
 
 Counterintuitively, reducing the number of quadgrams per language from 50K to 4K *improved* both metrics. With too many quadgrams, low-frequency entries caused hash collisions with unrelated languages, generating false positives without contributing meaningful signal. The optimal quadgram count is a function of table size, hash collision rate, and the similarity between the new language and existing table 1 languages.
 
-### 5.4 Contrast Filtering is Context-Dependent
+### 6.4 Contrast Filtering is Context-Dependent
 
 The same contrast filtering approach that hurt performance with the small Chrome tables (Experiment 4) helped significantly with the larger 0122 tables (Experiment 6). The key variable is primary table coverage: when the primary table comprehensively covers contrast languages, filtering shared quadgrams from table 2 is safe because the primary table already provides strong signal. When coverage is sparse, shared quadgrams are the only available signal for new languages.
 
-### 5.5 Limitations of the Approach
+### 6.5 Limitations of the Approach
 
 The quadgram-based approach has inherent limitations for closely related languages. Aragonese and Spanish share >70% of their quadgram vocabulary; discriminating them requires higher-order features (word-level patterns, morphological markers, distinctive vocabulary) that CLD2's quadgram model cannot capture. The octagram and "distinctive word" tables in CLD2 provide some higher-order features, but generating these for new languages requires more sophisticated training pipelines than our frequency-based quadgram extractor.
 
-## 6. Files Changed
+## 7. Files Changed
 
 - `internal/generated_language.h` - Added 19 language enum entries (slots 183-201)
 - `internal/generated_language.cc` - Added name, code, PLang mappings for new languages; updated `kPLangToLanguageLatn/Othr` reverse mappings
