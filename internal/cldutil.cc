@@ -356,29 +356,26 @@ int GetQuadHits(const char* text,
       uint32 probs2 = (has_dual_table) ?
         QuadHashV3Lookup4(quadgram_obj2, quadhash) : 0;
 
-      // Select the result: prefer table 1, fall back to table 2
-      uint32 probs;
-      uint32 indirect_flag;
-      const CLD2TableSummary* hit_obj;
-      if (probs1 != 0) {
-        probs = probs1;
-        indirect_flag = 0;
-        hit_obj = quadgram_obj;
-      } else {
-        probs = probs2;
-        indirect_flag = 0x80000000u;
-        hit_obj = quadgram_obj2;
-      }
-      if (probs != 0) {
+      // Record hits from both tables when available
+      if (probs1 != 0 || probs2 != 0) {
         // Round-robin two entries of actual hits
         prior_quadhash[next_prior_quadhash] = quadhash;
         next_prior_quadhash = (next_prior_quadhash + 1) & 1;
 
-        // Save indirect subscript for later scoring; 1 or 2 langprobs
-        int indirect_subscr = probs & ~hit_obj->kCLDTableKeyMask;
-        hitbuffer->base[next_base].offset = src - text;     // Offset in text
-        hitbuffer->base[next_base].indirect = indirect_subscr | indirect_flag;
-        ++next_base;
+        // Record table 1 hit
+        if (probs1 != 0) {
+          int indirect_subscr = probs1 & ~quadgram_obj->kCLDTableKeyMask;
+          hitbuffer->base[next_base].offset = src - text;
+          hitbuffer->base[next_base].indirect = indirect_subscr;
+          ++next_base;
+        }
+        // Also record table 2 hit so new languages can compete
+        if (probs2 != 0 && next_base < next_base_limit) {
+          int indirect_subscr = probs2 & ~quadgram_obj2->kCLDTableKeyMask;
+          hitbuffer->base[next_base].offset = src - text;
+          hitbuffer->base[next_base].indirect = indirect_subscr | 0x80000000u;
+          ++next_base;
+        }
       }
     }
 
