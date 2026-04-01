@@ -1,5 +1,5 @@
 model	macro_f1	micro_f1	coverage	description
 cld2-baseline	0.4650	0.8694	1.0000	Vanilla CLD2 (quadchrome_2 tables)
-cld2-extended	0.7298	0.9263	1.0000	CLD2 + 0122 tables + 17 new languages (this work)
+cld2-extended	0.7676	0.9330	1.0000	CLD2 + 0122 tables + 17 new languages (this work)
 glotlid	0.7354	0.8015	1.0000	GlotLID v3 (cis-lmu/glotlid, fasttext)
 openlid-v3	0.6263	0.7683	1.0000	OpenLID-v3 (HPLT/OpenLID-v3, fasttext)
