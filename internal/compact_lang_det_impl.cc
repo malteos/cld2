@@ -233,7 +233,7 @@ static const int kPredictionTableSize = 4096;   // Must be exactly 4096 for
 
 static const int kNonEnBoilerplateMinPercent = 17;    // <this => no second
 static const int kNonFIGSBoilerplateMinPercent = 20;  // <this => no second
-static const int kGoodFirstMinPercent = 26;           // <this => UNK
+static const int kGoodFirstMinPercent = 55;           // <this => UNK
 static const int kGoodFirstReliableMinPercent = 51;   // <this => unreli
 static const int kIgnoreMaxPercent = 20;              // >this => unreli
 static const int kKeepMinPercent = 2;                 // <this => unreli
