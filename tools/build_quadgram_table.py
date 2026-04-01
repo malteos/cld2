@@ -222,10 +222,6 @@ def build_table(lang_configs, training_dir, contrast_langs=None,
             contrast_max = all_contrast_quads.get(quad, 0)
             mutual_max = mutual_max_map.get(quad, 0)
 
-            # Simple distinctiveness: just use raw frequency
-            # Contrast filtering is handled implicitly by the dual-table
-            # scoring: table 1 languages already have strong quadgram coverage,
-            # so table 2 entries only win when they have more distinctive data
             distinctiveness = freq
             scored.append((quad, distinctiveness, count))
 

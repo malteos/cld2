@@ -34,10 +34,10 @@ CLD2_SOURCES := \
 	$(CLD2_SRC)/cld2_generated_cjk_compatible.cc \
 	$(CLD2_SRC)/cld_generated_cjk_delta_bi_4.cc \
 	$(CLD2_SRC)/generated_distinct_bi_0.cc \
-	$(CLD2_SRC)/cld2_generated_quadchrome_2.cc \
-	$(CLD2_SRC)/cld2_generated_deltaoctachrome.cc \
-	$(CLD2_SRC)/cld2_generated_distinctoctachrome.cc \
-	$(CLD2_SRC)/cld_generated_score_quad_octa_2.cc \
+	$(CLD2_SRC)/cld2_generated_quad0122.cc \
+	$(CLD2_SRC)/cld2_generated_deltaocta0122.cc \
+	$(CLD2_SRC)/cld2_generated_distinctocta0122.cc \
+	$(CLD2_SRC)/cld_generated_score_quad_octa_0122.cc \
 	$(CLD2_SRC)/cld2_generated_quad_new.cc
 
 .PHONY: setup extract benchmark run evaluate clean
