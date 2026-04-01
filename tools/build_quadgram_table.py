@@ -222,7 +222,13 @@ def build_table(lang_configs, training_dir, contrast_langs=None,
             contrast_max = all_contrast_quads.get(quad, 0)
             mutual_max = mutual_max_map.get(quad, 0)
 
-            distinctiveness = freq
+            # Only keep quadgrams where this language's frequency is
+            # significantly higher than any contrast language's frequency.
+            # This ensures table 2 entries don't collide with table 1 entries.
+            if contrast_max > freq * 0.3:
+                distinctiveness = freq * 0.001  # almost zero — likely shared
+            else:
+                distinctiveness = freq * (1.0 - min(1.0, contrast_max / max(freq, 1e-10)))
             scored.append((quad, distinctiveness, count))
 
         # Keep top quadgrams by distinctiveness
