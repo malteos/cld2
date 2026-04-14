@@ -1,0 +1,986 @@
+{
+  "count": 109,
+  "languages": [
+    {
+      "code": "ace",
+      "folder": "ace_Latn",
+      "name": "Acehnese",
+      "endonym": "Bahsa Acèh",
+      "script": "Latn",
+      "family": "Austronesian",
+      "tier": "low"
+    },
+    {
+      "code": "acf",
+      "folder": "acf_Latn",
+      "name": "Saint Lucian Creole",
+      "endonym": "Kwéyòl",
+      "script": "Latn",
+      "family": "Creole (French-based)",
+      "tier": "low"
+    },
+    {
+      "code": "aeb",
+      "folder": "aeb_Arab",
+      "name": "Tunisian Arabic",
+      "endonym": "تونسي",
+      "script": "Arab",
+      "family": "Afro-Asiatic/Semitic",
+      "tier": "low"
+    },
+    {
+      "code": "afr",
+      "folder": "afr_Latn",
+      "name": "Afrikaans",
+      "endonym": "Afrikaans",
+      "script": "Latn",
+      "family": "Indo-European/Germanic",
+      "tier": "mid"
+    },
+    {
+      "code": "amh",
+      "folder": "amh_Ethi",
+      "name": "Amharic",
+      "endonym": "አማርኛ",
+      "script": "Ethi",
+      "family": "Afro-Asiatic/Semitic",
+      "tier": "mid"
+    },
+    {
+      "code": "apd",
+      "folder": "apd_Arab",
+      "name": "Sudanese Arabic",
+      "endonym": "عربي سوداني",
+      "script": "Arab",
+      "family": "Afro-Asiatic/Semitic",
+      "tier": "low"
+    },
+    {
+      "code": "ara",
+      "folder": "ara_Arab",
+      "name": "Arabic (macro)",
+      "endonym": "العربية",
+      "script": "Arab",
+      "family": "Afro-Asiatic/Semitic",
+      "tier": "high"
+    },
+    {
+      "code": "arb",
+      "folder": "arb_Arab",
+      "name": "Modern Standard Arabic",
+      "endonym": "العربية الفصحى",
+      "script": "Arab",
+      "family": "Afro-Asiatic/Semitic",
+      "tier": "high"
+    },
+    {
+      "code": "arg",
+      "folder": "arg_Latn",
+      "name": "Aragonese",
+      "endonym": "Aragonés",
+      "script": "Latn",
+      "family": "Indo-European/Romance",
+      "tier": "low"
+    },
+    {
+      "code": "ars",
+      "folder": "ars_Arab",
+      "name": "Najdi Arabic",
+      "endonym": "عربي نجدي",
+      "script": "Arab",
+      "family": "Afro-Asiatic/Semitic",
+      "tier": "low"
+    },
+    {
+      "code": "ary",
+      "folder": "ary_Arab",
+      "name": "Moroccan Arabic",
+      "endonym": "الدارجة",
+      "script": "Arab",
+      "family": "Afro-Asiatic/Semitic",
+      "tier": "low"
+    },
+    {
+      "code": "arz",
+      "folder": "arz_Arab",
+      "name": "Egyptian Arabic",
+      "endonym": "مصرى",
+      "script": "Arab",
+      "family": "Afro-Asiatic/Semitic",
+      "tier": "mid"
+    },
+    {
+      "code": "asm",
+      "folder": "asm_Beng",
+      "name": "Assamese",
+      "endonym": "অসমীয়া",
+      "script": "Beng",
+      "family": "Indo-European/Indic",
+      "tier": "mid"
+    },
+    {
+      "code": "aze",
+      "folder": "aze_Latn",
+      "name": "Azerbaijani (macro)",
+      "endonym": "Azərbaycan",
+      "script": "Latn",
+      "family": "Turkic",
+      "tier": "mid"
+    },
+    {
+      "code": "azj",
+      "folder": "azj_Latn",
+      "name": "North Azerbaijani",
+      "endonym": "Azərbaycan",
+      "script": "Latn",
+      "family": "Turkic",
+      "tier": "mid"
+    },
+    {
+      "code": "bak",
+      "folder": "bak_Cyrl",
+      "name": "Bashkir",
+      "endonym": "Башҡортса",
+      "script": "Cyrl",
+      "family": "Turkic",
+      "tier": "low"
+    },
+    {
+      "code": "bcl",
+      "folder": "bcl_Latn",
+      "name": "Central Bikol",
+      "endonym": "Bikol Sentral",
+      "script": "Latn",
+      "family": "Austronesian",
+      "tier": "low"
+    },
+    {
+      "code": "ben",
+      "folder": "ben_Beng",
+      "name": "Bengali",
+      "endonym": "বাংলা",
+      "script": "Beng",
+      "family": "Indo-European/Indic",
+      "tier": "high"
+    },
+    {
+      "code": "bik",
+      "folder": "bik_Latn",
+      "name": "Bikol (macro)",
+      "endonym": "Bikol",
+      "script": "Latn",
+      "family": "Austronesian",
+      "tier": "low"
+    },
+    {
+      "code": "bre",
+      "folder": "bre_Latn",
+      "name": "Breton",
+      "endonym": "Brezhoneg",
+      "script": "Latn",
+      "family": "Indo-European/Celtic",
+      "tier": "low"
+    },
+    {
+      "code": "bul",
+      "folder": "bul_Cyrl",
+      "name": "Bulgarian",
+      "endonym": "Български",
+      "script": "Cyrl",
+      "family": "Indo-European/Slavic",
+      "tier": "high"
+    },
+    {
+      "code": "cat",
+      "folder": "cat_Latn",
+      "name": "Catalan",
+      "endonym": "Català",
+      "script": "Latn",
+      "family": "Indo-European/Romance",
+      "tier": "high"
+    },
+    {
+      "code": "ces",
+      "folder": "ces_Latn",
+      "name": "Czech",
+      "endonym": "Čeština",
+      "script": "Latn",
+      "family": "Indo-European/Slavic",
+      "tier": "high"
+    },
+    {
+      "code": "cmn",
+      "folder": "cmn_Hans",
+      "name": "Mandarin Chinese",
+      "endonym": "普通话",
+      "script": "Hans",
+      "family": "Sino-Tibetan",
+      "tier": "high"
+    },
+    {
+      "code": "crh",
+      "folder": "crh_Latn",
+      "name": "Crimean Tatar",
+      "endonym": "Qırımtatar",
+      "script": "Latn",
+      "family": "Turkic",
+      "tier": "low"
+    },
+    {
+      "code": "deu",
+      "folder": "deu_Latn",
+      "name": "German",
+      "endonym": "Deutsch",
+      "script": "Latn",
+      "family": "Indo-European/Germanic",
+      "tier": "high"
+    },
+    {
+      "code": "ell",
+      "folder": "ell_Grek",
+      "name": "Greek (Modern)",
+      "endonym": "Ελληνικά",
+      "script": "Grek",
+      "family": "Indo-European/Hellenic",
+      "tier": "high"
+    },
+    {
+      "code": "eng",
+      "folder": "eng_Latn",
+      "name": "English",
+      "endonym": "English",
+      "script": "Latn",
+      "family": "Indo-European/Germanic",
+      "tier": "high"
+    },
+    {
+      "code": "est",
+      "folder": "est_Latn",
+      "name": "Estonian",
+      "endonym": "Eesti",
+      "script": "Latn",
+      "family": "Uralic/Finnic",
+      "tier": "high"
+    },
+    {
+      "code": "ext",
+      "folder": "ext_Latn",
+      "name": "Extremaduran",
+      "endonym": "Estremeñu",
+      "script": "Latn",
+      "family": "Indo-European/Romance",
+      "tier": "low"
+    },
+    {
+      "code": "fas",
+      "folder": "fas_Arab",
+      "name": "Persian",
+      "endonym": "فارسی",
+      "script": "Arab",
+      "family": "Indo-European/Iranian",
+      "tier": "high"
+    },
+    {
+      "code": "fil",
+      "folder": "fil_Latn",
+      "name": "Filipino",
+      "endonym": "Filipino",
+      "script": "Latn",
+      "family": "Austronesian",
+      "tier": "mid"
+    },
+    {
+      "code": "fin",
+      "folder": "fin_Latn",
+      "name": "Finnish",
+      "endonym": "Suomi",
+      "script": "Latn",
+      "family": "Uralic/Finnic",
+      "tier": "high"
+    },
+    {
+      "code": "fra",
+      "folder": "fra_Latn",
+      "name": "French",
+      "endonym": "Français",
+      "script": "Latn",
+      "family": "Indo-European/Romance",
+      "tier": "high"
+    },
+    {
+      "code": "fro",
+      "folder": "fro_Latn",
+      "name": "Old French",
+      "endonym": "Franceis",
+      "script": "Latn",
+      "family": "Indo-European/Romance (historical)",
+      "tier": "low"
+    },
+    {
+      "code": "fry",
+      "folder": "fry_Latn",
+      "name": "Western Frisian",
+      "endonym": "Frysk",
+      "script": "Latn",
+      "family": "Indo-European/Germanic",
+      "tier": "low"
+    },
+    {
+      "code": "fuv",
+      "folder": "fuv_Latn",
+      "name": "Nigerian Fulfulde",
+      "endonym": "Fulfulde",
+      "script": "Latn",
+      "family": "Niger-Congo/Atlantic",
+      "tier": "low"
+    },
+    {
+      "code": "gaz",
+      "folder": "gaz_Latn",
+      "name": "West Central Oromo",
+      "endonym": "Afaan Oromoo",
+      "script": "Latn",
+      "family": "Afro-Asiatic/Cushitic",
+      "tier": "low"
+    },
+    {
+      "code": "gcf",
+      "folder": "gcf_Latn",
+      "name": "Guadeloupean Creole",
+      "endonym": "Kréyol Gwadloupéyen",
+      "script": "Latn",
+      "family": "Creole (French-based)",
+      "tier": "low"
+    },
+    {
+      "code": "gcr",
+      "folder": "gcr_Latn",
+      "name": "Guianese Creole",
+      "endonym": "Kréyòl Gwiyanè",
+      "script": "Latn",
+      "family": "Creole (French-based)",
+      "tier": "low"
+    },
+    {
+      "code": "gla",
+      "folder": "gla_Latn",
+      "name": "Scottish Gaelic",
+      "endonym": "Gàidhlig",
+      "script": "Latn",
+      "family": "Indo-European/Celtic",
+      "tier": "low"
+    },
+    {
+      "code": "gle",
+      "folder": "gle_Latn",
+      "name": "Irish",
+      "endonym": "Gaeilge",
+      "script": "Latn",
+      "family": "Indo-European/Celtic",
+      "tier": "mid"
+    },
+    {
+      "code": "gom",
+      "folder": "gom_Deva",
+      "name": "Konkani (Goan)",
+      "endonym": "कोंकणी",
+      "script": "Deva",
+      "family": "Indo-European/Indic",
+      "tier": "low"
+    },
+    {
+      "code": "grc",
+      "folder": "grc_Grek",
+      "name": "Ancient Greek",
+      "endonym": "Ἑλληνική",
+      "script": "Grek",
+      "family": "Indo-European/Hellenic (historical)",
+      "tier": "low"
+    },
+    {
+      "code": "gug",
+      "folder": "gug_Latn",
+      "name": "Paraguayan Guarani",
+      "endonym": "Avañe'ẽ",
+      "script": "Latn",
+      "family": "Tupian",
+      "tier": "low"
+    },
+    {
+      "code": "guj",
+      "folder": "guj_Gujr",
+      "name": "Gujarati",
+      "endonym": "ગુજરાતી",
+      "script": "Gujr",
+      "family": "Indo-European/Indic",
+      "tier": "mid"
+    },
+    {
+      "code": "guw",
+      "folder": "guw_Latn",
+      "name": "Gun",
+      "endonym": "Gungbe",
+      "script": "Latn",
+      "family": "Niger-Congo/Gbe",
+      "tier": "low"
+    },
+    {
+      "code": "hau",
+      "folder": "hau_Latn",
+      "name": "Hausa",
+      "endonym": "Hausa",
+      "script": "Latn",
+      "family": "Afro-Asiatic/Chadic",
+      "tier": "mid"
+    },
+    {
+      "code": "hbo",
+      "folder": "hbo_Hebr",
+      "name": "Ancient Hebrew",
+      "endonym": "עברית מקראית",
+      "script": "Hebr",
+      "family": "Afro-Asiatic/Semitic (historical)",
+      "tier": "low"
+    },
+    {
+      "code": "heb",
+      "folder": "heb_Hebr",
+      "name": "Hebrew (Modern)",
+      "endonym": "עברית",
+      "script": "Hebr",
+      "family": "Afro-Asiatic/Semitic",
+      "tier": "high"
+    },
+    {
+      "code": "hin",
+      "folder": "hin_Deva",
+      "name": "Hindi",
+      "endonym": "हिन्दी",
+      "script": "Deva",
+      "family": "Indo-European/Indic",
+      "tier": "high"
+    },
+    {
+      "code": "ibo",
+      "folder": "ibo_Latn",
+      "name": "Igbo",
+      "endonym": "Igbo",
+      "script": "Latn",
+      "family": "Niger-Congo/Volta-Niger",
+      "tier": "mid"
+    },
+    {
+      "code": "ind",
+      "folder": "ind_Latn",
+      "name": "Indonesian",
+      "endonym": "Bahasa Indonesia",
+      "script": "Latn",
+      "family": "Austronesian",
+      "tier": "high"
+    },
+    {
+      "code": "ita",
+      "folder": "ita_Latn",
+      "name": "Italian",
+      "endonym": "Italiano",
+      "script": "Latn",
+      "family": "Indo-European/Romance",
+      "tier": "high"
+    },
+    {
+      "code": "jav",
+      "folder": "jav_Latn",
+      "name": "Javanese",
+      "endonym": "Basa Jawa",
+      "script": "Latn",
+      "family": "Austronesian",
+      "tier": "mid"
+    },
+    {
+      "code": "jpn",
+      "folder": "jpn_Jpan",
+      "name": "Japanese",
+      "endonym": "日本語",
+      "script": "Jpan",
+      "family": "Japonic",
+      "tier": "high"
+    },
+    {
+      "code": "kab",
+      "folder": "kab_Latn",
+      "name": "Kabyle",
+      "endonym": "Taqbaylit",
+      "script": "Latn",
+      "family": "Afro-Asiatic/Berber",
+      "tier": "low"
+    },
+    {
+      "code": "kan",
+      "folder": "kan_Knda",
+      "name": "Kannada",
+      "endonym": "ಕನ್ನಡ",
+      "script": "Knda",
+      "family": "Dravidian",
+      "tier": "mid"
+    },
+    {
+      "code": "kik",
+      "folder": "kik_Latn",
+      "name": "Kikuyu",
+      "endonym": "Gĩkũyũ",
+      "script": "Latn",
+      "family": "Niger-Congo/Bantu",
+      "tier": "low"
+    },
+    {
+      "code": "kor",
+      "folder": "kor_Hang",
+      "name": "Korean",
+      "endonym": "한국어",
+      "script": "Hang",
+      "family": "Koreanic",
+      "tier": "high"
+    },
+    {
+      "code": "lat",
+      "folder": "lat_Latn",
+      "name": "Latin",
+      "endonym": "Latina",
+      "script": "Latn",
+      "family": "Indo-European/Italic (historical)",
+      "tier": "low"
+    },
+    {
+      "code": "lav",
+      "folder": "lav_Latn",
+      "name": "Latvian (macro)",
+      "endonym": "Latviešu",
+      "script": "Latn",
+      "family": "Indo-European/Baltic",
+      "tier": "mid"
+    },
+    {
+      "code": "lij",
+      "folder": "lij_Latn",
+      "name": "Ligurian",
+      "endonym": "Ligure",
+      "script": "Latn",
+      "family": "Indo-European/Romance",
+      "tier": "low"
+    },
+    {
+      "code": "lin",
+      "folder": "lin_Latn",
+      "name": "Lingala",
+      "endonym": "Lingála",
+      "script": "Latn",
+      "family": "Niger-Congo/Bantu",
+      "tier": "low"
+    },
+    {
+      "code": "ltg",
+      "folder": "ltg_Latn",
+      "name": "Latgalian",
+      "endonym": "Latgalīšu",
+      "script": "Latn",
+      "family": "Indo-European/Baltic",
+      "tier": "low"
+    },
+    {
+      "code": "lug",
+      "folder": "lug_Latn",
+      "name": "Ganda",
+      "endonym": "Luganda",
+      "script": "Latn",
+      "family": "Niger-Congo/Bantu",
+      "tier": "low"
+    },
+    {
+      "code": "lvs",
+      "folder": "lvs_Latn",
+      "name": "Standard Latvian",
+      "endonym": "Latviešu",
+      "script": "Latn",
+      "family": "Indo-European/Baltic",
+      "tier": "mid"
+    },
+    {
+      "code": "mal",
+      "folder": "mal_Mlym",
+      "name": "Malayalam",
+      "endonym": "മലയാളം",
+      "script": "Mlym",
+      "family": "Dravidian",
+      "tier": "mid"
+    },
+    {
+      "code": "mar",
+      "folder": "mar_Deva",
+      "name": "Marathi",
+      "endonym": "मराठी",
+      "script": "Deva",
+      "family": "Indo-European/Indic",
+      "tier": "mid"
+    },
+    {
+      "code": "mlg",
+      "folder": "mlg_Latn",
+      "name": "Malagasy",
+      "endonym": "Malagasy",
+      "script": "Latn",
+      "family": "Austronesian",
+      "tier": "low"
+    },
+    {
+      "code": "msa",
+      "folder": "msa_Latn",
+      "name": "Malay (macro)",
+      "endonym": "Bahasa Melayu",
+      "script": "Latn",
+      "family": "Austronesian",
+      "tier": "high"
+    },
+    {
+      "code": "nld",
+      "folder": "nld_Latn",
+      "name": "Dutch",
+      "endonym": "Nederlands",
+      "script": "Latn",
+      "family": "Indo-European/Germanic",
+      "tier": "high"
+    },
+    {
+      "code": "nso",
+      "folder": "nso_Latn",
+      "name": "Northern Sotho",
+      "endonym": "Sesotho sa Leboa",
+      "script": "Latn",
+      "family": "Niger-Congo/Bantu",
+      "tier": "low"
+    },
+    {
+      "code": "nyn",
+      "folder": "nyn_Latn",
+      "name": "Nyankole",
+      "endonym": "Runyankore",
+      "script": "Latn",
+      "family": "Niger-Congo/Bantu",
+      "tier": "low"
+    },
+    {
+      "code": "oci",
+      "folder": "oci_Latn",
+      "name": "Occitan",
+      "endonym": "Occitan",
+      "script": "Latn",
+      "family": "Indo-European/Romance",
+      "tier": "low"
+    },
+    {
+      "code": "orm",
+      "folder": "orm_Latn",
+      "name": "Oromo (macro)",
+      "endonym": "Afaan Oromoo",
+      "script": "Latn",
+      "family": "Afro-Asiatic/Cushitic",
+      "tier": "low"
+    },
+    {
+      "code": "ory",
+      "folder": "ory_Orya",
+      "name": "Odia",
+      "endonym": "ଓଡ଼ିଆ",
+      "script": "Orya",
+      "family": "Indo-European/Indic",
+      "tier": "mid"
+    },
+    {
+      "code": "pan",
+      "folder": "pan_Guru",
+      "name": "Punjabi (Eastern)",
+      "endonym": "ਪੰਜਾਬੀ",
+      "script": "Guru",
+      "family": "Indo-European/Indic",
+      "tier": "mid"
+    },
+    {
+      "code": "pcm",
+      "folder": "pcm_Latn",
+      "name": "Nigerian Pidgin",
+      "endonym": "Naijá",
+      "script": "Latn",
+      "family": "Creole (English-based)",
+      "tier": "low"
+    },
+    {
+      "code": "pol",
+      "folder": "pol_Latn",
+      "name": "Polish",
+      "endonym": "Polski",
+      "script": "Latn",
+      "family": "Indo-European/Slavic",
+      "tier": "high"
+    },
+    {
+      "code": "por",
+      "folder": "por_Latn",
+      "name": "Portuguese",
+      "endonym": "Português",
+      "script": "Latn",
+      "family": "Indo-European/Romance",
+      "tier": "high"
+    },
+    {
+      "code": "rcf",
+      "folder": "rcf_Latn",
+      "name": "Réunion Creole",
+      "endonym": "Kréol Rénioné",
+      "script": "Latn",
+      "family": "Creole (French-based)",
+      "tier": "low"
+    },
+    {
+      "code": "rus",
+      "folder": "rus_Cyrl",
+      "name": "Russian",
+      "endonym": "Русский",
+      "script": "Cyrl",
+      "family": "Indo-European/Slavic",
+      "tier": "high"
+    },
+    {
+      "code": "san",
+      "folder": "san_Deva",
+      "name": "Sanskrit",
+      "endonym": "संस्कृतम्",
+      "script": "Deva",
+      "family": "Indo-European/Indic (historical)",
+      "tier": "low"
+    },
+    {
+      "code": "sna",
+      "folder": "sna_Latn",
+      "name": "Shona",
+      "endonym": "ChiShona",
+      "script": "Latn",
+      "family": "Niger-Congo/Bantu",
+      "tier": "low"
+    },
+    {
+      "code": "sot",
+      "folder": "sot_Latn",
+      "name": "Southern Sotho",
+      "endonym": "Sesotho",
+      "script": "Latn",
+      "family": "Niger-Congo/Bantu",
+      "tier": "low"
+    },
+    {
+      "code": "spa",
+      "folder": "spa_Latn",
+      "name": "Spanish",
+      "endonym": "Español",
+      "script": "Latn",
+      "family": "Indo-European/Romance",
+      "tier": "high"
+    },
+    {
+      "code": "swa",
+      "folder": "swa_Latn",
+      "name": "Swahili (macro)",
+      "endonym": "Kiswahili",
+      "script": "Latn",
+      "family": "Niger-Congo/Bantu",
+      "tier": "mid"
+    },
+    {
+      "code": "swh",
+      "folder": "swh_Latn",
+      "name": "Swahili (Coastal)",
+      "endonym": "Kiswahili",
+      "script": "Latn",
+      "family": "Niger-Congo/Bantu",
+      "tier": "mid"
+    },
+    {
+      "code": "tam",
+      "folder": "tam_Taml",
+      "name": "Tamil",
+      "endonym": "தமிழ்",
+      "script": "Taml",
+      "family": "Dravidian",
+      "tier": "mid"
+    },
+    {
+      "code": "tat",
+      "folder": "tat_Cyrl",
+      "name": "Tatar",
+      "endonym": "Татарча",
+      "script": "Cyrl",
+      "family": "Turkic",
+      "tier": "low"
+    },
+    {
+      "code": "tel",
+      "folder": "tel_Telu",
+      "name": "Telugu",
+      "endonym": "తెలుగు",
+      "script": "Telu",
+      "family": "Dravidian",
+      "tier": "mid"
+    },
+    {
+      "code": "tgl",
+      "folder": "tgl_Latn",
+      "name": "Tagalog",
+      "endonym": "Tagalog",
+      "script": "Latn",
+      "family": "Austronesian",
+      "tier": "mid"
+    },
+    {
+      "code": "tha",
+      "folder": "tha_Thai",
+      "name": "Thai",
+      "endonym": "ภาษาไทย",
+      "script": "Thai",
+      "family": "Kra-Dai",
+      "tier": "high"
+    },
+    {
+      "code": "tuk",
+      "folder": "tuk_Latn",
+      "name": "Turkmen",
+      "endonym": "Türkmençe",
+      "script": "Latn",
+      "family": "Turkic",
+      "tier": "low"
+    },
+    {
+      "code": "tur",
+      "folder": "tur_Latn",
+      "name": "Turkish",
+      "endonym": "Türkçe",
+      "script": "Latn",
+      "family": "Turkic",
+      "tier": "high"
+    },
+    {
+      "code": "ukr",
+      "folder": "ukr_Cyrl",
+      "name": "Ukrainian",
+      "endonym": "Українська",
+      "script": "Cyrl",
+      "family": "Indo-European/Slavic",
+      "tier": "high"
+    },
+    {
+      "code": "urd",
+      "folder": "urd_Arab",
+      "name": "Urdu",
+      "endonym": "اُردُو",
+      "script": "Arab",
+      "family": "Indo-European/Indic",
+      "tier": "mid"
+    },
+    {
+      "code": "uzb",
+      "folder": "uzb_Latn",
+      "name": "Uzbek (macro)",
+      "endonym": "Oʻzbekcha",
+      "script": "Latn",
+      "family": "Turkic",
+      "tier": "mid"
+    },
+    {
+      "code": "uzs",
+      "folder": "uzs_Arab",
+      "name": "Southern Uzbek",
+      "endonym": "اوزبیکی",
+      "script": "Arab",
+      "family": "Turkic",
+      "tier": "low"
+    },
+    {
+      "code": "vec",
+      "folder": "vec_Latn",
+      "name": "Venetian",
+      "endonym": "Vèneto",
+      "script": "Latn",
+      "family": "Indo-European/Romance",
+      "tier": "low"
+    },
+    {
+      "code": "vie",
+      "folder": "vie_Latn",
+      "name": "Vietnamese",
+      "endonym": "Tiếng Việt",
+      "script": "Latn",
+      "family": "Austroasiatic",
+      "tier": "high"
+    },
+    {
+      "code": "wuu",
+      "folder": "wuu_Hans",
+      "name": "Wu Chinese",
+      "endonym": "吳語",
+      "script": "Hans",
+      "family": "Sino-Tibetan",
+      "tier": "low"
+    },
+    {
+      "code": "xho",
+      "folder": "xho_Latn",
+      "name": "Xhosa",
+      "endonym": "IsiXhosa",
+      "script": "Latn",
+      "family": "Niger-Congo/Bantu",
+      "tier": "mid"
+    },
+    {
+      "code": "yor",
+      "folder": "yor_Latn",
+      "name": "Yoruba",
+      "endonym": "Yorùbá",
+      "script": "Latn",
+      "family": "Niger-Congo/Volta-Niger",
+      "tier": "mid"
+    },
+    {
+      "code": "yue",
+      "folder": "yue_Hant",
+      "name": "Cantonese",
+      "endonym": "粵語",
+      "script": "Hant",
+      "family": "Sino-Tibetan",
+      "tier": "mid"
+    },
+    {
+      "code": "zho",
+      "folder": "zho_Hans",
+      "name": "Chinese (macro)",
+      "endonym": "中文",
+      "script": "Hans",
+      "family": "Sino-Tibetan",
+      "tier": "high"
+    },
+    {
+      "code": "zsm",
+      "folder": "zsm_Latn",
+      "name": "Standard Malay",
+      "endonym": "Bahasa Malaysia",
+      "script": "Latn",
+      "family": "Austronesian",
+      "tier": "mid"
+    },
+    {
+      "code": "zul",
+      "folder": "zul_Latn",
+      "name": "Zulu",
+      "endonym": "IsiZulu",
+      "script": "Latn",
+      "family": "Niger-Congo/Bantu",
+      "tier": "mid"
+    }
+  ]
+}

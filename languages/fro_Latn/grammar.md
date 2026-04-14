@@ -1,0 +1,5 @@
+# Grammar: Old French (fro)
+
+<!-- TODO: replace placeholder with full content -->
+
+Word order, morphology, phonology, case, conjugation, syntax.

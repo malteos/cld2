@@ -1,0 +1,5 @@
+# Overview: Standard Latvian (lvs)
+
+<!-- TODO: replace placeholder with full content -->
+
+Family, ISO codes, script, speaker count, regions, orthography.

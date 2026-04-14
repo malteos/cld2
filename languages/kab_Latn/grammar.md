@@ -1,0 +1,8 @@
+# Kabyle grammar
+
+- **Word order**: Basic **VSO** in neutral clauses, but **SVO** is also common, especially when the subject is topicalised or pronominal. Modifiers follow the head noun.
+- **Morphology**: **Fusional–templatic**: like other Afro-Asiatic languages, verb forms are built from a consonantal root inflected with vowel patterns and affixes. Heavy use of prefixed and suffixed person/number markers.
+- **Nouns**: Two genders (masculine / feminine) and a **state** contrast (*free state* / *construct state*). Masculine nouns typically start with **a-** (free) / **u-** (construct): *argaz* "man" → *wergaz*. Feminine nouns are bracketed with **t-…-t**: *tameṭṭut* "woman", *taddart* "village", *tamurt* "country". Plurals show a variety of patterns including internal vowel change and the suffixes **-en** (m.) / **-in** (f.).
+- **Verbs**: Three main stems (aorist, perfective, imperfective) derived from a root. Person is marked on both sides of the stem (circumfix): 1sg **-ɣ**, 2sg **t-…-ḍ**, 3sg.m **i-/y-**, 3sg.f **t-**, 1pl **n-**, 2pl.m **t-…-m**, 3pl.m **-n**, 3pl.f **-nt**. Preverbal particles **ad** (irrealis/future), **la** (progressive, in some varieties **aqla-**), and the negator **ur … ara** encode TAM/polarity.
+- **Phonology**: Rich consonant inventory with pharyngeals **ɛ ḥ**, emphatics **ḍ ṣ ṭ ẓ**, velar fricative **ɣ**, uvular **q**, and the affricates **č**, **ǧ**. Three short vowels **a i u** plus a schwa **e**. Gemination is contrastive.
+- **Syntax notes**: Clitic pronouns attach to verbs and prepositions (*yenna-yas*, *d-yusa*). Particle **d** is a ubiquitous predicative/copula-like element ("it is"); **n** marks genitive ("of").

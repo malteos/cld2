@@ -1,0 +1,8 @@
+# Persian grammar
+
+- **Word order**: Default SOV (Subject–Object–Verb); modifiers generally follow the noun via the *ezāfe* construction (`کتابِ من` *ketāb-e man* "book-of me"). Persian is head-initial in the noun phrase after ezāfe but head-final in the clause.
+- **Morphology**: Mildly fusional/analytic. Minimal case marking on nouns; grammatical relations are shown by postpositions, the object marker **را** (*rā*) for definite direct objects, and rich verbal affixes.
+- **Nouns**: No grammatical gender, no definite article (indefiniteness is marked by enclitic **ـی** *-i* or the word **یک** *yek*). Plural is formed with **ـها** *-hā* (productive, for everything) or **ـان** *-ān* (for animates). The *ezāfe* enclitic (written `ـِ` if vocalised, often unwritten) links a head noun to its modifiers and possessors.
+- **Verbs**: Two stems (present, past) from which all tenses and moods are built. Personal endings agree with the subject in person and number: 1sg **ـم**, 2sg **ـی**, 3sg **ـد** / zero in past, 1pl **ـیم**, 2pl **ـید**, 3pl **ـند**. Preverbal **می‌** marks imperfective/present; **بـ** marks subjunctive/imperative; **نـ / نمی‌** negate. Compound verbs with a light verb (کردن، شدن، زدن) are extremely productive.
+- **Phonology**: Six vowels /æ e i o u ɑ/, no length distinction in modern Tehrani Persian; consonants include uvular /q~ɢ/ written ق/غ. No grammatical tone. Stress is largely final in nouns, penultimate/initial in verbs.
+- **Syntax**: Pro-drop (subjects are optional). Copula is expressed with clitic forms of *budan* (`ـم، ‌ی، ‌ست، ‌یم، ‌ید، ‌ند`). Negation precedes the verb. Relative clauses use the invariable complementiser **که** (*ke*).

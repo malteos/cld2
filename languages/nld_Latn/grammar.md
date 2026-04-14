@@ -1,0 +1,8 @@
+# Dutch grammar
+
+- **Word order**: V2 in main clauses, verb-final in subordinate clauses — very similar to German but with slightly freer clause-final verb cluster ordering (*…dat ik het gelezen heb* or *…dat ik het heb gelezen*). Separable prefixes detach in finite clauses (*Ik sta om zeven uur op*).
+- **Morphology**: Fusional but significantly reduced relative to German. Case has largely disappeared from nouns; it survives only in a few set expressions (*des konings*, *ter plaatse*). Adjectives take `-e` before most nouns (*de grote man*, *het grote huis*) and bare form after an indefinite neuter article (*een groot huis*).
+- **Nouns**: Two genders in practice — common (*de*-words) and neuter (*het*-words). Plural mostly in `-en` or `-s` (*huizen, auto's*). Productive diminutive `-je`/`-tje`/`-pje`/`-etje` (*boek → boekje*, *man → mannetje*).
+- **Verbs**: Conjugated for person/number in present and past, with weak verbs taking `-de`/`-te` past and `-d`/`-t` past participle (usually with `ge-` prefix: *gemaakt, gelopen*). Strong verbs use ablaut (*lopen/liep/gelopen*). Auxiliaries *zijn/hebben* form the perfect, *worden* the dynamic passive, *zijn* the stative passive.
+- **Phonology**: About 23 consonants and 16 vowels/diphthongs. Notable sounds: the voiceless velar/uvular fricative /x/ (hard *g*/*ch*), the diphthongs /ɛi/ (spelled *ij*/*ei*), /œy/ (spelled *ui*), and /ʌu/ (spelled *au*/*ou*). Final-obstruent devoicing applies (*hond* /hɔnt/).
+- **Syntax**: Non-pro-drop; the copula *zijn* is obligatory. Negation by *niet* (verbal) or *geen* (nominal), no double negation in standard Dutch. Relative clauses use *die* (common) or *dat* (neuter).

@@ -1,0 +1,8 @@
+# German grammar
+
+- **Word order**: V2 in main clauses (finite verb in second position: *Heute gehe ich ins Kino*) and verb-final in subordinate clauses (*…, weil ich müde bin*). Separable verb prefixes move to clause-final position (*Ich stehe früh auf*). Non-finite verbs stack at the end (*Ich habe das Buch gelesen*).
+- **Morphology**: Fusional with rich inflection. Four cases (nominative, accusative, dative, genitive) are marked on articles, adjectives, and pronouns, and partly on nouns (`-(e)s` genitive sg masc/neut, `-(e)n` dative pl).
+- **Nouns**: Three genders (masculine, feminine, neuter). Plurals formed by `-e`, `-(e)n`, `-er`, `-s`, or zero, often with umlaut (*Mann/Männer*, *Haus/Häuser*). Compound nouns are fully productive (*Handschuhfach*, *Krankenversicherungsbeitrag*).
+- **Verbs**: Conjugated for person/number (*ich gehe, du gehst, er geht, wir gehen, ihr geht, sie gehen*), tense (present, preterite, perfect, pluperfect, future I & II), mood (indicative, subjunctive I & II, imperative), and voice (active, *werden*-passive, *sein*-passive). Strong verbs use ablaut (*singen/sang/gesungen*).
+- **Phonology**: Approximately 20 consonants and 15 vowels. Distinctive sounds include /x/ and /ç/ (both spelled *ch*), the front-rounded vowels /y/ /ø/ (*ü, ö*), affricates /pf/ and /ts/ (spelled *pf, z*), and final-obstruent devoicing (*Bund* /bʊnt/).
+- **Syntax**: Non-pro-drop; overt pronouns required. The copula *sein* is obligatory. Standard negation uses *nicht* (verbal) and *kein-* (nominal). Relative clauses are introduced by inflected *der/die/das* or *welcher/welche/welches*.

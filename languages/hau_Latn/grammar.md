@@ -1,0 +1,8 @@
+# Hausa grammar
+
+- **Word order**: Basic **SVO**. Strongly head-initial: possessor follows head noun (*gidan Musa* "Musa's house"), adjective usually follows noun, prepositions precede NP.
+- **Morphology**: Mildly fusional with agglutinative features. Verbs combine with a rich system of preverbal **TAM/person markers** (the "person–aspect complex" or PAC) such as *na*, *ka*, *kin*, *ya*, *ta*, *mun*, *kun*, *sun* (perfective) and *ina*, *kana*, *yana*, *muna*, *kuna*, *suna* (continuous). Nouns take plural suffixes and reduplication: *-una*, *-aye*, *-oCi*, *-ai*, e.g. *gida → gidaje* "houses".
+- **Nouns**: Two genders (masculine / feminine); feminine nouns and proper names typically end in **-a** (*mace*, *Hauwa*). Linker **-n** (masc.) / **-r** (fem.) attaches to a head noun before a modifier: *rigar yarinya* "the girl's dress".
+- **Verbs**: Seven **verb grades** (I–VII) encode valency, aspect, and ventive vs. efferential motion through vowel- and tone-pattern alternations on the stem. Tense/aspect is carried mainly by the PAC, not by the verb itself.
+- **Phonology**: Inventory includes implosives **ɓ /ɓ/**, **ɗ /ɗ/**, ejective **ƙ /kʼ/**, plus **ts /tsʼ/**, glottal stop, and a contrast of short/long vowels and high/low tone. Tone is lexical and grammatical but not written in everyday text.
+- **Syntax notes**: No definite article; indefiniteness can be marked with *wani / wata*. Negation uses the bipartite **ba … ba** frame (*ba ya zuwa ba* "he is not coming"). Copula *ne* (masc.) / *ce* (fem.) is clitic-final: *mutum ne*, *mace ce*. Pro-drop possible because subject is signalled in the PAC.

@@ -1,0 +1,8 @@
+# English grammar
+
+- **Word order**: Strict SVO in main clauses. Auxiliary–subject inversion marks yes/no questions (*Did you see?*) and wh-questions (*Where is it?*). English is strongly analytic/isolating compared with other Germanic languages.
+- **Morphology**: Weakly fusional. Productive inflectional endings are limited to `-s` (3sg present, plural, possessive), `-ed` (past/past participle), `-ing` (progressive/gerund), and comparative/superlative `-er`/`-est`. Derivational suffixes such as `-tion`, `-ment`, `-ness`, `-ity`, `-able`, `-less`, `-ful` are highly productive.
+- **Nouns**: No grammatical gender. Number is marked by `-s`/`-es`, with a small set of irregulars (*man/men*, *child/children*, *foot/feet*). No case marking on nouns except the clitic `'s` genitive. Definite article *the*, indefinite *a/an*.
+- **Verbs**: Tense is fused with aspect through auxiliaries: *do/does/did* (emphasis, negation, questions), *have/has/had* (perfect), *be/is/was/were* (progressive and passive), modals *will, would, can, could, shall, should, may, might, must*. Only the 3sg present is overtly agreement-marked. Strong verbs use ablaut (*sing/sang/sung*, *take/took/taken*).
+- **Phonology**: Roughly 24 consonants and 12–20 vowels depending on dialect, including dental fricatives /θ ð/ (spelled *th*), rhotic vs non-rhotic /r/, and contrastive vowel length/quality. Stress is lexical and often contrastive (*ˈrecord* vs *reˈcord*).
+- **Syntax**: Non-pro-drop; overt subjects are obligatory (*It is raining*). The copula *be* is always present. Standard negation uses *not*/`-n't` after an auxiliary (*does not*, *won't*). Double negatives are non-standard. Relative clauses introduced by *that/which/who*.
