@@ -1,5 +1,8 @@
-# Grammar: Kannada (kan)
+# Kannada grammar
 
-<!-- TODO: replace placeholder with full content -->
-
-Word order, morphology, phonology, case, conjugation, syntax.
+- **Word order**: SOV, strictly head-final. Modifiers precede heads; postpositions, not prepositions. Relative clauses precede the noun and use non-finite participial verb forms.
+- **Morphology**: Agglutinative and suffixing, with long, segmentable suffix chains on both nouns and verbs. Prefixes are not grammatically productive. Moderate sandhi (internal vowel fusion) at morpheme boundaries.
+- **Nouns**: Two numbers (plural `-ಗಳು` *-gaḷu*). Three pronominal genders (masculine, feminine, neuter) in the third person; nouns divide into rational (human) and non-rational classes for agreement. Seven–eight cases: nominative (Ø), accusative `-ಅನ್ನು` *-annu*, dative `-ಗೆ/-ಕ್ಕೆ` *-ge/-kke*, genitive `-ಅ/-ದ` *-a/-da*, instrumental `-ಇಂದ` *-inda*, locative `-ಅಲ್ಲಿ/-ಒಳಗೆ` *-alli/-oḷage*, ablative `-ಇಂದ`, sociative `-ಜೊತೆಗೆ` *-joṭege*.
+- **Verbs**: Three tenses (past, present, future); suffixes fuse tense + person/number/gender, e.g. `-ುತ್ತೇನೆ` (present 1sg), `-ಿದನು` (past 3sg.m), `-ುತ್ತಾರೆ` (present 3pl hon.). Negation via dedicated forms such as `-ಇಲ್ಲ` *-illa* or negative copula **ಅಲ್ಲ**. Aspect/mood expressed with auxiliaries. Causative `-ಇಸು` *-isu* is productive.
+- **Phonology**: Five short/long vowel pairs (ಅ ಆ ಇ ಈ ಉ ಊ ಎ ಏ ಒ ಓ) plus diphthongs ಐ, ಔ. Four-way stop contrast (voicing + aspiration). Open-syllable tendency: most native words end in a vowel, characteristically **ು** *-u*.
+- **Syntax notes**: Pro-drop. No present-tense copula in equational sentences. Extensive quotative use of **ಎಂದು** *endu* ("saying, that") before reporting verbs, analogous to Telugu *ani*.

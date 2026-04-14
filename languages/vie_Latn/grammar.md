@@ -1,5 +1,8 @@
-# Grammar: Vietnamese (vie)
+# Vietnamese grammar
 
-<!-- TODO: replace placeholder with full content -->
-
-Word order, morphology, phonology, case, conjugation, syntax.
+- **Word order**: SVO. Modifiers follow the head: nhà đẹp 'beautiful house' (noun + adjective), sách của tôi 'my book' (noun + GEN + possessor), người đến hôm qua 'the person who came yesterday' (noun + relative clause).
+- **Morphology**: Strongly isolating/analytic. No inflection — words are invariant. Grammatical meaning is carried by word order and a rich set of grammatical particles. Compounding and reduplication are the main word-formation processes.
+- **Nouns**: No gender, no case, no obligatory plural. Plurality is marked by optional quantifiers những (indefinite plural) and các (definite plural). Classifiers (loại từ) are obligatory when counting or specifying: con (animals), cái (inanimate), người (humans), quyển/cuốn (volumes): ba con chó 'three dogs', cái bàn này 'this table'.
+- **Verbs**: No conjugation. Tense/aspect expressed with preverbal markers: đã (past/perfective), đang (progressive), sẽ (future), vẫn (still), từng (experiential), mới (just), sắp (about to). Negation: không (general), chưa (not yet), chẳng (emphatic not).
+- **Phonology**: **Six tones** in Northern (Hanoi) standard — level, high rising, low falling, dipping, creaky rising, low creaky falling — encoded by the six diacritic patterns (none, ´ ` ả ã ạ). Syllables are (C)(w)V(C) with a restricted final-consonant set (/p t k m n ŋ w j/). Monosyllabic roots combine freely into compounds.
+- **Syntax notes**: Pro-drop is common. Copula là links nominals (Tôi là sinh viên 'I am a student'); omitted before predicate adjectives (Tôi mệt 'I (am) tired'). Questions formed by final particle không / chưa (yes/no), or wh-word in situ: ở đâu 'where', tại sao 'why', cái gì 'what'. Topic fronting is frequent. Serial verb constructions dominate: đi mua sách 'go buy books'.

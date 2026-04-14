@@ -1,5 +1,8 @@
-# Grammar: Yoruba (yor)
+# Yoruba grammar
 
-<!-- TODO: replace placeholder with full content -->
-
-Word order, morphology, phonology, case, conjugation, syntax.
+- **Word order**: Strict **SVO**, head-initial. Modifiers and possessors follow the head: *ilé mi* "my house", *ọmọ tuntun* "new child".
+- **Morphology**: Strongly **isolating/analytic**. Words are mostly monomorphemic; grammatical relations are expressed by word order and free particles, not by inflection. Productive derivation by prefix (e.g. nominalising **a-**, **o-**, **ì-**, **à-**) and by reduplication (*jó → jíjó* "dancing").
+- **Nouns**: No gender, no case, no number inflection. Plurality is shown by adding **àwọn** ("they/those"): *àwọn ọmọ* "the children". Possession is expressed by juxtaposition or the particle **ti**.
+- **Verbs**: No conjugation for person or number. Tense/aspect/mood is carried by preverbal particles: **ń** (progressive), **máa / yóò / á** (future), **ti** (perfective/anterior), **kò / kì í** (negation). Serial verb constructions are ubiquitous: *mo lọ rà á* "I went and bought it". Negation usually **kò / kì í** before the verb, or **má** for imperatives.
+- **Phonology**: Seven oral vowels **i e ẹ a ọ o u** and five nasal vowels (**in en an ọn un**, written with final n). Three **tones** (high, mid, low), marked with acute, no mark, and grave respectively. Labial-velars **kp (written p)** and **gb** are distinctive. Vowel harmony partly operates among ATR vowels.
+- **Syntax notes**: Copula is split by predicate type: **ni** (identificational, *Olú ni*), **jẹ́** (characterising), **wà** (locational/existential). Focus construction fronts a constituent and marks it with **ni**: *ìwé ni mo rà* "it was a book I bought". No articles; definiteness inferred pragmatically.

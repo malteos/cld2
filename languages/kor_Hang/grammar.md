@@ -1,5 +1,8 @@
-# Grammar: Korean (kor)
+# Korean grammar
 
-<!-- TODO: replace placeholder with full content -->
-
-Word order, morphology, phonology, case, conjugation, syntax.
+- **Word order**: SOV. Verb (or predicate adjective) is strictly clause-final. Modifiers precede their heads. Postpositions (particles), not prepositions.
+- **Morphology**: Agglutinative. Verbs and nouns take stacked suffixes. A verb form like 가셨습니다 decomposes as 가-시-었-습니다 (go + honorific + past + formal-polite-declarative).
+- **Nouns**: No grammatical gender, no articles. Number is optionally marked with -들. Case/role particles attach to noun phrases: 이/가 (nominative), 을/를 (accusative), 의 (genitive), 에 (dative/locative), 에서 (locative/ablative), 으로/로 (instrumental/directional), 와/과 (comitative), 은/는 (topic). The -이/-가 and -을/-를 allomorphs depend on whether the preceding syllable ends in a consonant.
+- **Verbs**: Rich inflection. Tense: past -었/았, future -겠, non-past bare. Aspect via auxiliary chains (-고 있다 progressive, -어 있다 resultative). Seven speech levels (formal polite -습니다, informal polite -아/어요, plain -다, etc.). Honorific -시- infix. Connective endings -고 (and), -어서 (so), -지만 (but), -면 (if). No person/number agreement.
+- **Phonology**: 10 basic vowels + diphthongs; 19 consonants including a three-way stop contrast (plain / aspirated / tense: ㄱ ㅋ ㄲ). Extensive consonant assimilation and palatalisation at syllable boundaries.
+- **Syntax notes**: Pro-drop is pervasive; subjects and objects recoverable from context are routinely omitted. Topic -은/-는 vs subject -이/-가 distinction parallels Japanese. Relative clauses are pre-nominal with participial verb forms (-은/-는/-을). Questions marked by rising intonation and/or the -까/-요 ending. Negation: 안 (short form) before verb or -지 않다 (long form) after verb stem.

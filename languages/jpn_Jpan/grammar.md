@@ -1,5 +1,8 @@
-# Grammar: Japanese (jpn)
+# Japanese grammar
 
-<!-- TODO: replace placeholder with full content -->
-
-Word order, morphology, phonology, case, conjugation, syntax.
+- **Word order**: SOV — verb is strictly clause-final. Modifiers (adjectives, relative clauses, genitives) precede their heads. Postpositions, not prepositions.
+- **Morphology**: Agglutinative. Verbs and adjectives carry stacked suffixes for tense, polarity, voice, politeness, mood: 食べさせられなかった ('was not made to eat'). Nouns are largely uninflected but combine with postpositional particles.
+- **Nouns**: No grammatical gender, no number inflection (plurality inferred from context or marked with suffixes like -たち, -ら). Case and role are marked by postpositions: が (nominative), を (accusative), に (dative/locative), で (instrumental/locative), から (ablative), まで (up to), と (comitative), の (genitive/attributive), は (topic).
+- **Verbs**: Two main classes (ichidan 一段 and godan 五段) plus irregular する and 来る. Past `-た`, non-past `-る/u`, negative `-ない`, polite `-ます`, te-form `-て` for chaining. No person/number agreement. Copula だ/です links nominal predicates; adjectives of the `-い` class inflect themselves (高い → 高かった → 高くない).
+- **Phonology**: Mora-based timing. Five vowels /a i u e o/. Pitch accent (not tone) distinguishes minimal pairs. Geminate consonants (っ) and long vowels (written with ー in Katakana, vowel+う or repeated vowel in Hiragana).
+- **Syntax notes**: Pro-drop of subject and object is pervasive when recoverable. Topic particle は (wa) vs subject particle が (ga) is a central grammatical distinction. Honorific/humble registers (敬語) heavily affect verb morphology. Questions marked with sentence-final か; negation embedded in verb morphology (-ない, -ません). No relative pronouns — relatives are pre-nominal participial clauses.

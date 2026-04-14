@@ -1,5 +1,8 @@
-# Grammar: Igbo (ibo)
+# Igbo grammar
 
-<!-- TODO: replace placeholder with full content -->
-
-Word order, morphology, phonology, case, conjugation, syntax.
+- **Word order**: **SVO**, head-initial. Modifiers follow the head: *ụlọ ukwu* "big house", *nwoke ahụ* "that man".
+- **Morphology**: Predominantly **isolating/analytic** with agglutinative verb morphology. Heavy use of verb-verb compounding and **bound vowel suffixes** on verb roots.
+- **Nouns**: No grammatical gender, no case, no plural inflection. Plurality shown with **ndị** ("those/people") or by context: *ndị mmadụ* "the people", *ụmụ* "children". Most nouns begin with a vowel (**a-**, **e/ẹ-**, **i/ị-**, **o/ọ-**, **u/ụ-**).
+- **Verbs**: The verb root is typically consonant + vowel (CV). Inflectional and derivational suffixes are attached, with vowel harmony governing the choice (ATR-based): *-la/-le* (perfective), *-ra/-re* (rV past), *-wara/-were*, *-gha/-ghe* (indefinite), *-kwa/-kwe* (additive/adverbial). TMA particles **na** (progressive), **ga-** (future), **e- / a-** (stative/participial), **ka** (subjunctive). Negation uses the suffixes **-ghị / -ghi** (*abụghị m*, *anaghị m eme*) or **e-...-ghị** frames.
+- **Phonology**: Eight oral vowels split into two ATR sets: **i e o u** (+ATR) vs. **ị a ọ ụ** (−ATR); vowels within a word must share ATR. Two phonemic tones (high, low) with downstep. Labial-velars **kp, gb**; doubly-articulated **ny, nw, kw, gw, gh**; syllabic **m, n** (*m̀ sị*, *ńlele*).
+- **Syntax notes**: Copula **bụ** (identity) vs. **dị** (quality/location): *Ọ bụ onye Igbo*, *Ọ dị mma*. Pro-drop possible; subject pronoun is usually kept. Relative clauses are juxtaposed, often introduced by **nke**. Question particle **ọ?** fronts or floats.
