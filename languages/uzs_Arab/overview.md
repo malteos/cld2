@@ -1,5 +1,13 @@
-# Overview: Southern Uzbek (uzs)
+# Southern Uzbek (uzs)
 
-<!-- TODO: replace placeholder with full content -->
+## Summary
 
-Family, ISO codes, script, speaker count, regions, orthography.
+Southern Uzbek (endonym often **اوزبیکی** or **اوزبېکی** *ŭzbekī*) is a Turkic → Common Turkic → Karluk language spoken primarily in northern Afghanistan. ISO codes: `uzs` (639-3); it shares `uz` (639-1) with Northern Uzbek, which is the Latin/Cyrillic-script Uzbekistani standard (`uzn`). L1 speakers are estimated at 3–5 million, chiefly in Afghanistan's Balkh, Jowzjan, Faryab, Samangan, Takhar, Kunduz and Sar-e-Pol provinces, with smaller communities in Pakistan and Tajikistan. CommonLID's `uzs_Arab` tag covers the Perso-Arabic-script Afghan variety.
+
+## Writing system
+
+Southern Uzbek is written right-to-left in a Perso-Arabic script that takes the Persian base (including **پ چ ژ گ**) and adds extra vowel letters to represent Turkic vowel harmony. The most diagnostic are **ۉ** (U+06C9, back rounded /ø~ɵ/) and **ې** (U+06D0, front unrounded /e~ɛ/); additional vowel letters **ۆ** (U+06C6) and **ۈ** (U+06C8) are also found. Word-final **ی / ې** and **و / ۉ** distinguish back/front vowels where Persian would write only **ی** or **و**. The script does *not* use the Urdu retroflex set **ٹ ڈ ڑ**. Punctuation and digits follow Persian (sentence-final `.`, comma **،**, Eastern Arabic-Indic numerals).
+
+## History and status
+
+Southern Uzbek diverges from Northern Uzbek (the standard of Uzbekistan, written in Latin since 1993) mainly in retaining the Arabic script, exhibiting heavier Persian/Tajik contact influence, and showing older Turkic vowel-harmony distinctions. It has been used in print and in Afghan television since the 1980s and gained official regional recognition in Afghanistan's 2004 constitution.

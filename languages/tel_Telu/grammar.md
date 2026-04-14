@@ -1,5 +1,8 @@
-# Grammar: Telugu (tel)
+# Telugu grammar
 
-<!-- TODO: replace placeholder with full content -->
-
-Word order, morphology, phonology, case, conjugation, syntax.
+- **Word order**: Strict SOV, head-final throughout. Modifiers precede the noun; postpositions follow. Subordinate and relative clauses are pre-head and use non-finite participial verb forms.
+- **Morphology**: Agglutinative and suffixing, with clearly segmentable morpheme boundaries. Stems accept long, orderly chains of case, number, tense, person/number/gender, mood, and politeness suffixes. Some sandhi (fusion) occurs at morpheme boundaries; compound formation is productive.
+- **Nouns**: Two numbers (singular, plural `-లు` *-lu* / `-గులు` *-gulu*); three grammatical genders in the singular of third-person pronouns (masculine / feminine / neuter), but nouns themselves divide primarily between **mahat** (human/rational) and **amahat** (non-human/irrational) for agreement purposes. Seven–eight cases: nominative (Ø), accusative `-ని/-ను`, dative `-కి/-కు` *-ki/-ku*, genitive `-యొక్క` *-yokka* / `-(ని)`, instrumental `-తో` *-tō*, locative `-లో` *-lō*, ablative `-నుండి` *-nuṇḍi*.
+- **Verbs**: Three tenses (past, present-future, future-habitual) with person-number-gender agreement suffixes; aspect/mood expressed via auxiliaries. Negation uses forms of *kādu* / *lēdu* / dedicated negative suffixes such as `-డు`/`-లేదు`. A productive causative suffix `-ఇంచు` *-iñcu*. Non-finite forms include converbs (`-ని/-ఇ`), infinitives (`-టం/-డం`), and participles (`-ే/-ిన`).
+- **Phonology**: Five vowel qualities with short/long contrast (అ ఆ, ఇ ఈ, ఉ ఊ, ఎ ఏ, ఒ ఓ) plus diphthongs ఐ, ఔ. Four-way stop contrast (voiceless/voiceless-aspirated/voiced/voiced-aspirated). Near-universal open-syllable tendency: most native words end in a vowel, typically **ు** *-u*.
+- **Syntax notes**: Pro-drop; no overt copula in present-tense equational clauses. Extensive quotative use of **అని** *ani* ("saying, that") to embed clauses.
