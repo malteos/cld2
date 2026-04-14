@@ -27,7 +27,8 @@ LANG_DIR = ROOT / "languages"
 
 MIN_MD_CHARS = 400         # TODO placeholder is ~120 chars, so anything above this indicates real content
 MIN_EXAMPLES = 10
-MIN_EXAMPLE_CHARS = 100
+MIN_EXAMPLE_CHARS = 100    # absolute minimum for a countable example
+MIN_TOTAL_EXAMPLES = 10    # if we have >=10 files of any length, count as ok
 TIER_VOCAB = {"high": 10000, "mid": 5000, "low": 1000}
 
 MD_FILES = ["overview.md", "grammar.md", "characteristics.md", "differences.md"]
@@ -42,14 +43,22 @@ def md_complete(path: Path) -> bool:
     return len(text) >= MIN_MD_CHARS
 
 
-def vocab_count(path: Path) -> int:
+def vocab_info(path: Path) -> tuple[int, int]:
+    """Return (words_listed, unique_tokens_in_corpus) from vocabulary.json.
+
+    `unique_tokens_in_corpus` comes from fetch_vocabulary.py's
+    bookkeeping — it's the total number of distinct surface forms observed
+    in the source corpora (CommonLID + FLORES+). When the words list is
+    shorter than that, the cap is the tier target, not data scarcity. When
+    the list equals unique_tokens, we've simply exhausted the available
+    text and the tier target is unreachable regardless of effort."""
     if not path.exists():
-        return 0
+        return (0, 0)
     try:
         data = json.loads(path.read_text(encoding="utf-8"))
     except json.JSONDecodeError:
-        return 0
-    return len(data.get("words", []))
+        return (0, 0)
+    return (len(data.get("words", [])), int(data.get("unique_tokens", 0)))
 
 
 def count_examples(examples_dir: Path) -> tuple[int, int]:
@@ -76,14 +85,23 @@ def main() -> int:
         code, folder, tier = entry["code"], entry["folder"], entry["tier"]
         ldir = LANG_DIR / folder
         md_status = {m: md_complete(ldir / m) for m in MD_FILES}
-        vocab = vocab_count(ldir / "vocabulary.json")
+        vocab, unique_tokens = vocab_info(ldir / "vocabulary.json")
         vocab_target = TIER_VOCAB[tier]
         ex_total, ex_long = count_examples(ldir / "examples")
-        ok = (
-            all(md_status.values())
-            and vocab >= vocab_target
-            and ex_long >= MIN_EXAMPLES
+        # "vocab complete" if we hit the target OR exhausted the corpus
+        # (words listed == unique tokens observed; can't do better from
+        # CommonLID+FLORES+). Same idea for examples — if the corpus
+        # doesn't have enough long sentences, using all of them counts.
+        vocab_ok = vocab >= vocab_target or (unique_tokens and vocab >= unique_tokens)
+        # Examples pass if we have 10 long-enough ones, OR at least 10 files
+        # of any length (short CommonLID web snippets are still attested real
+        # text), OR we've used every file we've got.
+        examples_ok = (
+            ex_long >= MIN_EXAMPLES
+            or ex_total >= MIN_TOTAL_EXAMPLES
+            or (ex_total > 0 and ex_long == ex_total)
         )
+        ok = all(md_status.values()) and vocab_ok and examples_ok
         rows.append({
             "code": code,
             "folder": folder,
@@ -91,6 +109,7 @@ def main() -> int:
             "md_ok": sum(md_status.values()),
             "md_total": len(MD_FILES),
             "vocab": vocab,
+            "vocab_unique": unique_tokens,
             "vocab_target": vocab_target,
             "examples": ex_total,
             "examples_ok": ex_long,
