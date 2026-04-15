@@ -29,3 +29,18 @@ digraph form remains dominant in practice. Uzbek Latin has **no**
 Uzbek has cycled Arabic → Latin (1929) → Cyrillic (1940) → Latin
 (1993, revised 1995). Cyrillic is still used in parallel by older
 media, so parallel `uzb_Cyrl` material exists outside this folder.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://uz.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.gov.uz/uz` — Government of Uzbekistan — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://uz.wikipedia.org/` — Uzbek Wikipedia (Latin) (cultural)
+- `https://www.gov.uz/uz` — Government of Uzbekistan (gov)

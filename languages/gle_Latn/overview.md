@@ -22,3 +22,20 @@ spoken.
 Standard written Irish (*An Caighdeán Oifigiúil*) was codified in 1958;
 dialect variation (Munster, Connacht, Ulster) remains visible in word
 choice and spelling.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://ga.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.rte.ie/news/nuacht/` — Nuacht RTÉ (Irish) — _live WebFetch_
+- `https://www.gov.ie/ga/` — Gov.ie — Irish-language portal — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://ga.wikipedia.org/` — Irish Wikipedia (cultural)
+- `https://www.rte.ie/news/nuacht/` — Nuacht RTÉ (Irish) (news)
+- `https://www.gov.ie/ga/` — Gov.ie — Irish-language portal (gov)

@@ -11,3 +11,19 @@ Tamil is written in the Tamil script, a Brahmic abugida with no case distinction
 ## History and status
 
 Tamil has a continuous literary tradition spanning more than two millennia (Sangam literature dates to c. 300 BCE–300 CE) and is one of India's classical languages. Modern written Tamil preserves a strong diglossia between literary (*centamiḻ*) and colloquial (*koṭuntamiḻ*) registers.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://ta.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.dinamani.com/` — Dinamani — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://ta.wikipedia.org/` — Tamil Wikipedia (cultural)
+- `https://www.dinamani.com/` — Dinamani (news)
+- `https://www.tn.gov.in/tamil` — Government of Tamil Nadu (gov)

@@ -11,3 +11,19 @@ Gun is written in a Latin alphabet aligned with the pan-Gbe **Africa Alphabet** 
 ## History and status
 
 Gun is a vehicular language in the Porto-Novo area and is used in radio, Bible translation (Biblica, Jehovah's Witnesses), and local publishing. It is mutually intelligible with Fon to a high degree; many sources treat them as a single Fon-Gbe continuum.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://beninrevele.bj/` — Bénin Révélé — Government of Benin — _live WebFetch_
+- `https://www.benindiaspora.com/` — Béninoise cultural / education portal — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://www.24haubenin.info/` — 24 Heures au Bénin (news from Benin; some Gungbe) (news)
+- `https://beninrevele.bj/` — Bénin Révélé — Government of Benin (gov)
+- `https://www.benindiaspora.com/` — Béninoise cultural / education portal (education)

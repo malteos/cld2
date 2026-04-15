@@ -1,4009 +1,2268 @@
 {
   "code": "acf",
   "name": "Saint Lucian Creole",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 1346,
+  "unique_tokens": 564,
   "words": [
     {
-      "word": "an",
-      "count": 1006
-    },
-    {
-      "word": "sé",
-      "count": 973
-    },
-    {
-      "word": "ka",
-      "count": 886
-    },
-    {
-      "word": "ki",
-      "count": 860
-    },
-    {
-      "word": "té",
-      "count": 839
-    },
-    {
-      "word": "yo",
-      "count": 682
-    },
-    {
-      "word": "sa",
-      "count": 644
-    },
-    {
-      "word": "pou",
-      "count": 626
-    },
-    {
-      "word": "pa",
-      "count": 568
-    },
-    {
-      "word": "épi",
-      "count": 528
-    },
-    {
-      "word": "nou",
-      "count": 526
-    },
-    {
-      "word": "mwen",
-      "count": 474
-    },
-    {
-      "word": "ni",
-      "count": 419
-    },
-    {
-      "word": "fè",
-      "count": 337
-    },
-    {
-      "word": "di",
-      "count": 335
-    },
-    {
-      "word": "moun",
-      "count": 319
-    },
-    {
-      "word": "kay",
-      "count": 294
-    },
-    {
-      "word": "kon",
-      "count": 275
-    },
-    {
-      "word": "zòt",
-      "count": 267
-    },
-    {
-      "word": "bondyé",
-      "count": 261
-    },
-    {
-      "word": "ou",
-      "count": 246
-    },
-    {
-      "word": "tout",
-      "count": 245
-    },
-    {
-      "word": "la",
-      "count": 234
-    },
-    {
-      "word": "jézi",
-      "count": 221
-    },
-    {
-      "word": "menm",
-      "count": 220
-    },
-    {
-      "word": "èk",
-      "count": 190
-    },
-    {
-      "word": "sala",
-      "count": 185
-    },
-    {
-      "word": "lè",
-      "count": 177
-    },
-    {
-      "word": "adan",
-      "count": 152
-    },
-    {
-      "word": "mé",
-      "count": 149
-    },
-    {
-      "word": "ek",
-      "count": 139
-    },
-    {
-      "word": "vini",
-      "count": 138
-    },
-    {
-      "word": "li",
-      "count": 133
-    },
-    {
-      "word": "kréyol",
-      "count": 130
-    },
-    {
-      "word": "si",
-      "count": 127
-    },
-    {
-      "word": "paski",
-      "count": 117
-    },
-    {
-      "word": "ja",
-      "count": 114
-    },
-    {
-      "word": "asou",
-      "count": 108
-    },
-    {
-      "word": "ké",
-      "count": 104
-    },
-    {
-      "word": "pli",
-      "count": 94
-    },
-    {
-      "word": "bon",
-      "count": 92
-    },
-    {
-      "word": "fransé",
-      "count": 92
-    },
-    {
-      "word": "bay",
-      "count": 90
-    },
-    {
-      "word": "palé",
-      "count": 86
-    },
-    {
-      "word": "bagay",
-      "count": 85
-    },
-    {
-      "word": "ba",
-      "count": 85
-    },
-    {
-      "word": "wè",
-      "count": 85
-    },
-    {
-      "word": "moun-an",
-      "count": 83
-    },
-    {
-      "word": "pé",
-      "count": 76
-    },
-    {
-      "word": "alé",
-      "count": 74
-    },
-    {
-      "word": "lanng",
-      "count": 72
-    },
-    {
-      "word": "yonn",
-      "count": 70
-    },
-    {
-      "word": "mannyè",
-      "count": 68
-    },
-    {
-      "word": "sav",
+      "word": "news",
       "count": 63
     },
     {
-      "word": "vlé",
-      "count": 62
-    },
-    {
-      "word": "ankò",
-      "count": 61
-    },
-    {
-      "word": "tan",
-      "count": 59
-    },
-    {
-      "word": "mété",
-      "count": 57
-    },
-    {
-      "word": "tou",
-      "count": 56
-    },
-    {
-      "word": "pasé",
-      "count": 55
-    },
-    {
-      "word": "koté",
-      "count": 55
-    },
-    {
-      "word": "dé",
-      "count": 55
-    },
-    {
-      "word": "nonm",
-      "count": 54
-    },
-    {
-      "word": "yon",
-      "count": 53
-    },
-    {
-      "word": "kont",
-      "count": 53
-    },
-    {
-      "word": "viv",
-      "count": 52
-    },
-    {
-      "word": "lafwa",
-      "count": 52
-    },
-    {
-      "word": "kò",
-      "count": 51
-    },
-    {
-      "word": "kwè",
-      "count": 50
-    },
-    {
-      "word": "toujou",
+      "word": "of",
       "count": 49
     },
     {
-      "word": "fèt",
-      "count": 45
+      "word": "the",
+      "count": 46
     },
     {
-      "word": "bondyé-a",
-      "count": 45
-    },
-    {
-      "word": "jou",
-      "count": 45
-    },
-    {
-      "word": "chay",
-      "count": 45
-    },
-    {
-      "word": "kité",
+      "word": "https",
       "count": 44
     },
     {
-      "word": "man",
+      "word": "www",
       "count": 44
     },
     {
-      "word": "mò",
-      "count": 43
-    },
-    {
-      "word": "pwan",
-      "count": 43
-    },
-    {
-      "word": "pita",
-      "count": 43
-    },
-    {
-      "word": "sèvi",
-      "count": 43
-    },
-    {
-      "word": "sété",
-      "count": 42
-    },
-    {
-      "word": "lé",
-      "count": 42
-    },
-    {
-      "word": "san",
+      "word": "govt",
       "count": 41
     },
     {
-      "word": "tann",
+      "word": "lc",
       "count": 41
     },
     {
-      "word": "jwif-la",
-      "count": 41
-    },
-    {
-      "word": "konnèt",
-      "count": 40
-    },
-    {
-      "word": "dépi",
-      "count": 40
-    },
-    {
-      "word": "ében",
-      "count": 40
-    },
-    {
-      "word": "lòt",
-      "count": 39
-    },
-    {
-      "word": "diʼy",
-      "count": 39
-    },
-    {
-      "word": "lavi",
-      "count": 39
-    },
-    {
-      "word": "bagay-la",
-      "count": 38
-    },
-    {
-      "word": "oben",
-      "count": 38
-    },
-    {
-      "word": "pran",
-      "count": 37
-    },
-    {
-      "word": "jan",
-      "count": 37
-    },
-    {
-      "word": "moutwé",
-      "count": 37
-    },
-    {
-      "word": "ban",
-      "count": 36
-    },
-    {
-      "word": "mandé",
-      "count": 36
-    },
-    {
-      "word": "fok",
+      "word": "lucia",
       "count": 35
     },
     {
-      "word": "gwan",
-      "count": 35
-    },
-    {
-      "word": "lèspwi",
-      "count": 35
-    },
-    {
-      "word": "douvan",
+      "word": "saint",
       "count": 34
     },
     {
-      "word": "toutt",
-      "count": 34
-    },
-    {
-      "word": "sèl",
-      "count": 34
-    },
-    {
-      "word": "pyès",
-      "count": 33
-    },
-    {
-      "word": "kwi",
-      "count": 33
-    },
-    {
-      "word": "gadé",
-      "count": 33
-    },
-    {
-      "word": "chèf",
-      "count": 33
-    },
-    {
-      "word": "kontè",
-      "count": 32
-    },
-    {
-      "word": "avan",
-      "count": 32
-    },
-    {
-      "word": "lanné",
-      "count": 31
-    },
-    {
-      "word": "konsèné",
-      "count": 31
-    },
-    {
-      "word": "manniè",
-      "count": 30
-    },
-    {
-      "word": "sòti",
-      "count": 30
-    },
-    {
-      "word": "dwèt",
-      "count": 30
-    },
-    {
-      "word": "janmen",
-      "count": 29
-    },
-    {
-      "word": "ti",
-      "count": 29
-    },
-    {
-      "word": "fini",
-      "count": 29
-    },
-    {
-      "word": "lan",
-      "count": 29
-    },
-    {
-      "word": "wisivwè",
-      "count": 28
-    },
-    {
-      "word": "latè-a",
-      "count": 28
-    },
-    {
-      "word": "jwenn",
-      "count": 28
-    },
-    {
-      "word": "anba",
-      "count": 28
-    },
-    {
-      "word": "mennen",
-      "count": 28
-    },
-    {
-      "word": "pouvwa",
-      "count": 28
-    },
-    {
-      "word": "pwèt-la",
-      "count": 28
-    },
-    {
-      "word": "tjè",
+      "word": "government",
       "count": 27
-    },
-    {
-      "word": "rivé",
-      "count": 27
-    },
-    {
-      "word": "woulé",
-      "count": 26
-    },
-    {
-      "word": "gran",
-      "count": 26
-    },
-    {
-      "word": "koumansé",
-      "count": 26
-    },
-    {
-      "word": "kontan",
-      "count": 25
-    },
-    {
-      "word": "gwo",
-      "count": 25
-    },
-    {
-      "word": "apwé",
-      "count": 25
-    },
-    {
-      "word": "pyèsonn",
-      "count": 25
-    },
-    {
-      "word": "anyen",
-      "count": 25
-    },
-    {
-      "word": "lwa",
-      "count": 25
-    },
-    {
-      "word": "vil",
-      "count": 24
-    },
-    {
-      "word": "disip",
-      "count": 24
-    },
-    {
-      "word": "anlè",
-      "count": 24
-    },
-    {
-      "word": "jik",
-      "count": 24
-    },
-    {
-      "word": "lézòt",
-      "count": 24
-    },
-    {
-      "word": "sipozé",
-      "count": 23
-    },
-    {
-      "word": "éti",
-      "count": 23
-    },
-    {
-      "word": "non",
-      "count": 23
-    },
-    {
-      "word": "kivédi",
-      "count": 23
-    },
-    {
-      "word": "disip-la",
-      "count": 23
-    },
-    {
-      "word": "senyè",
-      "count": 23
-    },
-    {
-      "word": "byen",
-      "count": 23
-    },
-    {
-      "word": "vwé",
-      "count": 23
-    },
-    {
-      "word": "sèvant",
-      "count": 23
-    },
-    {
-      "word": "bizwen",
-      "count": 23
-    },
-    {
-      "word": "pèsonn",
-      "count": 23
-    },
-    {
-      "word": "senyè-a",
-      "count": 23
-    },
-    {
-      "word": "ansanm",
-      "count": 22
-    },
-    {
-      "word": "mwen-an",
-      "count": 22
-    },
-    {
-      "word": "chak",
-      "count": 22
-    },
-    {
-      "word": "li-a",
-      "count": 22
-    },
-    {
-      "word": "viwé",
-      "count": 22
-    },
-    {
-      "word": "za",
-      "count": 22
-    },
-    {
-      "word": "de",
-      "count": 22
-    },
-    {
-      "word": "voyé",
-      "count": 22
-    },
-    {
-      "word": "latè",
-      "count": 22
-    },
-    {
-      "word": "sosiété",
-      "count": 22
-    },
-    {
-      "word": "wéponn",
-      "count": 21
-    },
-    {
-      "word": "annou",
-      "count": 21
-    },
-    {
-      "word": "chonjé",
-      "count": 21
-    },
-    {
-      "word": "lontan",
-      "count": 21
-    },
-    {
-      "word": "tala",
-      "count": 21
-    },
-    {
-      "word": "twavay",
-      "count": 21
-    },
-    {
-      "word": "lévanjil-la",
-      "count": 20
-    },
-    {
-      "word": "fet",
-      "count": 20
-    },
-    {
-      "word": "zot",
-      "count": 20
-    },
-    {
-      "word": "mo",
-      "count": 20
-    },
-    {
-      "word": "rété",
-      "count": 20
-    },
-    {
-      "word": "kalité",
-      "count": 20
-    },
-    {
-      "word": "ho",
-      "count": 20
-    },
-    {
-      "word": "osi",
-      "count": 20
-    },
-    {
-      "word": "fè-a",
-      "count": 20
-    },
-    {
-      "word": "ta",
-      "count": 20
-    },
-    {
-      "word": "poutji",
-      "count": 19
-    },
-    {
-      "word": "yé",
-      "count": 19
-    },
-    {
-      "word": "fò",
-      "count": 19
-    },
-    {
-      "word": "abrahanm",
-      "count": 19
-    },
-    {
-      "word": "wivé",
-      "count": 19
-    },
-    {
-      "word": "papa",
-      "count": 19
-    },
-    {
-      "word": "dlo",
-      "count": 19
-    },
-    {
-      "word": "vyé",
-      "count": 19
-    },
-    {
-      "word": "kondwi",
-      "count": 19
-    },
-    {
-      "word": "gason",
-      "count": 18
-    },
-    {
-      "word": "kontinié",
-      "count": 18
-    },
-    {
-      "word": "men",
-      "count": 18
-    },
-    {
-      "word": "kwiyé",
-      "count": 18
-    },
-    {
-      "word": "liv",
-      "count": 18
-    },
-    {
-      "word": "matinik",
-      "count": 18
-    },
-    {
-      "word": "pòté",
-      "count": 18
-    },
-    {
-      "word": "matjé",
-      "count": 18
-    },
-    {
-      "word": "madanm",
-      "count": 18
-    },
-    {
-      "word": "doubout",
-      "count": 18
-    },
-    {
-      "word": "neg",
-      "count": 18
-    },
-    {
-      "word": "on",
-      "count": 18
-    },
-    {
-      "word": "jida",
-      "count": 18
-    },
-    {
-      "word": "pawol",
-      "count": 18
-    },
-    {
-      "word": "mizi",
-      "count": 17
-    },
-    {
-      "word": "sanblé",
-      "count": 17
-    },
-    {
-      "word": "sik",
-      "count": 17
-    },
-    {
-      "word": "mèt",
-      "count": 17
-    },
-    {
-      "word": "misié",
-      "count": 17
-    },
-    {
-      "word": "bien",
-      "count": 17
-    },
-    {
-      "word": "légliz-la",
-      "count": 17
-    },
-    {
-      "word": "nonm-lan",
-      "count": 17
-    },
-    {
-      "word": "akwèdi",
-      "count": 17
-    },
-    {
-      "word": "chanté",
-      "count": 17
-    },
-    {
-      "word": "konpwann",
-      "count": 16
-    },
-    {
-      "word": "tonbé",
-      "count": 16
-    },
-    {
-      "word": "lonnè",
-      "count": 16
-    },
-    {
-      "word": "mòso",
-      "count": 16
-    },
-    {
-      "word": "manjé",
-      "count": 16
-    },
-    {
-      "word": "manmay",
-      "count": 16
-    },
-    {
-      "word": "anlo",
-      "count": 16
-    },
-    {
-      "word": "pwéché",
-      "count": 16
-    },
-    {
-      "word": "pawòl",
-      "count": 16
-    },
-    {
-      "word": "pʼòkò",
-      "count": 16
-    },
-    {
-      "word": "anni",
-      "count": 16
-    },
-    {
-      "word": "bò",
-      "count": 16
-    },
-    {
-      "word": "apré",
-      "count": 16
-    },
-    {
-      "word": "chaché",
-      "count": 15
-    },
-    {
-      "word": "pwédyé",
-      "count": 15
-    },
-    {
-      "word": "pass",
-      "count": 15
-    },
-    {
-      "word": "lajan",
-      "count": 15
-    },
-    {
-      "word": "ès",
-      "count": 15
-    },
-    {
-      "word": "plis",
-      "count": 15
-    },
-    {
-      "word": "péyi",
-      "count": 15
-    },
-    {
-      "word": "tan-an",
-      "count": 15
-    },
-    {
-      "word": "ékwi",
-      "count": 15
-    },
-    {
-      "word": "toupatou",
-      "count": 15
-    },
-    {
-      "word": "mové",
-      "count": 15
-    },
-    {
-      "word": "soufè",
-      "count": 15
-    },
-    {
-      "word": "lè-a",
-      "count": 15
-    },
-    {
-      "word": "tousèl",
-      "count": 15
-    },
-    {
-      "word": "nèt",
-      "count": 15
-    },
-    {
-      "word": "manman",
-      "count": 14
-    },
-    {
-      "word": "plas",
-      "count": 14
-    },
-    {
-      "word": "pwépawé",
-      "count": 14
-    },
-    {
-      "word": "tjenn",
-      "count": 14
-    },
-    {
-      "word": "yé-a",
-      "count": 14
-    },
-    {
-      "word": "nèf-la",
-      "count": 14
-    },
-    {
-      "word": "maché",
-      "count": 14
-    },
-    {
-      "word": "lot",
-      "count": 14
-    },
-    {
-      "word": "mi",
-      "count": 14
-    },
-    {
-      "word": "wésisité",
-      "count": 14
-    },
-    {
-      "word": "enstwi",
-      "count": 14
-    },
-    {
-      "word": "manché",
-      "count": 14
-    },
-    {
-      "word": "lévé",
-      "count": 14
-    },
-    {
-      "word": "kriyé",
-      "count": 14
-    },
-    {
-      "word": "kidonk",
-      "count": 14
-    },
-    {
-      "word": "apwézan",
-      "count": 14
-    },
-    {
-      "word": "sel",
-      "count": 14
-    },
-    {
-      "word": "lang",
-      "count": 13
-    },
-    {
-      "word": "kòrint",
-      "count": 13
-    },
-    {
-      "word": "lapenn",
-      "count": 13
-    },
-    {
-      "word": "viré",
-      "count": 13
-    },
-    {
-      "word": "lavé",
-      "count": 13
-    },
-    {
-      "word": "lavéwité-a",
-      "count": 13
-    },
-    {
-      "word": "zafè",
-      "count": 13
-    },
-    {
-      "word": "lidé",
-      "count": 13
-    },
-    {
-      "word": "pouʼw",
-      "count": 13
-    },
-    {
-      "word": "wa",
-      "count": 13
-    },
-    {
-      "word": "lanmò",
-      "count": 13
-    },
-    {
-      "word": "dan",
-      "count": 13
-    },
-    {
-      "word": "népòt",
-      "count": 13
-    },
-    {
-      "word": "konté",
-      "count": 13
-    },
-    {
-      "word": "édé",
-      "count": 13
-    },
-    {
-      "word": "pies",
-      "count": 13
-    },
-    {
-      "word": "pouʼy",
-      "count": 13
-    },
-    {
-      "word": "kalté",
-      "count": 13
-    },
-    {
-      "word": "lanmen",
-      "count": 13
-    },
-    {
-      "word": "fwè",
-      "count": 13
-    },
-    {
-      "word": "kouté",
-      "count": 13
-    },
-    {
-      "word": "jézi-a",
-      "count": 13
-    },
-    {
-      "word": "louk",
-      "count": 13
-    },
-    {
-      "word": "divini",
-      "count": 12
-    },
-    {
-      "word": "lannuit",
-      "count": 12
-    },
-    {
-      "word": "kilti",
-      "count": 12
-    },
-    {
-      "word": "litérati",
-      "count": 12
-    },
-    {
-      "word": "pep",
-      "count": 12
-    },
-    {
-      "word": "fèʼy",
-      "count": 12
-    },
-    {
-      "word": "bel",
-      "count": 12
-    },
-    {
-      "word": "kado",
-      "count": 12
-    },
-    {
-      "word": "twa",
-      "count": 12
-    },
-    {
-      "word": "obéyi",
-      "count": 12
-    },
-    {
-      "word": "travay",
-      "count": 12
-    },
-    {
-      "word": "kò-a",
-      "count": 12
-    },
-    {
-      "word": "diféwan",
-      "count": 12
-    },
-    {
-      "word": "pwonmèt",
-      "count": 12
-    },
-    {
-      "word": "anpami",
-      "count": 12
-    },
-    {
-      "word": "pouvwa-a",
-      "count": 12
-    },
-    {
-      "word": "vié",
-      "count": 12
-    },
-    {
-      "word": "piess",
-      "count": 12
-    },
-    {
-      "word": "nan",
-      "count": 12
-    },
-    {
-      "word": "matjè",
-      "count": 12
-    },
-    {
-      "word": "atè",
-      "count": 12
-    },
-    {
-      "word": "tjenbé",
-      "count": 12
-    },
-    {
-      "word": "tiré",
-      "count": 12
-    },
-    {
-      "word": "katjilé",
-      "count": 11
-    },
-    {
-      "word": "ayen",
-      "count": 11
-    },
-    {
-      "word": "plas-la",
-      "count": 11
-    },
-    {
-      "word": "pito",
-      "count": 11
-    },
-    {
-      "word": "dèyè",
-      "count": 11
-    },
-    {
-      "word": "tèlman",
-      "count": 11
-    },
-    {
-      "word": "pas",
-      "count": 11
-    },
-    {
-      "word": "tè",
-      "count": 11
-    },
-    {
-      "word": "pyé",
-      "count": 11
-    },
-    {
-      "word": "yo-a",
-      "count": 11
-    },
-    {
-      "word": "mouté",
-      "count": 11
-    },
-    {
-      "word": "tèstèman",
-      "count": 11
-    },
-    {
-      "word": "posyòn",
-      "count": 11
-    },
-    {
-      "word": "samz-la",
-      "count": 11
-    },
-    {
-      "word": "simon",
-      "count": 11
-    },
-    {
-      "word": "ess",
-      "count": 11
-    },
-    {
-      "word": "davwè",
-      "count": 11
-    },
-    {
-      "word": "èvèk",
-      "count": 11
-    },
-    {
-      "word": "andidan",
-      "count": 11
-    },
-    {
-      "word": "vann",
-      "count": 11
-    },
-    {
-      "word": "baʼw",
-      "count": 11
-    },
-    {
-      "word": "bliyé",
-      "count": 11
-    },
-    {
-      "word": "enmen",
-      "count": 11
-    },
-    {
-      "word": "mak",
-      "count": 11
-    },
-    {
-      "word": "konmisyon",
-      "count": 11
-    },
-    {
-      "word": "asid",
-      "count": 10
-    },
-    {
-      "word": "épiʼy",
-      "count": 10
-    },
-    {
-      "word": "jòdi",
-      "count": 10
-    },
-    {
-      "word": "disparet",
-      "count": 10
-    },
-    {
-      "word": "atjwèlman",
-      "count": 10
-    },
-    {
-      "word": "li-an",
-      "count": 10
-    },
-    {
-      "word": "wa-a",
-      "count": 10
-    },
-    {
-      "word": "acfnt",
-      "count": 10
-    },
-    {
-      "word": "bible",
-      "count": 10
-    },
-    {
-      "word": "search",
-      "count": 10
-    },
-    {
-      "word": "mannyè-a",
-      "count": 10
-    },
-    {
-      "word": "djè",
-      "count": 10
-    },
-    {
-      "word": "ped",
-      "count": 10
-    },
-    {
-      "word": "lékol",
-      "count": 10
-    },
-    {
-      "word": "chayé",
-      "count": 10
-    },
-    {
-      "word": "konnet",
-      "count": 10
-    },
-    {
-      "word": "nou-an",
-      "count": 10
-    },
-    {
-      "word": "soutou",
-      "count": 10
-    },
-    {
-      "word": "nouvèl-la",
-      "count": 10
-    },
-    {
-      "word": "adowé",
-      "count": 10
-    },
-    {
-      "word": "menmsi",
-      "count": 10
-    },
-    {
-      "word": "sè",
-      "count": 10
-    },
-    {
-      "word": "le",
-      "count": 10
-    },
-    {
-      "word": "model",
-      "count": 10
-    },
-    {
-      "word": "afrik",
-      "count": 10
-    },
-    {
-      "word": "bitasion",
-      "count": 10
-    },
-    {
-      "word": "konfyans",
-      "count": 10
-    },
-    {
-      "word": "lasajès",
-      "count": 10
-    },
-    {
-      "word": "lèspwi-a",
-      "count": 10
-    },
-    {
-      "word": "mémwè",
-      "count": 10
-    },
-    {
-      "word": "bouch",
-      "count": 9
-    },
-    {
-      "word": "syèl-la",
-      "count": 9
-    },
-    {
-      "word": "tjwé",
-      "count": 9
-    },
-    {
-      "word": "wèsté",
-      "count": 9
-    },
-    {
-      "word": "balan",
-      "count": 9
-    },
-    {
-      "word": "izwayèl-la",
-      "count": 9
-    },
-    {
-      "word": "kont-lan",
-      "count": 9
-    },
-    {
-      "word": "es",
-      "count": 9
-    },
-    {
-      "word": "kado-a",
-      "count": 9
-    },
-    {
-      "word": "boug",
-      "count": 9
-    },
-    {
-      "word": "pawé",
-      "count": 9
-    },
-    {
-      "word": "magwé",
-      "count": 9
-    },
-    {
-      "word": "loto",
-      "count": 9
-    },
-    {
-      "word": "tiwé",
-      "count": 9
-    },
-    {
-      "word": "bèl",
-      "count": 9
-    },
-    {
-      "word": "apwann",
-      "count": 9
-    },
-    {
-      "word": "vo",
-      "count": 9
-    },
-    {
-      "word": "syèl",
-      "count": 9
-    },
-    {
-      "word": "pilat",
-      "count": 9
-    },
-    {
-      "word": "ladjé",
-      "count": 9
-    },
-    {
-      "word": "ich",
-      "count": 9
-    },
-    {
-      "word": "swiv",
-      "count": 9
-    },
-    {
-      "word": "pliziè",
-      "count": 9
-    },
-    {
-      "word": "nanj",
-      "count": 9
-    },
-    {
-      "word": "péché",
-      "count": 9
-    },
-    {
-      "word": "kòʼy",
-      "count": 9
-    },
-    {
-      "word": "oblijé",
-      "count": 9
-    },
-    {
-      "word": "asiwé",
-      "count": 9
-    },
-    {
-      "word": "antwé",
-      "count": 9
-    },
-    {
-      "word": "jijé",
-      "count": 9
-    },
-    {
-      "word": "diʼw",
-      "count": 9
-    },
-    {
-      "word": "fèt-la",
-      "count": 9
-    },
-    {
-      "word": "kontè-a",
-      "count": 9
-    },
-    {
-      "word": "enben",
-      "count": 9
-    },
-    {
-      "word": "anglé",
-      "count": 9
-    },
-    {
-      "word": "ékri",
-      "count": 9
-    },
-    {
-      "word": "twayi",
-      "count": 8
-    },
-    {
-      "word": "lézòm-lan",
-      "count": 8
-    },
-    {
-      "word": "hont",
-      "count": 8
-    },
-    {
-      "word": "lanmè",
-      "count": 8
-    },
-    {
-      "word": "touvé",
-      "count": 8
-    },
-    {
-      "word": "lavéwité",
-      "count": 8
-    },
-    {
-      "word": "kanmenm",
-      "count": 8
-    },
-    {
-      "word": "bat",
-      "count": 8
-    },
-    {
-      "word": "asé",
-      "count": 8
-    },
-    {
-      "word": "bwè",
-      "count": 8
-    },
-    {
-      "word": "zyé",
-      "count": 8
-    },
-    {
-      "word": "ayzak",
-      "count": 8
-    },
-    {
-      "word": "èspéyé",
-      "count": 8
-    },
-    {
-      "word": "nouvo",
-      "count": 8
-    },
-    {
-      "word": "tousa",
-      "count": 8
-    },
-    {
-      "word": "véyé",
-      "count": 8
-    },
-    {
-      "word": "plè",
-      "count": 8
-    },
-    {
-      "word": "sové",
-      "count": 8
-    },
-    {
-      "word": "délivwans-lan",
-      "count": 8
-    },
-    {
-      "word": "difé",
-      "count": 8
-    },
-    {
-      "word": "di-a",
-      "count": 8
-    },
-    {
-      "word": "montray",
-      "count": 8
-    },
-    {
-      "word": "lazaròs",
-      "count": 8
-    },
-    {
-      "word": "dlo-a",
-      "count": 8
-    },
-    {
-      "word": "pawòl-la",
-      "count": 8
-    },
-    {
-      "word": "lestravay",
-      "count": 8
-    },
-    {
-      "word": "jis",
-      "count": 8
-    },
-    {
-      "word": "dwa",
-      "count": 8
-    },
-    {
-      "word": "pres",
-      "count": 8
-    },
-    {
-      "word": "konmen",
-      "count": 8
-    },
-    {
-      "word": "chanjé",
-      "count": 8
-    },
-    {
-      "word": "tèt",
-      "count": 8
-    },
-    {
-      "word": "lavi-a",
-      "count": 8
-    },
-    {
-      "word": "konmisyon-an",
-      "count": 8
-    },
-    {
-      "word": "détwi",
-      "count": 8
-    },
-    {
-      "word": "neg-la",
-      "count": 8
-    },
-    {
-      "word": "fwa",
-      "count": 8
-    },
-    {
-      "word": "ankouwajé",
-      "count": 8
-    },
-    {
-      "word": "lakay",
-      "count": 8
-    },
-    {
-      "word": "pwèmyé",
-      "count": 8
-    },
-    {
-      "word": "kontel",
-      "count": 8
-    },
-    {
-      "word": "sèvant-lan",
-      "count": 7
-    },
-    {
-      "word": "pozé",
-      "count": 7
-    },
-    {
-      "word": "dèmen",
-      "count": 7
-    },
-    {
-      "word": "pwonmèt-la",
-      "count": 7
-    },
-    {
-      "word": "paditan",
-      "count": 7
-    },
-    {
-      "word": "ay",
-      "count": 7
-    },
-    {
-      "word": "jou-tala",
-      "count": 7
-    },
-    {
-      "word": "posib",
-      "count": 7
-    },
-    {
-      "word": "zòt-la",
-      "count": 7
-    },
-    {
-      "word": "pléïade",
-      "count": 7
-    },
-    {
-      "word": "rikonnett",
-      "count": 7
-    },
-    {
-      "word": "plan",
-      "count": 7
-    },
-    {
-      "word": "trapé",
-      "count": 7
-    },
-    {
-      "word": "kouri",
-      "count": 7
-    },
-    {
-      "word": "poveb",
-      "count": 7
-    },
-    {
-      "word": "vréyé",
-      "count": 7
-    },
-    {
-      "word": "hòd",
-      "count": 7
-    },
-    {
-      "word": "kòyo",
-      "count": 7
-    },
-    {
-      "word": "chimen",
-      "count": 7
-    },
-    {
-      "word": "lanmityé",
-      "count": 7
-    },
-    {
-      "word": "lapéti",
-      "count": 7
-    },
-    {
-      "word": "vivan",
-      "count": 7
-    },
-    {
-      "word": "faché",
-      "count": 7
-    },
-    {
-      "word": "wézon",
-      "count": 7
-    },
-    {
-      "word": "dakò",
-      "count": 7
-    },
-    {
-      "word": "pwòfèt-la",
-      "count": 7
-    },
-    {
-      "word": "goumen",
-      "count": 7
-    },
-    {
-      "word": "fanmi",
-      "count": 7
-    },
-    {
-      "word": "viv-la",
-      "count": 7
-    },
-    {
-      "word": "pè",
-      "count": 7
-    },
-    {
-      "word": "konsa",
-      "count": 7
-    },
-    {
-      "word": "konprann",
-      "count": 7
-    },
-    {
-      "word": "plen",
-      "count": 7
-    },
-    {
-      "word": "kilès",
-      "count": 7
-    },
-    {
-      "word": "avan-an",
-      "count": 7
-    },
-    {
-      "word": "bout",
-      "count": 7
-    },
-    {
-      "word": "pouvwaʼy",
-      "count": 7
-    },
-    {
-      "word": "pwézans",
-      "count": 7
-    },
-    {
-      "word": "tounen",
-      "count": 7
-    },
-    {
-      "word": "pis",
-      "count": 7
-    },
-    {
-      "word": "jòdi-jou",
-      "count": 7
-    },
-    {
-      "word": "jenn",
-      "count": 7
-    },
-    {
-      "word": "kannaval",
-      "count": 7
-    },
-    {
-      "word": "lapé",
-      "count": 7
-    },
-    {
-      "word": "vèti",
-      "count": 7
-    },
-    {
-      "word": "désann",
-      "count": 7
-    },
-    {
-      "word": "miwak",
-      "count": 7
-    },
-    {
-      "word": "rakonté",
-      "count": 7
-    },
-    {
-      "word": "griyo",
-      "count": 7
-    },
-    {
-      "word": "vré",
-      "count": 7
-    },
-    {
-      "word": "mennenʼy",
-      "count": 7
-    },
-    {
-      "word": "wilizyon",
-      "count": 7
-    },
-    {
-      "word": "kondwi-a",
-      "count": 7
-    },
-    {
-      "word": "gerec",
-      "count": 7
-    },
-    {
-      "word": "kayafas",
-      "count": 7
-    },
-    {
-      "word": "fouyé",
-      "count": 6
-    },
-    {
-      "word": "kad",
-      "count": 6
-    },
-    {
-      "word": "dot",
-      "count": 6
-    },
-    {
-      "word": "martinique",
-      "count": 6
-    },
-    {
-      "word": "santi",
-      "count": 6
-    },
-    {
-      "word": "wi",
-      "count": 6
-    },
-    {
-      "word": "chans",
-      "count": 6
-    },
-    {
-      "word": "listwè",
-      "count": 6
-    },
-    {
-      "word": "trop",
-      "count": 6
-    },
-    {
-      "word": "déziem",
-      "count": 6
-    },
-    {
-      "word": "enpòtan",
-      "count": 6
-    },
-    {
-      "word": "konpanni",
-      "count": 6
-    },
-    {
-      "word": "ladjè",
-      "count": 6
-    },
-    {
-      "word": "pòl",
-      "count": 6
-    },
-    {
-      "word": "lwen",
-      "count": 6
-    },
-    {
-      "word": "mapipi",
-      "count": 6
-    },
-    {
-      "word": "krey",
-      "count": 6
-    },
-    {
-      "word": "sèlman",
-      "count": 6
-    },
-    {
-      "word": "izwayèl",
-      "count": 6
-    },
-    {
-      "word": "genyen",
-      "count": 6
-    },
-    {
-      "word": "asiparé",
-      "count": 6
-    },
-    {
-      "word": "éro",
-      "count": 6
-    },
-    {
-      "word": "désandan",
-      "count": 6
-    },
-    {
-      "word": "korijé",
-      "count": 6
-    },
-    {
-      "word": "istrikti",
-      "count": 6
-    },
-    {
-      "word": "éjip",
-      "count": 6
-    },
-    {
-      "word": "larel",
-      "count": 6
-    },
-    {
-      "word": "pòkò",
-      "count": 6
-    },
-    {
-      "word": "manm",
-      "count": 6
-    },
-    {
-      "word": "zapòt",
-      "count": 6
-    },
-    {
-      "word": "kasé",
-      "count": 6
-    },
-    {
-      "word": "kondwit",
-      "count": 6
-    },
-    {
-      "word": "montré",
-      "count": 6
-    },
-    {
-      "word": "janvier",
-      "count": 6
-    },
-    {
-      "word": "konsidiwé",
-      "count": 6
-    },
-    {
-      "word": "otan",
-      "count": 6
-    },
-    {
-      "word": "valè",
-      "count": 6
-    },
-    {
-      "word": "témwen",
-      "count": 6
-    },
-    {
-      "word": "kwi-a",
-      "count": 6
-    },
-    {
-      "word": "timòfi",
-      "count": 6
-    },
-    {
-      "word": "bet-long",
-      "count": 6
-    },
-    {
-      "word": "mil",
-      "count": 6
-    },
-    {
-      "word": "moziz",
-      "count": 6
-    },
-    {
-      "word": "palé-a",
-      "count": 6
-    },
-    {
-      "word": "jou-a",
-      "count": 6
-    },
-    {
-      "word": "waj",
-      "count": 6
-    },
-    {
-      "word": "zouti",
-      "count": 6
-    },
-    {
-      "word": "ofisyé",
-      "count": 6
-    },
-    {
-      "word": "piblik",
-      "count": 6
-    },
-    {
-      "word": "nef",
-      "count": 6
-    },
-    {
-      "word": "dèwò",
-      "count": 6
-    },
-    {
-      "word": "lajan-an",
-      "count": 6
-    },
-    {
-      "word": "diven-an",
-      "count": 6
-    },
-    {
-      "word": "vin",
-      "count": 6
-    },
-    {
-      "word": "sab",
-      "count": 6
-    },
-    {
-      "word": "sak",
-      "count": 6
-    },
-    {
-      "word": "zapòt-la",
-      "count": 6
-    },
-    {
-      "word": "vini-an",
-      "count": 6
-    },
-    {
-      "word": "pati",
-      "count": 6
-    },
-    {
-      "word": "primié",
-      "count": 6
-    },
-    {
-      "word": "vidé",
-      "count": 6
-    },
-    {
-      "word": "et",
-      "count": 6
-    },
-    {
-      "word": "kisasayésa",
-      "count": 6
-    },
-    {
-      "word": "langaj",
-      "count": 6
-    },
-    {
-      "word": "lavéyé",
-      "count": 6
-    },
-    {
-      "word": "abilité-a",
-      "count": 6
-    },
-    {
-      "word": "madanm-lan",
-      "count": 6
-    },
-    {
-      "word": "wèd",
-      "count": 6
-    },
-    {
-      "word": "wòch",
-      "count": 6
-    },
-    {
-      "word": "sigwé",
-      "count": 6
-    },
-    {
-      "word": "griyo-a",
-      "count": 6
-    },
-    {
-      "word": "afritjen",
-      "count": 6
-    },
-    {
-      "word": "kou",
-      "count": 6
-    },
-    {
-      "word": "espektak",
-      "count": 6
-    },
-    {
-      "word": "fwansé",
-      "count": 6
-    },
-    {
-      "word": "fon",
-      "count": 6
-    },
-    {
-      "word": "anho",
-      "count": 6
-    },
-    {
-      "word": "pouki",
-      "count": 6
-    },
-    {
-      "word": "asanblé",
-      "count": 6
-    },
-    {
-      "word": "oralité",
-      "count": 6
-    },
-    {
-      "word": "en",
-      "count": 5
-    },
-    {
-      "word": "isi-a",
-      "count": 5
-    },
-    {
-      "word": "frans",
-      "count": 5
-    },
-    {
-      "word": "lanmè-a",
-      "count": 5
-    },
-    {
-      "word": "kifè",
-      "count": 5
-    },
-    {
-      "word": "jété",
-      "count": 5
-    },
-    {
-      "word": "zié",
-      "count": 5
-    },
-    {
-      "word": "manjé-a",
-      "count": 5
-    },
-    {
-      "word": "titja",
-      "count": 5
-    },
-    {
-      "word": "ègzanp",
-      "count": 5
-    },
-    {
-      "word": "jèwè-a",
-      "count": 5
-    },
-    {
-      "word": "dènié",
-      "count": 5
-    },
-    {
-      "word": "met-a-manyok",
-      "count": 5
-    },
-    {
-      "word": "tèsalonnika",
-      "count": 5
-    },
-    {
-      "word": "kòʼw",
-      "count": 5
-    },
-    {
-      "word": "ni-an",
-      "count": 5
-    },
-    {
-      "word": "kontiné",
-      "count": 5
-    },
-    {
-      "word": "dapré",
-      "count": 5
-    },
-    {
-      "word": "do",
-      "count": 5
-    },
-    {
-      "word": "dayè",
-      "count": 5
-    },
-    {
-      "word": "zòwèy",
-      "count": 5
-    },
-    {
-      "word": "péyi-a",
-      "count": 5
-    },
-    {
-      "word": "fòs",
-      "count": 5
-    },
-    {
-      "word": "lespri",
-      "count": 5
-    },
-    {
-      "word": "nésésè",
-      "count": 5
-    },
-    {
-      "word": "ofè",
-      "count": 5
-    },
-    {
-      "word": "désizion",
-      "count": 5
-    },
-    {
-      "word": "lòt-la",
-      "count": 5
-    },
-    {
-      "word": "pwofité",
-      "count": 5
-    },
-    {
-      "word": "kouman",
-      "count": 5
-    },
-    {
-      "word": "mòso-a",
-      "count": 5
-    },
-    {
-      "word": "lézòt-la",
-      "count": 5
-    },
-    {
-      "word": "had",
-      "count": 5
-    },
-    {
-      "word": "jijman",
-      "count": 5
-    },
-    {
-      "word": "kondanné",
-      "count": 5
-    },
-    {
-      "word": "sab-la",
-      "count": 5
-    },
-    {
-      "word": "fèb",
-      "count": 5
-    },
-    {
-      "word": "dépan",
-      "count": 5
-    },
-    {
-      "word": "dézyenm",
-      "count": 5
-    },
-    {
-      "word": "kwèsyonnen",
-      "count": 5
-    },
-    {
-      "word": "désidé",
-      "count": 5
-    },
-    {
-      "word": "nonpli",
-      "count": 5
-    },
-    {
-      "word": "il",
-      "count": 5
-    },
-    {
-      "word": "sipòté",
-      "count": 5
-    },
-    {
-      "word": "pawdonnen",
-      "count": 5
-    },
-    {
-      "word": "kouwi",
-      "count": 5
-    },
-    {
-      "word": "mandéʼy",
-      "count": 5
-    },
-    {
-      "word": "souflé",
-      "count": 5
-    },
-    {
-      "word": "papié",
-      "count": 5
-    },
-    {
-      "word": "jérouzalèm",
-      "count": 5
-    },
-    {
-      "word": "mouton-an",
-      "count": 5
-    },
-    {
-      "word": "achté",
-      "count": 5
-    },
-    {
-      "word": "modèn",
-      "count": 5
-    },
-    {
-      "word": "diven",
-      "count": 5
-    },
-    {
-      "word": "chwazi",
-      "count": 5
-    },
-    {
-      "word": "kolé",
-      "count": 5
-    },
-    {
-      "word": "matjokè",
-      "count": 5
-    },
-    {
-      "word": "nasyon",
-      "count": 5
-    },
-    {
-      "word": "nasyon-an",
-      "count": 5
-    },
-    {
-      "word": "oliwon",
-      "count": 5
-    },
-    {
-      "word": "pil",
-      "count": 5
-    },
-    {
-      "word": "siktiré",
-      "count": 5
-    },
-    {
-      "word": "benyen",
-      "count": 5
-    },
-    {
-      "word": "kwennen",
-      "count": 5
-    },
-    {
-      "word": "lachè",
-      "count": 5
-    },
-    {
-      "word": "téléfòn",
-      "count": 5
-    },
-    {
-      "word": "cette",
-      "count": 5
-    },
-    {
-      "word": "semaine",
-      "count": 5
-    },
-    {
-      "word": "sadisyen",
-      "count": 5
-    },
-    {
-      "word": "awété",
-      "count": 5
-    },
-    {
-      "word": "kòk-la",
-      "count": 5
-    },
-    {
-      "word": "dimanche",
-      "count": 5
-    },
-    {
-      "word": "labitid",
-      "count": 5
-    },
-    {
-      "word": "épiʼw",
-      "count": 5
-    },
-    {
-      "word": "nèf",
-      "count": 5
-    },
-    {
-      "word": "ant",
-      "count": 5
-    },
-    {
-      "word": "simenn",
-      "count": 5
-    },
-    {
-      "word": "titòs",
-      "count": 5
-    },
-    {
-      "word": "jwif",
-      "count": 5
-    },
-    {
-      "word": "bonjou",
-      "count": 5
-    },
-    {
-      "word": "lagwas",
-      "count": 5
-    },
-    {
-      "word": "pèd",
-      "count": 5
-    },
-    {
-      "word": "lézòm",
-      "count": 5
     },
     {
       "word": "to",
+      "count": 26
+    },
+    {
+      "word": "top",
+      "count": 22
+    },
+    {
+      "word": "articles",
+      "count": 22
+    },
+    {
+      "word": "and",
+      "count": 18
+    },
+    {
+      "word": "apr",
+      "count": 15
+    },
+    {
+      "word": "health",
+      "count": 13
+    },
+    {
+      "word": "in",
+      "count": 11
+    },
+    {
+      "word": "tue",
+      "count": 10
+    },
+    {
+      "word": "an",
+      "count": 10
+    },
+    {
+      "word": "for",
+      "count": 9
+    },
+    {
+      "word": "is",
+      "count": 8
+    },
+    {
+      "word": "ou",
+      "count": 8
+    },
+    {
+      "word": "ministry",
+      "count": 7
+    },
+    {
+      "word": "with",
+      "count": 6
+    },
+    {
+      "word": "mar",
+      "count": 6
+    },
+    {
+      "word": "at",
       "count": 5
     },
     {
-      "word": "kò-yo",
+      "word": "fri",
       "count": 5
     },
     {
-      "word": "diféran",
+      "word": "from",
       "count": 5
     },
     {
-      "word": "kréyòl",
+      "word": "potomitan",
       "count": 5
     },
     {
-      "word": "mas",
+      "word": "épi",
       "count": 5
     },
     {
-      "word": "pannan",
+      "word": "sé",
       "count": 5
     },
     {
-      "word": "abiyé",
-      "count": 5
-    },
-    {
-      "word": "chè",
-      "count": 5
-    },
-    {
-      "word": "anpéché",
-      "count": 5
-    },
-    {
-      "word": "lwa-a",
-      "count": 5
-    },
-    {
-      "word": "wichès",
-      "count": 5
-    },
-    {
-      "word": "toulé",
-      "count": 5
-    },
-    {
-      "word": "selman",
-      "count": 5
-    },
-    {
-      "word": "onnèt",
-      "count": 5
-    },
-    {
-      "word": "séwé",
-      "count": 5
-    },
-    {
-      "word": "atann",
-      "count": 5
-    },
-    {
-      "word": "majolè",
-      "count": 5
-    },
-    {
-      "word": "politik",
-      "count": 5
-    },
-    {
-      "word": "libi",
-      "count": 5
-    },
-    {
-      "word": "fanm",
-      "count": 5
-    },
-    {
-      "word": "rézon",
-      "count": 5
-    },
-    {
-      "word": "dikté",
-      "count": 5
-    },
-    {
-      "word": "pini",
-      "count": 5
-    },
-    {
-      "word": "émision",
-      "count": 5
-    },
-    {
-      "word": "klèté",
-      "count": 5
-    },
-    {
-      "word": "gad-la",
-      "count": 5
-    },
-    {
-      "word": "étwanjé",
-      "count": 4
-    },
-    {
-      "word": "aklè",
-      "count": 4
-    },
-    {
-      "word": "tjèʼy",
-      "count": 4
-    },
-    {
-      "word": "dòmi",
-      "count": 4
-    },
-    {
-      "word": "titak",
-      "count": 4
-    },
-    {
-      "word": "siek",
-      "count": 4
-    },
-    {
-      "word": "sòlda",
-      "count": 4
-    },
-    {
-      "word": "éséyé",
-      "count": 4
-    },
-    {
-      "word": "abésé",
-      "count": 4
-    },
-    {
-      "word": "mèt-la",
-      "count": 4
-    },
-    {
-      "word": "press",
-      "count": 4
-    },
-    {
-      "word": "jakòb",
-      "count": 4
-    },
-    {
-      "word": "batiʼy",
-      "count": 4
-    },
-    {
-      "word": "bout-la",
-      "count": 4
-    },
-    {
-      "word": "sirtou",
-      "count": 4
-    },
-    {
-      "word": "magré",
-      "count": 4
-    },
-    {
-      "word": "péyé",
-      "count": 4
-    },
-    {
-      "word": "mwa",
-      "count": 4
-    },
-    {
-      "word": "délivwans",
-      "count": 4
-    },
-    {
-      "word": "sélébwé",
-      "count": 4
-    },
-    {
-      "word": "délivwé",
-      "count": 4
-    },
-    {
-      "word": "gwanpapa",
-      "count": 4
-    },
-    {
-      "word": "sakwifis",
-      "count": 4
-    },
-    {
-      "word": "fèʼw",
-      "count": 4
-    },
-    {
-      "word": "léta",
-      "count": 4
-    },
-    {
-      "word": "véyatif",
-      "count": 4
-    },
-    {
-      "word": "taksi",
-      "count": 4
-    },
-    {
-      "word": "lèt",
-      "count": 4
-    },
-    {
-      "word": "pen",
-      "count": 4
-    },
-    {
-      "word": "wimèsyé",
-      "count": 4
-    },
-    {
-      "word": "pwanʼy",
-      "count": 4
-    },
-    {
-      "word": "asiré",
-      "count": 4
-    },
-    {
-      "word": "konsèy",
-      "count": 4
-    },
-    {
-      "word": "lundi",
-      "count": 4
-    },
-    {
-      "word": "danjé",
-      "count": 4
-    },
-    {
-      "word": "pabò",
-      "count": 4
-    },
-    {
-      "word": "zel",
-      "count": 4
-    },
-    {
-      "word": "vwa",
-      "count": 4
-    },
-    {
-      "word": "novembre",
-      "count": 4
-    },
-    {
-      "word": "lèlmi",
-      "count": 4
-    },
-    {
-      "word": "lakou-a",
-      "count": 4
-    },
-    {
-      "word": "kwazé",
-      "count": 4
-    },
-    {
-      "word": "mofwaz",
-      "count": 4
-    },
-    {
-      "word": "je",
-      "count": 4
-    },
-    {
-      "word": "pri",
-      "count": 4
-    },
-    {
-      "word": "manti",
-      "count": 4
-    },
-    {
-      "word": "vòlè",
-      "count": 4
-    },
-    {
-      "word": "hayi",
-      "count": 4
-    },
-    {
-      "word": "mitan",
-      "count": 4
-    },
-    {
-      "word": "wè-a",
-      "count": 4
-    },
-    {
-      "word": "swè",
-      "count": 4
-    },
-    {
-      "word": "monté",
-      "count": 4
-    },
-    {
-      "word": "chelchè",
-      "count": 4
-    },
-    {
-      "word": "ranplasé",
-      "count": 4
-    },
-    {
-      "word": "déotwa",
-      "count": 4
-    },
-    {
-      "word": "simen",
-      "count": 4
-    },
-    {
-      "word": "kantik",
-      "count": 4
-    },
-    {
-      "word": "vit",
-      "count": 4
-    },
-    {
-      "word": "lézott",
-      "count": 4
-    },
-    {
-      "word": "pwop",
-      "count": 4
-    },
-    {
-      "word": "konsidéré",
-      "count": 4
-    },
-    {
-      "word": "lapè",
-      "count": 4
-    },
-    {
-      "word": "fin",
-      "count": 4
-    },
-    {
-      "word": "douz",
-      "count": 4
-    },
-    {
-      "word": "ou-a",
-      "count": 4
-    },
-    {
-      "word": "kwa-a",
-      "count": 4
-    },
-    {
-      "word": "sosial",
-      "count": 4
-    },
-    {
-      "word": "déwò",
-      "count": 4
-    },
-    {
-      "word": "jédi",
-      "count": 4
-    },
-    {
-      "word": "kot",
-      "count": 4
-    },
-    {
-      "word": "sanm",
-      "count": 4
-    },
-    {
-      "word": "voyé-a",
-      "count": 4
-    },
-    {
-      "word": "kat",
-      "count": 4
-    },
-    {
-      "word": "òdinatè",
-      "count": 4
-    },
-    {
-      "word": "gad",
-      "count": 4
-    },
-    {
-      "word": "yonn-dé",
-      "count": 4
-    },
-    {
-      "word": "jounen",
-      "count": 4
-    },
-    {
-      "word": "toutmoun",
-      "count": 4
-    },
-    {
-      "word": "aprann",
-      "count": 4
-    },
-    {
-      "word": "ouvè",
-      "count": 4
-    },
-    {
-      "word": "mawiyaj-la",
-      "count": 4
-    },
-    {
-      "word": "débatjé",
-      "count": 4
-    },
-    {
-      "word": "résité",
-      "count": 4
-    },
-    {
-      "word": "transmision",
-      "count": 4
-    },
-    {
-      "word": "vréman",
-      "count": 4
-    },
-    {
-      "word": "zannimo",
-      "count": 4
-    },
-    {
-      "word": "laplipa",
-      "count": 4
-    },
-    {
-      "word": "vitman",
-      "count": 4
-    },
-    {
-      "word": "diwé",
-      "count": 4
-    },
-    {
-      "word": "rantré",
-      "count": 4
-    },
-    {
-      "word": "afoss",
-      "count": 4
-    },
-    {
-      "word": "katjil",
-      "count": 4
-    },
-    {
-      "word": "batt",
-      "count": 4
-    },
-    {
-      "word": "oswè",
-      "count": 4
-    },
-    {
-      "word": "tet",
-      "count": 4
-    },
-    {
-      "word": "légliz",
-      "count": 4
-    },
-    {
-      "word": "wifizé",
-      "count": 4
-    },
-    {
-      "word": "mèsaya-a",
-      "count": 4
-    },
-    {
-      "word": "lidéʼy",
-      "count": 4
-    },
-    {
-      "word": "février",
-      "count": 4
-    },
-    {
-      "word": "endé",
-      "count": 4
-    },
-    {
-      "word": "moun-tala",
-      "count": 4
-    },
-    {
-      "word": "soufwans",
-      "count": 4
-    },
-    {
-      "word": "gloriyé",
-      "count": 4
-    },
-    {
-      "word": "koupé",
-      "count": 4
-    },
-    {
-      "word": "djéwi",
-      "count": 4
-    },
-    {
-      "word": "maladi",
-      "count": 4
-    },
-    {
-      "word": "tibolonm",
-      "count": 4
-    },
-    {
-      "word": "kont-la",
-      "count": 4
-    },
-    {
-      "word": "souvan",
-      "count": 4
-    },
-    {
-      "word": "rarman",
-      "count": 4
-    },
-    {
-      "word": "kip",
-      "count": 4
-    },
-    {
-      "word": "senp",
-      "count": 4
-    },
-    {
-      "word": "vésèl",
-      "count": 4
-    },
-    {
-      "word": "pèsikité",
-      "count": 4
-    },
-    {
-      "word": "bay-la",
-      "count": 4
-    },
-    {
-      "word": "kawaktè",
-      "count": 4
-    },
-    {
-      "word": "bwa",
-      "count": 4
-    },
-    {
-      "word": "pi",
-      "count": 4
-    },
-    {
-      "word": "bitasion-an",
-      "count": 4
-    },
-    {
-      "word": "djoubaké",
-      "count": 4
-    },
-    {
-      "word": "délè",
-      "count": 4
-    },
-    {
-      "word": "badjolè-a",
-      "count": 4
-    },
-    {
-      "word": "piti",
-      "count": 4
-    },
-    {
-      "word": "défann",
-      "count": 4
-    },
-    {
-      "word": "poblem-la",
-      "count": 4
-    },
-    {
-      "word": "jénérasion",
-      "count": 4
-    },
-    {
-      "word": "asosiyasion",
+      "word": "on",
       "count": 4
     },
     {
-      "word": "owganizé",
+      "word": "st",
       "count": 4
     },
     {
-      "word": "alavans",
+      "word": "across",
       "count": 4
     },
     {
-      "word": "miziré",
+      "word": "system",
       "count": 4
     },
     {
-      "word": "monyen",
+      "word": "labour",
       "count": 4
     },
     {
-      "word": "toubannman",
+      "word": "wed",
       "count": 4
     },
     {
-      "word": "pawol-palé",
+      "word": "click",
       "count": 4
     },
     {
-      "word": "lékriti",
+      "word": "here",
       "count": 4
     },
     {
-      "word": "lotowité",
+      "word": "ka",
       "count": 4
     },
     {
-      "word": "satan",
+      "word": "sa",
       "count": 4
-    },
-    {
-      "word": "mawé",
-      "count": 4
-    },
-    {
-      "word": "andwa",
-      "count": 4
-    },
-    {
-      "word": "pòt",
-      "count": 4
-    },
-    {
-      "word": "kléwé",
-      "count": 4
-    },
-    {
-      "word": "konpasyon",
-      "count": 4
-    },
-    {
-      "word": "zanset-nou",
-      "count": 4
-    },
-    {
-      "word": "sòs-la",
-      "count": 3
-    },
-    {
-      "word": "bak",
-      "count": 3
-    },
-    {
-      "word": "oswè-a",
-      "count": 3
-    },
-    {
-      "word": "lamenm",
-      "count": 3
-    },
-    {
-      "word": "prèmié",
-      "count": 3
-    },
-    {
-      "word": "konstaté",
-      "count": 3
-    },
-    {
-      "word": "créole",
-      "count": 3
-    },
-    {
-      "word": "sispann",
-      "count": 3
-    },
-    {
-      "word": "éjip-la",
-      "count": 3
-    },
-    {
-      "word": "kouvè",
-      "count": 3
-    },
-    {
-      "word": "dabò-pou-yonn",
-      "count": 3
-    },
-    {
-      "word": "twaziem",
-      "count": 3
-    },
-    {
-      "word": "jèwè",
-      "count": 3
-    },
-    {
-      "word": "mennajé",
-      "count": 3
-    },
-    {
-      "word": "gaspiyé",
-      "count": 3
-    },
-    {
-      "word": "fè'y",
-      "count": 3
-    },
-    {
-      "word": "lévanjil",
-      "count": 3
-    },
-    {
-      "word": "makpat",
-      "count": 3
-    },
-    {
-      "word": "dèyèʼy",
-      "count": 3
-    },
-    {
-      "word": "lari",
-      "count": 3
-    },
-    {
-      "word": "séré",
-      "count": 3
-    },
-    {
-      "word": "respé",
-      "count": 3
-    },
-    {
-      "word": "sis",
-      "count": 3
-    },
-    {
-      "word": "reskonsab",
-      "count": 3
-    },
-    {
-      "word": "kwiyéʼy",
-      "count": 3
-    },
-    {
-      "word": "vil-la",
-      "count": 3
     },
     {
-      "word": "bidim",
+      "word": "source",
       "count": 3
     },
     {
-      "word": "manzel",
+      "word": "commitment",
       "count": 3
     },
     {
-      "word": "biro",
+      "word": "commissioning",
       "count": 3
     },
     {
-      "word": "souplé",
+      "word": "hospital",
       "count": 3
     },
     {
-      "word": "trouvé",
+      "word": "equipment",
       "count": 3
     },
     {
-      "word": "batay",
+      "word": "survey",
       "count": 3
     },
     {
-      "word": "ri",
+      "word": "promote",
       "count": 3
     },
     {
-      "word": "baton",
+      "word": "returns",
       "count": 3
     },
     {
-      "word": "disparett",
+      "word": "local",
       "count": 3
     },
     {
-      "word": "pokosion",
+      "word": "caribbean",
       "count": 3
     },
     {
-      "word": "pep-la",
+      "word": "tribunal",
       "count": 3
     },
     {
-      "word": "rimed",
+      "word": "strengthens",
       "count": 3
     },
     {
-      "word": "silon",
+      "word": "la",
       "count": 3
     },
     {
-      "word": "l'am",
+      "word": "des",
       "count": 3
     },
     {
-      "word": "òganizé",
+      "word": "kréyolad",
       "count": 3
     },
     {
-      "word": "swaré",
+      "word": "pa",
       "count": 3
     },
     {
-      "word": "moman",
+      "word": "pou",
       "count": 3
     },
     {
-      "word": "pwa",
+      "word": "ja",
       "count": 3
     },
     {
-      "word": "frékanté",
+      "word": "ni",
       "count": 3
     },
     {
-      "word": "taa",
+      "word": "yo",
       "count": 3
     },
     {
-      "word": "chofè",
-      "count": 3
-    },
-    {
-      "word": "sèvis",
-      "count": 3
-    },
-    {
-      "word": "kantékant",
-      "count": 3
-    },
-    {
-      "word": "parapot",
-      "count": 3
-    },
-    {
-      "word": "sovè",
-      "count": 3
-    },
-    {
-      "word": "pen-an",
-      "count": 3
-    },
-    {
-      "word": "van",
-      "count": 3
-    },
-    {
-      "word": "dépasé",
-      "count": 3
-    },
-    {
-      "word": "oktob",
-      "count": 3
-    },
-    {
-      "word": "okontwè",
-      "count": 3
-    },
-    {
-      "word": "pokosyon",
-      "count": 3
-    },
-    {
-      "word": "chay-la",
-      "count": 3
-    },
-    {
-      "word": "lod",
-      "count": 3
-    },
-    {
-      "word": "blijé",
-      "count": 3
+      "word": "en",
+      "count": 2
     },
     {
-      "word": "wouvè",
-      "count": 3
-    },
-    {
-      "word": "vansé",
-      "count": 3
+      "word": "rss",
+      "count": 2
     },
     {
-      "word": "ensilté",
-      "count": 3
-    },
-    {
-      "word": "bawouf",
-      "count": 3
+      "word": "a-sitting-of-the-house-of-assembly-is-scheduled-for-tuesday-april-14th",
+      "count": 2
     },
     {
-      "word": "fott",
-      "count": 3
+      "word": "sitting",
+      "count": 2
     },
     {
-      "word": "djòl",
-      "count": 3
+      "word": "scheduled",
+      "count": 2
     },
     {
-      "word": "asouʼy",
-      "count": 3
+      "word": "april",
+      "count": 2
     },
     {
-      "word": "sèten",
-      "count": 3
+      "word": "minister-for-health-hon-moses-jn-baptiste-on-the-government-s-commitment-to-full-commissioning-of-the-st-jude-hospital",
+      "count": 2
     },
     {
-      "word": "la-a",
-      "count": 3
+      "word": "minister",
+      "count": 2
     },
     {
-      "word": "kawant",
-      "count": 3
+      "word": "full",
+      "count": 2
     },
     {
-      "word": "tak",
-      "count": 3
+      "word": "jude",
+      "count": 2
     },
     {
-      "word": "foyal",
-      "count": 3
+      "word": "now",
+      "count": 2
     },
     {
-      "word": "kannaval-la",
-      "count": 3
+      "word": "that",
+      "count": 2
     },
     {
-      "word": "wicha-a",
-      "count": 3
+      "word": "permanent-secretary-in-the-ministry-of-health-jenny-daniel-provides-update-on-full-commissioning-of-the-st-jude-hospital",
+      "count": 2
     },
     {
-      "word": "fett",
-      "count": 3
+      "word": "the-ministry-of-health-wellness-and-nutrition-observes-stress-awareness-month-under-the-theme-be-the-change",
+      "count": 2
     },
     {
-      "word": "une",
-      "count": 3
+      "word": "wellness",
+      "count": 2
     },
     {
-      "word": "timbre",
-      "count": 3
+      "word": "nutrition",
+      "count": 2
     },
     {
-      "word": "ai",
-      "count": 3
+      "word": "stress",
+      "count": 2
     },
     {
-      "word": "déjà",
-      "count": 3
+      "word": "be",
+      "count": 2
     },
     {
-      "word": "venais",
-      "count": 3
+      "word": "can",
+      "count": 2
     },
     {
-      "word": "twayiʼy-la",
-      "count": 3
+      "word": "the-substance-abuse-advisory-council-secretariat-saacs-reviews-the-2025-global-youth-tobacco-survey-results-for-saint-lucia",
+      "count": 2
     },
     {
-      "word": "maléwé-a",
-      "count": 3
+      "word": "results",
+      "count": 2
     },
     {
-      "word": "bennédiksyon",
-      "count": 3
+      "word": "was",
+      "count": 2
     },
     {
-      "word": "jòdi-a",
-      "count": 3
+      "word": "public",
+      "count": 2
     },
     {
-      "word": "nazawèt-la",
-      "count": 3
+      "word": "private",
+      "count": 2
     },
     {
-      "word": "tjek",
-      "count": 3
+      "word": "ministry-of-health-and-the-bordelais-correctional-facility-join-forces-to-promote-healthier-lifestyle-choices-through-improve-program",
+      "count": 2
     },
     {
-      "word": "anplwa",
-      "count": 3
+      "word": "lifestyle",
+      "count": 2
     },
     {
-      "word": "anpil",
-      "count": 3
+      "word": "program",
+      "count": 2
     },
     {
-      "word": "jenmen",
-      "count": 3
+      "word": "needs",
+      "count": 2
     },
     {
-      "word": "tab",
-      "count": 3
+      "word": "saint-lucia-jazz-arts-festival-returns-in-just-3-weeks",
+      "count": 2
     },
     {
-      "word": "maté",
-      "count": 3
+      "word": "jazz",
+      "count": 2
     },
     {
-      "word": "las",
-      "count": 3
+      "word": "amp",
+      "count": 2
     },
     {
-      "word": "radio",
-      "count": 3
+      "word": "festival",
+      "count": 2
     },
     {
-      "word": "boutèy",
-      "count": 3
+      "word": "this",
+      "count": 2
     },
     {
-      "word": "galili",
-      "count": 3
+      "word": "the-ministry-of-health-receives-a-donation-of-equipment-and-vehicles-from-the-caribbean-development-bank-cdb-to-strengthen-saint-lucia-s-national-healthcare-system",
+      "count": 2
     },
     {
-      "word": "mò-a",
-      "count": 3
+      "word": "donation",
+      "count": 2
     },
     {
-      "word": "volé",
-      "count": 3
+      "word": "bank",
+      "count": 2
     },
     {
-      "word": "oti",
-      "count": 3
+      "word": "strengthen",
+      "count": 2
     },
     {
-      "word": "du",
-      "count": 3
+      "word": "healthcare",
+      "count": 2
     },
     {
-      "word": "dott",
-      "count": 3
+      "word": "ongoing",
+      "count": 2
     },
     {
-      "word": "klè",
-      "count": 3
+      "word": "taiwan-s-navy-squadron-to-pay-goodwill-visit-to-saint-lucia",
+      "count": 2
     },
     {
-      "word": "wézon-an",
-      "count": 3
+      "word": "taiwan",
+      "count": 2
     },
     {
-      "word": "pasyans",
-      "count": 3
+      "word": "squadron",
+      "count": 2
     },
     {
-      "word": "sa-a",
-      "count": 3
+      "word": "goodwill",
+      "count": 2
     },
     {
-      "word": "ékwi-a",
-      "count": 3
+      "word": "training",
+      "count": 2
     },
     {
-      "word": "pwodwi",
-      "count": 3
+      "word": "carpha-opens-antimicrobial-resistance-amr-reference-referral-laboratory-in-saint-lucia-to-expand-its-testing-capacity",
+      "count": 2
     },
     {
-      "word": "natirel",
-      "count": 3
+      "word": "its",
+      "count": 2
     },
     {
-      "word": "mayé",
-      "count": 3
+      "word": "testing",
+      "count": 2
     },
     {
-      "word": "pandan",
-      "count": 3
+      "word": "labour-consumer-protection-and-social-justice-reforms-drive-inclusive-growth-agenda",
+      "count": 2
     },
     {
-      "word": "lantwoupriz",
-      "count": 3
+      "word": "protection",
+      "count": 2
     },
     {
-      "word": "dives",
-      "count": 3
+      "word": "social",
+      "count": 2
     },
     {
-      "word": "fèmen",
-      "count": 3
+      "word": "reforms",
+      "count": 2
     },
     {
-      "word": "swen",
-      "count": 3
+      "word": "inclusive",
+      "count": 2
     },
     {
-      "word": "pèmet",
-      "count": 3
+      "word": "efficiency",
+      "count": 2
     },
     {
-      "word": "yich",
-      "count": 3
+      "word": "case",
+      "count": 2
     },
     {
-      "word": "pwizon",
-      "count": 3
+      "word": "eccb-strengthens-media-partnership-at-regional-workshop",
+      "count": 2
     },
     {
-      "word": "senk",
-      "count": 3
+      "word": "eccb",
+      "count": 2
     },
     {
-      "word": "kréyòl-la",
-      "count": 3
+      "word": "media",
+      "count": 2
     },
     {
-      "word": "wobè",
-      "count": 3
+      "word": "regional",
+      "count": 2
     },
     {
-      "word": "konnett",
-      "count": 3
+      "word": "government-strengthens-social-protection-and-equity-systems-in-2026-2027-budget",
+      "count": 2
     },
     {
-      "word": "sou",
-      "count": 3
+      "word": "equity",
+      "count": 2
     },
     {
-      "word": "lédikasion",
-      "count": 3
+      "word": "the-numbers-do-not-lie-the-pierre-administration-cuts-unemployment",
+      "count": 2
     },
     {
-      "word": "rimatjé",
-      "count": 3
+      "word": "unemployment",
+      "count": 2
     },
     {
-      "word": "nowmal",
-      "count": 3
+      "word": "extension-of-deadline-for-filing-of-personal-income-tax-returns",
+      "count": 2
     },
     {
-      "word": "sitelman",
-      "count": 3
+      "word": "extension",
+      "count": 2
     },
     {
-      "word": "asiwéʼw",
-      "count": 3
+      "word": "the-ministry-of-health-wellness-and-nutrition-hosts-a-stakeholder-consultation-on-strengthening-saint-lucia-s-health-system-resilience",
+      "count": 2
     },
     {
-      "word": "gwenn",
-      "count": 3
+      "word": "hosts",
+      "count": 2
     },
     {
-      "word": "nowa",
-      "count": 3
+      "word": "consultation",
+      "count": 2
     },
     {
-      "word": "galon",
-      "count": 3
+      "word": "strengthening",
+      "count": 2
     },
     {
-      "word": "lavini",
-      "count": 3
+      "word": "brought",
+      "count": 2
     },
     {
-      "word": "gason-an",
-      "count": 3
+      "word": "together",
+      "count": 2
     },
     {
-      "word": "sikonsayz",
-      "count": 3
+      "word": "laptops-donation-strengthens-efficiency-and-case-management-at-labour-tribunal",
+      "count": 2
     },
     {
-      "word": "kisiswa",
-      "count": 3
+      "word": "more",
+      "count": 2
     },
     {
-      "word": "fo",
-      "count": 3
+      "word": "the-la-clery-dental-clinic-hosts-an-oral-health-expo-for-expecting-mothers",
+      "count": 2
     },
     {
-      "word": "ven",
-      "count": 3
+      "word": "education",
+      "count": 2
     },
     {
-      "word": "twaka",
-      "count": 3
+      "word": "consultations-advance-on-strengthening-ngo-governance-framework-in-saint-lucia",
+      "count": 2
     },
     {
-      "word": "twou",
-      "count": 3
+      "word": "governance",
+      "count": 2
     },
     {
-      "word": "igwété",
-      "count": 3
+      "word": "your",
+      "count": 2
     },
     {
-      "word": "défans",
-      "count": 3
+      "word": "explore",
+      "count": 2
     },
     {
-      "word": "lafwa-a",
-      "count": 3
+      "word": "guide",
+      "count": 2
     },
     {
-      "word": "pèsikasyon",
-      "count": 3
+      "word": "info",
+      "count": 2
     },
     {
-      "word": "simyé",
-      "count": 3
+      "word": "site",
+      "count": 2
     },
     {
-      "word": "konmandé",
-      "count": 3
+      "word": "annou",
+      "count": 2
     },
     {
-      "word": "lanmò-a",
-      "count": 3
+      "word": "kreyòl",
+      "count": 2
     },
     {
-      "word": "antouléka",
-      "count": 3
+      "word": "douvan",
+      "count": 2
     },
     {
       "word": "pour",
-      "count": 3
+      "count": 2
     },
     {
-      "word": "travayè",
-      "count": 3
+      "word": "mo",
+      "count": 2
     },
     {
-      "word": "lizin",
-      "count": 3
+      "word": "moun",
+      "count": 2
     },
     {
-      "word": "fawizyen-an",
-      "count": 3
+      "word": "alé",
+      "count": 2
     },
     {
-      "word": "matinitjé",
-      "count": 3
+      "word": "tant-yo",
+      "count": 2
     },
     {
-      "word": "aji",
-      "count": 3
+      "word": "lé",
+      "count": 2
     },
     {
-      "word": "rézoud",
-      "count": 3
+      "word": "trapé",
+      "count": 2
     },
     {
-      "word": "paré",
-      "count": 3
+      "word": "éti",
+      "count": 2
     },
     {
-      "word": "anvil",
-      "count": 3
+      "word": "rivé",
+      "count": 2
     },
     {
-      "word": "anpami-an",
-      "count": 3
+      "word": "sargasses",
+      "count": 2
     },
     {
-      "word": "mami",
-      "count": 3
+      "word": "ba",
+      "count": 2
     },
     {
-      "word": "garé",
-      "count": 3
+      "word": "pawol",
+      "count": 2
     },
     {
-      "word": "ywit",
-      "count": 3
+      "word": "konsey",
+      "count": 2
     },
     {
-      "word": "lapli",
-      "count": 3
+      "word": "enstalasion",
+      "count": 2
     },
     {
-      "word": "étwanj",
-      "count": 3
+      "word": "kwéyòl-language",
+      "count": 1
     },
     {
-      "word": "moun-mò",
-      "count": 3
+      "word": "cultural",
+      "count": 1
     },
     {
-      "word": "mòn-dé-zes",
-      "count": 3
+      "word": "items",
+      "count": 1
     },
     {
-      "word": "manmay-la",
-      "count": 3
+      "word": "copyright",
+      "count": 1
     },
     {
-      "word": "twavay-la",
-      "count": 3
+      "word": "itech",
+      "count": 1
     },
     {
-      "word": "lésisyon",
-      "count": 3
+      "word": "house",
+      "count": 1
     },
     {
-      "word": "lapo",
-      "count": 3
+      "word": "assembly",
+      "count": 1
     },
     {
-      "word": "zòdi",
-      "count": 3
+      "word": "tuesday",
+      "count": 1
     },
     {
-      "word": "lafanmi",
-      "count": 3
+      "word": "th",
+      "count": 1
     },
     {
-      "word": "témwen-an",
-      "count": 3
+      "word": "senate",
+      "count": 1
     },
     {
-      "word": "téwé",
-      "count": 3
+      "word": "wednesday",
+      "count": 1
     },
     {
-      "word": "wépwézanté",
-      "count": 3
+      "word": "hon",
+      "count": 1
     },
     {
-      "word": "panyol",
-      "count": 3
+      "word": "moses",
+      "count": 1
     },
     {
-      "word": "konsyans",
-      "count": 3
+      "word": "jn",
+      "count": 1
     },
     {
-      "word": "klèté-a",
-      "count": 3
+      "word": "baptiste",
+      "count": 1
     },
     {
-      "word": "widjèkté",
-      "count": 3
+      "word": "we",
+      "count": 1
     },
     {
-      "word": "solda",
-      "count": 3
+      "word": "are",
+      "count": 1
     },
     {
-      "word": "kann",
-      "count": 3
+      "word": "process",
+      "count": 1
+    },
+    {
+      "word": "verifying",
+      "count": 1
+    },
+    {
+      "word": "ensure",
+      "count": 1
+    },
+    {
+      "word": "every",
+      "count": 1
+    },
+    {
+      "word": "piece",
+      "count": 1
+    },
+    {
+      "word": "fit",
+      "count": 1
+    },
+    {
+      "word": "purpose",
+      "count": 1
+    },
+    {
+      "word": "permanent",
+      "count": 1
+    },
+    {
+      "word": "secretary",
+      "count": 1
+    },
+    {
+      "word": "jenny",
+      "count": 1
+    },
+    {
+      "word": "daniel",
+      "count": 1
+    },
+    {
+      "word": "provides",
+      "count": 1
+    },
+    {
+      "word": "update",
+      "count": 1
+    },
+    {
+      "word": "basically",
+      "count": 1
+    },
+    {
+      "word": "rigorous",
+      "count": 1
+    },
+    {
+      "word": "quality",
+      "count": 1
+    },
+    {
+      "word": "assurance",
+      "count": 1
+    },
+    {
+      "word": "activity",
+      "count": 1
+    },
+    {
+      "word": "exercise",
+      "count": 1
+    },
+    {
+      "word": "observes",
+      "count": 1
+    },
+    {
+      "word": "awareness",
+      "count": 1
+    },
+    {
+      "word": "month",
+      "count": 1
+    },
+    {
+      "word": "under",
+      "count": 1
+    },
+    {
+      "word": "theme",
+      "count": 1
+    },
+    {
+      "word": "change",
+      "count": 1
+    },
+    {
+      "word": "natural",
+      "count": 1
+    },
+    {
+      "word": "response",
+      "count": 1
+    },
+    {
+      "word": "challenges",
+      "count": 1
+    },
+    {
+      "word": "some",
+      "count": 1
+    },
+    {
+      "word": "cases",
+      "count": 1
+    },
+    {
+      "word": "motivate",
+      "count": 1
+    },
+    {
+      "word": "positive",
+      "count": 1
+    },
+    {
+      "word": "action",
+      "count": 1
+    },
+    {
+      "word": "substance",
+      "count": 1
+    },
+    {
+      "word": "abuse",
+      "count": 1
+    },
+    {
+      "word": "advisory",
+      "count": 1
+    },
+    {
+      "word": "council",
+      "count": 1
+    },
+    {
+      "word": "secretariat",
+      "count": 1
+    },
+    {
+      "word": "saacs",
+      "count": 1
+    },
+    {
+      "word": "reviews",
+      "count": 1
+    },
+    {
+      "word": "global",
+      "count": 1
+    },
+    {
+      "word": "youth",
+      "count": 1
+    },
+    {
+      "word": "tobacco",
+      "count": 1
+    },
+    {
+      "word": "implemented",
+      "count": 1
+    },
+    {
+      "word": "all",
+      "count": 1
+    },
+    {
+      "word": "secondary",
+      "count": 1
+    },
+    {
+      "word": "schools",
+      "count": 1
+    },
+    {
+      "word": "including",
+      "count": 1
+    },
+    {
+      "word": "both",
+      "count": 1
+    },
+    {
+      "word": "institutions",
+      "count": 1
+    },
+    {
+      "word": "bordelais",
+      "count": 1
+    },
+    {
+      "word": "correctional",
+      "count": 1
+    },
+    {
+      "word": "facility",
+      "count": 1
+    },
+    {
+      "word": "join",
+      "count": 1
+    },
+    {
+      "word": "forces",
+      "count": 1
+    },
+    {
+      "word": "healthier",
+      "count": 1
+    },
+    {
+      "word": "choices",
+      "count": 1
+    },
+    {
+      "word": "through",
+      "count": 1
+    },
+    {
+      "word": "improve",
+      "count": 1
+    },
+    {
+      "word": "designed",
+      "count": 1
+    },
+    {
+      "word": "address",
+      "count": 1
+    },
+    {
+      "word": "multifaceted",
+      "count": 1
+    },
+    {
+      "word": "inmates",
+      "count": 1
+    },
+    {
+      "word": "holistic",
+      "count": 1
+    },
+    {
+      "word": "approach",
+      "count": 1
+    },
+    {
+      "word": "arts",
+      "count": 1
+    },
+    {
+      "word": "just",
+      "count": 1
+    },
+    {
+      "word": "weeks",
+      "count": 1
+    },
+    {
+      "word": "year",
+      "count": 1
+    },
+    {
+      "word": "will",
+      "count": 1
+    },
+    {
+      "word": "feature",
+      "count": 1
+    },
+    {
+      "word": "stellar",
+      "count": 1
+    },
+    {
+      "word": "line-up",
+      "count": 1
+    },
+    {
+      "word": "international",
+      "count": 1
+    },
+    {
+      "word": "talent",
+      "count": 1
+    },
+    {
+      "word": "delivering",
+      "count": 1
+    },
+    {
+      "word": "exciting",
+      "count": 1
+    },
+    {
+      "word": "fusion",
+      "count": 1
+    },
+    {
+      "word": "receives",
+      "count": 1
+    },
+    {
+      "word": "vehicles",
+      "count": 1
+    },
+    {
+      "word": "development",
+      "count": 1
+    },
+    {
+      "word": "cdb",
+      "count": 1
+    },
+    {
+      "word": "national",
+      "count": 1
+    },
+    {
+      "word": "official",
+      "count": 1
+    },
+    {
+      "word": "handover",
+      "count": 1
+    },
+    {
+      "word": "ceremony",
+      "count": 1
+    },
+    {
+      "word": "marked",
+      "count": 1
+    },
+    {
+      "word": "another",
+      "count": 1
+    },
+    {
+      "word": "milestone",
+      "count": 1
+    },
+    {
+      "word": "efforts",
+      "count": 1
+    },
+    {
+      "word": "delivery",
+      "count": 1
+    },
+    {
+      "word": "navy",
+      "count": 1
+    },
+    {
+      "word": "pay",
+      "count": 1
+    },
+    {
+      "word": "visit",
+      "count": 1
+    },
+    {
+      "word": "midshipmen",
+      "count": 1
+    },
+    {
+      "word": "cruising",
+      "count": 1
+    },
+    {
+      "word": "mission",
+      "count": 1
+    },
+    {
+      "word": "includes",
+      "count": 1
+    },
+    {
+      "word": "visits",
+      "count": 1
+    },
+    {
+      "word": "diplomatic",
+      "count": 1
+    },
+    {
+      "word": "allies",
+      "count": 1
+    },
+    {
+      "word": "thu",
+      "count": 1
+    },
+    {
+      "word": "carpha",
+      "count": 1
+    },
+    {
+      "word": "opens",
+      "count": 1
+    },
+    {
+      "word": "antimicrobial",
+      "count": 1
+    },
+    {
+      "word": "resistance",
+      "count": 1
+    },
+    {
+      "word": "amr",
+      "count": 1
+    },
+    {
+      "word": "reference",
+      "count": 1
+    },
+    {
+      "word": "referral",
+      "count": 1
+    },
+    {
+      "word": "laboratory",
+      "count": 1
+    },
+    {
+      "word": "expand",
+      "count": 1
+    },
+    {
+      "word": "capacity",
+      "count": 1
+    },
+    {
+      "word": "samples",
+      "count": 1
+    },
+    {
+      "word": "securely",
+      "count": 1
+    },
+    {
+      "word": "transported",
+      "count": 1
+    },
+    {
+      "word": "lab",
+      "count": 1
+    },
+    {
+      "word": "advanced",
+      "count": 1
+    },
+    {
+      "word": "returned",
+      "count": 1
+    },
+    {
+      "word": "swiftly",
+      "count": 1
+    },
+    {
+      "word": "support",
+      "count": 1
+    },
+    {
+      "word": "patient",
+      "count": 1
+    },
+    {
+      "word": "care",
+      "count": 1
+    },
+    {
+      "word": "member",
+      "count": 1
+    },
+    {
+      "word": "states",
+      "count": 1
+    },
+    {
+      "word": "consumer",
+      "count": 1
+    },
+    {
+      "word": "justice",
+      "count": 1
+    },
+    {
+      "word": "drive",
+      "count": 1
+    },
+    {
+      "word": "growth",
+      "count": 1
+    },
+    {
+      "word": "agenda",
+      "count": 1
+    },
+    {
+      "word": "also",
+      "count": 1
+    },
+    {
+      "word": "pointed",
+      "count": 1
+    },
+    {
+      "word": "aimed",
+      "count": 1
+    },
+    {
+      "word": "improving",
+      "count": 1
+    },
+    {
+      "word": "reducing",
+      "count": 1
+    },
+    {
+      "word": "backlog",
+      "count": 1
+    },
+    {
+      "word": "partnership",
+      "count": 1
+    },
+    {
+      "word": "workshop",
+      "count": 1
+    },
+    {
+      "word": "eastern",
+      "count": 1
+    },
+    {
+      "word": "central",
+      "count": 1
+    },
+    {
+      "word": "has",
+      "count": 1
+    },
+    {
+      "word": "reinforced",
+      "count": 1
+    },
+    {
+      "word": "stronger",
+      "count": 1
+    },
+    {
+      "word": "collaboration",
+      "count": 1
+    },
+    {
+      "word": "clearer",
+      "count": 1
+    },
+    {
+      "word": "communication",
+      "count": 1
+    },
+    {
+      "word": "systems",
+      "count": 1
+    },
+    {
+      "word": "budget",
+      "count": 1
+    },
+    {
+      "word": "addressing",
+      "count": 1
+    },
+    {
+      "word": "older",
+      "count": 1
+    },
+    {
+      "word": "persons",
+      "count": 1
+    },
+    {
+      "word": "scaling",
+      "count": 1
+    },
+    {
+      "word": "up",
+      "count": 1
+    },
+    {
+      "word": "initiatives",
+      "count": 1
+    },
+    {
+      "word": "dignity",
+      "count": 1
+    },
+    {
+      "word": "independence",
+      "count": 1
+    },
+    {
+      "word": "access",
+      "count": 1
+    },
+    {
+      "word": "essential",
+      "count": 1
+    },
+    {
+      "word": "services",
+      "count": 1
+    },
+    {
+      "word": "numbers",
+      "count": 1
+    },
+    {
+      "word": "do",
+      "count": 1
+    },
+    {
+      "word": "not",
+      "count": 1
+    },
+    {
+      "word": "lie",
+      "count": 1
+    },
+    {
+      "word": "pierre",
+      "count": 1
+    },
+    {
+      "word": "administration",
+      "count": 1
+    },
+    {
+      "word": "cuts",
+      "count": 1
+    },
+    {
+      "word": "according",
+      "count": 1
+    },
+    {
+      "word": "annual",
+      "count": 1
+    },
+    {
+      "word": "force",
+      "count": 1
+    },
+    {
+      "word": "rate",
+      "count": 1
+    },
+    {
+      "word": "stood",
+      "count": 1
+    },
+    {
+      "word": "percent",
+      "count": 1
+    },
+    {
+      "word": "deadline",
+      "count": 1
+    },
+    {
+      "word": "filing",
+      "count": 1
+    },
+    {
+      "word": "personal",
+      "count": 1
+    },
+    {
+      "word": "income",
+      "count": 1
+    },
+    {
+      "word": "tax",
+      "count": 1
+    },
+    {
+      "word": "intended",
+      "count": 1
+    },
+    {
+      "word": "provide",
+      "count": 1
+    },
+    {
+      "word": "taxpayers",
+      "count": 1
+    },
+    {
+      "word": "additional",
+      "count": 1
+    },
+    {
+      "word": "time",
+      "count": 1
+    },
+    {
+      "word": "accurately",
+      "count": 1
+    },
+    {
+      "word": "complete",
+      "count": 1
+    },
+    {
+      "word": "submit",
+      "count": 1
+    },
+    {
+      "word": "their",
+      "count": 1
+    },
+    {
+      "word": "stakeholder",
+      "count": 1
+    },
+    {
+      "word": "resilience",
+      "count": 1
+    },
+    {
+      "word": "session",
+      "count": 1
+    },
+    {
+      "word": "key",
+      "count": 1
+    },
+    {
+      "word": "professionals",
+      "count": 1
+    },
+    {
+      "word": "partners",
+      "count": 1
+    },
+    {
+      "word": "sectors",
+      "count": 1
+    },
+    {
+      "word": "mon",
+      "count": 1
+    },
+    {
+      "word": "laptops",
+      "count": 1
+    },
+    {
+      "word": "management",
+      "count": 1
+    },
+    {
+      "word": "by",
+      "count": 1
+    },
+    {
+      "word": "equipping",
+      "count": 1
+    },
+    {
+      "word": "members",
+      "count": 1
+    },
+    {
+      "word": "standardized",
+      "count": 1
+    },
+    {
+      "word": "digital",
+      "count": 1
+    },
+    {
+      "word": "tools",
+      "count": 1
+    },
+    {
+      "word": "enabling",
+      "count": 1
+    },
+    {
+      "word": "connected",
+      "count": 1
+    },
+    {
+      "word": "responsive",
+      "count": 1
+    },
+    {
+      "word": "technologically",
+      "count": 1
+    },
+    {
+      "word": "empowered",
+      "count": 1
+    },
+    {
+      "word": "clery",
+      "count": 1
+    },
+    {
+      "word": "dental",
+      "count": 1
+    },
+    {
+      "word": "clinic",
+      "count": 1
+    },
+    {
+      "word": "oral",
+      "count": 1
+    },
+    {
+      "word": "expo",
+      "count": 1
+    },
+    {
+      "word": "expecting",
+      "count": 1
+    },
+    {
+      "word": "mothers",
+      "count": 1
+    },
+    {
+      "word": "event",
+      "count": 1
+    },
+    {
+      "word": "pregnant",
+      "count": 1
+    },
+    {
+      "word": "women",
+      "count": 1
+    },
+    {
+      "word": "surrounding",
+      "count": 1
+    },
+    {
+      "word": "community",
+      "count": 1
+    },
+    {
+      "word": "consultations",
+      "count": 1
+    },
+    {
+      "word": "advance",
+      "count": 1
+    },
+    {
+      "word": "ngo",
+      "count": 1
+    },
+    {
+      "word": "framework",
+      "count": 1
+    },
+    {
+      "word": "formed",
+      "count": 1
+    },
+    {
+      "word": "part",
+      "count": 1
+    },
+    {
+      "word": "broader",
+      "count": 1
+    },
+    {
+      "word": "discussions",
+      "count": 1
+    },
+    {
+      "word": "stlucianewsonline",
+      "count": 1
+    },
+    {
+      "word": "com",
+      "count": 1
+    },
+    {
+      "word": "online",
+      "count": 1
+    },
+    {
+      "word": "link",
+      "count": 1
+    },
+    {
+      "word": "dynamic",
+      "count": 1
+    },
+    {
+      "word": "content",
+      "count": 1
+    },
+    {
+      "word": "pulse",
+      "count": 1
+    },
+    {
+      "word": "our",
+      "count": 1
+    },
+    {
+      "word": "narratives",
+      "count": 1
+    },
+    {
+      "word": "read",
+      "count": 1
+    },
+    {
+      "word": "navigating",
+      "count": 1
+    },
+    {
+      "word": "adventures",
+      "count": 1
+    },
+    {
+      "word": "secrets",
+      "count": 1
+    },
+    {
+      "word": "tourism",
+      "count": 1
+    },
+    {
+      "word": "gateway",
+      "count": 1
+    },
+    {
+      "word": "unexplored",
+      "count": 1
+    },
+    {
+      "word": "lucian",
+      "count": 1
+    },
+    {
+      "word": "destinations",
+      "count": 1
+    },
+    {
+      "word": "design",
+      "count": 1
+    },
+    {
+      "word": "essence",
+      "count": 1
+    },
+    {
+      "word": "creative",
+      "count": 1
+    },
+    {
+      "word": "expression",
+      "count": 1
+    },
+    {
+      "word": "uncover",
+      "count": 1
+    },
+    {
+      "word": "keys",
+      "count": 1
+    },
+    {
+      "word": "well-balanced",
+      "count": 1
+    },
+    {
+      "word": "insights",
+      "count": 1
+    },
+    {
+      "word": "authenticity",
+      "count": 1
+    },
+    {
+      "word": "caribbean-creole",
+      "count": 1
+    },
+    {
+      "word": "literature",
+      "count": 1
+    },
+    {
+      "word": "portal",
+      "count": 1
+    },
+    {
+      "word": "de",
+      "count": 1
+    },
+    {
+      "word": "promotion",
+      "count": 1
+    },
+    {
+      "word": "cultures",
+      "count": 1
+    },
+    {
+      "word": "et",
+      "count": 1
+    },
+    {
+      "word": "langues",
+      "count": 1
+    },
+    {
+      "word": "créoles",
+      "count": 1
+    },
+    {
+      "word": "voyé",
+      "count": 1
+    },
+    {
+      "word": "kaz",
+      "count": 1
+    },
+    {
+      "word": "accueil",
+      "count": 1
+    },
+    {
+      "word": "reconstruction",
+      "count": 1
+    },
+    {
+      "word": "rsquo",
+      "count": 1
+    },
+    {
+      "word": "ancienne",
+      "count": 1
+    },
+    {
+      "word": "version",
+      "count": 1
+    },
+    {
+      "word": "index",
+      "count": 1
+    },
+    {
+      "word": "php",
+      "count": 1
+    },
+    {
+      "word": "facebook",
+      "count": 1
+    },
+    {
+      "word": "le",
+      "count": 1
+    },
+    {
+      "word": "poteau",
+      "count": 1
+    },
+    {
+      "word": "mitan",
+      "count": 1
+    },
+    {
+      "word": "photothèque",
+      "count": 1
+    },
+    {
+      "word": "archives",
+      "count": 1
+    },
+    {
+      "word": "indianté",
+      "count": 1
+    },
+    {
+      "word": "fléché",
+      "count": 1
+    },
+    {
+      "word": "auteurs",
+      "count": 1
+    },
+    {
+      "word": "muséé",
+      "count": 1
+    },
+    {
+      "word": "du",
+      "count": 1
+    },
+    {
+      "word": "dodo",
+      "count": 1
+    },
+    {
+      "word": "zobel",
+      "count": 1
+    },
+    {
+      "word": "franz",
+      "count": 1
+    },
+    {
+      "word": "iocp",
+      "count": 1
+    },
+    {
+      "word": "matoutou",
+      "count": 1
+    },
+    {
+      "word": "matété",
+      "count": 1
+    },
+    {
+      "word": "chak",
+      "count": 1
+    },
+    {
+      "word": "lanné",
+      "count": 1
+    },
+    {
+      "word": "padan",
+      "count": 1
+    },
+    {
+      "word": "vakans",
+      "count": 1
+    },
+    {
+      "word": "pak-la",
+      "count": 1
+    },
+    {
+      "word": "anlo",
+      "count": 1
+    },
+    {
+      "word": "pofité",
+      "count": 1
+    },
+    {
+      "word": "bò-lanmè",
+      "count": 1
+    },
+    {
+      "word": "kanpé",
+      "count": 1
+    },
+    {
+      "word": "si",
+      "count": 1
+    },
+    {
+      "word": "plas",
+      "count": 1
+    },
+    {
+      "word": "fok",
+      "count": 1
+    },
+    {
+      "word": "lévé",
+      "count": 1
+    },
+    {
+      "word": "bonnè",
+      "count": 1
+    },
+    {
+      "word": "ti-plas",
+      "count": 1
+    },
+    {
+      "word": "alez",
+      "count": 1
+    },
+    {
+      "word": "labitid",
+      "count": 1
+    },
+    {
+      "word": "organizé",
+      "count": 1
+    },
+    {
+      "word": "planté",
+      "count": 1
+    },
+    {
+      "word": "espéré",
+      "count": 1
+    },
+    {
+      "word": "fanmiy-yo",
+      "count": 1
+    },
+    {
+      "word": "lè",
+      "count": 1
+    },
+    {
+      "word": "lendi",
+      "count": 1
+    },
+    {
+      "word": "pak",
+      "count": 1
+    },
+    {
+      "word": "anlè",
+      "count": 1
+    },
+    {
+      "word": "tout",
+      "count": 1
+    },
+    {
+      "word": "plaj",
+      "count": 1
+    },
+    {
+      "word": "hellip",
+      "count": 1
+    },
+    {
+      "word": "classe",
+      "count": 1
+    },
+    {
+      "word": "verte",
+      "count": 1
+    },
+    {
+      "word": "chasse",
+      "count": 1
+    },
+    {
+      "word": "aux",
+      "count": 1
+    },
+    {
+      "word": "cette",
+      "count": 1
+    },
+    {
+      "word": "nouvelle",
+      "count": 1
+    },
+    {
+      "word": "sortie",
+      "count": 1
+    },
+    {
+      "word": "les",
+      "count": 1
+    },
+    {
+      "word": "emmène",
+      "count": 1
+    },
+    {
+      "word": "découverte",
+      "count": 1
+    },
+    {
+      "word": "kréyolomaj",
+      "count": 1
+    },
+    {
+      "word": "nicole",
+      "count": 1
+    },
+    {
+      "word": "cage",
+      "count": 1
+    },
+    {
+      "word": "nikol",
+      "count": 1
+    },
+    {
+      "word": "dèyè",
+      "count": 1
+    },
+    {
+      "word": "lanmou",
+      "count": 1
+    },
+    {
+      "word": "matinik",
+      "count": 1
+    },
+    {
+      "word": "di",
+      "count": 1
+    },
+    {
+      "word": "enmen",
+      "count": 1
+    },
+    {
+      "word": "selman",
+      "count": 1
+    },
+    {
+      "word": "belté",
+      "count": 1
+    },
+    {
+      "word": "litérati",
+      "count": 1
+    },
+    {
+      "word": "jolivrans",
+      "count": 1
+    },
+    {
+      "word": "poézi",
+      "count": 1
+    },
+    {
+      "word": "mé",
+      "count": 1
+    },
+    {
+      "word": "angajman",
+      "count": 1
+    },
+    {
+      "word": "militan",
+      "count": 1
+    },
+    {
+      "word": "dépi",
+      "count": 1
+    },
+    {
+      "word": "tan",
+      "count": 1
+    },
+    {
+      "word": "jénes-ou",
+      "count": 1
+    },
+    {
+      "word": "san",
+      "count": 1
+    },
+    {
+      "word": "fè",
+      "count": 1
+    },
+    {
+      "word": "jaktans",
+      "count": 1
+    },
+    {
+      "word": "jag",
+      "count": 1
+    },
+    {
+      "word": "toujou",
+      "count": 1
+    },
+    {
+      "word": "djoubaté",
+      "count": 1
+    },
+    {
+      "word": "gwoup",
+      "count": 1
+    },
+    {
+      "word": "révolision",
+      "count": 1
+    },
+    {
+      "word": "sosialis",
+      "count": 1
+    },
+    {
+      "word": "minisipal",
+      "count": 1
+    },
+    {
+      "word": "tou",
+      "count": 1
+    },
+    {
+      "word": "nef",
+      "count": 1
+    },
+    {
+      "word": "simenn",
+      "count": 1
+    },
+    {
+      "word": "nouvo",
+      "count": 1
+    },
+    {
+      "word": "minisipal-la",
+      "count": 1
+    },
+    {
+      "word": "apré",
+      "count": 1
+    },
+    {
+      "word": "konba",
+      "count": 1
+    },
+    {
+      "word": "kanpàn-éleksion-an",
+      "count": 1
+    },
+    {
+      "word": "mè-a",
+      "count": 1
+    },
+    {
+      "word": "mandé",
+      "count": 1
+    },
+    {
+      "word": "rékonsiliasion",
+      "count": 1
+    },
+    {
+      "word": "sav",
+      "count": 1
+    },
+    {
+      "word": "pé",
+      "count": 1
+    },
+    {
+      "word": "popilasion",
+      "count": 1
+    },
+    {
+      "word": "divizé",
+      "count": 1
+    },
+    {
+      "word": "dan",
+      "count": 1
+    },
+    {
+      "word": "linò",
+      "count": 1
+    },
+    {
+      "word": "belfontenn",
+      "count": 1
+    },
+    {
+      "word": "préchè",
+      "count": 1
+    },
+    {
+      "word": "kabé",
+      "count": 1
+    },
+    {
+      "word": "senpiè",
+      "count": 1
+    },
+    {
+      "word": "té",
+      "count": 1
+    },
+    {
+      "word": "sel",
+      "count": 1
+    },
+    {
+      "word": "bliyé",
+      "count": 1
+    },
+    {
+      "word": "ki",
+      "count": 1
+    },
+    {
+      "word": "pasé",
+      "count": 1
+    },
+    {
+      "word": "es",
+      "count": 1
+    },
+    {
+      "word": "kandida-a",
+      "count": 1
+    },
+    {
+      "word": "vréyé",
+      "count": 1
+    },
+    {
+      "word": "fion",
+      "count": 1
+    },
+    {
+      "word": "ké",
+      "count": 1
+    },
+    {
+      "word": "tann",
+      "count": 1
     }
-  ],
-  "source": "CommonLID TSV + FLORES+ (dev+devtest)",
-  "total_tokens": 28136,
-  "unique_tokens": 3348
+  ]
 }

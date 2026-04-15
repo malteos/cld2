@@ -1,105 +1,623 @@
 {
   "code": "nyn",
   "name": "Nyankole",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 1147,
+  "unique_tokens": 447,
   "words": [
     {
-      "word": "museveni",
-      "count": 7
-    },
-    {
-      "word": "omu",
-      "count": 7
-    },
-    {
-      "word": "kandi",
-      "count": 5
-    },
-    {
-      "word": "kaguta",
-      "count": 3
-    },
-    {
-      "word": "ni",
-      "count": 3
+      "word": "the",
+      "count": 43
     },
     {
       "word": "uganda",
-      "count": 3
+      "count": 37
     },
     {
-      "word": "wa",
-      "count": 3
+      "word": "to",
+      "count": 31
     },
     {
-      "word": "na",
-      "count": 3
+      "word": "for",
+      "count": 23
     },
     {
-      "word": "akaba",
-      "count": 3
+      "word": "car",
+      "count": 18
     },
     {
-      "word": "ari",
-      "count": 3
+      "word": "is",
+      "count": 18
     },
     {
-      "word": "school",
-      "count": 3
+      "word": "in",
+      "count": 17
     },
     {
-      "word": "yoweri",
-      "count": 2
+      "word": "your",
+      "count": 17
     },
     {
-      "word": "purezident",
-      "count": 2
-    },
-    {
-      "word": "aha",
-      "count": 2
-    },
-    {
-      "word": "amos",
-      "count": 2
-    },
-    {
-      "word": "omuri",
-      "count": 2
-    },
-    {
-      "word": "eri",
-      "count": 2
-    },
-    {
-      "word": "ahari",
-      "count": 2
-    },
-    {
-      "word": "obujurizi",
-      "count": 2
-    },
-    {
-      "word": "eishe",
-      "count": 2
-    },
-    {
-      "word": "bwa",
-      "count": 2
-    },
-    {
-      "word": "kutunga",
-      "count": 2
-    },
-    {
-      "word": "obwo",
-      "count": 2
+      "word": "road",
+      "count": 16
     },
     {
       "word": "of",
+      "count": 16
+    },
+    {
+      "word": "trip",
+      "count": 15
+    },
+    {
+      "word": "admin",
+      "count": 14
+    },
+    {
+      "word": "december",
+      "count": 14
+    },
+    {
+      "word": "tips",
+      "count": 12
+    },
+    {
+      "word": "make",
+      "count": 11
+    },
+    {
+      "word": "you",
+      "count": 10
+    },
+    {
+      "word": "ways",
+      "count": 10
+    },
+    {
+      "word": "self",
+      "count": 10
+    },
+    {
+      "word": "drive",
+      "count": 10
+    },
+    {
+      "word": "less",
+      "count": 10
+    },
+    {
+      "word": "stressful",
+      "count": 10
+    },
+    {
+      "word": "and",
+      "count": 10
+    },
+    {
+      "word": "renting",
+      "count": 9
+    },
+    {
+      "word": "read",
+      "count": 9
+    },
+    {
+      "word": "don",
+      "count": 9
+    },
+    {
+      "word": "it",
+      "count": 9
+    },
+    {
+      "word": "business",
+      "count": 8
+    },
+    {
+      "word": "contract",
+      "count": 8
+    },
+    {
+      "word": "rental",
+      "count": 8
+    },
+    {
+      "word": "solution",
+      "count": 8
+    },
+    {
+      "word": "many",
+      "count": 8
+    },
+    {
+      "word": "who",
+      "count": 8
+    },
+    {
+      "word": "own",
+      "count": 8
+    },
+    {
+      "word": "cars",
+      "count": 8
+    },
+    {
+      "word": "february",
+      "count": 8
+    },
+    {
+      "word": "presidential",
+      "count": 8
+    },
+    {
+      "word": "stress",
+      "count": 8
+    },
+    {
+      "word": "password",
+      "count": 7
+    },
+    {
+      "word": "news",
+      "count": 7
+    },
+    {
+      "word": "hot",
+      "count": 6
+    },
+    {
+      "word": "an",
+      "count": 6
+    },
+    {
+      "word": "candidates",
+      "count": 6
+    },
+    {
+      "word": "from",
+      "count": 6
+    },
+    {
+      "word": "one",
+      "count": 6
+    },
+    {
+      "word": "sign",
+      "count": 5
+    },
+    {
+      "word": "account",
+      "count": 5
+    },
+    {
+      "word": "museveni",
+      "count": 5
+    },
+    {
+      "word": "with",
+      "count": 5
+    },
+    {
+      "word": "holiday",
+      "count": 5
+    },
+    {
+      "word": "that",
+      "count": 5
+    },
+    {
+      "word": "destination",
+      "count": 5
+    },
+    {
+      "word": "health",
+      "count": 4
+    },
+    {
+      "word": "up",
+      "count": 4
+    },
+    {
+      "word": "what's",
+      "count": 4
+    },
+    {
+      "word": "giving",
+      "count": 4
+    },
+    {
+      "word": "broke",
+      "count": 4
+    },
+    {
+      "word": "headache",
+      "count": 4
+    },
+    {
+      "word": "as",
+      "count": 4
+    },
+    {
+      "word": "list",
+      "count": 4
+    },
+    {
+      "word": "this",
+      "count": 4
+    },
+    {
+      "word": "land",
+      "count": 4
+    },
+    {
+      "word": "october",
+      "count": 4
+    },
+    {
+      "word": "africa",
+      "count": 4
+    },
+    {
+      "word": "about",
+      "count": 4
+    },
+    {
+      "word": "visit",
+      "count": 4
+    },
+    {
+      "word": "june",
+      "count": 4
+    },
+    {
+      "word": "or",
+      "count": 4
+    },
+    {
+      "word": "full",
+      "count": 4
+    },
+    {
+      "word": "never",
+      "count": 4
+    },
+    {
+      "word": "worth",
+      "count": 4
+    },
+    {
+      "word": "factor",
+      "count": 4
+    },
+    {
+      "word": "ruins",
+      "count": 4
+    },
+    {
+      "word": "someone",
+      "count": 4
+    },
+    {
+      "word": "enjoyment",
+      "count": 4
+    },
+    {
+      "word": "once",
+      "count": 4
+    },
+    {
+      "word": "us",
+      "count": 4
+    },
+    {
+      "word": "contact",
+      "count": 4
+    },
+    {
+      "word": "premium",
+      "count": 4
+    },
+    {
+      "word": "source",
+      "count": 3
+    },
+    {
+      "word": "https",
+      "count": 3
+    },
+    {
+      "word": "orumuri",
+      "count": 3
+    },
+    {
+      "word": "ug",
+      "count": 3
+    },
+    {
+      "word": "newspaper",
+      "count": 3
+    },
+    {
+      "word": "home",
+      "count": 3
+    },
+    {
+      "word": "what",
+      "count": 3
+    },
+    {
+      "word": "welcome",
+      "count": 3
+    },
+    {
+      "word": "be",
+      "count": 3
+    },
+    {
+      "word": "best",
+      "count": 3
+    },
+    {
+      "word": "east",
+      "count": 3
+    },
+    {
+      "word": "should",
+      "count": 3
+    },
+    {
+      "word": "miki",
+      "count": 3
+    },
+    {
+      "word": "kiwanuka",
+      "count": 3
+    },
+    {
+      "word": "year",
+      "count": 3
+    },
+    {
+      "word": "like",
+      "count": 3
+    },
+    {
+      "word": "co",
       "count": 2
     },
     {
-      "word": "ahabwa",
+      "word": "join",
+      "count": 2
+    },
+    {
+      "word": "register",
+      "count": 2
+    },
+    {
+      "word": "recovery",
+      "count": 2
+    },
+    {
+      "word": "recover",
+      "count": 2
+    },
+    {
+      "word": "create",
+      "count": 2
+    },
+    {
+      "word": "will",
+      "count": 2
+    },
+    {
+      "word": "e-mailed",
+      "count": 2
+    },
+    {
+      "word": "now",
+      "count": 2
+    },
+    {
+      "word": "gears",
+      "count": 2
+    },
+    {
+      "word": "elections",
+      "count": 2
+    },
+    {
+      "word": "growing",
+      "count": 2
+    },
+    {
+      "word": "reflects",
+      "count": 2
+    },
+    {
+      "word": "dynamic",
+      "count": 2
+    },
+    {
+      "word": "political",
+      "count": 2
+    },
+    {
+      "word": "landscape",
+      "count": 2
+    },
+    {
+      "word": "evolving",
+      "count": 2
+    },
+    {
+      "word": "field",
+      "count": 2
+    },
+    {
+      "word": "promises",
+      "count": 2
+    },
+    {
+      "word": "april",
+      "count": 2
+    },
+    {
+      "word": "know",
+      "count": 2
+    },
+    {
+      "word": "lifestyle",
+      "count": 2
+    },
+    {
+      "word": "our",
+      "count": 2
+    },
+    {
+      "word": "why",
+      "count": 2
+    },
+    {
+      "word": "september",
+      "count": 2
+    },
+    {
+      "word": "pearl",
+      "count": 2
+    },
+    {
+      "word": "cnn",
+      "count": 2
+    },
+    {
+      "word": "travel",
+      "count": 2
+    },
+    {
+      "word": "destinations",
+      "count": 2
+    },
+    {
+      "word": "january",
+      "count": 2
+    },
+    {
+      "word": "how",
+      "count": 2
+    },
+    {
+      "word": "may",
+      "count": 2
+    },
+    {
+      "word": "when",
+      "count": 2
+    },
+    {
+      "word": "time",
+      "count": 2
+    },
+    {
+      "word": "gorillas",
+      "count": 2
+    },
+    {
+      "word": "forest",
+      "count": 2
+    },
+    {
+      "word": "gorilla",
+      "count": 2
+    },
+    {
+      "word": "july",
+      "count": 2
+    },
+    {
+      "word": "vehicle",
+      "count": 2
+    },
+    {
+      "word": "are",
+      "count": 2
+    },
+    {
+      "word": "down",
+      "count": 2
+    },
+    {
+      "word": "tourism",
+      "count": 2
+    },
+    {
+      "word": "follow",
+      "count": 2
+    },
+    {
+      "word": "latest",
+      "count": 2
+    },
+    {
+      "word": "performance",
+      "count": 2
+    },
+    {
+      "word": "more",
+      "count": 2
+    },
+    {
+      "word": "which",
+      "count": 2
+    },
+    {
+      "word": "asks",
+      "count": 2
+    },
+    {
+      "word": "off",
+      "count": 2
+    },
+    {
+      "word": "unreasonable",
+      "count": 2
+    },
+    {
+      "word": "popular",
+      "count": 2
+    },
+    {
+      "word": "entertainment",
+      "count": 2
+    },
+    {
+      "word": "fashion",
+      "count": 2
+    },
+    {
+      "word": "videos",
+      "count": 2
+    },
+    {
+      "word": "disclaimer",
+      "count": 2
+    },
+    {
+      "word": "www",
+      "count": 2
+    },
+    {
+      "word": "sugar",
+      "count": 2
+    },
+    {
+      "word": "can",
+      "count": 2
+    },
+    {
+      "word": "makerere",
       "count": 2
     },
     {
@@ -107,219 +625,183 @@
       "count": 2
     },
     {
-      "word": "abeegi",
+      "word": "require",
       "count": 2
     },
     {
-      "word": "tibuhaburwa",
+      "word": "information",
+      "count": 2
+    },
+    {
+      "word": "on",
+      "count": 2
+    },
+    {
+      "word": "runyankore",
       "count": 1
     },
     {
-      "word": "akazarwa",
+      "word": "rukiga",
       "count": 1
     },
     {
-      "word": "nya",
+      "word": "online",
       "count": 1
     },
     {
-      "word": "omunya",
+      "word": "email",
       "count": 1
     },
     {
-      "word": "eby'obutegyekyi",
+      "word": "log",
       "count": 1
     },
     {
-      "word": "akahomura",
+      "word": "into",
       "count": 1
     },
     {
-      "word": "okukurira",
+      "word": "forgot",
       "count": 1
     },
     {
-      "word": "engabo",
+      "word": "get",
       "count": 1
     },
     {
-      "word": "z'eihanga",
+      "word": "help",
       "count": 1
     },
     {
-      "word": "was",
+      "word": "trending",
       "count": 1
     },
     {
-      "word": "mwenda",
+      "word": "miss",
       "count": 1
     },
     {
-      "word": "akiriho",
+      "word": "bodaboda",
       "count": 1
     },
     {
-      "word": "nayebembera",
+      "word": "satirical",
       "count": 1
     },
     {
-      "word": "akeetaba",
+      "word": "story",
       "count": 1
     },
     {
-      "word": "ntaro",
+      "word": "queen",
       "count": 1
     },
     {
-      "word": "nyingi",
+      "word": "elizabeth",
       "count": 1
     },
     {
-      "word": "ezayihireho",
+      "word": "national",
       "count": 1
     },
     {
-      "word": "bamwe",
+      "word": "park",
       "count": 1
     },
     {
-      "word": "engoma",
+      "word": "routes",
       "count": 1
     },
     {
-      "word": "nka",
+      "word": "trips",
       "count": 1
     },
     {
-      "word": "obote",
+      "word": "things",
       "count": 1
     },
     {
-      "word": "amin",
+      "word": "before",
       "count": 1
     },
     {
-      "word": "ataka",
+      "word": "start",
       "count": 1
     },
     {
-      "word": "kwatsire",
+      "word": "job",
       "count": 1
     },
     {
-      "word": "bwebembezi",
+      "word": "hunting",
       "count": 1
     },
     {
-      "word": "mwaka",
+      "word": "march",
       "count": 1
     },
     {
-      "word": "aka",
+      "word": "reasons",
       "count": 1
     },
     {
-      "word": "zaarwa",
+      "word": "love",
       "count": 1
     },
     {
-      "word": "ebiro",
+      "word": "natural",
       "count": 1
     },
     {
-      "word": "september",
+      "word": "sheer",
       "count": 1
     },
     {
-      "word": "abazeire",
+      "word": "beauty",
       "count": 1
     },
     {
-      "word": "be",
+      "word": "hospitality",
       "count": 1
     },
     {
-      "word": "mzee",
+      "word": "makes",
       "count": 1
     },
     {
-      "word": "omutungi",
+      "word": "stand",
       "count": 1
     },
     {
-      "word": "w'ente",
+      "word": "out",
       "count": 1
     },
     {
-      "word": "and",
+      "word": "crowd",
       "count": 1
     },
     {
-      "word": "esteri",
+      "word": "everything",
       "count": 1
     },
     {
-      "word": "kokundeka",
+      "word": "exceptional",
       "count": 1
     },
     {
-      "word": "nganzi",
+      "word": "listed",
       "count": 1
     },
     {
-      "word": "rukungiri",
+      "word": "top",
       "count": 1
     },
     {
-      "word": "omuhima",
+      "word": "after",
       "count": 1
     },
     {
-      "word": "eihanga",
-      "count": 1
-    },
-    {
-      "word": "rya",
-      "count": 1
-    },
-    {
-      "word": "mpororo",
-      "count": 1
-    },
-    {
-      "word": "hati",
-      "count": 1
-    },
-    {
-      "word": "emwe",
-      "count": 1
-    },
-    {
-      "word": "ankole",
-      "count": 1
-    },
-    {
-      "word": "edit",
-      "count": 1
-    },
-    {
-      "word": "kurigiririra",
-      "count": 1
-    },
-    {
-      "word": "julius",
-      "count": 1
-    },
-    {
-      "word": "nyerere",
-      "count": 1
-    },
-    {
-      "word": "nyangabo",
-      "count": 1
-    },
-    {
-      "word": "king's",
+      "word": "ranking",
       "count": 1
     },
     {
@@ -327,255 +809,992 @@
       "count": 1
     },
     {
-      "word": "rifles",
+      "word": "nation",
       "count": 1
     },
     {
-      "word": "omubwiire",
+      "word": "greatest",
       "count": 1
     },
     {
-      "word": "orutaro",
+      "word": "locations",
       "count": 1
     },
     {
-      "word": "really",
+      "word": "reinstated",
       "count": 1
     },
     {
-      "word": "ensi",
+      "word": "honored",
       "count": 1
     },
     {
-      "word": "yoona",
+      "word": "toast",
       "count": 1
     },
     {
-      "word": "rwa",
+      "word": "amazing",
       "count": 1
     },
     {
-      "word": "kabiri",
+      "word": "country",
       "count": 1
     },
     {
-      "word": "kakungu",
+      "word": "called",
       "count": 1
     },
     {
-      "word": "ka",
+      "word": "house",
       "count": 1
     },
     {
-      "word": "kabarwani",
+      "word": "design",
       "count": 1
     },
     {
-      "word": "kuyaziirwe",
+      "word": "conduct",
       "count": 1
     },
     {
-      "word": "abanyabuzaare",
+      "word": "surveys",
       "count": 1
     },
     {
-      "word": "baguma",
+      "word": "work",
       "count": 1
     },
     {
-      "word": "nibagira",
+      "word": "consultancy",
       "count": 1
     },
     {
-      "word": "ngu",
+      "word": "firms",
       "count": 1
     },
     {
-      "word": "mu-seveni",
+      "word": "handle",
       "count": 1
     },
     {
-      "word": "aho",
+      "word": "negative",
       "count": 1
     },
     {
-      "word": "niho",
+      "word": "feedback",
       "count": 1
     },
     {
-      "word": "yarugirire",
+      "word": "customers",
       "count": 1
     },
     {
-      "word": "eiziina",
+      "word": "tech",
       "count": 1
     },
     {
-      "word": "eeka",
+      "word": "gadgets",
       "count": 1
     },
     {
-      "word": "ye",
+      "word": "bwindi",
       "count": 1
     },
     {
-      "word": "ekeija",
+      "word": "hidden",
       "count": 1
     },
     {
-      "word": "ya",
+      "word": "gem",
       "count": 1
     },
     {
-      "word": "furikira",
+      "word": "safaris",
       "count": 1
     },
     {
-      "word": "ntungamo",
+      "word": "rent",
       "count": 1
     },
     {
-      "word": "obwiire",
+      "word": "good",
       "count": 1
     },
     {
-      "word": "british",
+      "word": "off-road",
       "count": 1
     },
     {
-      "word": "protectorate",
+      "word": "poor",
       "count": 1
     },
     {
-      "word": "akashomera",
+      "word": "roads",
       "count": 1
     },
     {
-      "word": "kyamate",
+      "word": "slowing",
       "count": 1
     },
     {
-      "word": "elementary",
+      "word": "stay",
       "count": 1
     },
     {
-      "word": "mbarara",
+      "word": "connected",
       "count": 1
     },
     {
-      "word": "high",
+      "word": "fans",
       "count": 1
     },
     {
-      "word": "ntare",
+      "word": "followers",
       "count": 1
     },
     {
-      "word": "primary",
+      "word": "subscribers",
       "count": 1
     },
     {
-      "word": "secondary",
+      "word": "subscribe",
       "count": 1
     },
     {
-      "word": "yashomeraho",
+      "word": "modern",
       "count": 1
     },
     {
-      "word": "dar",
+      "word": "reviews",
       "count": 1
     },
     {
-      "word": "es",
+      "word": "training",
       "count": 1
     },
     {
-      "word": "salaam",
+      "word": "flexible",
       "count": 1
     },
     {
-      "word": "tanzania",
+      "word": "cheaper",
       "count": 1
     },
     {
-      "word": "ebyobwegyese",
+      "word": "than",
       "count": 1
     },
     {
-      "word": "ahiguru",
+      "word": "public",
       "count": 1
     },
     {
-      "word": "akashoma",
+      "word": "transport",
       "count": 1
     },
     {
-      "word": "entatsya",
+      "word": "gives",
       "count": 1
     },
     {
-      "word": "nana",
+      "word": "freedom",
       "count": 1
     },
     {
-      "word": "obutegyeki",
+      "word": "explore",
       "count": 1
     },
     {
-      "word": "akiri",
+      "word": "different",
       "count": 1
     },
     {
-      "word": "akakoraho",
+      "word": "says",
       "count": 1
     },
     {
-      "word": "ekibiina",
+      "word": "alfredo",
       "count": 1
     },
     {
-      "word": "kya",
+      "word": "minnelli",
       "count": 1
     },
     {
-      "word": "ekibakweta",
+      "word": "tourist",
       "count": 1
     },
     {
-      "word": "univers",
+      "word": "rentals",
       "count": 1
     },
     {
-      "word": "yayebembera",
+      "word": "pizza",
       "count": 1
     },
     {
-      "word": "ba",
+      "word": "cappuccino",
       "count": 1
     },
     {
-      "word": "frelimo",
+      "word": "latte",
       "count": 1
     },
     {
-      "word": "portuguese",
+      "word": "were",
       "count": 1
     },
     {
-      "word": "mozambique",
+      "word": "preserve",
       "count": 1
     },
     {
-      "word": "obukugu",
+      "word": "expatriates",
       "count": 1
     },
     {
-      "word": "mahe",
+      "word": "ugandans",
+      "count": 1
+    },
+    {
+      "word": "accumulated",
+      "count": 1
+    },
+    {
+      "word": "air",
+      "count": 1
+    },
+    {
+      "word": "miles",
+      "count": 1
+    },
+    {
+      "word": "hit",
+      "count": 1
+    },
+    {
+      "word": "has",
+      "count": 1
+    },
+    {
+      "word": "pleasant",
+      "count": 1
+    },
+    {
+      "word": "warm",
+      "count": 1
+    },
+    {
+      "word": "tropical",
+      "count": 1
+    },
+    {
+      "word": "climate",
+      "count": 1
+    },
+    {
+      "word": "significant",
+      "count": 1
+    },
+    {
+      "word": "seasonal",
+      "count": 1
+    },
+    {
+      "word": "variations",
+      "count": 1
+    },
+    {
+      "word": "making",
+      "count": 1
+    },
+    {
+      "word": "perfect",
+      "count": 1
+    },
+    {
+      "word": "all",
+      "count": 1
+    },
+    {
+      "word": "recipes",
+      "count": 1
+    },
+    {
+      "word": "wrc",
+      "count": 1
+    },
+    {
+      "word": "racing",
+      "count": 1
+    },
+    {
+      "word": "yes",
+      "count": 1
+    },
+    {
+      "word": "women",
+      "count": 1
+    },
+    {
+      "word": "do",
+      "count": 1
+    },
+    {
+      "word": "football",
+      "count": 1
+    },
+    {
+      "word": "november",
+      "count": 1
+    },
+    {
+      "word": "golola",
+      "count": 1
+    },
+    {
+      "word": "announces",
+      "count": 1
+    },
+    {
+      "word": "retirement",
+      "count": 1
+    },
+    {
+      "word": "pay",
+      "count": 1
+    },
+    {
+      "word": "me",
+      "count": 1
+    },
+    {
+      "word": "lay",
+      "count": 1
+    },
+    {
+      "word": "them",
+      "count": 1
+    },
+    {
+      "word": "ugandan",
+      "count": 1
+    },
+    {
+      "word": "referee",
+      "count": 1
+    },
+    {
+      "word": "bribe",
+      "count": 1
+    },
+    {
+      "word": "coach",
+      "count": 1
+    },
+    {
+      "word": "dstv",
+      "count": 1
+    },
+    {
+      "word": "partnership",
+      "count": 1
+    },
+    {
+      "word": "swimming",
+      "count": 1
+    },
+    {
+      "word": "federation",
+      "count": 1
+    },
+    {
+      "word": "fitness",
+      "count": 1
+    },
+    {
+      "word": "jumia",
+      "count": 1
+    },
+    {
+      "word": "mobile",
+      "count": 1
+    },
+    {
+      "word": "week",
+      "count": 1
+    },
+    {
+      "word": "discounts",
+      "count": 1
+    },
+    {
+      "word": "property",
+      "count": 1
+    },
+    {
+      "word": "site",
+      "count": 1
+    },
+    {
+      "word": "lamudi",
+      "count": 1
+    },
+    {
+      "word": "launches",
+      "count": 1
+    },
+    {
+      "word": "lamudiugchallenge",
+      "count": 1
+    },
+    {
+      "word": "provides",
+      "count": 1
+    },
+    {
+      "word": "advantages",
+      "count": 1
+    },
+    {
+      "word": "entrepreneurs",
+      "count": 1
+    },
+    {
+      "word": "architecture",
+      "count": 1
+    },
+    {
+      "word": "editor",
+      "count": 1
+    },
+    {
+      "word": "picks",
+      "count": 1
+    },
+    {
+      "word": "posts",
+      "count": 1
+    },
+    {
+      "word": "category",
+      "count": 1
+    },
+    {
+      "word": "technology",
+      "count": 1
+    },
+    {
+      "word": "food",
+      "count": 1
+    },
+    {
+      "word": "sports",
+      "count": 1
+    },
+    {
+      "word": "music",
+      "count": 1
+    },
+    {
+      "word": "website",
+      "count": 1
+    },
+    {
+      "word": "we",
+      "count": 1
+    },
+    {
+      "word": "provide",
+      "count": 1
+    },
+    {
+      "word": "breaking",
+      "count": 1
+    },
+    {
+      "word": "straight",
+      "count": 1
+    },
+    {
+      "word": "industry",
+      "count": 1
+    },
+    {
+      "word": "yoursite",
+      "count": 1
+    },
+    {
+      "word": "com",
+      "count": 1
+    },
+    {
+      "word": "blogger",
+      "count": 1
+    },
+    {
+      "word": "facebook",
+      "count": 1
+    },
+    {
+      "word": "flickr",
+      "count": 1
+    },
+    {
+      "word": "instagram",
+      "count": 1
+    },
+    {
+      "word": "vkontakte",
+      "count": 1
+    },
+    {
+      "word": "copy",
+      "count": 1
+    },
+    {
+      "word": "wordpress",
+      "count": 1
+    },
+    {
+      "word": "theme",
+      "count": 1
+    },
+    {
+      "word": "by",
+      "count": 1
+    },
+    {
+      "word": "tagdiv",
+      "count": 1
+    },
+    {
+      "word": "newvision",
+      "count": 1
+    },
+    {
+      "word": "new",
+      "count": 1
+    },
+    {
+      "word": "vision",
+      "count": 1
+    },
+    {
+      "word": "over",
+      "count": 1
+    },
+    {
+      "word": "weekend",
+      "count": 1
+    },
+    {
+      "word": "gloria",
+      "count": 1
+    },
+    {
+      "word": "buggie",
+      "count": 1
+    },
+    {
+      "word": "performing",
+      "count": 1
+    },
+    {
+      "word": "at",
+      "count": 1
+    },
+    {
+      "word": "namilyango",
+      "count": 1
+    },
+    {
+      "word": "college",
+      "count": 1
+    },
+    {
+      "word": "reignited",
+      "count": 1
+    },
+    {
+      "word": "debate",
+      "count": 1
+    },
+    {
+      "word": "refuses",
+      "count": 1
+    },
+    {
+      "word": "go",
+      "count": 1
+    },
+    {
+      "word": "away",
+      "count": 1
+    },
+    {
+      "word": "clips",
+      "count": 1
+    },
+    {
+      "word": "artiste",
+      "count": 1
+    },
+    {
+      "word": "known",
+      "count": 1
+    },
+    {
+      "word": "her",
+      "count": 1
+    },
+    {
+      "word": "sensual",
+      "count": 1
+    },
+    {
+      "word": "education",
+      "count": 1
+    },
+    {
+      "word": "speaker",
+      "count": 1
+    },
+    {
+      "word": "among",
+      "count": 1
+    },
+    {
+      "word": "seeks",
+      "count": 1
+    },
+    {
+      "word": "term",
+      "count": 1
+    },
+    {
+      "word": "mps",
+      "count": 1
+    },
+    {
+      "word": "president",
+      "count": 1
+    },
+    {
+      "word": "special",
+      "count": 1
+    },
+    {
+      "word": "reports",
+      "count": 1
+    },
+    {
+      "word": "ownership",
+      "count": 1
+    },
+    {
+      "word": "bugoma",
+      "count": 1
+    },
+    {
+      "word": "cdf",
+      "count": 1
+    },
+    {
+      "word": "muhoozi",
+      "count": 1
+    },
+    {
+      "word": "probe",
+      "count": 1
+    },
+    {
+      "word": "army",
+      "count": 1
+    },
+    {
+      "word": "officials",
+      "count": 1
+    },
+    {
+      "word": "sniffer",
+      "count": 1
+    },
+    {
+      "word": "dogs",
+      "count": 1
+    },
+    {
+      "word": "lead",
+      "count": 1
+    },
+    {
+      "word": "arrests",
+      "count": 1
+    },
+    {
+      "word": "ent",
+      "count": 1
+    },
+    {
+      "word": "kikoyi's",
+      "count": 1
+    },
+    {
+      "word": "journey",
+      "count": 1
+    },
+    {
+      "word": "undergarment",
+      "count": 1
+    },
+    {
+      "word": "centerstage",
+      "count": 1
+    },
+    {
+      "word": "asset",
+      "count": 1
+    },
+    {
+      "word": "financing",
+      "count": 1
+    },
+    {
+      "word": "keeps",
+      "count": 1
+    },
+    {
+      "word": "moving",
+      "count": 1
+    },
+    {
+      "word": "out-growers",
+      "count": 1
+    },
+    {
+      "word": "supplying",
+      "count": 1
+    },
+    {
+      "word": "kakira",
+      "count": 1
+    },
+    {
+      "word": "works",
+      "count": 1
+    },
+    {
+      "word": "arguably",
+      "count": 1
+    },
+    {
+      "word": "largest",
+      "count": 1
+    },
+    {
+      "word": "processor",
+      "count": 1
+    },
+    {
+      "word": "difference",
+      "count": 1
+    },
+    {
+      "word": "clear",
+      "count": 1
+    },
+    {
+      "word": "manual",
+      "count": 1
+    },
+    {
+      "word": "preparation",
+      "count": 1
+    },
+    {
+      "word": "sugarcane",
+      "count": 1
+    },
+    {
+      "word": "take",
+      "count": 1
+    },
+    {
+      "word": "weeks",
+      "count": 1
+    },
+    {
+      "word": "caps",
+      "count": 1
+    },
+    {
+      "word": "much",
+      "count": 1
+    },
+    {
+      "word": "farmer",
+      "count": 1
+    },
+    {
+      "word": "manage",
+      "count": 1
+    },
+    {
+      "word": "private",
+      "count": 1
+    },
+    {
+      "word": "refiners",
+      "count": 1
+    },
+    {
+      "word": "eye",
+      "count": 1
+    },
+    {
+      "word": "regional",
+      "count": 1
+    },
+    {
+      "word": "dominance",
+      "count": 1
+    },
+    {
+      "word": "bou",
+      "count": 1
+    },
+    {
+      "word": "gold",
+      "count": 1
+    },
+    {
+      "word": "plan",
+      "count": 1
+    },
+    {
+      "word": "takes",
+      "count": 1
+    },
+    {
+      "word": "mak",
+      "count": 1
+    },
+    {
+      "word": "ac",
+      "count": 1
+    },
+    {
+      "word": "runyankore-rukiga",
+      "count": 1
+    },
+    {
+      "word": "department",
+      "count": 1
+    },
+    {
+      "word": "use",
+      "count": 1
+    },
+    {
+      "word": "choices",
+      "count": 1
+    },
+    {
+      "word": "below",
+      "count": 1
+    },
+    {
+      "word": "gain",
+      "count": 1
+    },
+    {
+      "word": "immediate",
+      "count": 1
+    },
+    {
+      "word": "access",
+      "count": 1
+    },
+    {
+      "word": "resources",
+      "count": 1
+    },
+    {
+      "word": "example",
+      "count": 1
+    },
+    {
+      "word": "am",
+      "count": 1
+    },
+    {
+      "word": "prospective",
+      "count": 1
+    },
+    {
+      "word": "student",
+      "count": 1
+    },
+    {
+      "word": "seeking",
+      "count": 1
+    },
+    {
+      "word": "related",
+      "count": 1
+    },
+    {
+      "word": "admission",
+      "count": 1
+    },
+    {
+      "word": "while",
+      "count": 1
+    },
+    {
+      "word": "not",
+      "count": 1
+    },
+    {
+      "word": "comprehensive",
+      "count": 1
+    },
+    {
+      "word": "options",
+      "count": 1
+    },
+    {
+      "word": "based",
+      "count": 1
+    },
+    {
+      "word": "most",
+      "count": 1
+    },
+    {
+      "word": "requested",
+      "count": 1
+    },
+    {
+      "word": "unable",
+      "count": 1
+    },
+    {
+      "word": "find",
+      "count": 1
+    },
+    {
+      "word": "re",
+      "count": 1
+    },
+    {
+      "word": "looking",
+      "count": 1
+    },
+    {
+      "word": "let",
       "count": 1
     }
-  ],
-  "source": "CommonLID TSV + FLORES+ (dev+devtest)",
-  "total_tokens": 191,
-  "unique_tokens": 143
+  ]
 }

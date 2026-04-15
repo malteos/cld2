@@ -11,3 +11,18 @@ The `zho_Hans` row is **Simplified Han**, the script used in mainland China, Sin
 ## Status vs. cmn
 
 In practice, written `zho_Hans` corpora are dominated by standard Mandarin (Putonghua); the row is essentially identical to `cmn_Hans` at sentence level. The macrocode exists for corpora tagged generically "Chinese" where the speaker variety is unknown or mixed. Choose `zho` when the source did not specify a variety, `cmn` when Putonghua is explicit.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://zh.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.people.com.cn/` — People's Daily Online — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://zh.wikipedia.org/` — Chinese Wikipedia (cultural)
+- `https://www.people.com.cn/` — People's Daily Online (news)

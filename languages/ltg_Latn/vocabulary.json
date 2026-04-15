@@ -1,517 +1,2195 @@
 {
   "code": "ltg",
   "name": "Latgalian",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (ltg.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 92036,
+  "unique_tokens": 25801,
   "words": [
     {
-      "word": "ir",
-      "count": 1052
-    },
-    {
-      "word": "ka",
-      "count": 485
-    },
-    {
       "word": "nu",
-      "count": 445
+      "count": 1165
     },
     {
-      "word": "kas",
-      "count": 394
+      "word": "irā",
+      "count": 961
     },
     {
       "word": "ar",
-      "count": 389
-    },
-    {
-      "word": "par",
-      "count": 347
-    },
-    {
-      "word": "iz",
-      "count": 291
-    },
-    {
-      "word": "kai",
-      "count": 265
-    },
-    {
-      "word": "voi",
-      "count": 245
-    },
-    {
-      "word": "beja",
-      "count": 226
-    },
-    {
-      "word": "var",
-      "count": 211
-    },
-    {
-      "word": "ari",
-      "count": 183
-    },
-    {
-      "word": "piec",
-      "count": 150
-    },
-    {
-      "word": "tyka",
-      "count": 143
-    },
-    {
-      "word": "tok",
-      "count": 137
-    },
-    {
-      "word": "tys",
-      "count": 135
-    },
-    {
-      "word": "tū",
-      "count": 122
-    },
-    {
-      "word": "kab",
-      "count": 122
-    },
-    {
-      "word": "nav",
-      "count": 104
-    },
-    {
-      "word": "teik",
-      "count": 102
-    },
-    {
-      "word": "lai",
-      "count": 98
-    },
-    {
-      "word": "jis",
-      "count": 90
-    },
-    {
-      "word": "kod",
-      "count": 88
-    },
-    {
-      "word": "godu",
-      "count": 83
-    },
-    {
-      "word": "tī",
-      "count": 81
-    },
-    {
-      "word": "kū",
-      "count": 77
-    },
-    {
-      "word": "tuos",
-      "count": 77
+      "count": 734
     },
     {
       "word": "godā",
-      "count": 76
+      "count": 718
     },
     {
-      "word": "leidz",
-      "count": 73
+      "word": "td",
+      "count": 617
     },
     {
-      "word": "byut",
-      "count": 70
+      "word": "nūvoda",
+      "count": 522
     },
     {
-      "word": "laikā",
-      "count": 68
+      "word": "pogosta",
+      "count": 471
     },
     {
-      "word": "tuo",
-      "count": 68
+      "word": "kai",
+      "count": 447
     },
     {
-      "word": "jī",
-      "count": 67
+      "word": "nūruodis",
+      "count": 445
     },
     {
-      "word": "bīži",
-      "count": 67
+      "word": "latgolys",
+      "count": 424
     },
     {
-      "word": "cīši",
-      "count": 65
+      "word": "beja",
+      "count": 406
     },
     {
-      "word": "goda",
-      "count": 64
+      "word": "iz",
+      "count": 403
     },
     {
-      "word": "koč",
-      "count": 63
+      "word": "latgaļu",
+      "count": 391
     },
     {
-      "word": "sovu",
-      "count": 62
+      "word": "pogosts",
+      "count": 386
     },
     {
-      "word": "nakai",
-      "count": 61
+      "word": "pogostu",
+      "count": 381
     },
     {
-      "word": "deļtam",
-      "count": 60
-    },
-    {
-      "word": "tei",
-      "count": 60
-    },
-    {
-      "word": "pat",
-      "count": 59
-    },
-    {
-      "word": "jius",
-      "count": 58
-    },
-    {
-      "word": "kur",
-      "count": 56
-    },
-    {
-      "word": "tikai",
-      "count": 55
-    },
-    {
-      "word": "tūs",
-      "count": 54
-    },
-    {
-      "word": "parosti",
-      "count": 54
-    },
-    {
-      "word": "daudz",
-      "count": 51
-    },
-    {
-      "word": "vēļ",
-      "count": 51
-    },
-    {
-      "word": "bet",
-      "count": 50
+      "word": "par",
+      "count": 348
     },
     {
       "word": "pa",
-      "count": 50
+      "count": 344
     },
     {
-      "word": "apmāram",
-      "count": 48
+      "word": "latvejis",
+      "count": 298
     },
     {
-      "word": "saceja",
-      "count": 47
+      "word": "da",
+      "count": 277
     },
     {
-      "word": "vaļsts",
-      "count": 47
+      "word": "pogostā",
+      "count": 255
     },
     {
-      "word": "deļ",
-      "count": 46
+      "word": "vaļsteibys",
+      "count": 235
     },
     {
-      "word": "pret",
-      "count": 46
+      "word": "daugpiļs",
+      "count": 233
     },
     {
-      "word": "vaira",
-      "count": 46
+      "word": "latgolā",
+      "count": 229
     },
     {
-      "word": "daļa",
-      "count": 45
+      "word": "ļauds",
+      "count": 217
     },
     {
-      "word": "varātu",
-      "count": 45
-    },
-    {
-      "word": "partū",
-      "count": 44
-    },
-    {
-      "word": "atsarūn",
-      "count": 44
-    },
-    {
-      "word": "jūs",
-      "count": 44
-    },
-    {
-      "word": "cylvāki",
-      "count": 44
-    },
-    {
-      "word": "tai",
-      "count": 43
-    },
-    {
-      "word": "un",
-      "count": 41
+      "word": "solys",
+      "count": 217
     },
     {
       "word": "pi",
-      "count": 41
+      "count": 214
     },
     {
-      "word": "tik",
-      "count": 41
+      "word": "taipoš",
+      "count": 213
     },
     {
-      "word": "pyrma",
-      "count": 41
+      "word": "goda",
+      "count": 210
+    },
+    {
+      "word": "centrys",
+      "count": 210
+    },
+    {
+      "word": "volūda",
+      "count": 204
+    },
+    {
+      "word": "olūti",
+      "count": 199
+    },
+    {
+      "word": "piec",
+      "count": 196
+    },
+    {
+      "word": "latvīšu",
+      "count": 193
+    },
+    {
+      "word": "teritoriskais",
+      "count": 192
+    },
+    {
+      "word": "ir",
+      "count": 189
+    },
+    {
+      "word": "dzeivoj",
+      "count": 189
+    },
+    {
+      "word": "latgalīšu",
+      "count": 188
+    },
+    {
+      "word": "gods",
+      "count": 187
+    },
+    {
+      "word": "republika",
+      "count": 178
+    },
+    {
+      "word": "godu",
+      "count": 174
+    },
+    {
+      "word": "ka",
+      "count": 168
+    },
+    {
+      "word": "viesture",
+      "count": 168
+    },
+    {
+      "word": "volūdys",
+      "count": 159
+    },
+    {
+      "word": "padalīņs",
+      "count": 158
+    },
+    {
+      "word": "vaļsteiba",
+      "count": 151
+    },
+    {
+      "word": "kas",
+      "count": 149
+    },
+    {
+      "word": "voi",
+      "count": 148
     },
     {
       "word": "pasauļa",
-      "count": 41
+      "count": 145
+    },
+    {
+      "word": "kod",
+      "count": 143
+    },
+    {
+      "word": "ap",
+      "count": 142
+    },
+    {
+      "word": "katuoļu",
+      "count": 141
+    },
+    {
+      "word": "ci",
+      "count": 141
+    },
+    {
+      "word": "var",
+      "count": 141
+    },
+    {
+      "word": "tr",
+      "count": 137
+    },
+    {
+      "word": "mīsts",
+      "count": 133
+    },
+    {
+      "word": "teritoreju",
+      "count": 133
+    },
+    {
+      "word": "the",
+      "count": 133
     },
     {
       "word": "vīna",
-      "count": 40
+      "count": 132
     },
     {
-      "word": "leluokuo",
-      "count": 40
+      "word": "teiklavītys",
+      "count": 131
     },
     {
-      "word": "cylvāku",
-      "count": 40
+      "word": "fon",
+      "count": 130
     },
     {
-      "word": "myusu",
-      "count": 40
+      "word": "aba",
+      "count": 129
     },
     {
-      "word": "vīns",
-      "count": 39
+      "word": "cm",
+      "count": 128
     },
     {
-      "word": "asv",
-      "count": 37
-    },
-    {
-      "word": "gon",
-      "count": 37
-    },
-    {
-      "word": "bez",
-      "count": 36
-    },
-    {
-      "word": "byutu",
-      "count": 36
-    },
-    {
-      "word": "cytu",
-      "count": 36
-    },
-    {
-      "word": "juo",
-      "count": 36
-    },
-    {
-      "word": "jau",
-      "count": 33
-    },
-    {
-      "word": "tam",
-      "count": 33
-    },
-    {
-      "word": "mes",
-      "count": 33
-    },
-    {
-      "word": "eipaši",
-      "count": 33
-    },
-    {
-      "word": "pīmāram",
-      "count": 33
-    },
-    {
-      "word": "jums",
-      "count": 33
-    },
-    {
-      "word": "kurys",
-      "count": 32
-    },
-    {
-      "word": "storp",
-      "count": 32
-    },
-    {
-      "word": "byus",
-      "count": 31
-    },
-    {
-      "word": "vysu",
-      "count": 31
-    },
-    {
-      "word": "taipat",
-      "count": 31
-    },
-    {
-      "word": "sauc",
-      "count": 31
-    },
-    {
-      "word": "laika",
-      "count": 30
-    },
-    {
-      "word": "kurs",
-      "count": 29
-    },
-    {
-      "word": "vaļstīs",
-      "count": 29
-    },
-    {
-      "word": "kuri",
-      "count": 29
-    },
-    {
-      "word": "vītu",
-      "count": 29
-    },
-    {
-      "word": "itū",
-      "count": 28
-    },
-    {
-      "word": "cylvākim",
-      "count": 28
-    },
-    {
-      "word": "veids",
-      "count": 28
-    },
-    {
-      "word": "labi",
-      "count": 27
-    },
-    {
-      "word": "laiku",
-      "count": 27
-    },
-    {
-      "word": "daļu",
-      "count": 27
-    },
-    {
-      "word": "daži",
-      "count": 27
-    },
-    {
-      "word": "nūzeimoj",
-      "count": 27
-    },
-    {
-      "word": "vysi",
-      "count": 27
-    },
-    {
-      "word": "treis",
-      "count": 26
-    },
-    {
-      "word": "tymā",
-      "count": 26
-    },
-    {
-      "word": "vītā",
-      "count": 25
-    },
-    {
-      "word": "kuru",
-      "count": 25
-    },
-    {
-      "word": "vys",
-      "count": 25
-    },
-    {
-      "word": "nabeja",
-      "count": 25
-    },
-    {
-      "word": "gondreiž",
-      "count": 25
-    },
-    {
-      "word": "viņ",
-      "count": 25
-    },
-    {
-      "word": "daudzi",
-      "count": 24
+      "word": "krīvu",
+      "count": 126
     },
     {
       "word": "km",
-      "count": 24
+      "count": 126
     },
     {
-      "word": "na",
-      "count": 24
+      "word": "jis",
+      "count": 124
     },
     {
-      "word": "iudiņa",
-      "count": 24
+      "word": "solu",
+      "count": 117
     },
     {
-      "word": "es",
-      "count": 23
+      "word": "nazcik",
+      "count": 115
     },
     {
-      "word": "godus",
-      "count": 23
+      "word": "garums",
+      "count": 115
     },
     {
-      "word": "jim",
-      "count": 23
+      "word": "tur",
+      "count": 112
     },
     {
-      "word": "niu",
-      "count": 23
+      "word": "dzeivuotuoju",
+      "count": 112
     },
     {
-      "word": "vītys",
-      "count": 23
+      "word": "tyka",
+      "count": 110
     },
     {
-      "word": "ituos",
-      "count": 23
+      "word": "azars",
+      "count": 110
     },
     {
-      "word": "cytys",
-      "count": 23
+      "word": "juo",
+      "count": 109
     },
     {
-      "word": "vairuok",
-      "count": 22
+      "word": "pošu",
+      "count": 109
     },
     {
-      "word": "puori",
-      "count": 22
+      "word": "rēznis",
+      "count": 109
+    },
+    {
+      "word": "volūdā",
+      "count": 108
+    },
+    {
+      "word": "mīsta",
+      "count": 107
+    },
+    {
+      "word": "anglīšu",
+      "count": 105
+    },
+    {
+      "word": "godam",
+      "count": 104
+    },
+    {
+      "word": "krīvejis",
+      "count": 103
+    },
+    {
+      "word": "europys",
+      "count": 103
+    },
+    {
+      "word": "roksts",
+      "count": 103
+    },
+    {
+      "word": "cierkva",
+      "count": 103
+    },
+    {
+      "word": "laikā",
+      "count": 101
+    },
+    {
+      "word": "bazneica",
+      "count": 99
+    },
+    {
+      "word": "jū",
+      "count": 99
+    },
+    {
+      "word": "tautys",
+      "count": 99
+    },
+    {
+      "word": "latvejā",
+      "count": 98
+    },
+    {
+      "word": "zeimeigi",
+      "count": 97
+    },
+    {
+      "word": "dora",
+      "count": 97
+    },
+    {
+      "word": "ludzys",
+      "count": 96
+    },
+    {
+      "word": "vydzemē",
+      "count": 95
+    },
+    {
+      "word": "vīns",
+      "count": 93
+    },
+    {
+      "word": "volūdu",
+      "count": 92
+    },
+    {
+      "word": "iraid",
+      "count": 92
+    },
+    {
+      "word": "vaira",
+      "count": 90
+    },
+    {
+      "word": "kulturys",
+      "count": 89
+    },
+    {
+      "word": "von",
+      "count": 89
+    },
+    {
+      "word": "tys",
+      "count": 87
+    },
+    {
+      "word": "tok",
+      "count": 87
+    },
+    {
+      "word": "of",
+      "count": 86
+    },
+    {
+      "word": "upis",
+      "count": 84
+    },
+    {
+      "word": "lītovys",
+      "count": 82
+    },
+    {
+      "word": "kura",
+      "count": 81
+    },
+    {
+      "word": "nūvods",
+      "count": 80
+    },
+    {
+      "word": "rūbežu",
+      "count": 80
+    },
+    {
+      "word": "por",
+      "count": 79
+    },
+    {
+      "word": "pūstumu",
+      "count": 78
+    },
+    {
+      "word": "lv",
+      "count": 77
+    },
+    {
+      "word": "giņts",
+      "count": 77
+    },
+    {
+      "word": "piļs",
+      "count": 77
+    },
+    {
+      "word": "leidz",
+      "count": 76
+    },
+    {
+      "word": "tuo",
+      "count": 76
+    },
+    {
+      "word": "europā",
+      "count": 76
+    },
+    {
+      "word": "reigys",
+      "count": 76
     },
     {
       "word": "zemis",
+      "count": 75
+    },
+    {
+      "word": "sovu",
+      "count": 74
+    },
+    {
+      "word": "nūvodā",
+      "count": 74
+    },
+    {
+      "word": "staroveru",
+      "count": 74
+    },
+    {
+      "word": "saimis",
+      "count": 73
+    },
+    {
+      "word": "pasauka",
+      "count": 73
+    },
+    {
+      "word": "kruoslovys",
+      "count": 72
+    },
+    {
+      "word": "daļa",
+      "count": 72
+    },
+    {
+      "word": "geografeja",
+      "count": 72
+    },
+    {
+      "word": "kab",
+      "count": 71
+    },
+    {
+      "word": "leopardus",
+      "count": 71
+    },
+    {
+      "word": "biblioteka",
+      "count": 71
+    },
+    {
+      "word": "puolejis",
+      "count": 70
+    },
+    {
+      "word": "kur",
+      "count": 70
+    },
+    {
+      "word": "golvysmīsts",
+      "count": 70
+    },
+    {
+      "word": "solā",
+      "count": 69
+    },
+    {
+      "word": "tik",
+      "count": 69
+    },
+    {
+      "word": "dobys",
+      "count": 69
+    },
+    {
+      "word": "teritorejā",
+      "count": 69
+    },
+    {
+      "word": "pravoslavu",
+      "count": 69
+    },
+    {
+      "word": "kurs",
+      "count": 68
+    },
+    {
+      "word": "navā",
+      "count": 68
+    },
+    {
+      "word": "juos",
+      "count": 68
+    },
+    {
+      "word": "kūpā",
+      "count": 68
+    },
+    {
+      "word": "ari",
+      "count": 68
+    },
+    {
+      "word": "azara",
+      "count": 68
+    },
+    {
+      "word": "dzeivinīki",
+      "count": 68
+    },
+    {
+      "word": "rēzeknis",
+      "count": 68
+    },
+    {
+      "word": "teiklavītā",
+      "count": 68
+    },
+    {
+      "word": "deļ",
+      "count": 67
+    },
+    {
+      "word": "tū",
+      "count": 66
+    },
+    {
+      "word": "pasaulī",
+      "count": 65
+    },
+    {
+      "word": "vēļ",
+      "count": 64
+    },
+    {
+      "word": "daudzi",
+      "count": 64
+    },
+    {
+      "word": "tei",
+      "count": 63
+    },
+    {
+      "word": "verīs",
+      "count": 63
+    },
+    {
+      "word": "dīnavydu",
+      "count": 63
+    },
+    {
+      "word": "dīnys",
+      "count": 63
+    },
+    {
+      "word": "vydā",
+      "count": 62
+    },
+    {
+      "word": "cīši",
+      "count": 62
+    },
+    {
+      "word": "km²",
+      "count": 62
+    },
+    {
+      "word": "augstums",
+      "count": 62
+    },
+    {
+      "word": "jau",
+      "count": 61
+    },
+    {
+      "word": "ite",
+      "count": 61
+    },
+    {
+      "word": "tai",
+      "count": 61
+    },
+    {
+      "word": "lelumam",
+      "count": 61
+    },
+    {
+      "word": "noms",
+      "count": 60
+    },
+    {
+      "word": "dagdys",
+      "count": 60
+    },
+    {
+      "word": "na",
+      "count": 59
+    },
+    {
+      "word": "datu",
+      "count": 59
+    },
+    {
+      "word": "jūs",
+      "count": 58
+    },
+    {
+      "word": "bejs",
+      "count": 58
+    },
+    {
+      "word": "vyds",
+      "count": 58
+    },
+    {
+      "word": "aglyunys",
+      "count": 56
+    },
+    {
+      "word": "cytu",
+      "count": 56
+    },
+    {
+      "word": "pīvadumam",
+      "count": 56
+    },
+    {
+      "word": "auguma",
+      "count": 56
+    },
+    {
+      "word": "corvus",
+      "count": 56
+    },
+    {
+      "word": "un",
+      "count": 55
+    },
+    {
+      "word": "bet",
+      "count": 55
+    },
+    {
+      "word": "sola",
+      "count": 55
+    },
+    {
+      "word": "vītejuo",
+      "count": 55
+    },
+    {
+      "word": "dīna",
+      "count": 55
+    },
+    {
+      "word": "ii",
+      "count": 54
+    },
+    {
+      "word": "rūbeži",
+      "count": 54
+    },
+    {
+      "word": "krystapiļs",
+      "count": 54
+    },
+    {
+      "word": "svors",
+      "count": 53
+    },
+    {
+      "word": "kg",
+      "count": 53
+    },
+    {
+      "word": "dzeivuotuoji",
+      "count": 53
+    },
+    {
+      "word": "dzeļžaceļa",
+      "count": 53
+    },
+    {
+      "word": "kurys",
+      "count": 52
+    },
+    {
+      "word": "tuoļsative",
+      "count": 52
+    },
+    {
+      "word": "mieneša",
+      "count": 52
+    },
+    {
+      "word": "vyrtuve",
+      "count": 52
+    },
+    {
+      "word": "ļeidz",
+      "count": 52
+    },
+    {
+      "word": "pyrmais",
+      "count": 51
+    },
+    {
+      "word": "vuocīšu",
+      "count": 51
+    },
+    {
+      "word": "iudiņa",
+      "count": 51
+    },
+    {
+      "word": "jiuru",
+      "count": 51
+    },
+    {
+      "word": "mīsti",
+      "count": 51
+    },
+    {
+      "word": "vīta",
+      "count": 51
+    },
+    {
+      "word": "atsarūn",
+      "count": 50
+    },
+    {
+      "word": "dzims",
+      "count": 50
+    },
+    {
+      "word": "bejuse",
+      "count": 50
+    },
+    {
+      "word": "daugovys",
+      "count": 50
+    },
+    {
+      "word": "zeimeibys",
+      "count": 50
+    },
+    {
+      "word": "škira",
+      "count": 50
+    },
+    {
+      "word": "iedīņs",
+      "count": 50
+    },
+    {
+      "word": "bazneicys",
+      "count": 49
+    },
+    {
+      "word": "nūv",
+      "count": 49
+    },
+    {
+      "word": "solai",
+      "count": 49
+    },
+    {
+      "word": "dīnā",
+      "count": 48
+    },
+    {
+      "word": "to",
+      "count": 48
+    },
+    {
+      "word": "nūvodu",
+      "count": 48
+    },
+    {
+      "word": "ha",
+      "count": 48
+    },
+    {
+      "word": "izavierīņs",
+      "count": 48
+    },
+    {
+      "word": "cyblys",
+      "count": 48
+    },
+    {
+      "word": "teritoreja",
+      "count": 48
+    },
+    {
+      "word": "bavārejis",
+      "count": 48
+    },
+    {
+      "word": "kuru",
+      "count": 47
+    },
+    {
+      "word": "dalejums",
+      "count": 47
+    },
+    {
+      "word": "gs",
+      "count": 47
+    },
+    {
+      "word": "cylvāka",
+      "count": 47
+    },
+    {
+      "word": "reitu",
+      "count": 47
+    },
+    {
+      "word": "kaču",
+      "count": 47
+    },
+    {
+      "word": "jei",
+      "count": 47
+    },
+    {
+      "word": "felis",
+      "count": 47
+    },
+    {
+      "word": "īstateja",
+      "count": 47
+    },
+    {
+      "word": "gruomotys",
+      "count": 46
+    },
+    {
+      "word": "pluots",
+      "count": 46
+    },
+    {
+      "word": "teritorejis",
+      "count": 46
+    },
+    {
+      "word": "ct",
+      "count": 46
+    },
+    {
+      "word": "laika",
+      "count": 44
+    },
+    {
+      "word": "volūduos",
+      "count": 44
+    },
+    {
+      "word": "byut",
+      "count": 44
+    },
+    {
+      "word": "apleiciņa",
+      "count": 44
+    },
+    {
+      "word": "vysu",
+      "count": 44
+    },
+    {
+      "word": "lītaunīku",
+      "count": 44
+    },
+    {
+      "word": "demografeja",
+      "count": 44
+    },
+    {
+      "word": "igaunejis",
+      "count": 44
+    },
+    {
+      "word": "posta",
+      "count": 44
+    },
+    {
+      "word": "baļtejis",
+      "count": 43
+    },
+    {
+      "word": "plieseigais",
+      "count": 43
+    },
+    {
+      "word": "zviers",
+      "count": 43
+    },
+    {
+      "word": "punkts",
+      "count": 43
+    },
+    {
+      "word": "republikys",
+      "count": 43
+    },
+    {
+      "word": "daļu",
+      "count": 43
+    },
+    {
+      "word": "pyrmū",
+      "count": 42
+    },
+    {
+      "word": "tūlaik",
+      "count": 42
+    },
+    {
+      "word": "pats",
+      "count": 42
+    },
+    {
+      "word": "jam",
+      "count": 42
+    },
+    {
+      "word": "grupa",
+      "count": 42
+    },
+    {
+      "word": "vysā",
+      "count": 42
+    },
+    {
+      "word": "bolvu",
+      "count": 42
+    },
+    {
+      "word": "mienesī",
+      "count": 42
+    },
+    {
+      "word": "daškiera",
+      "count": 42
+    },
+    {
+      "word": "lelums",
+      "count": 41
+    },
+    {
+      "word": "lītoj",
+      "count": 41
+    },
+    {
+      "word": "kuorsovys",
+      "count": 41
+    },
+    {
+      "word": "bez",
+      "count": 40
+    },
+    {
+      "word": "tymā",
+      "count": 40
+    },
+    {
+      "word": "partū",
+      "count": 40
+    },
+    {
+      "word": "augšuok",
+      "count": 40
+    },
+    {
+      "word": "teiklavīta",
+      "count": 40
+    },
+    {
+      "word": "leluos",
+      "count": 40
+    },
+    {
+      "word": "administrativais",
+      "count": 39
+    },
+    {
+      "word": "nautrānu",
+      "count": 39
+    },
+    {
+      "word": "vuords",
+      "count": 39
+    },
+    {
+      "word": "vītejuos",
+      "count": 39
+    },
+    {
+      "word": "politika",
+      "count": 39
+    },
+    {
+      "word": "romys",
+      "count": 39
+    },
+    {
+      "word": "svātuo",
+      "count": 39
+    },
+    {
+      "word": "kūku",
+      "count": 39
+    },
+    {
+      "word": "vuordu",
+      "count": 38
+    },
+    {
+      "word": "vokoru",
+      "count": 38
+    },
+    {
+      "word": "sielejā",
+      "count": 38
+    },
+    {
+      "word": "cytys",
+      "count": 37
+    },
+    {
+      "word": "pyrma",
+      "count": 37
+    },
+    {
+      "word": "felidae",
+      "count": 37
+    },
+    {
+      "word": "cyti",
+      "count": 37
+    },
+    {
+      "word": "soluos",
+      "count": 37
+    },
+    {
+      "word": "jākubmīsta",
+      "count": 37
+    },
+    {
+      "word": "muzyka",
+      "count": 37
+    },
+    {
+      "word": "latgola",
+      "count": 36
+    },
+    {
+      "word": "parāds",
+      "count": 36
+    },
+    {
+      "word": "ļaužu",
+      "count": 36
+    },
+    {
+      "word": "parostai",
+      "count": 36
+    },
+    {
+      "word": "leluo",
+      "count": 36
+    },
+    {
+      "word": "jiurys",
+      "count": 36
+    },
+    {
+      "word": "senejūs",
+      "count": 36
+    },
+    {
+      "word": "leivuona",
+      "count": 36
+    },
+    {
+      "word": "livonejis",
+      "count": 36
+    },
+    {
+      "word": "pūstumūs",
+      "count": 36
+    },
+    {
+      "word": "škārsoj",
+      "count": 36
+    },
+    {
+      "word": "lelais",
+      "count": 35
+    },
+    {
+      "word": "tī",
+      "count": 35
+    },
+    {
+      "word": "skaits",
+      "count": 35
+    },
+    {
+      "word": "akmiņs",
+      "count": 35
+    },
+    {
+      "word": "astes",
+      "count": 35
+    },
+    {
+      "word": "kolns",
+      "count": 35
+    },
+    {
+      "word": "ailis",
+      "count": 35
+    },
+    {
+      "word": "and",
+      "count": 35
+    },
+    {
+      "word": "aiļa",
+      "count": 35
+    },
+    {
+      "word": "daškir",
+      "count": 35
+    },
+    {
+      "word": "nūvodam",
+      "count": 35
+    },
+    {
+      "word": "saimisteiba",
+      "count": 35
+    },
+    {
+      "word": "vuorna",
+      "count": 35
+    },
+    {
+      "word": "pyrmuo",
+      "count": 34
+    },
+    {
+      "word": "cylvāku",
+      "count": 34
+    },
+    {
+      "word": "daļā",
+      "count": 34
+    },
+    {
+      "word": "kuri",
+      "count": 34
+    },
+    {
+      "word": "savīneibys",
+      "count": 34
+    },
+    {
+      "word": "afrikā",
+      "count": 34
+    },
+    {
+      "word": "www",
+      "count": 34
+    },
+    {
+      "word": "dekteru",
+      "count": 34
+    },
+    {
+      "word": "html",
+      "count": 34
+    },
+    {
+      "word": "puolejis-lītovys",
+      "count": 34
+    },
+    {
+      "word": "viesturiskai",
+      "count": 34
+    },
+    {
+      "word": "reorganizej",
+      "count": 34
+    },
+    {
+      "word": "gregora",
+      "count": 33
+    },
+    {
+      "word": "de",
+      "count": 33
+    },
+    {
+      "word": "dzeive",
+      "count": 33
+    },
+    {
+      "word": "padūmi",
+      "count": 33
+    },
+    {
+      "word": "godūs",
+      "count": 33
+    },
+    {
+      "word": "caur",
+      "count": 33
+    },
+    {
+      "word": "reitūs",
+      "count": 33
+    },
+    {
+      "word": "azaru",
+      "count": 33
+    },
+    {
+      "word": "staceja",
+      "count": 33
+    },
+    {
+      "word": "škirys",
+      "count": 33
+    },
+    {
+      "word": "lynx",
+      "count": 33
+    },
+    {
+      "word": "atdale",
+      "count": 33
+    },
+    {
+      "word": "bezdeleiga",
+      "count": 33
+    },
+    {
+      "word": "rokstu",
+      "count": 32
+    },
+    {
+      "word": "saulis",
+      "count": 32
+    },
+    {
+      "word": "vītā",
+      "count": 32
+    },
+    {
+      "word": "viņ",
+      "count": 32
+    },
+    {
+      "word": "regiona",
+      "count": 32
+    },
+    {
+      "word": "azari",
+      "count": 32
+    },
+    {
+      "word": "pluotā",
+      "count": 32
+    },
+    {
+      "word": "mīstu",
+      "count": 32
+    },
+    {
+      "word": "transports",
+      "count": 32
+    },
+    {
+      "word": "saiteibys",
+      "count": 32
+    },
+    {
+      "word": "sataiseišonys",
+      "count": 32
+    },
+    {
+      "word": "gruomotu",
+      "count": 31
+    },
+    {
+      "word": "kuramā",
+      "count": 31
+    },
+    {
+      "word": "nūteik",
+      "count": 31
+    },
+    {
+      "word": "škiru",
+      "count": 31
+    },
+    {
+      "word": "asv",
+      "count": 31
+    },
+    {
+      "word": "muokslys",
+      "count": 31
+    },
+    {
+      "word": "pogostim",
+      "count": 31
+    },
+    {
+      "word": "daudzatmejeiba",
+      "count": 31
+    },
+    {
+      "word": "dīnavydūs",
+      "count": 31
+    },
+    {
+      "word": "iudini",
+      "count": 31
+    },
+    {
+      "word": "poša",
+      "count": 31
+    },
+    {
+      "word": "leluokais",
+      "count": 31
+    },
+    {
+      "word": "pīdar",
+      "count": 31
+    },
+    {
+      "word": "div",
+      "count": 31
+    },
+    {
+      "word": "iudiņs",
+      "count": 31
+    },
+    {
+      "word": "muižys",
+      "count": 31
+    },
+    {
+      "word": "prionailurus",
+      "count": 31
+    },
+    {
+      "word": "apkalpoj",
+      "count": 31
+    },
+    {
+      "word": "vileks",
+      "count": 31
+    },
+    {
+      "word": "diskografeja",
+      "count": 31
+    },
+    {
+      "word": "bavāreja",
+      "count": 31
+    },
+    {
+      "word": "pryušu",
+      "count": 31
+    },
+    {
+      "word": "tod",
+      "count": 30
+    },
+    {
+      "word": "ira",
+      "count": 30
+    },
+    {
+      "word": "roksta",
+      "count": 30
+    },
+    {
+      "word": "saime",
+      "count": 30
+    },
+    {
+      "word": "piečuok",
+      "count": 30
+    },
+    {
+      "word": "daugpilī",
+      "count": 30
+    },
+    {
+      "word": "universitets",
+      "count": 30
+    },
+    {
+      "word": "raisteibys",
+      "count": 30
+    },
+    {
+      "word": "sūpluok",
+      "count": 30
+    },
+    {
+      "word": "leidzīņa",
+      "count": 30
+    },
+    {
+      "word": "cieški",
+      "count": 30
+    },
+    {
+      "word": "administrativu",
+      "count": 30
+    },
+    {
+      "word": "dybynuota",
+      "count": 30
+    },
+    {
+      "word": "vuiceibys",
+      "count": 29
+    },
+    {
+      "word": "teik",
+      "count": 29
+    },
+    {
+      "word": "literaturys",
+      "count": 29
+    },
+    {
+      "word": "lela",
+      "count": 29
+    },
+    {
+      "word": "ailinīks",
+      "count": 29
+    },
+    {
+      "word": "pret",
+      "count": 29
+    },
+    {
+      "word": "universiteta",
+      "count": 29
+    },
+    {
+      "word": "romans",
+      "count": 29
+    },
+    {
+      "word": "zamškiru",
+      "count": 29
+    },
+    {
+      "word": "apmāram",
+      "count": 29
+    },
+    {
+      "word": "iii",
+      "count": 29
+    },
+    {
+      "word": "vuocejis",
+      "count": 29
+    },
+    {
+      "word": "viļānu",
+      "count": 29
+    },
+    {
+      "word": "preiļu",
+      "count": 29
+    },
+    {
+      "word": "zeimebys",
+      "count": 29
+    },
+    {
+      "word": "feļčeru",
+      "count": 29
+    },
+    {
+      "word": "līk",
+      "count": 29
+    },
+    {
+      "word": "no",
+      "count": 28
+    },
+    {
+      "word": "īt",
+      "count": 28
+    },
+    {
+      "word": "varakļuonu",
+      "count": 28
+    },
+    {
+      "word": "oficialai",
+      "count": 28
+    },
+    {
+      "word": "padūmu",
+      "count": 28
+    },
+    {
+      "word": "rajona",
+      "count": 28
+    },
+    {
+      "word": "niule",
+      "count": 28
+    },
+    {
+      "word": "sasadora",
+      "count": 28
+    },
+    {
+      "word": "godusymta",
+      "count": 28
+    },
+    {
+      "word": "cikom",
+      "count": 28
+    },
+    {
+      "word": "lineja",
+      "count": 28
+    },
+    {
+      "word": "politiks",
+      "count": 28
+    },
+    {
+      "word": "http",
+      "count": 28
+    },
+    {
+      "word": "pyldys",
+      "count": 28
+    },
+    {
+      "word": "milijoni",
+      "count": 28
+    },
+    {
+      "word": "pūrs",
+      "count": 28
+    },
+    {
+      "word": "krīvejā",
+      "count": 27
+    },
+    {
+      "word": "reizi",
+      "count": 27
+    },
+    {
+      "word": "pīmāram",
+      "count": 27
+    },
+    {
+      "word": "jī",
+      "count": 27
+    },
+    {
+      "word": "reiga",
+      "count": 27
+    },
+    {
+      "word": "reigā",
+      "count": 27
+    },
+    {
+      "word": "cylvāks",
+      "count": 27
+    },
+    {
+      "word": "pīterpilī",
+      "count": 27
+    },
+    {
+      "word": "zīmys",
+      "count": 27
+    },
+    {
+      "word": "religeja",
+      "count": 27
+    },
+    {
+      "word": "īstateits",
+      "count": 27
+    },
+    {
+      "word": "in",
+      "count": 27
+    },
+    {
+      "word": "upe",
+      "count": 27
+    },
+    {
+      "word": "ordyna",
+      "count": 27
+    },
+    {
+      "word": "sovetu",
+      "count": 27
+    },
+    {
+      "word": "apleikmīsta",
+      "count": 27
+    },
+    {
+      "word": "mīstā",
+      "count": 27
+    },
+    {
+      "word": "prezidents",
+      "count": 27
+    },
+    {
+      "word": "līvu",
+      "count": 27
+    },
+    {
+      "word": "dzeivova",
+      "count": 27
+    },
+    {
+      "word": "celi",
+      "count": 27
+    },
+    {
+      "word": "guļbinis",
+      "count": 27
+    },
+    {
+      "word": "kū",
+      "count": 26
+    },
+    {
+      "word": "tūs",
+      "count": 26
+    },
+    {
+      "word": "juoņs",
+      "count": 26
+    },
+    {
+      "word": "muzejs",
+      "count": 26
+    },
+    {
+      "word": "kieneste",
+      "count": 26
+    },
+    {
+      "word": "centri",
+      "count": 26
+    },
+    {
+      "word": "molā",
+      "count": 26
+    },
+    {
+      "word": "azejā",
+      "count": 26
+    },
+    {
+      "word": "sīnuojis",
+      "count": 26
+    },
+    {
+      "word": "darejs",
+      "count": 26
+    },
+    {
+      "word": "panthera",
+      "count": 26
+    },
+    {
+      "word": "mieness",
+      "count": 26
+    },
+    {
+      "word": "osyuna",
+      "count": 25
+    },
+    {
+      "word": "process",
+      "count": 25
+    },
+    {
+      "word": "volūdai",
+      "count": 25
+    },
+    {
+      "word": "zeme",
+      "count": 25
+    },
+    {
+      "word": "pīters",
+      "count": 25
+    },
+    {
+      "word": "ontons",
+      "count": 25
+    },
+    {
+      "word": "sovā",
+      "count": 25
+    },
+    {
+      "word": "gon",
+      "count": 25
+    },
+    {
+      "word": "lelu",
+      "count": 25
+    },
+    {
+      "word": "dzeivinīku",
+      "count": 25
+    },
+    {
+      "word": "viersa",
+      "count": 25
+    },
+    {
+      "word": "doba",
+      "count": 25
+    },
+    {
+      "word": "baltu",
+      "count": 25
+    },
+    {
+      "word": "suomu",
+      "count": 25
+    },
+    {
+      "word": "pastateita",
+      "count": 25
+    },
+    {
+      "word": "slavvītys",
+      "count": 25
+    },
+    {
+      "word": "nūstuošona",
+      "count": 25
+    },
+    {
+      "word": "parks",
+      "count": 25
+    },
+    {
+      "word": "igauņu",
+      "count": 25
+    },
+    {
+      "word": "ribinišku",
+      "count": 25
+    },
+    {
+      "word": "muzykys",
+      "count": 25
+    },
+    {
+      "word": "buļbis",
+      "count": 25
+    },
+    {
+      "word": "labi",
+      "count": 25
+    },
+    {
+      "word": "dorbu",
+      "count": 24
+    },
+    {
+      "word": "puoļu",
+      "count": 24
+    },
+    {
+      "word": "latiņu",
+      "count": 24
+    },
+    {
+      "word": "vāluok",
+      "count": 24
+    },
+    {
+      "word": "rakstinīks",
+      "count": 24
+    },
+    {
+      "word": "taisa",
+      "count": 24
+    },
+    {
+      "word": "dreiži",
+      "count": 24
+    },
+    {
+      "word": "pusē",
+      "count": 24
+    },
+    {
+      "word": "dzeivis",
+      "count": 24
+    },
+    {
+      "word": "ceļš",
+      "count": 24
+    },
+    {
+      "word": "boltkrīvejis",
+      "count": 24
+    },
+    {
+      "word": "īīt",
+      "count": 24
+    },
+    {
+      "word": "vītys",
+      "count": 24
+    },
+    {
+      "word": "administrativai",
+      "count": 24
+    },
+    {
+      "word": "vajag",
+      "count": 24
+    },
+    {
+      "word": "vysuvaira",
+      "count": 24
+    },
+    {
+      "word": "wikipedia",
+      "count": 24
+    },
+    {
+      "word": "azarsola",
+      "count": 24
+    },
+    {
+      "word": "br",
+      "count": 24
+    },
+    {
+      "word": "kods",
+      "count": 24
+    },
+    {
+      "word": "sovys",
+      "count": 24
+    },
+    {
+      "word": "vaidu",
+      "count": 24
+    },
+    {
+      "word": "lynu",
+      "count": 24
+    },
+    {
+      "word": "likvidātū",
+      "count": 24
+    },
+    {
+      "word": "pyrmuos",
+      "count": 23
+    },
+    {
+      "word": "pīterpiļs",
+      "count": 23
+    },
+    {
+      "word": "kam",
+      "count": 23
+    },
+    {
+      "word": "viesturis",
+      "count": 23
+    },
+    {
+      "word": "cytuos",
+      "count": 23
+    },
+    {
+      "word": "itū",
+      "count": 23
+    },
+    {
+      "word": "byutu",
+      "count": 23
+    },
+    {
+      "word": "sauc",
+      "count": 23
+    },
+    {
+      "word": "bibliotekys",
+      "count": 23
+    },
+    {
+      "word": "latgale",
+      "count": 23
+    },
+    {
+      "word": "dorba",
+      "count": 23
+    },
+    {
+      "word": "centra",
+      "count": 23
+    },
+    {
+      "word": "jauna",
+      "count": 23
+    },
+    {
+      "word": "pasaukys",
+      "count": 23
+    },
+    {
+      "word": "suokuos",
+      "count": 23
+    },
+    {
+      "word": "naleļs",
+      "count": 23
+    },
+    {
+      "word": "golvonais",
+      "count": 23
+    },
+    {
+      "word": "vaļsteibu",
+      "count": 23
+    },
+    {
+      "word": "xx",
+      "count": 23
+    },
+    {
+      "word": "boltkrīvu",
+      "count": 23
+    },
+    {
+      "word": "godusymtā",
+      "count": 23
+    },
+    {
+      "word": "linejis",
+      "count": 23
+    },
+    {
+      "word": "kurā",
+      "count": 23
+    },
+    {
+      "word": "praņcīšu",
+      "count": 23
+    },
+    {
+      "word": "leptailurus",
+      "count": 23
+    },
+    {
+      "word": "serval",
+      "count": 23
+    },
+    {
+      "word": "pog",
+      "count": 23
+    },
+    {
+      "word": "autoceļš",
+      "count": 23
+    },
+    {
+      "word": "ēst",
+      "count": 23
+    },
+    {
+      "word": "karaļi",
+      "count": 23
+    },
+    {
+      "word": "gruomota",
+      "count": 22
+    },
+    {
+      "word": "sova",
+      "count": 22
+    },
+    {
+      "word": "īstateita",
+      "count": 22
+    },
+    {
+      "word": "jezups",
+      "count": 22
+    },
+    {
+      "word": "folklora",
+      "count": 22
+    },
+    {
+      "word": "vuocu",
+      "count": 22
+    },
+    {
+      "word": "formys",
+      "count": 22
+    },
+    {
+      "word": "tuos",
+      "count": 22
+    },
+    {
+      "word": "tam",
+      "count": 22
+    },
+    {
+      "word": "treis",
+      "count": 22
+    },
+    {
+      "word": "apleicīnē",
+      "count": 22
+    },
+    {
+      "word": "sātys",
+      "count": 22
+    },
+    {
+      "word": "vītu",
+      "count": 22
+    },
+    {
+      "word": "lai",
+      "count": 22
+    },
+    {
+      "word": "kurymā",
+      "count": 22
+    },
+    {
+      "word": "byun",
+      "count": 22
+    },
+    {
+      "word": "apleicīnis",
+      "count": 22
+    },
+    {
+      "word": "igauneja",
+      "count": 22
+    },
+    {
+      "word": "aiz",
+      "count": 22
+    },
+    {
+      "word": "vokorūs",
+      "count": 22
+    },
+    {
+      "word": "caracal",
+      "count": 22
+    },
+    {
+      "word": "placu",
+      "count": 22
+    },
+    {
+      "word": "vīnu",
+      "count": 22
+    },
+    {
+      "word": "afrikys",
+      "count": 22
+    },
+    {
+      "word": "saroksts",
+      "count": 22
+    },
+    {
+      "word": "pīv",
+      "count": 22
+    },
+    {
+      "word": "xix",
+      "count": 22
+    },
+    {
+      "word": "ļutaru",
+      "count": 22
+    },
+    {
+      "word": "rajonā",
       "count": 22
     },
     {
@@ -519,403 +2197,1507 @@
       "count": 22
     },
     {
-      "word": "itys",
+      "word": "dīvs",
       "count": 22
     },
     {
-      "word": "kurā",
+      "word": "puma",
       "count": 22
     },
     {
-      "word": "īspiejams",
+      "word": "pamatškola",
       "count": 22
     },
     {
-      "word": "sovā",
+      "word": "veipa",
       "count": 22
     },
     {
-      "word": "izmontojūt",
+      "word": "kumbuļa",
+      "count": 22
+    },
+    {
+      "word": "ād",
+      "count": 22
+    },
+    {
+      "word": "olyuksnys",
+      "count": 22
+    },
+    {
+      "word": "politiki",
+      "count": 22
+    },
+    {
+      "word": "vii",
+      "count": 22
+    },
+    {
+      "word": "palāda",
+      "count": 22
+    },
+    {
+      "word": "strix",
+      "count": 22
+    },
+    {
+      "word": "cytur",
       "count": 21
     },
     {
-      "word": "cikom",
+      "word": "vuordi",
       "count": 21
     },
     {
-      "word": "kotru",
-      "count": 20
+      "word": "lītuot",
+      "count": 21
     },
     {
-      "word": "paziņuoja",
-      "count": 20
+      "word": "volūdom",
+      "count": 21
     },
     {
-      "word": "komandys",
-      "count": 20
+      "word": "vuorda",
+      "count": 21
     },
     {
-      "word": "sovys",
-      "count": 20
-    },
-    {
-      "word": "eiropys",
-      "count": 20
-    },
-    {
-      "word": "lelu",
-      "count": 20
-    },
-    {
-      "word": "pīduovoj",
-      "count": 20
-    },
-    {
-      "word": "sovvalis",
-      "count": 20
-    },
-    {
-      "word": "dīnu",
-      "count": 19
-    },
-    {
-      "word": "solu",
-      "count": 19
-    },
-    {
-      "word": "itei",
-      "count": 19
-    },
-    {
-      "word": "kūpā",
-      "count": 19
-    },
-    {
-      "word": "kura",
-      "count": 18
-    },
-    {
-      "word": "ap",
-      "count": 18
-    },
-    {
-      "word": "mozuok",
-      "count": 18
-    },
-    {
-      "word": "atpakaļ",
-      "count": 18
-    },
-    {
-      "word": "dīnys",
-      "count": 18
-    },
-    {
-      "word": "palyka",
-      "count": 18
-    },
-    {
-      "word": "jei",
-      "count": 18
-    },
-    {
-      "word": "piļsāta",
-      "count": 18
-    },
-    {
-      "word": "nūteik",
-      "count": 18
-    },
-    {
-      "word": "dažys",
-      "count": 18
-    },
-    {
-      "word": "izmontoj",
-      "count": 18
-    },
-    {
-      "word": "vysmoz",
-      "count": 18
-    },
-    {
-      "word": "pyrmū",
-      "count": 18
-    },
-    {
-      "word": "tim",
-      "count": 18
-    },
-    {
-      "word": "cyti",
-      "count": 18
-    },
-    {
-      "word": "jū",
-      "count": 18
-    },
-    {
-      "word": "jiusu",
-      "count": 18
-    },
-    {
-      "word": "volūdys",
-      "count": 17
-    },
-    {
-      "word": "pasaulī",
-      "count": 17
-    },
-    {
-      "word": "vaļstu",
-      "count": 17
-    },
-    {
-      "word": "ituo",
-      "count": 17
-    },
-    {
-      "word": "vāluok",
-      "count": 17
-    },
-    {
-      "word": "jiudzis",
-      "count": 17
-    },
-    {
-      "word": "daudzys",
-      "count": 17
-    },
-    {
-      "word": "tikt",
-      "count": 17
-    },
-    {
-      "word": "papyldu",
-      "count": 17
-    },
-    {
-      "word": "vīnu",
-      "count": 17
-    },
-    {
-      "word": "reizi",
-      "count": 17
-    },
-    {
-      "word": "redzēt",
-      "count": 17
-    },
-    {
-      "word": "volūdu",
-      "count": 17
-    },
-    {
-      "word": "dīnuos",
-      "count": 17
-    },
-    {
-      "word": "zīmeļu",
-      "count": 17
-    },
-    {
-      "word": "dzeivinīki",
-      "count": 17
-    },
-    {
-      "word": "tod",
-      "count": 16
-    },
-    {
-      "word": "nūtyka",
-      "count": 16
-    },
-    {
-      "word": "itamā",
-      "count": 16
+      "word": "rēzne",
+      "count": 21
     },
     {
       "word": "kara",
-      "count": 16
+      "count": 21
     },
     {
-      "word": "tiks",
-      "count": 16
+      "word": "teatra",
+      "count": 21
     },
     {
-      "word": "div",
-      "count": 16
+      "word": "sv",
+      "count": 21
     },
     {
-      "word": "cylvākus",
-      "count": 16
+      "word": "vysa",
+      "count": 21
     },
     {
-      "word": "ziņuots",
-      "count": 16
+      "word": "ombumuižys",
+      "count": 21
     },
     {
-      "word": "vīta",
-      "count": 16
+      "word": "centrā",
+      "count": 21
     },
     {
-      "word": "palīk",
-      "count": 16
+      "word": "pīminieklis",
+      "count": 21
     },
     {
-      "word": "vītuos",
-      "count": 16
+      "word": "pasaukai",
+      "count": 21
     },
     {
-      "word": "varit",
-      "count": 16
+      "word": "ip",
+      "count": 21
     },
     {
-      "word": "cik",
-      "count": 15
+      "word": "meža",
+      "count": 21
     },
     {
-      "word": "mums",
-      "count": 15
+      "word": "kaunatys",
+      "count": 21
     },
     {
-      "word": "zynuotnīki",
-      "count": 15
+      "word": "nūtyka",
+      "count": 21
     },
     {
-      "word": "kūpš",
-      "count": 15
+      "word": "vuiceibu",
+      "count": 21
+    },
+    {
+      "word": "pīdrujis",
+      "count": 21
+    },
+    {
+      "word": "nacionalais",
+      "count": 21
+    },
+    {
+      "word": "škilbānu",
+      "count": 21
+    },
+    {
+      "word": "nūmyrs",
+      "count": 21
+    },
+    {
+      "word": "myltu",
+      "count": 21
+    },
+    {
+      "word": "symta",
+      "count": 20
+    },
+    {
+      "word": "raisteiba",
+      "count": 20
+    },
+    {
+      "word": "tautu",
+      "count": 20
+    },
+    {
+      "word": "nakai",
+      "count": 20
+    },
+    {
+      "word": "der",
+      "count": 20
+    },
+    {
+      "word": "nav",
+      "count": 20
+    },
+    {
+      "word": "krystus",
+      "count": 20
+    },
+    {
+      "word": "pīdzims",
+      "count": 20
+    },
+    {
+      "word": "laiku",
+      "count": 20
+    },
+    {
+      "word": "itys",
+      "count": 20
+    },
+    {
+      "word": "partejis",
+      "count": 20
+    },
+    {
+      "word": "auguoju",
+      "count": 20
     },
     {
       "word": "amerikys",
+      "count": 20
+    },
+    {
+      "word": "tuoļuok",
+      "count": 20
+    },
+    {
+      "word": "koč",
+      "count": 20
+    },
+    {
+      "word": "article",
+      "count": 20
+    },
+    {
+      "word": "com",
+      "count": 20
+    },
+    {
+      "word": "https",
+      "count": 20
+    },
+    {
+      "word": "org",
+      "count": 20
+    },
+    {
+      "word": "beidzs",
+      "count": 20
+    },
+    {
+      "word": "pocock",
+      "count": 20
+    },
+    {
+      "word": "alfabets",
+      "count": 20
+    },
+    {
+      "word": "iso",
+      "count": 20
+    },
+    {
+      "word": "vosorys",
+      "count": 20
+    },
+    {
+      "word": "rundānu",
+      "count": 20
+    },
+    {
+      "word": "tak",
+      "count": 20
+    },
+    {
+      "word": "puoleja",
+      "count": 20
+    },
+    {
+      "word": "azarā",
+      "count": 20
+    },
+    {
+      "word": "čūrkste",
+      "count": 20
+    },
+    {
+      "word": "naškārsoj",
+      "count": 20
+    },
+    {
+      "word": "cyukys",
+      "count": 20
+    },
+    {
+      "word": "īstots",
+      "count": 19
+    },
+    {
+      "word": "autors",
+      "count": 19
+    },
+    {
+      "word": "vysys",
+      "count": 19
+    },
+    {
+      "word": "zineibu",
+      "count": 19
+    },
+    {
+      "word": "arī",
+      "count": 19
+    },
+    {
+      "word": "bārnu",
+      "count": 19
+    },
+    {
+      "word": "godus",
+      "count": 19
+    },
+    {
+      "word": "pošā",
+      "count": 19
+    },
+    {
+      "word": "niu",
+      "count": 19
+    },
+    {
+      "word": "runoj",
+      "count": 19
+    },
+    {
+      "word": "krīveju",
+      "count": 19
+    },
+    {
+      "word": "sadors",
+      "count": 19
+    },
+    {
+      "word": "vikipedejis",
+      "count": 19
+    },
+    {
+      "word": "žydu",
+      "count": 19
+    },
+    {
+      "word": "školuotuoju",
+      "count": 19
+    },
+    {
+      "word": "stacejis",
+      "count": 19
+    },
+    {
+      "word": "maizis",
+      "count": 19
+    },
+    {
+      "word": "rāznys",
+      "count": 19
+    },
+    {
+      "word": "ix",
+      "count": 19
+    },
+    {
+      "word": "mežuoris",
+      "count": 19
+    },
+    {
+      "word": "lopu",
+      "count": 19
+    },
+    {
+      "word": "pavasara",
+      "count": 19
+    },
+    {
+      "word": "kūka",
+      "count": 19
+    },
+    {
+      "word": "jys",
+      "count": 19
+    },
+    {
+      "word": "damat",
+      "count": 19
+    },
+    {
+      "word": "lelbrytanejys",
+      "count": 19
+    },
+    {
+      "word": "talsu",
+      "count": 19
+    },
+    {
+      "word": "myusu",
+      "count": 18
+    },
+    {
+      "word": "vuordim",
+      "count": 18
+    },
+    {
+      "word": "bīži",
+      "count": 18
+    },
+    {
+      "word": "taids",
+      "count": 18
+    },
+    {
+      "word": "lels",
+      "count": 18
+    },
+    {
+      "word": "baļtīšu",
+      "count": 18
+    },
+    {
+      "word": "beiguos",
+      "count": 18
+    },
+    {
+      "word": "dareituojs",
+      "count": 18
+    },
+    {
+      "word": "anna",
+      "count": 18
+    },
+    {
+      "word": "literatura",
+      "count": 18
+    },
+    {
+      "word": "jūrdžs",
+      "count": 18
+    },
+    {
+      "word": "aiļu",
+      "count": 18
+    },
+    {
+      "word": "rūmys",
+      "count": 18
+    },
+    {
+      "word": "ūtruo",
+      "count": 18
+    },
+    {
+      "word": "objekts",
+      "count": 18
+    },
+    {
+      "word": "blontu",
+      "count": 18
+    },
+    {
+      "word": "vuicejīs",
+      "count": 18
+    },
+    {
+      "word": "pusis",
+      "count": 18
+    },
+    {
+      "word": "latveja",
+      "count": 18
+    },
+    {
+      "word": "myuslaikūs",
+      "count": 18
+    },
+    {
+      "word": "darbeibu",
+      "count": 18
+    },
+    {
+      "word": "modyunis",
+      "count": 18
+    },
+    {
+      "word": "tiļžys",
+      "count": 18
+    },
+    {
+      "word": "švedu",
+      "count": 18
+    },
+    {
+      "word": "pastateja",
+      "count": 18
+    },
+    {
+      "word": "sporta",
+      "count": 18
+    },
+    {
+      "word": "silvestris",
+      "count": 18
+    },
+    {
+      "word": "trešuo",
+      "count": 18
+    },
+    {
+      "word": "cierkvys",
+      "count": 18
+    },
+    {
+      "word": "for",
+      "count": 18
+    },
+    {
+      "word": "you",
+      "count": 18
+    },
+    {
+      "word": "indreicys",
+      "count": 18
+    },
+    {
+      "word": "spanīšu",
+      "count": 18
+    },
+    {
+      "word": "cyanocorax",
+      "count": 18
+    },
+    {
+      "word": "kūrzemē",
+      "count": 18
+    },
+    {
+      "word": "maltas",
+      "count": 18
+    },
+    {
+      "word": "impērejis",
+      "count": 18
+    },
+    {
+      "word": "izīt",
+      "count": 17
+    },
+    {
+      "word": "školys",
+      "count": 17
+    },
+    {
+      "word": "škeļtovys",
+      "count": 17
+    },
+    {
+      "word": "byus",
+      "count": 17
+    },
+    {
+      "word": "darbeiba",
+      "count": 17
+    },
+    {
+      "word": "raksteit",
+      "count": 17
+    },
+    {
+      "word": "ļaun",
+      "count": 17
+    },
+    {
+      "word": "greku",
+      "count": 17
+    },
+    {
+      "word": "psrs",
+      "count": 17
+    },
+    {
+      "word": "cytim",
+      "count": 17
+    },
+    {
+      "word": "mirs",
+      "count": 17
+    },
+    {
+      "word": "zemnīku",
+      "count": 17
+    },
+    {
+      "word": "labeibys",
+      "count": 17
+    },
+    {
+      "word": "himnys",
+      "count": 17
+    },
+    {
+      "word": "rēznē",
+      "count": 17
+    },
+    {
+      "word": "fraņcs",
+      "count": 17
+    },
+    {
+      "word": "es",
+      "count": 17
+    },
+    {
+      "word": "darbeibys",
+      "count": 17
+    },
+    {
+      "word": "atmeja",
+      "count": 17
+    },
+    {
+      "word": "vys",
+      "count": 17
+    },
+    {
+      "word": "leidumnīku",
+      "count": 17
+    },
+    {
+      "word": "diveju",
+      "count": 17
+    },
+    {
+      "word": "lītova",
+      "count": 17
+    },
+    {
+      "word": "rufus",
+      "count": 17
+    },
+    {
+      "word": "švedejis",
+      "count": 17
+    },
+    {
+      "word": "oficialuo",
+      "count": 17
+    },
+    {
+      "word": "pošys",
+      "count": 17
+    },
+    {
+      "word": "sistema",
+      "count": 17
+    },
+    {
+      "word": "zeimoj",
+      "count": 17
+    },
+    {
+      "word": "molys",
+      "count": 17
+    },
+    {
+      "word": "etniskais",
+      "count": 17
+    },
+    {
+      "word": "tīseibys",
+      "count": 17
+    },
+    {
+      "word": "galereja",
+      "count": 17
+    },
+    {
+      "word": "leluokuo",
+      "count": 17
+    },
+    {
+      "word": "zeime",
+      "count": 17
+    },
+    {
+      "word": "krysta",
+      "count": 17
+    },
+    {
+      "word": "pūri",
+      "count": 17
+    },
+    {
+      "word": "buļbu",
+      "count": 17
+    },
+    {
+      "word": "heinrihs",
+      "count": 17
+    },
+    {
+      "word": "bārns",
+      "count": 17
+    },
+    {
+      "word": "vuoceja",
+      "count": 17
+    },
+    {
+      "word": "sīra",
+      "count": 17
+    },
+    {
+      "word": "rudzu",
+      "count": 17
+    },
+    {
+      "word": "atašīnis",
+      "count": 17
+    },
+    {
+      "word": "davīnova",
+      "count": 17
+    },
+    {
+      "word": "gali",
+      "count": 17
+    },
+    {
+      "word": "suoļa",
+      "count": 17
+    },
+    {
+      "word": "dalīk",
+      "count": 17
+    },
+    {
+      "word": "goreigos",
+      "count": 17
+    },
+    {
+      "word": "atteisteibas",
+      "count": 17
+    },
+    {
+      "word": "trauciejumim",
+      "count": 17
+    },
+    {
+      "word": "že",
+      "count": 17
+    },
+    {
+      "word": "cylvāki",
+      "count": 16
+    },
+    {
+      "word": "dīnavydreitūs",
+      "count": 16
+    },
+    {
+      "word": "vīn",
+      "count": 16
+    },
+    {
+      "word": "nakod",
+      "count": 16
+    },
+    {
+      "word": "jezus",
+      "count": 16
+    },
+    {
+      "word": "latgaliskai",
+      "count": 16
+    },
+    {
+      "word": "datim",
+      "count": 16
+    },
+    {
+      "word": "juoņa",
+      "count": 16
+    },
+    {
+      "word": "latgales",
+      "count": 16
+    },
+    {
+      "word": "dzymuse",
+      "count": 16
+    },
+    {
+      "word": "dalis",
+      "count": 16
+    },
+    {
+      "word": "trasuns",
+      "count": 16
+    },
+    {
+      "word": "kurū",
+      "count": 16
+    },
+    {
+      "word": "bārnim",
+      "count": 16
+    },
+    {
+      "word": "apleicinī",
+      "count": 16
+    },
+    {
+      "word": "svātuos",
+      "count": 16
+    },
+    {
+      "word": "jiura",
+      "count": 16
+    },
+    {
+      "word": "akmiņa",
+      "count": 16
+    },
+    {
+      "word": "aizjam",
+      "count": 16
+    },
+    {
+      "word": "saroksti",
+      "count": 16
+    },
+    {
+      "word": "itei",
+      "count": 16
+    },
+    {
+      "word": "otkon",
+      "count": 16
+    },
+    {
+      "word": "školu",
+      "count": 16
+    },
+    {
+      "word": "rajonu",
+      "count": 16
+    },
+    {
+      "word": "marejis",
+      "count": 16
+    },
+    {
+      "word": "škīznys",
+      "count": 16
+    },
+    {
+      "word": "reizis",
+      "count": 16
+    },
+    {
+      "word": "augstainē",
+      "count": 16
+    },
+    {
+      "word": "marta",
+      "count": 16
+    },
+    {
+      "word": "universitetā",
+      "count": 16
+    },
+    {
+      "word": "skaita",
+      "count": 16
+    },
+    {
+      "word": "leldīnis",
+      "count": 16
+    },
+    {
+      "word": "švedeja",
+      "count": 16
+    },
+    {
+      "word": "gercogiste",
+      "count": 16
+    },
+    {
+      "word": "bengalensis",
+      "count": 16
+    },
+    {
+      "word": "gale",
+      "count": 16
+    },
+    {
+      "word": "celim",
+      "count": 16
+    },
+    {
+      "word": "jersikys",
+      "count": 16
+    },
+    {
+      "word": "demokratiskuo",
+      "count": 16
+    },
+    {
+      "word": "valna",
+      "count": 16
+    },
+    {
+      "word": "kuovē",
+      "count": 16
+    },
+    {
+      "word": "vulpes",
+      "count": 16
+    },
+    {
+      "word": "ituos",
+      "count": 16
+    },
+    {
+      "word": "sīnuoja",
+      "count": 16
+    },
+    {
+      "word": "apgabaļa",
+      "count": 16
+    },
+    {
+      "word": "iudinī",
+      "count": 16
+    },
+    {
+      "word": "vaļdeišona",
+      "count": 16
+    },
+    {
+      "word": "tīk",
+      "count": 16
+    },
+    {
+      "word": "mitologejā",
+      "count": 16
+    },
+    {
+      "word": "sative",
+      "count": 16
+    },
+    {
+      "word": "pūstinis",
+      "count": 16
+    },
+    {
+      "word": "mežavydu",
+      "count": 16
+    },
+    {
+      "word": "tradicionals",
+      "count": 16
+    },
+    {
+      "word": "limbažu",
+      "count": 16
+    },
+    {
+      "word": "plīkšni",
+      "count": 16
+    },
+    {
+      "word": "kļuva",
+      "count": 16
+    },
+    {
+      "word": "izvolta",
       "count": 15
     },
     {
-      "word": "taišni",
+      "word": "latgolu",
       "count": 15
     },
     {
-      "word": "skaitā",
+      "word": "sasadorūšs",
       "count": 15
     },
     {
-      "word": "kurūs",
+      "word": "gruoveru",
       "count": 15
     },
     {
-      "word": "īsaroda",
+      "word": "burtu",
       "count": 15
     },
     {
-      "word": "saskaņā",
+      "word": "atškireibys",
       "count": 15
     },
     {
-      "word": "dīzgon",
+      "word": "ābele",
       "count": 15
     },
     {
-      "word": "uorpus",
+      "word": "vai",
       "count": 15
     },
     {
-      "word": "vīgli",
+      "word": "pīsadaleja",
       "count": 15
     },
     {
-      "word": "sastuov",
+      "word": "dorbs",
       "count": 15
     },
     {
-      "word": "kulturys",
+      "word": "andryvs",
       "count": 15
+    },
+    {
+      "word": "ūtrais",
+      "count": 15
+    },
+    {
+      "word": "vairuok",
+      "count": 15
+    },
+    {
+      "word": "poezejis",
+      "count": 15
+    },
+    {
+      "word": "filologejis",
+      "count": 15
+    },
+    {
+      "word": "as",
+      "count": 15
+    },
+    {
+      "word": "pīrakstejs",
+      "count": 15
+    },
+    {
+      "word": "naviņ",
+      "count": 15
+    },
+    {
+      "word": "atmejis",
+      "count": 15
+    },
+    {
+      "word": "tt",
+      "count": 15
+    },
+    {
+      "word": "kopi",
+      "count": 15
+    },
+    {
+      "word": "bazneicu",
+      "count": 15
+    },
+    {
+      "word": "pasaceļ",
+      "count": 15
+    },
+    {
+      "word": "canis",
+      "count": 15
+    },
+    {
+      "word": "informacejis",
+      "count": 15
+    },
+    {
+      "word": "rūbeža",
+      "count": 15
+    },
+    {
+      "word": "dīnu",
+      "count": 15
+    },
+    {
+      "word": "klubs",
+      "count": 15
+    },
+    {
+      "word": "dareit",
+      "count": 15
+    },
+    {
+      "word": "vaļsteibuos",
+      "count": 15
+    },
+    {
+      "word": "arhitekturys",
+      "count": 15
+    },
+    {
+      "word": "dzymuši",
+      "count": 15
+    },
+    {
+      "word": "pasauku",
+      "count": 15
+    },
+    {
+      "word": "ītak",
+      "count": 15
+    },
+    {
+      "word": "vītuos",
+      "count": 15
+    },
+    {
+      "word": "net",
+      "count": 15
+    },
+    {
+      "word": "daguojumu",
+      "count": 15
+    },
+    {
+      "word": "leics",
+      "count": 15
+    },
+    {
+      "word": "savīneibā",
+      "count": 15
+    },
+    {
+      "word": "ituo",
+      "count": 15
+    },
+    {
+      "word": "peisi",
+      "count": 15
+    },
+    {
+      "word": "kaleņders",
+      "count": 15
+    },
+    {
+      "word": "cukra",
+      "count": 15
+    },
+    {
+      "word": "wiedii",
+      "count": 15
+    },
+    {
+      "word": "kolkoza",
+      "count": 15
+    },
+    {
+      "word": "reitulatvejis",
+      "count": 15
+    },
+    {
+      "word": "teiču",
+      "count": 15
+    },
+    {
+      "word": "neicgaļa",
+      "count": 15
+    },
+    {
+      "word": "sīna",
+      "count": 15
+    },
+    {
+      "word": "sokolku",
+      "count": 15
+    },
+    {
+      "word": "amerikā",
+      "count": 15
+    },
+    {
+      "word": "iztak",
+      "count": 15
+    },
+    {
+      "word": "saukts",
+      "count": 15
+    },
+    {
+      "word": "johans",
+      "count": 15
+    },
+    {
+      "word": "upeitis",
+      "count": 15
+    },
+    {
+      "word": "azarmalē",
+      "count": 15
+    },
+    {
+      "word": "ūlys",
+      "count": 15
+    },
+    {
+      "word": "norvegeja",
+      "count": 15
+    },
+    {
+      "word": "turku",
+      "count": 15
+    },
+    {
+      "word": "sadraudzeiba",
+      "count": 15
+    },
+    {
+      "word": "medņovys",
+      "count": 15
+    },
+    {
+      "word": "on",
+      "count": 15
+    },
+    {
+      "word": "hirundo",
+      "count": 15
+    },
+    {
+      "word": "svareņu",
+      "count": 15
+    },
+    {
+      "word": "goldam",
+      "count": 15
+    },
+    {
+      "word": "ņukšu",
+      "count": 15
+    },
+    {
+      "word": "burtinīka",
+      "count": 15
+    },
+    {
+      "word": "sadraudzeibys",
+      "count": 15
+    },
+    {
+      "word": "cookies",
+      "count": 15
+    },
+    {
+      "word": "lasejums",
+      "count": 14
+    },
+    {
+      "word": "vaļsts",
+      "count": 14
     },
     {
       "word": "uz",
       "count": 14
     },
     {
-      "word": "cytus",
+      "word": "putnu",
       "count": 14
     },
     {
-      "word": "jam",
+      "word": "zynoms",
       "count": 14
     },
     {
-      "word": "spēlis",
+      "word": "varātu",
       "count": 14
     },
     {
-      "word": "suocēs",
+      "word": "dorbi",
       "count": 14
     },
     {
-      "word": "šudiņ",
+      "word": "studentu",
       "count": 14
     },
     {
-      "word": "pyrmuo",
+      "word": "juņa",
       "count": 14
     },
     {
-      "word": "itūs",
+      "word": "bolss",
       "count": 14
     },
     {
-      "word": "vaļstī",
+      "word": "saimisteibys",
       "count": 14
     },
     {
-      "word": "caur",
+      "word": "rēzekne",
       "count": 14
     },
     {
-      "word": "natyka",
+      "word": "vaļstiskuo",
       "count": 14
     },
     {
-      "word": "suokumā",
+      "word": "tradicejis",
       "count": 14
     },
     {
-      "word": "indejis",
+      "word": "tān",
       "count": 14
     },
     {
-      "word": "sātā",
+      "word": "myusdīnu",
       "count": 14
     },
     {
-      "word": "sporta",
+      "word": "itymā",
       "count": 14
     },
     {
-      "word": "piļsātu",
+      "word": "suoku",
       "count": 14
     },
     {
-      "word": "sovus",
+      "word": "dzīšmu",
       "count": 14
     },
     {
-      "word": "symta",
+      "word": "apleik",
       "count": 14
     },
     {
-      "word": "īspieju",
+      "word": "rudiņa",
+      "count": 14
+    },
+    {
+      "word": "vīnys",
+      "count": 14
+    },
+    {
+      "word": "plotums",
+      "count": 14
+    },
+    {
+      "word": "mudovys",
+      "count": 14
+    },
+    {
+      "word": "klimats",
+      "count": 14
+    },
+    {
+      "word": "norvegejis",
+      "count": 14
+    },
+    {
+      "word": "nacionaluo",
+      "count": 14
+    },
+    {
+      "word": "rakstīņs",
+      "count": 14
+    },
+    {
+      "word": "source",
+      "count": 14
+    },
+    {
+      "word": "programa",
+      "count": 14
+    },
+    {
+      "word": "mpls",
+      "count": 14
+    },
+    {
+      "word": "kūrzemis",
+      "count": 14
+    },
+    {
+      "word": "kuorms",
+      "count": 14
+    },
+    {
+      "word": "zeimeigs",
+      "count": 14
+    },
+    {
+      "word": "sielejis",
+      "count": 14
+    },
+    {
+      "word": "kolnu",
+      "count": 14
+    },
+    {
+      "word": "ltg",
+      "count": 14
+    },
+    {
+      "word": "chaus",
+      "count": 14
+    },
+    {
+      "word": "cik",
+      "count": 14
+    },
+    {
+      "word": "vengru",
+      "count": 14
+    },
+    {
+      "word": "zemu",
+      "count": 14
+    },
+    {
+      "word": "maltys",
+      "count": 14
+    },
+    {
+      "word": "vuorkovys",
+      "count": 14
+    },
+    {
+      "word": "školā",
+      "count": 14
+    },
+    {
+      "word": "pardalis",
+      "count": 14
+    },
+    {
+      "word": "myuslaiku",
+      "count": 14
+    },
+    {
+      "word": "ceļu",
+      "count": 14
+    },
+    {
+      "word": "leiksnys",
+      "count": 14
+    },
+    {
+      "word": "lyma",
+      "count": 14
+    },
+    {
+      "word": "germanu",
+      "count": 14
+    },
+    {
+      "word": "oleja",
+      "count": 14
+    },
+    {
+      "word": "praņcejis",
+      "count": 14
+    },
+    {
+      "word": "golvysmīsti",
+      "count": 14
+    },
+    {
+      "word": "žogota",
+      "count": 14
+    },
+    {
+      "word": "konstaņtinovys",
+      "count": 14
+    },
+    {
+      "word": "sagrīž",
+      "count": 14
+    },
+    {
+      "word": "zemīs",
+      "count": 14
+    },
+    {
+      "word": "suoc",
       "count": 13
     },
     {
-      "word": "ja",
+      "word": "gramatika",
       "count": 13
     },
     {
-      "word": "vydā",
+      "word": "pītera",
       "count": 13
     },
     {
-      "word": "bārnim",
+      "word": "gruomotā",
+      "count": 13
+    },
+    {
+      "word": "lelūs",
+      "count": 13
+    },
+    {
+      "word": "daudz",
+      "count": 13
+    },
+    {
+      "word": "burtim",
+      "count": 13
+    },
+    {
+      "word": "tāvs",
+      "count": 13
+    },
+    {
+      "word": "rakstejs",
+      "count": 13
+    },
+    {
+      "word": "tāvu",
+      "count": 13
+    },
+    {
+      "word": "gaismys",
+      "count": 13
+    },
+    {
+      "word": "pamatškolā",
       "count": 13
     },
     {
@@ -923,7 +3705,187 @@
       "count": 13
     },
     {
-      "word": "drūseibys",
+      "word": "olūts",
+      "count": 13
+    },
+    {
+      "word": "maņ",
+      "count": 13
+    },
+    {
+      "word": "dīnuos",
+      "count": 13
+    },
+    {
+      "word": "reižu",
+      "count": 13
+    },
+    {
+      "word": "it",
+      "count": 13
+    },
+    {
+      "word": "bīdreiba",
+      "count": 13
+    },
+    {
+      "word": "samārā",
+      "count": 13
+    },
+    {
+      "word": "miglinīks",
+      "count": 13
+    },
+    {
+      "word": "programys",
+      "count": 13
+    },
+    {
+      "word": "danejis",
+      "count": 13
+    },
+    {
+      "word": "vaļsteibom",
+      "count": 13
+    },
+    {
+      "word": "baļtinovys",
+      "count": 13
+    },
+    {
+      "word": "pusi",
+      "count": 13
+    },
+    {
+      "word": "itamā",
+      "count": 13
+    },
+    {
+      "word": "dzeivuojs",
+      "count": 13
+    },
+    {
+      "word": "latgali",
+      "count": 13
+    },
+    {
+      "word": "mūrmastinis",
+      "count": 13
+    },
+    {
+      "word": "augstainis",
+      "count": 13
+    },
+    {
+      "word": "kaupri",
+      "count": 13
+    },
+    {
+      "word": "kūna",
+      "count": 13
+    },
+    {
+      "word": "natuoli",
+      "count": 13
+    },
+    {
+      "word": "pošvolds",
+      "count": 13
+    },
+    {
+      "word": "lītne",
+      "count": 13
+    },
+    {
+      "word": "organizacejis",
+      "count": 13
+    },
+    {
+      "word": "vīnā",
+      "count": 13
+    },
+    {
+      "word": "jākubmīsts",
+      "count": 13
+    },
+    {
+      "word": "puorsauce",
+      "count": 13
+    },
+    {
+      "word": "moskova",
+      "count": 13
+    },
+    {
+      "word": "bazneicnīks",
+      "count": 13
+    },
+    {
+      "word": "vard",
+      "count": 13
+    },
+    {
+      "word": "kaupris",
+      "count": 13
+    },
+    {
+      "word": "parka",
+      "count": 13
+    },
+    {
+      "word": "cyta",
+      "count": 13
+    },
+    {
+      "word": "grupys",
+      "count": 13
+    },
+    {
+      "word": "radeja",
+      "count": 13
+    },
+    {
+      "word": "muokslinīks",
+      "count": 13
+    },
+    {
+      "word": "cytom",
+      "count": 13
+    },
+    {
+      "word": "augusta",
+      "count": 13
+    },
+    {
+      "word": "pošvolda",
+      "count": 13
+    },
+    {
+      "word": "dale",
+      "count": 13
+    },
+    {
+      "word": "kaitys",
+      "count": 13
+    },
+    {
+      "word": "onca",
+      "count": 13
+    },
+    {
+      "word": "piliskolns",
+      "count": 13
+    },
+    {
+      "word": "sistemys",
+      "count": 13
+    },
+    {
+      "word": "galis",
+      "count": 13
+    },
+    {
+      "word": "perekli",
       "count": 13
     },
     {
@@ -931,3079 +3893,120 @@
       "count": 13
     },
     {
-      "word": "transporta",
+      "word": "škaunys",
       "count": 13
     },
     {
-      "word": "skaita",
+      "word": "filmys",
       "count": 13
     },
     {
-      "word": "apmeklēt",
+      "word": "latiņamerikā",
       "count": 13
     },
     {
-      "word": "varys",
+      "word": "pīna",
       "count": 13
     },
     {
-      "word": "kuruos",
+      "word": "juleja",
       "count": 13
     },
     {
-      "word": "skaits",
+      "word": "saļņovys",
       "count": 13
     },
     {
-      "word": "daļā",
+      "word": "parapejai",
       "count": 13
     },
     {
-      "word": "dīnvydu",
+      "word": "padūd",
       "count": 13
     },
     {
-      "word": "bārni",
+      "word": "kaunotys",
       "count": 13
     },
     {
-      "word": "suokuma",
+      "word": "nierzys",
       "count": 13
     },
     {
-      "word": "vysys",
+      "word": "ļeluokais",
       "count": 13
-    },
-    {
-      "word": "symtā",
-      "count": 13
-    },
-    {
-      "word": "leluoku",
-      "count": 13
-    },
-    {
-      "word": "juos",
-      "count": 13
-    },
-    {
-      "word": "kolnu",
-      "count": 13
-    },
-    {
-      "word": "saprast",
-      "count": 12
-    },
-    {
-      "word": "volūdā",
-      "count": 12
-    },
-    {
-      "word": "pādejūs",
-      "count": 12
-    },
-    {
-      "word": "kīnys",
-      "count": 12
-    },
-    {
-      "word": "mašynys",
-      "count": 12
-    },
-    {
-      "word": "gaismys",
-      "count": 12
-    },
-    {
-      "word": "jaunu",
-      "count": 12
-    },
-    {
-      "word": "izraiseit",
-      "count": 12
-    },
-    {
-      "word": "grupa",
-      "count": 12
-    },
-    {
-      "word": "godūs",
-      "count": 12
-    },
-    {
-      "word": "pīteikūši",
-      "count": 12
-    },
-    {
-      "word": "miļjonim",
-      "count": 12
-    },
-    {
-      "word": "jiurys",
-      "count": 12
-    },
-    {
-      "word": "iudiņs",
-      "count": 12
-    },
-    {
-      "word": "vyss",
-      "count": 12
-    },
-    {
-      "word": "struodoj",
-      "count": 12
-    },
-    {
-      "word": "klasis",
-      "count": 12
-    },
-    {
-      "word": "sistema",
-      "count": 12
-    },
-    {
-      "word": "dorbojās",
-      "count": 12
-    },
-    {
-      "word": "problemys",
-      "count": 12
-    },
-    {
-      "word": "cytim",
-      "count": 12
-    },
-    {
-      "word": "mieneša",
-      "count": 12
-    },
-    {
-      "word": "nadaudz",
-      "count": 12
-    },
-    {
-      "word": "organizaceja",
-      "count": 12
-    },
-    {
-      "word": "dzeivinīku",
-      "count": 12
-    },
-    {
-      "word": "sevi",
-      "count": 12
-    },
-    {
-      "word": "spāņu",
-      "count": 12
-    },
-    {
-      "word": "īkļaun",
-      "count": 12
-    },
-    {
-      "word": "sova",
-      "count": 12
-    },
-    {
-      "word": "atrast",
-      "count": 12
-    },
-    {
-      "word": "sātys",
-      "count": 12
-    },
-    {
-      "word": "informacejis",
-      "count": 11
-    },
-    {
-      "word": "mieness",
-      "count": 11
-    },
-    {
-      "word": "pats",
-      "count": 11
-    },
-    {
-      "word": "cyta",
-      "count": 11
-    },
-    {
-      "word": "ite",
-      "count": 11
-    },
-    {
-      "word": "volūda",
-      "count": 11
-    },
-    {
-      "word": "universitatis",
-      "count": 11
-    },
-    {
-      "word": "vysā",
-      "count": 11
-    },
-    {
-      "word": "vairuokys",
-      "count": 11
-    },
-    {
-      "word": "vieliešonu",
-      "count": 11
-    },
-    {
-      "word": "vīneiguo",
-      "count": 11
-    },
-    {
-      "word": "vaļdeibys",
-      "count": 11
-    },
-    {
-      "word": "lobuok",
-      "count": 11
-    },
-    {
-      "word": "ītekmej",
-      "count": 11
-    },
-    {
-      "word": "puorsvorā",
-      "count": 11
-    },
-    {
-      "word": "golvonais",
-      "count": 11
-    },
-    {
-      "word": "nikod",
-      "count": 11
-    },
-    {
-      "word": "ļaun",
-      "count": 11
-    },
-    {
-      "word": "golā",
-      "count": 11
-    },
-    {
-      "word": "atsaškir",
-      "count": 11
-    },
-    {
-      "word": "leluokū",
-      "count": 11
-    },
-    {
-      "word": "vysod",
-      "count": 11
-    },
-    {
-      "word": "navar",
-      "count": 11
-    },
-    {
-      "word": "vīnys",
-      "count": 11
-    },
-    {
-      "word": "lītys",
-      "count": 11
-    },
-    {
-      "word": "snīga",
-      "count": 11
-    },
-    {
-      "word": "cylvāks",
-      "count": 10
-    },
-    {
-      "word": "ziņu",
-      "count": 10
-    },
-    {
-      "word": "no",
-      "count": 10
-    },
-    {
-      "word": "itymā",
-      "count": 10
-    },
-    {
-      "word": "taida",
-      "count": 10
-    },
-    {
-      "word": "veida",
-      "count": 10
-    },
-    {
-      "word": "zīmelim",
-      "count": 10
-    },
-    {
-      "word": "mašynu",
-      "count": 10
-    },
-    {
-      "word": "naktī",
-      "count": 10
-    },
-    {
-      "word": "okeana",
-      "count": 10
-    },
-    {
-      "word": "izmontuot",
-      "count": 10
-    },
-    {
-      "word": "naudu",
-      "count": 10
-    },
-    {
-      "word": "leidza",
-      "count": 10
-    },
-    {
-      "word": "saimis",
-      "count": 10
-    },
-    {
-      "word": "izraiseja",
-      "count": 10
-    },
-    {
-      "word": "vaļstim",
-      "count": 10
-    },
-    {
-      "word": "izmontuošona",
-      "count": 10
-    },
-    {
-      "word": "īspiejis",
-      "count": 10
-    },
-    {
-      "word": "veidi",
-      "count": 10
-    },
-    {
-      "word": "itī",
-      "count": 10
-    },
-    {
-      "word": "pastuov",
-      "count": 10
-    },
-    {
-      "word": "gaisa",
-      "count": 10
-    },
-    {
-      "word": "izaver",
-      "count": 10
-    },
-    {
-      "word": "īgiut",
-      "count": 10
-    },
-    {
-      "word": "palikt",
-      "count": 10
-    },
-    {
-      "word": "navys",
-      "count": 10
-    },
-    {
-      "word": "tamā",
-      "count": 10
-    },
-    {
-      "word": "tempļa",
-      "count": 10
-    },
-    {
-      "word": "vītom",
-      "count": 10
-    },
-    {
-      "word": "daudzuos",
-      "count": 10
-    },
-    {
-      "word": "īprīkš",
-      "count": 10
-    },
-    {
-      "word": "juobyun",
-      "count": 10
-    },
-    {
-      "word": "roda",
-      "count": 10
-    },
-    {
-      "word": "beiguos",
-      "count": 10
-    },
-    {
-      "word": "soluos",
-      "count": 10
-    },
-    {
-      "word": "nūdrūsynoj",
-      "count": 10
-    },
-    {
-      "word": "sliepuošonys",
-      "count": 10
-    },
-    {
-      "word": "dažūs",
-      "count": 10
-    },
-    {
-      "word": "mm",
-      "count": 10
-    },
-    {
-      "word": "gribit",
-      "count": 10
-    },
-    {
-      "word": "ceļuojumu",
-      "count": 10
-    },
-    {
-      "word": "leidzeigi",
-      "count": 10
-    },
-    {
-      "word": "vai",
-      "count": 9
-    },
-    {
-      "word": "video",
-      "count": 9
-    },
-    {
-      "word": "vuiceibu",
-      "count": 9
-    },
-    {
-      "word": "školys",
-      "count": 9
-    },
-    {
-      "word": "vītejuo",
-      "count": 9
-    },
-    {
-      "word": "dolaru",
-      "count": 9
-    },
-    {
-      "word": "uotrumu",
-      "count": 9
-    },
-    {
-      "word": "īspieja",
-      "count": 9
-    },
-    {
-      "word": "apsyudzeibys",
-      "count": 9
-    },
-    {
-      "word": "praseibys",
-      "count": 9
-    },
-    {
-      "word": "australejis",
-      "count": 9
-    },
-    {
-      "word": "atkluoja",
-      "count": 9
-    },
-    {
-      "word": "telefonu",
-      "count": 9
-    },
-    {
-      "word": "uzjāmums",
-      "count": 9
-    },
-    {
-      "word": "rezultatā",
-      "count": 9
-    },
-    {
-      "word": "lada",
-      "count": 9
-    },
-    {
-      "word": "zynoms",
-      "count": 9
-    },
-    {
-      "word": "armejis",
-      "count": 9
-    },
-    {
-      "word": "mienesī",
-      "count": 9
-    },
-    {
-      "word": "kasdīnys",
-      "count": 9
-    },
-    {
-      "word": "natuoli",
-      "count": 9
-    },
-    {
-      "word": "austrumu",
-      "count": 9
-    },
-    {
-      "word": "vaļdeiba",
-      "count": 9
-    },
-    {
-      "word": "veikt",
-      "count": 9
-    },
-    {
-      "word": "veseleibys",
-      "count": 9
-    },
-    {
-      "word": "dorbu",
-      "count": 9
-    },
-    {
-      "word": "navajadzātu",
-      "count": 9
-    },
-    {
-      "word": "vuords",
-      "count": 9
-    },
-    {
-      "word": "vairuoki",
-      "count": 9
-    },
-    {
-      "word": "pakolpuojumu",
-      "count": 9
-    },
-    {
-      "word": "interneta",
-      "count": 9
-    },
-    {
-      "word": "putynu",
-      "count": 9
-    },
-    {
-      "word": "vuocejis",
-      "count": 9
-    },
-    {
-      "word": "pyrmuos",
-      "count": 9
-    },
-    {
-      "word": "pīkrastis",
-      "count": 9
-    },
-    {
-      "word": "slimineicā",
-      "count": 9
-    },
-    {
-      "word": "snādz",
-      "count": 9
-    },
-    {
-      "word": "pošā",
-      "count": 9
-    },
-    {
-      "word": "augu",
-      "count": 9
-    },
-    {
-      "word": "varēja",
-      "count": 9
-    },
-    {
-      "word": "sauce",
-      "count": 9
-    },
-    {
-      "word": "zīmeļūs",
-      "count": 9
-    },
-    {
-      "word": "pludmalis",
-      "count": 9
-    },
-    {
-      "word": "dažaiduos",
-      "count": 9
-    },
-    {
-      "word": "dažuos",
-      "count": 9
-    },
-    {
-      "word": "turistu",
-      "count": 9
-    },
-    {
-      "word": "vajadzeiga",
-      "count": 9
-    },
-    {
-      "word": "ceļuojuma",
-      "count": 9
-    },
-    {
-      "word": "jaunys",
-      "count": 9
-    },
-    {
-      "word": "komanda",
-      "count": 9
-    },
-    {
-      "word": "da",
-      "count": 8
-    },
-    {
-      "word": "bejs",
-      "count": 8
-    },
-    {
-      "word": "mīra",
-      "count": 8
-    },
-    {
-      "word": "viņa",
-      "count": 8
-    },
-    {
-      "word": "izmainis",
-      "count": 8
-    },
-    {
-      "word": "dreiži",
-      "count": 8
-    },
-    {
-      "word": "braukt",
-      "count": 8
-    },
-    {
-      "word": "pusi",
-      "count": 8
-    },
-    {
-      "word": "moz",
-      "count": 8
-    },
-    {
-      "word": "medicinys",
-      "count": 8
-    },
-    {
-      "word": "jauna",
-      "count": 8
-    },
-    {
-      "word": "standarta",
-      "count": 8
-    },
-    {
-      "word": "pietnīki",
-      "count": 8
-    },
-    {
-      "word": "policejis",
-      "count": 8
-    },
-    {
-      "word": "gar",
-      "count": 8
-    },
-    {
-      "word": "pyrmajā",
-      "count": 8
-    },
-    {
-      "word": "vīnkuorši",
-      "count": 8
-    },
-    {
-      "word": "britu",
-      "count": 8
-    },
-    {
-      "word": "pakistanys",
-      "count": 8
-    },
-    {
-      "word": "nasaverūt",
-      "count": 8
-    },
-    {
-      "word": "divi",
-      "count": 8
-    },
-    {
-      "word": "divys",
-      "count": 8
-    },
-    {
-      "word": "muokslys",
-      "count": 8
-    },
-    {
-      "word": "televizejis",
-      "count": 8
-    },
-    {
-      "word": "vysdreizuok",
-      "count": 8
-    },
-    {
-      "word": "stuņdē",
-      "count": 8
-    },
-    {
-      "word": "kaids",
-      "count": 8
-    },
-    {
-      "word": "reizis",
-      "count": 8
-    },
-    {
-      "word": "īstuodis",
-      "count": 8
-    },
-    {
-      "word": "pagaidu",
-      "count": 8
-    },
-    {
-      "word": "tīsys",
-      "count": 8
-    },
-    {
-      "word": "karu",
-      "count": 8
-    },
-    {
-      "word": "vaļsti",
-      "count": 8
-    },
-    {
-      "word": "divu",
-      "count": 8
-    },
-    {
-      "word": "nacionalais",
-      "count": 8
-    },
-    {
-      "word": "dīnā",
-      "count": 8
-    },
-    {
-      "word": "lels",
-      "count": 8
-    },
-    {
-      "word": "tom",
-      "count": 8
-    },
-    {
-      "word": "punktim",
-      "count": 8
-    },
-    {
-      "word": "skaiteits",
-      "count": 8
-    },
-    {
-      "word": "piļneigi",
-      "count": 8
-    },
-    {
-      "word": "taidim",
-      "count": 8
-    },
-    {
-      "word": "rītumu",
-      "count": 8
-    },
-    {
-      "word": "sistemys",
-      "count": 8
-    },
-    {
-      "word": "piļneibā",
-      "count": 8
-    },
-    {
-      "word": "ītver",
-      "count": 8
-    },
-    {
-      "word": "japanys",
-      "count": 8
-    },
-    {
-      "word": "pamatā",
-      "count": 8
-    },
-    {
-      "word": "škārsteikla",
-      "count": 8
-    },
-    {
-      "word": "ziņuoja",
-      "count": 8
-    },
-    {
-      "word": "dažim",
-      "count": 8
-    },
-    {
-      "word": "vysus",
-      "count": 8
-    },
-    {
-      "word": "attuolumā",
-      "count": 8
-    },
-    {
-      "word": "napīcīšama",
-      "count": 8
-    },
-    {
-      "word": "īdzeivuotuoju",
-      "count": 8
-    },
-    {
-      "word": "spēlēs",
-      "count": 8
-    },
-    {
-      "word": "lelbritanejis",
-      "count": 8
-    },
-    {
-      "word": "sajēme",
-      "count": 8
-    },
-    {
-      "word": "tierdznīceibys",
-      "count": 8
-    },
-    {
-      "word": "kurus",
-      "count": 8
-    },
-    {
-      "word": "vuoceja",
-      "count": 8
-    },
-    {
-      "word": "īvāruojami",
-      "count": 8
-    },
-    {
-      "word": "veidoj",
-      "count": 8
-    },
-    {
-      "word": "lītom",
-      "count": 8
-    },
-    {
-      "word": "dažus",
-      "count": 8
-    },
-    {
-      "word": "franču",
-      "count": 8
-    },
-    {
-      "word": "italejis",
-      "count": 8
-    },
-    {
-      "word": "padora",
-      "count": 8
-    },
-    {
-      "word": "cauri",
-      "count": 8
-    },
-    {
-      "word": "regionā",
-      "count": 8
-    },
-    {
-      "word": "vīglai",
-      "count": 8
-    },
-    {
-      "word": "pīmāru",
-      "count": 8
-    },
-    {
-      "word": "izveiduot",
-      "count": 8
-    },
-    {
-      "word": "vairums",
-      "count": 8
-    },
-    {
-      "word": "paleidzēt",
-      "count": 8
-    },
-    {
-      "word": "saleidzynūši",
-      "count": 8
-    },
-    {
-      "word": "cytom",
-      "count": 8
-    },
-    {
-      "word": "myusim",
-      "count": 8
-    },
-    {
-      "word": "arviņ",
-      "count": 8
-    },
-    {
-      "word": "īdzeivuotuoji",
-      "count": 8
-    },
-    {
-      "word": "solom",
-      "count": 8
-    },
-    {
-      "word": "dorba",
-      "count": 8
-    },
-    {
-      "word": "vārā",
-      "count": 8
-    },
-    {
-      "word": "vosorā",
-      "count": 8
-    },
-    {
-      "word": "īt",
-      "count": 8
-    },
-    {
-      "word": "puorbaudit",
-      "count": 8
-    },
-    {
-      "word": "solys",
-      "count": 8
-    },
-    {
-      "word": "lobs",
-      "count": 8
-    },
-    {
-      "word": "iudini",
-      "count": 8
-    },
-    {
-      "word": "lela",
-      "count": 8
-    },
-    {
-      "word": "dobys",
-      "count": 8
-    },
-    {
-      "word": "biznesa",
-      "count": 8
-    },
-    {
-      "word": "cunami",
-      "count": 8
-    },
-    {
-      "word": "ceļu",
-      "count": 8
-    },
-    {
-      "word": "tehnologeju",
-      "count": 8
-    },
-    {
-      "word": "sīvīšu",
-      "count": 7
-    },
-    {
-      "word": "jo",
-      "count": 7
-    },
-    {
-      "word": "gada",
-      "count": 7
-    },
-    {
-      "word": "nakti",
-      "count": 7
-    },
-    {
-      "word": "tur",
-      "count": 7
-    },
-    {
-      "word": "ceļš",
-      "count": 7
-    },
-    {
-      "word": "pošu",
-      "count": 7
-    },
-    {
-      "word": "loba",
-      "count": 7
-    },
-    {
-      "word": "taidu",
-      "count": 7
-    },
-    {
-      "word": "gadīņūs",
-      "count": 7
-    },
-    {
-      "word": "lidmašyna",
-      "count": 7
-    },
-    {
-      "word": "mašyna",
-      "count": 7
-    },
-    {
-      "word": "vacais",
-      "count": 7
-    },
-    {
-      "word": "termins",
-      "count": 7
-    },
-    {
-      "word": "miļjonus",
-      "count": 7
-    },
-    {
-      "word": "paleidzēja",
-      "count": 7
-    },
-    {
-      "word": "nūruodeja",
-      "count": 7
-    },
-    {
-      "word": "amerikaņu",
-      "count": 7
-    },
-    {
-      "word": "reita",
-      "count": 7
-    },
-    {
-      "word": "tyktu",
-      "count": 7
-    },
-    {
-      "word": "džons",
-      "count": 7
-    },
-    {
-      "word": "vātra",
-      "count": 7
-    },
-    {
-      "word": "pyrms",
-      "count": 7
-    },
-    {
-      "word": "atlantejis",
-      "count": 7
-    },
-    {
-      "word": "dīnvydūs",
-      "count": 7
-    },
-    {
-      "word": "jaunzelandis",
-      "count": 7
-    },
-    {
-      "word": "viesturē",
-      "count": 7
-    },
-    {
-      "word": "nūsoka",
-      "count": 7
-    },
-    {
-      "word": "vajadzātu",
-      "count": 7
-    },
-    {
-      "word": "bejušais",
-      "count": 7
-    },
-    {
-      "word": "tīseibu",
-      "count": 7
-    },
-    {
-      "word": "piļsātys",
-      "count": 7
-    },
-    {
-      "word": "grupys",
-      "count": 7
-    },
-    {
-      "word": "nedeļu",
-      "count": 7
-    },
-    {
-      "word": "sokūt",
-      "count": 7
-    },
-    {
-      "word": "dabuoja",
-      "count": 7
-    },
-    {
-      "word": "roduos",
-      "count": 7
-    },
-    {
-      "word": "nūtiks",
-      "count": 7
-    },
-    {
-      "word": "saceits",
-      "count": 7
-    },
-    {
-      "word": "gs",
-      "count": 7
-    },
-    {
-      "word": "padūmu",
-      "count": 7
-    },
-    {
-      "word": "sistemu",
-      "count": 7
-    },
-    {
-      "word": "zemi",
-      "count": 7
-    },
-    {
-      "word": "zvaigznis",
-      "count": 7
-    },
-    {
-      "word": "mierki",
-      "count": 7
-    },
-    {
-      "word": "vysvaira",
-      "count": 7
-    },
-    {
-      "word": "sovim",
-      "count": 7
-    },
-    {
-      "word": "taids",
-      "count": 7
-    },
-    {
-      "word": "skaitu",
-      "count": 7
-    },
-    {
-      "word": "attīceibā",
-      "count": 7
-    },
-    {
-      "word": "napīcīšams",
-      "count": 7
-    },
-    {
-      "word": "sabīdreibys",
-      "count": 7
-    },
-    {
-      "word": "esit",
-      "count": 7
-    },
-    {
-      "word": "situaceju",
-      "count": 7
-    },
-    {
-      "word": "atsaroda",
-      "count": 7
-    },
-    {
-      "word": "prezidenta",
-      "count": 7
-    },
-    {
-      "word": "raudzeja",
-      "count": 7
-    },
-    {
-      "word": "vysai",
-      "count": 7
-    },
-    {
-      "word": "olimpiskuos",
-      "count": 7
-    },
-    {
-      "word": "zynoma",
-      "count": 7
-    },
-    {
-      "word": "naatkareibys",
-      "count": 7
-    },
-    {
-      "word": "prezidents",
-      "count": 7
-    },
-    {
-      "word": "puor",
-      "count": 7
-    },
-    {
-      "word": "piļsātā",
-      "count": 7
-    },
-    {
-      "word": "satiksmis",
-      "count": 7
-    },
-    {
-      "word": "planavoj",
-      "count": 7
-    },
-    {
-      "word": "lītu",
-      "count": 7
-    },
-    {
-      "word": "pietejumi",
-      "count": 7
-    },
-    {
-      "word": "līcynoj",
-      "count": 7
-    },
-    {
-      "word": "procesu",
-      "count": 7
-    },
-    {
-      "word": "veidā",
-      "count": 7
-    },
-    {
-      "word": "francejis",
-      "count": 7
-    },
-    {
-      "word": "smierts",
-      "count": 7
-    },
-    {
-      "word": "nūmyra",
-      "count": 7
-    },
-    {
-      "word": "angļu",
-      "count": 7
-    },
-    {
-      "word": "prasmis",
-      "count": 7
-    },
-    {
-      "word": "gryuši",
-      "count": 7
-    },
-    {
-      "word": "regionu",
-      "count": 7
-    },
-    {
-      "word": "godam",
-      "count": 7
-    },
-    {
-      "word": "cyts",
-      "count": 7
-    },
-    {
-      "word": "problemu",
-      "count": 7
-    },
-    {
-      "word": "viers",
-      "count": 7
-    },
-    {
-      "word": "ūtru",
-      "count": 7
-    },
-    {
-      "word": "vuocu",
-      "count": 7
-    },
-    {
-      "word": "daudzus",
-      "count": 7
-    },
-    {
-      "word": "atkareibā",
-      "count": 7
-    },
-    {
-      "word": "vuordu",
-      "count": 7
-    },
-    {
-      "word": "īskaitūt",
-      "count": 7
-    },
-    {
-      "word": "izveiduoja",
-      "count": 7
-    },
-    {
-      "word": "svareiga",
-      "count": 7
-    },
-    {
-      "word": "it",
-      "count": 7
-    },
-    {
-      "word": "dzeivis",
-      "count": 7
-    },
-    {
-      "word": "izmontuoja",
-      "count": 7
-    },
-    {
-      "word": "dorbs",
-      "count": 7
-    },
-    {
-      "word": "rūku",
-      "count": 7
-    },
-    {
-      "word": "turisma",
-      "count": 7
-    },
-    {
-      "word": "zīmā",
-      "count": 7
-    },
-    {
-      "word": "vajadzeibys",
-      "count": 7
-    },
-    {
-      "word": "sugys",
-      "count": 7
-    },
-    {
-      "word": "organizacejis",
-      "count": 7
-    },
-    {
-      "word": "saisteits",
-      "count": 7
-    },
-    {
-      "word": "pogolmā",
-      "count": 7
-    },
-    {
-      "word": "asat",
-      "count": 7
-    },
-    {
-      "word": "turistim",
-      "count": 7
-    },
-    {
-      "word": "centrs",
-      "count": 7
-    },
-    {
-      "word": "reizem",
-      "count": 7
-    },
-    {
-      "word": "naudys",
-      "count": 7
-    },
-    {
-      "word": "vajadzeigs",
-      "count": 7
-    },
-    {
-      "word": "dzeivoj",
-      "count": 7
-    },
-    {
-      "word": "sīvītis",
-      "count": 7
-    },
-    {
-      "word": "dīnvydafrikys",
-      "count": 7
-    },
-    {
-      "word": "super",
-      "count": 7
-    },
-    {
-      "word": "piramidys",
-      "count": 7
-    },
-    {
-      "word": "dūmoj",
-      "count": 6
-    },
-    {
-      "word": "puors",
-      "count": 6
-    },
-    {
-      "word": "arī",
-      "count": 6
-    },
-    {
-      "word": "sev",
-      "count": 6
-    },
-    {
-      "word": "daudzim",
-      "count": 6
-    },
-    {
-      "word": "pyrmūdiņ",
-      "count": 6
-    },
-    {
-      "word": "izmoksys",
-      "count": 6
-    },
-    {
-      "word": "slimeibu",
-      "count": 6
-    },
-    {
-      "word": "policeja",
-      "count": 6
     },
     {
       "word": "karaļs",
-      "count": 6
+      "count": 13
     },
     {
-      "word": "the",
-      "count": 6
+      "word": "ļudvigs",
+      "count": 13
     },
     {
-      "word": "izmontuoti",
-      "count": 6
+      "word": "albumi",
+      "count": 13
     },
     {
-      "word": "itom",
-      "count": 6
+      "word": "live",
+      "count": 13
     },
     {
-      "word": "sezonā",
-      "count": 6
+      "word": "dareja",
+      "count": 12
     },
     {
-      "word": "pyrmais",
-      "count": 6
+      "word": "vicebskys",
+      "count": 12
     },
     {
-      "word": "vīnā",
-      "count": 6
+      "word": "ūtrys",
+      "count": 12
     },
     {
-      "word": "sezonys",
-      "count": 6
+      "word": "jūrdža",
+      "count": 12
     },
     {
-      "word": "itai",
-      "count": 6
+      "word": "parādavuošona",
+      "count": 12
     },
     {
-      "word": "devēs",
-      "count": 6
+      "word": "lelī",
+      "count": 12
     },
     {
-      "word": "itam",
-      "count": 6
+      "word": "formu",
+      "count": 12
     },
     {
-      "word": "kotra",
-      "count": 6
+      "word": "mozuok",
+      "count": 12
     },
     {
-      "word": "bazis",
-      "count": 6
+      "word": "folklors",
+      "count": 12
     },
     {
-      "word": "kaidu",
-      "count": 6
+      "word": "literatūra",
+      "count": 12
     },
     {
-      "word": "šam",
-      "count": 6
+      "word": "padūmis",
+      "count": 12
     },
     {
-      "word": "leimiņa",
-      "count": 6
+      "word": "akademejis",
+      "count": 12
     },
     {
-      "word": "dūmu",
-      "count": 6
+      "word": "tīseibu",
+      "count": 12
     },
     {
-      "word": "leimini",
-      "count": 6
-    },
-    {
-      "word": "stuņžu",
-      "count": 6
-    },
-    {
-      "word": "viesturi",
-      "count": 6
-    },
-    {
-      "word": "paradzāts",
-      "count": 6
-    },
-    {
-      "word": "īmaslu",
-      "count": 6
-    },
-    {
-      "word": "darbeibys",
-      "count": 6
-    },
-    {
-      "word": "dažu",
-      "count": 6
-    },
-    {
-      "word": "ūtrajā",
-      "count": 6
-    },
-    {
-      "word": "daudzums",
-      "count": 6
-    },
-    {
-      "word": "sastuovdaļa",
-      "count": 6
-    },
-    {
-      "word": "stacejis",
-      "count": 6
-    },
-    {
-      "word": "miļjoni",
-      "count": 6
-    },
-    {
-      "word": "iranys",
-      "count": 6
-    },
-    {
-      "word": "kaida",
-      "count": 6
-    },
-    {
-      "word": "savīneibys",
-      "count": 6
-    },
-    {
-      "word": "stuņdēs",
-      "count": 6
-    },
-    {
-      "word": "jiudžu",
-      "count": 6
-    },
-    {
-      "word": "kugis",
-      "count": 6
-    },
-    {
-      "word": "leluokais",
-      "count": 6
-    },
-    {
-      "word": "nūsaukumu",
-      "count": 6
-    },
-    {
-      "word": "izraisa",
-      "count": 6
-    },
-    {
-      "word": "leluokajā",
-      "count": 6
-    },
-    {
-      "word": "lopu",
-      "count": 6
-    },
-    {
-      "word": "uorkuortys",
-      "count": 6
-    },
-    {
-      "word": "reši",
-      "count": 6
-    },
-    {
-      "word": "kuģa",
-      "count": 6
-    },
-    {
-      "word": "vacuma",
-      "count": 6
-    },
-    {
-      "word": "vakar",
-      "count": 6
-    },
-    {
-      "word": "nūtykuma",
-      "count": 6
-    },
-    {
-      "word": "nivīna",
-      "count": 6
-    },
-    {
-      "word": "veidu",
-      "count": 6
-    },
-    {
-      "word": "olimpiskūs",
-      "count": 6
-    },
-    {
-      "word": "augustā",
-      "count": 6
-    },
-    {
-      "word": "teoreja",
-      "count": 6
-    },
-    {
-      "word": "zyna",
-      "count": 6
-    },
-    {
-      "word": "kosmosā",
-      "count": 6
-    },
-    {
-      "word": "julī",
-      "count": 6
-    },
-    {
-      "word": "lidmašynys",
-      "count": 6
-    },
-    {
-      "word": "aba",
-      "count": 6
-    },
-    {
-      "word": "piļsātuos",
-      "count": 6
-    },
-    {
-      "word": "nūteikti",
-      "count": 6
-    },
-    {
-      "word": "dzeivinīkim",
-      "count": 6
-    },
-    {
-      "word": "pusē",
-      "count": 6
-    },
-    {
-      "word": "ūtruo",
-      "count": 6
-    },
-    {
-      "word": "paguojušā",
-      "count": 6
-    },
-    {
-      "word": "automašynu",
-      "count": 6
-    },
-    {
-      "word": "sekuoja",
-      "count": 6
-    },
-    {
-      "word": "kurai",
-      "count": 6
-    },
-    {
-      "word": "energejis",
-      "count": 6
-    },
-    {
-      "word": "veidojūt",
-      "count": 6
-    },
-    {
-      "word": "molys",
-      "count": 6
-    },
-    {
-      "word": "augi",
-      "count": 6
-    },
-    {
-      "word": "moza",
-      "count": 6
-    },
-    {
-      "word": "sauli",
-      "count": 6
-    },
-    {
-      "word": "nūsauce",
-      "count": 6
-    },
-    {
-      "word": "eiropā",
-      "count": 6
-    },
-    {
-      "word": "daudzom",
-      "count": 6
-    },
-    {
-      "word": "maršrutu",
-      "count": 6
-    },
-    {
-      "word": "zamiudinis",
-      "count": 6
-    },
-    {
-      "word": "kugi",
-      "count": 6
-    },
-    {
-      "word": "ilgu",
-      "count": 6
-    },
-    {
-      "word": "izmontuotys",
-      "count": 6
-    },
-    {
-      "word": "karā",
-      "count": 6
-    },
-    {
-      "word": "tyukstūšim",
-      "count": 6
-    },
-    {
-      "word": "varams",
-      "count": 6
-    },
-    {
-      "word": "kuram",
-      "count": 6
-    },
-    {
-      "word": "turcejis",
-      "count": 6
-    },
-    {
-      "word": "natiks",
-      "count": 6
-    },
-    {
-      "word": "tyukstūša",
-      "count": 6
-    },
-    {
-      "word": "montuojuma",
-      "count": 6
-    },
-    {
-      "word": "pīredzi",
-      "count": 6
-    },
-    {
-      "word": "civilizaceja",
-      "count": 6
-    },
-    {
-      "word": "saukta",
-      "count": 6
-    },
-    {
-      "word": "vysim",
-      "count": 6
-    },
-    {
-      "word": "paleidzātu",
-      "count": 6
-    },
-    {
-      "word": "uzvedeibu",
-      "count": 6
-    },
-    {
-      "word": "sasnēgt",
-      "count": 6
-    },
-    {
-      "word": "kluot",
-      "count": 6
-    },
-    {
-      "word": "studentim",
-      "count": 6
-    },
-    {
-      "word": "kurim",
-      "count": 6
-    },
-    {
-      "word": "daudzu",
-      "count": 6
-    },
-    {
-      "word": "poša",
-      "count": 6
-    },
-    {
-      "word": "dažaidus",
-      "count": 6
-    },
-    {
-      "word": "mierkis",
-      "count": 6
-    },
-    {
-      "word": "pādu",
-      "count": 6
-    },
-    {
-      "word": "metru",
-      "count": 6
-    },
-    {
-      "word": "kliust",
-      "count": 6
-    },
-    {
-      "word": "nūdrūsynuot",
-      "count": 6
-    },
-    {
-      "word": "dažaidu",
-      "count": 6
-    },
-    {
-      "word": "kotrs",
-      "count": 6
-    },
-    {
-      "word": "latiņu",
-      "count": 6
-    },
-    {
-      "word": "tornado",
-      "count": 6
-    },
-    {
-      "word": "vystik",
-      "count": 6
-    },
-    {
-      "word": "sātu",
-      "count": 6
-    },
-    {
-      "word": "pasauli",
-      "count": 6
-    },
-    {
-      "word": "parka",
-      "count": 6
-    },
-    {
-      "word": "sevkuram",
-      "count": 6
-    },
-    {
-      "word": "leluo",
-      "count": 6
-    },
-    {
-      "word": "golvyspiļsāta",
-      "count": 6
-    },
-    {
-      "word": "atbolsta",
-      "count": 6
-    },
-    {
-      "word": "beistami",
-      "count": 6
-    },
-    {
-      "word": "galapagu",
-      "count": 6
-    },
-    {
-      "word": "dzeivinīkus",
-      "count": 6
-    },
-    {
-      "word": "haiti",
-      "count": 6
-    },
-    {
-      "word": "atteisteibys",
-      "count": 6
-    },
-    {
-      "word": "gultys",
-      "count": 6
-    },
-    {
-      "word": "gaitā",
-      "count": 6
-    },
-    {
-      "word": "cytūs",
-      "count": 6
-    },
-    {
-      "word": "daudzumu",
-      "count": 6
-    },
-    {
-      "word": "kotram",
-      "count": 6
-    },
-    {
-      "word": "celi",
-      "count": 6
-    },
-    {
-      "word": "beletu",
-      "count": 6
-    },
-    {
-      "word": "storpā",
-      "count": 6
-    },
-    {
-      "word": "nūruoda",
-      "count": 6
-    },
-    {
-      "word": "kanadys",
-      "count": 6
-    },
-    {
-      "word": "struoduoja",
-      "count": 6
-    },
-    {
-      "word": "ano",
-      "count": 6
-    },
-    {
-      "word": "nateik",
-      "count": 6
-    },
-    {
-      "word": "austrumūs",
-      "count": 6
-    },
-    {
-      "word": "plaši",
-      "count": 6
-    },
-    {
-      "word": "disciplinā",
-      "count": 6
-    },
-    {
-      "word": "honkongys",
-      "count": 6
-    },
-    {
-      "word": "kultura",
-      "count": 6
-    },
-    {
-      "word": "varbyut",
-      "count": 5
-    },
-    {
-      "word": "kā",
-      "count": 5
-    },
-    {
-      "word": "draudzene",
-      "count": 5
-    },
-    {
-      "word": "mūsu",
-      "count": 5
-    },
-    {
-      "word": "man",
-      "count": 5
-    },
-    {
-      "word": "tad",
-      "count": 5
-    },
-    {
-      "word": "kad",
-      "count": 5
-    },
-    {
-      "word": "to",
-      "count": 5
-    },
-    {
-      "word": "autobusu",
-      "count": 5
-    },
-    {
-      "word": "latgaļu",
-      "count": 5
-    },
-    {
-      "word": "dareit",
-      "count": 5
-    },
-    {
-      "word": "bārnus",
-      "count": 5
-    },
-    {
-      "word": "gita",
-      "count": 5
-    },
-    {
-      "word": "viesture",
-      "count": 5
-    },
-    {
-      "word": "gruomotu",
-      "count": 5
-    },
-    {
-      "word": "maņ",
-      "count": 5
-    },
-    {
-      "word": "dorbā",
-      "count": 5
-    },
-    {
-      "word": "paldies",
-      "count": 5
-    },
-    {
-      "word": "vadeituojs",
-      "count": 5
-    },
-    {
-      "word": "vītejī",
-      "count": 5
-    },
-    {
-      "word": "ziņoj",
-      "count": 5
-    },
-    {
-      "word": "pīsavīnuoja",
-      "count": 5
-    },
-    {
-      "word": "atsagrīzt",
-      "count": 5
-    },
-    {
-      "word": "desmit",
-      "count": 5
-    },
-    {
-      "word": "nūdūkļu",
-      "count": 5
-    },
-    {
-      "word": "universitatē",
-      "count": 5
-    },
-    {
-      "word": "vokorā",
-      "count": 5
-    },
-    {
-      "word": "sarokstā",
-      "count": 5
-    },
-    {
-      "word": "zynuotnis",
-      "count": 5
-    },
-    {
-      "word": "nūzeimeigs",
-      "count": 5
-    },
-    {
-      "word": "spāki",
-      "count": 5
-    },
-    {
-      "word": "īslūdzeitūs",
-      "count": 5
-    },
-    {
-      "word": "augšu",
-      "count": 5
-    },
-    {
-      "word": "parku",
-      "count": 5
-    },
-    {
-      "word": "kaidys",
-      "count": 5
-    },
-    {
-      "word": "izgleiteibys",
-      "count": 5
-    },
-    {
-      "word": "paraksteja",
-      "count": 5
-    },
-    {
-      "word": "leigumu",
-      "count": 5
-    },
-    {
-      "word": "uotri",
-      "count": 5
-    },
-    {
-      "word": "aizdūmuos",
-      "count": 5
-    },
-    {
-      "word": "tīsu",
-      "count": 5
-    },
-    {
-      "word": "politiku",
-      "count": 5
-    },
-    {
-      "word": "izjamūt",
-      "count": 5
-    },
-    {
-      "word": "rūmys",
-      "count": 5
-    },
-    {
-      "word": "martā",
-      "count": 5
-    },
-    {
-      "word": "greku",
-      "count": 5
-    },
-    {
-      "word": "parlamenta",
-      "count": 5
-    },
-    {
-      "word": "kluotyn",
-      "count": 5
-    },
-    {
-      "word": "atsasaceja",
-      "count": 5
-    },
-    {
-      "word": "suocās",
-      "count": 5
-    },
-    {
-      "word": "leluoks",
-      "count": 5
-    },
-    {
-      "word": "laikapstuokli",
-      "count": 5
-    },
-    {
-      "word": "olūts",
-      "count": 5
-    },
-    {
-      "word": "zynuošonom",
-      "count": 5
-    },
-    {
-      "word": "īškzemis",
-      "count": 5
-    },
-    {
-      "word": "liduot",
-      "count": 5
-    },
-    {
-      "word": "finanšu",
-      "count": 5
-    },
-    {
-      "word": "lelā",
-      "count": 5
-    },
-    {
-      "word": "mārā",
-      "count": 5
-    },
-    {
-      "word": "atkareiga",
-      "count": 5
-    },
-    {
-      "word": "taidom",
-      "count": 5
-    },
-    {
-      "word": "sasnīgt",
-      "count": 5
-    },
-    {
-      "word": "saulis",
-      "count": 5
-    },
-    {
-      "word": "informaceju",
-      "count": 5
-    },
-    {
-      "word": "studenti",
-      "count": 5
-    },
-    {
-      "word": "rauga",
-      "count": 5
-    },
-    {
-      "word": "puorstuovs",
-      "count": 5
-    },
-    {
-      "word": "dobā",
-      "count": 5
-    },
-    {
-      "word": "viejs",
-      "count": 5
-    },
-    {
-      "word": "pīruodejumi",
-      "count": 5
-    },
-    {
-      "word": "puorsavītuot",
-      "count": 5
-    },
-    {
-      "word": "izmontuots",
-      "count": 5
-    },
-    {
-      "word": "northern",
-      "count": 5
-    },
-    {
-      "word": "rock",
-      "count": 5
-    },
-    {
-      "word": "saisteiti",
-      "count": 5
-    },
-    {
-      "word": "ceļā",
-      "count": 5
-    },
-    {
-      "word": "laivu",
-      "count": 5
-    },
-    {
-      "word": "atroda",
-      "count": 5
-    },
-    {
-      "word": "jai",
-      "count": 5
-    },
-    {
-      "word": "itūšaļt",
-      "count": 5
-    },
-    {
-      "word": "štatā",
-      "count": 5
-    },
-    {
-      "word": "skots",
-      "count": 5
-    },
-    {
-      "word": "lobā",
-      "count": 5
-    },
-    {
-      "word": "ūtardiņ",
-      "count": 5
-    },
-    {
-      "word": "leli",
-      "count": 5
-    },
-    {
-      "word": "šaļtī",
-      "count": 5
-    },
-    {
-      "word": "spieļu",
-      "count": 5
-    },
-    {
-      "word": "sīvītem",
-      "count": 5
-    },
-    {
-      "word": "treisdesmit",
-      "count": 5
-    },
-    {
-      "word": "asūt",
-      "count": 5
-    },
-    {
-      "word": "muorcenis",
-      "count": 5
-    },
-    {
-      "word": "kam",
-      "count": 5
-    },
-    {
-      "word": "leluoka",
-      "count": 5
-    },
-    {
-      "word": "zeme",
-      "count": 5
-    },
-    {
-      "word": "problema",
-      "count": 5
-    },
-    {
-      "word": "janvarī",
-      "count": 5
-    },
-    {
-      "word": "attālu",
-      "count": 5
-    },
-    {
-      "word": "veice",
-      "count": 5
-    },
-    {
-      "word": "draudu",
-      "count": 5
-    },
-    {
-      "word": "īejis",
-      "count": 5
-    },
-    {
-      "word": "agruok",
-      "count": 5
-    },
-    {
-      "word": "beigom",
-      "count": 5
-    },
-    {
-      "word": "dr",
-      "count": 5
-    },
-    {
-      "word": "komitejis",
-      "count": 5
-    },
-    {
-      "word": "golvonū",
-      "count": 5
-    },
-    {
-      "word": "vysuos",
-      "count": 5
-    },
-    {
-      "word": "zemistreicis",
-      "count": 5
-    },
-    {
-      "word": "vulkana",
-      "count": 5
-    },
-    {
-      "word": "aktivitate",
-      "count": 5
-    },
-    {
-      "word": "vuordus",
-      "count": 5
-    },
-    {
-      "word": "atļuovis",
-      "count": 5
-    },
-    {
-      "word": "vīsuļvātru",
-      "count": 5
-    },
-    {
-      "word": "aptuveni",
-      "count": 5
-    },
-    {
-      "word": "nivīns",
-      "count": 5
-    },
-    {
-      "word": "eipašu",
-      "count": 5
-    },
-    {
-      "word": "itaļu",
-      "count": 5
-    },
-    {
-      "word": "būjā",
-      "count": 5
-    },
-    {
-      "word": "suoc",
-      "count": 5
-    },
-    {
-      "word": "japaņu",
-      "count": 5
-    },
-    {
-      "word": "iudiņraža",
-      "count": 5
-    },
-    {
-      "word": "taidā",
-      "count": 5
-    },
-    {
-      "word": "gryuts",
-      "count": 5
-    },
-    {
-      "word": "vajadzeigi",
-      "count": 5
-    },
-    {
-      "word": "līk",
-      "count": 5
-    },
-    {
-      "word": "prūtams",
-      "count": 5
-    },
-    {
-      "word": "patīseibā",
-      "count": 5
-    },
-    {
-      "word": "golu",
-      "count": 5
-    },
-    {
-      "word": "juobyut",
-      "count": 5
-    },
-    {
-      "word": "kermiņa",
-      "count": 5
-    },
-    {
-      "word": "apgolvoj",
-      "count": 5
-    },
-    {
-      "word": "saule",
-      "count": 5
-    },
-    {
-      "word": "tuoļuok",
-      "count": 5
-    },
-    {
-      "word": "vuordā",
-      "count": 5
-    },
-    {
-      "word": "karaļa",
-      "count": 5
-    },
-    {
-      "word": "tautys",
-      "count": 5
-    },
-    {
-      "word": "sevkuru",
-      "count": 5
-    },
-    {
-      "word": "četrus",
-      "count": 5
-    },
-    {
-      "word": "afrikys",
-      "count": 5
-    },
-    {
-      "word": "kugim",
-      "count": 5
-    },
-    {
-      "word": "senejuos",
-      "count": 5
-    },
-    {
-      "word": "divus",
-      "count": 5
-    },
-    {
-      "word": "molu",
-      "count": 5
-    },
-    {
-      "word": "runoj",
-      "count": 5
-    },
-    {
-      "word": "dalis",
-      "count": 5
-    },
-    {
-      "word": "parks",
-      "count": 5
-    },
-    {
-      "word": "veidūs",
-      "count": 5
-    },
-    {
-      "word": "mainis",
-      "count": 5
-    },
-    {
-      "word": "objektivu",
-      "count": 5
-    },
-    {
-      "word": "apstuokļūs",
-      "count": 5
-    },
-    {
-      "word": "puoruok",
-      "count": 5
-    },
-    {
-      "word": "spāku",
-      "count": 5
-    },
-    {
-      "word": "puortykys",
-      "count": 5
-    },
-    {
-      "word": "upis",
-      "count": 5
-    },
-    {
-      "word": "plyusmu",
-      "count": 5
-    },
-    {
-      "word": "vairuoku",
-      "count": 5
-    },
-    {
-      "word": "jūmā",
-      "count": 5
-    },
-    {
-      "word": "kruosu",
-      "count": 5
-    },
-    {
-      "word": "vuiceišonuos",
-      "count": 5
-    },
-    {
-      "word": "bārnu",
-      "count": 5
-    },
-    {
-      "word": "taidi",
-      "count": 5
-    },
-    {
-      "word": "cylvāka",
-      "count": 5
-    },
-    {
-      "word": "pīteikami",
-      "count": 5
-    },
-    {
-      "word": "turisms",
-      "count": 5
-    },
-    {
-      "word": "pussolys",
-      "count": 5
-    },
-    {
-      "word": "upei",
-      "count": 5
-    },
-    {
-      "word": "izpratne",
-      "count": 5
-    },
-    {
-      "word": "uzlobuot",
-      "count": 5
-    },
-    {
-      "word": "materejis",
-      "count": 5
-    },
-    {
-      "word": "divom",
-      "count": 5
-    },
-    {
-      "word": "sajiutu",
-      "count": 5
-    },
-    {
-      "word": "atškireiga",
-      "count": 5
-    },
-    {
-      "word": "struoduot",
-      "count": 5
-    },
-    {
-      "word": "nūzeimej",
-      "count": 5
-    },
-    {
-      "word": "naatkareigi",
-      "count": 5
-    },
-    {
-      "word": "vaicuojumus",
-      "count": 5
-    },
-    {
-      "word": "sevkurā",
-      "count": 5
-    },
-    {
-      "word": "vosorys",
-      "count": 5
-    },
-    {
-      "word": "mīga",
-      "count": 5
-    },
-    {
-      "word": "vīsneicom",
-      "count": 5
-    },
-    {
-      "word": "teritorejis",
-      "count": 5
-    },
-    {
-      "word": "tīšsaistē",
-      "count": 5
-    },
-    {
-      "word": "izdareit",
-      "count": 5
-    },
-    {
-      "word": "īlejā",
-      "count": 5
-    },
-    {
-      "word": "azaru",
-      "count": 5
-    },
-    {
-      "word": "pūsmūs",
-      "count": 5
-    },
-    {
-      "word": "pamatīdzeivuotuoju",
-      "count": 5
-    },
-    {
-      "word": "puora",
-      "count": 5
-    },
-    {
-      "word": "republika",
-      "count": 5
-    },
-    {
-      "word": "de",
-      "count": 5
-    },
-    {
-      "word": "zīmys",
-      "count": 5
-    },
-    {
-      "word": "okeanā",
-      "count": 5
-    },
-    {
-      "word": "mozuokys",
-      "count": 5
-    },
-    {
-      "word": "apleik",
-      "count": 5
-    },
-    {
-      "word": "nūtikšonys",
-      "count": 5
-    },
-    {
-      "word": "daļai",
-      "count": 5
-    },
-    {
-      "word": "lelys",
-      "count": 5
-    },
-    {
-      "word": "vīgļuok",
-      "count": 5
-    },
-    {
-      "word": "datoru",
-      "count": 5
-    },
-    {
-      "word": "running",
-      "count": 5
-    },
-    {
-      "word": "tt",
-      "count": 5
-    },
-    {
-      "word": "puorsnādz",
-      "count": 5
-    },
-    {
-      "word": "nakts",
-      "count": 5
-    },
-    {
-      "word": "lykumu",
-      "count": 5
-    },
-    {
-      "word": "tyvumā",
-      "count": 5
-    },
-    {
-      "word": "grafiti",
-      "count": 5
-    },
-    {
-      "word": "zemē",
-      "count": 5
-    },
-    {
-      "word": "cytuos",
-      "count": 5
-    },
-    {
-      "word": "infekcejis",
-      "count": 5
-    },
-    {
-      "word": "slimeiba",
-      "count": 5
-    },
-    {
-      "word": "snīgs",
-      "count": 5
-    },
-    {
-      "word": "plato",
-      "count": 5
-    },
-    {
-      "word": "atseviški",
-      "count": 5
-    },
-    {
-      "word": "vajadzeigys",
-      "count": 5
-    },
-    {
-      "word": "aviokompanejis",
-      "count": 5
-    },
-    {
-      "word": "cenys",
-      "count": 5
-    },
-    {
-      "word": "izveiduota",
-      "count": 5
-    },
-    {
-      "word": "radzams",
-      "count": 5
-    },
-    {
-      "word": "mežu",
-      "count": 5
-    },
-    {
-      "word": "olu",
-      "count": 5
-    },
-    {
-      "word": "metodis",
-      "count": 5
-    },
-    {
-      "word": "skaņu",
-      "count": 5
-    },
-    {
-      "word": "augstumā",
-      "count": 5
-    },
-    {
-      "word": "grupā",
-      "count": 5
-    },
-    {
-      "word": "preču",
-      "count": 5
-    },
-    {
-      "word": "veirīšim",
-      "count": 5
-    },
-    {
-      "word": "saisteitys",
-      "count": 5
-    },
-    {
-      "word": "kuojom",
-      "count": 5
-    },
-    {
-      "word": "daudzūs",
-      "count": 5
-    },
-    {
-      "word": "kandžaru",
-      "count": 5
-    },
-    {
-      "word": "bārna",
-      "count": 5
-    },
-    {
-      "word": "vaļdeibu",
-      "count": 5
-    },
-    {
-      "word": "gizys",
-      "count": 5
-    },
-    {
-      "word": "precis",
-      "count": 5
-    },
-    {
-      "word": "safari",
-      "count": 5
-    },
-    {
-      "word": "ceļuotuojim",
-      "count": 5
-    },
-    {
-      "word": "mienešus",
-      "count": 4
-    },
-    {
-      "word": "direktors",
-      "count": 4
-    },
-    {
-      "word": "tā",
-      "count": 4
-    },
-    {
-      "word": "mani",
-      "count": 4
-    },
-    {
-      "word": "ideja",
-      "count": 4
-    },
-    {
-      "word": "bija",
-      "count": 4
-    },
-    {
-      "word": "tu",
-      "count": 4
-    },
-    {
-      "word": "kaut",
-      "count": 4
-    },
-    {
-      "word": "tālāk",
-      "count": 4
-    },
-    {
-      "word": "jiusim",
-      "count": 4
-    },
-    {
-      "word": "latgalīšu",
-      "count": 4
-    },
-    {
-      "word": "dīvamžāļ",
-      "count": 4
+      "word": "biografeja",
+      "count": 12
     }
-  ],
-  "source": "CommonLID TSV + FLORES+ (dev+devtest)",
-  "total_tokens": 34559,
-  "unique_tokens": 13525
+  ]
 }

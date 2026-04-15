@@ -11,3 +11,18 @@ Korean is written in **Hangul** (한글), a featural alphabet invented under Kin
 ## Status
 
 Official language of both the Republic of Korea and the Democratic People's Republic of Korea; a co-official language in the Yanbian Korean Autonomous Prefecture of China. South and North Korean orthographies diverge in some spellings, vocabulary, and spacing conventions, but both use Hangul.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://ko.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+
+### Catalogued source candidates
+
+- `https://ko.wikipedia.org/` — Korean Wikipedia (cultural)
+- `https://www.korea.kr/` — Government of Korea (gov)
+- `https://www.hani.co.kr/` — The Hankyoreh (news)

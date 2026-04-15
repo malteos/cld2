@@ -16,3 +16,20 @@ Latin script with the peuvan-based *peurunvan* (unified) orthography of
 feature: the trigraph **c'h** [x], the digraph **ch** [ʃ], and pairs
 **zh** (~ / z in dialects). Other letters: **ñ** for nasalised vowels, and
 **ù / ê / â** rarely.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://br.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.francebleu.fr/breizh-izel` — France Bleu Breizh Izel — partial Breton content — _live WebFetch_
+- `https://opab.bzh/` — Ofis Publik ar Brezhoneg — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://br.wikipedia.org/` — Breton Wikipedia (cultural)
+- `https://www.francebleu.fr/breizh-izel` — France Bleu Breizh Izel — partial Breton content (news)
+- `https://opab.bzh/` — Ofis Publik ar Brezhoneg (cultural)

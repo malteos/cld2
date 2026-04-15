@@ -27,3 +27,20 @@ late 19th century on the Pedi (Bapedi) dialect; "Sepedi" and "Sesotho
 sa Leboa" are used interchangeably though the latter is the formally
 preferred umbrella term. It is closely related to but distinct from
 Southern Sotho (`sot`) and Tswana (`tsn`).
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://www.capricornfm.co.za/` — Capricorn FM (Sepedi / English) — _live WebFetch_
+- `https://www.sabc.co.za/sabc/thobela-fm/` — SABC Thobela FM — Sepedi radio — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://www.salanguages.com/sesotho/` — SA Languages — Sesotho sa Leboa resources (education)
+- `https://www.capricornfm.co.za/` — Capricorn FM (Sepedi / English) (news)
+- `https://www.sabc.co.za/sabc/thobela-fm/` — SABC Thobela FM — Sepedi radio (news)
+- `https://www.dac.gov.za/` — SA Department of Arts and Culture (gov)

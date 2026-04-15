@@ -20,3 +20,22 @@ retain French-style spelling (hybrid orthography).
 Derives from 17th–18th-century French dialects spoken by settlers and
 contract labourers, shaped by contact with West-African languages brought
 by enslaved people and, later, English and Spanish.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://la1ere.francetvinfo.fr/guadeloupe/` — Guadeloupe La 1ère (French + Kréol Gwadloupéyen) — _live WebFetch_
+- `https://www.potomitan.info/` — Potomitan — Caribbean-creole literature / education portal — _live WebFetch_
+- `https://www.rci.fm/guadeloupe/` — Radio Caraïbes Internationale Guadeloupe — _live WebFetch_
+- `https://www.guadeloupe.fr/` — Région Guadeloupe — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://la1ere.francetvinfo.fr/guadeloupe/` — Guadeloupe La 1ère (French + Kréol Gwadloupéyen) (news)
+- `https://www.potomitan.info/` — Potomitan — Caribbean-creole literature / education portal (education)
+- `https://www.rci.fm/guadeloupe/` — Radio Caraïbes Internationale Guadeloupe (news)
+- `https://www.guadeloupe.fr/` — Région Guadeloupe (gov)

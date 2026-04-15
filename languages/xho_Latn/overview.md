@@ -26,3 +26,18 @@ Xhosa developed from the southern Nguni dialect continuum and acquired
 its extensive click inventory through long contact with Khoe and San
 peoples — giving xho more click density than Zulu. The literary
 tradition goes back to mid-19th-century mission presses.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://xh.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.jw.org/xh/` — jw.org Xhosa edition — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://xh.wikipedia.org/` — Xhosa Wikipedia (cultural)
+- `https://www.jw.org/xh/` — jw.org Xhosa edition (religious)

@@ -1,709 +1,2155 @@
 {
   "code": "sna",
   "name": "Shona",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (sn.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 177354,
+  "unique_tokens": 43082,
   "words": [
     {
-      "word": "kuti",
-      "count": 1531
-    },
-    {
-      "word": "uye",
-      "count": 1208
-    },
-    {
       "word": "kana",
-      "count": 688
-    },
-    {
-      "word": "vanhu",
-      "count": 364
-    },
-    {
-      "word": "asi",
-      "count": 304
-    },
-    {
-      "word": "jesu",
-      "count": 237
-    },
-    {
-      "word": "zvinhu",
-      "count": 231
-    },
-    {
-      "word": "iri",
-      "count": 193
-    },
-    {
-      "word": "chete",
-      "count": 188
-    },
-    {
-      "word": "ari",
-      "count": 187
-    },
-    {
-      "word": "kureva",
-      "count": 172
-    },
-    {
-      "word": "muna",
-      "count": 169
-    },
-    {
-      "word": "munhu",
-      "count": 167
-    },
-    {
-      "word": "kubva",
-      "count": 165
-    },
-    {
-      "word": "pasi",
-      "count": 153
-    },
-    {
-      "word": "pane",
-      "count": 151
-    },
-    {
-      "word": "nzvimbo",
-      "count": 151
-    },
-    {
-      "word": "izvi",
-      "count": 145
-    },
-    {
-      "word": "jehovha",
-      "count": 142
-    },
-    {
-      "word": "sei",
-      "count": 137
-    },
-    {
-      "word": "nguva",
-      "count": 129
-    },
-    {
-      "word": "kuita",
-      "count": 122
-    },
-    {
-      "word": "kune",
-      "count": 120
-    },
-    {
-      "word": "nyika",
-      "count": 118
-    },
-    {
-      "word": "mashoko",
-      "count": 116
-    },
-    {
-      "word": "saka",
-      "count": 110
-    },
-    {
-      "word": "imwe",
-      "count": 110
-    },
-    {
-      "word": "iyi",
-      "count": 108
-    },
-    {
-      "word": "yacho",
-      "count": 107
-    },
-    {
-      "word": "kunyange",
-      "count": 105
-    },
-    {
-      "word": "mamwe",
-      "count": 103
-    },
-    {
-      "word": "zviri",
-      "count": 101
-    },
-    {
-      "word": "pamusoro",
-      "count": 101
-    },
-    {
-      "word": "mambo",
-      "count": 100
-    },
-    {
-      "word": "vake",
-      "count": 99
-    },
-    {
-      "word": "vamwe",
-      "count": 98
-    },
-    {
-      "word": "ane",
-      "count": 96
-    },
-    {
-      "word": "mwari",
-      "count": 95
-    },
-    {
-      "word": "pakati",
-      "count": 93
-    },
-    {
-      "word": "mumwe",
-      "count": 92
-    },
-    {
-      "word": "nekuti",
-      "count": 90
-    },
-    {
-      "word": "kusvika",
-      "count": 89
-    },
-    {
-      "word": "vari",
-      "count": 86
-    },
-    {
-      "word": "basa",
-      "count": 86
-    },
-    {
-      "word": "ine",
-      "count": 84
-    },
-    {
-      "word": "kuva",
-      "count": 83
-    },
-    {
-      "word": "zvakanaka",
-      "count": 81
-    },
-    {
-      "word": "sezvo",
-      "count": 81
-    },
-    {
-      "word": "dzimwe",
-      "count": 81
-    },
-    {
-      "word": "pamwe",
-      "count": 80
-    },
-    {
-      "word": "makwai",
-      "count": 79
-    },
-    {
-      "word": "kristu",
-      "count": 79
-    },
-    {
-      "word": "akanga",
-      "count": 78
-    },
-    {
-      "word": "kupfuura",
-      "count": 78
-    },
-    {
-      "word": "zvikuru",
-      "count": 75
-    },
-    {
-      "word": "akati",
-      "count": 75
-    },
-    {
-      "word": "nzira",
-      "count": 74
-    },
-    {
-      "word": "zvakare",
-      "count": 74
-    },
-    {
-      "word": "panguva",
-      "count": 73
-    },
-    {
-      "word": "musi",
-      "count": 73
-    },
-    {
-      "word": "uprofita",
-      "count": 73
-    },
-    {
-      "word": "pedyo",
-      "count": 73
-    },
-    {
-      "word": "here",
-      "count": 69
-    },
-    {
-      "word": "aya",
-      "count": 69
-    },
-    {
-      "word": "chaizvo",
-      "count": 69
-    },
-    {
-      "word": "aiva",
-      "count": 68
-    },
-    {
-      "word": "nevanhu",
-      "count": 67
-    },
-    {
-      "word": "munyika",
-      "count": 66
-    },
-    {
-      "word": "iye",
-      "count": 66
-    },
-    {
-      "word": "pashure",
-      "count": 66
-    },
-    {
-      "word": "vachireva",
-      "count": 65
-    },
-    {
-      "word": "vakawanda",
-      "count": 65
-    },
-    {
-      "word": "nokuti",
-      "count": 65
-    },
-    {
-      "word": "zvino",
-      "count": 62
-    },
-    {
-      "word": "kunge",
-      "count": 62
-    },
-    {
-      "word": "iyo",
-      "count": 62
-    },
-    {
-      "word": "uyu",
-      "count": 61
-    },
-    {
-      "word": "simba",
-      "count": 60
-    },
-    {
-      "word": "mari",
-      "count": 60
-    },
-    {
-      "word": "mvura",
-      "count": 60
-    },
-    {
-      "word": "mazwi",
-      "count": 59
-    },
-    {
-      "word": "maviri",
-      "count": 59
-    },
-    {
-      "word": "wake",
-      "count": 58
-    },
-    {
-      "word": "mhuka",
-      "count": 57
-    },
-    {
-      "word": "mariya",
-      "count": 57
-    },
-    {
-      "word": "yake",
-      "count": 57
-    },
-    {
-      "word": "mune",
-      "count": 57
-    },
-    {
-      "word": "hapana",
-      "count": 56
-    },
-    {
-      "word": "rimwe",
-      "count": 56
-    },
-    {
-      "word": "riri",
-      "count": 55
-    },
-    {
-      "word": "avo",
-      "count": 55
-    },
-    {
-      "word": "anenge",
-      "count": 55
-    },
-    {
-      "word": "ichi",
-      "count": 55
-    },
-    {
-      "word": "uri",
-      "count": 54
-    },
-    {
-      "word": "vane",
-      "count": 53
-    },
-    {
-      "word": "vana",
-      "count": 53
-    },
-    {
-      "word": "nyore",
-      "count": 53
-    },
-    {
-      "word": "umambo",
-      "count": 52
-    },
-    {
-      "word": "mwanakomana",
-      "count": 52
-    },
-    {
-      "word": "kuna",
-      "count": 52
-    },
-    {
-      "word": "dziri",
-      "count": 52
-    },
-    {
-      "word": "pano",
-      "count": 52
-    },
-    {
-      "word": "ne",
-      "count": 52
-    },
-    {
-      "word": "vadzidzi",
-      "count": 51
+      "count": 3861
     },
     {
       "word": "vanoti",
-      "count": 51
+      "count": 3506
     },
     {
-      "word": "zvimwe",
-      "count": 51
+      "word": "kureva",
+      "count": 2829
     },
     {
-      "word": "mukuru",
-      "count": 51
+      "word": "kuti",
+      "count": 1712
     },
     {
-      "word": "zvisinei",
-      "count": 51
+      "word": "to",
+      "count": 1520
     },
     {
-      "word": "vakanga",
-      "count": 50
+      "word": "of",
+      "count": 1322
     },
     {
-      "word": "wa",
-      "count": 50
+      "word": "the",
+      "count": 1124
     },
     {
-      "word": "panzvimbo",
-      "count": 50
+      "word": "iri",
+      "count": 910
     },
     {
-      "word": "wacho",
-      "count": 50
+      "word": "mitauro",
+      "count": 831
     },
     {
-      "word": "chokwadi",
-      "count": 49
+      "word": "in",
+      "count": 763
     },
     {
-      "word": "zvazvo",
-      "count": 49
+      "word": "inoti",
+      "count": 733
     },
     {
-      "word": "akawanda",
-      "count": 48
+      "word": "uye",
+      "count": 732
     },
     {
-      "word": "rino",
-      "count": 48
+      "word": "mazwi",
+      "count": 680
     },
     {
-      "word": "uyo",
-      "count": 48
+      "word": "mamwe",
+      "count": 647
     },
     {
-      "word": "makore",
-      "count": 48
+      "word": "vachireva",
+      "count": 608
     },
     {
-      "word": "apo",
-      "count": 47
+      "word": "or",
+      "count": 590
     },
     {
-      "word": "rake",
-      "count": 46
-    },
-    {
-      "word": "kunze",
-      "count": 46
-    },
-    {
-      "word": "racho",
-      "count": 45
-    },
-    {
-      "word": "ndiye",
-      "count": 45
-    },
-    {
-      "word": "guru",
-      "count": 45
-    },
-    {
-      "word": "nekuda",
-      "count": 45
-    },
-    {
-      "word": "zuva",
-      "count": 45
-    },
-    {
-      "word": "kufamba",
-      "count": 45
-    },
-    {
-      "word": "zvakaita",
-      "count": 44
-    },
-    {
-      "word": "vanenge",
-      "count": 44
-    },
-    {
-      "word": "zvine",
-      "count": 44
-    },
-    {
-      "word": "kutaura",
-      "count": 44
-    },
-    {
-      "word": "zvekudya",
-      "count": 44
-    },
-    {
-      "word": "panyika",
-      "count": 44
-    },
-    {
-      "word": "chinhu",
-      "count": 44
-    },
-    {
-      "word": "mesiya",
-      "count": 43
-    },
-    {
-      "word": "ruka",
-      "count": 43
-    },
-    {
-      "word": "zvese",
-      "count": 43
-    },
-    {
-      "word": "zvakawanda",
-      "count": 43
-    },
-    {
-      "word": "munzvimbo",
-      "count": 43
-    },
-    {
-      "word": "ndiyo",
-      "count": 43
-    },
-    {
-      "word": "shoko",
-      "count": 42
-    },
-    {
-      "word": "kwake",
-      "count": 42
-    },
-    {
-      "word": "mat",
-      "count": 42
-    },
-    {
-      "word": "anogona",
-      "count": 42
-    },
-    {
-      "word": "pfungwa",
-      "count": 42
-    },
-    {
-      "word": "inonzi",
-      "count": 41
-    },
-    {
-      "word": "zita",
-      "count": 41
-    },
-    {
-      "word": "gore",
-      "count": 41
-    },
-    {
-      "word": "izvo",
-      "count": 41
-    },
-    {
-      "word": "kushandiswa",
-      "count": 40
-    },
-    {
-      "word": "mazuva",
-      "count": 40
-    },
-    {
-      "word": "chikamu",
-      "count": 40
-    },
-    {
-      "word": "zvakanyanya",
-      "count": 40
-    },
-    {
-      "word": "kwakaita",
-      "count": 40
+      "word": "yebantu",
+      "count": 577
     },
     {
       "word": "zvinoreva",
-      "count": 39
+      "count": 567
     },
     {
-      "word": "munguva",
-      "count": 39
+      "word": "rokuti",
+      "count": 542
     },
     {
-      "word": "ava",
-      "count": 39
+      "word": "munhu",
+      "count": 500
     },
     {
-      "word": "guta",
-      "count": 39
+      "word": "kubva",
+      "count": 474
     },
     {
-      "word": "kuenda",
-      "count": 39
+      "word": "shoko",
+      "count": 457
     },
     {
-      "word": "zvakadaro",
-      "count": 39
+      "word": "apa",
+      "count": 438
     },
     {
-      "word": "dzakawanda",
-      "count": 39
+      "word": "vanhu",
+      "count": 433
     },
     {
-      "word": "vaya",
-      "count": 38
+      "word": "be",
+      "count": 407
     },
     {
-      "word": "kuma",
-      "count": 38
+      "word": "kune",
+      "count": 384
     },
     {
-      "word": "kuda",
-      "count": 38
-    },
-    {
-      "word": "vakuru",
-      "count": 38
-    },
-    {
-      "word": "nyaya",
-      "count": 38
+      "word": "ari",
+      "count": 383
     },
     {
       "word": "tsika",
-      "count": 38
+      "count": 376
     },
     {
-      "word": "akataura",
-      "count": 38
+      "word": "asi",
+      "count": 367
     },
     {
-      "word": "ake",
-      "count": 37
+      "word": "is",
+      "count": 364
     },
     {
-      "word": "kwete",
-      "count": 37
+      "word": "iyi",
+      "count": 355
     },
     {
-      "word": "inenge",
-      "count": 37
+      "word": "izwi",
+      "count": 340
+    },
+    {
+      "word": "rinoreva",
+      "count": 333
+    },
+    {
+      "word": "mazulu",
+      "count": 314
+    },
+    {
+      "word": "mapisarema",
+      "count": 306
+    },
+    {
+      "word": "zita",
+      "count": 293
+    },
+    {
+      "word": "ine",
+      "count": 286
+    },
+    {
+      "word": "and",
+      "count": 283
+    },
+    {
+      "word": "mvura",
+      "count": 279
+    },
+    {
+      "word": "english",
+      "count": 279
+    },
+    {
+      "word": "pakati",
+      "count": 278
+    },
+    {
+      "word": "nyika",
+      "count": 264
+    },
+    {
+      "word": "vamwe",
+      "count": 258
+    },
+    {
+      "word": "nzvimbo",
+      "count": 258
+    },
+    {
+      "word": "kuita",
+      "count": 258
+    },
+    {
+      "word": "mutauro",
+      "count": 256
+    },
+    {
+      "word": "for",
+      "count": 254
+    },
+    {
+      "word": "pasi",
+      "count": 246
+    },
+    {
+      "word": "nguva",
+      "count": 242
+    },
+    {
+      "word": "zvichireva",
+      "count": 237
+    },
+    {
+      "word": "pane",
+      "count": 236
+    },
+    {
+      "word": "on",
+      "count": 235
+    },
+    {
+      "word": "riri",
+      "count": 229
+    },
+    {
+      "word": "ne",
+      "count": 222
+    },
+    {
+      "word": "izvi",
+      "count": 221
+    },
+    {
+      "word": "mhuka",
+      "count": 212
+    },
+    {
+      "word": "ane",
+      "count": 208
+    },
+    {
+      "word": "nokuti",
+      "count": 207
+    },
+    {
+      "word": "kusvika",
+      "count": 205
+    },
+    {
+      "word": "ye",
+      "count": 197
+    },
+    {
+      "word": "kurerutsa",
+      "count": 192
+    },
+    {
+      "word": "pamusoro",
+      "count": 192
+    },
+    {
+      "word": "kutaura",
+      "count": 190
     },
     {
       "word": "chiri",
-      "count": 37
+      "count": 184
     },
     {
-      "word": "kunyanya",
-      "count": 37
+      "word": "dziri",
+      "count": 183
     },
     {
-      "word": "kuona",
-      "count": 36
+      "word": "zviri",
+      "count": 182
+    },
+    {
+      "word": "inonzi",
+      "count": 182
+    },
+    {
+      "word": "chinhu",
+      "count": 181
+    },
+    {
+      "word": "with",
+      "count": 177
+    },
+    {
+      "word": "one",
+      "count": 175
+    },
+    {
+      "word": "zvinhu",
+      "count": 172
+    },
+    {
+      "word": "from",
+      "count": 172
+    },
+    {
+      "word": "muzimbabwe",
+      "count": 169
+    },
+    {
+      "word": "imwe",
+      "count": 167
+    },
+    {
+      "word": "vatauri",
+      "count": 163
+    },
+    {
+      "word": "as",
+      "count": 163
+    },
+    {
+      "word": "aya",
+      "count": 162
+    },
+    {
+      "word": "zimbabwe",
+      "count": 162
+    },
+    {
+      "word": "rine",
+      "count": 161
+    },
+    {
+      "word": "by",
+      "count": 159
+    },
+    {
+      "word": "mazita",
+      "count": 158
+    },
+    {
+      "word": "rimwe",
+      "count": 156
+    },
+    {
+      "word": "hushangazhi",
+      "count": 156
+    },
+    {
+      "word": "anenge",
+      "count": 152
+    },
+    {
+      "word": "kuenda",
+      "count": 149
+    },
+    {
+      "word": "it",
+      "count": 148
+    },
+    {
+      "word": "sokuti",
+      "count": 146
+    },
+    {
+      "word": "maviri",
+      "count": 146
+    },
+    {
+      "word": "na",
+      "count": 144
+    },
+    {
+      "word": "basa",
+      "count": 142
+    },
+    {
+      "word": "mwana",
+      "count": 141
+    },
+    {
+      "word": "muchidzidzo",
+      "count": 140
+    },
+    {
+      "word": "mari",
+      "count": 139
+    },
+    {
+      "word": "panguva",
+      "count": 136
+    },
+    {
+      "word": "yeafrika",
+      "count": 136
+    },
+    {
+      "word": "vari",
+      "count": 135
+    },
+    {
+      "word": "nhamba",
+      "count": 134
+    },
+    {
+      "word": "that",
+      "count": 133
+    },
+    {
+      "word": "kuenglish",
+      "count": 132
+    },
+    {
+      "word": "zuva",
+      "count": 131
+    },
+    {
+      "word": "rwizi",
+      "count": 131
+    },
+    {
+      "word": "uri",
+      "count": 130
+    },
+    {
+      "word": "ndiyo",
+      "count": 129
+    },
+    {
+      "word": "uyu",
+      "count": 127
+    },
+    {
+      "word": "tsumo",
+      "count": 126
+    },
+    {
+      "word": "an",
+      "count": 126
+    },
+    {
+      "word": "inenge",
+      "count": 126
+    },
+    {
+      "word": "mwari",
+      "count": 125
+    },
+    {
+      "word": "kuva",
+      "count": 124
+    },
+    {
+      "word": "zvakare",
+      "count": 124
+    },
+    {
+      "word": "dzimwe",
+      "count": 123
+    },
+    {
+      "word": "make",
+      "count": 122
+    },
+    {
+      "word": "chinonzi",
+      "count": 121
+    },
+    {
+      "word": "ndiro",
+      "count": 120
+    },
+    {
+      "word": "panzvimbo",
+      "count": 118
+    },
+    {
+      "word": "up",
+      "count": 117
+    },
+    {
+      "word": "mhando",
+      "count": 116
     },
     {
       "word": "dzine",
+      "count": 115
+    },
+    {
+      "word": "mashoko",
+      "count": 113
+    },
+    {
+      "word": "anonzi",
+      "count": 113
+    },
+    {
+      "word": "mabasa",
+      "count": 112
+    },
+    {
+      "word": "mugore",
+      "count": 110
+    },
+    {
+      "word": "nenzira",
+      "count": 110
+    },
+    {
+      "word": "ichi",
+      "count": 110
+    },
+    {
+      "word": "chine",
+      "count": 110
+    },
+    {
+      "word": "rinonzi",
+      "count": 109
+    },
+    {
+      "word": "nhengo",
+      "count": 109
+    },
+    {
+      "word": "chikamu",
+      "count": 109
+    },
+    {
+      "word": "makumi",
+      "count": 109
+    },
+    {
+      "word": "person",
+      "count": 107
+    },
+    {
+      "word": "pimanyika",
+      "count": 107
+    },
+    {
+      "word": "he",
+      "count": 107
+    },
+    {
+      "word": "dzidzo",
+      "count": 106
+    },
+    {
+      "word": "muviri",
+      "count": 106
+    },
+    {
+      "word": "guta",
+      "count": 106
+    },
+    {
+      "word": "zvichida",
+      "count": 106
+    },
+    {
+      "word": "not",
+      "count": 106
+    },
+    {
+      "word": "out",
+      "count": 106
+    },
+    {
+      "word": "idzi",
+      "count": 105
+    },
+    {
+      "word": "nyama",
+      "count": 105
+    },
+    {
+      "word": "inowanikwa",
+      "count": 104
+    },
+    {
+      "word": "rechindau",
+      "count": 104
+    },
+    {
+      "word": "place",
+      "count": 102
+    },
+    {
+      "word": "who",
+      "count": 102
+    },
+    {
+      "word": "water",
+      "count": 101
+    },
+    {
+      "word": "nhambwe",
+      "count": 101
+    },
+    {
+      "word": "kunzi",
+      "count": 100
+    },
+    {
+      "word": "pedyo",
+      "count": 99
+    },
+    {
+      "word": "murume",
+      "count": 98
+    },
+    {
+      "word": "munyika",
+      "count": 97
+    },
+    {
+      "word": "gumi",
+      "count": 96
+    },
+    {
+      "word": "mbiri",
+      "count": 96
+    },
+    {
+      "word": "ku",
+      "count": 95
+    },
+    {
+      "word": "apo",
+      "count": 95
+    },
+    {
+      "word": "saka",
+      "count": 95
+    },
+    {
+      "word": "chimwe",
+      "count": 95
+    },
+    {
+      "word": "we",
+      "count": 94
+    },
+    {
+      "word": "ndipo",
+      "count": 94
+    },
+    {
+      "word": "divi",
+      "count": 94
+    },
+    {
+      "word": "fundoyetsimba",
+      "count": 94
+    },
+    {
+      "word": "vadigo",
+      "count": 93
+    },
+    {
+      "word": "baila",
+      "count": 93
+    },
+    {
+      "word": "mombe",
+      "count": 93
+    },
+    {
+      "word": "baba",
+      "count": 92
+    },
+    {
+      "word": "vazigula",
+      "count": 92
+    },
+    {
+      "word": "chete",
+      "count": 92
+    },
+    {
+      "word": "vatonga",
+      "count": 92
+    },
+    {
+      "word": "has",
+      "count": 92
+    },
+    {
+      "word": "bhaibheri",
+      "count": 91
+    },
+    {
+      "word": "munzvimbo",
+      "count": 90
+    },
+    {
+      "word": "vayao",
+      "count": 90
+    },
+    {
+      "word": "pano",
+      "count": 89
+    },
+    {
+      "word": "vane",
+      "count": 89
+    },
+    {
+      "word": "kuchamhembe",
+      "count": 89
+    },
+    {
+      "word": "ose",
+      "count": 89
+    },
+    {
+      "word": "vana",
+      "count": 88
+    },
+    {
+      "word": "zhinji",
+      "count": 88
+    },
+    {
+      "word": "ra",
+      "count": 87
+    },
+    {
+      "word": "kutaurwa",
+      "count": 87
+    },
+    {
+      "word": "mune",
+      "count": 86
+    },
+    {
+      "word": "kunge",
+      "count": 86
+    },
+    {
+      "word": "mumwe",
+      "count": 86
+    },
+    {
+      "word": "at",
+      "count": 86
+    },
+    {
+      "word": "pamwe",
+      "count": 85
+    },
+    {
+      "word": "his",
+      "count": 85
+    },
+    {
+      "word": "dzose",
+      "count": 84
+    },
+    {
+      "word": "ndiwo",
+      "count": 84
+    },
+    {
+      "word": "mushure",
+      "count": 84
+    },
+    {
+      "word": "rinoshandiswa",
+      "count": 83
+    },
+    {
+      "word": "simbi",
+      "count": 83
+    },
+    {
+      "word": "fosi",
+      "count": 82
+    },
+    {
+      "word": "zvichingodaro",
+      "count": 81
+    },
+    {
+      "word": "anoti",
+      "count": 80
+    },
+    {
+      "word": "yezimbabwe",
+      "count": 80
+    },
+    {
+      "word": "re",
+      "count": 79
+    },
+    {
+      "word": "huwandu",
+      "count": 79
+    },
+    {
+      "word": "vakongo",
+      "count": 79
+    },
+    {
+      "word": "down",
+      "count": 79
+    },
+    {
+      "word": "mukuru",
+      "count": 78
+    },
+    {
+      "word": "together",
+      "count": 78
+    },
+    {
+      "word": "mhuri",
+      "count": 78
+    },
+    {
+      "word": "mukadzi",
+      "count": 77
+    },
+    {
+      "word": "izita",
+      "count": 77
+    },
+    {
+      "word": "gore",
+      "count": 77
+    },
+    {
+      "word": "chiumbwa",
+      "count": 77
+    },
+    {
+      "word": "mukati",
+      "count": 75
+    },
+    {
+      "word": "zvakanyanya",
+      "count": 75
+    },
+    {
+      "word": "muenzaniso",
+      "count": 75
+    },
+    {
+      "word": "something",
+      "count": 75
+    },
+    {
+      "word": "nevanhu",
+      "count": 74
+    },
+    {
+      "word": "muna",
+      "count": 74
+    },
+    {
+      "word": "zvine",
+      "count": 74
+    },
+    {
+      "word": "you",
+      "count": 74
+    },
+    {
+      "word": "mativi",
+      "count": 74
+    },
+    {
+      "word": "river",
+      "count": 74
+    },
+    {
+      "word": "munguva",
+      "count": 73
+    },
+    {
+      "word": "simba",
+      "count": 73
+    },
+    {
+      "word": "pa",
+      "count": 72
+    },
+    {
+      "word": "kushandiswa",
+      "count": 72
+    },
+    {
+      "word": "kinande",
+      "count": 72
+    },
+    {
+      "word": "vachewa",
+      "count": 72
+    },
+    {
+      "word": "une",
+      "count": 71
+    },
+    {
+      "word": "herero",
+      "count": 71
+    },
+    {
+      "word": "small",
+      "count": 71
+    },
+    {
+      "word": "are",
+      "count": 71
+    },
+    {
+      "word": "zvikurusei",
+      "count": 70
+    },
+    {
+      "word": "which",
+      "count": 70
+    },
+    {
+      "word": "chibage",
+      "count": 69
+    },
+    {
+      "word": "fire",
+      "count": 69
+    },
+    {
+      "word": "iyo",
+      "count": 68
+    },
+    {
+      "word": "rekuti",
+      "count": 68
+    },
+    {
+      "word": "vazhinji",
+      "count": 68
+    },
+    {
+      "word": "hukama",
+      "count": 68
+    },
+    {
+      "word": "pasirose",
+      "count": 68
+    },
+    {
+      "word": "yokuti",
+      "count": 68
+    },
+    {
+      "word": "taranyika",
+      "count": 68
+    },
+    {
+      "word": "avo",
+      "count": 67
+    },
+    {
+      "word": "pasina",
+      "count": 67
+    },
+    {
+      "word": "nzira",
+      "count": 67
+    },
+    {
+      "word": "africa",
+      "count": 66
+    },
+    {
+      "word": "yacho",
+      "count": 66
+    },
+    {
+      "word": "when",
+      "count": 66
+    },
+    {
+      "word": "kuri",
+      "count": 66
+    },
+    {
+      "word": "mweya",
+      "count": 65
+    },
+    {
+      "word": "eksodo",
+      "count": 65
+    },
+    {
+      "word": "guru",
+      "count": 65
+    },
+    {
+      "word": "pakuwanda",
+      "count": 65
+    },
+    {
+      "word": "kazhinji",
+      "count": 65
+    },
+    {
+      "word": "kurima",
+      "count": 65
+    },
+    {
+      "word": "have",
+      "count": 65
+    },
+    {
+      "word": "asina",
+      "count": 65
+    },
+    {
+      "word": "isina",
+      "count": 64
+    },
+    {
+      "word": "mbeu",
+      "count": 64
+    },
+    {
+      "word": "rinenge",
+      "count": 64
+    },
+    {
+      "word": "kufamba",
+      "count": 64
+    },
+    {
+      "word": "dzinoti",
+      "count": 64
+    },
+    {
+      "word": "rudzi",
+      "count": 63
+    },
+    {
+      "word": "zviviri",
+      "count": 63
+    },
+    {
+      "word": "mazuva",
+      "count": 63
+    },
+    {
+      "word": "chewa",
+      "count": 63
+    },
+    {
+      "word": "kimbundu",
+      "count": 63
+    },
+    {
+      "word": "family",
+      "count": 63
+    },
+    {
+      "word": "cause",
+      "count": 63
+    },
+    {
+      "word": "rinotaura",
+      "count": 63
+    },
+    {
+      "word": "kwe",
+      "count": 62
+    },
+    {
+      "word": "ava",
+      "count": 62
+    },
+    {
+      "word": "ndiye",
+      "count": 62
+    },
+    {
+      "word": "vawanga",
+      "count": 62
+    },
+    {
+      "word": "imhando",
+      "count": 62
+    },
+    {
+      "word": "kunze",
+      "count": 61
+    },
+    {
+      "word": "musi",
+      "count": 61
+    },
+    {
+      "word": "name",
+      "count": 61
+    },
+    {
+      "word": "zvimwe",
+      "count": 61
+    },
+    {
+      "word": "kudarika",
+      "count": 60
+    },
+    {
+      "word": "zigula",
+      "count": 60
+    },
+    {
+      "word": "masvomhu",
+      "count": 60
+    },
+    {
+      "word": "kumaodzanyemba",
+      "count": 60
+    },
+    {
+      "word": "zvino",
+      "count": 60
+    },
+    {
+      "word": "inoshandiswa",
+      "count": 60
+    },
+    {
+      "word": "here",
+      "count": 60
+    },
+    {
+      "word": "imbwa",
+      "count": 60
+    },
+    {
+      "word": "large",
+      "count": 60
+    },
+    {
+      "word": "somuenzaniso",
+      "count": 60
+    },
+    {
+      "word": "time",
+      "count": 60
+    },
+    {
+      "word": "matombo",
+      "count": 60
+    },
+    {
+      "word": "kuna",
+      "count": 59
+    },
+    {
+      "word": "chiitiko",
+      "count": 59
+    },
+    {
+      "word": "imhuka",
+      "count": 59
+    },
+    {
+      "word": "kudya",
+      "count": 59
+    },
+    {
+      "word": "remhuri",
+      "count": 59
+    },
+    {
+      "word": "people",
+      "count": 58
+    },
+    {
+      "word": "zvichienderana",
+      "count": 58
+    },
+    {
+      "word": "chiedza",
+      "count": 58
+    },
+    {
+      "word": "kuturikira",
+      "count": 58
+    },
+    {
+      "word": "valozi",
+      "count": 58
+    },
+    {
+      "word": "valenje",
+      "count": 58
+    },
+    {
+      "word": "moto",
+      "count": 58
+    },
+    {
+      "word": "imba",
+      "count": 58
+    },
+    {
+      "word": "zvinotaura",
+      "count": 58
+    },
+    {
+      "word": "zvinosanganisira",
+      "count": 57
+    },
+    {
+      "word": "kumabvazuva",
+      "count": 57
+    },
+    {
+      "word": "huri",
+      "count": 57
+    },
+    {
+      "word": "vagiryama",
+      "count": 57
+    },
+    {
+      "word": "go",
+      "count": 57
+    },
+    {
+      "word": "vavenda",
+      "count": 57
+    },
+    {
+      "word": "mang'anja",
+      "count": 57
+    },
+    {
+      "word": "tree",
+      "count": 57
+    },
+    {
+      "word": "white",
+      "count": 56
+    },
+    {
+      "word": "mudunhu",
+      "count": 56
+    },
+    {
+      "word": "nyoka",
+      "count": 56
+    },
+    {
+      "word": "denderedzwa",
+      "count": 56
+    },
+    {
+      "word": "huremu",
+      "count": 56
+    },
+    {
+      "word": "school",
+      "count": 56
+    },
+    {
+      "word": "kunonzi",
+      "count": 55
+    },
+    {
+      "word": "mwaka",
+      "count": 55
+    },
+    {
+      "word": "america",
+      "count": 55
+    },
+    {
+      "word": "mukokeri",
+      "count": 55
+    },
+    {
+      "word": "mana",
+      "count": 54
+    },
+    {
+      "word": "mberi",
+      "count": 54
+    },
+    {
+      "word": "do",
+      "count": 54
+    },
+    {
+      "word": "ground",
+      "count": 54
+    },
+    {
+      "word": "mwedzi",
+      "count": 53
+    },
+    {
+      "word": "no",
+      "count": 53
+    },
+    {
+      "word": "mukaka",
+      "count": 53
+    },
+    {
+      "word": "sangho",
+      "count": 53
+    },
+    {
+      "word": "being",
+      "count": 53
+    },
+    {
+      "word": "uyo",
+      "count": 52
+    },
+    {
+      "word": "nekuti",
+      "count": 52
+    },
+    {
+      "word": "vaganda",
+      "count": 52
+    },
+    {
+      "word": "become",
+      "count": 52
+    },
+    {
+      "word": "anokwanisa",
+      "count": 52
+    },
+    {
+      "word": "south",
+      "count": 51
+    },
+    {
+      "word": "sei",
+      "count": 51
+    },
+    {
+      "word": "musikana",
+      "count": 51
+    },
+    {
+      "word": "mururimi",
+      "count": 51
+    },
+    {
+      "word": "moyo",
+      "count": 51
+    },
+    {
+      "word": "kushanda",
+      "count": 51
+    },
+    {
+      "word": "hand",
+      "count": 50
+    },
+    {
+      "word": "kunyika",
+      "count": 50
+    },
+    {
+      "word": "kupinda",
+      "count": 50
+    },
+    {
+      "word": "kubika",
+      "count": 50
+    },
+    {
+      "word": "mutuvi",
+      "count": 50
+    },
+    {
+      "word": "mutsetse",
+      "count": 50
+    },
+    {
+      "word": "lenje",
+      "count": 50
+    },
+    {
+      "word": "ave",
+      "count": 49
+    },
+    {
+      "word": "ndicho",
+      "count": 49
+    },
+    {
+      "word": "kukura",
+      "count": 49
+    },
+    {
+      "word": "matatu",
+      "count": 49
+    },
+    {
+      "word": "its",
+      "count": 49
+    },
+    {
+      "word": "vanyungwe",
+      "count": 49
+    },
+    {
+      "word": "come",
+      "count": 49
+    },
+    {
+      "word": "panobva",
+      "count": 49
+    },
+    {
+      "word": "gonyo",
+      "count": 49
+    },
+    {
+      "word": "rinotaurwa",
+      "count": 49
+    },
+    {
+      "word": "kikongo",
+      "count": 49
+    },
+    {
+      "word": "mitemo",
+      "count": 48
+    },
+    {
+      "word": "wa",
+      "count": 48
+    },
+    {
+      "word": "vabemba",
+      "count": 48
+    },
+    {
+      "word": "will",
+      "count": 48
+    },
+    {
+      "word": "very",
+      "count": 48
+    },
+    {
+      "word": "amai",
+      "count": 48
+    },
+    {
+      "word": "rinobva",
+      "count": 48
+    },
+    {
+      "word": "pana",
+      "count": 48
+    },
+    {
+      "word": "hwabvu",
+      "count": 48
+    },
+    {
+      "word": "work",
+      "count": 47
+    },
+    {
+      "word": "nokuda",
+      "count": 47
+    },
+    {
+      "word": "kunoita",
+      "count": 47
+    },
+    {
+      "word": "sadza",
+      "count": 47
+    },
+    {
+      "word": "take",
+      "count": 47
+    },
+    {
+      "word": "used",
+      "count": 47
+    },
+    {
+      "word": "vafwe",
+      "count": 47
+    },
+    {
+      "word": "other",
+      "count": 47
+    },
+    {
+      "word": "adj",
+      "count": 47
+    },
+    {
+      "word": "inzvimbo",
+      "count": 47
+    },
+    {
+      "word": "head",
+      "count": 47
+    },
+    {
+      "word": "high",
+      "count": 47
+    },
+    {
+      "word": "ropa",
+      "count": 46
+    },
+    {
+      "word": "zviperengo",
+      "count": 46
+    },
+    {
+      "word": "zvehuwandu",
+      "count": 46
+    },
+    {
+      "word": "house",
+      "count": 46
+    },
+    {
+      "word": "ebantu",
+      "count": 46
+    },
+    {
+      "word": "shiri",
+      "count": 46
+    },
+    {
+      "word": "nyungwe",
+      "count": 46
+    },
+    {
+      "word": "nzvari",
+      "count": 46
+    },
+    {
+      "word": "where",
+      "count": 46
+    },
+    {
+      "word": "mafuta",
+      "count": 46
+    },
+    {
+      "word": "chezvipenyu",
+      "count": 46
+    },
+    {
+      "word": "grain",
+      "count": 46
+    },
+    {
+      "word": "vamambwe",
+      "count": 46
+    },
+    {
+      "word": "maize",
+      "count": 46
+    },
+    {
+      "word": "madzinde",
+      "count": 46
+    },
+    {
+      "word": "nhoroondo",
+      "count": 45
+    },
+    {
+      "word": "nezita",
+      "count": 45
+    },
+    {
+      "word": "off",
+      "count": 45
+    },
+    {
+      "word": "makore",
+      "count": 45
+    },
+    {
+      "word": "like",
+      "count": 45
+    },
+    {
+      "word": "nsenga",
+      "count": 45
+    },
+    {
+      "word": "swahili",
+      "count": 45
+    },
+    {
+      "word": "land",
+      "count": 45
+    },
+    {
+      "word": "pole",
+      "count": 45
+    },
+    {
+      "word": "into",
+      "count": 45
+    },
+    {
+      "word": "hondo",
+      "count": 45
+    },
+    {
+      "word": "chino",
+      "count": 44
+    },
+    {
+      "word": "akati",
+      "count": 44
+    },
+    {
+      "word": "ruvara",
+      "count": 44
+    },
+    {
+      "word": "wake",
+      "count": 44
+    },
+    {
+      "word": "body",
+      "count": 44
+    },
+    {
+      "word": "vaswahili",
+      "count": 44
+    },
+    {
+      "word": "etc",
+      "count": 44
+    },
+    {
+      "word": "kunyanya",
+      "count": 44
+    },
+    {
+      "word": "nyanga",
+      "count": 44
+    },
+    {
+      "word": "chiro",
+      "count": 44
+    },
+    {
+      "word": "side",
+      "count": 44
+    },
+    {
+      "word": "genesis",
+      "count": 43
+    },
+    {
+      "word": "futi",
+      "count": 43
+    },
+    {
+      "word": "varume",
+      "count": 43
+    },
+    {
+      "word": "vanenge",
+      "count": 43
+    },
+    {
+      "word": "zvakanaka",
+      "count": 43
+    },
+    {
+      "word": "chikafu",
+      "count": 43
+    },
+    {
+      "word": "kind",
+      "count": 43
+    },
+    {
+      "word": "nyore",
+      "count": 43
+    },
+    {
+      "word": "made",
+      "count": 43
+    },
+    {
+      "word": "child",
+      "count": 43
+    },
+    {
+      "word": "doro",
+      "count": 43
+    },
+    {
+      "word": "pari",
+      "count": 43
+    },
+    {
+      "word": "put",
+      "count": 43
+    },
+    {
+      "word": "sun",
+      "count": 43
+    },
+    {
+      "word": "field",
+      "count": 42
+    },
+    {
+      "word": "uku",
+      "count": 42
+    },
+    {
+      "word": "chimiro",
+      "count": 42
+    },
+    {
+      "word": "anosanganisira",
+      "count": 42
+    },
+    {
+      "word": "kuchirungu",
+      "count": 42
+    },
+    {
+      "word": "first",
+      "count": 42
+    },
+    {
+      "word": "ndiko",
+      "count": 42
+    },
+    {
+      "word": "barotse",
+      "count": 42
+    },
+    {
+      "word": "vagungu",
+      "count": 42
+    },
+    {
+      "word": "muafrica",
+      "count": 42
+    },
+    {
+      "word": "matanhatu",
+      "count": 42
+    },
+    {
+      "word": "object",
+      "count": 42
+    },
+    {
+      "word": "vaherero",
+      "count": 42
+    },
+    {
+      "word": "emhosva",
+      "count": 42
+    },
+    {
+      "word": "chirevo",
+      "count": 42
+    },
+    {
+      "word": "mumvura",
+      "count": 42
+    },
+    {
+      "word": "variety",
+      "count": 42
+    },
+    {
+      "word": "mudenga",
+      "count": 42
+    },
+    {
+      "word": "mukutaura",
+      "count": 42
+    },
+    {
+      "word": "wacho",
+      "count": 42
+    },
+    {
+      "word": "nokumwe",
+      "count": 42
+    },
+    {
+      "word": "over",
+      "count": 42
+    },
+    {
+      "word": "chief",
+      "count": 42
+    },
+    {
+      "word": "beer",
+      "count": 42
+    },
+    {
+      "word": "afurika",
+      "count": 41
+    },
+    {
+      "word": "chingezi",
+      "count": 41
+    },
+    {
+      "word": "chinangwa",
+      "count": 41
+    },
+    {
+      "word": "zvikuru",
+      "count": 41
+    },
+    {
+      "word": "zve",
+      "count": 41
+    },
+    {
+      "word": "kamwe",
+      "count": 41
+    },
+    {
+      "word": "vagwere",
+      "count": 41
+    },
+    {
+      "word": "marudzi",
+      "count": 41
+    },
+    {
+      "word": "what",
+      "count": 41
+    },
+    {
+      "word": "hanzvadzi",
+      "count": 41
+    },
+    {
+      "word": "huru",
+      "count": 41
+    },
+    {
+      "word": "things",
+      "count": 41
+    },
+    {
+      "word": "kwemvura",
+      "count": 41
+    },
+    {
+      "word": "shumba",
+      "count": 41
+    },
+    {
+      "word": "muromo",
+      "count": 41
+    },
+    {
+      "word": "ndima",
+      "count": 41
+    },
+    {
+      "word": "urwu",
+      "count": 41
+    },
+    {
+      "word": "km",
+      "count": 41
+    },
+    {
+      "word": "kuitwa",
+      "count": 41
+    },
+    {
+      "word": "zvinonzi",
+      "count": 40
+    },
+    {
+      "word": "boka",
+      "count": 40
+    },
+    {
+      "word": "old",
+      "count": 40
+    },
+    {
+      "word": "anoita",
+      "count": 40
+    },
+    {
+      "word": "hurefu",
+      "count": 40
+    },
+    {
+      "word": "long",
+      "count": 40
+    },
+    {
+      "word": "matare",
+      "count": 40
+    },
+    {
+      "word": "pahuwandu",
+      "count": 40
+    },
+    {
+      "word": "kwezimbabwe",
+      "count": 40
+    },
+    {
+      "word": "chero",
+      "count": 40
+    },
+    {
+      "word": "nharaunda",
+      "count": 40
+    },
+    {
+      "word": "flat",
+      "count": 40
+    },
+    {
+      "word": "park",
+      "count": 40
+    },
+    {
+      "word": "chishona",
+      "count": 39
+    },
+    {
+      "word": "panyika",
+      "count": 39
+    },
+    {
+      "word": "iye",
+      "count": 39
+    },
+    {
+      "word": "kumadokero",
+      "count": 39
+    },
+    {
+      "word": "zambezi",
+      "count": 39
+    },
+    {
+      "word": "ya",
+      "count": 39
+    },
+    {
+      "word": "ganda",
+      "count": 39
+    },
+    {
+      "word": "maconde",
+      "count": 39
+    },
+    {
+      "word": "yakawanda",
+      "count": 39
+    },
+    {
+      "word": "ideophone",
+      "count": 39
+    },
+    {
+      "word": "vake",
+      "count": 39
+    },
+    {
+      "word": "diki",
+      "count": 39
+    },
+    {
+      "word": "nzungu",
+      "count": 39
+    },
+    {
+      "word": "after",
+      "count": 39
+    },
+    {
+      "word": "maita",
+      "count": 39
+    },
+    {
+      "word": "was",
+      "count": 39
+    },
+    {
+      "word": "meat",
+      "count": 39
+    },
+    {
+      "word": "yenyika",
+      "count": 38
+    },
+    {
+      "word": "kare",
+      "count": 38
+    },
+    {
+      "word": "unonzi",
+      "count": 38
+    },
+    {
+      "word": "mubhaibheri",
+      "count": 38
+    },
+    {
+      "word": "fananidzai",
+      "count": 38
+    },
+    {
+      "word": "nzizi",
+      "count": 38
+    },
+    {
+      "word": "kubuda",
+      "count": 38
+    },
+    {
+      "word": "wako",
+      "count": 38
+    },
+    {
+      "word": "two",
+      "count": 38
+    },
+    {
+      "word": "pamusha",
+      "count": 38
+    },
+    {
+      "word": "iwe",
+      "count": 38
+    },
+    {
+      "word": "nezvimwewo",
+      "count": 38
+    },
+    {
+      "word": "sezita",
+      "count": 38
+    },
+    {
+      "word": "dzakasiyana",
+      "count": 38
+    },
+    {
+      "word": "rock",
+      "count": 38
+    },
+    {
+      "word": "hair",
+      "count": 38
+    },
+    {
+      "word": "sorghum",
+      "count": 38
+    },
+    {
+      "word": "mutemo",
+      "count": 37
+    },
+    {
+      "word": "nemvura",
+      "count": 37
+    },
+    {
+      "word": "inokwanisa",
+      "count": 37
+    },
+    {
+      "word": "part",
+      "count": 37
+    },
+    {
+      "word": "dombo",
+      "count": 37
+    },
+    {
+      "word": "shona",
+      "count": 37
+    },
+    {
+      "word": "musha",
+      "count": 37
+    },
+    {
+      "word": "sangano",
+      "count": 37
+    },
+    {
+      "word": "another",
+      "count": 37
+    },
+    {
+      "word": "chibantu",
+      "count": 37
+    },
+    {
+      "word": "earth",
+      "count": 37
+    },
+    {
+      "word": "light",
+      "count": 37
+    },
+    {
+      "word": "this",
       "count": 36
     },
     {
-      "word": "hwake",
+      "word": "zvose",
+      "count": 36
+    },
+    {
+      "word": "kwete",
+      "count": 36
+    },
+    {
+      "word": "makuru",
+      "count": 36
+    },
+    {
+      "word": "dunhu",
+      "count": 36
+    },
+    {
+      "word": "kududza",
+      "count": 36
+    },
+    {
+      "word": "through",
       "count": 36
     },
     {
@@ -711,75 +2157,191 @@
       "count": 36
     },
     {
-      "word": "pasina",
+      "word": "muhushangazhi",
       "count": 36
     },
     {
-      "word": "kazhinji",
+      "word": "chepimanyika",
       "count": 36
     },
     {
-      "word": "mushure",
+      "word": "kwenguva",
       "count": 36
     },
     {
-      "word": "kutonga",
+      "word": "hujoto",
+      "count": 36
+    },
+    {
+      "word": "there",
+      "count": 36
+    },
+    {
+      "word": "gold",
+      "count": 36
+    },
+    {
+      "word": "kamba",
+      "count": 36
+    },
+    {
+      "word": "plant",
       "count": 35
     },
     {
-      "word": "ese",
+      "word": "ino",
       "count": 35
     },
     {
-      "word": "ezekieri",
+      "word": "pakuti",
       "count": 35
     },
     {
-      "word": "mabasa",
+      "word": "food",
       "count": 35
     },
     {
-      "word": "anonzi",
+      "word": "mu",
       "count": 35
     },
     {
-      "word": "chimwe",
+      "word": "vamaconde",
       "count": 35
     },
     {
-      "word": "chero",
+      "word": "tambo",
       "count": 35
     },
     {
-      "word": "ndizvo",
-      "count": 34
+      "word": "rinova",
+      "count": 35
     },
     {
-      "word": "vaiva",
-      "count": 34
+      "word": "zvakasiyana",
+      "count": 35
     },
     {
-      "word": "mugore",
-      "count": 34
+      "word": "dzinosanganisira",
+      "count": 35
     },
     {
-      "word": "unogona",
-      "count": 33
+      "word": "mutupo",
+      "count": 35
     },
     {
-      "word": "yavo",
-      "count": 33
+      "word": "national",
+      "count": 35
+    },
+    {
+      "word": "musoro",
+      "count": 35
+    },
+    {
+      "word": "luganda",
+      "count": 35
+    },
+    {
+      "word": "point",
+      "count": 35
+    },
+    {
+      "word": "kuenzana",
+      "count": 35
+    },
+    {
+      "word": "your",
+      "count": 35
+    },
+    {
+      "word": "hwevanhu",
+      "count": 35
     },
     {
       "word": "akaita",
+      "count": 34
+    },
+    {
+      "word": "zvirevo",
+      "count": 34
+    },
+    {
+      "word": "jesu",
+      "count": 34
+    },
+    {
+      "word": "ishoko",
+      "count": 34
+    },
+    {
+      "word": "inhengo",
+      "count": 34
+    },
+    {
+      "word": "source",
+      "count": 34
+    },
+    {
+      "word": "hove",
+      "count": 34
+    },
+    {
+      "word": "north",
+      "count": 34
+    },
+    {
+      "word": "vaviri",
+      "count": 34
+    },
+    {
+      "word": "pumpkin",
+      "count": 34
+    },
+    {
+      "word": "fish",
+      "count": 34
+    },
+    {
+      "word": "chirwere",
+      "count": 34
+    },
+    {
+      "word": "zvichibva",
+      "count": 34
+    },
+    {
+      "word": "rufu",
+      "count": 34
+    },
+    {
+      "word": "dry",
+      "count": 34
+    },
+    {
+      "word": "ishe",
+      "count": 34
+    },
+    {
+      "word": "yemusango",
+      "count": 34
+    },
+    {
+      "word": "kwevanhu",
       "count": 33
     },
     {
-      "word": "vese",
+      "word": "munyu",
       "count": 33
     },
     {
-      "word": "marudzi",
+      "word": "wemunhu",
+      "count": 33
+    },
+    {
+      "word": "zvinoita",
+      "count": 33
+    },
+    {
+      "word": "same",
       "count": 33
     },
     {
@@ -787,499 +2349,1347 @@
       "count": 33
     },
     {
-      "word": "vajudha",
+      "word": "many",
       "count": 33
     },
     {
-      "word": "kuitira",
+      "word": "mwene",
       "count": 33
     },
     {
-      "word": "rese",
+      "word": "kubata",
       "count": 33
     },
     {
-      "word": "nevamwe",
-      "count": 32
+      "word": "nyanja",
+      "count": 33
     },
     {
-      "word": "nenzira",
-      "count": 32
+      "word": "pamupanda",
+      "count": 33
     },
     {
-      "word": "mutemo",
-      "count": 32
-    },
-    {
-      "word": "mutauro",
-      "count": 32
-    },
-    {
-      "word": "kare",
-      "count": 32
-    },
-    {
-      "word": "kunogona",
-      "count": 32
-    },
-    {
-      "word": "nhasi",
-      "count": 31
-    },
-    {
-      "word": "kwavari",
-      "count": 31
-    },
-    {
-      "word": "nei",
-      "count": 31
-    },
-    {
-      "word": "isina",
-      "count": 31
-    },
-    {
-      "word": "namwari",
-      "count": 31
-    },
-    {
-      "word": "asina",
-      "count": 31
-    },
-    {
-      "word": "zvinoita",
-      "count": 31
-    },
-    {
-      "word": "dzese",
-      "count": 31
-    },
-    {
-      "word": "chinjirudza",
-      "count": 30
-    },
-    {
-      "word": "navo",
-      "count": 30
-    },
-    {
-      "word": "zvak",
-      "count": 30
-    },
-    {
-      "word": "kusvikira",
-      "count": 30
-    },
-    {
-      "word": "haana",
-      "count": 30
-    },
-    {
-      "word": "zvisina",
-      "count": 30
-    },
-    {
-      "word": "mutambo",
-      "count": 30
-    },
-    {
-      "word": "ndege",
-      "count": 30
-    },
-    {
-      "word": "chinonzi",
-      "count": 29
-    },
-    {
-      "word": "zanhi",
-      "count": 29
-    },
-    {
-      "word": "inogona",
-      "count": 29
-    },
-    {
-      "word": "zvose",
-      "count": 29
-    },
-    {
-      "word": "pachigaro",
-      "count": 29
-    },
-    {
-      "word": "vanogona",
-      "count": 29
-    },
-    {
-      "word": "mateu",
-      "count": 29
-    },
-    {
-      "word": "refu",
-      "count": 29
-    },
-    {
-      "word": "yako",
-      "count": 29
-    },
-    {
-      "word": "zvekuti",
-      "count": 29
-    },
-    {
-      "word": "ra",
-      "count": 29
-    },
-    {
-      "word": "rakapedzisira",
-      "count": 28
-    },
-    {
-      "word": "kuchinjirudzwa",
-      "count": 28
-    },
-    {
-      "word": "inoti",
-      "count": 28
-    },
-    {
-      "word": "pfuma",
-      "count": 28
-    },
-    {
-      "word": "kuitwa",
-      "count": 28
-    },
-    {
-      "word": "vose",
-      "count": 28
-    },
-    {
-      "word": "matatu",
-      "count": 28
-    },
-    {
-      "word": "dhavhidhi",
-      "count": 28
-    },
-    {
-      "word": "mufudzi",
-      "count": 28
-    },
-    {
-      "word": "rekuti",
-      "count": 28
-    },
-    {
-      "word": "wavo",
-      "count": 28
-    },
-    {
-      "word": "kunzwisisa",
-      "count": 28
-    },
-    {
-      "word": "aine",
-      "count": 28
-    },
-    {
-      "word": "kunyangwe",
-      "count": 28
-    },
-    {
-      "word": "kunyika",
-      "count": 28
-    },
-    {
-      "word": "maitiro",
-      "count": 28
-    },
-    {
-      "word": "kutora",
-      "count": 28
-    },
-    {
-      "word": "hwacho",
-      "count": 27
-    },
-    {
-      "word": "vasina",
-      "count": 27
-    },
-    {
-      "word": "anoita",
-      "count": 27
-    },
-    {
-      "word": "kudenga",
-      "count": 27
-    },
-    {
-      "word": "vajesu",
-      "count": 27
-    },
-    {
-      "word": "nokuda",
-      "count": 27
-    },
-    {
-      "word": "kupa",
-      "count": 27
-    },
-    {
-      "word": "wese",
-      "count": 27
-    },
-    {
-      "word": "chekuita",
-      "count": 27
-    },
-    {
-      "word": "makiromita",
-      "count": 27
-    },
-    {
-      "word": "kuwana",
-      "count": 27
-    },
-    {
-      "word": "tinofanira",
-      "count": 27
-    },
-    {
-      "word": "mhuri",
-      "count": 26
-    },
-    {
-      "word": "najehovha",
-      "count": 26
-    },
-    {
-      "word": "mumakore",
-      "count": 26
-    },
-    {
-      "word": "mbiri",
-      "count": 26
-    },
-    {
-      "word": "chii",
-      "count": 26
-    },
-    {
-      "word": "zvishoma",
-      "count": 26
-    },
-    {
-      "word": "naye",
-      "count": 26
-    },
-    {
-      "word": "ayo",
-      "count": 26
-    },
-    {
-      "word": "angu",
-      "count": 26
+      "word": "liquid",
+      "count": 33
     },
     {
       "word": "pamberi",
-      "count": 26
+      "count": 33
     },
     {
-      "word": "mberi",
-      "count": 26
+      "word": "kuona",
+      "count": 33
     },
     {
-      "word": "uku",
-      "count": 26
+      "word": "vakanga",
+      "count": 33
     },
     {
-      "word": "mhando",
-      "count": 26
+      "word": "muchero",
+      "count": 33
     },
     {
-      "word": "iyoyo",
-      "count": 26
+      "word": "him",
+      "count": 33
     },
     {
-      "word": "hondo",
-      "count": 26
+      "word": "rapiwa",
+      "count": 33
     },
     {
-      "word": "rokuti",
-      "count": 25
+      "word": "yokunge",
+      "count": 33
     },
     {
-      "word": "acho",
-      "count": 25
+      "word": "magodo",
+      "count": 33
     },
     {
-      "word": "mitauro",
-      "count": 25
+      "word": "kuumbwa",
+      "count": 33
     },
     {
-      "word": "ye",
-      "count": 25
+      "word": "chinoshandiswa",
+      "count": 33
     },
     {
-      "word": "chinangwa",
-      "count": 25
+      "word": "chemishonga",
+      "count": 33
     },
     {
-      "word": "vazhinji",
-      "count": 25
+      "word": "muti",
+      "count": 33
     },
     {
-      "word": "verenga",
-      "count": 25
-    },
-    {
-      "word": "boka",
-      "count": 25
-    },
-    {
-      "word": "yekuti",
-      "count": 25
-    },
-    {
-      "word": "murume",
-      "count": 25
-    },
-    {
-      "word": "kwenyika",
-      "count": 25
-    },
-    {
-      "word": "kutanga",
-      "count": 25
-    },
-    {
-      "word": "yaiva",
-      "count": 25
-    },
-    {
-      "word": "states",
-      "count": 25
-    },
-    {
-      "word": "nesimba",
-      "count": 24
-    },
-    {
-      "word": "kugara",
-      "count": 24
-    },
-    {
-      "word": "mutsvene",
-      "count": 24
-    },
-    {
-      "word": "chacho",
-      "count": 24
-    },
-    {
-      "word": "mhepo",
-      "count": 24
-    },
-    {
-      "word": "makumi",
-      "count": 24
-    },
-    {
-      "word": "ose",
-      "count": 24
-    },
-    {
-      "word": "namambo",
-      "count": 24
-    },
-    {
-      "word": "nekusingaperi",
-      "count": 24
-    },
-    {
-      "word": "ano",
-      "count": 24
-    },
-    {
-      "word": "isaya",
-      "count": 24
-    },
-    {
-      "word": "kuramba",
-      "count": 24
-    },
-    {
-      "word": "rine",
-      "count": 24
-    },
-    {
-      "word": "kure",
-      "count": 24
-    },
-    {
-      "word": "kunoita",
-      "count": 24
-    },
-    {
-      "word": "mwedzi",
-      "count": 24
-    },
-    {
-      "word": "ndiwo",
-      "count": 24
-    },
-    {
-      "word": "yava",
-      "count": 24
+      "word": "skin",
+      "count": 33
     },
     {
       "word": "wenyika",
-      "count": 24
+      "count": 32
     },
     {
-      "word": "itsva",
-      "count": 23
+      "word": "akawanda",
+      "count": 32
     },
     {
-      "word": "wedu",
-      "count": 23
+      "word": "enyika",
+      "count": 32
+    },
+    {
+      "word": "masikati",
+      "count": 32
+    },
+    {
+      "word": "but",
+      "count": 32
+    },
+    {
+      "word": "big",
+      "count": 32
+    },
+    {
+      "word": "mugabe",
+      "count": 32
+    },
+    {
+      "word": "dzinenge",
+      "count": 32
+    },
+    {
+      "word": "all",
+      "count": 32
+    },
+    {
+      "word": "racho",
+      "count": 32
+    },
+    {
+      "word": "hari",
+      "count": 32
+    },
+    {
+      "word": "pot",
+      "count": 32
+    },
+    {
+      "word": "dzavo",
+      "count": 32
+    },
+    {
+      "word": "kubvisa",
+      "count": 32
+    },
+    {
+      "word": "mukoma",
+      "count": 32
+    },
+    {
+      "word": "thing",
+      "count": 32
+    },
+    {
+      "word": "mazana",
+      "count": 32
+    },
+    {
+      "word": "nzou",
+      "count": 32
+    },
+    {
+      "word": "chinenge",
+      "count": 32
+    },
+    {
+      "word": "kwezuva",
+      "count": 32
+    },
+    {
+      "word": "get",
+      "count": 32
+    },
+    {
+      "word": "fruit",
+      "count": 32
+    },
+    {
+      "word": "away",
+      "count": 32
+    },
+    {
+      "word": "panosangana",
+      "count": 32
+    },
+    {
+      "word": "donje",
+      "count": 32
+    },
+    {
+      "word": "finger",
+      "count": 32
+    },
+    {
+      "word": "good",
+      "count": 31
+    },
+    {
+      "word": "vakadzi",
+      "count": 31
+    },
+    {
+      "word": "zvese",
+      "count": 31
+    },
+    {
+      "word": "peji",
+      "count": 31
+    },
+    {
+      "word": "kusiyana",
+      "count": 31
+    },
+    {
+      "word": "izvo",
+      "count": 31
+    },
+    {
+      "word": "iro",
+      "count": 31
+    },
+    {
+      "word": "michero",
+      "count": 31
+    },
+    {
+      "word": "kurudyi",
+      "count": 31
+    },
+    {
+      "word": "rwe",
+      "count": 31
+    },
+    {
+      "word": "kwazvo",
+      "count": 31
+    },
+    {
+      "word": "pfungwa",
+      "count": 31
+    },
+    {
+      "word": "piece",
+      "count": 31
+    },
+    {
+      "word": "rinokwanisa",
+      "count": 31
+    },
+    {
+      "word": "dzinowanikwa",
+      "count": 31
+    },
+    {
+      "word": "heat",
+      "count": 31
+    },
+    {
+      "word": "umbundu",
+      "count": 31
+    },
+    {
+      "word": "yake",
+      "count": 31
+    },
+    {
+      "word": "man",
+      "count": 31
+    },
+    {
+      "word": "zvipfeko",
+      "count": 31
+    },
+    {
+      "word": "akasiyana",
+      "count": 31
+    },
+    {
+      "word": "vatema",
+      "count": 31
+    },
+    {
+      "word": "iyoyo",
+      "count": 31
+    },
+    {
+      "word": "vawabo",
+      "count": 31
+    },
+    {
+      "word": "sezvizvi",
+      "count": 31
+    },
+    {
+      "word": "miti",
+      "count": 31
+    },
+    {
+      "word": "zvokuti",
+      "count": 31
+    },
+    {
+      "word": "kunzvimbo",
+      "count": 31
+    },
+    {
+      "word": "nyanza",
+      "count": 31
+    },
+    {
+      "word": "lake",
+      "count": 31
+    },
+    {
+      "word": "kwemazuva",
+      "count": 31
+    },
+    {
+      "word": "centre",
+      "count": 31
+    },
+    {
+      "word": "rinopasi",
+      "count": 31
+    },
+    {
+      "word": "muriwo",
+      "count": 31
+    },
+    {
+      "word": "grass",
+      "count": 31
+    },
+    {
+      "word": "groundnut",
+      "count": 31
+    },
+    {
+      "word": "rino",
+      "count": 30
+    },
+    {
+      "word": "ano",
+      "count": 30
+    },
+    {
+      "word": "munda",
+      "count": 30
+    },
+    {
+      "word": "right",
+      "count": 30
+    },
+    {
+      "word": "anoshandiswa",
+      "count": 30
+    },
+    {
+      "word": "zvikamu",
+      "count": 30
+    },
+    {
+      "word": "zvinoti",
+      "count": 30
+    },
+    {
+      "word": "day",
+      "count": 30
+    },
+    {
+      "word": "harare",
+      "count": 30
+    },
+    {
+      "word": "falls",
+      "count": 30
+    },
+    {
+      "word": "mboro",
+      "count": 30
+    },
+    {
+      "word": "vhudzi",
+      "count": 30
+    },
+    {
+      "word": "does",
+      "count": 30
+    },
+    {
+      "word": "gather",
+      "count": 30
+    },
+    {
+      "word": "njodzi",
+      "count": 30
+    },
+    {
+      "word": "inoita",
+      "count": 30
+    },
+    {
+      "word": "mhepo",
+      "count": 30
+    },
+    {
+      "word": "kutakura",
+      "count": 30
+    },
+    {
+      "word": "round",
+      "count": 30
+    },
+    {
+      "word": "one's",
+      "count": 30
+    },
+    {
+      "word": "they",
+      "count": 30
+    },
+    {
+      "word": "muvhu",
+      "count": 30
+    },
+    {
+      "word": "area",
+      "count": 30
+    },
+    {
+      "word": "vanyoro",
+      "count": 30
+    },
+    {
+      "word": "line",
+      "count": 30
+    },
+    {
+      "word": "millet",
+      "count": 30
+    },
+    {
+      "word": "gonga",
+      "count": 30
+    },
+    {
+      "word": "tarisai",
+      "count": 29
+    },
+    {
+      "word": "senge",
+      "count": 29
+    },
+    {
+      "word": "anowanikwa",
+      "count": 29
+    },
+    {
+      "word": "evanhu",
+      "count": 29
+    },
+    {
+      "word": "kuvaka",
+      "count": 29
+    },
+    {
+      "word": "zvinenge",
+      "count": 29
+    },
+    {
+      "word": "eruzivo",
+      "count": 29
+    },
+    {
+      "word": "nhasi",
+      "count": 29
+    },
+    {
+      "word": "rinoti",
+      "count": 29
+    },
+    {
+      "word": "father",
+      "count": 29
+    },
+    {
+      "word": "aiva",
+      "count": 29
+    },
+    {
+      "word": "kwezvinhu",
+      "count": 29
+    },
+    {
+      "word": "digo",
+      "count": 29
+    },
+    {
+      "word": "akaenzana",
+      "count": 29
+    },
+    {
+      "word": "makumbo",
+      "count": 29
+    },
+    {
+      "word": "mazhinji",
+      "count": 29
+    },
+    {
+      "word": "nayo",
+      "count": 29
+    },
+    {
+      "word": "animal",
+      "count": 29
+    },
+    {
+      "word": "eshona",
+      "count": 29
+    },
+    {
+      "word": "anopera",
+      "count": 29
+    },
+    {
+      "word": "hapana",
+      "count": 29
+    },
+    {
+      "word": "husiku",
+      "count": 29
+    },
+    {
+      "word": "anogona",
+      "count": 29
+    },
+    {
+      "word": "rake",
+      "count": 29
+    },
+    {
+      "word": "kunyora",
+      "count": 29
+    },
+    {
+      "word": "tsaona",
+      "count": 29
+    },
+    {
+      "word": "mumwaka",
+      "count": 29
+    },
+    {
+      "word": "mitsetse",
+      "count": 29
+    },
+    {
+      "word": "tsanga",
+      "count": 29
+    },
+    {
+      "word": "unoshandiswa",
+      "count": 29
+    },
+    {
+      "word": "kweafrica",
+      "count": 29
+    },
+    {
+      "word": "give",
+      "count": 29
+    },
+    {
+      "word": "gambiza",
+      "count": 29
+    },
+    {
+      "word": "pabonde",
+      "count": 28
+    },
+    {
+      "word": "ini",
+      "count": 28
+    },
+    {
+      "word": "denga",
+      "count": 28
+    },
+    {
+      "word": "chikuru",
+      "count": 28
+    },
+    {
+      "word": "mabviro",
+      "count": 28
+    },
+    {
+      "word": "icho",
+      "count": 28
+    },
+    {
+      "word": "kupiwa",
+      "count": 28
+    },
+    {
+      "word": "varungu",
+      "count": 28
+    },
+    {
+      "word": "nedzimwe",
+      "count": 28
+    },
+    {
+      "word": "emhuri",
+      "count": 28
+    },
+    {
+      "word": "wayo",
+      "count": 28
+    },
+    {
+      "word": "mazai",
+      "count": 28
+    },
+    {
+      "word": "male",
+      "count": 28
+    },
+    {
+      "word": "act",
+      "count": 28
+    },
+    {
+      "word": "mbudzi",
+      "count": 28
+    },
+    {
+      "word": "world",
+      "count": 28
+    },
+    {
+      "word": "woman",
+      "count": 28
+    },
+    {
+      "word": "village",
+      "count": 28
+    },
+    {
+      "word": "dzakawanda",
+      "count": 28
+    },
+    {
+      "word": "near",
+      "count": 28
+    },
+    {
+      "word": "sambamba",
+      "count": 28
+    },
+    {
+      "word": "chiso",
+      "count": 28
+    },
+    {
+      "word": "ivhu",
+      "count": 28
+    },
+    {
+      "word": "tinoti",
+      "count": 28
+    },
+    {
+      "word": "akiso",
+      "count": 28
+    },
+    {
+      "word": "set",
+      "count": 28
+    },
+    {
+      "word": "face",
+      "count": 28
+    },
+    {
+      "word": "vara",
+      "count": 28
+    },
+    {
+      "word": "rudzivo",
+      "count": 28
+    },
+    {
+      "word": "short",
+      "count": 28
+    },
+    {
+      "word": "kuchindau",
+      "count": 28
+    },
+    {
+      "word": "afrikaans",
+      "count": 28
+    },
+    {
+      "word": "huswa",
+      "count": 28
+    },
+    {
+      "word": "tsuro",
+      "count": 28
+    },
+    {
+      "word": "someone",
+      "count": 28
+    },
+    {
+      "word": "zvinyorwa",
+      "count": 27
+    },
+    {
+      "word": "system",
+      "count": 27
+    },
+    {
+      "word": "mai",
+      "count": 27
+    },
+    {
+      "word": "zvachose",
+      "count": 27
+    },
+    {
+      "word": "nemunhu",
+      "count": 27
+    },
+    {
+      "word": "yavo",
+      "count": 27
+    },
+    {
+      "word": "nyaya",
+      "count": 27
+    },
+    {
+      "word": "nekuda",
+      "count": 27
+    },
+    {
+      "word": "mutungamiri",
+      "count": 27
+    },
+    {
+      "word": "lozi",
+      "count": 27
+    },
+    {
+      "word": "mother",
+      "count": 27
+    },
+    {
+      "word": "mavara",
+      "count": 27
+    },
+    {
+      "word": "my",
+      "count": 27
+    },
+    {
+      "word": "hono",
+      "count": 27
+    },
+    {
+      "word": "way",
+      "count": 27
+    },
+    {
+      "word": "venda",
+      "count": 27
+    },
+    {
+      "word": "mukono",
+      "count": 27
+    },
+    {
+      "word": "ana",
+      "count": 27
+    },
+    {
+      "word": "nhumbi",
+      "count": 27
+    },
+    {
+      "word": "kunenge",
+      "count": 27
+    },
+    {
+      "word": "kwakaita",
+      "count": 27
+    },
+    {
+      "word": "kuburikidza",
+      "count": 27
+    },
+    {
+      "word": "zana",
+      "count": 27
+    },
+    {
+      "word": "kugadzira",
+      "count": 27
+    },
+    {
+      "word": "kuchishandiswa",
+      "count": 27
+    },
+    {
+      "word": "wemvura",
+      "count": 27
+    },
+    {
+      "word": "zvakakosha",
+      "count": 27
+    },
+    {
+      "word": "miviri",
+      "count": 27
+    },
+    {
+      "word": "mashizha",
+      "count": 27
+    },
+    {
+      "word": "dzakaenzana",
+      "count": 27
+    },
+    {
+      "word": "money",
+      "count": 27
+    },
+    {
+      "word": "season",
+      "count": 27
+    },
+    {
+      "word": "year",
+      "count": 27
+    },
+    {
+      "word": "richireva",
+      "count": 27
+    },
+    {
+      "word": "vanyakyusa",
+      "count": 27
+    },
+    {
+      "word": "mutumbi",
+      "count": 27
+    },
+    {
+      "word": "kupatsanura",
+      "count": 27
+    },
+    {
+      "word": "sweet",
+      "count": 27
+    },
+    {
+      "word": "huku",
+      "count": 27
+    },
+    {
+      "word": "ma",
+      "count": 26
+    },
+    {
+      "word": "ainzi",
+      "count": 26
+    },
+    {
+      "word": "zvisina",
+      "count": 26
+    },
+    {
+      "word": "ndivo",
+      "count": 26
+    },
+    {
+      "word": "yechibantu",
+      "count": 26
+    },
+    {
+      "word": "munhukadzi",
+      "count": 26
+    },
+    {
+      "word": "ruzivo",
+      "count": 26
+    },
+    {
+      "word": "hakuna",
+      "count": 26
+    },
+    {
+      "word": "chinyorwa",
+      "count": 26
+    },
+    {
+      "word": "muafurika",
+      "count": 26
+    },
+    {
+      "word": "cm",
+      "count": 26
+    },
+    {
+      "word": "kutanga",
+      "count": 26
+    },
+    {
+      "word": "snake",
+      "count": 26
+    },
+    {
+      "word": "mouth",
+      "count": 26
+    },
+    {
+      "word": "cut",
+      "count": 26
+    },
+    {
+      "word": "gomo",
+      "count": 26
+    },
+    {
+      "word": "ndizvo",
+      "count": 26
+    },
+    {
+      "word": "top",
+      "count": 26
+    },
+    {
+      "word": "mumhuri",
+      "count": 26
+    },
+    {
+      "word": "without",
+      "count": 26
+    },
+    {
+      "word": "sekuru",
+      "count": 26
+    },
+    {
+      "word": "muguta",
+      "count": 26
+    },
+    {
+      "word": "hurapi",
+      "count": 26
+    },
+    {
+      "word": "rinowanikwa",
+      "count": 26
+    },
+    {
+      "word": "west",
+      "count": 26
+    },
+    {
+      "word": "shava",
+      "count": 26
+    },
+    {
+      "word": "mumhu",
+      "count": 26
+    },
+    {
+      "word": "primary",
+      "count": 26
+    },
+    {
+      "word": "gungwa",
+      "count": 26
+    },
+    {
+      "word": "tsazaniso",
+      "count": 26
+    },
+    {
+      "word": "uso",
+      "count": 26
+    },
+    {
+      "word": "chiyero",
+      "count": 26
+    },
+    {
+      "word": "spidhi",
+      "count": 26
+    },
+    {
+      "word": "kukalanga",
+      "count": 26
+    },
+    {
+      "word": "mushonga",
+      "count": 26
+    },
+    {
+      "word": "mhuru",
+      "count": 26
+    },
+    {
+      "word": "director",
+      "count": 26
+    },
+    {
+      "word": "wavo",
+      "count": 25
+    },
+    {
+      "word": "mazuvano",
+      "count": 25
+    },
+    {
+      "word": "muzvidzidzo",
+      "count": 25
+    },
+    {
+      "word": "nezuva",
+      "count": 25
+    },
+    {
+      "word": "umwe",
+      "count": 25
+    },
+    {
+      "word": "zambia",
+      "count": 25
+    },
+    {
+      "word": "bato",
+      "count": 25
+    },
+    {
+      "word": "dze",
+      "count": 25
+    },
+    {
+      "word": "vabukusu",
+      "count": 25
+    },
+    {
+      "word": "zvirimwa",
+      "count": 25
+    },
+    {
+      "word": "anotanga",
+      "count": 25
+    },
+    {
+      "word": "pass",
+      "count": 25
+    },
+    {
+      "word": "between",
+      "count": 25
+    },
+    {
+      "word": "ndidzo",
+      "count": 25
+    },
+    {
+      "word": "kuda",
+      "count": 25
+    },
+    {
+      "word": "brother",
+      "count": 25
+    },
+    {
+      "word": "kuruboshwe",
+      "count": 25
+    },
+    {
+      "word": "vanonzi",
+      "count": 25
+    },
+    {
+      "word": "mishonga",
+      "count": 25
+    },
+    {
+      "word": "roora",
+      "count": 25
+    },
+    {
+      "word": "inotevera",
+      "count": 25
+    },
+    {
+      "word": "young",
+      "count": 25
+    },
+    {
+      "word": "vatsonga",
+      "count": 25
+    },
+    {
+      "word": "kure",
+      "count": 25
+    },
+    {
+      "word": "ruwoko",
+      "count": 25
     },
     {
       "word": "yose",
+      "count": 25
+    },
+    {
+      "word": "anotaura",
+      "count": 25
+    },
+    {
+      "word": "hama",
+      "count": 25
+    },
+    {
+      "word": "akanga",
+      "count": 25
+    },
+    {
+      "word": "ngoma",
+      "count": 25
+    },
+    {
+      "word": "country",
+      "count": 25
+    },
+    {
+      "word": "uhwu",
+      "count": 25
+    },
+    {
+      "word": "gonyonhatu",
+      "count": 25
+    },
+    {
+      "word": "skweya",
+      "count": 25
+    },
+    {
+      "word": "pamazuva",
+      "count": 25
+    },
+    {
+      "word": "rwendo",
+      "count": 25
+    },
+    {
+      "word": "kuitika",
+      "count": 25
+    },
+    {
+      "word": "kg",
+      "count": 25
+    },
+    {
+      "word": "hard",
+      "count": 25
+    },
+    {
+      "word": "rose",
+      "count": 25
+    },
+    {
+      "word": "chacho",
+      "count": 25
+    },
+    {
+      "word": "whole",
+      "count": 25
+    },
+    {
+      "word": "girl",
+      "count": 25
+    },
+    {
+      "word": "nerimwe",
+      "count": 24
+    },
+    {
+      "word": "revanhu",
+      "count": 24
+    },
+    {
+      "word": "chitendero",
+      "count": 24
+    },
+    {
+      "word": "owner",
+      "count": 24
+    },
+    {
+      "word": "vakabva",
+      "count": 24
+    },
+    {
+      "word": "kwenyika",
+      "count": 24
+    },
+    {
+      "word": "yakareba",
+      "count": 24
+    },
+    {
+      "word": "so",
+      "count": 24
+    },
+    {
+      "word": "form",
+      "count": 24
+    },
+    {
+      "word": "kuitira",
+      "count": 24
+    },
+    {
+      "word": "if",
+      "count": 24
+    },
+    {
+      "word": "bushong",
+      "count": 24
+    },
+    {
+      "word": "meal",
+      "count": 24
+    },
+    {
+      "word": "pachirungu",
+      "count": 24
+    },
+    {
+      "word": "kupa",
+      "count": 24
+    },
+    {
+      "word": "back",
+      "count": 24
+    },
+    {
+      "word": "tete",
+      "count": 24
+    },
+    {
+      "word": "forest",
+      "count": 24
+    },
+    {
+      "word": "vakikuyu",
+      "count": 24
+    },
+    {
+      "word": "tsvina",
+      "count": 24
+    },
+    {
+      "word": "mhiri",
+      "count": 24
+    },
+    {
+      "word": "hwaro",
+      "count": 24
+    },
+    {
+      "word": "stick",
+      "count": 24
+    },
+    {
+      "word": "straight",
+      "count": 24
+    },
+    {
+      "word": "yao",
+      "count": 24
+    },
+    {
+      "word": "ko",
+      "count": 24
+    },
+    {
+      "word": "journey",
+      "count": 24
+    },
+    {
+      "word": "hwe",
+      "count": 24
+    },
+    {
+      "word": "heart",
+      "count": 24
+    },
+    {
+      "word": "vataita",
+      "count": 24
+    },
+    {
+      "word": "mukana",
+      "count": 24
+    },
+    {
+      "word": "seed",
+      "count": 24
+    },
+    {
+      "word": "blood",
+      "count": 24
+    },
+    {
+      "word": "banda",
+      "count": 24
+    },
+    {
+      "word": "wikipedia",
+      "count": 24
+    },
+    {
+      "word": "uyewo",
       "count": 23
     },
     {
-      "word": "kumaodzanyemba",
+      "word": "netsika",
       "count": 23
     },
     {
-      "word": "josefa",
+      "word": "dzimba",
       "count": 23
     },
     {
-      "word": "mwana",
+      "word": "zvakazarurwa",
       "count": 23
     },
     {
-      "word": "idzi",
+      "word": "imwechete",
       "count": 23
     },
     {
-      "word": "vavo",
-      "count": 23
-    },
-    {
-      "word": "wangu",
-      "count": 23
-    },
-    {
-      "word": "mutongi",
-      "count": 23
-    },
-    {
-      "word": "varume",
+      "word": "pemvura",
       "count": 23
     },
     {
@@ -1287,2723 +3697,316 @@
       "count": 23
     },
     {
-      "word": "zvavo",
+      "word": "kwekuti",
       "count": 23
     },
     {
-      "word": "dzavo",
+      "word": "mutare",
       "count": 23
     },
     {
-      "word": "zhinji",
+      "word": "lugwere",
       "count": 23
-    },
-    {
-      "word": "ave",
-      "count": 22
-    },
-    {
-      "word": "kubvira",
-      "count": 22
-    },
-    {
-      "word": "ishe",
-      "count": 22
-    },
-    {
-      "word": "kuchamhembe",
-      "count": 22
-    },
-    {
-      "word": "ona",
-      "count": 22
-    },
-    {
-      "word": "uhwu",
-      "count": 22
-    },
-    {
-      "word": "gumi",
-      "count": 22
-    },
-    {
-      "word": "kushanda",
-      "count": 22
-    },
-    {
-      "word": "nemakore",
-      "count": 22
-    },
-    {
-      "word": "akabva",
-      "count": 22
-    },
-    {
-      "word": "anoti",
-      "count": 22
-    },
-    {
-      "word": "anofanira",
-      "count": 22
-    },
-    {
-      "word": "chikuru",
-      "count": 22
-    },
-    {
-      "word": "mamiriro",
-      "count": 22
-    },
-    {
-      "word": "hune",
-      "count": 22
-    },
-    {
-      "word": "kwavo",
-      "count": 22
-    },
-    {
-      "word": "mitambo",
-      "count": 22
-    },
-    {
-      "word": "nharaunda",
-      "count": 22
-    },
-    {
-      "word": "chine",
-      "count": 22
-    },
-    {
-      "word": "hurumende",
-      "count": 22
-    },
-    {
-      "word": "njodzi",
-      "count": 22
-    },
-    {
-      "word": "zvinenge",
-      "count": 21
-    },
-    {
-      "word": "mitemo",
-      "count": 21
-    },
-    {
-      "word": "dzose",
-      "count": 21
-    },
-    {
-      "word": "iwe",
-      "count": 21
-    },
-    {
-      "word": "ivo",
-      "count": 21
-    },
-    {
-      "word": "imba",
-      "count": 21
-    },
-    {
-      "word": "bhaibheri",
-      "count": 21
-    },
-    {
-      "word": "wose",
-      "count": 21
-    },
-    {
-      "word": "ipapo",
-      "count": 21
-    },
-    {
-      "word": "pachena",
-      "count": 21
-    },
-    {
-      "word": "baba",
-      "count": 21
-    },
-    {
-      "word": "kwakaitwa",
-      "count": 21
-    },
-    {
-      "word": "naizvozvo",
-      "count": 21
-    },
-    {
-      "word": "maererano",
-      "count": 21
-    },
-    {
-      "word": "rose",
-      "count": 21
-    },
-    {
-      "word": "ino",
-      "count": 21
-    },
-    {
-      "word": "ndiro",
-      "count": 21
-    },
-    {
-      "word": "yakakura",
-      "count": 21
-    },
-    {
-      "word": "kunzvimbo",
-      "count": 21
-    },
-    {
-      "word": "yenyika",
-      "count": 21
-    },
-    {
-      "word": "ngirozi",
-      "count": 21
-    },
-    {
-      "word": "ndiri",
-      "count": 21
-    },
-    {
-      "word": "najesu",
-      "count": 21
-    },
-    {
-      "word": "rudzi",
-      "count": 21
-    },
-    {
-      "word": "kudarika",
-      "count": 21
-    },
-    {
-      "word": "mota",
-      "count": 21
-    },
-    {
-      "word": "zvinogona",
-      "count": 21
-    },
-    {
-      "word": "vashanyi",
-      "count": 21
-    },
-    {
-      "word": "izwi",
-      "count": 20
-    },
-    {
-      "word": "hwamesiya",
-      "count": 20
-    },
-    {
-      "word": "akanaka",
-      "count": 20
-    },
-    {
-      "word": "mamiriyoni",
-      "count": 20
-    },
-    {
-      "word": "vaapostora",
-      "count": 20
-    },
-    {
-      "word": "vanakomana",
-      "count": 20
-    },
-    {
-      "word": "mazhinji",
-      "count": 20
-    },
-    {
-      "word": "uyezve",
-      "count": 20
-    },
-    {
-      "word": "yese",
-      "count": 20
-    },
-    {
-      "word": "petro",
-      "count": 20
-    },
-    {
-      "word": "pasinei",
-      "count": 20
-    },
-    {
-      "word": "kuri",
-      "count": 20
-    },
-    {
-      "word": "kwemakore",
-      "count": 20
-    },
-    {
-      "word": "muzana",
-      "count": 20
-    },
-    {
-      "word": "enyika",
-      "count": 20
-    },
-    {
-      "word": "unofanira",
-      "count": 20
-    },
-    {
-      "word": "iro",
-      "count": 20
-    },
-    {
-      "word": "mapurisa",
-      "count": 20
-    },
-    {
-      "word": "kufunga",
-      "count": 19
-    },
-    {
-      "word": "womunhu",
-      "count": 19
-    },
-    {
-      "word": "kumabvazuva",
-      "count": 19
-    },
-    {
-      "word": "akasiyana",
-      "count": 19
-    },
-    {
-      "word": "yakawanda",
-      "count": 19
-    },
-    {
-      "word": "apa",
-      "count": 19
-    },
-    {
-      "word": "zvichireva",
-      "count": 19
-    },
-    {
-      "word": "kwandiri",
-      "count": 19
-    },
-    {
-      "word": "dzacho",
-      "count": 19
-    },
-    {
-      "word": "rinonzi",
-      "count": 19
-    },
-    {
-      "word": "johani",
-      "count": 19
-    },
-    {
-      "word": "kuvanhu",
-      "count": 19
-    },
-    {
-      "word": "akatanga",
-      "count": 19
-    },
-    {
-      "word": "zvinotaurwa",
-      "count": 19
-    },
-    {
-      "word": "vanofanira",
-      "count": 19
-    },
-    {
-      "word": "kutenga",
-      "count": 19
-    },
-    {
-      "word": "zvichida",
-      "count": 19
-    },
-    {
-      "word": "rechi",
-      "count": 19
-    },
-    {
-      "word": "anoda",
-      "count": 19
-    },
-    {
-      "word": "kukwira",
-      "count": 19
-    },
-    {
-      "word": "makuru",
-      "count": 19
-    },
-    {
-      "word": "kuitika",
-      "count": 19
-    },
-    {
-      "word": "mauto",
-      "count": 19
-    },
-    {
-      "word": "ndiko",
-      "count": 19
-    },
-    {
-      "word": "kupinda",
-      "count": 19
-    },
-    {
-      "word": "ekunze",
-      "count": 19
-    },
-    {
-      "word": "ruzivo",
-      "count": 19
-    },
-    {
-      "word": "diki",
-      "count": 19
-    },
-    {
-      "word": "kwakachena",
-      "count": 18
-    },
-    {
-      "word": "evanhu",
-      "count": 18
-    },
-    {
-      "word": "ku",
-      "count": 18
-    },
-    {
-      "word": "mufananidzo",
-      "count": 18
-    },
-    {
-      "word": "nhengo",
-      "count": 18
-    },
-    {
-      "word": "mudzimu",
-      "count": 18
-    },
-    {
-      "word": "nyanzvi",
-      "count": 18
-    },
-    {
-      "word": "utongi",
-      "count": 18
-    },
-    {
-      "word": "hakuna",
-      "count": 18
-    },
-    {
-      "word": "chiedza",
-      "count": 18
-    },
-    {
-      "word": "ezvinhu",
-      "count": 18
-    },
-    {
-      "word": "mubhuku",
-      "count": 18
-    },
-    {
-      "word": "pana",
-      "count": 18
-    },
-    {
-      "word": "kutenda",
-      "count": 18
-    },
-    {
-      "word": "kushandisa",
-      "count": 18
-    },
-    {
-      "word": "of",
-      "count": 18
-    },
-    {
-      "word": "ndivo",
-      "count": 18
-    },
-    {
-      "word": "zvinonzi",
-      "count": 18
-    },
-    {
-      "word": "matambudziko",
-      "count": 18
-    },
-    {
-      "word": "kudzidza",
-      "count": 18
-    },
-    {
-      "word": "ekuma",
-      "count": 18
-    },
-    {
-      "word": "mifananidzo",
-      "count": 18
-    },
-    {
-      "word": "motokari",
-      "count": 18
-    },
-    {
-      "word": "zviviri",
-      "count": 17
-    },
-    {
-      "word": "kunamata",
-      "count": 17
-    },
-    {
-      "word": "yepamutemo",
-      "count": 17
-    },
-    {
-      "word": "yakanga",
-      "count": 17
-    },
-    {
-      "word": "nedzimwe",
-      "count": 17
-    },
-    {
-      "word": "pa",
-      "count": 17
-    },
-    {
-      "word": "hama",
-      "count": 17
-    },
-    {
-      "word": "rinoreva",
-      "count": 17
-    },
-    {
-      "word": "achiti",
-      "count": 17
-    },
-    {
-      "word": "remakore",
-      "count": 17
-    },
-    {
-      "word": "makomo",
-      "count": 17
-    },
-    {
-      "word": "kusanganisira",
-      "count": 17
-    },
-    {
-      "word": "kunyora",
-      "count": 17
-    },
-    {
-      "word": "mukati",
-      "count": 17
-    },
-    {
-      "word": "kakawanda",
-      "count": 17
-    },
-    {
-      "word": "pirato",
-      "count": 17
-    },
-    {
-      "word": "zvinosanganisira",
-      "count": 17
-    },
-    {
-      "word": "chake",
-      "count": 17
-    },
-    {
-      "word": "vave",
-      "count": 17
-    },
-    {
-      "word": "yakanaka",
-      "count": 17
-    },
-    {
-      "word": "kunzwa",
-      "count": 17
-    },
-    {
-      "word": "nezvimwe",
-      "count": 17
-    },
-    {
-      "word": "kumhanya",
-      "count": 17
-    },
-    {
-      "word": "chirwere",
-      "count": 17
-    },
-    {
-      "word": "vatungamiriri",
-      "count": 16
-    },
-    {
-      "word": "ezek",
-      "count": 16
-    },
-    {
-      "word": "zvipi",
-      "count": 16
-    },
-    {
-      "word": "nenyika",
-      "count": 16
-    },
-    {
-      "word": "pavanhu",
-      "count": 16
-    },
-    {
-      "word": "zvajehovha",
-      "count": 16
-    },
-    {
-      "word": "kodzero",
-      "count": 16
-    },
-    {
-      "word": "une",
-      "count": 16
-    },
-    {
-      "word": "dzidziso",
-      "count": 16
-    },
-    {
-      "word": "rwizi",
-      "count": 16
-    },
-    {
-      "word": "kuvimba",
-      "count": 16
-    },
-    {
-      "word": "mushumiri",
-      "count": 16
-    },
-    {
-      "word": "ekuti",
-      "count": 16
-    },
-    {
-      "word": "kusiyana",
-      "count": 16
-    },
-    {
-      "word": "upenyu",
-      "count": 16
-    },
-    {
-      "word": "neimwe",
-      "count": 16
-    },
-    {
-      "word": "akarurama",
-      "count": 16
-    },
-    {
-      "word": "asati",
-      "count": 16
-    },
-    {
-      "word": "ainge",
-      "count": 16
-    },
-    {
-      "word": "munzira",
-      "count": 16
-    },
-    {
-      "word": "nayo",
-      "count": 16
-    },
-    {
-      "word": "rakanga",
-      "count": 16
-    },
-    {
-      "word": "jerusarema",
-      "count": 16
-    },
-    {
-      "word": "kuchinja",
-      "count": 16
-    },
-    {
-      "word": "anga",
-      "count": 16
-    },
-    {
-      "word": "wamwari",
-      "count": 16
-    },
-    {
-      "word": "kugadzirwa",
-      "count": 16
-    },
-    {
-      "word": "uyewo",
-      "count": 16
-    },
-    {
-      "word": "sangano",
-      "count": 16
-    },
-    {
-      "word": "hwamwari",
-      "count": 16
-    },
-    {
-      "word": "kuratidza",
-      "count": 16
-    },
-    {
-      "word": "mamaira",
-      "count": 16
-    },
-    {
-      "word": "ngarava",
-      "count": 16
-    },
-    {
-      "word": "munharaunda",
-      "count": 16
-    },
-    {
-      "word": "yega",
-      "count": 16
-    },
-    {
-      "word": "mazita",
-      "count": 15
-    },
-    {
-      "word": "zvakadai",
-      "count": 15
-    },
-    {
-      "word": "musidhari",
-      "count": 15
-    },
-    {
-      "word": "unoyevedza",
-      "count": 15
-    },
-    {
-      "word": "samambo",
-      "count": 15
-    },
-    {
-      "word": "zvokuti",
-      "count": 15
-    },
-    {
-      "word": "emakore",
-      "count": 15
-    },
-    {
-      "word": "ramwari",
-      "count": 15
-    },
-    {
-      "word": "una",
-      "count": 15
-    },
-    {
-      "word": "huru",
-      "count": 15
-    },
-    {
-      "word": "dzake",
-      "count": 15
-    },
-    {
-      "word": "inoita",
-      "count": 15
-    },
-    {
-      "word": "husiku",
-      "count": 15
-    },
-    {
-      "word": "kwazvo",
-      "count": 15
-    },
-    {
-      "word": "vakristu",
-      "count": 15
-    },
-    {
-      "word": "vavengi",
-      "count": 15
-    },
-    {
-      "word": "zvachose",
-      "count": 15
-    },
-    {
-      "word": "kutaurwa",
-      "count": 15
-    },
-    {
-      "word": "imi",
-      "count": 15
-    },
-    {
-      "word": "rinobva",
-      "count": 15
-    },
-    {
-      "word": "muchadenga",
-      "count": 15
-    },
-    {
-      "word": "madzimambo",
-      "count": 15
-    },
-    {
-      "word": "mbudzi",
-      "count": 15
-    },
-    {
-      "word": "zvinodiwa",
-      "count": 15
-    },
-    {
-      "word": "akadaro",
-      "count": 15
-    },
-    {
-      "word": "vaifanira",
-      "count": 15
-    },
-    {
-      "word": "nezvinhu",
-      "count": 15
-    },
-    {
-      "word": "rwake",
-      "count": 15
-    },
-    {
-      "word": "vava",
-      "count": 15
-    },
-    {
-      "word": "achiri",
-      "count": 15
-    },
-    {
-      "word": "nazvo",
-      "count": 15
-    },
-    {
-      "word": "nenguva",
-      "count": 15
-    },
-    {
-      "word": "zvikamu",
-      "count": 15
-    },
-    {
-      "word": "achitaura",
-      "count": 15
-    },
-    {
-      "word": "zvake",
-      "count": 15
-    },
-    {
-      "word": "nguo",
-      "count": 15
-    },
-    {
-      "word": "zvakanga",
-      "count": 15
-    },
-    {
-      "word": "mudenga",
-      "count": 15
-    },
-    {
-      "word": "apfuura",
-      "count": 15
-    },
-    {
-      "word": "muziso",
-      "count": 15
-    },
-    {
-      "word": "kubatana",
-      "count": 15
-    },
-    {
-      "word": "kwenguva",
-      "count": 15
-    },
-    {
-      "word": "vanoda",
-      "count": 15
-    },
-    {
-      "word": "paindaneti",
-      "count": 15
-    },
-    {
-      "word": "yepamusoro",
-      "count": 15
-    },
-    {
-      "word": "nomumwe",
-      "count": 14
-    },
-    {
-      "word": "vaisraeri",
-      "count": 14
-    },
-    {
-      "word": "rudo",
-      "count": 14
-    },
-    {
-      "word": "radhavhidhi",
-      "count": 14
-    },
-    {
-      "word": "rugare",
-      "count": 14
-    },
-    {
-      "word": "iroro",
-      "count": 14
-    },
-    {
-      "word": "ini",
-      "count": 14
-    },
-    {
-      "word": "akatendeka",
-      "count": 14
-    },
-    {
-      "word": "ndicho",
-      "count": 14
-    },
-    {
-      "word": "kuzadziswa",
-      "count": 14
-    },
-    {
-      "word": "kudaro",
-      "count": 14
-    },
-    {
-      "word": "izvozvo",
-      "count": 14
-    },
-    {
-      "word": "zvichibva",
-      "count": 14
-    },
-    {
-      "word": "kuve",
-      "count": 14
-    },
-    {
-      "word": "zvinofanira",
-      "count": 14
-    },
-    {
-      "word": "kwe",
-      "count": 14
-    },
-    {
-      "word": "risina",
-      "count": 14
-    },
-    {
-      "word": "kukuru",
-      "count": 14
-    },
-    {
-      "word": "mvumo",
-      "count": 14
-    },
-    {
-      "word": "zviratidzo",
-      "count": 14
-    },
-    {
-      "word": "nemamwe",
-      "count": 14
-    },
-    {
-      "word": "rako",
-      "count": 14
-    },
-    {
-      "word": "kufanana",
-      "count": 14
-    },
-    {
-      "word": "kukosha",
-      "count": 14
-    },
-    {
-      "word": "muranda",
-      "count": 14
-    },
-    {
-      "word": "chiratidzo",
-      "count": 14
-    },
-    {
-      "word": "zviitiko",
-      "count": 14
-    },
-    {
-      "word": "iwayo",
-      "count": 14
-    },
-    {
-      "word": "kubatsira",
-      "count": 14
-    },
-    {
-      "word": "yainge",
-      "count": 14
-    },
-    {
-      "word": "pekunge",
-      "count": 14
-    },
-    {
-      "word": "vaive",
-      "count": 14
-    },
-    {
-      "word": "maonero",
-      "count": 14
-    },
-    {
-      "word": "madiki",
-      "count": 14
-    },
-    {
-      "word": "yanga",
-      "count": 14
-    },
-    {
-      "word": "kambani",
-      "count": 14
-    },
-    {
-      "word": "chekuti",
-      "count": 14
-    },
-    {
-      "word": "africa",
-      "count": 14
-    },
-    {
-      "word": "mimwe",
-      "count": 13
-    },
-    {
-      "word": "amai",
-      "count": 13
-    },
-    {
-      "word": "zvipenyu",
-      "count": 13
-    },
-    {
-      "word": "somuenzaniso",
-      "count": 13
-    },
-    {
-      "word": "chigaro",
-      "count": 13
-    },
-    {
-      "word": "vakazodzwa",
-      "count": 13
-    },
-    {
-      "word": "sungano",
-      "count": 13
-    },
-    {
-      "word": "pevanhu",
-      "count": 13
-    },
-    {
-      "word": "vamwari",
-      "count": 13
-    },
-    {
-      "word": "mutungamiriri",
-      "count": 13
-    },
-    {
-      "word": "mumvura",
-      "count": 13
-    },
-    {
-      "word": "hazvina",
-      "count": 13
-    },
-    {
-      "word": "uchida",
-      "count": 13
-    },
-    {
-      "word": "gondo",
-      "count": 13
-    },
-    {
-      "word": "akapa",
-      "count": 13
-    },
-    {
-      "word": "joh",
-      "count": 13
-    },
-    {
-      "word": "panyaya",
-      "count": 13
-    },
-    {
-      "word": "nezita",
-      "count": 13
-    },
-    {
-      "word": "pisarema",
-      "count": 13
-    },
-    {
-      "word": "nezvimwewo",
-      "count": 13
-    },
-    {
-      "word": "muviri",
-      "count": 13
-    },
-    {
-      "word": "pakutanga",
-      "count": 13
-    },
-    {
-      "word": "mafungiro",
-      "count": 13
-    },
-    {
-      "word": "vafudzi",
-      "count": 13
-    },
-    {
-      "word": "miti",
-      "count": 13
-    },
-    {
-      "word": "pari",
-      "count": 13
-    },
-    {
-      "word": "kwakaitika",
-      "count": 13
-    },
-    {
-      "word": "dzakasiyana",
-      "count": 13
-    },
-    {
-      "word": "pave",
-      "count": 13
-    },
-    {
-      "word": "rinenge",
-      "count": 13
-    },
-    {
-      "word": "dzimba",
-      "count": 13
-    },
-    {
-      "word": "zvadaro",
-      "count": 13
-    },
-    {
-      "word": "akaudza",
-      "count": 13
-    },
-    {
-      "word": "vagari",
-      "count": 13
-    },
-    {
-      "word": "kwevanhu",
-      "count": 13
-    },
-    {
-      "word": "kwezvinhu",
-      "count": 13
-    },
-    {
-      "word": "kuronga",
-      "count": 13
-    },
-    {
-      "word": "haina",
-      "count": 13
-    },
-    {
-      "word": "nekukurumidza",
-      "count": 13
-    },
-    {
-      "word": "sarudzo",
-      "count": 13
-    },
-    {
-      "word": "chikwata",
-      "count": 13
-    },
-    {
-      "word": "gwaro",
-      "count": 13
-    },
-    {
-      "word": "yaive",
-      "count": 13
-    },
-    {
-      "word": "mukana",
-      "count": 13
-    },
-    {
-      "word": "kushanyira",
-      "count": 13
-    },
-    {
-      "word": "makambani",
-      "count": 13
-    },
-    {
-      "word": "mabviro",
-      "count": 12
-    },
-    {
-      "word": "makomborero",
-      "count": 12
-    },
-    {
-      "word": "kuuya",
-      "count": 12
-    },
-    {
-      "word": "anobva",
-      "count": 12
-    },
-    {
-      "word": "nechokwadi",
-      "count": 12
-    },
-    {
-      "word": "chokuita",
-      "count": 12
-    },
-    {
-      "word": "mako",
-      "count": 12
-    },
-    {
-      "word": "nachangamire",
-      "count": 12
-    },
-    {
-      "word": "vakabva",
-      "count": 12
-    },
-    {
-      "word": "yokuti",
-      "count": 12
     },
     {
       "word": "pazuva",
-      "count": 12
-    },
-    {
-      "word": "rajesu",
-      "count": 12
-    },
-    {
-      "word": "kubata",
-      "count": 12
-    },
-    {
-      "word": "paine",
-      "count": 12
-    },
-    {
-      "word": "pachishandiswa",
-      "count": 12
-    },
-    {
-      "word": "akaipa",
-      "count": 12
-    },
-    {
-      "word": "vachida",
-      "count": 12
-    },
-    {
-      "word": "akaramba",
-      "count": 12
-    },
-    {
-      "word": "nezvajesu",
-      "count": 12
-    },
-    {
-      "word": "zedhekiya",
-      "count": 12
-    },
-    {
-      "word": "muapostora",
-      "count": 12
-    },
-    {
-      "word": "zvechokwadi",
-      "count": 12
-    },
-    {
-      "word": "namesiya",
-      "count": 12
-    },
-    {
-      "word": "raezekieri",
-      "count": 12
-    },
-    {
-      "word": "zvinoratidza",
-      "count": 12
-    },
-    {
-      "word": "kwedu",
-      "count": 12
-    },
-    {
-      "word": "ainzi",
-      "count": 12
-    },
-    {
-      "word": "ako",
-      "count": 12
-    },
-    {
-      "word": "kuzivikanwa",
-      "count": 12
-    },
-    {
-      "word": "ikoko",
-      "count": 12
-    },
-    {
-      "word": "raiva",
-      "count": 12
-    },
-    {
-      "word": "inoshandiswa",
-      "count": 12
-    },
-    {
-      "word": "nenzvimbo",
-      "count": 12
-    },
-    {
-      "word": "chiitiko",
-      "count": 12
-    },
-    {
-      "word": "muguta",
-      "count": 12
-    },
-    {
-      "word": "zvacho",
-      "count": 12
-    },
-    {
-      "word": "vachibva",
-      "count": 12
-    },
-    {
-      "word": "pfupi",
-      "count": 12
-    },
-    {
-      "word": "danda",
-      "count": 12
-    },
-    {
-      "word": "pachake",
-      "count": 12
-    },
-    {
-      "word": "vakatanga",
-      "count": 12
-    },
-    {
-      "word": "mangwanani",
-      "count": 12
-    },
-    {
-      "word": "yakareba",
-      "count": 12
-    },
-    {
-      "word": "vaviri",
-      "count": 12
-    },
-    {
-      "word": "kabanzu",
-      "count": 12
-    },
-    {
-      "word": "rega",
-      "count": 12
-    },
-    {
-      "word": "dzakasiyana-siyana",
-      "count": 12
-    },
-    {
-      "word": "ma",
-      "count": 12
-    },
-    {
-      "word": "nhamba",
-      "count": 12
-    },
-    {
-      "word": "pamutemo",
-      "count": 12
-    },
-    {
-      "word": "dutu",
-      "count": 12
-    },
-    {
-      "word": "hombe",
-      "count": 12
-    },
-    {
-      "word": "yekutanga",
-      "count": 12
-    },
-    {
-      "word": "zviuru",
-      "count": 12
-    },
-    {
-      "word": "kugadzira",
-      "count": 12
-    },
-    {
-      "word": "yerugare",
-      "count": 11
-    },
-    {
-      "word": "muparadhiso",
-      "count": 11
-    },
-    {
-      "word": "chaiyo",
-      "count": 11
-    },
-    {
-      "word": "zvakaitwa",
-      "count": 11
-    },
-    {
-      "word": "vakadzi",
-      "count": 11
-    },
-    {
-      "word": "vaite",
-      "count": 11
-    },
-    {
-      "word": "nevana",
-      "count": 11
-    },
-    {
-      "word": "anonzwa",
-      "count": 11
-    },
-    {
-      "word": "kumadokero",
-      "count": 11
-    },
-    {
-      "word": "vanun",
-      "count": 11
-    },
-    {
-      "word": "mujerusarema",
-      "count": 11
-    },
-    {
-      "word": "vasiri",
-      "count": 11
-    },
-    {
-      "word": "magwaro",
-      "count": 11
-    },
-    {
-      "word": "najosefa",
-      "count": 11
-    },
-    {
-      "word": "voumambo",
-      "count": 11
-    },
-    {
-      "word": "venyu",
-      "count": 11
-    },
-    {
-      "word": "achaita",
-      "count": 11
-    },
-    {
-      "word": "ruoko",
-      "count": 11
-    },
-    {
-      "word": "nemunhu",
-      "count": 11
-    },
-    {
-      "word": "kwakanga",
-      "count": 11
-    },
-    {
-      "word": "sekunge",
-      "count": 11
-    },
-    {
-      "word": "pakuti",
-      "count": 11
-    },
-    {
-      "word": "ungano",
-      "count": 11
-    },
-    {
-      "word": "kusiya",
-      "count": 11
-    },
-    {
-      "word": "rekutanga",
-      "count": 11
-    },
-    {
-      "word": "akaratidza",
-      "count": 11
-    },
-    {
-      "word": "yaisraeri",
-      "count": 11
-    },
-    {
-      "word": "yekare",
-      "count": 11
-    },
-    {
-      "word": "wedzinza",
-      "count": 11
-    },
-    {
-      "word": "judhasi",
-      "count": 11
-    },
-    {
-      "word": "aida",
-      "count": 11
-    },
-    {
-      "word": "manheru",
-      "count": 11
-    },
-    {
-      "word": "zvakarurama",
-      "count": 11
-    },
-    {
-      "word": "vacho",
-      "count": 11
-    },
-    {
-      "word": "rava",
-      "count": 11
-    },
-    {
-      "word": "nhungirwa",
-      "count": 11
-    },
-    {
-      "word": "zvakasiyana",
-      "count": 11
-    },
-    {
-      "word": "vakaita",
-      "count": 11
-    },
-    {
-      "word": "kukunda",
-      "count": 11
-    },
-    {
-      "word": "kwacho",
-      "count": 11
-    },
-    {
-      "word": "zvava",
-      "count": 11
-    },
-    {
-      "word": "chinenge",
-      "count": 11
-    },
-    {
-      "word": "wekutanga",
-      "count": 11
-    },
-    {
-      "word": "kupedza",
-      "count": 11
-    },
-    {
-      "word": "hazvo",
-      "count": 11
-    },
-    {
-      "word": "chekutanga",
-      "count": 11
-    },
-    {
-      "word": "zvinobva",
-      "count": 11
-    },
-    {
-      "word": "nemashoko",
-      "count": 11
-    },
-    {
-      "word": "kuburikidza",
-      "count": 11
-    },
-    {
-      "word": "che",
-      "count": 11
-    },
-    {
-      "word": "nhoroondo",
-      "count": 11
-    },
-    {
-      "word": "kwayo",
-      "count": 11
-    },
-    {
-      "word": "varwi",
-      "count": 11
-    },
-    {
-      "word": "kuwanda",
-      "count": 11
-    },
-    {
-      "word": "nani",
-      "count": 11
-    },
-    {
-      "word": "doro",
-      "count": 11
-    },
-    {
-      "word": "pemvura",
-      "count": 11
-    },
-    {
-      "word": "inozivikanwa",
-      "count": 11
-    },
-    {
-      "word": "uine",
-      "count": 11
-    },
-    {
-      "word": "kumashure",
-      "count": 11
-    },
-    {
-      "word": "paunenge",
-      "count": 11
-    },
-    {
-      "word": "yakati",
-      "count": 11
-    },
-    {
-      "word": "kuedza",
-      "count": 11
-    },
-    {
-      "word": "inzira",
-      "count": 11
-    },
-    {
-      "word": "chega",
-      "count": 11
-    },
-    {
-      "word": "zvakafanana",
-      "count": 11
-    },
-    {
-      "word": "chitendero",
-      "count": 11
-    },
-    {
-      "word": "mazana",
-      "count": 11
-    },
-    {
-      "word": "zvinyorwa",
-      "count": 11
-    },
-    {
-      "word": "temberi",
-      "count": 11
-    },
-    {
-      "word": "asiwo",
-      "count": 11
-    },
-    {
-      "word": "paawa",
-      "count": 11
-    },
-    {
-      "word": "kwakadziva",
-      "count": 11
-    },
-    {
-      "word": "zealand",
-      "count": 11
-    },
-    {
-      "word": "dzinogona",
-      "count": 11
-    },
-    {
-      "word": "iine",
-      "count": 11
-    },
-    {
-      "word": "kwese",
-      "count": 11
-    },
-    {
-      "word": "zvekare",
-      "count": 11
-    },
-    {
-      "word": "nendege",
-      "count": 11
-    },
-    {
-      "word": "musarudzo",
-      "count": 11
-    },
-    {
-      "word": "zvichienderana",
-      "count": 11
-    },
-    {
-      "word": "hunhu",
-      "count": 11
-    },
-    {
-      "word": "semuenzaniso",
-      "count": 11
-    },
-    {
-      "word": "kushanya",
-      "count": 11
-    },
-    {
-      "word": "siyana",
-      "count": 11
-    },
-    {
-      "word": "pake",
-      "count": 10
-    },
-    {
-      "word": "veisraeri",
-      "count": 10
-    },
-    {
-      "word": "dzinenge",
-      "count": 10
-    },
-    {
-      "word": "rakakura",
-      "count": 10
-    },
-    {
-      "word": "nakristu",
-      "count": 10
+      "count": 23
     },
     {
       "word": "mumba",
-      "count": 10
+      "count": 23
     },
     {
-      "word": "pavo",
-      "count": 10
+      "word": "eat",
+      "count": 23
     },
     {
-      "word": "vakati",
-      "count": 10
+      "word": "space",
+      "count": 23
     },
     {
-      "word": "pauprofita",
-      "count": 10
-    },
-    {
-      "word": "pakunamata",
-      "count": 10
-    },
-    {
-      "word": "musoro",
-      "count": 10
-    },
-    {
-      "word": "nomwoyo",
-      "count": 10
-    },
-    {
-      "word": "kwamwari",
-      "count": 10
-    },
-    {
-      "word": "okuti",
-      "count": 10
-    },
-    {
-      "word": "vak",
-      "count": 10
-    },
-    {
-      "word": "ihwohwo",
-      "count": 10
-    },
-    {
-      "word": "ive",
-      "count": 10
-    },
-    {
-      "word": "musikana",
-      "count": 10
-    },
-    {
-      "word": "kukura",
-      "count": 10
-    },
-    {
-      "word": "kudai",
-      "count": 10
-    },
-    {
-      "word": "inobva",
-      "count": 10
-    },
-    {
-      "word": "yepagomo",
-      "count": 10
-    },
-    {
-      "word": "uya",
-      "count": 10
-    },
-    {
-      "word": "tariro",
-      "count": 10
-    },
-    {
-      "word": "vakataura",
-      "count": 10
-    },
-    {
-      "word": "dambudziko",
-      "count": 10
-    },
-    {
-      "word": "pauro",
-      "count": 10
-    },
-    {
-      "word": "zano",
-      "count": 10
-    },
-    {
-      "word": "rinokosha",
-      "count": 10
-    },
-    {
-      "word": "vateveri",
-      "count": 10
-    },
-    {
-      "word": "havasi",
-      "count": 10
-    },
-    {
-      "word": "yakatanga",
-      "count": 10
-    },
-    {
-      "word": "pazvinhu",
-      "count": 10
-    },
-    {
-      "word": "zvakaitika",
-      "count": 10
-    },
-    {
-      "word": "yakaoma",
-      "count": 10
-    },
-    {
-      "word": "ruzhinji",
-      "count": 10
-    },
-    {
-      "word": "huwandu",
-      "count": 10
-    },
-    {
-      "word": "nezve",
-      "count": 10
-    },
-    {
-      "word": "achibva",
-      "count": 10
-    },
-    {
-      "word": "gare",
-      "count": 10
-    },
-    {
-      "word": "pakanga",
-      "count": 10
-    },
-    {
-      "word": "achiita",
-      "count": 10
-    },
-    {
-      "word": "kupi",
-      "count": 10
-    },
-    {
-      "word": "vanoita",
-      "count": 10
-    },
-    {
-      "word": "kudzidzisa",
-      "count": 10
-    },
-    {
-      "word": "yayo",
-      "count": 10
-    },
-    {
-      "word": "mubvunzo",
-      "count": 10
-    },
-    {
-      "word": "tiri",
-      "count": 10
-    },
-    {
-      "word": "michero",
-      "count": 10
-    },
-    {
-      "word": "cheuprofita",
-      "count": 10
-    },
-    {
-      "word": "ajehovha",
-      "count": 10
-    },
-    {
-      "word": "ndechekuti",
-      "count": 10
-    },
-    {
-      "word": "akanyora",
-      "count": 10
-    },
-    {
-      "word": "wandei",
-      "count": 10
-    },
-    {
-      "word": "kuwanikwa",
-      "count": 10
-    },
-    {
-      "word": "kunzi",
-      "count": 10
-    },
-    {
-      "word": "ndipo",
-      "count": 10
-    },
-    {
-      "word": "uchapupu",
-      "count": 10
-    },
-    {
-      "word": "rakanaka",
-      "count": 10
-    },
-    {
-      "word": "vashandi",
-      "count": 10
-    },
-    {
-      "word": "ipi",
-      "count": 10
-    },
-    {
-      "word": "vaone",
-      "count": 10
-    },
-    {
-      "word": "yendege",
-      "count": 10
-    },
-    {
-      "word": "akawana",
-      "count": 10
-    },
-    {
-      "word": "inofanira",
-      "count": 10
-    },
-    {
-      "word": "duku",
-      "count": 10
-    },
-    {
-      "word": "zvokudya",
-      "count": 10
-    },
-    {
-      "word": "kuisa",
-      "count": 10
-    },
-    {
-      "word": "inosanganisira",
-      "count": 10
-    },
-    {
-      "word": "kutsvaga",
-      "count": 10
-    },
-    {
-      "word": "unenge",
-      "count": 10
-    },
-    {
-      "word": "zvitsuwa",
-      "count": 10
-    },
-    {
-      "word": "kuongorora",
-      "count": 10
-    },
-    {
-      "word": "the",
-      "count": 10
-    },
-    {
-      "word": "yakabva",
-      "count": 10
-    },
-    {
-      "word": "moto",
-      "count": 10
-    },
-    {
-      "word": "zvibodzwa",
-      "count": 10
-    },
-    {
-      "word": "mumakwikwi",
-      "count": 10
-    },
-    {
-      "word": "mukurumbira",
-      "count": 10
-    },
-    {
-      "word": "tsaona",
-      "count": 10
-    },
-    {
-      "word": "aive",
-      "count": 10
-    },
-    {
-      "word": "yakataura",
-      "count": 10
-    },
-    {
-      "word": "world",
-      "count": 10
-    },
-    {
-      "word": "shoma",
-      "count": 10
-    },
-    {
-      "word": "kugadzirisa",
-      "count": 10
-    },
-    {
-      "word": "nekudaro",
-      "count": 10
-    },
-    {
-      "word": "ivavo",
-      "count": 9
-    },
-    {
-      "word": "vakatendeka",
-      "count": 9
-    },
-    {
-      "word": "dzemusango",
-      "count": 9
-    },
-    {
-      "word": "bhokisi",
-      "count": 9
-    },
-    {
-      "word": "mwoyo",
-      "count": 9
-    },
-    {
-      "word": "mubhaibheri",
-      "count": 9
-    },
-    {
-      "word": "muenzaniso",
-      "count": 9
-    },
-    {
-      "word": "nadzo",
-      "count": 9
-    },
-    {
-      "word": "ndichaita",
-      "count": 9
-    },
-    {
-      "word": "rurimi",
-      "count": 9
-    },
-    {
-      "word": "wako",
-      "count": 9
-    },
-    {
-      "word": "mudzimai",
-      "count": 9
-    },
-    {
-      "word": "we",
-      "count": 9
-    },
-    {
-      "word": "ushumiri",
-      "count": 9
-    },
-    {
-      "word": "tinogona",
-      "count": 9
-    },
-    {
-      "word": "kamwe",
-      "count": 9
-    },
-    {
-      "word": "zvakasimba",
-      "count": 9
-    },
-    {
-      "word": "padanda",
-      "count": 9
-    },
-    {
-      "word": "achishandisa",
-      "count": 9
-    },
-    {
-      "word": "amwari",
-      "count": 9
-    },
-    {
-      "word": "nemhuka",
-      "count": 9
-    },
-    {
-      "word": "kururama",
-      "count": 9
-    },
-    {
-      "word": "nemutemo",
-      "count": 9
-    },
-    {
-      "word": "rugwaro",
-      "count": 9
-    },
-    {
-      "word": "mapoka",
-      "count": 9
-    },
-    {
-      "word": "mativi",
-      "count": 9
-    },
-    {
-      "word": "zvapupu",
-      "count": 9
-    },
-    {
-      "word": "isa",
-      "count": 9
-    },
-    {
-      "word": "akagadzwa",
-      "count": 9
-    },
-    {
-      "word": "vanogara",
-      "count": 9
-    },
-    {
-      "word": "kupiwa",
-      "count": 9
-    },
-    {
-      "word": "bhuku",
-      "count": 9
-    },
-    {
-      "word": "nebhukadhinezari",
-      "count": 9
-    },
-    {
-      "word": "kuchengeta",
-      "count": 9
-    },
-    {
-      "word": "fananidzai",
-      "count": 9
-    },
-    {
-      "word": "muprofita",
-      "count": 9
-    },
-    {
-      "word": "miviri",
-      "count": 9
-    },
-    {
-      "word": "muchidimbu",
-      "count": 9
-    },
-    {
-      "word": "pis",
-      "count": 9
-    },
-    {
-      "word": "kurume",
-      "count": 9
-    },
-    {
-      "word": "rambai",
-      "count": 9
-    },
-    {
-      "word": "vafarisi",
-      "count": 9
-    },
-    {
-      "word": "humwe",
-      "count": 9
-    },
-    {
-      "word": "aripo",
-      "count": 9
-    },
-    {
-      "word": "huri",
-      "count": 9
-    },
-    {
-      "word": "kari",
-      "count": 9
-    },
-    {
-      "word": "dzedu",
-      "count": 9
-    },
-    {
-      "word": "ndiani",
-      "count": 9
-    },
-    {
-      "word": "mudzidzi",
-      "count": 9
-    },
-    {
-      "word": "chakanga",
-      "count": 9
-    },
-    {
-      "word": "hamuna",
-      "count": 9
-    },
-    {
-      "word": "make",
-      "count": 9
-    },
-    {
-      "word": "nevakuru",
-      "count": 9
-    },
-    {
-      "word": "vachiti",
-      "count": 9
-    },
-    {
-      "word": "kusina",
-      "count": 9
-    },
-    {
-      "word": "mumiririri",
-      "count": 9
-    },
-    {
-      "word": "aizouya",
-      "count": 9
-    },
-    {
-      "word": "chirahwe",
-      "count": 9
-    },
-    {
-      "word": "akaenda",
-      "count": 9
-    },
-    {
-      "word": "haisi",
-      "count": 9
-    },
-    {
-      "word": "hauna",
-      "count": 9
-    },
-    {
-      "word": "korona",
-      "count": 9
-    },
-    {
-      "word": "choumambo",
-      "count": 9
-    },
-    {
-      "word": "pokunge",
-      "count": 9
-    },
-    {
-      "word": "bedzi",
-      "count": 9
-    },
-    {
-      "word": "na",
-      "count": 9
-    },
-    {
-      "word": "zvinoitwa",
-      "count": 9
-    },
-    {
-      "word": "kwaari",
-      "count": 9
-    },
-    {
-      "word": "usiku",
-      "count": 9
-    },
-    {
-      "word": "namariya",
-      "count": 9
-    },
-    {
-      "word": "hove",
-      "count": 9
-    },
-    {
-      "word": "kupfurikidza",
-      "count": 9
-    },
-    {
-      "word": "se",
-      "count": 9
-    },
-    {
-      "word": "redu",
-      "count": 9
-    },
-    {
-      "word": "wekuti",
-      "count": 9
-    },
-    {
-      "word": "munenge",
-      "count": 9
-    },
-    {
-      "word": "zvivi",
-      "count": 9
-    },
-    {
-      "word": "zvako",
-      "count": 9
-    },
-    {
-      "word": "vakagara",
-      "count": 9
-    },
-    {
-      "word": "rechakunga",
-      "count": 9
-    },
-    {
-      "word": "yamwari",
-      "count": 9
-    },
-    {
-      "word": "usina",
-      "count": 9
-    },
-    {
-      "word": "anoona",
-      "count": 9
-    },
-    {
-      "word": "zvakanyorwa",
-      "count": 9
-    },
-    {
-      "word": "dzakaita",
-      "count": 9
-    },
-    {
-      "word": "dzakadai",
-      "count": 9
-    },
-    {
-      "word": "anoratidza",
-      "count": 9
-    },
-    {
-      "word": "urwu",
-      "count": 9
-    },
-    {
-      "word": "yajehovha",
-      "count": 9
-    },
-    {
-      "word": "rajehovha",
-      "count": 9
-    },
-    {
-      "word": "muupenyu",
-      "count": 9
-    },
-    {
-      "word": "wenyu",
-      "count": 9
-    },
-    {
-      "word": "nzendo",
-      "count": 9
-    },
-    {
-      "word": "zvakasiyana-siyana",
-      "count": 9
-    },
-    {
-      "word": "vasati",
-      "count": 9
-    },
-    {
-      "word": "kuine",
-      "count": 9
-    },
-    {
-      "word": "zvaiva",
-      "count": 9
-    },
-    {
-      "word": "kumba",
-      "count": 9
-    },
-    {
-      "word": "shiri",
-      "count": 9
-    },
-    {
-      "word": "masimba",
-      "count": 9
-    },
-    {
-      "word": "uwane",
-      "count": 9
-    },
-    {
-      "word": "chirongwa",
-      "count": 9
-    },
-    {
-      "word": "kumwe",
-      "count": 9
-    },
-    {
-      "word": "mafuta",
-      "count": 9
-    },
-    {
-      "word": "paiva",
-      "count": 9
-    },
-    {
-      "word": "zvinoitika",
-      "count": 9
-    },
-    {
-      "word": "kufa",
-      "count": 9
-    },
-    {
-      "word": "renyika",
-      "count": 9
-    },
-    {
-      "word": "vainge",
-      "count": 9
-    },
-    {
-      "word": "zvizhinji",
-      "count": 9
-    },
-    {
-      "word": "unokwanisa",
-      "count": 9
-    },
-    {
-      "word": "nemakumi",
-      "count": 9
-    },
-    {
-      "word": "kacho",
-      "count": 9
-    },
-    {
-      "word": "rinogona",
-      "count": 9
-    },
-    {
-      "word": "mafambiro",
-      "count": 9
-    },
-    {
-      "word": "mudare",
-      "count": 9
-    },
-    {
-      "word": "isati",
-      "count": 9
-    },
-    {
-      "word": "vanokwanisa",
-      "count": 9
-    },
-    {
-      "word": "usati",
-      "count": 9
-    },
-    {
-      "word": "mumitambo",
-      "count": 9
+      "word": "break",
+      "count": 23
     },
     {
       "word": "mashanu",
-      "count": 9
+      "count": 23
     },
     {
-      "word": "simbi",
-      "count": 9
+      "word": "tsamba",
+      "count": 23
     },
     {
-      "word": "kuchengetedza",
-      "count": 9
+      "word": "rinotodzana",
+      "count": 23
     },
     {
-      "word": "kugona",
-      "count": 9
+      "word": "black",
+      "count": 23
     },
     {
-      "word": "chikafu",
-      "count": 9
+      "word": "about",
+      "count": 23
     },
     {
-      "word": "mana",
-      "count": 9
+      "word": "kurarama",
+      "count": 23
     },
     {
-      "word": "zvinoti",
-      "count": 8
+      "word": "hupfu",
+      "count": 23
     },
     {
-      "word": "kushanduka",
-      "count": 8
+      "word": "huni",
+      "count": 23
     },
     {
-      "word": "zvichange",
-      "count": 8
+      "word": "iron",
+      "count": 23
     },
     {
-      "word": "satani",
-      "count": 8
+      "word": "inozivikanwa",
+      "count": 23
     },
     {
-      "word": "anoshandisa",
-      "count": 8
+      "word": "state",
+      "count": 23
     },
     {
-      "word": "akagadza",
-      "count": 8
+      "word": "city",
+      "count": 23
     },
     {
-      "word": "chokuti",
-      "count": 8
+      "word": "poyindi",
+      "count": 23
     },
     {
-      "word": "vanoshanda",
-      "count": 8
+      "word": "gumbo",
+      "count": 23
     },
     {
-      "word": "tarira",
-      "count": 8
+      "word": "gasi",
+      "count": 23
     },
     {
-      "word": "zvataurwa",
-      "count": 8
+      "word": "emvura",
+      "count": 23
     },
     {
-      "word": "cheumambo",
-      "count": 8
+      "word": "gonyoina",
+      "count": 23
     },
     {
-      "word": "dzinoti",
-      "count": 8
+      "word": "soil",
+      "count": 23
     },
     {
-      "word": "zvatinodzidza",
-      "count": 8
+      "word": "zvichitevedza",
+      "count": 23
     },
     {
-      "word": "akapiwa",
-      "count": 8
+      "word": "mutsendo",
+      "count": 23
     },
     {
-      "word": "zvakadini",
-      "count": 8
+      "word": "chisuvi",
+      "count": 23
     },
     {
-      "word": "pamba",
-      "count": 8
+      "word": "muganhu",
+      "count": 23
     },
     {
-      "word": "vachishandisa",
-      "count": 8
+      "word": "humaneja",
+      "count": 23
     },
     {
-      "word": "kumira",
-      "count": 8
+      "word": "hands",
+      "count": 23
+    },
+    {
+      "word": "wind",
+      "count": 23
+    },
+    {
+      "word": "clan",
+      "count": 23
+    },
+    {
+      "word": "ndau",
+      "count": 23
+    },
+    {
+      "word": "hold",
+      "count": 23
+    },
+    {
+      "word": "great",
+      "count": 23
+    },
+    {
+      "word": "iguta",
+      "count": 23
+    },
+    {
+      "word": "zvakawanda",
+      "count": 22
+    },
+    {
+      "word": "chindau",
+      "count": 22
+    },
+    {
+      "word": "vanoshandisa",
+      "count": 22
+    },
+    {
+      "word": "chinoonekwa",
+      "count": 22
+    },
+    {
+      "word": "mambo",
+      "count": 22
+    },
+    {
+      "word": "number",
+      "count": 22
+    },
+    {
+      "word": "especially",
+      "count": 22
+    },
+    {
+      "word": "mhodzi",
+      "count": 22
+    },
+    {
+      "word": "kumusoro",
+      "count": 22
+    },
+    {
+      "word": "chekuita",
+      "count": 22
+    },
+    {
+      "word": "ina",
+      "count": 22
+    },
+    {
+      "word": "flower",
+      "count": 22
+    },
+    {
+      "word": "giryama",
+      "count": 22
+    },
+    {
+      "word": "bakalanga",
+      "count": 22
+    },
+    {
+      "word": "zvizhinji",
+      "count": 22
+    },
+    {
+      "word": "rinogona",
+      "count": 22
+    },
+    {
+      "word": "inosanganisira",
+      "count": 22
+    },
+    {
+      "word": "vakawanda",
+      "count": 22
+    },
+    {
+      "word": "kuroora",
+      "count": 22
+    },
+    {
+      "word": "dzinza",
+      "count": 22
+    },
+    {
+      "word": "chingwa",
+      "count": 22
+    },
+    {
+      "word": "pamuviri",
+      "count": 22
+    },
+    {
+      "word": "pakutaura",
+      "count": 22
+    },
+    {
+      "word": "nhatu",
+      "count": 22
+    },
+    {
+      "word": "mugodhi",
+      "count": 22
+    },
+    {
+      "word": "bank",
+      "count": 22
+    },
+    {
+      "word": "sinowo",
+      "count": 22
+    },
+    {
+      "word": "kuchishona",
+      "count": 22
+    },
+    {
+      "word": "hudzamu",
+      "count": 22
+    },
+    {
+      "word": "huripo",
+      "count": 22
+    },
+    {
+      "word": "nekumwe",
+      "count": 22
+    },
+    {
+      "word": "stone",
+      "count": 22
+    },
+    {
+      "word": "age",
+      "count": 22
+    },
+    {
+      "word": "kikuyu",
+      "count": 22
+    },
+    {
+      "word": "vose",
+      "count": 22
+    },
+    {
+      "word": "muimbi",
+      "count": 22
+    },
+    {
+      "word": "left",
+      "count": 22
+    },
+    {
+      "word": "reward",
+      "count": 22
+    },
+    {
+      "word": "bird",
+      "count": 22
+    },
+    {
+      "word": "nechinangwa",
+      "count": 22
     }
-  ],
-  "source": "CommonLID TSV + FLORES+ (dev+devtest)",
-  "total_tokens": 59213,
-  "unique_tokens": 19956
+  ]
 }

@@ -27,3 +27,20 @@ broadly formal and Modern-Standard-Arabic–like in register; spontaneous
 dialectal text tends to be tagged with variety-specific codes such as `arz`,
 `ary`, `ars`, `aeb`, or `apd`. Treat `ara` as MSA-flavoured macrolabel in
 practice.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://ar.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.aljazeera.net/` — Al Jazeera Arabic — _live WebFetch_
+- `https://www.bbc.com/arabic` — BBC Arabic — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://ar.wikipedia.org/` — Arabic Wikipedia (cultural)
+- `https://www.aljazeera.net/` — Al Jazeera Arabic (news)
+- `https://www.bbc.com/arabic` — BBC Arabic (news)

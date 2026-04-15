@@ -1,4009 +1,4012 @@
 {
   "code": "fry",
   "name": "Western Frisian",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (fy.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 707835,
+  "unique_tokens": 61290,
   "words": [
     {
       "word": "de",
-      "count": 2557
+      "count": 41699
     },
     {
       "word": "fan",
-      "count": 1539
-    },
-    {
-      "word": "it",
-      "count": 1307
+      "count": 27511
     },
     {
       "word": "yn",
-      "count": 1137
+      "count": 23556
     },
     {
-      "word": "in",
-      "count": 1056
+      "word": "it",
+      "count": 22569
     },
     {
       "word": "en",
-      "count": 1033
+      "count": 20551
     },
     {
-      "word": "is",
-      "count": 507
-    },
-    {
-      "word": "dat",
-      "count": 501
-    },
-    {
-      "word": "op",
-      "count": 426
-    },
-    {
-      "word": "mei",
-      "count": 425
-    },
-    {
-      "word": "as",
-      "count": 348
-    },
-    {
-      "word": "te",
-      "count": 322
-    },
-    {
-      "word": "foar",
-      "count": 306
-    },
-    {
-      "word": "net",
-      "count": 276
-    },
-    {
-      "word": "der",
-      "count": 255
-    },
-    {
-      "word": "ek",
-      "count": 249
-    },
-    {
-      "word": "mar",
-      "count": 243
-    },
-    {
-      "word": "oan",
-      "count": 242
-    },
-    {
-      "word": "by",
-      "count": 237
-    },
-    {
-      "word": "wie",
-      "count": 226
-    },
-    {
-      "word": "syn",
-      "count": 217
-    },
-    {
-      "word": "nei",
-      "count": 214
-    },
-    {
-      "word": "dy't",
-      "count": 213
-    },
-    {
-      "word": "om",
-      "count": 211
-    },
-    {
-      "word": "dy",
-      "count": 209
-    },
-    {
-      "word": "troch",
-      "count": 209
-    },
-    {
-      "word": "binne",
-      "count": 204
-    },
-    {
-      "word": "waard",
-      "count": 202
-    },
-    {
-      "word": "ik",
-      "count": 192
-    },
-    {
-      "word": "of",
-      "count": 181
-    },
-    {
-      "word": "wurde",
-      "count": 168
-    },
-    {
-      "word": "út",
-      "count": 161
-    },
-    {
-      "word": "wurdt",
-      "count": 160
-    },
-    {
-      "word": "jo",
-      "count": 155
-    },
-    {
-      "word": "hat",
-      "count": 140
-    },
-    {
-      "word": "hy",
-      "count": 140
-    },
-    {
-      "word": "oer",
-      "count": 131
-    },
-    {
-      "word": "wol",
-      "count": 125
-    },
-    {
-      "word": "er",
-      "count": 122
-    },
-    {
-      "word": "fryske",
-      "count": 122
-    },
-    {
-      "word": "noch",
-      "count": 115
-    },
-    {
-      "word": "har",
-      "count": 111
-    },
-    {
-      "word": "dan",
-      "count": 108
-    },
-    {
-      "word": "wat",
-      "count": 108
-    },
-    {
-      "word": "ta",
-      "count": 104
-    },
-    {
-      "word": "kin",
-      "count": 101
-    },
-    {
-      "word": "dêr",
-      "count": 97
-    },
-    {
-      "word": "sa",
-      "count": 97
-    },
-    {
-      "word": "hawwe",
-      "count": 96
-    },
-    {
-      "word": "bewurkje",
-      "count": 92
-    },
-    {
-      "word": "al",
-      "count": 92
-    },
-    {
-      "word": "seksje",
-      "count": 91
-    },
-    {
-      "word": "se",
-      "count": 88
-    },
-    {
-      "word": "oare",
-      "count": 83
-    },
-    {
-      "word": "dêr't",
-      "count": 80
-    },
-    {
-      "word": "ien",
-      "count": 78
-    },
-    {
-      "word": "cest",
-      "count": 76
-    },
-    {
-      "word": "harren",
-      "count": 74
-    },
-    {
-      "word": "mear",
-      "count": 69
-    },
-    {
-      "word": "van",
-      "count": 68
-    },
-    {
-      "word": "kinne",
-      "count": 66
-    },
-    {
-      "word": "oerlis",
-      "count": 65
-    },
-    {
-      "word": "side",
-      "count": 64
-    },
-    {
-      "word": "dit",
-      "count": 63
-    },
-    {
-      "word": "oant",
-      "count": 62
-    },
-    {
-      "word": "alle",
-      "count": 61
-    },
-    {
-      "word": "jier",
-      "count": 61
-    },
-    {
-      "word": "him",
-      "count": 61
-    },
-    {
-      "word": "tusken",
-      "count": 61
-    },
-    {
-      "word": "hie",
-      "count": 61
-    },
-    {
-      "word": "gjin",
-      "count": 60
-    },
-    {
-      "word": "no",
-      "count": 58
-    },
-    {
-      "word": "dizze",
-      "count": 58
-    },
-    {
-      "word": "ûnder",
-      "count": 55
-    },
-    {
-      "word": "wêze",
-      "count": 55
-    },
-    {
-      "word": "sels",
-      "count": 55
-    },
-    {
-      "word": "grutte",
-      "count": 54
+      "word": "in",
+      "count": 12843
     },
     {
       "word": "frysk",
-      "count": 52
+      "count": 6116
     },
     {
-      "word": "neamd",
-      "count": 52
+      "word": "op",
+      "count": 5877
     },
     {
-      "word": "waarden",
-      "count": 52
+      "word": "is",
+      "count": 5821
     },
     {
-      "word": "soe",
-      "count": 51
-    },
-    {
-      "word": "letter",
-      "count": 51
-    },
-    {
-      "word": "komt",
-      "count": 51
-    },
-    {
-      "word": "tiid",
-      "count": 51
-    },
-    {
-      "word": "namme",
-      "count": 50
-    },
-    {
-      "word": "earste",
-      "count": 48
-    },
-    {
-      "word": "kaam",
-      "count": 48
-    },
-    {
-      "word": "fryslân",
-      "count": 48
-    },
-    {
-      "word": "moat",
-      "count": 47
-    },
-    {
-      "word": "beäntwurdzje",
-      "count": 46
-    },
-    {
-      "word": "men",
-      "count": 44
-    },
-    {
-      "word": "lykas",
-      "count": 44
-    },
-    {
-      "word": "part",
-      "count": 44
-    },
-    {
-      "word": "my",
-      "count": 43
-    },
-    {
-      "word": "iuw",
-      "count": 43
-    },
-    {
-      "word": "nije",
-      "count": 41
-    },
-    {
-      "word": "lykwols",
-      "count": 40
-    },
-    {
-      "word": "moatte",
-      "count": 38
-    },
-    {
-      "word": "taal",
-      "count": 37
-    },
-    {
-      "word": "wer",
-      "count": 37
-    },
-    {
-      "word": "makke",
-      "count": 37
-    },
-    {
-      "word": "goed",
-      "count": 35
-    },
-    {
-      "word": "lêste",
-      "count": 35
-    },
-    {
-      "word": "minsken",
-      "count": 35
-    },
-    {
-      "word": "bern",
-      "count": 35
-    },
-    {
-      "word": "sûnder",
-      "count": 35
-    },
-    {
-      "word": "hjir",
-      "count": 34
-    },
-    {
-      "word": "stiet",
-      "count": 34
-    },
-    {
-      "word": "soad",
-      "count": 34
-    },
-    {
-      "word": "faak",
-      "count": 34
-    },
-    {
-      "word": "kategory",
-      "count": 34
-    },
-    {
-      "word": "maa",
-      "count": 33
-    },
-    {
-      "word": "leit",
-      "count": 33
-    },
-    {
-      "word": "tsjerke",
-      "count": 33
-    },
-    {
-      "word": "grut",
-      "count": 33
-    },
-    {
-      "word": "okt",
-      "count": 33
-    },
-    {
-      "word": "hja",
-      "count": 32
-    },
-    {
-      "word": "twa",
-      "count": 32
-    },
-    {
-      "word": "wikipedy",
-      "count": 32
-    },
-    {
-      "word": "literatuer",
-      "count": 32
-    },
-    {
-      "word": "ha",
-      "count": 31
-    },
-    {
-      "word": "sil",
-      "count": 31
-    },
-    {
-      "word": "tekst",
-      "count": 30
-    },
-    {
-      "word": "haw",
-      "count": 30
-    },
-    {
-      "word": "folk",
-      "count": 30
-    },
-    {
-      "word": "neffens",
-      "count": 30
-    },
-    {
-      "word": "dus",
-      "count": 30
-    },
-    {
-      "word": "oars",
-      "count": 30
-    },
-    {
-      "word": "plak",
-      "count": 30
-    },
-    {
-      "word": "doe",
-      "count": 30
-    },
-    {
-      "word": "ljouwert",
-      "count": 29
-    },
-    {
-      "word": "ôf",
-      "count": 29
-    },
-    {
-      "word": "eigen",
-      "count": 29
-    },
-    {
-      "word": "om't",
-      "count": 28
-    },
-    {
-      "word": "brûkt",
-      "count": 28
-    },
-    {
-      "word": "lân",
-      "count": 28
-    },
-    {
-      "word": "soan",
-      "count": 28
-    },
-    {
-      "word": "tomke",
-      "count": 27
-    },
-    {
-      "word": "wurden",
-      "count": 27
-    },
-    {
-      "word": "giet",
-      "count": 27
-    },
-    {
-      "word": "wurd",
-      "count": 26
-    },
-    {
-      "word": "romke",
-      "count": 26
-    },
-    {
-      "word": "daam",
-      "count": 26
-    },
-    {
-      "word": "jan",
-      "count": 26
-    },
-    {
-      "word": "koe",
-      "count": 26
-    },
-    {
-      "word": "wy",
-      "count": 26
-    },
-    {
-      "word": "twadde",
-      "count": 26
-    },
-    {
-      "word": "schurer",
-      "count": 26
-    },
-    {
-      "word": "wetter",
-      "count": 26
-    },
-    {
-      "word": "bekend",
-      "count": 25
-    },
-    {
-      "word": "dêrnei",
-      "count": 25
-    },
-    {
-      "word": "sjen",
-      "count": 25
-    },
-    {
-      "word": "mem",
-      "count": 25
-    },
-    {
-      "word": "sûnt",
-      "count": 25
-    },
-    {
-      "word": "anne",
-      "count": 25
-    },
-    {
-      "word": "siden",
-      "count": 25
-    },
-    {
-      "word": "ieneach",
-      "count": 24
-    },
-    {
-      "word": "esk",
-      "count": 24
-    },
-    {
-      "word": "beide",
-      "count": 24
-    },
-    {
-      "word": "talen",
-      "count": 24
-    },
-    {
-      "word": "wienen",
-      "count": 24
-    },
-    {
-      "word": "krige",
-      "count": 24
-    },
-    {
-      "word": "doe't",
-      "count": 24
-    },
-    {
-      "word": "tsjin",
-      "count": 24
-    },
-    {
-      "word": "bisten",
-      "count": 24
-    },
-    {
-      "word": "kategoryen",
-      "count": 24
-    },
-    {
-      "word": "famylje",
-      "count": 23
-    },
-    {
-      "word": "moast",
-      "count": 23
-    },
-    {
-      "word": "gebiet",
-      "count": 23
-    },
-    {
-      "word": "wurk",
-      "count": 23
-    },
-    {
-      "word": "dykstra",
-      "count": 23
-    },
-    {
-      "word": "allinnich",
-      "count": 23
-    },
-    {
-      "word": "sy",
-      "count": 23
-    },
-    {
-      "word": "skreaun",
-      "count": 22
-    },
-    {
-      "word": "hiel",
-      "count": 22
-    },
-    {
-      "word": "ein",
-      "count": 22
-    },
-    {
-      "word": "doarp",
-      "count": 22
-    },
-    {
-      "word": "marije",
-      "count": 22
-    },
-    {
-      "word": "baard",
-      "count": 22
-    },
-    {
-      "word": "better",
-      "count": 21
-    },
-    {
-      "word": "skiednis",
-      "count": 21
-    },
-    {
-      "word": "at",
-      "count": 21
-    },
-    {
-      "word": "dien",
-      "count": 21
-    },
-    {
-      "word": "boek",
-      "count": 21
-    },
-    {
-      "word": "bygelyks",
-      "count": 21
-    },
-    {
-      "word": "gemeente",
-      "count": 21
-    },
-    {
-      "word": "jûn",
-      "count": 21
-    },
-    {
-      "word": "heit",
-      "count": 21
-    },
-    {
-      "word": "krekt",
-      "count": 21
-    },
-    {
-      "word": "folle",
-      "count": 21
-    },
-    {
-      "word": "dúdlik",
-      "count": 20
-    },
-    {
-      "word": "want",
-      "count": 20
-    },
-    {
-      "word": "jaan",
-      "count": 20
-    },
-    {
-      "word": "libben",
-      "count": 20
-    },
-    {
-      "word": "grutste",
-      "count": 20
-    },
-    {
-      "word": "rivier",
-      "count": 20
-    },
-    {
-      "word": "ferskate",
-      "count": 20
-    },
-    {
-      "word": "dg",
-      "count": 20
-    },
-    {
-      "word": "sjoch",
-      "count": 20
-    },
-    {
-      "word": "west",
-      "count": 20
-    },
-    {
-      "word": "likernôch",
-      "count": 19
-    },
-    {
-      "word": "gean",
-      "count": 19
-    },
-    {
-      "word": "frânske",
-      "count": 19
-    },
-    {
-      "word": "werom",
-      "count": 19
-    },
-    {
-      "word": "protte",
-      "count": 19
-    },
-    {
-      "word": "fierder",
-      "count": 19
-    },
-    {
-      "word": "guon",
-      "count": 19
-    },
-    {
-      "word": "boer",
-      "count": 19
-    },
-    {
-      "word": "altyd",
-      "count": 19
-    },
-    {
-      "word": "jout",
-      "count": 19
-    },
-    {
-      "word": "septimber",
-      "count": 19
-    },
-    {
-      "word": "komme",
-      "count": 19
-    },
-    {
-      "word": "mûne",
-      "count": 19
-    },
-    {
-      "word": "lytse",
-      "count": 18
-    },
-    {
-      "word": "benammen",
-      "count": 18
-    },
-    {
-      "word": "man",
-      "count": 18
-    },
-    {
-      "word": "hielendal",
-      "count": 18
-    },
-    {
-      "word": "krijen",
-      "count": 18
-    },
-    {
-      "word": "wrâld",
-      "count": 18
-    },
-    {
-      "word": "berne",
-      "count": 17
-    },
-    {
-      "word": "liket",
-      "count": 17
-    },
-    {
-      "word": "gewoan",
-      "count": 17
-    },
-    {
-      "word": "hienen",
-      "count": 17
-    },
-    {
-      "word": "houlik",
-      "count": 17
-    },
-    {
-      "word": "jierren",
-      "count": 17
-    },
-    {
-      "word": "waling",
-      "count": 17
-    },
-    {
-      "word": "inkeld",
-      "count": 17
-    },
-    {
-      "word": "sokke",
-      "count": 17
-    },
-    {
-      "word": "stean",
-      "count": 17
-    },
-    {
-      "word": "pleats",
-      "count": 17
-    },
-    {
-      "word": "stie",
-      "count": 17
-    },
-    {
-      "word": "hiele",
-      "count": 17
-    },
-    {
-      "word": "pear",
-      "count": 17
-    },
-    {
-      "word": "dochs",
-      "count": 17
-    },
-    {
-      "word": "skriuwer",
-      "count": 17
-    },
-    {
-      "word": "efkes",
-      "count": 17
-    },
-    {
-      "word": "dêrby",
-      "count": 17
-    },
-    {
-      "word": "wetterskip",
-      "count": 17
-    },
-    {
-      "word": "kastiel",
-      "count": 17
-    },
-    {
-      "word": "hinne",
-      "count": 16
-    },
-    {
-      "word": "fuort",
-      "count": 16
-    },
-    {
-      "word": "oar",
-      "count": 16
-    },
-    {
-      "word": "sa'n",
-      "count": 16
-    },
-    {
-      "word": "beweging",
-      "count": 16
-    },
-    {
-      "word": "wei",
-      "count": 16
-    },
-    {
-      "word": "omdat",
-      "count": 16
-    },
-    {
-      "word": "trije",
-      "count": 16
-    },
-    {
-      "word": "erasmus",
-      "count": 16
-    },
-    {
-      "word": "âlden",
-      "count": 16
-    },
-    {
-      "word": "hast",
-      "count": 16
-    },
-    {
-      "word": "hearre",
-      "count": 16
-    },
-    {
-      "word": "stim",
-      "count": 16
-    },
-    {
-      "word": "nûmer",
-      "count": 16
-    },
-    {
-      "word": "eins",
-      "count": 16
-    },
-    {
-      "word": "trout",
-      "count": 16
-    },
-    {
-      "word": "grûn",
-      "count": 16
-    },
-    {
-      "word": "kaaien",
-      "count": 16
-    },
-    {
-      "word": "state",
-      "count": 15
-    },
-    {
-      "word": "doel",
-      "count": 15
-    },
-    {
-      "word": "hâlden",
-      "count": 15
-    },
-    {
-      "word": "mooglik",
-      "count": 15
-    },
-    {
-      "word": "binnen",
-      "count": 15
-    },
-    {
-      "word": "berjocht",
-      "count": 15
-    },
-    {
-      "word": "fine",
-      "count": 15
-    },
-    {
-      "word": "wylst",
-      "count": 15
-    },
-    {
-      "word": "amsterdam",
-      "count": 15
-    },
-    {
-      "word": "oktober",
-      "count": 15
-    },
-    {
-      "word": "sadat",
-      "count": 15
-    },
-    {
-      "word": "frij",
-      "count": 15
-    },
-    {
-      "word": "myn",
-      "count": 15
-    },
-    {
-      "word": "dei",
-      "count": 15
-    },
-    {
-      "word": "tal",
-      "count": 15
-    },
-    {
-      "word": "baaium",
-      "count": 15
-    },
-    {
-      "word": "soks",
-      "count": 15
-    },
-    {
-      "word": "fedde",
-      "count": 15
-    },
-    {
-      "word": "meast",
-      "count": 15
-    },
-    {
-      "word": "fansels",
-      "count": 15
-    },
-    {
-      "word": "begjin",
-      "count": 15
-    },
-    {
-      "word": "feriene",
-      "count": 15
-    },
-    {
-      "word": "dochter",
-      "count": 15
-    },
-    {
-      "word": "lang",
-      "count": 15
-    },
-    {
-      "word": "tige",
-      "count": 15
-    },
-    {
-      "word": "meter",
-      "count": 15
-    },
-    {
-      "word": "keizer",
-      "count": 15
-    },
-    {
-      "word": "punt",
-      "count": 14
-    },
-    {
-      "word": "earst",
-      "count": 14
-    },
-    {
-      "word": "gie",
-      "count": 14
-    },
-    {
-      "word": "nederlân",
-      "count": 14
-    },
-    {
-      "word": "dútsers",
-      "count": 14
-    },
-    {
-      "word": "stêd",
-      "count": 14
-    },
-    {
-      "word": "het",
-      "count": 14
-    },
-    {
-      "word": "besit",
-      "count": 14
-    },
-    {
-      "word": "frou",
-      "count": 14
-    },
-    {
-      "word": "sith",
-      "count": 14
-    },
-    {
-      "word": "kommen",
-      "count": 14
-    },
-    {
-      "word": "wêrby't",
-      "count": 14
-    },
-    {
-      "word": "kamen",
-      "count": 14
-    },
-    {
-      "word": "ruslân",
-      "count": 14
-    },
-    {
-      "word": "gau",
-      "count": 14
-    },
-    {
-      "word": "nij",
-      "count": 14
-    },
-    {
-      "word": "bûten",
-      "count": 14
-    },
-    {
-      "word": "hillige",
-      "count": 14
-    },
-    {
-      "word": "bin",
-      "count": 14
-    },
-    {
-      "word": "miskien",
-      "count": 14
-    },
-    {
-      "word": "lêst",
-      "count": 14
-    },
-    {
-      "word": "learaar",
-      "count": 14
-    },
-    {
-      "word": "wiene",
-      "count": 14
-    },
-    {
-      "word": "beskate",
-      "count": 13
-    },
-    {
-      "word": "reäksje",
-      "count": 13
-    },
-    {
-      "word": "lyn",
-      "count": 13
-    },
-    {
-      "word": "meitsjen",
-      "count": 13
-    },
-    {
-      "word": "nederlânske",
-      "count": 13
-    },
-    {
-      "word": "wolle",
-      "count": 13
-    },
-    {
-      "word": "skriuwe",
-      "count": 13
-    },
-    {
-      "word": "ús",
-      "count": 13
-    },
-    {
-      "word": "artikel",
-      "count": 13
-    },
-    {
-      "word": "brocht",
-      "count": 13
-    },
-    {
-      "word": "britske",
-      "count": 13
-    },
-    {
-      "word": "steaten",
-      "count": 13
-    },
-    {
-      "word": "aliter",
-      "count": 13
-    },
-    {
-      "word": "woe",
-      "count": 13
-    },
-    {
-      "word": "friezen",
-      "count": 13
-    },
-    {
-      "word": "hûs",
-      "count": 13
-    },
-    {
-      "word": "willem",
-      "count": 13
-    },
-    {
-      "word": "eardere",
-      "count": 13
-    },
-    {
-      "word": "dútske",
-      "count": 13
-    },
-    {
-      "word": "lizze",
-      "count": 13
-    },
-    {
-      "word": "katarina",
-      "count": 13
-    },
-    {
-      "word": "wit",
-      "count": 13
-    },
-    {
-      "word": "oft",
-      "count": 13
-    },
-    {
-      "word": "krajs",
-      "count": 13
-    },
-    {
-      "word": "sille",
-      "count": 13
-    },
-    {
-      "word": "boud",
-      "count": 13
-    },
-    {
-      "word": "befolking",
-      "count": 13
+      "word": "mei",
+      "count": 5301
     },
     {
       "word": "nederlânsk",
-      "count": 13
+      "count": 4575
     },
     {
-      "word": "martens",
-      "count": 13
+      "word": "as",
+      "count": 4224
     },
     {
-      "word": "minder",
-      "count": 13
+      "word": "dat",
+      "count": 4078
     },
     {
-      "word": "âlde",
-      "count": 12
+      "word": "foar",
+      "count": 3960
     },
     {
-      "word": "dútslân",
-      "count": 12
+      "word": "wurdt",
+      "count": 3883
     },
     {
-      "word": "allegear",
-      "count": 12
+      "word": "troch",
+      "count": 3685
     },
     {
-      "word": "ingelske",
-      "count": 12
+      "word": "nei",
+      "count": 3475
     },
     {
-      "word": "fy",
-      "count": 12
+      "word": "oan",
+      "count": 3418
     },
     {
-      "word": "setten",
-      "count": 12
+      "word": "amerikaansk",
+      "count": 3329
     },
     {
-      "word": "saneamde",
-      "count": 12
+      "word": "der",
+      "count": 3131
     },
     {
-      "word": "dwaan",
-      "count": 12
+      "word": "waard",
+      "count": 3079
     },
     {
-      "word": "jannewaris",
-      "count": 12
+      "word": "by",
+      "count": 3032
     },
     {
-      "word": "soarte",
-      "count": 12
+      "word": "te",
+      "count": 2904
     },
     {
-      "word": "paus",
-      "count": 12
+      "word": "dy't",
+      "count": 2873
     },
     {
-      "word": "sit",
-      "count": 12
+      "word": "lânseigen",
+      "count": 2787
     },
     {
-      "word": "hân",
-      "count": 12
+      "word": "út",
+      "count": 2778
     },
     {
-      "word": "provinsje",
-      "count": 12
+      "word": "ek",
+      "count": 2763
     },
     {
-      "word": "measte",
-      "count": 12
+      "word": "wie",
+      "count": 2719
     },
     {
-      "word": "troud",
-      "count": 12
+      "word": "om",
+      "count": 2664
     },
     {
-      "word": "deselde",
-      "count": 12
+      "word": "syn",
+      "count": 2470
     },
     {
-      "word": "kultuer",
-      "count": 12
+      "word": "fauna",
+      "count": 2404
     },
     {
-      "word": "die",
-      "count": 12
+      "word": "van",
+      "count": 2232
     },
     {
-      "word": "maaie",
-      "count": 12
+      "word": "binne",
+      "count": 2132
     },
     {
-      "word": "gefal",
-      "count": 12
+      "word": "mar",
+      "count": 2056
     },
     {
-      "word": "jezus",
-      "count": 12
+      "word": "skriuwer",
+      "count": 1912
     },
     {
-      "word": "elisabet",
-      "count": 12
+      "word": "of",
+      "count": 1811
     },
     {
-      "word": "foto",
-      "count": 12
+      "word": "hat",
+      "count": 1731
     },
     {
-      "word": "nimme",
-      "count": 12
+      "word": "dy",
+      "count": 1695
     },
     {
-      "word": "kear",
-      "count": 12
+      "word": "wurde",
+      "count": 1684
     },
     {
-      "word": "kant",
-      "count": 12
+      "word": "net",
+      "count": 1652
     },
     {
-      "word": "kening",
-      "count": 12
+      "word": "ta",
+      "count": 1633
     },
     {
-      "word": "wikipedia",
-      "count": 12
+      "word": "fryske",
+      "count": 1620
     },
     {
-      "word": "tredde",
-      "count": 12
+      "word": "earste",
+      "count": 1583
     },
     {
-      "word": "meitsje",
-      "count": 12
+      "word": "er",
+      "count": 1569
     },
     {
-      "word": "finen",
-      "count": 12
+      "word": "politikus",
+      "count": 1441
     },
     {
-      "word": "duim",
-      "count": 12
+      "word": "oer",
+      "count": 1428
     },
     {
-      "word": "skoalle",
-      "count": 12
+      "word": "fryslân",
+      "count": 1335
     },
     {
-      "word": "eastfriezen",
-      "count": 12
+      "word": "jier",
+      "count": 1217
     },
     {
-      "word": "witte",
-      "count": 12
+      "word": "iuw",
+      "count": 1153
     },
     {
-      "word": "ieu",
-      "count": 12
+      "word": "gemeente",
+      "count": 1137
     },
     {
-      "word": "lannen",
-      "count": 12
+      "word": "the",
+      "count": 1105
     },
     {
-      "word": "typmasine",
-      "count": 11
+      "word": "oare",
+      "count": 1065
     },
     {
-      "word": "bliuwt",
-      "count": 11
+      "word": "feriene",
+      "count": 1055
     },
     {
-      "word": "wikidata",
-      "count": 11
+      "word": "noch",
+      "count": 1047
     },
     {
-      "word": "earder",
-      "count": 11
+      "word": "ûnder",
+      "count": 1032
     },
     {
-      "word": "rûzje",
-      "count": 11
+      "word": "berne",
+      "count": 1021
     },
     {
-      "word": "mei-inoar",
-      "count": 11
-    },
-    {
-      "word": "drake",
-      "count": 11
-    },
-    {
-      "word": "macht",
-      "count": 11
-    },
-    {
-      "word": "gefallen",
-      "count": 11
-    },
-    {
-      "word": "alliearden",
-      "count": 11
-    },
-    {
-      "word": "brêge",
-      "count": 11
-    },
-    {
-      "word": "borneo",
-      "count": 11
-    },
-    {
-      "word": "foarm",
-      "count": 11
-    },
-    {
-      "word": "bestean",
-      "count": 11
-    },
-    {
-      "word": "ferneamd",
-      "count": 11
-    },
-    {
-      "word": "ryk",
-      "count": 11
-    },
-    {
-      "word": "wenne",
-      "count": 11
-    },
-    {
-      "word": "relaasje",
-      "count": 11
-    },
-    {
-      "word": "wêr't",
-      "count": 11
-    },
-    {
-      "word": "oanpast",
-      "count": 11
-    },
-    {
-      "word": "rjocht",
-      "count": 11
-    },
-    {
-      "word": "swarte",
-      "count": 11
-    },
-    {
-      "word": "krigen",
-      "count": 11
-    },
-    {
-      "word": "sjoen",
-      "count": 11
-    },
-    {
-      "word": "under",
-      "count": 11
-    },
-    {
-      "word": "drachten",
-      "count": 11
-    },
-    {
-      "word": "foarbylden",
-      "count": 11
-    },
-    {
-      "word": "foarhinne",
-      "count": 11
-    },
-    {
-      "word": "tsjintwurdich",
-      "count": 11
-    },
-    {
-      "word": "slot",
-      "count": 11
-    },
-    {
-      "word": "naam",
-      "count": 11
-    },
-    {
-      "word": "persoan",
-      "count": 11
-    },
-    {
-      "word": "neat",
-      "count": 11
-    },
-    {
-      "word": "holden",
-      "count": 11
-    },
-    {
-      "word": "hollân",
-      "count": 11
-    },
-    {
-      "word": "jans",
-      "count": 11
-    },
-    {
-      "word": "iens",
-      "count": 11
-    },
-    {
-      "word": "kaai",
-      "count": 11
-    },
-    {
-      "word": "fa",
-      "count": 11
-    },
-    {
-      "word": "sette",
-      "count": 11
-    },
-    {
-      "word": "even",
-      "count": 11
-    },
-    {
-      "word": "klieren",
-      "count": 11
-    },
-    {
-      "word": "falerianus",
-      "count": 11
-    },
-    {
-      "word": "bestiet",
-      "count": 11
-    },
-    {
-      "word": "miljoen",
-      "count": 10
-    },
-    {
-      "word": "meidoggers",
-      "count": 10
-    },
-    {
-      "word": "desimber",
-      "count": 10
-    },
-    {
-      "word": "maart",
-      "count": 10
-    },
-    {
-      "word": "berte",
-      "count": 10
-    },
-    {
-      "word": "roos",
-      "count": 10
-    },
-    {
-      "word": "moai",
-      "count": 10
-    },
-    {
-      "word": "dêrfan",
-      "count": 10
-    },
-    {
-      "word": "menisten",
-      "count": 10
-    },
-    {
-      "word": "see",
-      "count": 10
-    },
-    {
-      "word": "koenen",
-      "count": 10
-    },
-    {
-      "word": "dêrmei",
-      "count": 10
-    },
-    {
-      "word": "pieter",
-      "count": 10
-    },
-    {
-      "word": "fjouwer",
-      "count": 10
-    },
-    {
-      "word": "koloanje",
-      "count": 10
-    },
-    {
-      "word": "kr",
-      "count": 10
-    },
-    {
-      "word": "ii",
-      "count": 10
-    },
-    {
-      "word": "pieters",
-      "count": 10
-    },
-    {
-      "word": "star",
-      "count": 10
-    },
-    {
-      "word": "brûken",
-      "count": 10
-    },
-    {
-      "word": "hege",
-      "count": 10
-    },
-    {
-      "word": "sint",
-      "count": 10
-    },
-    {
-      "word": "grins",
-      "count": 10
-    },
-    {
-      "word": "russyske",
-      "count": 10
-    },
-    {
-      "word": "peter",
-      "count": 10
-    },
-    {
-      "word": "ienheid",
-      "count": 10
-    },
-    {
-      "word": "wa",
-      "count": 10
-    },
-    {
-      "word": "antje",
-      "count": 10
-    },
-    {
-      "word": "hoe",
-      "count": 10
-    },
-    {
-      "word": "sizze",
-      "count": 10
-    },
-    {
-      "word": "hear",
-      "count": 10
-    },
-    {
-      "word": "systeem",
-      "count": 10
-    },
-    {
-      "word": "broer",
-      "count": 10
-    },
-    {
-      "word": "https",
-      "count": 10
-    },
-    {
-      "word": "php",
-      "count": 10
-    },
-    {
-      "word": "muzyk",
-      "count": 10
-    },
-    {
-      "word": "groep",
-      "count": 10
-    },
-    {
-      "word": "folslein",
-      "count": 10
-    },
-    {
-      "word": "hâlde",
-      "count": 10
-    },
-    {
-      "word": "michael",
-      "count": 10
-    },
-    {
-      "word": "commons",
-      "count": 10
-    },
-    {
-      "word": "theun",
-      "count": 10
-    },
-    {
-      "word": "meidogger",
-      "count": 10
-    },
-    {
-      "word": "midden",
-      "count": 10
-    },
-    {
-      "word": "beppe",
-      "count": 10
-    },
-    {
-      "word": "roomske",
-      "count": 10
-    },
-    {
-      "word": "jongen",
-      "count": 10
-    },
-    {
-      "word": "njonken",
-      "count": 9
-    },
-    {
-      "word": "skriuwmasine",
-      "count": 9
-    },
-    {
-      "word": "funksje",
-      "count": 9
-    },
-    {
-      "word": "oaren",
-      "count": 9
-    },
-    {
-      "word": "reäksjes",
-      "count": 9
-    },
-    {
-      "word": "joech",
-      "count": 9
-    },
-    {
-      "word": "easten",
-      "count": 9
-    },
-    {
-      "word": "cd",
-      "count": 9
-    },
-    {
-      "word": "lêsboek",
-      "count": 9
-    },
-    {
-      "word": "dokumint",
-      "count": 9
-    },
-    {
-      "word": "allinne",
-      "count": 9
+      "word": "hy",
+      "count": 1001
     },
     {
       "word": "ingelsk",
-      "count": 9
+      "count": 986
     },
     {
-      "word": "ynwenners",
-      "count": 9
+      "word": "dêr't",
+      "count": 974
     },
     {
-      "word": "ferstjerren",
-      "count": 9
+      "word": "jannewaris",
+      "count": 938
     },
     {
-      "word": "soms",
-      "count": 9
+      "word": "akteur",
+      "count": 930
     },
     {
-      "word": "begryp",
-      "count": 9
+      "word": "oant",
+      "count": 925
     },
     {
-      "word": "besocht",
-      "count": 9
+      "word": "him",
+      "count": 921
     },
     {
-      "word": "literêre",
-      "count": 9
+      "word": "tusken",
+      "count": 903
     },
     {
-      "word": "ingelân",
-      "count": 9
+      "word": "al",
+      "count": 890
     },
     {
-      "word": "operaasje",
-      "count": 9
+      "word": "grutte",
+      "count": 885
     },
     {
-      "word": "hannen",
-      "count": 9
-    },
-    {
-      "word": "hof",
-      "count": 9
-    },
-    {
-      "word": "steatsboskbehear",
-      "count": 9
-    },
-    {
-      "word": "organisaasje",
-      "count": 9
-    },
-    {
-      "word": "july",
-      "count": 9
-    },
-    {
-      "word": "foarme",
-      "count": 9
-    },
-    {
-      "word": "augustus",
-      "count": 9
-    },
-    {
-      "word": "don",
-      "count": 9
-    },
-    {
-      "word": "heart",
-      "count": 9
-    },
-    {
-      "word": "jedi",
-      "count": 9
-    },
-    {
-      "word": "master",
-      "count": 9
-    },
-    {
-      "word": "republyk",
-      "count": 9
-    },
-    {
-      "word": "ûntstie",
-      "count": 9
-    },
-    {
-      "word": "marzjes",
-      "count": 9
-    },
-    {
-      "word": "spile",
-      "count": 9
-    },
-    {
-      "word": "sporten",
-      "count": 9
-    },
-    {
-      "word": "kiuwen",
-      "count": 9
-    },
-    {
-      "word": "stúdzje",
-      "count": 9
-    },
-    {
-      "word": "aktyf",
-      "count": 9
-    },
-    {
-      "word": "steane",
-      "count": 9
-    },
-    {
-      "word": "ferdrach",
-      "count": 9
-    },
-    {
-      "word": "helle",
-      "count": 9
-    },
-    {
-      "word": "novimber",
-      "count": 9
-    },
-    {
-      "word": "lit",
-      "count": 9
-    },
-    {
-      "word": "opfrege",
-      "count": 9
-    },
-    {
-      "word": "org",
-      "count": 9
-    },
-    {
-      "word": "index",
-      "count": 9
-    },
-    {
-      "word": "title",
-      "count": 9
-    },
-    {
-      "word": "oldid",
-      "count": 9
-    },
-    {
-      "word": "ornaris",
-      "count": 9
-    },
-    {
-      "word": "súdlike",
-      "count": 9
-    },
-    {
-      "word": "eem",
-      "count": 9
-    },
-    {
-      "word": "hieltyd",
-      "count": 9
-    },
-    {
-      "word": "grinslân",
-      "count": 9
-    },
-    {
-      "word": "oantsjut",
-      "count": 9
-    },
-    {
-      "word": "tsjerne",
-      "count": 9
-    },
-    {
-      "word": "oarloch",
-      "count": 9
-    },
-    {
-      "word": "east-fryslân",
-      "count": 9
-    },
-    {
-      "word": "ofbylden",
-      "count": 9
-    },
-    {
-      "word": "wize",
-      "count": 9
-    },
-    {
-      "word": "brûke",
-      "count": 9
-    },
-    {
-      "word": "liet",
-      "count": 9
-    },
-    {
-      "word": "nedich",
-      "count": 9
-    },
-    {
-      "word": "palts",
-      "count": 8
-    },
-    {
-      "word": "fia",
-      "count": 8
-    },
-    {
-      "word": "kleaster",
-      "count": 8
-    },
-    {
-      "word": "lisinsje",
-      "count": 8
-    },
-    {
-      "word": "dútsk",
-      "count": 8
-    },
-    {
-      "word": "byld",
-      "count": 8
-    },
-    {
-      "word": "polityk",
-      "count": 8
-    },
-    {
-      "word": "sawat",
-      "count": 8
-    },
-    {
-      "word": "ûnderwerp",
-      "count": 8
-    },
-    {
-      "word": "jonge",
-      "count": 8
-    },
-    {
-      "word": "bûns",
-      "count": 8
-    },
-    {
-      "word": "komôf",
-      "count": 8
-    },
-    {
-      "word": "sin",
-      "count": 8
-    },
-    {
-      "word": "ferskil",
-      "count": 8
-    },
-    {
-      "word": "slach",
-      "count": 8
-    },
-    {
-      "word": "koarte",
-      "count": 8
-    },
-    {
-      "word": "stikje",
-      "count": 8
-    },
-    {
-      "word": "seis",
-      "count": 8
-    },
-    {
-      "word": "steat",
-      "count": 8
-    },
-    {
-      "word": "jul",
-      "count": 8
-    },
-    {
-      "word": "wichtige",
-      "count": 8
-    },
-    {
-      "word": "eallju",
-      "count": 8
-    },
-    {
-      "word": "safolle",
-      "count": 8
-    },
-    {
-      "word": "lyts",
-      "count": 8
-    },
-    {
-      "word": "elts",
-      "count": 8
-    },
-    {
-      "word": "besibbe",
-      "count": 8
-    },
-    {
-      "word": "ôfbylden",
-      "count": 8
-    },
-    {
-      "word": "rint",
-      "count": 8
-    },
-    {
-      "word": "dingen",
-      "count": 8
-    },
-    {
-      "word": "dieder",
-      "count": 8
-    },
-    {
-      "word": "sadwaande",
-      "count": 8
-    },
-    {
-      "word": "slowakije",
-      "count": 8
-    },
-    {
-      "word": "akademy",
-      "count": 8
-    },
-    {
-      "word": "pleatsen",
-      "count": 8
-    },
-    {
-      "word": "bal",
-      "count": 8
-    },
-    {
-      "word": "bleau",
-      "count": 8
-    },
-    {
-      "word": "aai",
-      "count": 8
-    },
-    {
-      "word": "goede",
-      "count": 8
-    },
-    {
-      "word": "stuit",
-      "count": 8
-    },
-    {
-      "word": "wiken",
-      "count": 8
-    },
-    {
-      "word": "nederlannen",
-      "count": 8
-    },
-    {
-      "word": "frede",
-      "count": 8
-    },
-    {
-      "word": "febrewaris",
-      "count": 8
-    },
-    {
-      "word": "fêst",
-      "count": 8
-    },
-    {
-      "word": "praat",
-      "count": 8
-    },
-    {
-      "word": "sterk",
-      "count": 8
-    },
-    {
-      "word": "terheijl",
-      "count": 8
-    },
-    {
-      "word": "ned",
-      "count": 8
-    },
-    {
-      "word": "ris",
-      "count": 8
-    },
-    {
-      "word": "boppe-oan",
-      "count": 8
-    },
-    {
-      "word": "sei",
-      "count": 8
-    },
-    {
-      "word": "durk",
-      "count": 8
-    },
-    {
-      "word": "ensfh",
-      "count": 8
-    },
-    {
-      "word": "fral",
-      "count": 8
-    },
-    {
-      "word": "groepen",
-      "count": 8
-    },
-    {
-      "word": "wikimedia",
-      "count": 8
-    },
-    {
-      "word": "eat",
-      "count": 8
-    },
-    {
-      "word": "arnulf",
-      "count": 8
-    },
-    {
-      "word": "greve",
-      "count": 8
-    },
-    {
-      "word": "arnhim",
-      "count": 8
-    },
-    {
-      "word": "slagge",
-      "count": 8
+      "word": "mear",
+      "count": 884
     },
     {
       "word": "kanaal",
-      "count": 8
+      "count": 882
     },
     {
-      "word": "sitte",
-      "count": 8
+      "word": "kening",
+      "count": 862
     },
     {
-      "word": "demerary",
-      "count": 8
+      "word": "se",
+      "count": 859
     },
     {
-      "word": "dieren",
-      "count": 8
-    },
-    {
-      "word": "ynspiraasje",
-      "count": 8
-    },
-    {
-      "word": "dea",
-      "count": 8
-    },
-    {
-      "word": "presidint",
-      "count": 8
-    },
-    {
-      "word": "makket",
-      "count": 8
-    },
-    {
-      "word": "regio",
-      "count": 8
-    },
-    {
-      "word": "ofbyld",
-      "count": 8
-    },
-    {
-      "word": "jouwe",
-      "count": 8
-    },
-    {
-      "word": "meastal",
-      "count": 8
-    },
-    {
-      "word": "hiene",
-      "count": 8
-    },
-    {
-      "word": "bewurke",
-      "count": 8
-    },
-    {
-      "word": "fierders",
-      "count": 8
-    },
-    {
-      "word": "itselde",
-      "count": 8
-    },
-    {
-      "word": "ûnderdiel",
-      "count": 8
-    },
-    {
-      "word": "eartiids",
-      "count": 8
-    },
-    {
-      "word": "watt",
-      "count": 8
-    },
-    {
-      "word": "gebieten",
-      "count": 8
-    },
-    {
-      "word": "gefolch",
-      "count": 8
-    },
-    {
-      "word": "soarten",
-      "count": 8
-    },
-    {
-      "word": "gemeenten",
-      "count": 8
-    },
-    {
-      "word": "rin",
-      "count": 8
-    },
-    {
-      "word": "wendt",
-      "count": 8
-    },
-    {
-      "word": "jong",
-      "count": 8
-    },
-    {
-      "word": "stavering",
-      "count": 8
-    },
-    {
-      "word": "bining",
-      "count": 8
-    },
-    {
-      "word": "fisken",
-      "count": 8
-    },
-    {
-      "word": "polder",
-      "count": 8
-    },
-    {
-      "word": "lei",
-      "count": 8
-    },
-    {
-      "word": "rubber",
-      "count": 8
-    },
-    {
-      "word": "grytman",
-      "count": 8
-    },
-    {
-      "word": "stêden",
-      "count": 7
-    },
-    {
-      "word": "ivoar",
-      "count": 7
-    },
-    {
-      "word": "frânsk",
-      "count": 7
-    },
-    {
-      "word": "fjoertoer",
-      "count": 7
-    },
-    {
-      "word": "leauwen",
-      "count": 7
-    },
-    {
-      "word": "sorben",
-      "count": 7
-    },
-    {
-      "word": "keunst",
-      "count": 7
-    },
-    {
-      "word": "algemien",
-      "count": 7
-    },
-    {
-      "word": "set",
-      "count": 7
-    },
-    {
-      "word": "maklik",
-      "count": 7
-    },
-    {
-      "word": "oanmakke",
-      "count": 7
-    },
-    {
-      "word": "genôch",
-      "count": 7
-    },
-    {
-      "word": "maldiven",
-      "count": 7
-    },
-    {
-      "word": "godstsjinst",
-      "count": 7
-    },
-    {
-      "word": "omtinken",
-      "count": 7
-    },
-    {
-      "word": "foarbyld",
-      "count": 7
-    },
-    {
-      "word": "wierskynlik",
-      "count": 7
-    },
-    {
-      "word": "krite",
-      "count": 7
-    },
-    {
-      "word": "haitskemuoi",
-      "count": 7
-    },
-    {
-      "word": "bedriuwen",
-      "count": 7
-    },
-    {
-      "word": "francis",
-      "count": 7
-    },
-    {
-      "word": "potter",
-      "count": 7
-    },
-    {
-      "word": "hoewol't",
-      "count": 7
-    },
-    {
-      "word": "docht",
-      "count": 7
-    },
-    {
-      "word": "krije",
-      "count": 7
-    },
-    {
-      "word": "berop",
-      "count": 7
-    },
-    {
-      "word": "noarden",
-      "count": 7
-    },
-    {
-      "word": "film",
-      "count": 7
-    },
-    {
-      "word": "moderne",
-      "count": 7
-    },
-    {
-      "word": "heechste",
-      "count": 7
-    },
-    {
-      "word": "keazen",
-      "count": 7
-    },
-    {
-      "word": "hektare",
-      "count": 7
-    },
-    {
-      "word": "yndo-jeropeänen",
-      "count": 7
-    },
-    {
-      "word": "boarnen",
-      "count": 7
-    },
-    {
-      "word": "datum",
-      "count": 7
-    },
-    {
-      "word": "dêrom",
-      "count": 7
-    },
-    {
-      "word": "frankyske",
-      "count": 7
-    },
-    {
-      "word": "plakken",
-      "count": 7
-    },
-    {
-      "word": "beskôge",
-      "count": 7
-    },
-    {
-      "word": "winsum",
-      "count": 7
-    },
-    {
-      "word": "froubuorren",
-      "count": 7
-    },
-    {
-      "word": "sprekt",
-      "count": 7
-    },
-    {
-      "word": "âlder",
-      "count": 7
-    },
-    {
-      "word": "biologyske",
-      "count": 7
-    },
-    {
-      "word": "leechstâl",
-      "count": 7
-    },
-    {
-      "word": "parasjutisten",
-      "count": 7
-    },
-    {
-      "word": "vries",
-      "count": 7
-    },
-    {
-      "word": "blêdspegel",
-      "count": 7
-    },
-    {
-      "word": "ynsekten",
-      "count": 7
-    },
-    {
-      "word": "aaien",
-      "count": 7
-    },
-    {
-      "word": "suster",
-      "count": 7
-    },
-    {
-      "word": "grif",
-      "count": 7
-    },
-    {
-      "word": "keppeling",
-      "count": 7
-    },
-    {
-      "word": "sa't",
-      "count": 7
-    },
-    {
-      "word": "dwaande",
-      "count": 7
-    },
-    {
-      "word": "dêrop",
-      "count": 7
-    },
-    {
-      "word": "friese",
-      "count": 7
-    },
-    {
-      "word": "sintrum",
-      "count": 7
-    },
-    {
-      "word": "nea",
-      "count": 7
-    },
-    {
-      "word": "beppesizzer",
-      "count": 7
-    },
-    {
-      "word": "skreau",
-      "count": 7
-    },
-    {
-      "word": "tink",
-      "count": 7
-    },
-    {
-      "word": "boeken",
-      "count": 7
-    },
-    {
-      "word": "fiif",
-      "count": 7
-    },
-    {
-      "word": "bakkerij",
-      "count": 7
-    },
-    {
-      "word": "lange",
-      "count": 7
-    },
-    {
-      "word": "sprutsen",
-      "count": 7
-    },
-    {
-      "word": "wichtichste",
-      "count": 7
-    },
-    {
-      "word": "jildt",
-      "count": 7
-    },
-    {
-      "word": "tank",
-      "count": 7
-    },
-    {
-      "word": "stik",
-      "count": 7
-    },
-    {
-      "word": "helte",
-      "count": 7
-    },
-    {
-      "word": "soenen",
-      "count": 7
-    },
-    {
-      "word": "del",
-      "count": 7
-    },
-    {
-      "word": "iii",
-      "count": 7
-    },
-    {
-      "word": "juny",
-      "count": 7
-    },
-    {
-      "word": "hoecht",
-      "count": 7
-    },
-    {
-      "word": "regel",
-      "count": 7
-    },
-    {
-      "word": "nei't",
-      "count": 7
-    },
-    {
-      "word": "essequebo",
-      "count": 7
-    },
-    {
-      "word": "freegje",
-      "count": 7
-    },
-    {
-      "word": "marten",
-      "count": 7
-    },
-    {
-      "word": "jelle",
-      "count": 7
-    },
-    {
-      "word": "kristlike",
-      "count": 7
-    },
-    {
-      "word": "persoanlike",
-      "count": 7
-    },
-    {
-      "word": "lichem",
-      "count": 7
-    },
-    {
-      "word": "kraj",
-      "count": 7
-    },
-    {
-      "word": "tsjechje",
-      "count": 7
-    },
-    {
-      "word": "betsjutting",
-      "count": 7
-    },
-    {
-      "word": "jpg",
-      "count": 7
-    },
-    {
-      "word": "titel",
-      "count": 7
-    },
-    {
-      "word": "eltse",
-      "count": 7
-    },
-    {
-      "word": "diel",
-      "count": 7
-    },
-    {
-      "word": "reide",
-      "count": 7
-    },
-    {
-      "word": "doarpen",
-      "count": 7
-    },
-    {
-      "word": "foarstelling",
-      "count": 7
-    },
-    {
-      "word": "iepen",
-      "count": 7
-    },
-    {
-      "word": "aartsingel",
-      "count": 7
-    },
-    {
-      "word": "lâns",
-      "count": 7
-    },
-    {
-      "word": "lytsere",
-      "count": 7
-    },
-    {
-      "word": "tolve",
-      "count": 7
-    },
-    {
-      "word": "nimmen",
-      "count": 7
-    },
-    {
-      "word": "slûzen",
-      "count": 7
-    },
-    {
-      "word": "tapast",
-      "count": 7
-    },
-    {
-      "word": "suden",
-      "count": 7
-    },
-    {
-      "word": "ferskynde",
-      "count": 7
-    },
-    {
-      "word": "koarnwert",
-      "count": 7
-    },
-    {
-      "word": "santjinde",
-      "count": 7
-    },
-    {
-      "word": "boppe",
-      "count": 7
-    },
-    {
-      "word": "striid",
-      "count": 7
-    },
-    {
-      "word": "links",
-      "count": 7
-    },
-    {
-      "word": "tagelyk",
-      "count": 7
-    },
-    {
-      "word": "forbritsen",
-      "count": 7
-    },
-    {
-      "word": "broers",
-      "count": 7
-    },
-    {
-      "word": "haitse",
-      "count": 7
-    },
-    {
-      "word": "haitses",
-      "count": 7
-    },
-    {
-      "word": "ferlet",
-      "count": 7
-    },
-    {
-      "word": "gebrûk",
-      "count": 7
-    },
-    {
-      "word": "bedwelming",
-      "count": 7
-    },
-    {
-      "word": "eilân",
-      "count": 7
-    },
-    {
-      "word": "link",
-      "count": 6
-    },
-    {
-      "word": "gûne",
-      "count": 6
-    },
-    {
-      "word": "ferzje",
-      "count": 6
-    },
-    {
-      "word": "nicht",
-      "count": 6
-    },
-    {
-      "word": "lêzing",
-      "count": 6
-    },
-    {
-      "word": "tastimming",
-      "count": 6
-    },
-    {
-      "word": "oersjoch",
-      "count": 6
-    },
-    {
-      "word": "romeinske",
-      "count": 6
-    },
-    {
-      "word": "libje",
-      "count": 6
-    },
-    {
-      "word": "kilometer",
-      "count": 6
-    },
-    {
-      "word": "jakobsgesinden",
-      "count": 6
-    },
-    {
-      "word": "nl",
-      "count": 6
-    },
-    {
-      "word": "hoe't",
-      "count": 6
-    },
-    {
-      "word": "litte",
-      "count": 6
-    },
-    {
-      "word": "laach",
-      "count": 6
-    },
-    {
-      "word": "heech",
-      "count": 6
-    },
-    {
-      "word": "dêrfoar",
-      "count": 6
-    },
-    {
-      "word": "saken",
-      "count": 6
-    },
-    {
-      "word": "rjochter",
-      "count": 6
-    },
-    {
-      "word": "heger",
-      "count": 6
-    },
-    {
-      "word": "útfierd",
-      "count": 6
-    },
-    {
-      "word": "westen",
-      "count": 6
-    },
-    {
-      "word": "deputearre",
-      "count": 6
-    },
-    {
-      "word": "fyn",
-      "count": 6
-    },
-    {
-      "word": "folken",
-      "count": 6
-    },
-    {
-      "word": "ynfierd",
-      "count": 6
-    },
-    {
-      "word": "oanbelanget",
-      "count": 6
-    },
-    {
-      "word": "skriuwt",
-      "count": 6
-    },
-    {
-      "word": "foel",
-      "count": 6
-    },
-    {
-      "word": "skriuwen",
-      "count": 6
-    },
-    {
-      "word": "kristlik",
-      "count": 6
-    },
-    {
-      "word": "park",
-      "count": 6
-    },
-    {
-      "word": "styfâlder",
-      "count": 6
-    },
-    {
-      "word": "oarder",
-      "count": 6
-    },
-    {
-      "word": "foarfallen",
-      "count": 6
-    },
-    {
-      "word": "mei't",
-      "count": 6
-    },
-    {
-      "word": "begjint",
-      "count": 6
-    },
-    {
-      "word": "leauwe",
-      "count": 6
-    },
-    {
-      "word": "besibskip",
-      "count": 6
-    },
-    {
-      "word": "wyt",
-      "count": 6
-    },
-    {
-      "word": "ferdwûn",
-      "count": 6
-    },
-    {
-      "word": "tinke",
-      "count": 6
-    },
-    {
-      "word": "rekke",
-      "count": 6
-    },
-    {
-      "word": "rug",
-      "count": 6
-    },
-    {
-      "word": "oantal",
-      "count": 6
-    },
-    {
-      "word": "nammentlik",
-      "count": 6
-    },
-    {
-      "word": "perioade",
-      "count": 6
-    },
-    {
-      "word": "kearen",
-      "count": 6
-    },
-    {
-      "word": "trijeresom",
-      "count": 6
-    },
-    {
-      "word": "pr",
-      "count": 6
-    },
-    {
-      "word": "krijt",
-      "count": 6
-    },
-    {
-      "word": "east",
-      "count": 6
-    },
-    {
-      "word": "spanje",
-      "count": 6
-    },
-    {
-      "word": "spaanske",
-      "count": 6
-    },
-    {
-      "word": "buorskip",
-      "count": 6
-    },
-    {
-      "word": "betsjut",
-      "count": 6
-    },
-    {
-      "word": "grou",
-      "count": 6
-    },
-    {
-      "word": "bewarre",
-      "count": 6
-    },
-    {
-      "word": "kind",
-      "count": 6
-    },
-    {
-      "word": "ferskillende",
-      "count": 6
-    },
-    {
-      "word": "zuylen",
-      "count": 6
-    },
-    {
-      "word": "faaks",
-      "count": 6
-    },
-    {
-      "word": "rjochts",
-      "count": 6
-    },
-    {
-      "word": "bliuwe",
-      "count": 6
-    },
-    {
-      "word": "moanne",
-      "count": 6
-    },
-    {
-      "word": "wêr",
-      "count": 6
-    },
-    {
-      "word": "sein",
-      "count": 6
-    },
-    {
-      "word": "oarspronklik",
-      "count": 6
-    },
-    {
-      "word": "goeie",
-      "count": 6
-    },
-    {
-      "word": "stoarn",
-      "count": 6
-    },
-    {
-      "word": "omke",
-      "count": 6
-    },
-    {
-      "word": "gerben",
-      "count": 6
-    },
-    {
-      "word": "troepen",
-      "count": 6
-    },
-    {
-      "word": "wurke",
-      "count": 6
-    },
-    {
-      "word": "âldste",
-      "count": 6
-    },
-    {
-      "word": "sizzen",
-      "count": 6
-    },
-    {
-      "word": "jehannes",
-      "count": 6
-    },
-    {
-      "word": "kristendom",
-      "count": 6
-    },
-    {
-      "word": "begûn",
-      "count": 6
-    },
-    {
-      "word": "klear",
-      "count": 6
-    },
-    {
-      "word": "nijmegen",
-      "count": 6
-    },
-    {
-      "word": "skieding",
-      "count": 6
-    },
-    {
-      "word": "abe",
-      "count": 6
-    },
-    {
-      "word": "menaam",
-      "count": 6
-    },
-    {
-      "word": "trijntje",
-      "count": 6
-    },
-    {
-      "word": "mauretaanje",
-      "count": 6
-    },
-    {
-      "word": "wûn",
-      "count": 6
-    },
-    {
-      "word": "ferlern",
-      "count": 6
-    },
-    {
-      "word": "krematoarium",
-      "count": 6
-    },
-    {
-      "word": "tegearre",
-      "count": 6
-    },
-    {
-      "word": "territoarium",
-      "count": 6
-    },
-    {
-      "word": "ienheden",
-      "count": 6
-    },
-    {
-      "word": "lytser",
-      "count": 6
-    },
-    {
-      "word": "bewenne",
-      "count": 6
-    },
-    {
-      "word": "likefolle",
-      "count": 6
-    },
-    {
-      "word": "justjes",
-      "count": 6
-    },
-    {
-      "word": "foarmje",
-      "count": 6
-    },
-    {
-      "word": "drewes",
-      "count": 6
-    },
-    {
-      "word": "wiet",
-      "count": 6
-    },
-    {
-      "word": "kees",
-      "count": 6
-    },
-    {
-      "word": "plaatsjes",
-      "count": 6
-    },
-    {
-      "word": "rome",
-      "count": 6
-    },
-    {
-      "word": "ynstitút",
-      "count": 6
-    },
-    {
-      "word": "derfoar",
-      "count": 6
-    },
-    {
-      "word": "stipe",
-      "count": 6
-    },
-    {
-      "word": "wyk",
-      "count": 6
-    },
-    {
-      "word": "oerflak",
-      "count": 6
-    },
-    {
-      "word": "boarne",
-      "count": 6
-    },
-    {
-      "word": "km",
-      "count": 6
-    },
-    {
-      "word": "bestie",
-      "count": 6
-    },
-    {
-      "word": "wêzen",
-      "count": 6
-    },
-    {
-      "word": "frijheid",
-      "count": 6
-    },
-    {
-      "word": "ynhâld",
-      "count": 6
-    },
-    {
-      "word": "je",
-      "count": 6
-    },
-    {
-      "word": "achttjinde",
-      "count": 6
-    },
-    {
-      "word": "kollum",
-      "count": 6
-    },
-    {
-      "word": "leger",
-      "count": 6
-    },
-    {
-      "word": "stimhawwende",
-      "count": 6
-    },
-    {
-      "word": "hjit",
-      "count": 6
-    },
-    {
-      "word": "ôfstân",
-      "count": 6
-    },
-    {
-      "word": "skriuwers",
-      "count": 6
-    },
-    {
-      "word": "wadman",
-      "count": 6
-    },
-    {
-      "word": "neist",
-      "count": 6
-    },
-    {
-      "word": "basis",
-      "count": 6
-    },
-    {
-      "word": "fûn",
-      "count": 6
-    },
-    {
-      "word": "nêst",
-      "count": 6
-    },
-    {
-      "word": "dragen",
-      "count": 6
-    },
-    {
-      "word": "derop",
-      "count": 6
-    },
-    {
-      "word": "latyn",
-      "count": 5
-    },
-    {
-      "word": "lycklama",
-      "count": 5
-    },
-    {
-      "word": "bosk",
-      "count": 5
-    },
-    {
-      "word": "stien",
-      "count": 5
-    },
-    {
-      "word": "idee",
-      "count": 5
-    },
-    {
-      "word": "mysha",
-      "count": 5
-    },
-    {
-      "word": "den",
-      "count": 5
-    },
-    {
-      "word": "ken",
-      "count": 5
-    },
-    {
-      "word": "des",
-      "count": 5
-    },
-    {
-      "word": "beslút",
-      "count": 5
-    },
-    {
-      "word": "wetten",
-      "count": 5
+      "word": "ien",
+      "count": 852
     },
     {
       "word": "dichter",
-      "count": 5
+      "count": 833
     },
     {
-      "word": "slavyske",
-      "count": 5
+      "word": "stêd",
+      "count": 831
     },
     {
-      "word": "farianten",
-      "count": 5
+      "word": "jan",
+      "count": 826
     },
     {
-      "word": "wikipedyen",
-      "count": 5
+      "word": "aktrise",
+      "count": 802
     },
     {
-      "word": "lêze",
-      "count": 5
+      "word": "nederlân",
+      "count": 788
     },
     {
-      "word": "literêr",
-      "count": 5
+      "word": "pornoaktrise",
+      "count": 777
     },
     {
-      "word": "elkoar",
-      "count": 5
+      "word": "augustus",
+      "count": 773
     },
     {
-      "word": "haaddjip",
-      "count": 5
+      "word": "maaie",
+      "count": 769
     },
     {
-      "word": "hichte",
-      "count": 5
+      "word": "desimber",
+      "count": 762
     },
     {
-      "word": "feart",
-      "count": 5
+      "word": "july",
+      "count": 756
     },
     {
-      "word": "nim",
-      "count": 5
+      "word": "hie",
+      "count": 754
     },
     {
-      "word": "bytsje",
-      "count": 5
+      "word": "alle",
+      "count": 749
     },
     {
-      "word": "aardich",
-      "count": 5
+      "word": "septimber",
+      "count": 745
     },
     {
-      "word": "biltse",
-      "count": 5
+      "word": "juny",
+      "count": 743
     },
     {
-      "word": "belang",
-      "count": 5
+      "word": "steaten",
+      "count": 735
     },
     {
-      "word": "londen",
-      "count": 5
+      "word": "lân",
+      "count": 732
     },
     {
-      "word": "tsjinst",
-      "count": 5
+      "word": "maart",
+      "count": 727
     },
     {
-      "word": "publisearre",
-      "count": 5
+      "word": "febrewaris",
+      "count": 724
     },
     {
-      "word": "market",
-      "count": 5
+      "word": "amerikaanske",
+      "count": 722
     },
     {
-      "word": "garden",
-      "count": 5
+      "word": "frânsk",
+      "count": 719
     },
     {
-      "word": "berikke",
-      "count": 5
+      "word": "datum",
+      "count": 718
     },
     {
-      "word": "kriich",
-      "count": 5
+      "word": "sûnt",
+      "count": 706
     },
     {
-      "word": "oprjochte",
-      "count": 5
+      "word": "oktober",
+      "count": 701
     },
     {
-      "word": "ut",
-      "count": 5
-    },
-    {
-      "word": "foarkomme",
-      "count": 5
-    },
-    {
-      "word": "hjoed",
-      "count": 5
-    },
-    {
-      "word": "lettere",
-      "count": 5
-    },
-    {
-      "word": "frankryk",
-      "count": 5
-    },
-    {
-      "word": "rjochterlike",
-      "count": 5
-    },
-    {
-      "word": "hearrenfean",
-      "count": 5
-    },
-    {
-      "word": "rjochtbank",
-      "count": 5
-    },
-    {
-      "word": "dêrta",
-      "count": 5
-    },
-    {
-      "word": "boekje",
-      "count": 5
-    },
-    {
-      "word": "minske",
-      "count": 5
-    },
-    {
-      "word": "wurkje",
-      "count": 5
-    },
-    {
-      "word": "feroare",
-      "count": 5
-    },
-    {
-      "word": "pûnsmiet",
-      "count": 5
-    },
-    {
-      "word": "doopsgesinde",
-      "count": 5
-    },
-    {
-      "word": "keapman",
-      "count": 5
-    },
-    {
-      "word": "bilt",
-      "count": 5
-    },
-    {
-      "word": "foarbern",
-      "count": 5
-    },
-    {
-      "word": "list",
-      "count": 5
-    },
-    {
-      "word": "rekket",
-      "count": 5
-    },
-    {
-      "word": "folsleine",
-      "count": 5
-    },
-    {
-      "word": "gedachten",
-      "count": 5
-    },
-    {
-      "word": "ornearre",
-      "count": 5
-    },
-    {
-      "word": "altiten",
-      "count": 5
-    },
-    {
-      "word": "poalen",
-      "count": 5
-    },
-    {
-      "word": "drok",
-      "count": 5
-    },
-    {
-      "word": "hjirfan",
-      "count": 5
-    },
-    {
-      "word": "fee",
-      "count": 5
-    },
-    {
-      "word": "riden",
-      "count": 5
-    },
-    {
-      "word": "selsstannige",
-      "count": 5
-    },
-    {
-      "word": "soldaten",
-      "count": 5
-    },
-    {
-      "word": "studearre",
-      "count": 5
-    },
-    {
-      "word": "metamorfoaze",
-      "count": 5
-    },
-    {
-      "word": "type",
-      "count": 5
-    },
-    {
-      "word": "hoop",
-      "count": 5
-    },
-    {
-      "word": "ôfbrutsen",
-      "count": 5
-    },
-    {
-      "word": "noardwesten",
-      "count": 5
-    },
-    {
-      "word": "tsarina",
-      "count": 5
-    },
-    {
-      "word": "grimersum",
-      "count": 5
-    },
-    {
-      "word": "boekerij",
-      "count": 5
-    },
-    {
-      "word": "bouwen",
-      "count": 5
-    },
-    {
-      "word": "nasjonale",
-      "count": 5
-    },
-    {
-      "word": "regear",
-      "count": 5
-    },
-    {
-      "word": "styfbern",
-      "count": 5
-    },
-    {
-      "word": "hâldt",
-      "count": 5
-    },
-    {
-      "word": "takomst",
-      "count": 5
-    },
-    {
-      "word": "beslacht",
-      "count": 5
-    },
-    {
-      "word": "nimt",
-      "count": 5
-    },
-    {
-      "word": "keimpes",
-      "count": 5
-    },
-    {
-      "word": "koopmans",
-      "count": 5
-    },
-    {
-      "word": "lidmaat",
-      "count": 5
-    },
-    {
-      "word": "herf",
-      "count": 5
-    },
-    {
-      "word": "bleaun",
-      "count": 5
-    },
-    {
-      "word": "diken",
-      "count": 5
-    },
-    {
-      "word": "swier",
-      "count": 5
-    },
-    {
-      "word": "minst",
-      "count": 5
-    },
-    {
-      "word": "beslist",
-      "count": 5
-    },
-    {
-      "word": "feroarings",
-      "count": 5
-    },
-    {
-      "word": "helpe",
-      "count": 5
-    },
-    {
-      "word": "keninkryk",
-      "count": 5
-    },
-    {
-      "word": "meie",
-      "count": 5
-    },
-    {
-      "word": "meinte",
-      "count": 5
-    },
-    {
-      "word": "bakker",
-      "count": 5
-    },
-    {
-      "word": "selskip",
-      "count": 5
-    },
-    {
-      "word": "kat",
-      "count": 5
-    },
-    {
-      "word": "kninen",
-      "count": 5
-    },
-    {
-      "word": "brûnei",
-      "count": 5
-    },
-    {
-      "word": "wraak",
-      "count": 5
-    },
-    {
-      "word": "oerlisside",
-      "count": 5
-    },
-    {
-      "word": "bêste",
-      "count": 5
-    },
-    {
-      "word": "alarik",
-      "count": 5
-    },
-    {
-      "word": "gearwurking",
-      "count": 5
-    },
-    {
-      "word": "ynformaasje",
-      "count": 5
-    },
-    {
-      "word": "safier",
-      "count": 5
-    },
-    {
-      "word": "nommen",
-      "count": 5
-    },
-    {
-      "word": "fraach",
-      "count": 5
-    },
-    {
-      "word": "hawwen",
-      "count": 5
-    },
-    {
-      "word": "testamint",
-      "count": 5
-    },
-    {
-      "word": "ferset",
-      "count": 5
-    },
-    {
-      "word": "boete",
-      "count": 5
-    },
-    {
-      "word": "hurd",
-      "count": 5
-    },
-    {
-      "word": "noardlike",
-      "count": 5
-    },
-    {
-      "word": "piebenga",
-      "count": 5
-    },
-    {
-      "word": "hânboek",
-      "count": 5
-    },
-    {
-      "word": "schelte",
-      "count": 5
-    },
-    {
-      "word": "datselde",
-      "count": 5
-    },
-    {
-      "word": "harinxma",
-      "count": 5
+      "word": "novimber",
+      "count": 700
     },
     {
       "word": "april",
-      "count": 5
+      "count": 700
     },
     {
-      "word": "ferkiezings",
-      "count": 5
+      "word": "dútsk",
+      "count": 699
     },
     {
-      "word": "sjocht",
-      "count": 5
+      "word": "jierren",
+      "count": 691
     },
     {
-      "word": "like",
-      "count": 5
+      "word": "tiid",
+      "count": 682
     },
     {
-      "word": "ferliest",
-      "count": 5
+      "word": "hawwe",
+      "count": 681
+    },
+    {
+      "word": "minsken",
+      "count": 680
+    },
+    {
+      "word": "komt",
+      "count": 677
+    },
+    {
+      "word": "dêr",
+      "count": 673
+    },
+    {
+      "word": "nije",
+      "count": 669
+    },
+    {
+      "word": "sa",
+      "count": 664
+    },
+    {
+      "word": "part",
+      "count": 663
+    },
+    {
+      "word": "waarden",
+      "count": 661
+    },
+    {
+      "word": "twa",
+      "count": 660
+    },
+    {
+      "word": "har",
+      "count": 659
+    },
+    {
+      "word": "twadde",
+      "count": 652
+    },
+    {
+      "word": "harren",
+      "count": 647
+    },
+    {
+      "word": "kaam",
+      "count": 646
+    },
+    {
+      "word": "ljouwert",
+      "count": 640
+    },
+    {
+      "word": "wol",
+      "count": 631
+    },
+    {
+      "word": "persoan",
+      "count": 631
+    },
+    {
+      "word": "ferstoarn",
+      "count": 627
+    },
+    {
+      "word": "dit",
+      "count": 622
+    },
+    {
+      "word": "frankryk",
+      "count": 616
+    },
+    {
+      "word": "wat",
+      "count": 608
+    },
+    {
+      "word": "foarfallen",
+      "count": 601
+    },
+    {
+      "word": "sjonger",
+      "count": 586
+    },
+    {
+      "word": "namme",
+      "count": 582
+    },
+    {
+      "word": "tsjin",
+      "count": 576
+    },
+    {
+      "word": "doarp",
+      "count": 574
+    },
+    {
+      "word": "plak",
+      "count": 569
+    },
+    {
+      "word": "nederlânske",
+      "count": 566
+    },
+    {
+      "word": "keunstskilder",
+      "count": 560
+    },
+    {
+      "word": "oarloch",
+      "count": 557
+    },
+    {
+      "word": "presidint",
+      "count": 546
+    },
+    {
+      "word": "ein",
+      "count": 542
+    },
+    {
+      "word": "willem",
+      "count": 518
+    },
+    {
+      "word": "leit",
+      "count": 501
+    },
+    {
+      "word": "ôf",
+      "count": 501
+    },
+    {
+      "word": "oprjochte",
+      "count": 501
+    },
+    {
+      "word": "keninkryk",
+      "count": 489
+    },
+    {
+      "word": "letter",
+      "count": 486
+    },
+    {
+      "word": "komme",
+      "count": 486
+    },
+    {
+      "word": "skriuwster",
+      "count": 486
+    },
+    {
+      "word": "skiednis",
+      "count": 478
+    },
+    {
+      "word": "lykwols",
+      "count": 476
+    },
+    {
+      "word": "dútske",
+      "count": 475
+    },
+    {
+      "word": "dútslân",
+      "count": 474
+    },
+    {
+      "word": "dan",
+      "count": 473
+    },
+    {
+      "word": "dizze",
+      "count": 468
+    },
+    {
+      "word": "taal",
+      "count": 467
+    },
+    {
+      "word": "gjin",
+      "count": 466
+    },
+    {
+      "word": "lykas",
+      "count": 459
+    },
+    {
+      "word": "begjin",
+      "count": 457
+    },
+    {
+      "word": "kin",
+      "count": 453
+    },
+    {
+      "word": "makke",
+      "count": 452
+    },
+    {
+      "word": "hearrenfean",
+      "count": 445
+    },
+    {
+      "word": "ingelân",
+      "count": 444
+    },
+    {
+      "word": "provinsje",
+      "count": 442
+    },
+    {
+      "word": "soe",
+      "count": 439
+    },
+    {
+      "word": "wer",
+      "count": 436
+    },
+    {
+      "word": "sjoernalist",
+      "count": 423
+    },
+    {
+      "word": "lêste",
+      "count": 421
+    },
+    {
+      "word": "ryk",
+      "count": 420
+    },
+    {
+      "word": "militêr",
+      "count": 419
+    },
+    {
+      "word": "trije",
+      "count": 417
+    },
+    {
+      "word": "ferskate",
+      "count": 415
+    },
+    {
+      "word": "grutste",
+      "count": 413
+    },
+    {
+      "word": "tsjerke",
+      "count": 411
+    },
+    {
+      "word": "neamd",
+      "count": 405
+    },
+    {
+      "word": "om't",
+      "count": 404
+    },
+    {
+      "word": "earst",
+      "count": 404
+    },
+    {
+      "word": "no",
+      "count": 401
+    },
+    {
+      "word": "leger",
+      "count": 397
+    },
+    {
+      "word": "keunstner",
+      "count": 387
+    },
+    {
+      "word": "gebiet",
+      "count": 383
+    },
+    {
+      "word": "john",
+      "count": 382
+    },
+    {
+      "word": "slach",
+      "count": 379
+    },
+    {
+      "word": "grins",
+      "count": 379
+    },
+    {
+      "word": "grut",
+      "count": 378
+    },
+    {
+      "word": "brûkt",
+      "count": 366
+    },
+    {
+      "word": "republyk",
+      "count": 366
+    },
+    {
+      "word": "wetter",
+      "count": 363
+    },
+    {
+      "word": "ynwenners",
+      "count": 363
+    },
+    {
+      "word": "wienen",
+      "count": 360
+    },
+    {
+      "word": "komponist",
+      "count": 359
+    },
+    {
+      "word": "utens",
+      "count": 358
+    },
+    {
+      "word": "haadstêd",
+      "count": 357
+    },
+    {
+      "word": "doe't",
+      "count": 353
+    },
+    {
+      "word": "krige",
+      "count": 351
+    },
+    {
+      "word": "floara",
+      "count": 349
+    },
+    {
+      "word": "hinne",
+      "count": 346
+    },
+    {
+      "word": "soad",
+      "count": 344
+    },
+    {
+      "word": "ii",
+      "count": 343
+    },
+    {
+      "word": "wurk",
+      "count": 340
+    },
+    {
+      "word": "eardere",
+      "count": 339
+    },
+    {
+      "word": "bekend",
+      "count": 337
+    },
+    {
+      "word": "britske",
+      "count": 334
+    },
+    {
+      "word": "giet",
+      "count": 331
+    },
+    {
+      "word": "troepen",
+      "count": 331
+    },
+    {
+      "word": "eigen",
+      "count": 330
+    },
+    {
+      "word": "doe",
+      "count": 327
+    },
+    {
+      "word": "literatuer",
+      "count": 327
+    },
+    {
+      "word": "makket",
+      "count": 323
+    },
+    {
+      "word": "stiet",
+      "count": 322
+    },
+    {
+      "word": "kear",
+      "count": 321
+    },
+    {
+      "word": "west",
+      "count": 318
+    },
+    {
+      "word": "lannen",
+      "count": 317
+    },
+    {
+      "word": "benammen",
+      "count": 316
+    },
+    {
+      "word": "muzikant",
+      "count": 313
+    },
+    {
+      "word": "wiene",
+      "count": 311
+    },
+    {
+      "word": "reedrider",
+      "count": 309
+    },
+    {
+      "word": "sa'n",
+      "count": 306
+    },
+    {
+      "word": "bestjoerlike",
+      "count": 303
+    },
+    {
+      "word": "likernôch",
+      "count": 303
+    },
+    {
+      "word": "fierder",
+      "count": 296
+    },
+    {
+      "word": "werom",
+      "count": 296
+    },
+    {
+      "word": "befolking",
+      "count": 295
+    },
+    {
+      "word": "ienheid",
+      "count": 294
+    },
+    {
+      "word": "friezen",
+      "count": 293
+    },
+    {
+      "word": "keizer",
+      "count": 293
+    },
+    {
+      "word": "sûnder",
+      "count": 292
+    },
+    {
+      "word": "wurden",
+      "count": 292
+    },
+    {
+      "word": "uny",
+      "count": 291
+    },
+    {
+      "word": "diel",
+      "count": 290
+    },
+    {
+      "word": "lytse",
+      "count": 290
+    },
+    {
+      "word": "frânske",
+      "count": 290
+    },
+    {
+      "word": "predikant",
+      "count": 290
+    },
+    {
+      "word": "sjoch",
+      "count": 289
+    },
+    {
+      "word": "tal",
+      "count": 287
+    },
+    {
+      "word": "sels",
+      "count": 286
+    },
+    {
+      "word": "nij",
+      "count": 284
+    },
+    {
+      "word": "regear",
+      "count": 283
+    },
+    {
+      "word": "sjongster",
+      "count": 282
+    },
+    {
+      "word": "ruslân",
+      "count": 280
+    },
+    {
+      "word": "libben",
+      "count": 279
+    },
+    {
+      "word": "beide",
+      "count": 278
+    },
+    {
+      "word": "russysk",
+      "count": 278
+    },
+    {
+      "word": "meast",
+      "count": 278
+    },
+    {
+      "word": "âlde",
+      "count": 277
+    },
+    {
+      "word": "koe",
+      "count": 277
+    },
+    {
+      "word": "johannes",
+      "count": 274
+    },
+    {
+      "word": "kinne",
+      "count": 273
+    },
+    {
+      "word": "karel",
+      "count": 272
+    },
+    {
+      "word": "moat",
+      "count": 271
+    },
+    {
+      "word": "bestjoerder",
+      "count": 268
+    },
+    {
+      "word": "fjouwer",
+      "count": 267
+    },
+    {
+      "word": "neffens",
+      "count": 266
+    },
+    {
+      "word": "ûnôfhinklik",
+      "count": 262
+    },
+    {
+      "word": "and",
+      "count": 258
+    },
+    {
+      "word": "men",
+      "count": 256
+    },
+    {
+      "word": "wrâld",
+      "count": 256
+    },
+    {
+      "word": "wêrby't",
+      "count": 256
+    },
+    {
+      "word": "eilân",
+      "count": 255
+    },
+    {
+      "word": "itaalje",
+      "count": 254
+    },
+    {
+      "word": "keppeling",
+      "count": 250
+    },
+    {
+      "word": "pieter",
+      "count": 250
+    },
+    {
+      "word": "plakken",
+      "count": 247
+    },
+    {
+      "word": "wylst",
+      "count": 247
+    },
+    {
+      "word": "ûnderdiel",
+      "count": 246
+    },
+    {
+      "word": "steat",
+      "count": 246
+    },
+    {
+      "word": "faak",
+      "count": 241
+    },
+    {
+      "word": "italjaansk",
+      "count": 240
+    },
+    {
+      "word": "guon",
+      "count": 238
+    },
+    {
+      "word": "fuotballer",
+      "count": 236
+    },
+    {
+      "word": "belgje",
+      "count": 236
+    },
+    {
+      "word": "gemeenten",
+      "count": 235
+    },
+    {
+      "word": "sweden",
+      "count": 235
+    },
+    {
+      "word": "doarpen",
+      "count": 234
+    },
+    {
+      "word": "noarden",
+      "count": 234
+    },
+    {
+      "word": "spile",
+      "count": 234
+    },
+    {
+      "word": "stêden",
+      "count": 233
+    },
+    {
+      "word": "jeropa",
+      "count": 233
+    },
+    {
+      "word": "feart",
+      "count": 232
+    },
+    {
+      "word": "premier",
+      "count": 232
+    },
+    {
+      "word": "dêrmei",
+      "count": 230
+    },
+    {
+      "word": "dagen",
+      "count": 230
+    },
+    {
+      "word": "ûndernimmer",
+      "count": 230
+    },
+    {
+      "word": "dei",
+      "count": 229
+    },
+    {
+      "word": "johan",
+      "count": 226
+    },
+    {
+      "word": "km²",
+      "count": 223
+    },
+    {
+      "word": "dea",
+      "count": 223
+    },
+    {
+      "word": "spanje",
+      "count": 223
+    },
+    {
+      "word": "fierders",
+      "count": 222
+    },
+    {
+      "word": "bestiet",
+      "count": 222
+    },
+    {
+      "word": "dêrby",
+      "count": 222
+    },
+    {
+      "word": "earder",
+      "count": 221
+    },
+    {
+      "word": "oersetter",
+      "count": 221
+    },
+    {
+      "word": "sil",
+      "count": 220
+    },
+    {
+      "word": "vries",
+      "count": 220
+    },
+    {
+      "word": "ûnbekend",
+      "count": 220
+    },
+    {
+      "word": "filosoof",
+      "count": 220
+    },
+    {
+      "word": "frjentsjer",
+      "count": 219
+    },
+    {
+      "word": "hurdfytser",
+      "count": 219
+    },
+    {
+      "word": "george",
+      "count": 218
+    },
+    {
+      "word": "arsjitekt",
+      "count": 218
+    },
+    {
+      "word": "tige",
+      "count": 217
+    },
+    {
+      "word": "blues",
+      "count": 217
+    },
+    {
+      "word": "holden",
+      "count": 214
+    },
+    {
+      "word": "man",
+      "count": 213
+    },
+    {
+      "word": "hâlden",
+      "count": 212
+    },
+    {
+      "word": "suden",
+      "count": 212
+    },
+    {
+      "word": "snits",
+      "count": 210
+    },
+    {
+      "word": "jeropeeske",
+      "count": 210
+    },
+    {
+      "word": "mooglik",
+      "count": 209
+    },
+    {
+      "word": "wêze",
+      "count": 209
+    },
+    {
+      "word": "olympyske",
+      "count": 209
+    },
+    {
+      "word": "oerset",
+      "count": 208
+    },
+    {
+      "word": "skiedkundige",
+      "count": 208
+    },
+    {
+      "word": "denemark",
+      "count": 208
+    },
+    {
+      "word": "km",
+      "count": 207
+    },
+    {
+      "word": "binnen",
+      "count": 207
+    },
+    {
+      "word": "hendrik",
+      "count": 207
+    },
+    {
+      "word": "wei",
+      "count": 206
+    },
+    {
+      "word": "taalkundige",
+      "count": 206
+    },
+    {
+      "word": "ferdrach",
+      "count": 206
+    },
+    {
+      "word": "publisist",
+      "count": 206
+    },
+    {
+      "word": "moanne",
+      "count": 205
+    },
+    {
+      "word": "foarm",
+      "count": 204
+    },
+    {
+      "word": "heechlearaar",
+      "count": 203
+    },
+    {
+      "word": "offisjele",
+      "count": 202
+    },
+    {
+      "word": "oaren",
+      "count": 202
+    },
+    {
+      "word": "keatser",
+      "count": 202
+    },
+    {
+      "word": "goed",
+      "count": 201
+    },
+    {
+      "word": "allinnich",
+      "count": 201
+    },
+    {
+      "word": "jong",
+      "count": 201
+    },
+    {
+      "word": "lang",
+      "count": 200
+    },
+    {
+      "word": "see",
+      "count": 200
+    },
+    {
+      "word": "protte",
+      "count": 199
+    },
+    {
+      "word": "dêrnei",
+      "count": 198
+    },
+    {
+      "word": "klaas",
+      "count": 197
+    },
+    {
+      "word": "ramt",
+      "count": 197
+    },
+    {
+      "word": "wrâldkriich",
+      "count": 196
+    },
+    {
+      "word": "sweedsk",
+      "count": 195
+    },
+    {
+      "word": "hollân",
+      "count": 195
+    },
+    {
+      "word": "lid",
+      "count": 194
+    },
+    {
+      "word": "greve",
+      "count": 194
+    },
+    {
+      "word": "begjint",
+      "count": 193
+    },
+    {
+      "word": "begûn",
+      "count": 193
+    },
+    {
+      "word": "poalen",
+      "count": 193
+    },
+    {
+      "word": "dêrfan",
+      "count": 192
+    },
+    {
+      "word": "meter",
+      "count": 192
+    },
+    {
+      "word": "komôf",
+      "count": 192
+    },
+    {
+      "word": "gie",
+      "count": 191
+    },
+    {
+      "word": "het",
+      "count": 191
+    },
+    {
+      "word": "james",
+      "count": 191
+    },
+    {
+      "word": "russyske",
+      "count": 190
+    },
+    {
+      "word": "lizze",
+      "count": 189
+    },
+    {
+      "word": "talen",
+      "count": 189
+    },
+    {
+      "word": "boer",
+      "count": 189
+    },
+    {
+      "word": "macht",
+      "count": 189
+    },
+    {
+      "word": "kamen",
+      "count": 188
+    },
+    {
+      "word": "easten",
+      "count": 188
+    },
+    {
+      "word": "robert",
+      "count": 188
+    },
+    {
+      "word": "altyd",
+      "count": 187
+    },
+    {
+      "word": "natuerkundige",
+      "count": 187
+    },
+    {
+      "word": "nederlannen",
+      "count": 186
+    },
+    {
+      "word": "ingelske",
+      "count": 184
+    },
+    {
+      "word": "krekt",
+      "count": 183
+    },
+    {
+      "word": "measte",
+      "count": 182
+    },
+    {
+      "word": "swarte",
+      "count": 182
+    },
+    {
+      "word": "lenstra",
+      "count": 182
+    },
+    {
+      "word": "dokkum",
+      "count": 181
+    },
+    {
+      "word": "eilannen",
+      "count": 181
+    },
+    {
+      "word": "amsterdam",
+      "count": 180
+    },
+    {
+      "word": "geografy",
+      "count": 180
+    },
+    {
+      "word": "teolooch",
+      "count": 180
+    },
+    {
+      "word": "westen",
+      "count": 179
+    },
+    {
+      "word": "religy",
+      "count": 179
+    },
+    {
+      "word": "william",
+      "count": 179
+    },
+    {
+      "word": "von",
+      "count": 179
+    },
+    {
+      "word": "lange",
+      "count": 178
+    },
+    {
+      "word": "saneamde",
+      "count": 178
+    },
+    {
+      "word": "súdwest-fryslân",
+      "count": 177
+    },
+    {
+      "word": "miljoen",
+      "count": 177
+    },
+    {
+      "word": "sina",
+      "count": 177
+    },
+    {
+      "word": "bern",
+      "count": 176
+    },
+    {
+      "word": "iii",
+      "count": 176
+    },
+    {
+      "word": "charles",
+      "count": 175
+    },
+    {
+      "word": "sovjet-uny",
+      "count": 175
+    },
+    {
+      "word": "alvestêdetocht",
+      "count": 174
+    },
+    {
+      "word": "die",
+      "count": 174
+    },
+    {
+      "word": "paul",
+      "count": 172
+    },
+    {
+      "word": "hiele",
+      "count": 171
+    },
+    {
+      "word": "thomas",
+      "count": 171
+    },
+    {
+      "word": "byldzjend",
+      "count": 171
+    },
+    {
+      "word": "wûn",
+      "count": 169
+    },
+    {
+      "word": "under",
+      "count": 169
+    },
+    {
+      "word": "partij",
+      "count": 169
+    },
+    {
+      "word": "list",
+      "count": 168
+    },
+    {
+      "word": "stoarn",
+      "count": 168
+    },
+    {
+      "word": "den",
+      "count": 168
+    },
+    {
+      "word": "jout",
+      "count": 168
+    },
+    {
+      "word": "anne",
+      "count": 168
+    },
+    {
+      "word": "eastenryk",
+      "count": 168
+    },
+    {
+      "word": "hans",
+      "count": 168
+    },
+    {
+      "word": "rint",
+      "count": 167
+    },
+    {
+      "word": "hjir",
+      "count": 167
+    },
+    {
+      "word": "hartoch",
+      "count": 167
+    },
+    {
+      "word": "generaal",
+      "count": 166
+    },
+    {
+      "word": "reedrydster",
+      "count": 166
+    },
+    {
+      "word": "opperhaad",
+      "count": 165
+    },
+    {
+      "word": "webstee",
+      "count": 164
+    },
+    {
+      "word": "soan",
+      "count": 164
+    },
+    {
+      "word": "regisseur",
+      "count": 164
+    },
+    {
+      "word": "skotsk",
+      "count": 163
+    },
+    {
+      "word": "mienskip",
+      "count": 162
+    },
+    {
+      "word": "hast",
+      "count": 161
+    },
+    {
+      "word": "dokter",
+      "count": 161
+    },
+    {
+      "word": "muzyk",
+      "count": 161
+    },
+    {
+      "word": "londen",
+      "count": 161
+    },
+    {
+      "word": "sjoen",
+      "count": 160
+    },
+    {
+      "word": "hillige",
+      "count": 160
+    },
+    {
+      "word": "prins",
+      "count": 160
+    },
+    {
+      "word": "japan",
+      "count": 160
+    },
+    {
+      "word": "moast",
+      "count": 159
+    },
+    {
+      "word": "piet",
+      "count": 158
+    },
+    {
+      "word": "noarsk",
+      "count": 158
+    },
+    {
+      "word": "reade",
+      "count": 158
+    },
+    {
+      "word": "jacob",
+      "count": 158
+    },
+    {
+      "word": "boud",
+      "count": 157
+    },
+    {
+      "word": "skotlân",
+      "count": 157
+    },
+    {
+      "word": "organisaasje",
+      "count": 156
+    },
+    {
+      "word": "ûntstie",
+      "count": 156
+    },
+    {
+      "word": "priis",
+      "count": 156
+    },
+    {
+      "word": "iepene",
+      "count": 156
+    },
+    {
+      "word": "peter",
+      "count": 156
+    },
+    {
+      "word": "offisjeel",
+      "count": 155
+    },
+    {
+      "word": "opheft",
+      "count": 155
+    },
+    {
+      "word": "ûnderwizer",
+      "count": 154
+    },
+    {
+      "word": "útfiner",
+      "count": 154
+    },
+    {
+      "word": "kant",
+      "count": 153
+    },
+    {
+      "word": "sprutsen",
+      "count": 152
+    },
+    {
+      "word": "utert",
+      "count": 150
+    },
+    {
+      "word": "hân",
+      "count": 149
+    },
+    {
+      "word": "alde",
+      "count": 149
+    },
+    {
+      "word": "grinslân",
+      "count": 149
+    },
+    {
+      "word": "marren",
+      "count": 148
+    },
+    {
+      "word": "boargemaster",
+      "count": 148
+    },
+    {
+      "word": "wichtichste",
+      "count": 148
+    },
+    {
+      "word": "romeinske",
+      "count": 148
+    },
+    {
+      "word": "albert",
+      "count": 148
+    },
+    {
+      "word": "folle",
+      "count": 147
+    },
+    {
+      "word": "lei",
+      "count": 147
+    },
+    {
+      "word": "rûn",
+      "count": 147
+    },
+    {
+      "word": "noardlike",
+      "count": 147
+    },
+    {
+      "word": "dútsers",
+      "count": 147
+    },
+    {
+      "word": "skreaun",
+      "count": 146
+    },
+    {
+      "word": "gysbert",
+      "count": 146
+    },
+    {
+      "word": "polityk",
+      "count": 146
+    },
+    {
+      "word": "to",
+      "count": 146
+    },
+    {
+      "word": "paus",
+      "count": 146
+    },
+    {
+      "word": "groep",
+      "count": 145
+    },
+    {
+      "word": "finlân",
+      "count": 145
+    },
+    {
+      "word": "gerrit",
+      "count": 145
+    },
+    {
+      "word": "kanadeesk",
+      "count": 145
+    },
+    {
+      "word": "falle",
+      "count": 144
+    },
+    {
+      "word": "kommen",
+      "count": 143
+    },
+    {
+      "word": "falt",
+      "count": 143
+    },
+    {
+      "word": "douwe",
+      "count": 143
+    },
+    {
+      "word": "kultuer",
+      "count": 143
+    },
+    {
+      "word": "meitsjen",
+      "count": 143
+    },
+    {
+      "word": "abe",
+      "count": 143
+    },
+    {
+      "word": "brekt",
+      "count": 143
+    },
+    {
+      "word": "stie",
+      "count": 142
+    },
+    {
+      "word": "beweging",
+      "count": 142
+    },
+    {
+      "word": "tsjintwurdich",
+      "count": 141
+    },
+    {
+      "word": "hûs",
+      "count": 141
+    },
+    {
+      "word": "gebieten",
+      "count": 141
+    },
+    {
+      "word": "noarwegen",
+      "count": 141
+    },
+    {
+      "word": "parys",
+      "count": 141
+    },
+    {
+      "word": "fiif",
+      "count": 140
+    },
+    {
+      "word": "pear",
+      "count": 140
+    },
+    {
+      "word": "lieding",
+      "count": 140
+    },
+    {
+      "word": "krigen",
+      "count": 139
+    },
+    {
+      "word": "new",
+      "count": 139
+    },
+    {
+      "word": "hongarije",
+      "count": 139
+    },
+    {
+      "word": "fûn",
+      "count": 138
+    },
+    {
+      "word": "keninginne",
+      "count": 138
+    },
+    {
+      "word": "herman",
+      "count": 137
+    },
+    {
+      "word": "dien",
+      "count": 136
+    },
+    {
+      "word": "sân",
+      "count": 136
+    },
+    {
+      "word": "tegearre",
+      "count": 136
+    },
+    {
+      "word": "famylje",
+      "count": 136
+    },
+    {
+      "word": "bûten",
+      "count": 135
+    },
+    {
+      "word": "swol",
+      "count": 135
+    },
+    {
+      "word": "skoalle",
+      "count": 135
+    },
+    {
+      "word": "aktivist",
+      "count": 134
+    },
+    {
+      "word": "minder",
+      "count": 133
+    },
+    {
+      "word": "gong",
+      "count": 133
+    },
+    {
+      "word": "frij",
+      "count": 133
+    },
+    {
+      "word": "kalinder",
+      "count": 133
+    },
+    {
+      "word": "fersetsstrider",
+      "count": 133
+    },
+    {
+      "word": "dêrtroch",
+      "count": 132
+    },
+    {
+      "word": "rivier",
+      "count": 132
+    },
+    {
+      "word": "docht",
+      "count": 131
+    },
+    {
+      "word": "hindrik",
+      "count": 131
+    },
+    {
+      "word": "kr",
+      "count": 131
+    },
+    {
+      "word": "omdat",
+      "count": 131
+    },
+    {
+      "word": "ierde",
+      "count": 131
+    },
+    {
+      "word": "oar",
+      "count": 129
+    },
+    {
+      "word": "grou",
+      "count": 129
+    },
+    {
+      "word": "spaanske",
+      "count": 129
+    },
+    {
+      "word": "politika",
+      "count": 129
+    },
+    {
+      "word": "woe",
+      "count": 128
+    },
+    {
+      "word": "dêrom",
+      "count": 128
+    },
+    {
+      "word": "set",
+      "count": 128
+    },
+    {
+      "word": "ynternasjonale",
+      "count": 128
+    },
+    {
+      "word": "album",
+      "count": 128
+    },
+    {
+      "word": "nei't",
+      "count": 127
+    },
+    {
+      "word": "brussel",
+      "count": 127
+    },
+    {
+      "word": "âldste",
+      "count": 126
+    },
+    {
+      "word": "sawol",
+      "count": 126
+    },
+    {
+      "word": "hieltyd",
+      "count": 126
+    },
+    {
+      "word": "europeeske",
+      "count": 126
+    },
+    {
+      "word": "oerisel",
+      "count": 126
+    },
+    {
+      "word": "fynt",
+      "count": 125
+    },
+    {
+      "word": "bilt",
+      "count": 125
+    },
+    {
+      "word": "grûn",
+      "count": 125
+    },
+    {
+      "word": "politike",
+      "count": 125
+    },
+    {
+      "word": "stik",
+      "count": 124
+    },
+    {
+      "word": "helte",
+      "count": 124
+    },
+    {
+      "word": "universiteit",
+      "count": 124
+    },
+    {
+      "word": "ekonomy",
+      "count": 124
+    },
+    {
+      "word": "ferklearret",
+      "count": 124
+    },
+    {
+      "word": "útjouwer",
+      "count": 124
+    },
+    {
+      "word": "gebrûk",
+      "count": 123
+    },
+    {
+      "word": "ynfloed",
+      "count": 123
+    },
+    {
+      "word": "roman",
+      "count": 123
+    },
+    {
+      "word": "drinte",
+      "count": 123
+    },
+    {
+      "word": "astronoom",
+      "count": 123
+    },
+    {
+      "word": "museum",
+      "count": 123
+    },
+    {
+      "word": "klup",
+      "count": 123
+    },
+    {
+      "word": "hienen",
+      "count": 122
+    },
+    {
+      "word": "harns",
+      "count": 121
+    },
+    {
+      "word": "hja",
+      "count": 121
+    },
+    {
+      "word": "haadplak",
+      "count": 121
+    },
+    {
+      "word": "njonken",
+      "count": 120
+    },
+    {
+      "word": "desennium",
+      "count": 120
+    },
+    {
+      "word": "fermoarde",
+      "count": 120
+    },
+    {
+      "word": "hoewol't",
+      "count": 119
+    },
+    {
+      "word": "setten",
+      "count": 119
+    },
+    {
+      "word": "sjen",
+      "count": 119
+    },
+    {
+      "word": "bygelyks",
+      "count": 119
+    },
+    {
+      "word": "oprjochting",
+      "count": 119
+    },
+    {
+      "word": "opstân",
+      "count": 119
+    },
+    {
+      "word": "ûnôfhinklikheid",
+      "count": 119
+    },
+    {
+      "word": "nazy-dútslân",
+      "count": 119
+    },
+    {
+      "word": "feriening",
+      "count": 118
+    },
+    {
+      "word": "nasjonale",
+      "count": 118
+    },
+    {
+      "word": "foarme",
+      "count": 118
+    },
+    {
+      "word": "súdlike",
+      "count": 118
+    },
+    {
+      "word": "koarte",
+      "count": 118
+    },
+    {
+      "word": "ut",
+      "count": 118
+    },
+    {
+      "word": "boppe",
+      "count": 118
+    },
+    {
+      "word": "ferhalen",
+      "count": 118
+    },
+    {
+      "word": "bal",
+      "count": 118
+    },
+    {
+      "word": "keazen",
+      "count": 118
+    },
+    {
+      "word": "spaansk",
+      "count": 118
+    },
+    {
+      "word": "stean",
+      "count": 117
+    },
+    {
+      "word": "oersetting",
+      "count": 117
+    },
+    {
+      "word": "los",
+      "count": 117
+    },
+    {
+      "word": "grikelân",
+      "count": 117
+    },
+    {
+      "word": "oerflak",
+      "count": 116
+    },
+    {
+      "word": "frou",
+      "count": 116
+    },
+    {
+      "word": "sport",
+      "count": 116
+    },
+    {
+      "word": "romans",
+      "count": 116
+    },
+    {
+      "word": "stadion",
+      "count": 116
+    },
+    {
+      "word": "richard",
+      "count": 116
+    },
+    {
+      "word": "roemeenje",
+      "count": 116
+    },
+    {
+      "word": "religyen",
+      "count": 116
+    },
+    {
+      "word": "bestjoer",
+      "count": 115
+    },
+    {
+      "word": "deensk",
+      "count": 115
+    },
+    {
+      "word": "ûntstien",
+      "count": 115
+    },
+    {
+      "word": "dus",
+      "count": 115
+    },
+    {
+      "word": "stifting",
+      "count": 115
+    },
+    {
+      "word": "brocht",
+      "count": 115
+    },
+    {
+      "word": "presintatrise",
+      "count": 115
+    },
+    {
+      "word": "david",
+      "count": 115
+    },
+    {
+      "word": "leden",
+      "count": 114
+    },
+    {
+      "word": "pc",
+      "count": 114
+    },
+    {
+      "word": "spoar",
+      "count": 114
+    },
+    {
+      "word": "portegal",
+      "count": 114
+    },
+    {
+      "word": "hurdrider",
+      "count": 113
+    },
+    {
+      "word": "dialekten",
+      "count": 113
+    },
+    {
+      "word": "rekke",
+      "count": 113
+    },
+    {
+      "word": "bestie",
+      "count": 113
+    },
+    {
+      "word": "heit",
+      "count": 113
+    },
+    {
+      "word": "sk",
+      "count": 113
+    },
+    {
+      "word": "boargeroarloch",
+      "count": 113
+    },
+    {
+      "word": "organisearre",
+      "count": 112
+    },
+    {
+      "word": "sadat",
+      "count": 112
+    },
+    {
+      "word": "lyts",
+      "count": 112
+    },
+    {
+      "word": "wichtige",
+      "count": 112
+    },
+    {
+      "word": "dúdlik",
+      "count": 112
+    },
+    {
+      "word": "punt",
+      "count": 112
+    },
+    {
+      "word": "cornelis",
+      "count": 112
+    },
+    {
+      "word": "rin",
+      "count": 112
+    },
+    {
+      "word": "deaden",
+      "count": 112
+    },
+    {
+      "word": "dirigint",
+      "count": 112
+    },
+    {
+      "word": "fûgels",
+      "count": 112
+    },
+    {
+      "word": "sette",
+      "count": 111
+    },
+    {
+      "word": "doel",
+      "count": 111
+    },
+    {
+      "word": "boek",
+      "count": 111
+    },
+    {
+      "word": "ierlân",
+      "count": 111
+    },
+    {
+      "word": "soarten",
+      "count": 111
+    },
+    {
+      "word": "presintator",
+      "count": 111
+    },
+    {
+      "word": "louis",
+      "count": 111
+    },
+    {
+      "word": "grut-brittanje",
+      "count": 110
+    },
+    {
+      "word": "dyk",
+      "count": 110
+    },
+    {
+      "word": "noardlik",
+      "count": 110
+    },
+    {
+      "word": "servje",
+      "count": 110
+    },
+    {
+      "word": "starum",
+      "count": 109
+    },
+    {
+      "word": "spul",
+      "count": 109
+    },
+    {
+      "word": "heechste",
+      "count": 109
+    },
+    {
+      "word": "you",
+      "count": 109
+    },
+    {
+      "word": "tocht",
+      "count": 108
+    },
+    {
+      "word": "henk",
+      "count": 108
+    },
+    {
+      "word": "boarne",
+      "count": 108
+    },
+    {
+      "word": "la",
+      "count": 108
+    },
+    {
+      "word": "britsk",
+      "count": 108
+    },
+    {
+      "word": "moatte",
+      "count": 107
+    },
+    {
+      "word": "meitsje",
+      "count": 107
+    },
+    {
+      "word": "noardfrysk",
+      "count": 107
+    },
+    {
+      "word": "loadewyk",
+      "count": 107
+    },
+    {
+      "word": "militêre",
+      "count": 107
+    },
+    {
+      "word": "flaamsk",
+      "count": 107
+    },
+    {
+      "word": "hiel",
+      "count": 106
+    },
+    {
+      "word": "dochs",
+      "count": 106
+    },
+    {
+      "word": "fia",
+      "count": 106
+    },
+    {
+      "word": "bestean",
+      "count": 106
+    },
+    {
+      "word": "naam",
+      "count": 106
+    },
+    {
+      "word": "ferskillende",
+      "count": 106
+    },
+    {
+      "word": "foarmje",
+      "count": 106
+    },
+    {
+      "word": "gefolch",
+      "count": 106
+    },
+    {
+      "word": "ried",
+      "count": 106
+    },
+    {
+      "word": "parlemint",
+      "count": 106
+    },
+    {
+      "word": "model",
+      "count": 106
+    },
+    {
+      "word": "gemeentlike",
+      "count": 105
+    },
+    {
+      "word": "weryndieling",
+      "count": 105
+    },
+    {
+      "word": "midsiuwen",
+      "count": 105
+    },
+    {
+      "word": "bulgarije",
+      "count": 105
+    },
+    {
+      "word": "foarmen",
+      "count": 104
+    },
+    {
+      "word": "finen",
+      "count": 104
+    },
+    {
+      "word": "ferbûn",
+      "count": 104
+    },
+    {
+      "word": "tredde",
+      "count": 104
+    },
+    {
+      "word": "jurist",
+      "count": 104
+    },
+    {
+      "word": "biolooch",
+      "count": 104
+    },
+    {
+      "word": "ûntdekkingsreizger",
+      "count": 104
+    },
+    {
+      "word": "albaanje",
+      "count": 104
+    },
+    {
+      "word": "deselde",
+      "count": 103
+    },
+    {
+      "word": "krijen",
+      "count": 103
+    },
+    {
+      "word": "wrâldoarloch",
+      "count": 103
+    },
+    {
+      "word": "kust",
+      "count": 103
+    },
+    {
+      "word": "del",
+      "count": 103
+    },
+    {
+      "word": "histoaryske",
+      "count": 102
+    },
+    {
+      "word": "hege",
+      "count": 102
+    },
+    {
+      "word": "lieder",
+      "count": 102
+    },
+    {
+      "word": "shakespeare",
+      "count": 102
+    },
+    {
+      "word": "wurd",
+      "count": 102
+    },
+    {
+      "word": "bleau",
+      "count": 102
+    },
+    {
+      "word": "naasjes",
+      "count": 102
+    },
+    {
+      "word": "oekraïne",
+      "count": 102
+    },
+    {
+      "word": "moderne",
+      "count": 101
+    },
+    {
+      "word": "rjocht",
+      "count": 101
+    },
+    {
+      "word": "noardeast-fryslân",
+      "count": 101
+    },
+    {
+      "word": "wiskundige",
+      "count": 101
+    },
+    {
+      "word": "sa't",
+      "count": 100
+    },
+    {
+      "word": "hannen",
+      "count": 100
+    },
+    {
+      "word": "himsels",
+      "count": 100
+    },
+    {
+      "word": "roomske",
+      "count": 100
+    },
+    {
+      "word": "napoleon",
+      "count": 100
+    },
+    {
+      "word": "ferdinand",
+      "count": 100
+    },
+    {
+      "word": "sadwaande",
+      "count": 99
+    },
+    {
+      "word": "froulju",
+      "count": 99
+    },
+    {
+      "word": "tsien",
+      "count": 99
+    },
+    {
+      "word": "sletten",
+      "count": 99
+    },
+    {
+      "word": "oars",
+      "count": 99
+    },
+    {
+      "word": "ferneamde",
+      "count": 99
+    },
+    {
+      "word": "belgyske",
+      "count": 99
+    },
+    {
+      "word": "lakota",
+      "count": 99
+    },
+    {
+      "word": "helle",
+      "count": 98
+    },
+    {
+      "word": "oere",
+      "count": 98
+    },
+    {
+      "word": "haan",
+      "count": 98
+    },
+    {
+      "word": "ropt",
+      "count": 98
+    },
+    {
+      "word": "nea",
+      "count": 97
+    },
+    {
+      "word": "fral",
+      "count": 97
+    },
+    {
+      "word": "sleat",
+      "count": 97
+    },
+    {
+      "word": "swiere",
+      "count": 97
+    },
+    {
+      "word": "heart",
+      "count": 97
+    },
+    {
+      "word": "gedachten",
+      "count": 97
+    },
+    {
+      "word": "een",
+      "count": 97
+    },
+    {
+      "word": "nimt",
+      "count": 97
+    },
+    {
+      "word": "steedhâlder",
+      "count": 97
+    },
+    {
+      "word": "york",
+      "count": 97
+    },
+    {
+      "word": "italjaanske",
+      "count": 97
+    },
+    {
+      "word": "jaan",
+      "count": 96
+    },
+    {
+      "word": "besocht",
+      "count": 96
+    },
+    {
+      "word": "feroare",
+      "count": 96
+    },
+    {
+      "word": "titel",
+      "count": 96
+    },
+    {
+      "word": "frije",
+      "count": 96
+    },
+    {
+      "word": "kristlike",
+      "count": 96
+    },
+    {
+      "word": "iv",
+      "count": 96
+    },
+    {
+      "word": "jouwer",
+      "count": 96
+    },
+    {
+      "word": "anna",
+      "count": 96
+    },
+    {
+      "word": "eastenryksk",
+      "count": 96
+    },
+    {
+      "word": "elts",
+      "count": 95
+    },
+    {
+      "word": "status",
+      "count": 95
+    },
+    {
+      "word": "stifte",
+      "count": 95
+    },
+    {
+      "word": "rol",
+      "count": 95
+    },
+    {
+      "word": "film",
+      "count": 95
+    },
+    {
+      "word": "wêrfan",
+      "count": 95
+    },
+    {
+      "word": "gitarist",
+      "count": 95
+    },
+    {
+      "word": "boalsert",
+      "count": 94
+    },
+    {
+      "word": "hiene",
+      "count": 94
+    },
+    {
+      "word": "wergea",
+      "count": 94
+    },
+    {
+      "word": "halbertsma",
+      "count": 94
+    },
+    {
+      "word": "sitten",
+      "count": 94
+    },
+    {
+      "word": "sint",
+      "count": 94
+    },
+    {
+      "word": "strjitten",
+      "count": 94
+    },
+    {
+      "word": "oranje",
+      "count": 94
+    },
+    {
+      "word": "eltse",
+      "count": 93
+    },
+    {
+      "word": "stikken",
+      "count": 93
+    },
+    {
+      "word": "dirk",
+      "count": 93
+    },
+    {
+      "word": "súdlik",
+      "count": 93
+    },
+    {
+      "word": "litouwen",
+      "count": 93
+    },
+    {
+      "word": "wyk",
+      "count": 93
+    },
+    {
+      "word": "warkum",
+      "count": 92
+    },
+    {
+      "word": "dykstra",
+      "count": 92
+    },
+    {
+      "word": "folk",
+      "count": 92
+    },
+    {
+      "word": "algemien",
+      "count": 92
+    },
+    {
+      "word": "wet",
+      "count": 92
+    },
+    {
+      "word": "sit",
+      "count": 92
+    },
+    {
+      "word": "dielen",
+      "count": 92
+    },
+    {
+      "word": "ferskaat",
+      "count": 92
+    },
+    {
+      "word": "tsjinst",
+      "count": 92
+    },
+    {
+      "word": "osmaanske",
+      "count": 92
+    },
+    {
+      "word": "diktator",
+      "count": 92
+    },
+    {
+      "word": "estlân",
+      "count": 92
+    },
+    {
+      "word": "dichteresse",
+      "count": 92
+    },
+    {
+      "word": "ôfstân",
+      "count": 91
+    },
+    {
+      "word": "keunst",
+      "count": 91
+    },
+    {
+      "word": "boarnsterhim",
+      "count": 91
+    },
+    {
+      "word": "akkrum",
+      "count": 91
+    },
+    {
+      "word": "kilometer",
+      "count": 91
+    },
+    {
+      "word": "dimter",
+      "count": 91
+    },
+    {
+      "word": "fuort",
+      "count": 91
+    },
+    {
+      "word": "wike",
+      "count": 91
+    },
+    {
+      "word": "joseph",
+      "count": 91
+    },
+    {
+      "word": "egypte",
+      "count": 91
+    },
+    {
+      "word": "sjongeres",
+      "count": 91
+    },
+    {
+      "word": "eksoat",
+      "count": 91
+    },
+    {
+      "word": "perioade",
+      "count": 90
+    },
+    {
+      "word": "rige",
+      "count": 90
+    },
+    {
+      "word": "bekende",
+      "count": 90
+    },
+    {
+      "word": "foarmet",
+      "count": 90
+    },
+    {
+      "word": "sterk",
+      "count": 90
+    },
+    {
+      "word": "ea",
+      "count": 90
+    },
+    {
+      "word": "dûmny",
+      "count": 90
+    },
+    {
+      "word": "velde",
+      "count": 90
     },
     {
       "word": "efter",
-      "count": 5
+      "count": 90
     },
     {
-      "word": "okko",
-      "count": 5
+      "word": "iepen",
+      "count": 90
     },
     {
-      "word": "hoopje",
-      "count": 5
+      "word": "jo",
+      "count": 90
+    },
+    {
+      "word": "le",
+      "count": 90
+    },
+    {
+      "word": "skilder",
+      "count": 90
+    },
+    {
+      "word": "black",
+      "count": 90
+    },
+    {
+      "word": "iepening",
+      "count": 90
+    },
+    {
+      "word": "pas",
+      "count": 89
+    },
+    {
+      "word": "âld",
+      "count": 89
+    },
+    {
+      "word": "tiidrek",
+      "count": 89
+    },
+    {
+      "word": "folslein",
+      "count": 89
+    },
+    {
+      "word": "hâldt",
+      "count": 89
+    },
+    {
+      "word": "liet",
+      "count": 89
+    },
+    {
+      "word": "sjoerd",
+      "count": 89
+    },
+    {
+      "word": "oanlein",
+      "count": 89
+    },
+    {
+      "word": "wint",
+      "count": 89
+    },
+    {
+      "word": "spullen",
+      "count": 89
+    },
+    {
+      "word": "toanielskriuwer",
+      "count": 89
+    },
+    {
+      "word": "oranje-nassau",
+      "count": 89
+    },
+    {
+      "word": "band",
+      "count": 89
+    },
+    {
+      "word": "itselde",
+      "count": 88
+    },
+    {
+      "word": "dêrfoar",
+      "count": 88
+    },
+    {
+      "word": "hjoed",
+      "count": 88
+    },
+    {
+      "word": "frijheid",
+      "count": 88
+    },
+    {
+      "word": "sintrum",
+      "count": 88
+    },
+    {
+      "word": "saken",
+      "count": 88
+    },
+    {
+      "word": "god",
+      "count": 88
+    },
+    {
+      "word": "ferbining",
+      "count": 88
+    },
+    {
+      "word": "films",
+      "count": 88
+    },
+    {
+      "word": "andorra",
+      "count": 88
+    },
+    {
+      "word": "mei't",
+      "count": 87
+    },
+    {
+      "word": "omkriten",
+      "count": 87
+    },
+    {
+      "word": "piter",
+      "count": 87
+    },
+    {
+      "word": "maria",
+      "count": 87
+    },
+    {
+      "word": "nobelpriiswinner",
+      "count": 87
+    },
+    {
+      "word": "beskôge",
+      "count": 87
+    },
+    {
+      "word": "for",
+      "count": 87
+    },
+    {
+      "word": "oerwinning",
+      "count": 87
+    },
+    {
+      "word": "slute",
+      "count": 87
+    },
+    {
+      "word": "antonides",
+      "count": 87
+    },
+    {
+      "word": "seelân",
+      "count": 87
+    },
+    {
+      "word": "sy",
+      "count": 86
+    },
+    {
+      "word": "inkeld",
+      "count": 86
+    },
+    {
+      "word": "krije",
+      "count": 86
+    },
+    {
+      "word": "ferneamd",
+      "count": 86
+    },
+    {
+      "word": "lettere",
+      "count": 86
+    },
+    {
+      "word": "waadhoeke",
+      "count": 86
+    },
+    {
+      "word": "fier",
+      "count": 86
+    },
+    {
+      "word": "biskop",
+      "count": 86
+    },
+    {
+      "word": "freark",
+      "count": 86
+    },
+    {
+      "word": "adolf",
+      "count": 86
+    },
+    {
+      "word": "feanwâlden",
+      "count": 86
+    },
+    {
+      "word": "lee",
+      "count": 86
+    },
+    {
+      "word": "frank",
+      "count": 86
+    },
+    {
+      "word": "henry",
+      "count": 86
+    },
+    {
+      "word": "kriget",
+      "count": 85
+    },
+    {
+      "word": "jonge",
+      "count": 85
+    },
+    {
+      "word": "gedicht",
+      "count": 85
+    },
+    {
+      "word": "ferskynde",
+      "count": 85
+    },
+    {
+      "word": "frysktalige",
+      "count": 85
+    },
+    {
+      "word": "joech",
+      "count": 85
+    },
+    {
+      "word": "stipe",
+      "count": 85
+    },
+    {
+      "word": "omgong",
+      "count": 85
+    },
+    {
+      "word": "terp",
+      "count": 85
+    },
+    {
+      "word": "boarn",
+      "count": 85
+    },
+    {
+      "word": "stasjon",
+      "count": 85
+    },
+    {
+      "word": "irak",
+      "count": 85
+    },
+    {
+      "word": "steatsgreep",
+      "count": 85
+    },
+    {
+      "word": "koloanje",
+      "count": 85
+    },
+    {
+      "word": "hjit",
+      "count": 84
+    },
+    {
+      "word": "betsjut",
+      "count": 84
+    },
+    {
+      "word": "boeken",
+      "count": 84
+    },
+    {
+      "word": "kriich",
+      "count": 84
+    },
+    {
+      "word": "jaap",
+      "count": 84
+    },
+    {
+      "word": "striid",
+      "count": 84
+    },
+    {
+      "word": "pier",
+      "count": 84
+    },
+    {
+      "word": "eartiids",
+      "count": 84
+    },
+    {
+      "word": "alfred",
+      "count": 84
+    },
+    {
+      "word": "wize",
+      "count": 83
+    },
+    {
+      "word": "hoekstra",
+      "count": 83
+    },
+    {
+      "word": "midden",
+      "count": 83
+    },
+    {
+      "word": "ûndersyk",
+      "count": 83
+    },
+    {
+      "word": "wichtich",
+      "count": 83
+    },
+    {
+      "word": "saksen",
+      "count": 83
+    },
+    {
+      "word": "haach",
+      "count": 83
+    },
+    {
+      "word": "fanwegen",
+      "count": 83
+    },
+    {
+      "word": "ferset",
+      "count": 83
+    },
+    {
+      "word": "folge",
+      "count": 83
+    },
+    {
+      "word": "bakker",
+      "count": 83
+    },
+    {
+      "word": "state",
+      "count": 83
+    },
+    {
+      "word": "kommunistyske",
+      "count": 83
+    },
+    {
+      "word": "fersetsman",
+      "count": 83
+    },
+    {
+      "word": "hongaarsk",
+      "count": 83
+    },
+    {
+      "word": "ûntwikkele",
+      "count": 82
+    },
+    {
+      "word": "dantumadiel",
+      "count": 82
+    },
+    {
+      "word": "partoer",
+      "count": 82
+    },
+    {
+      "word": "minske",
+      "count": 82
+    },
+    {
+      "word": "oseaan",
+      "count": 82
+    },
+    {
+      "word": "mêd",
+      "count": 81
+    },
+    {
+      "word": "hjoeddeiske",
+      "count": 81
+    },
+    {
+      "word": "kanada",
+      "count": 81
+    },
+    {
+      "word": "littenseradiel",
+      "count": 81
+    },
+    {
+      "word": "harry",
+      "count": 81
+    },
+    {
+      "word": "punten",
+      "count": 81
+    },
+    {
+      "word": "sjoernaliste",
+      "count": 81
+    },
+    {
+      "word": "letlân",
+      "count": 81
+    },
+    {
+      "word": "winterspullen",
+      "count": 81
+    },
+    {
+      "word": "sportbestjoerder",
+      "count": 81
+    },
+    {
+      "word": "bretonsk",
+      "count": 81
+    },
+    {
+      "word": "hâlde",
+      "count": 80
+    },
+    {
+      "word": "fêst",
+      "count": 80
+    },
+    {
+      "word": "better",
+      "count": 80
+    },
+    {
+      "word": "jirnsum",
+      "count": 80
+    },
+    {
+      "word": "jûn",
+      "count": 80
+    },
+    {
+      "word": "omrop",
+      "count": 80
+    },
+    {
+      "word": "ik",
+      "count": 80
+    },
+    {
+      "word": "heech",
+      "count": 80
+    },
+    {
+      "word": "frede",
+      "count": 80
+    },
+    {
+      "word": "arthur",
+      "count": 80
+    },
+    {
+      "word": "japiks",
+      "count": 79
+    },
+    {
+      "word": "bruinsma",
+      "count": 79
+    },
+    {
+      "word": "allinne",
+      "count": 79
+    },
+    {
+      "word": "lju",
+      "count": 79
+    },
+    {
+      "word": "wales",
+      "count": 79
+    },
+    {
+      "word": "iersk",
+      "count": 79
+    },
+    {
+      "word": "wommels",
+      "count": 79
+    },
+    {
+      "word": "seis",
+      "count": 79
+    },
+    {
+      "word": "kabaretier",
+      "count": 79
+    },
+    {
+      "word": "israel",
+      "count": 79
+    },
+    {
+      "word": "marten",
+      "count": 79
+    },
+    {
+      "word": "alliëarden",
+      "count": 79
+    },
+    {
+      "word": "ynskedee",
+      "count": 79
+    },
+    {
+      "word": "steane",
+      "count": 78
+    },
+    {
+      "word": "manlju",
+      "count": 78
+    },
+    {
+      "word": "nammen",
+      "count": 78
+    },
+    {
+      "word": "dialekt",
+      "count": 78
+    },
+    {
+      "word": "my",
+      "count": 78
+    },
+    {
+      "word": "fjild",
+      "count": 78
+    },
+    {
+      "word": "koenen",
+      "count": 78
+    },
+    {
+      "word": "rie",
+      "count": 78
+    },
+    {
+      "word": "brandsma",
+      "count": 78
+    },
+    {
+      "word": "san",
+      "count": 78
+    },
+    {
+      "word": "komyk",
+      "count": 78
+    },
+    {
+      "word": "fiert",
+      "count": 77
+    },
+    {
+      "word": "dwaan",
+      "count": 77
+    },
+    {
+      "word": "jild",
+      "count": 77
+    },
+    {
+      "word": "ynwennertal",
+      "count": 77
+    },
+    {
+      "word": "biltsk",
+      "count": 77
+    },
+    {
+      "word": "brûke",
+      "count": 77
+    },
+    {
+      "word": "publisearre",
+      "count": 77
+    },
+    {
+      "word": "selskip",
+      "count": 77
+    },
+    {
+      "word": "gearwurking",
+      "count": 77
+    },
+    {
+      "word": "tsjerken",
+      "count": 77
+    },
+    {
+      "word": "buorskip",
+      "count": 77
+    },
+    {
+      "word": "jacobus",
+      "count": 77
+    },
+    {
+      "word": "turkije",
+      "count": 77
+    },
+    {
+      "word": "alve",
+      "count": 76
+    },
+    {
+      "word": "krante",
+      "count": 76
+    },
+    {
+      "word": "genôch",
+      "count": 76
+    },
+    {
+      "word": "rjochter",
+      "count": 76
+    },
+    {
+      "word": "hielendal",
+      "count": 76
+    },
+    {
+      "word": "lit",
+      "count": 76
+    },
+    {
+      "word": "stuit",
+      "count": 76
+    },
+    {
+      "word": "wim",
+      "count": 76
+    },
+    {
+      "word": "soarte",
+      "count": 76
+    },
+    {
+      "word": "hitler",
+      "count": 76
+    },
+    {
+      "word": "lietsjeskriuwer",
+      "count": 76
+    },
+    {
+      "word": "pornoakteur",
+      "count": 76
+    },
+    {
+      "word": "late",
+      "count": 75
+    },
+    {
+      "word": "nimmen",
+      "count": 75
+    },
+    {
+      "word": "wêrûnder",
+      "count": 75
+    },
+    {
+      "word": "alles",
+      "count": 75
+    },
+    {
+      "word": "europa",
+      "count": 75
+    },
+    {
+      "word": "hearre",
+      "count": 75
+    },
+    {
+      "word": "per",
+      "count": 75
+    },
+    {
+      "word": "radio",
+      "count": 75
+    },
+    {
+      "word": "stien",
+      "count": 75
+    },
+    {
+      "word": "frjentsjerteradiel",
+      "count": 75
+    },
+    {
+      "word": "or",
+      "count": 75
+    },
+    {
+      "word": "kristendom",
+      "count": 75
+    },
+    {
+      "word": "gelre",
+      "count": 75
+    },
+    {
+      "word": "byp",
+      "count": 75
+    },
+    {
+      "word": "sloveenje",
+      "count": 75
+    },
+    {
+      "word": "súd-afrika",
+      "count": 75
+    },
+    {
+      "word": "keppelings",
+      "count": 74
+    },
+    {
+      "word": "deenske",
+      "count": 74
+    },
+    {
+      "word": "talitten",
+      "count": 74
+    },
+    {
+      "word": "kleaster",
+      "count": 74
+    },
+    {
+      "word": "rome",
+      "count": 74
+    },
+    {
+      "word": "tekener",
+      "count": 74
+    },
+    {
+      "word": "flagge",
+      "count": 74
+    },
+    {
+      "word": "friedrich",
+      "count": 74
+    },
+    {
+      "word": "neakenmodel",
+      "count": 74
+    },
+    {
+      "word": "belang",
+      "count": 73
+    },
+    {
+      "word": "oft",
+      "count": 73
+    },
+    {
+      "word": "reedriden",
+      "count": 73
+    },
+    {
+      "word": "rekkene",
+      "count": 73
+    },
+    {
+      "word": "skylge",
+      "count": 73
+    },
+    {
+      "word": "tekst",
+      "count": 73
+    },
+    {
+      "word": "albrecht",
+      "count": 73
+    },
+    {
+      "word": "line",
+      "count": 73
+    },
+    {
+      "word": "bewâld",
+      "count": 73
+    },
+    {
+      "word": "simmerspullen",
+      "count": 73
+    },
+    {
+      "word": "besetting",
+      "count": 73
+    },
+    {
+      "word": "revolúsje",
+      "count": 73
+    },
+    {
+      "word": "seizoen",
+      "count": 73
+    },
+    {
+      "word": "súdeasten",
+      "count": 72
+    },
+    {
+      "word": "lizzen",
+      "count": 72
+    },
+    {
+      "word": "oarspronklik",
+      "count": 72
+    },
+    {
+      "word": "postma",
+      "count": 72
+    },
+    {
+      "word": "parten",
+      "count": 72
+    },
+    {
+      "word": "wymbritseradiel",
+      "count": 72
+    },
+    {
+      "word": "nivo",
+      "count": 72
+    },
+    {
+      "word": "funksje",
+      "count": 72
+    },
+    {
+      "word": "wedstriid",
+      "count": 72
+    },
+    {
+      "word": "fuotbal",
+      "count": 72
+    },
+    {
+      "word": "groot",
+      "count": 72
+    },
+    {
+      "word": "wenjen",
+      "count": 71
+    },
+    {
+      "word": "poëzij",
+      "count": 71
+    },
+    {
+      "word": "rjochte",
+      "count": 71
+    },
+    {
+      "word": "tydskrift",
+      "count": 71
+    },
+    {
+      "word": "ekonomyske",
+      "count": 71
+    },
+    {
+      "word": "grûnwet",
+      "count": 71
+    },
+    {
+      "word": "eric",
+      "count": 71
+    },
+    {
+      "word": "krijt",
+      "count": 71
+    },
+    {
+      "word": "prinsesse",
+      "count": 71
+    },
+    {
+      "word": "tsjechje",
+      "count": 71
+    },
+    {
+      "word": "switserlân",
+      "count": 71
+    },
+    {
+      "word": "martin",
+      "count": 71
+    },
+    {
+      "word": "johnson",
+      "count": 71
+    },
+    {
+      "word": "filmkritikus",
+      "count": 71
+    },
+    {
+      "word": "hylpen",
+      "count": 70
+    },
+    {
+      "word": "basis",
+      "count": 70
+    },
+    {
+      "word": "minne",
+      "count": 70
+    },
+    {
+      "word": "provinsjes",
+      "count": 70
+    },
+    {
+      "word": "ûnderwiis",
+      "count": 70
+    },
+    {
+      "word": "bruorren",
+      "count": 70
+    },
+    {
+      "word": "rest",
+      "count": 70
+    },
+    {
+      "word": "sintrale",
+      "count": 70
+    },
+    {
+      "word": "úteinlik",
+      "count": 70
+    },
+    {
+      "word": "bliuwe",
+      "count": 70
+    },
+    {
+      "word": "ferstjerren",
+      "count": 70
+    },
+    {
+      "word": "toer",
+      "count": 70
+    },
+    {
+      "word": "westlik",
+      "count": 70
+    },
+    {
+      "word": "euro",
+      "count": 70
+    },
+    {
+      "word": "striptekener",
+      "count": 70
     }
-  ],
-  "source": "CommonLID TSV + FLORES+ (dev+devtest)",
-  "total_tokens": 41130,
-  "unique_tokens": 8386
+  ]
 }

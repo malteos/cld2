@@ -24,3 +24,19 @@ Gujarati emerged as a distinct literary language in the medieval period
 (12th–15th c.); modern prose was shaped by **Narmad** and **Dalpatram**
 in the 19th century, and further by **M. K. Gandhi**, for whom it was
 the first language.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://gu.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://gujaratsamachar.com/` — Gujarat Samachar — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://gu.wikipedia.org/` — Gujarati Wikipedia (cultural)
+- `https://gujaratsamachar.com/` — Gujarat Samachar (news)
+- `https://gujaratinformation.gujarat.gov.in/` — Government of Gujarat — Information Dept. (gov)

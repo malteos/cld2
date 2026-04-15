@@ -21,3 +21,17 @@ grapheme.
 Medieval Ligurian was a prestige Mediterranean trading language (Genoa).
 Modern written Ligurian has a small but active literary scene; web text
 alternates between the standard and older French-influenced spellings.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://lij.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+
+### Catalogued source candidates
+
+- `https://lij.wikipedia.org/` — Ligurian Wikipedia (cultural)
+- `https://www.gazzettinodellaliguria.it/` — Ligurian regional news (news)

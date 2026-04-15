@@ -23,3 +23,17 @@ All of these are absent from Modern Greek's monotonic orthography.
 In CommonLID `grc` text is drawn from scanned / digitised corpora
 (Perseus, TLG-derived) and typically presents edited Classical or Koine
 Greek with full polytonic accentuation.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://www.perseus.tufts.edu/hopper/` — Perseus Digital Library — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://grc.wikipedia.org/` — Ancient Greek Wikipedia (cultural)
+- `https://www.perseus.tufts.edu/hopper/` — Perseus Digital Library (cultural)

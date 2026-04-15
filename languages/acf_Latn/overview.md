@@ -21,3 +21,22 @@ The lexicon is overwhelmingly French-derived, but the grammar is creole —
 analytic with preverbal TMA particles **ka / té / kay**. Contact with
 English is pervasive and many modern speakers code-switch, but the core
 function-word inventory is stable.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://www.stlucianewsonline.com/` — St. Lucia News Online — _live WebFetch_
+- `https://www.govt.lc/` — Government of Saint Lucia (Kwéyòl-language cultural items) — _live WebFetch_
+- `https://www.potomitan.info/` — Potomitan — Caribbean-creole literature / education portal — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://stlucia.loopnews.com/` — Loop News Saint Lucia (English + Kwéyòl items) (news)
+- `https://www.stlucianewsonline.com/` — St. Lucia News Online (news)
+- `https://www.govt.lc/` — Government of Saint Lucia (Kwéyòl-language cultural items) (gov)
+- `https://www.potomitan.info/` — Potomitan — Caribbean-creole literature / education portal (education)
+- `https://www.jw.org/lcf/` — jw.org Saint Lucian Creole (as 'lcf') (religious)

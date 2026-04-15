@@ -11,3 +11,20 @@ Written in Chinese characters (Han, 汉字). The `cmn_Hans` row uses **Simplifie
 ## Status
 
 Official language of the PRC, Taiwan, and Singapore; a working language of the UN. `cmn` is the Putonghua/Guoyu standard form, and in running written text it is effectively indistinguishable from the `zho` macrocode entry in CommonLID.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://zh.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.gov.cn/` — 中国政府网 — Central People's Government (PRC) — _live WebFetch_
+- `https://www.xinhuanet.com/` — Xinhua (Simplified Chinese) — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://zh.wikipedia.org/` — Chinese Wikipedia (cultural)
+- `https://www.gov.cn/` — 中国政府网 — Central People's Government (PRC) (gov)
+- `https://www.xinhuanet.com/` — Xinhua (Simplified Chinese) (news)

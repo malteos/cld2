@@ -17,3 +17,19 @@ The script is famous for:
 ## History and status
 
 Malayalam emerged as distinct from Tamil by roughly the 9th–10th century CE and has a strong literary tradition from the medieval *maṇipravāḷam* style onward. It is an official language of India and of Kerala.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://ml.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.mathrubhumi.com/` — Mathrubhumi — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://ml.wikipedia.org/` — Malayalam Wikipedia (cultural)
+- `https://www.mathrubhumi.com/` — Mathrubhumi (news)
+- `https://www.kerala.gov.in/malayalam` — Government of Kerala (gov)

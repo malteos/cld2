@@ -17,3 +17,19 @@ Full-width Latin (Romaji) and Arabic digits are common. Punctuation is full-widt
 ## Status
 
 National and de facto official language of Japan; a major language of international business, popular culture, and technology documentation.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://ja.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.asahi.com/` — Asahi Shimbun — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://ja.wikipedia.org/` — Japanese Wikipedia (cultural)
+- `https://www.kantei.go.jp/` — Prime Minister's Office of Japan (gov)
+- `https://www.asahi.com/` — Asahi Shimbun (news)

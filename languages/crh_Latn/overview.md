@@ -29,3 +29,17 @@ is dominantly Latin.
 Crimean Tatar is recognised as an indigenous language of Ukraine
 and is classified as "severely endangered" by UNESCO after the
 1944 deportation and subsequent language shift.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://crh.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+
+### Catalogued source candidates
+
+- `https://crh.wikipedia.org/` — Crimean Tatar Wikipedia (cultural)
+- `https://ktat.org/` — Crimean Tatar cultural society (civil)

@@ -11,3 +11,18 @@ Western Frisian uses the 26-letter Latin alphabet augmented with circumflex vowe
 ## History
 
 The modern written standard was codified in the 19th and 20th centuries; the 1980 spelling reform standardised circumflex and digraph use. Despite heavy bilingual contact with Dutch, Frisian preserves distinctive Anglo-Frisian features that make it the continental language most historically related to English.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://fy.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.omropfryslan.nl/` — Omrop Fryslân — regional broadcaster — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://fy.wikipedia.org/` — Western Frisian Wikipedia (cultural)
+- `https://www.omropfryslan.nl/` — Omrop Fryslân — regional broadcaster (news)

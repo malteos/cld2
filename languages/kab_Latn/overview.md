@@ -11,3 +11,18 @@ Kabyle is today written most commonly in a **Latin-based Berber alphabet** devel
 ## History and status
 
 Kabyle is the best-documented and most-published Berber variety. Since 2002 Amazigh (Tamazight) is a national language of Algeria, and since 2016 an official one. Kabyle has a vibrant press, music, and online presence (including a full Kabyle Wikipedia).
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://kab.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.tamurt.info/` — Tamurt — Kabyle news portal — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://kab.wikipedia.org/` — Kabyle Wikipedia (cultural)
+- `https://www.tamurt.info/` — Tamurt — Kabyle news portal (news)

@@ -11,3 +11,20 @@ German uses a 26-letter Latin alphabet plus three umlauted vowels `ä`, `ö`, `�
 ## History
 
 Standard German crystallised around Luther's 1534 Bible translation and was codified by the Duden dictionary from 1880; the 1996/2006 spelling reform standardised `ß`/`ss` distribution and several compound rules.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://de.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.bundesregierung.de/` — Bundesregierung (Federal Government of Germany) — _live WebFetch_
+- `https://www.tagesschau.de/` — Tagesschau — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://de.wikipedia.org/` — German Wikipedia (cultural)
+- `https://www.bundesregierung.de/` — Bundesregierung (Federal Government of Germany) (gov)
+- `https://www.tagesschau.de/` — Tagesschau (news)

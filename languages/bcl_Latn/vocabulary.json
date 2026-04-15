@@ -1,4009 +1,4012 @@
 {
   "code": "bcl",
   "name": "Central Bikol",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (bcl.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 263418,
+  "unique_tokens": 29873,
   "words": [
     {
       "word": "sa",
-      "count": 1085
+      "count": 15297
     },
     {
       "word": "na",
-      "count": 1066
+      "count": 13685
     },
     {
       "word": "an",
-      "count": 851
-    },
-    {
-      "word": "mga",
-      "count": 591
+      "count": 12720
     },
     {
       "word": "kan",
-      "count": 537
+      "count": 11750
     },
     {
-      "word": "nin",
-      "count": 525
+      "word": "mga",
+      "count": 8672
     },
     {
       "word": "asin",
-      "count": 341
+      "count": 4605
     },
     {
-      "word": "sarong",
-      "count": 165
+      "word": "nin",
+      "count": 4450
     },
     {
-      "word": "iyo",
-      "count": 112
-    },
-    {
-      "word": "ini",
-      "count": 103
-    },
-    {
-      "word": "si",
-      "count": 76
-    },
-    {
-      "word": "man",
-      "count": 74
-    },
-    {
-      "word": "kun",
-      "count": 64
-    },
-    {
-      "word": "klase",
-      "count": 53
-    },
-    {
-      "word": "mas",
-      "count": 49
-    },
-    {
-      "word": "may",
-      "count": 48
-    },
-    {
-      "word": "tinanom",
-      "count": 47
-    },
-    {
-      "word": "baguhon",
-      "count": 47
-    },
-    {
-      "word": "bilang",
-      "count": 43
-    },
-    {
-      "word": "ni",
-      "count": 41
-    },
-    {
-      "word": "para",
-      "count": 41
-    },
-    {
-      "word": "pag",
-      "count": 39
-    },
-    {
-      "word": "arog",
-      "count": 36
-    },
-    {
-      "word": "nagkapirang",
-      "count": 36
-    },
-    {
-      "word": "sagkod",
-      "count": 35
-    },
-    {
-      "word": "saiyang",
-      "count": 35
-    },
-    {
-      "word": "pagbabago",
-      "count": 33
-    },
-    {
-      "word": "lugar",
-      "count": 31
-    },
-    {
-      "word": "kinaban",
-      "count": 31
-    },
-    {
-      "word": "klima",
-      "count": 30
-    },
-    {
-      "word": "plasma",
-      "count": 30
-    },
-    {
-      "word": "pang",
-      "count": 29
+      "word": "banwaan",
+      "count": 2381
     },
     {
       "word": "igwa",
-      "count": 28
-    },
-    {
-      "word": "iba",
-      "count": 28
-    },
-    {
-      "word": "tataramon",
-      "count": 28
-    },
-    {
-      "word": "siring",
-      "count": 26
-    },
-    {
-      "word": "siya",
-      "count": 26
-    },
-    {
-      "word": "saro",
-      "count": 26
-    },
-    {
-      "word": "tawo",
-      "count": 26
-    },
-    {
-      "word": "paagi",
-      "count": 25
-    },
-    {
-      "word": "panahon",
-      "count": 24
-    },
-    {
-      "word": "alagad",
-      "count": 22
-    },
-    {
-      "word": "baga",
-      "count": 21
-    },
-    {
-      "word": "kabtang",
-      "count": 21
-    },
-    {
-      "word": "kaini",
-      "count": 21
-    },
-    {
-      "word": "pa",
-      "count": 20
-    },
-    {
-      "word": "epekto",
-      "count": 20
-    },
-    {
-      "word": "ibang",
-      "count": 20
-    },
-    {
-      "word": "temperatura",
-      "count": 20
-    },
-    {
-      "word": "laen",
-      "count": 20
-    },
-    {
-      "word": "dai",
-      "count": 19
-    },
-    {
-      "word": "source",
-      "count": 19
-    },
-    {
-      "word": "inaapod",
-      "count": 19
-    },
-    {
-      "word": "daga",
-      "count": 19
-    },
-    {
-      "word": "niya",
-      "count": 18
-    },
-    {
-      "word": "mantang",
-      "count": 18
-    },
-    {
-      "word": "pwedeng",
-      "count": 18
-    },
-    {
-      "word": "dakol",
-      "count": 18
-    },
-    {
-      "word": "enot",
-      "count": 17
-    },
-    {
-      "word": "iyan",
-      "count": 17
-    },
-    {
-      "word": "buhay",
-      "count": 17
-    },
-    {
-      "word": "huli",
-      "count": 17
-    },
-    {
-      "word": "bakong",
-      "count": 17
-    },
-    {
-      "word": "ley",
-      "count": 16
-    },
-    {
-      "word": "laog",
-      "count": 16
-    },
-    {
-      "word": "minsan",
-      "count": 16
-    },
-    {
-      "word": "ta",
-      "count": 16
-    },
-    {
-      "word": "duros",
-      "count": 15
-    },
-    {
-      "word": "halimbawa",
-      "count": 15
-    },
-    {
-      "word": "gikan",
-      "count": 15
-    },
-    {
-      "word": "ingles",
-      "count": 15
-    },
-    {
-      "word": "estado",
-      "count": 15
-    },
-    {
-      "word": "taon",
-      "count": 15
-    },
-    {
-      "word": "saindang",
-      "count": 15
-    },
-    {
-      "word": "gabos",
-      "count": 15
-    },
-    {
-      "word": "nag",
-      "count": 15
-    },
-    {
-      "word": "kaiba",
-      "count": 15
-    },
-    {
-      "word": "saen",
-      "count": 15
-    },
-    {
-      "word": "poon",
-      "count": 14
-    },
-    {
-      "word": "igwang",
-      "count": 14
-    },
-    {
-      "word": "tanganing",
-      "count": 14
-    },
-    {
-      "word": "ika",
-      "count": 14
-    },
-    {
-      "word": "sistema",
-      "count": 14
-    },
-    {
-      "word": "wikipedia",
-      "count": 14
-    },
-    {
-      "word": "ina",
-      "count": 14
-    },
-    {
-      "word": "de",
-      "count": 13
-    },
-    {
-      "word": "puedeng",
-      "count": 13
-    },
-    {
-      "word": "duwang",
-      "count": 13
-    },
-    {
-      "word": "rehiyon",
-      "count": 13
-    },
-    {
-      "word": "kadaklan",
-      "count": 13
-    },
-    {
-      "word": "irarom",
-      "count": 13
-    },
-    {
-      "word": "bagong",
-      "count": 13
-    },
-    {
-      "word": "aldaw",
-      "count": 13
-    },
-    {
-      "word": "pagbago",
-      "count": 13
-    },
-    {
-      "word": "nagin",
-      "count": 13
-    },
-    {
-      "word": "posibleng",
-      "count": 13
-    },
-    {
-      "word": "kamugtakan",
-      "count": 13
-    },
-    {
-      "word": "termino",
-      "count": 13
-    },
-    {
-      "word": "gita",
-      "count": 12
-    },
-    {
-      "word": "sita",
-      "count": 12
-    },
-    {
-      "word": "aki",
-      "count": 12
-    },
-    {
-      "word": "teksto",
-      "count": 12
-    },
-    {
-      "word": "halangkaw",
-      "count": 12
-    },
-    {
-      "word": "oltanan",
-      "count": 12
-    },
-    {
-      "word": "marhay",
-      "count": 12
-    },
-    {
-      "word": "sana",
-      "count": 12
-    },
-    {
-      "word": "estorya",
-      "count": 12
-    },
-    {
-      "word": "ekolohiya",
-      "count": 12
-    },
-    {
-      "word": "pangyayari",
-      "count": 12
-    },
-    {
-      "word": "rama",
-      "count": 12
-    },
-    {
-      "word": "gobyerno",
-      "count": 11
-    },
-    {
-      "word": "pulis",
-      "count": 11
-    },
-    {
-      "word": "nasyon",
-      "count": 11
-    },
-    {
-      "word": "grupo",
-      "count": 11
-    },
-    {
-      "word": "palibot",
-      "count": 11
-    },
-    {
-      "word": "eskwelahan",
-      "count": 11
-    },
-    {
-      "word": "siglo",
-      "count": 11
-    },
-    {
-      "word": "kaiyan",
-      "count": 11
-    },
-    {
-      "word": "bikol",
-      "count": 11
-    },
-    {
-      "word": "tubig",
-      "count": 11
-    },
-    {
-      "word": "dapit",
-      "count": 10
-    },
-    {
-      "word": "huring",
-      "count": 10
-    },
-    {
-      "word": "direktang",
-      "count": 10
-    },
-    {
-      "word": "resulta",
-      "count": 10
-    },
-    {
-      "word": "pagdistribwir",
-      "count": 10
-    },
-    {
-      "word": "bilog",
-      "count": 10
-    },
-    {
-      "word": "daing",
-      "count": 10
-    },
-    {
-      "word": "co",
-      "count": 10
-    },
-    {
-      "word": "mayor",
-      "count": 10
-    },
-    {
-      "word": "ginagamit",
-      "count": 10
-    },
-    {
-      "word": "inulnan",
-      "count": 10
-    },
-    {
-      "word": "kada",
-      "count": 9
-    },
-    {
-      "word": "namundag",
-      "count": 9
-    },
-    {
-      "word": "kusina",
-      "count": 9
-    },
-    {
-      "word": "ngani",
-      "count": 9
-    },
-    {
-      "word": "rio",
-      "count": 9
-    },
-    {
-      "word": "oran",
-      "count": 9
-    },
-    {
-      "word": "edukasyon",
-      "count": 9
-    },
-    {
-      "word": "pagigin",
-      "count": 9
-    },
-    {
-      "word": "dakulang",
-      "count": 9
-    },
-    {
-      "word": "estados",
-      "count": 9
-    },
-    {
-      "word": "unidos",
-      "count": 9
-    },
-    {
-      "word": "pebrero",
-      "count": 9
-    },
-    {
-      "word": "dios",
-      "count": 9
-    },
-    {
-      "word": "porma",
-      "count": 9
-    },
-    {
-      "word": "thai",
-      "count": 9
-    },
-    {
-      "word": "muay",
-      "count": 9
-    },
-    {
-      "word": "opera",
-      "count": 9
-    },
-    {
-      "word": "teleserye",
-      "count": 9
-    },
-    {
-      "word": "korporasyon",
-      "count": 9
-    },
-    {
-      "word": "dungo",
-      "count": 8
-    },
-    {
-      "word": "idtong",
-      "count": 8
-    },
-    {
-      "word": "namamayo",
-      "count": 8
-    },
-    {
-      "word": "paano",
-      "count": 8
-    },
-    {
-      "word": "modernong",
-      "count": 8
-    },
-    {
-      "word": "parte",
-      "count": 8
-    },
-    {
-      "word": "pankagabsan",
-      "count": 8
-    },
-    {
-      "word": "proseso",
-      "count": 8
-    },
-    {
-      "word": "elektron",
-      "count": 8
-    },
-    {
-      "word": "gas",
-      "count": 8
-    },
-    {
-      "word": "presenteng",
-      "count": 8
-    },
-    {
-      "word": "relasyon",
-      "count": 8
-    },
-    {
-      "word": "presente",
-      "count": 8
-    },
-    {
-      "word": "pangenot",
-      "count": 8
-    },
-    {
-      "word": "terminong",
-      "count": 8
-    },
-    {
-      "word": "orog",
-      "count": 8
-    },
-    {
-      "word": "kapangyarihan",
-      "count": 8
-    },
-    {
-      "word": "pulisiya",
-      "count": 8
-    },
-    {
-      "word": "parate",
-      "count": 8
-    },
-    {
-      "word": "ki",
-      "count": 8
-    },
-    {
-      "word": "pagtalubo",
-      "count": 8
-    },
-    {
-      "word": "hale",
-      "count": 8
-    },
-    {
-      "word": "kisa",
-      "count": 8
-    },
-    {
-      "word": "parke",
-      "count": 8
-    },
-    {
-      "word": "hindu",
-      "count": 8
-    },
-    {
-      "word": "asya",
-      "count": 8
-    },
-    {
-      "word": "sanang",
-      "count": 8
-    },
-    {
-      "word": "artikulong",
-      "count": 8
-    },
-    {
-      "word": "relihiyon",
-      "count": 8
-    },
-    {
-      "word": "rikas",
-      "count": 8
-    },
-    {
-      "word": "upanishad",
-      "count": 8
-    },
-    {
-      "word": "marikas",
-      "count": 8
-    },
-    {
-      "word": "bhagavad",
-      "count": 7
-    },
-    {
-      "word": "bago",
-      "count": 7
-    },
-    {
-      "word": "tibaad",
-      "count": 7
-    },
-    {
-      "word": "tsina",
-      "count": 7
-    },
-    {
-      "word": "sinda",
-      "count": 7
-    },
-    {
-      "word": "lambang",
-      "count": 7
-    },
-    {
-      "word": "filipinas",
-      "count": 7
-    },
-    {
-      "word": "sakop",
-      "count": 7
-    },
-    {
-      "word": "sain",
-      "count": 7
-    },
-    {
-      "word": "populasyon",
-      "count": 7
-    },
-    {
-      "word": "reaksion",
-      "count": 7
-    },
-    {
-      "word": "manlainlain",
-      "count": 7
-    },
-    {
-      "word": "langit",
-      "count": 7
-    },
-    {
-      "word": "kadagaan",
-      "count": 7
-    },
-    {
-      "word": "ay",
-      "count": 7
-    },
-    {
-      "word": "uzbekistan",
-      "count": 7
-    },
-    {
-      "word": "pagkamalinalang",
-      "count": 7
-    },
-    {
-      "word": "organisasyon",
-      "count": 7
-    },
-    {
-      "word": "kahulogan",
-      "count": 7
-    },
-    {
-      "word": "bako",
-      "count": 7
-    },
-    {
-      "word": "police",
-      "count": 7
-    },
-    {
-      "word": "paggamit",
-      "count": 7
-    },
-    {
-      "word": "midbid",
-      "count": 7
-    },
-    {
-      "word": "prutas",
-      "count": 7
-    },
-    {
-      "word": "dangan",
-      "count": 7
-    },
-    {
-      "word": "gibo",
-      "count": 7
-    },
-    {
-      "word": "ideya",
-      "count": 7
-    },
-    {
-      "word": "bagay",
-      "count": 7
-    },
-    {
-      "word": "dating",
-      "count": 7
-    },
-    {
-      "word": "kinua",
-      "count": 7
-    },
-    {
-      "word": "vishnu",
-      "count": 7
-    },
-    {
-      "word": "dugo",
-      "count": 7
-    },
-    {
-      "word": "siyang",
-      "count": 7
-    },
-    {
-      "word": "arado",
-      "count": 7
-    },
-    {
-      "word": "partido",
-      "count": 7
-    },
-    {
-      "word": "suanoy",
-      "count": 6
-    },
-    {
-      "word": "yaon",
-      "count": 6
-    },
-    {
-      "word": "puede",
-      "count": 6
-    },
-    {
-      "word": "kultura",
-      "count": 6
-    },
-    {
-      "word": "komersyal",
-      "count": 6
-    },
-    {
-      "word": "opisyal",
-      "count": 6
-    },
-    {
-      "word": "rekombinasyon",
-      "count": 6
-    },
-    {
-      "word": "pwede",
-      "count": 6
-    },
-    {
-      "word": "pagbabagong",
-      "count": 6
-    },
-    {
-      "word": "komunidad",
-      "count": 6
-    },
-    {
-      "word": "magasin",
-      "count": 6
-    },
-    {
-      "word": "pahina",
-      "count": 6
-    },
-    {
-      "word": "sokol",
-      "count": 6
-    },
-    {
-      "word": "ciudad",
-      "count": 6
-    },
-    {
-      "word": "kapital",
-      "count": 6
-    },
-    {
-      "word": "ranggo",
-      "count": 6
-    },
-    {
-      "word": "istaran",
-      "count": 6
-    },
-    {
-      "word": "sosyal",
-      "count": 6
-    },
-    {
-      "word": "kundi",
-      "count": 6
-    },
-    {
-      "word": "amerika",
-      "count": 6
-    },
-    {
-      "word": "dakula",
-      "count": 6
-    },
-    {
-      "word": "parateng",
-      "count": 6
-    },
-    {
-      "word": "paragamit",
-      "count": 6
-    },
-    {
-      "word": "imperial",
-      "count": 6
-    },
-    {
-      "word": "purana",
-      "count": 6
-    },
-    {
-      "word": "isinurat",
-      "count": 6
-    },
-    {
-      "word": "pagkalaenlaen",
-      "count": 6
-    },
-    {
-      "word": "segun",
-      "count": 6
-    },
-    {
-      "word": "nagkapira",
-      "count": 6
-    },
-    {
-      "word": "brahman",
-      "count": 6
-    },
-    {
-      "word": "of",
-      "count": 6
-    },
-    {
-      "word": "edad",
-      "count": 6
-    },
-    {
-      "word": "ranggong",
-      "count": 6
-    },
-    {
-      "word": "grupong",
-      "count": 6
-    },
-    {
-      "word": "mahalagang",
-      "count": 6
-    },
-    {
-      "word": "natural",
-      "count": 6
-    },
-    {
-      "word": "mahiwas",
-      "count": 6
-    },
-    {
-      "word": "sur-subangan",
-      "count": 6
-    },
-    {
-      "word": "kahiwasan",
-      "count": 6
-    },
-    {
-      "word": "tamboan",
-      "count": 6
-    },
-    {
-      "word": "kaining",
-      "count": 6
-    },
-    {
-      "word": "soap",
-      "count": 6
-    },
-    {
-      "word": "telebisyon",
-      "count": 6
-    },
-    {
-      "word": "historya",
-      "count": 6
-    },
-    {
-      "word": "nasa",
-      "count": 6
-    },
-    {
-      "word": "estruktura",
-      "count": 6
-    },
-    {
-      "word": "pagkatapos",
-      "count": 6
-    },
-    {
-      "word": "amay",
-      "count": 6
-    },
-    {
-      "word": "hawak",
-      "count": 5
-    },
-    {
-      "word": "parating",
-      "count": 5
-    },
-    {
-      "word": "dugang",
-      "count": 5
-    },
-    {
-      "word": "tungkulin",
-      "count": 5
-    },
-    {
-      "word": "giraray",
-      "count": 5
-    },
-    {
-      "word": "binago",
-      "count": 5
-    },
-    {
-      "word": "pahinang",
-      "count": 5
-    },
-    {
-      "word": "kaitong",
-      "count": 5
-    },
-    {
-      "word": "alas",
-      "count": 5
-    },
-    {
-      "word": "garchitorena",
-      "count": 5
-    },
-    {
-      "word": "pagpaotob",
-      "count": 5
-    },
-    {
-      "word": "ginibo",
-      "count": 5
-    },
-    {
-      "word": "prefecto",
-      "count": 5
-    },
-    {
-      "word": "kadakol",
-      "count": 5
-    },
-    {
-      "word": "lokal",
-      "count": 5
-    },
-    {
-      "word": "sibil",
-      "count": 5
-    },
-    {
-      "word": "tumang",
-      "count": 5
-    },
-    {
-      "word": "kapanahonan",
-      "count": 5
-    },
-    {
-      "word": "pero",
-      "count": 5
-    },
-    {
-      "word": "militar",
-      "count": 5
-    },
-    {
-      "word": "mainit",
-      "count": 5
-    },
-    {
-      "word": "durante",
-      "count": 5
-    },
-    {
-      "word": "nakaaging",
-      "count": 5
-    },
-    {
-      "word": "parati",
-      "count": 5
-    },
-    {
-      "word": "presipitasyon",
-      "count": 5
-    },
-    {
-      "word": "taga",
-      "count": 5
-    },
-    {
-      "word": "espesya",
-      "count": 5
-    },
-    {
-      "word": "simbag",
-      "count": 5
-    },
-    {
-      "word": "presidente",
-      "count": 5
-    },
-    {
-      "word": "siyensya",
-      "count": 5
-    },
-    {
-      "word": "katalingkasan",
-      "count": 5
-    },
-    {
-      "word": "klein",
-      "count": 5
-    },
-    {
-      "word": "katuyohan",
-      "count": 5
-    },
-    {
-      "word": "legal",
-      "count": 5
-    },
-    {
-      "word": "aktibidad",
-      "count": 5
-    },
-    {
-      "word": "uk",
-      "count": 5
-    },
-    {
-      "word": "pangaran",
-      "count": 5
-    },
-    {
-      "word": "boot",
-      "count": 5
-    },
-    {
-      "word": "sabihon",
-      "count": 5
-    },
-    {
-      "word": "oswag",
-      "count": 5
-    },
-    {
-      "word": "arjuna",
-      "count": 5
-    },
-    {
-      "word": "prediksion",
-      "count": 5
-    },
-    {
-      "word": "totoo",
-      "count": 5
-    },
-    {
-      "word": "nagtatao",
-      "count": 5
-    },
-    {
-      "word": "sistemang",
-      "count": 5
-    },
-    {
-      "word": "nagpoon",
-      "count": 5
-    },
-    {
-      "word": "pagpunsionar",
-      "count": 5
-    },
-    {
-      "word": "ngapit",
-      "count": 5
-    },
-    {
-      "word": "ihinula",
-      "count": 5
-    },
-    {
-      "word": "ibabaw",
-      "count": 5
-    },
-    {
-      "word": "aspekto",
-      "count": 5
-    },
-    {
-      "word": "pagkakalaen",
-      "count": 5
+      "count": 2301
     },
     {
       "word": "ining",
-      "count": 5
+      "count": 2256
     },
     {
-      "word": "sabatini",
-      "count": 5
+      "word": "sarong",
+      "count": 2221
     },
     {
-      "word": "posibilidad",
-      "count": 5
+      "word": "barangay",
+      "count": 2120
     },
     {
-      "word": "kadalisayan",
-      "count": 5
+      "word": "iyo",
+      "count": 2050
     },
     {
-      "word": "budhismo",
-      "count": 5
+      "word": "code",
+      "count": 1970
     },
     {
-      "word": "karimov",
-      "count": 5
+      "word": "ini",
+      "count": 1627
     },
     {
-      "word": "mayong",
-      "count": 5
+      "word": "kaini",
+      "count": 1610
     },
     {
-      "word": "pagpoon",
-      "count": 5
+      "word": "filipinas",
+      "count": 1575
     },
     {
-      "word": "amerikano",
-      "count": 5
+      "word": "si",
+      "count": 1322
     },
     {
-      "word": "lakshmana",
-      "count": 5
-    },
-    {
-      "word": "kena",
-      "count": 5
-    },
-    {
-      "word": "nanggad",
-      "count": 5
-    },
-    {
-      "word": "hinduismo",
-      "count": 5
-    },
-    {
-      "word": "indibidwal",
-      "count": 5
-    },
-    {
-      "word": "rehion",
-      "count": 5
-    },
-    {
-      "word": "islamiko",
-      "count": 5
-    },
-    {
-      "word": "sekondarya",
-      "count": 5
-    },
-    {
-      "word": "gramatika",
-      "count": 5
-    },
-    {
-      "word": "ibinibilang",
-      "count": 5
-    },
-    {
-      "word": "ion",
-      "count": 5
-    },
-    {
-      "word": "tugang",
-      "count": 4
-    },
-    {
-      "word": "aktor",
-      "count": 4
-    },
-    {
-      "word": "saka",
-      "count": 4
-    },
-    {
-      "word": "nagreresulta",
-      "count": 4
-    },
-    {
-      "word": "peryodo",
-      "count": 4
-    },
-    {
-      "word": "trabaho",
-      "count": 4
-    },
-    {
-      "word": "muslim",
-      "count": 4
-    },
-    {
-      "word": "nang",
-      "count": 4
-    },
-    {
-      "word": "neutral",
-      "count": 4
-    },
-    {
-      "word": "reaksyon",
-      "count": 4
-    },
-    {
-      "word": "corporal",
-      "count": 4
-    },
-    {
-      "word": "soldados",
-      "count": 4
-    },
-    {
-      "word": "pagliliwat",
-      "count": 4
-    },
-    {
-      "word": "drayber",
-      "count": 4
-    },
-    {
-      "word": "pagkaliwat",
-      "count": 4
-    },
-    {
-      "word": "interaksion",
-      "count": 4
-    },
-    {
-      "word": "mahalaga",
-      "count": 4
-    },
-    {
-      "word": "kompetisyon",
-      "count": 4
-    },
-    {
-      "word": "pagtubod",
-      "count": 4
-    },
-    {
-      "word": "pagkagadan",
-      "count": 4
-    },
-    {
-      "word": "marahay",
-      "count": 4
-    },
-    {
-      "word": "diyan",
-      "count": 4
-    },
-    {
-      "word": "kahoy",
-      "count": 4
-    },
-    {
-      "word": "makaapektar",
-      "count": 4
-    },
-    {
-      "word": "enterong",
-      "count": 4
-    },
-    {
-      "word": "pigaapud",
-      "count": 4
-    },
-    {
-      "word": "kaya",
-      "count": 4
-    },
-    {
-      "word": "pag-aadal",
-      "count": 4
-    },
-    {
-      "word": "prosesong",
-      "count": 4
-    },
-    {
-      "word": "agosto",
-      "count": 4
-    },
-    {
-      "word": "amang",
-      "count": 4
-    },
-    {
-      "word": "kagtogdas",
-      "count": 4
-    },
-    {
-      "word": "konstitusyon",
-      "count": 4
-    },
-    {
-      "word": "magin",
-      "count": 4
-    },
-    {
-      "word": "ordinaryong",
-      "count": 4
-    },
-    {
-      "word": "pasiring",
-      "count": 4
-    },
-    {
-      "word": "pwersa",
-      "count": 4
-    },
-    {
-      "word": "huri",
-      "count": 4
-    },
-    {
-      "word": "kalabot",
-      "count": 4
-    },
-    {
-      "word": "sosyedad",
-      "count": 4
-    },
-    {
-      "word": "konteksto",
-      "count": 4
-    },
-    {
-      "word": "alt",
-      "count": 4
-    },
-    {
-      "word": "republikang",
-      "count": 4
-    },
-    {
-      "word": "sur",
-      "count": 4
-    },
-    {
-      "word": "matsya",
-      "count": 4
-    },
-    {
-      "word": "kapitulo",
-      "count": 4
-    },
-    {
-      "word": "krishna",
-      "count": 4
-    },
-    {
-      "word": "manongod",
-      "count": 4
-    },
-    {
-      "word": "lakop",
-      "count": 4
-    },
-    {
-      "word": "indibiduwal",
-      "count": 4
-    },
-    {
-      "word": "arogan",
-      "count": 4
-    },
-    {
-      "word": "kasaysayan",
-      "count": 4
-    },
-    {
-      "word": "nag-aagi",
-      "count": 4
-    },
-    {
-      "word": "hade",
-      "count": 4
-    },
-    {
-      "word": "kabali",
-      "count": 4
-    },
-    {
-      "word": "saiya",
-      "count": 4
-    },
-    {
-      "word": "sadiri",
-      "count": 4
-    },
-    {
-      "word": "popular",
-      "count": 4
-    },
-    {
-      "word": "kakanon",
-      "count": 4
-    },
-    {
-      "word": "oposisyon",
-      "count": 4
-    },
-    {
-      "word": "maski",
-      "count": 4
-    },
-    {
-      "word": "ehekutibong",
-      "count": 4
-    },
-    {
-      "word": "sangay",
-      "count": 4
-    },
-    {
-      "word": "ano",
-      "count": 4
-    },
-    {
-      "word": "linalaoman",
-      "count": 4
-    },
-    {
-      "word": "indya",
-      "count": 4
-    },
-    {
-      "word": "modelo",
-      "count": 4
-    },
-    {
-      "word": "espesipikong",
-      "count": 4
-    },
-    {
-      "word": "numero",
-      "count": 4
-    },
-    {
-      "word": "us",
-      "count": 4
-    },
-    {
-      "word": "https",
-      "count": 4
-    },
-    {
-      "word": "bcl",
-      "count": 4
-    },
-    {
-      "word": "org",
-      "count": 4
-    },
-    {
-      "word": "index",
-      "count": 4
-    },
-    {
-      "word": "php",
-      "count": 4
-    },
-    {
-      "word": "title",
-      "count": 4
-    },
-    {
-      "word": "oldid",
-      "count": 4
-    },
-    {
-      "word": "marte",
-      "count": 4
-    },
-    {
-      "word": "planeta",
-      "count": 4
-    },
-    {
-      "word": "materya",
-      "count": 4
-    },
-    {
-      "word": "karakter",
-      "count": 4
-    },
-    {
-      "word": "avatar",
-      "count": 4
-    },
-    {
-      "word": "pagsiyasat",
-      "count": 4
-    },
-    {
-      "word": "pagbalyo",
-      "count": 4
-    },
-    {
-      "word": "kaugmahan",
-      "count": 4
-    },
-    {
-      "word": "umboy",
-      "count": 4
-    },
-    {
-      "word": "kapag",
-      "count": 4
-    },
-    {
-      "word": "sinanlag",
-      "count": 4
-    },
-    {
-      "word": "makakatabang",
-      "count": 4
-    },
-    {
-      "word": "ka",
-      "count": 4
-    },
-    {
-      "word": "kapwa",
-      "count": 4
-    },
-    {
-      "word": "ramayana",
-      "count": 4
-    },
-    {
-      "word": "ginigibo",
-      "count": 4
-    },
-    {
-      "word": "radyo",
-      "count": 4
-    },
-    {
-      "word": "magigin",
-      "count": 4
-    },
-    {
-      "word": "sekretaryo",
-      "count": 4
-    },
-    {
-      "word": "burabod",
-      "count": 4
-    },
-    {
-      "word": "depende",
-      "count": 4
-    },
-    {
-      "word": "densidad",
-      "count": 4
-    },
-    {
-      "word": "tekstong",
-      "count": 4
-    },
-    {
-      "word": "itaas",
-      "count": 4
-    },
-    {
-      "word": "seksyon",
-      "count": 4
-    },
-    {
-      "word": "oorog",
-      "count": 4
-    },
-    {
-      "word": "pagdakol",
-      "count": 4
-    },
-    {
-      "word": "pisog",
-      "count": 4
-    },
-    {
-      "word": "gamit",
-      "count": 4
-    },
-    {
-      "word": "artikulo",
-      "count": 4
-    },
-    {
-      "word": "seryal",
-      "count": 4
-    },
-    {
-      "word": "luwas",
-      "count": 4
-    },
-    {
-      "word": "agom",
-      "count": 4
-    },
-    {
-      "word": "tsinong",
-      "count": 4
-    },
-    {
-      "word": "bunga",
-      "count": 4
-    },
-    {
-      "word": "nganing",
-      "count": 4
-    },
-    {
-      "word": "taonan",
-      "count": 4
-    },
-    {
-      "word": "kadagatan",
-      "count": 4
-    },
-    {
-      "word": "philippine",
-      "count": 4
-    },
-    {
-      "word": "nangyayari",
-      "count": 4
-    },
-    {
-      "word": "persona",
-      "count": 4
-    },
-    {
-      "word": "liwaton",
-      "count": 4
-    },
-    {
-      "word": "kalayo",
-      "count": 4
-    },
-    {
-      "word": "namokna",
-      "count": 4
-    },
-    {
-      "word": "anoman",
-      "count": 4
-    },
-    {
-      "word": "uzbek",
-      "count": 4
-    },
-    {
-      "word": "pinakadakulang",
-      "count": 4
-    },
-    {
-      "word": "turbina",
-      "count": 4
-    },
-    {
-      "word": "niyang",
-      "count": 4
-    },
-    {
-      "word": "tanom",
-      "count": 4
-    },
-    {
-      "word": "kaparehong",
-      "count": 4
-    },
-    {
-      "word": "ionized",
-      "count": 4
-    },
-    {
-      "word": "kapag-arakian",
-      "count": 4
-    },
-    {
-      "word": "kalag",
-      "count": 4
-    },
-    {
-      "word": "episodyo",
-      "count": 4
-    },
-    {
-      "word": "pananom",
-      "count": 4
-    },
-    {
-      "word": "potensial",
-      "count": 4
-    },
-    {
-      "word": "lalaki",
-      "count": 4
-    },
-    {
-      "word": "don",
-      "count": 3
-    },
-    {
-      "word": "konektado",
-      "count": 3
-    },
-    {
-      "word": "liniwat",
-      "count": 3
-    },
-    {
-      "word": "pagmanehar",
-      "count": 3
-    },
-    {
-      "word": "kahadean",
-      "count": 3
-    },
-    {
-      "word": "jin",
-      "count": 3
-    },
-    {
-      "word": "spring",
-      "count": 3
-    },
-    {
-      "word": "china",
-      "count": 3
-    },
-    {
-      "word": "gobernador",
-      "count": 3
-    },
-    {
-      "word": "administrasyon",
-      "count": 3
-    },
-    {
-      "word": "hurisdiksyon",
-      "count": 3
-    },
-    {
-      "word": "opisina",
-      "count": 3
-    },
-    {
-      "word": "naglakop",
-      "count": 3
-    },
-    {
-      "word": "bangsamoro",
-      "count": 3
-    },
-    {
-      "word": "mindanao",
-      "count": 3
-    },
-    {
-      "word": "awtonomong",
-      "count": 3
-    },
-    {
-      "word": "propesyonal",
-      "count": 3
-    },
-    {
-      "word": "salud",
-      "count": 3
-    },
-    {
-      "word": "pampublikong",
-      "count": 3
-    },
-    {
-      "word": "ninda",
-      "count": 3
-    },
-    {
-      "word": "maabot",
-      "count": 3
-    },
-    {
-      "word": "recombination",
-      "count": 3
-    },
-    {
-      "word": "positibong",
-      "count": 3
-    },
-    {
-      "word": "iyono",
-      "count": 3
-    },
-    {
-      "word": "atomo",
-      "count": 3
-    },
-    {
-      "word": "init",
-      "count": 3
-    },
-    {
-      "word": "pigbibilog",
-      "count": 3
-    },
-    {
-      "word": "magkaigwa",
-      "count": 3
-    },
-    {
-      "word": "dagos",
-      "count": 3
-    },
-    {
-      "word": "ngaran",
-      "count": 3
-    },
-    {
-      "word": "ontok",
-      "count": 3
-    },
-    {
-      "word": "ikokomparar",
-      "count": 3
-    },
-    {
-      "word": "kadlagan",
-      "count": 3
-    },
-    {
-      "word": "kulminasyon",
-      "count": 3
-    },
-    {
-      "word": "nakaagi",
-      "count": 3
-    },
-    {
-      "word": "sukol",
-      "count": 3
-    },
-    {
-      "word": "pasil",
-      "count": 3
-    },
-    {
-      "word": "introdusir",
-      "count": 3
-    },
-    {
-      "word": "marso",
-      "count": 3
-    },
-    {
-      "word": "arug",
-      "count": 3
-    },
-    {
-      "word": "detalye",
-      "count": 3
-    },
-    {
-      "word": "peligro",
-      "count": 3
-    },
-    {
-      "word": "katawo",
-      "count": 3
-    },
-    {
-      "word": "brasilia",
-      "count": 3
-    },
-    {
-      "word": "pagkaraot",
-      "count": 3
-    },
-    {
-      "word": "pinakaenot",
-      "count": 3
-    },
-    {
-      "word": "pwesto",
-      "count": 3
-    },
-    {
-      "word": "sikolohiya",
-      "count": 3
-    },
-    {
-      "word": "nasyonal",
-      "count": 3
-    },
-    {
-      "word": "dakul",
-      "count": 3
-    },
-    {
-      "word": "tinatawan",
-      "count": 3
-    },
-    {
-      "word": "alpine",
-      "count": 3
-    },
-    {
-      "word": "in",
-      "count": 3
-    },
-    {
-      "word": "nobyembre",
-      "count": 3
-    },
-    {
-      "word": "kompanya",
-      "count": 3
-    },
-    {
-      "word": "puersa",
-      "count": 3
-    },
-    {
-      "word": "serbisyo",
-      "count": 3
-    },
-    {
-      "word": "pribadong",
-      "count": 3
-    },
-    {
-      "word": "siklo",
-      "count": 3
-    },
-    {
-      "word": "penolohiya",
-      "count": 3
-    },
-    {
-      "word": "wind",
-      "count": 3
-    },
-    {
-      "word": "farm",
-      "count": 3
-    },
-    {
-      "word": "pinadakula",
-      "count": 3
-    },
-    {
-      "word": "pamayong",
-      "count": 3
-    },
-    {
-      "word": "brasil",
-      "count": 3
-    },
-    {
-      "word": "portuges",
-      "count": 3
-    },
-    {
-      "word": "atmosperang",
-      "count": 3
-    },
-    {
-      "word": "nakalaag",
-      "count": 3
-    },
-    {
-      "word": "dharma",
-      "count": 3
-    },
-    {
-      "word": "guerra",
-      "count": 3
-    },
-    {
-      "word": "problema",
-      "count": 3
-    },
-    {
-      "word": "moral",
-      "count": 3
-    },
-    {
-      "word": "naheheling",
-      "count": 3
-    },
-    {
-      "word": "bisto",
-      "count": 3
-    },
-    {
-      "word": "limang",
-      "count": 3
-    },
-    {
-      "word": "uniberso",
-      "count": 3
-    },
-    {
-      "word": "diyosa",
-      "count": 3
-    },
-    {
-      "word": "solar",
-      "count": 3
-    },
-    {
-      "word": "punto",
-      "count": 3
-    },
-    {
-      "word": "vedanta",
-      "count": 3
-    },
-    {
-      "word": "hinihiling",
-      "count": 3
-    },
-    {
-      "word": "atman",
-      "count": 3
-    },
-    {
-      "word": "simbolo",
-      "count": 3
-    },
-    {
-      "word": "saodan",
-      "count": 3
-    },
-    {
-      "word": "kaagid",
-      "count": 3
-    },
-    {
-      "word": "dakulaon",
-      "count": 3
-    },
-    {
-      "word": "hali",
-      "count": 3
-    },
-    {
-      "word": "sobyet",
-      "count": 3
-    },
-    {
-      "word": "internasyonal",
-      "count": 3
-    },
-    {
-      "word": "commons",
-      "count": 3
-    },
-    {
-      "word": "ngunyan",
-      "count": 3
-    },
-    {
-      "word": "halawig",
-      "count": 3
-    },
-    {
-      "word": "satong",
-      "count": 3
-    },
-    {
-      "word": "inang",
-      "count": 3
-    },
-    {
-      "word": "un",
-      "count": 3
-    },
-    {
-      "word": "mayo",
-      "count": 3
-    },
-    {
-      "word": "pankinaban",
-      "count": 3
-    },
-    {
-      "word": "bangladesh",
-      "count": 3
-    },
-    {
-      "word": "kaidto",
-      "count": 3
-    },
-    {
-      "word": "liwat",
-      "count": 3
-    },
-    {
-      "word": "international",
-      "count": 3
-    },
-    {
-      "word": "kang",
-      "count": 3
-    },
-    {
-      "word": "kontra",
-      "count": 3
-    },
-    {
-      "word": "janeiro",
-      "count": 3
-    },
-    {
-      "word": "komposisyon",
-      "count": 3
-    },
-    {
-      "word": "parakawat",
-      "count": 3
-    },
-    {
-      "word": "uno",
-      "count": 3
-    },
-    {
-      "word": "nagdadara",
-      "count": 3
-    },
-    {
-      "word": "base",
-      "count": 3
-    },
-    {
-      "word": "harus",
-      "count": 3
-    },
-    {
-      "word": "bitoon",
-      "count": 3
-    },
-    {
-      "word": "negosyo",
-      "count": 3
-    },
-    {
-      "word": "lanka",
-      "count": 3
-    },
-    {
-      "word": "organong",
-      "count": 3
-    },
-    {
-      "word": "pag-oltanan",
-      "count": 3
-    },
-    {
-      "word": "naman",
-      "count": 3
-    },
-    {
-      "word": "nagadan",
-      "count": 3
-    },
-    {
-      "word": "pinili",
-      "count": 3
-    },
-    {
-      "word": "bagas",
-      "count": 3
-    },
-    {
-      "word": "normal",
-      "count": 3
-    },
-    {
-      "word": "kamatis",
-      "count": 3
-    },
-    {
-      "word": "biodibersidad",
-      "count": 3
-    },
-    {
-      "word": "tagapraktis",
-      "count": 3
-    },
-    {
-      "word": "solnopan",
-      "count": 3
-    },
-    {
-      "word": "lider",
-      "count": 3
-    },
-    {
-      "word": "wiksyunaryo",
-      "count": 3
-    },
-    {
-      "word": "nawaran",
-      "count": 3
-    },
-    {
-      "word": "paadalan",
-      "count": 3
-    },
-    {
-      "word": "compose",
-      "count": 3
-    },
-    {
-      "word": "pinduton",
-      "count": 3
-    },
-    {
-      "word": "apostrophe",
-      "count": 3
-    },
-    {
-      "word": "shift",
-      "count": 3
-    },
-    {
-      "word": "the",
-      "count": 3
-    },
-    {
-      "word": "pinakahalawig",
-      "count": 3
-    },
-    {
-      "word": "hilingon",
-      "count": 3
-    },
-    {
-      "word": "lain",
-      "count": 3
-    },
-    {
-      "word": "pagkawara",
-      "count": 3
-    },
-    {
-      "word": "puwedeng",
-      "count": 3
-    },
-    {
-      "word": "dugangan",
-      "count": 3
-    },
-    {
-      "word": "ngonyan",
-      "count": 3
-    },
-    {
-      "word": "serye",
-      "count": 3
-    },
-    {
-      "word": "naenot",
-      "count": 3
-    },
-    {
-      "word": "camarines",
-      "count": 3
-    },
-    {
-      "word": "pinakahalangkaw",
-      "count": 3
-    },
-    {
-      "word": "uson",
-      "count": 3
-    },
-    {
-      "word": "bulkan",
-      "count": 3
-    },
-    {
-      "word": "lumang",
-      "count": 3
-    },
-    {
-      "word": "letrang",
-      "count": 3
-    },
-    {
-      "word": "espanyol",
-      "count": 3
-    },
-    {
-      "word": "middle",
-      "count": 3
-    },
-    {
-      "word": "kaidtong",
-      "count": 3
-    },
-    {
-      "word": "kabilangan",
-      "count": 3
-    },
-    {
-      "word": "hayop",
-      "count": 3
-    },
-    {
-      "word": "igdi",
-      "count": 3
-    },
-    {
-      "word": "tradisyunal",
-      "count": 3
-    },
-    {
-      "word": "kwarto",
-      "count": 3
-    },
-    {
-      "word": "pagluto",
-      "count": 3
-    },
-    {
-      "word": "andam",
-      "count": 3
-    },
-    {
-      "word": "keyboard",
-      "count": 3
-    },
-    {
-      "word": "sanskrito",
-      "count": 3
-    },
-    {
-      "word": "kinaaraman",
-      "count": 3
-    },
-    {
-      "word": "nanonongod",
-      "count": 3
-    },
-    {
-      "word": "kabilogan",
-      "count": 3
-    },
-    {
-      "word": "parehong",
-      "count": 3
-    },
-    {
-      "word": "rekombinasyong",
-      "count": 3
-    },
-    {
-      "word": "pirang",
-      "count": 3
-    },
-    {
-      "word": "kaso",
-      "count": 3
-    },
-    {
-      "word": "enerhiya",
-      "count": 3
-    },
-    {
-      "word": "komun",
-      "count": 3
-    },
-    {
-      "word": "nangangahulogan",
-      "count": 3
-    },
-    {
-      "word": "bulos",
-      "count": 3
-    },
-    {
-      "word": "septyembre",
-      "count": 3
-    },
-    {
-      "word": "mw",
-      "count": 3
-    },
-    {
-      "word": "pagkapara",
-      "count": 3
-    },
-    {
-      "word": "york",
-      "count": 3
-    },
-    {
-      "word": "syudad",
-      "count": 3
-    },
-    {
-      "word": "parataram",
-      "count": 3
-    },
-    {
-      "word": "constraints",
-      "count": 3
-    },
-    {
-      "word": "mahabharata",
-      "count": 3
-    },
-    {
-      "word": "partidang",
-      "count": 3
-    },
-    {
-      "word": "kayang",
-      "count": 3
-    },
-    {
-      "word": "henerasyon",
-      "count": 3
-    },
-    {
-      "word": "kalangitan",
-      "count": 3
-    },
-    {
-      "word": "pakatapos",
-      "count": 3
-    },
-    {
-      "word": "konsentrasyon",
-      "count": 3
-    },
-    {
-      "word": "pundamental",
-      "count": 3
-    },
-    {
-      "word": "entidad",
-      "count": 3
-    },
-    {
-      "word": "lehislatura",
-      "count": 3
-    },
-    {
-      "word": "fluorescent",
-      "count": 3
-    },
-    {
-      "word": "patunayan",
-      "count": 3
-    },
-    {
-      "word": "henetikong",
-      "count": 3
-    },
-    {
-      "word": "semana",
-      "count": 3
-    },
-    {
-      "word": "ravana",
-      "count": 3
-    },
-    {
-      "word": "ayodhya",
-      "count": 3
-    },
-    {
-      "word": "buddha",
-      "count": 3
-    },
-    {
-      "word": "klasipikasyon",
-      "count": 3
-    },
-    {
-      "word": "gamgam",
-      "count": 3
-    },
-    {
-      "word": "prinsipe",
-      "count": 3
-    },
-    {
-      "word": "kontrata",
-      "count": 3
-    },
-    {
-      "word": "lanao",
-      "count": 3
-    },
-    {
-      "word": "del",
-      "count": 3
-    },
-    {
-      "word": "norte",
-      "count": 3
-    },
-    {
-      "word": "pabor",
-      "count": 3
-    },
-    {
-      "word": "pagbali",
-      "count": 3
-    },
-    {
-      "word": "munisipalidad",
-      "count": 3
-    },
-    {
-      "word": "botante",
-      "count": 3
-    },
-    {
-      "word": "bistado",
-      "count": 3
-    },
-    {
-      "word": "bukid",
-      "count": 3
-    },
-    {
-      "word": "panluwas",
-      "count": 2
-    },
-    {
-      "word": "naglalaog",
-      "count": 2
-    },
-    {
-      "word": "panunubig",
-      "count": 2
-    },
-    {
-      "word": "pinaka",
-      "count": 2
-    },
-    {
-      "word": "abril",
-      "count": 2
-    },
-    {
-      "word": "pamintuan",
-      "count": 2
-    },
-    {
-      "word": "sunod",
-      "count": 2
-    },
-    {
-      "word": "salvador",
-      "count": 2
-    },
-    {
-      "word": "yllana",
-      "count": 2
-    },
-    {
-      "word": "andres",
-      "count": 2
-    },
-    {
-      "word": "pungus",
-      "count": 2
-    },
-    {
-      "word": "gamot",
-      "count": 2
-    },
-    {
-      "word": "magbago",
-      "count": 2
-    },
-    {
-      "word": "naghaharong",
-      "count": 2
-    },
-    {
-      "word": "sisipngahan",
-      "count": 2
-    },
-    {
-      "word": "nag-aako",
-      "count": 2
-    },
-    {
-      "word": "pagiging",
-      "count": 2
-    },
-    {
-      "word": "burokrasya",
-      "count": 2
-    },
-    {
-      "word": "nagtalubo",
-      "count": 2
-    },
-    {
-      "word": "chu",
-      "count": 2
-    },
-    {
-      "word": "autumn",
-      "count": 2
-    },
-    {
-      "word": "and",
-      "count": 2
-    },
-    {
-      "word": "limitadong",
-      "count": 2
-    },
-    {
-      "word": "haralangkaw",
-      "count": 2
-    },
-    {
-      "word": "babae",
-      "count": 2
-    },
-    {
-      "word": "siudadano",
-      "count": 2
-    },
-    {
-      "word": "saradit",
-      "count": 2
-    },
-    {
-      "word": "sainda",
-      "count": 2
-    },
-    {
-      "word": "plebesito",
-      "count": 2
-    },
-    {
-      "word": "rinibayan",
-      "count": 2
-    },
-    {
-      "word": "abdul-jabbar",
-      "count": 2
-    },
-    {
-      "word": "kəˈriːm",
-      "count": 2
-    },
-    {
-      "word": "æbˈduːl",
-      "count": 2
-    },
-    {
-      "word": "dʒəˈbɑːr",
-      "count": 2
-    },
-    {
-      "word": "amerikanong",
-      "count": 2
-    },
-    {
-      "word": "national",
-      "count": 2
-    },
-    {
-      "word": "los",
-      "count": 2
-    },
-    {
-      "word": "angeles",
-      "count": 2
-    },
-    {
-      "word": "rekord",
-      "count": 2
-    },
-    {
-      "word": "lalawgon",
-      "count": 2
-    },
-    {
-      "word": "tu'lang",
-      "count": 2
-    },
-    {
-      "word": "nasal",
-      "count": 2
-    },
-    {
-      "word": "labot",
-      "count": 2
-    },
-    {
-      "word": "publiko",
-      "count": 2
-    },
-    {
-      "word": "napipiritan",
-      "count": 2
-    },
-    {
-      "word": "magagamit",
-      "count": 2
-    },
-    {
-      "word": "talingkas",
-      "count": 2
-    },
-    {
-      "word": "nakikisumaro",
-      "count": 2
-    },
-    {
-      "word": "negatibong",
-      "count": 2
-    },
-    {
-      "word": "purong",
-      "count": 2
-    },
-    {
-      "word": "pagguno",
-      "count": 2
-    },
-    {
-      "word": "dae",
-      "count": 2
-    },
-    {
-      "word": "nagbabago",
-      "count": 2
-    },
-    {
-      "word": "malipot",
-      "count": 2
-    },
-    {
-      "word": "carbon",
-      "count": 2
-    },
-    {
-      "word": "nagdodominar",
-      "count": 2
-    },
-    {
-      "word": "pagbanabana",
-      "count": 2
-    },
-    {
-      "word": "pagpoho",
-      "count": 2
-    },
-    {
-      "word": "pinakamidbid",
-      "count": 2
-    },
-    {
-      "word": "pangyayaring",
-      "count": 2
-    },
-    {
-      "word": "ebolusyon",
-      "count": 2
-    },
-    {
-      "word": "pulgada",
-      "count": 2
-    },
-    {
-      "word": "sobra",
-      "count": 2
-    },
-    {
-      "word": "naggagamit",
-      "count": 2
-    },
-    {
-      "word": "mahibog",
-      "count": 2
-    },
-    {
-      "word": "papel",
-      "count": 2
-    },
-    {
-      "word": "ihula",
-      "count": 2
-    },
-    {
-      "word": "indirektang",
-      "count": 2
-    },
-    {
-      "word": "pagdeterminar",
-      "count": 2
-    },
-    {
-      "word": "pagsakyada",
-      "count": 2
-    },
-    {
-      "word": "philippines",
-      "count": 2
-    },
-    {
-      "word": "nahaman",
-      "count": 2
-    },
-    {
-      "word": "heroe",
-      "count": 2
-    },
-    {
-      "word": "kristianismo",
-      "count": 2
-    },
-    {
-      "word": "islam",
-      "count": 2
-    },
-    {
-      "word": "duman",
-      "count": 2
-    },
-    {
-      "word": "maraot",
-      "count": 2
-    },
-    {
-      "word": "metros",
-      "count": 2
-    },
-    {
-      "word": "paglataw",
-      "count": 2
-    },
-    {
-      "word": "kadaihan",
-      "count": 2
-    },
-    {
-      "word": "sensitibo",
-      "count": 2
-    },
-    {
-      "word": "cidade",
-      "count": 2
-    },
-    {
-      "word": "maravilhosa",
-      "count": 2
-    },
-    {
-      "word": "dahelan",
-      "count": 2
-    },
-    {
-      "word": "lihis",
-      "count": 2
-    },
-    {
-      "word": "plastipiko",
-      "count": 2
-    },
-    {
-      "word": "ebidensia",
-      "count": 2
-    },
-    {
-      "word": "depisil",
-      "count": 2
-    },
-    {
-      "word": "interes",
-      "count": 2
-    },
-    {
-      "word": "disiplina",
-      "count": 2
-    },
-    {
-      "word": "posible",
-      "count": 2
-    },
-    {
-      "word": "arte",
-      "count": 2
-    },
-    {
-      "word": "sosyolohiya",
-      "count": 2
-    },
-    {
-      "word": "linggwistika",
-      "count": 2
-    },
-    {
-      "word": "disiplinang",
-      "count": 2
-    },
-    {
-      "word": "intelihensya",
-      "count": 2
-    },
-    {
-      "word": "personalidad",
-      "count": 2
-    },
-    {
-      "word": "mental",
-      "count": 2
-    },
-    {
-      "word": "artipisyal",
-      "count": 2
-    },
-    {
-      "word": "pag-enganyar",
-      "count": 2
-    },
-    {
-      "word": "pano",
-      "count": 2
-    },
-    {
-      "word": "gunuan",
-      "count": 2
-    },
-    {
-      "word": "epektibo",
-      "count": 2
-    },
-    {
-      "word": "pagkanood",
-      "count": 2
-    },
-    {
-      "word": "historyador",
-      "count": 2
-    },
-    {
-      "word": "kagpirma",
-      "count": 2
-    },
-    {
-      "word": "kagpanday",
-      "count": 2
-    },
-    {
-      "word": "kampanya",
-      "count": 2
-    },
-    {
-      "word": "pag'agaw",
-      "count": 2
-    },
-    {
-      "word": "kompuwesto",
-      "count": 2
+      "word": "man",
+      "count": 1186
     },
     {
       "word": "takod",
-      "count": 2
+      "count": 1174
     },
     {
-      "word": "chief",
-      "count": 2
-    },
-    {
-      "word": "nagmamanehar",
-      "count": 2
-    },
-    {
-      "word": "pagtukoy",
-      "count": 2
-    },
-    {
-      "word": "panundon",
-      "count": 2
-    },
-    {
-      "word": "calvin",
-      "count": 2
-    },
-    {
-      "word": "richard",
-      "count": 2
-    },
-    {
-      "word": "itinao",
-      "count": 2
-    },
-    {
-      "word": "manlaen-laen",
-      "count": 2
-    },
-    {
-      "word": "tinawan",
-      "count": 2
-    },
-    {
-      "word": "ipaotob",
-      "count": 2
-    },
-    {
-      "word": "rogaring",
-      "count": 2
-    },
-    {
-      "word": "krimen",
-      "count": 2
-    },
-    {
-      "word": "kariribokan",
-      "count": 2
-    },
-    {
-      "word": "sono",
-      "count": 2
-    },
-    {
-      "word": "puwersa",
-      "count": 2
-    },
-    {
-      "word": "kadahasan",
-      "count": 2
-    },
-    {
-      "word": "asosyado",
-      "count": 2
-    },
-    {
-      "word": "gamiton",
-      "count": 2
-    },
-    {
-      "word": "estadong",
-      "count": 2
-    },
-    {
-      "word": "teritoryo",
-      "count": 2
-    },
-    {
-      "word": "gendarmerie",
-      "count": 2
-    },
-    {
-      "word": "yunit",
-      "count": 2
-    },
-    {
-      "word": "pagpoliko",
-      "count": 2
-    },
-    {
-      "word": "pagpreserbar",
-      "count": 2
-    },
-    {
-      "word": "kapinonan",
-      "count": 2
-    },
-    {
-      "word": "nagkakalaenlaen",
-      "count": 2
-    },
-    {
-      "word": "pamamahala",
-      "count": 2
-    },
-    {
-      "word": "microsoft",
-      "count": 2
-    },
-    {
-      "word": "windows",
-      "count": 2
-    },
-    {
-      "word": "pagpindot",
-      "count": 2
-    },
-    {
-      "word": "or",
-      "count": 2
-    },
-    {
-      "word": "editor",
-      "count": 2
-    },
-    {
-      "word": "mansana",
-      "count": 2
-    },
-    {
-      "word": "monico",
-      "count": 2
-    },
-    {
-      "word": "nagibo",
-      "count": 2
-    },
-    {
-      "word": "minaabot",
-      "count": 2
-    },
-    {
-      "word": "kontinenteng",
-      "count": 2
-    },
-    {
-      "word": "nahahaloy",
-      "count": 2
-    },
-    {
-      "word": "bersiyon",
-      "count": 2
-    },
-    {
-      "word": "haros",
-      "count": 2
-    },
-    {
-      "word": "bersion",
-      "count": 2
-    },
-    {
-      "word": "apwera",
-      "count": 2
-    },
-    {
-      "word": "giya",
-      "count": 2
-    },
-    {
-      "word": "sibot",
-      "count": 2
-    },
-    {
-      "word": "emosyon",
-      "count": 2
-    },
-    {
-      "word": "kagadanan",
-      "count": 2
-    },
-    {
-      "word": "makangangalas",
-      "count": 2
-    },
-    {
-      "word": "hinahagad",
-      "count": 2
-    },
-    {
-      "word": "karma",
-      "count": 2
-    },
-    {
-      "word": "paghiro",
-      "count": 2
-    },
-    {
-      "word": "espiritwal",
-      "count": 2
-    },
-    {
-      "word": "tema",
-      "count": 2
-    },
-    {
-      "word": "estratehiya",
-      "count": 2
-    },
-    {
-      "word": "paggibo",
-      "count": 2
-    },
-    {
-      "word": "pisyolohikong",
-      "count": 2
-    },
-    {
-      "word": "genre",
-      "count": 2
-    },
-    {
-      "word": "teoriya",
-      "count": 2
-    },
-    {
-      "word": "sekondaryong",
-      "count": 2
-    },
-    {
-      "word": "linalang",
-      "count": 2
-    },
-    {
-      "word": "osipon",
-      "count": 2
-    },
-    {
-      "word": "magkakalaen",
-      "count": 2
-    },
-    {
-      "word": "self",
-      "count": 2
-    },
-    {
-      "word": "literal",
-      "count": 2
-    },
-    {
-      "word": "magkalaen",
-      "count": 2
-    },
-    {
-      "word": "renminbi",
-      "count": 2
-    },
-    {
-      "word": "moneda",
-      "count": 2
-    },
-    {
-      "word": "cny",
-      "count": 2
-    },
-    {
-      "word": "hinayoko",
-      "count": 2
-    },
-    {
-      "word": "manonompongan",
-      "count": 2
-    },
-    {
-      "word": "restawran",
-      "count": 2
-    },
-    {
-      "word": "hotel",
-      "count": 2
-    },
-    {
-      "word": "kagamitan",
-      "count": 2
-    },
-    {
-      "word": "residensyal",
-      "count": 2
-    },
-    {
-      "word": "repridyeretor",
-      "count": 2
-    },
-    {
-      "word": "plato",
-      "count": 2
-    },
-    {
-      "word": "kasangkapan",
-      "count": 2
-    },
-    {
-      "word": "lababo",
-      "count": 2
-    },
-    {
-      "word": "kabo",
-      "count": 2
-    },
-    {
-      "word": "kataga",
-      "count": 2
-    },
-    {
-      "word": "independiente",
-      "count": 2
-    },
-    {
-      "word": "unyon",
-      "count": 2
-    },
-    {
-      "word": "guminana",
-      "count": 2
-    },
-    {
-      "word": "eleksyon",
-      "count": 2
-    },
-    {
-      "word": "presidensyal",
-      "count": 2
-    },
-    {
-      "word": "nakua",
-      "count": 2
-    },
-    {
-      "word": "boto",
-      "count": 2
-    },
-    {
-      "word": "gabinete",
-      "count": 2
-    },
-    {
-      "word": "reyna",
-      "count": 2
-    },
-    {
-      "word": "medya",
-      "count": 2
-    },
-    {
-      "word": "wiki",
-      "count": 2
-    },
-    {
-      "word": "loves",
-      "count": 2
-    },
-    {
-      "word": "temang",
-      "count": 2
-    },
-    {
-      "word": "wikiproyekto",
-      "count": 2
-    },
-    {
-      "word": "katutubong",
-      "count": 2
-    },
-    {
-      "word": "maaraman",
-      "count": 2
-    },
-    {
-      "word": "nagkaigwa",
-      "count": 2
-    },
-    {
-      "word": "ugale",
-      "count": 2
-    },
-    {
-      "word": "hiro-hiro",
-      "count": 2
-    },
-    {
-      "word": "pagwaras",
-      "count": 2
-    },
-    {
-      "word": "ibugtak",
-      "count": 2
-    },
-    {
-      "word": "agi",
-      "count": 2
-    },
-    {
-      "word": "lokasyon",
-      "count": 2
-    },
-    {
-      "word": "inisyatiba",
-      "count": 2
-    },
-    {
-      "word": "pagpalakop",
-      "count": 2
-    },
-    {
-      "word": "pag'ampon",
-      "count": 2
-    },
-    {
-      "word": "general",
-      "count": 2
-    },
-    {
-      "word": "assembly",
-      "count": 2
-    },
-    {
-      "word": "resolusyon",
-      "count": 2
-    },
-    {
-      "word": "nagpatindog",
-      "count": 2
-    },
-    {
-      "word": "east",
-      "count": 2
-    },
-    {
-      "word": "pagmidbid",
-      "count": 2
-    },
-    {
-      "word": "kitkilat",
-      "count": 2
-    },
-    {
-      "word": "neon",
-      "count": 2
-    },
-    {
-      "word": "ibabang",
-      "count": 2
-    },
-    {
-      "word": "space",
-      "count": 2
-    },
-    {
-      "word": "nahiling",
-      "count": 2
-    },
-    {
-      "word": "limitasyon",
-      "count": 2
-    },
-    {
-      "word": "kasegurohan",
-      "count": 2
-    },
-    {
-      "word": "makakaapektar",
-      "count": 2
-    },
-    {
-      "word": "aram",
-      "count": 2
-    },
-    {
-      "word": "partikular",
-      "count": 2
-    },
-    {
-      "word": "pinakadakol",
-      "count": 2
-    },
-    {
-      "word": "importanteng",
-      "count": 2
-    },
-    {
-      "word": "kapitolyo",
-      "count": 2
-    },
-    {
-      "word": "portugues",
-      "count": 2
-    },
-    {
-      "word": "siyentipikong",
-      "count": 2
-    },
-    {
-      "word": "pisikal",
-      "count": 2
-    },
-    {
-      "word": "duwa",
-      "count": 2
-    },
-    {
-      "word": "katahawan",
-      "count": 2
-    },
-    {
-      "word": "hanggang",
-      "count": 2
-    },
-    {
-      "word": "kabangaan",
-      "count": 2
-    },
-    {
-      "word": "dekada",
-      "count": 2
-    },
-    {
-      "word": "nanggana",
-      "count": 2
-    },
-    {
-      "word": "open",
-      "count": 2
-    },
-    {
-      "word": "wimbledon",
-      "count": 2
-    },
-    {
-      "word": "nakaabot",
-      "count": 2
-    },
-    {
-      "word": "tolong",
-      "count": 2
-    },
-    {
-      "word": "pranses",
-      "count": 2
-    },
-    {
-      "word": "diyos",
-      "count": 2
-    },
-    {
-      "word": "pirming",
-      "count": 2
-    },
-    {
-      "word": "mapula-pula",
-      "count": 2
-    },
-    {
-      "word": "bihirang",
-      "count": 2
-    },
-    {
-      "word": "konsorte",
-      "count": 2
-    },
-    {
-      "word": "pitong",
-      "count": 2
-    },
-    {
-      "word": "budismo",
-      "count": 2
-    },
-    {
-      "word": "india",
-      "count": 2
-    },
-    {
-      "word": "iba-ibang",
-      "count": 2
-    },
-    {
-      "word": "pagkakontento",
-      "count": 2
-    },
-    {
-      "word": "digdi",
-      "count": 2
-    },
-    {
-      "word": "sustansiya",
-      "count": 2
-    },
-    {
-      "word": "oksiheno",
-      "count": 2
-    },
-    {
-      "word": "magkaibang",
-      "count": 2
-    },
-    {
-      "word": "suloy",
-      "count": 2
-    },
-    {
-      "word": "supling",
-      "count": 2
-    },
-    {
-      "word": "ugat",
-      "count": 2
-    },
-    {
-      "word": "lataw",
-      "count": 2
-    },
-    {
-      "word": "mansanang",
-      "count": 2
-    },
-    {
-      "word": "poder",
-      "count": 2
-    },
-    {
-      "word": "palakaw",
-      "count": 2
-    },
-    {
-      "word": "putahe",
-      "count": 2
-    },
-    {
-      "word": "imbes",
-      "count": 2
-    },
-    {
-      "word": "regular",
-      "count": 2
-    },
-    {
-      "word": "sibulyas",
-      "count": 2
-    },
-    {
-      "word": "bawang",
-      "count": 2
-    },
-    {
-      "word": "asukar",
-      "count": 2
-    },
-    {
-      "word": "sirang",
-      "count": 2
-    },
-    {
-      "word": "ati",
-      "count": 2
-    },
-    {
-      "word": "binabago",
-      "count": 2
-    },
-    {
-      "word": "tradisyonal",
-      "count": 2
-    },
-    {
-      "word": "danyos",
-      "count": 2
-    },
-    {
-      "word": "paglaban",
-      "count": 2
-    },
-    {
-      "word": "pamamahayag",
-      "count": 2
-    },
-    {
-      "word": "libro",
-      "count": 2
-    },
-    {
-      "word": "pulitikal",
-      "count": 2
-    },
-    {
-      "word": "tawong",
-      "count": 2
-    },
-    {
-      "word": "enero",
-      "count": 2
-    },
-    {
-      "word": "nagsasabi",
-      "count": 2
-    },
-    {
-      "word": "paliwanag",
-      "count": 2
-    },
-    {
-      "word": "pagbuhay",
-      "count": 2
-    },
-    {
-      "word": "espirituwal",
-      "count": 2
-    },
-    {
-      "word": "kodigo",
-      "count": 2
+      "word": "panluwas",
+      "count": 1167
     },
     {
       "word": "toltolan",
-      "count": 2
+      "count": 1166
     },
     {
-      "word": "pinakagurang",
-      "count": 2
+      "word": "philippine",
+      "count": 1152
+    },
+    {
+      "word": "kilometro",
+      "count": 1135
+    },
+    {
+      "word": "digdi",
+      "count": 1113
+    },
+    {
+      "word": "sukol",
+      "count": 1110
+    },
+    {
+      "word": "com",
+      "count": 1107
+    },
+    {
+      "word": "kwadrado",
+      "count": 1100
+    },
+    {
+      "word": "ni",
+      "count": 1078
+    },
+    {
+      "word": "of",
+      "count": 1064
+    },
+    {
+      "word": "standard",
+      "count": 1014
+    },
+    {
+      "word": "geographic",
+      "count": 1005
+    },
+    {
+      "word": "siya",
+      "count": 1005
+    },
+    {
+      "word": "local",
+      "count": 1003
+    },
+    {
+      "word": "nag-eerok",
+      "count": 1000
+    },
+    {
+      "word": "system",
+      "count": 997
+    },
+    {
+      "word": "sensus",
+      "count": 997
+    },
+    {
+      "word": "management",
+      "count": 995
+    },
+    {
+      "word": "governance",
+      "count": 984
+    },
+    {
+      "word": "performance",
+      "count": 983
+    },
+    {
+      "word": "demograpiko",
+      "count": 982
+    },
+    {
+      "word": "philatlas",
+      "count": 982
+    },
+    {
+      "word": "katawong",
+      "count": 979
+    },
+    {
+      "word": "kaharongan",
+      "count": 978
+    },
+    {
+      "word": "designadong",
+      "count": 963
+    },
+    {
+      "word": "nababanga",
+      "count": 946
+    },
+    {
+      "word": "zip",
+      "count": 923
+    },
+    {
+      "word": "klaseng",
+      "count": 867
+    },
+    {
+      "word": "sur",
+      "count": 803
+    },
+    {
+      "word": "the",
+      "count": 785
+    },
+    {
+      "word": "san",
+      "count": 783
+    },
+    {
+      "word": "sosog",
+      "count": 771
+    },
+    {
+      "word": "niya",
+      "count": 738
+    },
+    {
+      "word": "probinsya",
+      "count": 680
+    },
+    {
+      "word": "de",
+      "count": 667
+    },
+    {
+      "word": "provincia",
+      "count": 648
+    },
+    {
+      "word": "kun",
+      "count": 642
+    },
+    {
+      "word": "may",
+      "count": 608
+    },
+    {
+      "word": "taon",
+      "count": 586
+    },
+    {
+      "word": "bikol",
+      "count": 568
+    },
+    {
+      "word": "ta",
+      "count": 568
+    },
+    {
+      "word": "pa",
+      "count": 527
+    },
+    {
+      "word": "tataramon",
+      "count": 527
+    },
+    {
+      "word": "saiyang",
+      "count": 516
+    },
+    {
+      "word": "norte",
+      "count": 490
+    },
+    {
+      "word": "del",
+      "count": 475
+    },
+    {
+      "word": "camarines",
+      "count": 461
+    },
+    {
+      "word": "dai",
+      "count": 406
+    },
+    {
+      "word": "naga",
+      "count": 388
+    },
+    {
+      "word": "syudad",
+      "count": 384
+    },
+    {
+      "word": "school",
+      "count": 374
+    },
+    {
+      "word": "huli",
+      "count": 373
+    },
+    {
+      "word": "nagin",
+      "count": 361
+    },
+    {
+      "word": "alagad",
+      "count": 357
+    },
+    {
+      "word": "igdi",
+      "count": 356
+    },
+    {
+      "word": "and",
+      "count": 355
+    },
+    {
+      "word": "sana",
+      "count": 325
+    },
+    {
+      "word": "ikaapat",
+      "count": 320
+    },
+    {
+      "word": "namumugtak",
+      "count": 309
+    },
+    {
+      "word": "para",
+      "count": 298
+    },
+    {
+      "word": "ki",
+      "count": 297
+    },
+    {
+      "word": "susog",
+      "count": 296
+    },
+    {
+      "word": "saro",
+      "count": 294
+    },
+    {
+      "word": "isla",
+      "count": 294
+    },
+    {
+      "word": "ikalimang",
+      "count": 263
+    },
+    {
+      "word": "bilang",
+      "count": 260
+    },
+    {
+      "word": "ciudad",
+      "count": 252
+    },
+    {
+      "word": "siring",
+      "count": 252
+    },
+    {
+      "word": "parte",
+      "count": 233
+    },
+    {
+      "word": "yaon",
+      "count": 227
+    },
+    {
+      "word": "cebu",
+      "count": 226
+    },
+    {
+      "word": "poblacion",
+      "count": 225
+    },
+    {
+      "word": "manila",
+      "count": 223
+    },
+    {
+      "word": "arog",
+      "count": 223
+    },
+    {
+      "word": "nueva",
+      "count": 222
+    },
+    {
+      "word": "nang",
+      "count": 219
+    },
+    {
+      "word": "panahon",
+      "count": 217
+    },
+    {
+      "word": "la",
+      "count": 217
+    },
+    {
+      "word": "enot",
+      "count": 215
+    },
+    {
+      "word": "jose",
+      "count": 215
+    },
+    {
+      "word": "presidente",
+      "count": 213
+    },
+    {
+      "word": "albay",
+      "count": 213
+    },
+    {
+      "word": "siyang",
+      "count": 212
+    },
+    {
+      "word": "sagkod",
+      "count": 209
+    },
+    {
+      "word": "republika",
+      "count": 208
+    },
+    {
+      "word": "lugar",
+      "count": 205
+    },
+    {
+      "word": "kastila",
+      "count": 204
+    },
+    {
+      "word": "komo",
+      "count": 202
+    },
+    {
+      "word": "simbahan",
+      "count": 201
+    },
+    {
+      "word": "ilocos",
+      "count": 201
+    },
+    {
+      "word": "duwang",
+      "count": 200
+    },
+    {
+      "word": "rehiyon",
+      "count": 199
+    },
+    {
+      "word": "duman",
+      "count": 199
+    },
+    {
+      "word": "city",
+      "count": 196
+    },
+    {
+      "word": "in",
+      "count": 196
+    },
+    {
+      "word": "pang",
+      "count": 195
+    },
+    {
+      "word": "sinda",
+      "count": 189
+    },
+    {
+      "word": "igwang",
+      "count": 187
+    },
+    {
+      "word": "bicol",
+      "count": 186
+    },
+    {
+      "word": "kadagaan",
+      "count": 185
+    },
+    {
+      "word": "iba",
+      "count": 185
+    },
+    {
+      "word": "distrito",
+      "count": 181
+    },
+    {
+      "word": "quezon",
+      "count": 180
+    },
+    {
+      "word": "pangaran",
+      "count": 179
+    },
+    {
+      "word": "ingles",
+      "count": 177
+    },
+    {
+      "word": "santa",
+      "count": 177
+    },
+    {
+      "word": "unibersidad",
+      "count": 174
+    },
+    {
+      "word": "dagat",
+      "count": 173
+    },
+    {
+      "word": "inaapod",
+      "count": 171
+    },
+    {
+      "word": "subangan",
+      "count": 170
+    },
+    {
+      "word": "caceres",
+      "count": 164
+    },
+    {
+      "word": "tawo",
+      "count": 162
+    },
+    {
+      "word": "pob",
+      "count": 162
+    },
+    {
+      "word": "ibang",
+      "count": 161
+    },
+    {
+      "word": "buhay",
+      "count": 161
+    },
+    {
+      "word": "gabos",
+      "count": 159
+    },
+    {
+      "word": "ang",
+      "count": 159
+    },
+    {
+      "word": "ay",
+      "count": 158
+    },
+    {
+      "word": "website",
+      "count": 157
+    },
+    {
+      "word": "ngani",
+      "count": 155
+    },
+    {
+      "word": "elementary",
+      "count": 154
+    },
+    {
+      "word": "poon",
+      "count": 149
+    },
+    {
+      "word": "sorsogon",
+      "count": 149
+    },
+    {
+      "word": "leyte",
+      "count": 147
+    },
+    {
+      "word": "niyang",
+      "count": 147
+    },
+    {
+      "word": "saen",
+      "count": 144
+    },
+    {
+      "word": "dating",
+      "count": 143
+    },
+    {
+      "word": "ninda",
+      "count": 142
+    },
+    {
+      "word": "ikaduwang",
+      "count": 141
+    },
+    {
+      "word": "philippines",
+      "count": 141
+    },
+    {
+      "word": "ko",
+      "count": 141
+    },
+    {
+      "word": "mas",
+      "count": 140
+    },
+    {
+      "word": "iloilo",
+      "count": 140
+    },
+    {
+      "word": "ladawan",
+      "count": 138
+    },
+    {
+      "word": "gobyerno",
+      "count": 137
+    },
+    {
+      "word": "ikatolong",
+      "count": 136
+    },
+    {
+      "word": "ika",
+      "count": 135
+    },
+    {
+      "word": "hale",
+      "count": 134
+    },
+    {
+      "word": "gikan",
+      "count": 134
+    },
+    {
+      "word": "pangasinan",
+      "count": 134
+    },
+    {
+      "word": "bohol",
+      "count": 134
+    },
+    {
+      "word": "to",
+      "count": 133
+    },
+    {
+      "word": "official",
+      "count": 131
+    },
+    {
+      "word": "high",
+      "count": 131
+    },
+    {
+      "word": "saindang",
+      "count": 129
+    },
+    {
+      "word": "mayo",
+      "count": 128
+    },
+    {
+      "word": "paagi",
+      "count": 127
+    },
+    {
+      "word": "zamboanga",
+      "count": 126
+    },
+    {
+      "word": "salog",
+      "count": 125
+    },
+    {
+      "word": "saka",
+      "count": 124
+    },
+    {
+      "word": "ngonyan",
+      "count": 124
+    },
+    {
+      "word": "saiya",
+      "count": 124
+    },
+    {
+      "word": "camaligan",
+      "count": 123
+    },
+    {
+      "word": "amerikano",
+      "count": 122
+    },
+    {
+      "word": "juan",
+      "count": 122
+    },
+    {
+      "word": "bikolnon",
+      "count": 121
+    },
+    {
+      "word": "sarô",
+      "count": 121
+    },
+    {
+      "word": "opisyal",
+      "count": 121
+    },
+    {
+      "word": "tomas",
+      "count": 121
+    },
+    {
+      "word": "santo",
+      "count": 118
+    },
+    {
+      "word": "aki",
+      "count": 117
+    },
+    {
+      "word": "eskwelahan",
+      "count": 116
+    },
+    {
+      "word": "municipality",
+      "count": 115
+    },
+    {
+      "word": "national",
+      "count": 114
+    },
+    {
+      "word": "pili",
+      "count": 114
+    },
+    {
+      "word": "lanao",
+      "count": 114
+    },
+    {
+      "word": "university",
+      "count": 113
+    },
+    {
+      "word": "nasyon",
+      "count": 112
+    },
+    {
+      "word": "cotabato",
+      "count": 112
+    },
+    {
+      "word": "isabela",
+      "count": 112
+    },
+    {
+      "word": "grupo",
+      "count": 111
+    },
+    {
+      "word": "manuel",
+      "count": 110
+    },
+    {
+      "word": "gayo",
+      "count": 110
+    },
+    {
+      "word": "primera",
+      "count": 110
+    },
+    {
+      "word": "pero",
+      "count": 109
+    },
+    {
+      "word": "aldaw",
+      "count": 108
+    },
+    {
+      "word": "sulnopan",
+      "count": 108
+    },
+    {
+      "word": "kataytayan",
+      "count": 108
+    },
+    {
+      "word": "boot",
+      "count": 107
+    },
+    {
+      "word": "bagong",
+      "count": 107
+    },
+    {
+      "word": "rizal",
+      "count": 107
+    },
+    {
+      "word": "dangan",
+      "count": 106
+    },
+    {
+      "word": "klase",
+      "count": 106
+    },
+    {
+      "word": "sentro",
+      "count": 103
+    },
+    {
+      "word": "bulan",
+      "count": 103
+    },
+    {
+      "word": "kinaban",
+      "count": 103
+    },
+    {
+      "word": "ng",
+      "count": 103
+    },
+    {
+      "word": "ako",
+      "count": 103
+    },
+    {
+      "word": "haros",
+      "count": 102
+    },
+    {
+      "word": "for",
+      "count": 102
+    },
+    {
+      "word": "tubig",
+      "count": 101
+    },
+    {
+      "word": "dakul",
+      "count": 101
+    },
+    {
+      "word": "mariano",
+      "count": 101
+    },
+    {
+      "word": "francisco",
+      "count": 101
+    },
+    {
+      "word": "kaya",
+      "count": 100
+    },
+    {
+      "word": "masbate",
+      "count": 100
+    },
+    {
+      "word": "agusan",
+      "count": 100
+    },
+    {
+      "word": "abot",
+      "count": 99
+    },
+    {
+      "word": "tolong",
+      "count": 97
+    },
+    {
+      "word": "samar",
+      "count": 96
+    },
+    {
+      "word": "maray",
+      "count": 95
+    },
+    {
+      "word": "milyon",
+      "count": 95
+    },
+    {
+      "word": "unidos",
+      "count": 95
+    },
+    {
+      "word": "pamilya",
+      "count": 95
+    },
+    {
+      "word": "ina",
+      "count": 95
+    },
+    {
+      "word": "perfecto",
+      "count": 95
+    },
+    {
+      "word": "cagayan",
+      "count": 95
+    },
+    {
+      "word": "katawo",
+      "count": 94
+    },
+    {
+      "word": "luzon",
+      "count": 94
+    },
+    {
+      "word": "daa",
+      "count": 92
+    },
+    {
+      "word": "antonio",
+      "count": 92
+    },
+    {
+      "word": "tagalog",
+      "count": 92
+    },
+    {
+      "word": "mo",
+      "count": 91
+    },
+    {
+      "word": "pwedeng",
+      "count": 91
+    },
+    {
+      "word": "ka",
+      "count": 91
+    },
+    {
+      "word": "obispo",
+      "count": 91
+    },
+    {
+      "word": "mayor",
+      "count": 90
+    },
+    {
+      "word": "sabihon",
+      "count": 90
+    },
+    {
+      "word": "enterong",
+      "count": 90
+    },
+    {
+      "word": "kaining",
+      "count": 90
+    },
+    {
+      "word": "hapon",
+      "count": 90
+    },
+    {
+      "word": "domingo",
+      "count": 90
+    },
+    {
+      "word": "nagadan",
+      "count": 90
+    },
+    {
+      "word": "maria",
+      "count": 90
+    },
+    {
+      "word": "miguel",
+      "count": 89
+    },
+    {
+      "word": "bago",
+      "count": 88
+    },
+    {
+      "word": "filipino",
+      "count": 87
+    },
+    {
+      "word": "mindanao",
+      "count": 87
+    },
+    {
+      "word": "agosto",
+      "count": 86
+    },
+    {
+      "word": "kinàban",
+      "count": 85
+    },
+    {
+      "word": "laog",
+      "count": 85
+    },
+    {
+      "word": "estados",
+      "count": 85
+    },
+    {
+      "word": "asya",
+      "count": 85
+    },
+    {
+      "word": "legazpi",
+      "count": 85
+    },
+    {
+      "word": "el",
+      "count": 85
+    },
+    {
+      "word": "asín",
+      "count": 85
+    },
+    {
+      "word": "inot",
+      "count": 84
+    },
+    {
+      "word": "naman",
+      "count": 83
+    },
+    {
+      "word": "hunyo",
+      "count": 83
+    },
+    {
+      "word": "habagatan",
+      "count": 83
+    },
+    {
+      "word": "davao",
+      "count": 83
+    },
+    {
+      "word": "lang",
+      "count": 82
+    },
+    {
+      "word": "abril",
+      "count": 82
+    },
+    {
+      "word": "bukid",
+      "count": 82
+    },
+    {
+      "word": "ama",
+      "count": 82
+    },
+    {
+      "word": "pasiring",
+      "count": 81
+    },
+    {
+      "word": "enero",
+      "count": 81
+    },
+    {
+      "word": "kaidto",
+      "count": 81
+    },
+    {
+      "word": "apat",
+      "count": 81
+    },
+    {
+      "word": "espanyol",
+      "count": 81
+    },
+    {
+      "word": "on",
+      "count": 81
+    },
+    {
+      "word": "sanang",
+      "count": 80
+    },
+    {
+      "word": "pwede",
+      "count": 80
+    },
+    {
+      "word": "populasyon",
+      "count": 79
+    },
+    {
+      "word": "rawitdawit",
+      "count": 79
+    },
+    {
+      "word": "festival",
+      "count": 79
+    },
+    {
+      "word": "kapitolyo",
+      "count": 78
+    },
+    {
+      "word": "sulu",
+      "count": 78
+    },
+    {
+      "word": "kolehiyo",
+      "count": 78
+    },
+    {
+      "word": "siyudad",
+      "count": 77
+    },
+    {
+      "word": "namundag",
+      "count": 77
+    },
+    {
+      "word": "kahoy",
+      "count": 76
+    },
+    {
+      "word": "sto",
+      "count": 76
+    },
+    {
+      "word": "pilipinas",
+      "count": 76
+    },
+    {
+      "word": "sr",
+      "count": 76
+    },
+    {
+      "word": "mayong",
+      "count": 75
+    },
+    {
+      "word": "kaiba",
+      "count": 75
+    },
+    {
+      "word": "idtong",
+      "count": 74
+    },
+    {
+      "word": "espanya",
+      "count": 74
+    },
+    {
+      "word": "dati",
+      "count": 74
+    },
+    {
+      "word": "edukasyon",
+      "count": 73
+    },
+    {
+      "word": "bilog",
+      "count": 73
+    },
+    {
+      "word": "no",
+      "count": 73
+    },
+    {
+      "word": "abra",
+      "count": 73
+    },
+    {
+      "word": "dahon",
+      "count": 73
+    },
+    {
+      "word": "bagay",
+      "count": 72
+    },
+    {
+      "word": "region",
+      "count": 72
+    },
+    {
+      "word": "catanduanes",
+      "count": 72
+    },
+    {
+      "word": "marcos",
+      "count": 72
+    },
+    {
+      "word": "vicente",
+      "count": 72
+    },
+    {
+      "word": "peñafrancia",
+      "count": 72
+    },
+    {
+      "word": "ngaran",
+      "count": 71
+    },
+    {
+      "word": "laguna",
+      "count": 71
+    },
+    {
+      "word": "gamit",
+      "count": 71
+    },
+    {
+      "word": "diyos",
+      "count": 71
+    },
+    {
+      "word": "sakop",
+      "count": 70
+    },
+    {
+      "word": "libro",
+      "count": 70
+    },
+    {
+      "word": "laban",
+      "count": 70
+    },
+    {
+      "word": "visayas",
+      "count": 70
+    },
+    {
+      "word": "heograpiya",
+      "count": 69
+    },
+    {
+      "word": "metro",
+      "count": 69
+    },
+    {
+      "word": "new",
+      "count": 69
+    },
+    {
+      "word": "pilipino",
+      "count": 69
+    },
+    {
+      "word": "edad",
+      "count": 69
     },
     {
       "word": "apod",
-      "count": 2
+      "count": 68
     },
     {
-      "word": "minasunod",
-      "count": 2
+      "word": "inapod",
+      "count": 68
     },
     {
-      "word": "madaling",
-      "count": 2
+      "word": "harong",
+      "count": 68
     },
     {
-      "word": "estudyante",
-      "count": 2
+      "word": "hanggan",
+      "count": 68
     },
     {
-      "word": "edipisyo",
-      "count": 2
+      "word": "kabali",
+      "count": 68
     },
     {
-      "word": "shatrughna",
-      "count": 2
+      "word": "lokal",
+      "count": 67
     },
     {
-      "word": "bharata",
-      "count": 2
+      "word": "sentral",
+      "count": 67
     },
     {
-      "word": "key",
-      "count": 2
+      "word": "gibo",
+      "count": 67
     },
     {
-      "word": "i-hold",
-      "count": 2
+      "word": "inc",
+      "count": 67
     },
     {
-      "word": "malapat",
-      "count": 2
+      "word": "magin",
+      "count": 67
     },
     {
-      "word": "dagdag",
-      "count": 2
+      "word": "kadaklan",
+      "count": 66
     },
     {
-      "word": "isinusuherir",
-      "count": 2
+      "word": "mala",
+      "count": 66
     },
     {
-      "word": "uyon",
-      "count": 2
+      "word": "partido",
+      "count": 66
     },
     {
-      "word": "bersikulo",
-      "count": 2
+      "word": "artikulo",
+      "count": 66
     },
     {
-      "word": "tipikal",
-      "count": 2
+      "word": "college",
+      "count": 66
+    },
+    {
+      "word": "daing",
+      "count": 66
+    },
+    {
+      "word": "sadit",
+      "count": 65
+    },
+    {
+      "word": "hulyo",
+      "count": 65
+    },
+    {
+      "word": "puso",
+      "count": 65
+    },
+    {
+      "word": "katoliko",
+      "count": 65
+    },
+    {
+      "word": "orog",
+      "count": 65
+    },
+    {
+      "word": "central",
+      "count": 65
+    },
+    {
+      "word": "ginibo",
+      "count": 64
+    },
+    {
+      "word": "dakol",
+      "count": 64
+    },
+    {
+      "word": "bakong",
+      "count": 64
+    },
+    {
+      "word": "amihanan",
+      "count": 64
+    },
+    {
+      "word": "agom",
+      "count": 64
+    },
+    {
+      "word": "jr",
+      "count": 64
+    },
+    {
+      "word": "sinurat",
+      "count": 64
+    },
+    {
+      "word": "under",
+      "count": 64
+    },
+    {
+      "word": "at",
+      "count": 63
+    },
+    {
+      "word": "amerika",
+      "count": 63
+    },
+    {
+      "word": "canaman",
+      "count": 63
+    },
+    {
+      "word": "nanggad",
+      "count": 62
+    },
+    {
+      "word": "kultura",
+      "count": 62
+    },
+    {
+      "word": "limang",
+      "count": 62
+    },
+    {
+      "word": "taga",
+      "count": 62
+    },
+    {
+      "word": "sta",
+      "count": 62
+    },
+    {
+      "word": "napapalibotan",
+      "count": 62
+    },
+    {
+      "word": "ginagamit",
+      "count": 62
+    },
+    {
+      "word": "surigao",
+      "count": 62
+    },
+    {
+      "word": "parasurat",
+      "count": 62
+    },
+    {
+      "word": "namomogtak",
+      "count": 61
+    },
+    {
+      "word": "sur-subangan",
+      "count": 61
+    },
+    {
+      "word": "south",
+      "count": 61
+    },
+    {
+      "word": "khz",
+      "count": 61
+    },
+    {
+      "word": "irarom",
+      "count": 61
+    },
+    {
+      "word": "alkalde",
+      "count": 61
+    },
+    {
+      "word": "robredo",
+      "count": 61
+    },
+    {
+      "word": "sabi",
+      "count": 61
+    },
+    {
+      "word": "kundi",
+      "count": 60
+    },
+    {
+      "word": "ngunyan",
+      "count": 60
+    },
+    {
+      "word": "area",
+      "count": 60
+    },
+    {
+      "word": "sain",
+      "count": 60
+    },
+    {
+      "word": "fernando",
+      "count": 60
+    },
+    {
+      "word": "history",
+      "count": 60
+    },
+    {
+      "word": "nasa",
+      "count": 60
+    },
+    {
+      "word": "kadagatan",
+      "count": 60
+    },
+    {
+      "word": "pagtubod",
+      "count": 60
+    },
+    {
+      "word": "pinaká",
+      "count": 59
+    },
+    {
+      "word": "siglo",
+      "count": 59
+    },
+    {
+      "word": "www",
+      "count": 59
+    },
+    {
+      "word": "ektarya",
+      "count": 59
+    },
+    {
+      "word": "cruz",
+      "count": 59
+    },
+    {
+      "word": "ii",
+      "count": 59
+    },
+    {
+      "word": "palawan",
+      "count": 59
+    },
+    {
+      "word": "gobernador",
+      "count": 59
+    },
+    {
+      "word": "saróng",
+      "count": 59
+    },
+    {
+      "word": "pacquiao",
+      "count": 59
+    },
+    {
+      "word": "garo",
+      "count": 58
+    },
+    {
+      "word": "uusipon",
+      "count": 58
+    },
+    {
+      "word": "kabikolan",
+      "count": 58
+    },
+    {
+      "word": "press",
+      "count": 58
+    },
+    {
+      "word": "totoo",
+      "count": 58
+    },
+    {
+      "word": "padre",
+      "count": 58
+    },
+    {
+      "word": "lisboa",
+      "count": 58
+    },
+    {
+      "word": "nacion",
+      "count": 57
+    },
+    {
+      "word": "estado",
+      "count": 57
+    },
+    {
+      "word": "cavite",
+      "count": 57
+    },
+    {
+      "word": "termino",
+      "count": 57
+    },
+    {
+      "word": "bako",
+      "count": 57
+    },
+    {
+      "word": "museo",
+      "count": 56
+    },
+    {
+      "word": "maski",
+      "count": 56
+    },
+    {
+      "word": "harani",
+      "count": 56
+    },
+    {
+      "word": "sinasabing",
+      "count": 56
+    },
+    {
+      "word": "daga",
+      "count": 56
+    },
+    {
+      "word": "dr",
+      "count": 56
+    },
+    {
+      "word": "iní",
+      "count": 56
+    },
+    {
+      "word": "ekonomiya",
+      "count": 55
+    },
+    {
+      "word": "banggi",
+      "count": 55
+    },
+    {
+      "word": "baybayon",
+      "count": 55
+    },
+    {
+      "word": "tugang",
+      "count": 55
+    },
+    {
+      "word": "dakulang",
+      "count": 55
+    },
+    {
+      "word": "lambang",
+      "count": 55
+    },
+    {
+      "word": "don",
+      "count": 55
+    },
+    {
+      "word": "sobra",
+      "count": 54
+    },
+    {
+      "word": "north",
+      "count": 54
+    },
+    {
+      "word": "by",
+      "count": 54
+    },
+    {
+      "word": "bunga",
+      "count": 54
+    },
+    {
+      "word": "pahina",
+      "count": 54
+    },
+    {
+      "word": "pwersa",
+      "count": 54
+    },
+    {
+      "word": "aprika",
+      "count": 53
+    },
+    {
+      "word": "nagpoon",
+      "count": 53
+    },
+    {
+      "word": "munisipyo",
+      "count": 53
+    },
+    {
+      "word": "marso",
+      "count": 53
+    },
+    {
+      "word": "http",
+      "count": 53
+    },
+    {
+      "word": "ph",
+      "count": 53
+    },
+    {
+      "word": "st",
+      "count": 53
+    },
+    {
+      "word": "nobyembre",
+      "count": 52
+    },
+    {
+      "word": "kong",
+      "count": 52
+    },
+    {
+      "word": "duwa",
+      "count": 52
+    },
+    {
+      "word": "isidro",
+      "count": 52
+    },
+    {
+      "word": "bataan",
+      "count": 52
+    },
+    {
+      "word": "libmanan",
+      "count": 52
+    },
+    {
+      "word": "taong",
+      "count": 52
+    },
+    {
+      "word": "academy",
+      "count": 52
+    },
+    {
+      "word": "dae",
+      "count": 51
+    },
+    {
+      "word": "pinakadakulang",
+      "count": 51
+    },
+    {
+      "word": "hilingon",
+      "count": 51
+    },
+    {
+      "word": "giraray",
+      "count": 51
+    },
+    {
+      "word": "you",
+      "count": 51
+    },
+    {
+      "word": "serbisyo",
+      "count": 51
+    },
+    {
+      "word": "lutong",
+      "count": 50
+    },
+    {
+      "word": "pebrero",
+      "count": 50
+    },
+    {
+      "word": "world",
+      "count": 50
+    },
+    {
+      "word": "romano",
+      "count": 50
+    },
+    {
+      "word": "institute",
+      "count": 50
+    },
+    {
+      "word": "bulkan",
+      "count": 50
+    },
+    {
+      "word": "sinasabi",
+      "count": 50
+    },
+    {
+      "word": "septyembre",
+      "count": 50
+    },
+    {
+      "word": "aurora",
+      "count": 50
+    },
+    {
+      "word": "general",
+      "count": 50
+    },
+    {
+      "word": "gregorio",
+      "count": 50
+    },
+    {
+      "word": "sainda",
+      "count": 50
+    },
+    {
+      "word": "ramon",
+      "count": 50
+    },
+    {
+      "word": "kagadanan",
+      "count": 50
+    },
+    {
+      "word": "ano",
+      "count": 49
+    },
+    {
+      "word": "medyo",
+      "count": 49
+    },
+    {
+      "word": "tahaw",
+      "count": 49
+    },
+    {
+      "word": "mantang",
+      "count": 49
+    },
+    {
+      "word": "jesus",
+      "count": 49
+    },
+    {
+      "word": "pigtataram",
+      "count": 49
+    },
+    {
+      "word": "ateneo",
+      "count": 49
+    },
+    {
+      "word": "antique",
+      "count": 49
+    },
+    {
+      "word": "from",
+      "count": 49
+    },
+    {
+      "word": "india",
+      "count": 49
+    },
+    {
+      "word": "capitan",
+      "count": 49
+    },
+    {
+      "word": "roxas",
+      "count": 49
+    },
+    {
+      "word": "dapat",
+      "count": 48
+    },
+    {
+      "word": "iriga",
+      "count": 48
+    },
+    {
+      "word": "kristiyano",
+      "count": 48
+    },
+    {
+      "word": "jaime",
+      "count": 48
+    },
+    {
+      "word": "luis",
+      "count": 48
+    },
+    {
+      "word": "langka",
+      "count": 48
+    },
+    {
+      "word": "aguinaldo",
+      "count": 48
+    },
+    {
+      "word": "government",
+      "count": 47
+    },
+    {
+      "word": "hiwas",
+      "count": 47
+    },
+    {
+      "word": "dapit",
+      "count": 47
+    },
+    {
+      "word": "idto",
+      "count": 47
+    },
+    {
+      "word": "sira",
+      "count": 47
+    },
+    {
+      "word": "relihiyon",
+      "count": 47
+    },
+    {
+      "word": "association",
+      "count": 47
+    },
+    {
+      "word": "hernandez",
+      "count": 47
+    },
+    {
+      "word": "gobernadorcillo",
+      "count": 47
+    },
+    {
+      "word": "istorya",
+      "count": 46
+    },
+    {
+      "word": "ngane",
+      "count": 46
+    },
+    {
+      "word": "tinanom",
+      "count": 46
+    },
+    {
+      "word": "banal",
+      "count": 46
+    },
+    {
+      "word": "mi",
+      "count": 46
+    },
+    {
+      "word": "golpo",
+      "count": 46
+    },
+    {
+      "word": "basilan",
+      "count": 46
+    },
+    {
+      "word": "aklan",
+      "count": 46
+    },
+    {
+      "word": "information",
+      "count": 46
+    },
+    {
+      "word": "pwesto",
+      "count": 46
+    },
+    {
+      "word": "angeles",
+      "count": 46
+    },
+    {
+      "word": "en",
+      "count": 45
+    },
+    {
+      "word": "niyog",
+      "count": 45
+    },
+    {
+      "word": "negosyo",
+      "count": 45
+    },
+    {
+      "word": "europa",
+      "count": 45
+    },
+    {
+      "word": "señora",
+      "count": 45
+    },
+    {
+      "word": "sunod",
+      "count": 44
+    },
+    {
+      "word": "ley",
+      "count": 44
+    },
+    {
+      "word": "beses",
+      "count": 44
+    },
+    {
+      "word": "bikolano",
+      "count": 44
+    },
+    {
+      "word": "with",
+      "count": 44
+    },
+    {
+      "word": "hali",
+      "count": 44
+    },
+    {
+      "word": "capiz",
+      "count": 44
+    },
+    {
+      "word": "eleksyon",
+      "count": 44
+    },
+    {
+      "word": "nuestra",
+      "count": 44
+    },
+    {
+      "word": "center",
+      "count": 43
+    },
+    {
+      "word": "presenteng",
+      "count": 43
+    },
+    {
+      "word": "norteng",
+      "count": 43
+    },
+    {
+      "word": "islang",
+      "count": 43
+    },
+    {
+      "word": "province",
+      "count": 43
     },
     {
       "word": "orihinal",
-      "count": 2
+      "count": 43
     },
     {
-      "word": "hababang",
-      "count": 2
+      "word": "tuyong",
+      "count": 43
     },
     {
-      "word": "pignombrahan",
-      "count": 2
+      "word": "vocabulario",
+      "count": 43
     },
     {
-      "word": "nagdalagan",
-      "count": 2
+      "word": "year",
+      "count": 43
     },
     {
-      "word": "ronang",
-      "count": 2
+      "word": "pedro",
+      "count": 43
+    },
+    {
+      "word": "arejola",
+      "count": 43
+    },
+    {
+      "word": "minsan",
+      "count": 42
     },
     {
       "word": "agrikultura",
-      "count": 2
+      "count": 42
     },
     {
-      "word": "akwipero",
-      "count": 2
+      "word": "estudyante",
+      "count": 42
     },
     {
-      "word": "naglalaman",
-      "count": 2
+      "word": "parehong",
+      "count": 42
     },
     {
-      "word": "sulog",
-      "count": 2
+      "word": "bersyon",
+      "count": 41
     },
     {
-      "word": "bulkanikong",
-      "count": 2
+      "word": "grado",
+      "count": 41
     },
     {
-      "word": "bakilid",
-      "count": 2
+      "word": "manongod",
+      "count": 41
+    },
+    {
+      "word": "km²",
+      "count": 41
+    },
+    {
+      "word": "wikipedia",
+      "count": 41
+    },
+    {
+      "word": "sibugay",
+      "count": 41
+    },
+    {
+      "word": "oro",
+      "count": 41
+    },
+    {
+      "word": "west",
+      "count": 41
+    },
+    {
+      "word": "our",
+      "count": 41
+    },
+    {
+      "word": "pilar",
+      "count": 41
+    },
+    {
+      "word": "padi",
+      "count": 41
+    },
+    {
+      "word": "artocarpus",
+      "count": 41
+    },
+    {
+      "word": "kolor",
+      "count": 41
+    },
+    {
+      "word": "paroko",
+      "count": 41
+    },
+    {
+      "word": "ikaag",
+      "count": 40
+    },
+    {
+      "word": "gurang",
+      "count": 40
+    },
+    {
+      "word": "marhay",
+      "count": 40
+    },
+    {
+      "word": "agi-agi",
+      "count": 40
+    },
+    {
+      "word": "hayop",
+      "count": 40
+    },
+    {
+      "word": "nu",
+      "count": 40
+    },
+    {
+      "word": "bantog",
+      "count": 40
+    },
+    {
+      "word": "provincial",
+      "count": 40
+    },
+    {
+      "word": "manta",
+      "count": 40
+    },
+    {
+      "word": "lumang",
+      "count": 40
+    },
+    {
+      "word": "magsaysay",
+      "count": 40
+    },
+    {
+      "word": "love",
+      "count": 40
+    },
+    {
+      "word": "ilokano",
+      "count": 40
+    },
+    {
+      "word": "education",
+      "count": 40
+    },
+    {
+      "word": "pading",
+      "count": 40
+    },
+    {
+      "word": "gainza",
+      "count": 40
+    },
+    {
+      "word": "pablo",
+      "count": 40
+    },
+    {
+      "word": "municipalities",
+      "count": 40
+    },
+    {
+      "word": "kantang",
+      "count": 40
+    },
+    {
+      "word": "sibil",
+      "count": 40
+    },
+    {
+      "word": "gilid",
+      "count": 39
+    },
+    {
+      "word": "palibot",
+      "count": 39
+    },
+    {
+      "word": "minasunod",
+      "count": 39
+    },
+    {
+      "word": "org",
+      "count": 39
+    },
+    {
+      "word": "imperial",
+      "count": 39
+    },
+    {
+      "word": "paroy",
+      "count": 39
+    },
+    {
+      "word": "abella",
+      "count": 39
+    },
+    {
+      "word": "es",
+      "count": 38
+    },
+    {
+      "word": "parati",
+      "count": 38
+    },
+    {
+      "word": "oras",
+      "count": 38
+    },
+    {
+      "word": "tunay",
+      "count": 38
+    },
+    {
+      "word": "quirino",
+      "count": 38
+    },
+    {
+      "word": "biliran",
+      "count": 38
+    },
+    {
+      "word": "parataram",
+      "count": 38
+    },
+    {
+      "word": "magurang",
+      "count": 38
+    },
+    {
+      "word": "baga",
+      "count": 38
+    },
+    {
+      "word": "sakong",
+      "count": 38
+    },
+    {
+      "word": "cities",
+      "count": 37
+    },
+    {
+      "word": "york",
+      "count": 37
+    },
+    {
+      "word": "retrato",
+      "count": 37
+    },
+    {
+      "word": "resort",
+      "count": 37
+    },
+    {
+      "word": "latin",
+      "count": 37
+    },
+    {
+      "word": "naabot",
+      "count": 37
+    },
+    {
+      "word": "dawa",
+      "count": 37
+    },
+    {
+      "word": "su",
+      "count": 37
+    },
+    {
+      "word": "kastilang",
+      "count": 37
+    },
+    {
+      "word": "east",
+      "count": 37
+    },
+    {
+      "word": "orden",
+      "count": 37
+    },
+    {
+      "word": "mismo",
+      "count": 37
+    },
+    {
+      "word": "websayt",
+      "count": 37
+    },
+    {
+      "word": "villafuerte",
+      "count": 37
+    },
+    {
+      "word": "solnopan",
+      "count": 37
+    },
+    {
+      "word": "ferdinand",
+      "count": 37
+    },
+    {
+      "word": "elementarya",
+      "count": 37
+    },
+    {
+      "word": "los",
+      "count": 37
+    },
+    {
+      "word": "osipon",
+      "count": 37
+    },
+    {
+      "word": "mrs",
+      "count": 37
+    },
+    {
+      "word": "haleng",
+      "count": 36
+    },
+    {
+      "word": "isarog",
+      "count": 36
+    },
+    {
+      "word": "mayon",
+      "count": 36
+    },
+    {
+      "word": "roque",
+      "count": 36
+    },
+    {
+      "word": "anom",
+      "count": 36
+    },
+    {
+      "word": "broadcasting",
+      "count": 36
+    },
+    {
+      "word": "patron",
+      "count": 36
+    },
+    {
+      "word": "or",
+      "count": 36
+    },
+    {
+      "word": "manok",
+      "count": 36
+    },
+    {
+      "word": "kristiyanong",
+      "count": 36
+    },
+    {
+      "word": "santuario",
+      "count": 36
+    },
+    {
+      "word": "guta",
+      "count": 35
+    },
+    {
+      "word": "halangkaw",
+      "count": 35
+    },
+    {
+      "word": "iba-ibang",
+      "count": 35
+    },
+    {
+      "word": "nangyari",
+      "count": 35
+    },
+    {
+      "word": "hasta",
+      "count": 35
+    },
+    {
+      "word": "madrid",
+      "count": 35
+    },
+    {
+      "word": "foundation",
+      "count": 35
+    },
+    {
+      "word": "kapilya",
+      "count": 35
+    },
+    {
+      "word": "myembro",
+      "count": 35
+    },
+    {
+      "word": "iyan",
+      "count": 35
+    },
+    {
+      "word": "nya",
+      "count": 35
+    },
+    {
+      "word": "municipal",
+      "count": 35
+    },
+    {
+      "word": "senador",
+      "count": 35
+    },
+    {
+      "word": "representante",
+      "count": 35
+    },
+    {
+      "word": "memorial",
+      "count": 35
+    },
+    {
+      "word": "domain",
+      "count": 35
+    },
+    {
+      "word": "huri",
+      "count": 34
+    },
+    {
+      "word": "obra",
+      "count": 34
+    },
+    {
+      "word": "las",
+      "count": 34
+    },
+    {
+      "word": "apayao",
+      "count": 34
+    },
+    {
+      "word": "niño",
+      "count": 34
+    },
+    {
+      "word": "kura",
+      "count": 34
+    },
+    {
+      "word": "laman",
+      "count": 34
+    },
+    {
+      "word": "korte",
+      "count": 34
+    },
+    {
+      "word": "cecilio",
+      "count": 34
+    },
+    {
+      "word": "my",
+      "count": 34
+    },
+    {
+      "word": "popular",
+      "count": 33
+    },
+    {
+      "word": "sistemang",
+      "count": 33
+    },
+    {
+      "word": "monumento",
+      "count": 33
+    },
+    {
+      "word": "tsina",
+      "count": 33
+    },
+    {
+      "word": "site",
+      "count": 33
+    },
+    {
+      "word": "natural",
+      "count": 33
+    },
+    {
+      "word": "online",
+      "count": 33
+    },
+    {
+      "word": "pakatapos",
+      "count": 33
+    },
+    {
+      "word": "amay",
+      "count": 33
+    },
+    {
+      "word": "pamayo",
+      "count": 33
+    },
+    {
+      "word": "language",
+      "count": 33
+    },
+    {
+      "word": "guimaras",
+      "count": 33
+    },
+    {
+      "word": "pareho",
+      "count": 33
+    },
+    {
+      "word": "pranses",
+      "count": 33
+    },
+    {
+      "word": "lalaki",
+      "count": 33
+    },
+    {
+      "word": "luto",
+      "count": 33
+    },
+    {
+      "word": "adal",
+      "count": 33
+    },
+    {
+      "word": "pangatorogan",
+      "count": 33
+    },
+    {
+      "word": "pag",
+      "count": 32
+    },
+    {
+      "word": "klima",
+      "count": 32
+    },
+    {
+      "word": "pitong",
+      "count": 32
+    },
+    {
+      "word": "komunidad",
+      "count": 32
+    },
+    {
+      "word": "bistado",
+      "count": 32
+    },
+    {
+      "word": "salvador",
+      "count": 32
+    },
+    {
+      "word": "piggagamit",
+      "count": 32
+    },
+    {
+      "word": "intsik",
+      "count": 32
+    },
+    {
+      "word": "mahihiling",
+      "count": 32
+    },
+    {
+      "word": "ginibong",
+      "count": 32
+    },
+    {
+      "word": "diyan",
+      "count": 32
+    },
+    {
+      "word": "pirang",
+      "count": 32
+    },
+    {
+      "word": "pulitika",
+      "count": 32
+    },
+    {
+      "word": "saradit",
+      "count": 32
+    },
+    {
+      "word": "kalinga",
+      "count": 32
+    },
+    {
+      "word": "vizcaya",
+      "count": 32
+    },
+    {
+      "word": "law",
+      "count": 32
+    },
+    {
+      "word": "kuta",
+      "count": 32
+    },
+    {
+      "word": "bato",
+      "count": 32
+    },
+    {
+      "word": "batag",
+      "count": 32
+    },
+    {
+      "word": "trinidad",
+      "count": 32
+    },
+    {
+      "word": "emilio",
+      "count": 32
+    },
+    {
+      "word": "nagkaigwa",
+      "count": 32
+    },
+    {
+      "word": "sarung",
+      "count": 32
+    },
+    {
+      "word": "salazar",
+      "count": 32
+    },
+    {
+      "word": "akong",
+      "count": 32
+    },
+    {
+      "word": "union",
+      "count": 31
+    },
+    {
+      "word": "kontinente",
+      "count": 31
+    },
+    {
+      "word": "edipisyo",
+      "count": 31
+    },
+    {
+      "word": "halipot",
+      "count": 31
+    },
+    {
+      "word": "nasyonal",
+      "count": 31
+    },
+    {
+      "word": "reyes",
+      "count": 31
+    },
+    {
+      "word": "daraga",
+      "count": 31
+    },
+    {
+      "word": "hawak",
+      "count": 31
+    },
+    {
+      "word": "kongreso",
+      "count": 31
+    },
+    {
+      "word": "total",
+      "count": 31
+    },
+    {
+      "word": "pacifico",
+      "count": 31
+    },
+    {
+      "word": "norte-subangan",
+      "count": 31
+    },
+    {
+      "word": "banga",
+      "count": 31
+    },
+    {
+      "word": "km",
+      "count": 31
+    },
+    {
+      "word": "bikolanong",
+      "count": 31
+    },
+    {
+      "word": "taramon",
+      "count": 31
+    },
+    {
+      "word": "onra",
+      "count": 31
+    },
+    {
+      "word": "is",
+      "count": 31
+    },
+    {
+      "word": "imprenta",
+      "count": 31
+    },
+    {
+      "word": "pilipinong",
+      "count": 31
+    },
+    {
+      "word": "rosario",
+      "count": 31
+    },
+    {
+      "word": "parokya",
+      "count": 31
+    },
+    {
+      "word": "sako",
+      "count": 31
+    },
+    {
+      "word": "mr",
+      "count": 31
+    },
+    {
+      "word": "kakanon",
+      "count": 31
+    },
+    {
+      "word": "fr",
+      "count": 31
+    },
+    {
+      "word": "paz",
+      "count": 31
+    },
+    {
+      "word": "segunda",
+      "count": 31
+    },
+    {
+      "word": "bisto",
+      "count": 30
+    },
+    {
+      "word": "pati",
+      "count": 30
+    },
+    {
+      "word": "sili",
+      "count": 30
+    },
+    {
+      "word": "pagluto",
+      "count": 30
+    },
+    {
+      "word": "ikatulong",
+      "count": 30
+    },
+    {
+      "word": "terminong",
+      "count": 30
+    },
+    {
+      "word": "makukua",
+      "count": 30
+    },
+    {
+      "word": "agta",
+      "count": 30
+    },
+    {
+      "word": "camalig",
+      "count": 30
+    },
+    {
+      "word": "gadan",
+      "count": 30
+    },
+    {
+      "word": "pagromdom",
+      "count": 30
+    },
+    {
+      "word": "cebuano",
+      "count": 30
+    },
+    {
+      "word": "sya",
+      "count": 30
+    },
+    {
+      "word": "andres",
+      "count": 30
+    },
+    {
+      "word": "pagsurat",
+      "count": 30
+    },
+    {
+      "word": "hiligaynon",
+      "count": 30
+    },
+    {
+      "word": "hilnga",
+      "count": 30
+    },
+    {
+      "word": "magellan",
+      "count": 30
+    },
+    {
+      "word": "bonifacio",
+      "count": 30
+    },
+    {
+      "word": "nakua",
+      "count": 30
+    },
+    {
+      "word": "iyó",
+      "count": 30
+    },
+    {
+      "word": "mata",
+      "count": 30
+    },
+    {
+      "word": "santiago",
+      "count": 30
+    },
+    {
+      "word": "youtube",
+      "count": 30
+    },
+    {
+      "word": "masabi",
+      "count": 30
+    },
+    {
+      "word": "selebrasyon",
+      "count": 30
+    },
+    {
+      "word": "konstitusyon",
+      "count": 30
+    },
+    {
+      "word": "martir",
+      "count": 30
+    },
+    {
+      "word": "gwardya",
+      "count": 30
+    },
+    {
+      "word": "sangkap",
+      "count": 29
+    },
+    {
+      "word": "tulong",
+      "count": 29
+    },
+    {
+      "word": "magayon",
+      "count": 29
+    },
+    {
+      "word": "manonongod",
+      "count": 29
+    },
+    {
+      "word": "bay",
+      "count": 29
+    },
+    {
+      "word": "negros",
+      "count": 29
+    },
+    {
+      "word": "lapu-lapu",
+      "count": 29
+    },
+    {
+      "word": "kaidtong",
+      "count": 29
+    },
+    {
+      "word": "nicolas",
+      "count": 29
+    },
+    {
+      "word": "nababangâ",
+      "count": 29
+    },
+    {
+      "word": "danaw",
+      "count": 29
+    },
+    {
+      "word": "ambos",
+      "count": 29
+    },
+    {
+      "word": "militar",
+      "count": 29
+    },
+    {
+      "word": "administrasyon",
+      "count": 29
+    },
+    {
+      "word": "baao",
+      "count": 29
+    },
+    {
+      "word": "th",
+      "count": 29
+    },
+    {
+      "word": "concepcion",
+      "count": 29
+    },
+    {
+      "word": "malanyaon",
+      "count": 29
+    },
+    {
+      "word": "brgy",
+      "count": 29
+    },
+    {
+      "word": "dato",
+      "count": 29
+    },
+    {
+      "word": "aquino",
+      "count": 29
+    },
+    {
+      "word": "seminario",
+      "count": 29
+    },
+    {
+      "word": "kita",
+      "count": 29
+    },
+    {
+      "word": "liwat",
+      "count": 29
+    },
+    {
+      "word": "pinaka-enot",
+      "count": 29
+    },
+    {
+      "word": "simong",
+      "count": 29
+    },
+    {
+      "word": "batsilyer",
+      "count": 29
+    },
+    {
+      "word": "dikit",
+      "count": 28
+    },
+    {
+      "word": "banwa",
+      "count": 28
+    },
+    {
+      "word": "kabesera",
+      "count": 28
+    },
+    {
+      "word": "kamugtakan",
+      "count": 28
+    },
+    {
+      "word": "katedral",
+      "count": 28
+    },
+    {
+      "word": "guerra",
+      "count": 28
+    },
+    {
+      "word": "state",
+      "count": 28
+    },
+    {
+      "word": "kada",
+      "count": 28
+    },
+    {
+      "word": "lamang",
+      "count": 28
+    },
+    {
+      "word": "kinua",
+      "count": 28
+    },
+    {
+      "word": "day",
+      "count": 28
+    },
+    {
+      "word": "network",
+      "count": 28
+    },
+    {
+      "word": "oktobre",
+      "count": 28
+    },
+    {
+      "word": "oriental",
+      "count": 28
+    },
+    {
+      "word": "department",
+      "count": 28
+    },
+    {
+      "word": "des",
+      "count": 28
+    },
+    {
+      "word": "buda",
+      "count": 28
+    },
+    {
+      "word": "polangui",
+      "count": 28
+    },
+    {
+      "word": "atubangan",
+      "count": 28
+    },
+    {
+      "word": "pisog",
+      "count": 28
+    },
+    {
+      "word": "holy",
+      "count": 28
+    },
+    {
+      "word": "me",
+      "count": 28
+    },
+    {
+      "word": "award",
+      "count": 28
+    },
+    {
+      "word": "garcia",
+      "count": 28
+    },
+    {
+      "word": "plazo",
+      "count": 28
+    },
+    {
+      "word": "segun",
+      "count": 27
+    },
+    {
+      "word": "ginikanan",
+      "count": 27
+    },
+    {
+      "word": "mainit",
+      "count": 27
+    },
+    {
+      "word": "temperatura",
+      "count": 27
+    },
+    {
+      "word": "paris",
+      "count": 27
+    },
+    {
+      "word": "industriya",
+      "count": 27
+    },
+    {
+      "word": "roma",
+      "count": 27
+    },
+    {
+      "word": "kahiwasan",
+      "count": 27
+    },
+    {
+      "word": "ocampo",
+      "count": 27
+    },
+    {
+      "word": "can",
+      "count": 27
+    },
+    {
+      "word": "buhi",
+      "count": 27
+    },
+    {
+      "word": "gerang",
+      "count": 27
+    },
+    {
+      "word": "desyembre",
+      "count": 27
+    },
+    {
+      "word": "english",
+      "count": 27
+    },
+    {
+      "word": "parteng",
+      "count": 27
+    },
+    {
+      "word": "iii",
+      "count": 27
+    },
+    {
+      "word": "bulacan",
+      "count": 27
+    },
+    {
+      "word": "pagkakan",
+      "count": 27
+    },
+    {
+      "word": "isabel",
+      "count": 27
+    },
+    {
+      "word": "babae",
+      "count": 27
+    },
+    {
+      "word": "paggibo",
+      "count": 27
+    },
+    {
+      "word": "halimbawa",
+      "count": 27
+    },
+    {
+      "word": "por",
+      "count": 27
+    },
+    {
+      "word": "mansana",
+      "count": 27
+    },
+    {
+      "word": "poro",
+      "count": 27
+    },
+    {
+      "word": "first",
+      "count": 27
+    },
+    {
+      "word": "kurso",
+      "count": 27
+    },
+    {
+      "word": "kaso",
+      "count": 27
+    },
+    {
+      "word": "realubit",
+      "count": 27
+    },
+    {
+      "word": "library",
+      "count": 27
+    },
+    {
+      "word": "produkto",
+      "count": 27
+    },
+    {
+      "word": "gabriel",
+      "count": 27
+    },
+    {
+      "word": "agustin",
+      "count": 27
+    },
+    {
+      "word": "siyá",
+      "count": 27
+    },
+    {
+      "word": "beach",
+      "count": 27
+    },
+    {
+      "word": "kasasarong",
+      "count": 27
+    },
+    {
+      "word": "pasyalang",
+      "count": 27
+    },
+    {
+      "word": "turista",
+      "count": 26
+    },
+    {
+      "word": "dakula",
+      "count": 26
+    },
+    {
+      "word": "turismo",
+      "count": 26
+    },
+    {
+      "word": "luwas",
+      "count": 26
+    },
+    {
+      "word": "island",
+      "count": 26
+    },
+    {
+      "word": "resulta",
+      "count": 26
+    },
+    {
+      "word": "politikal",
+      "count": 26
+    },
+    {
+      "word": "dictionary",
+      "count": 26
+    },
+    {
+      "word": "burak",
+      "count": 26
+    },
+    {
+      "word": "historya",
+      "count": 26
+    },
+    {
+      "word": "abogado",
+      "count": 26
+    },
+    {
+      "word": "ngonian",
+      "count": 26
+    },
+    {
+      "word": "pangenot",
+      "count": 26
+    },
+    {
+      "word": "nag-abot",
+      "count": 26
+    },
+    {
+      "word": "darakulang",
+      "count": 26
+    },
+    {
+      "word": "aleman",
+      "count": 26
+    },
+    {
+      "word": "development",
+      "count": 26
+    },
+    {
+      "word": "siquijor",
+      "count": 26
+    },
+    {
+      "word": "sindang",
+      "count": 26
+    },
+    {
+      "word": "residente",
+      "count": 26
+    },
+    {
+      "word": "daet",
+      "count": 26
+    },
+    {
+      "word": "tinogdas",
+      "count": 26
+    },
+    {
+      "word": "kongresista",
+      "count": 26
+    },
+    {
+      "word": "kang",
+      "count": 26
+    },
+    {
+      "word": "namamanwaan",
+      "count": 26
+    },
+    {
+      "word": "hilaw",
+      "count": 26
+    },
+    {
+      "word": "prieto",
+      "count": 26
+    },
+    {
+      "word": "pakalihis",
+      "count": 26
+    },
+    {
+      "word": "pinangat",
+      "count": 26
+    },
+    {
+      "word": "que",
+      "count": 26
+    },
+    {
+      "word": "kaamayan",
+      "count": 26
+    },
+    {
+      "word": "nagtukaw",
+      "count": 26
+    },
+    {
+      "word": "arts",
+      "count": 26
+    },
+    {
+      "word": "ginigibo",
+      "count": 26
+    },
+    {
+      "word": "tolos",
+      "count": 26
+    },
+    {
+      "word": "solong",
+      "count": 26
+    },
+    {
+      "word": "eskuwelahan",
+      "count": 26
+    },
+    {
+      "word": "your",
+      "count": 26
+    },
+    {
+      "word": "lukban",
+      "count": 26
+    },
+    {
+      "word": "felix",
+      "count": 26
+    },
+    {
+      "word": "sibulyas",
+      "count": 25
+    },
+    {
+      "word": "arte",
+      "count": 25
+    },
+    {
+      "word": "namómogták",
+      "count": 25
+    },
+    {
+      "word": "rehiyonal",
+      "count": 25
+    },
+    {
+      "word": "ultimo",
+      "count": 25
+    },
+    {
+      "word": "as",
+      "count": 25
+    },
+    {
+      "word": "primerong",
+      "count": 25
+    },
+    {
+      "word": "trabaho",
+      "count": 25
+    },
+    {
+      "word": "pinakaenot",
+      "count": 25
+    },
+    {
+      "word": "dekada",
+      "count": 25
+    },
+    {
+      "word": "makuring",
+      "count": 25
+    },
+    {
+      "word": "suanoy",
+      "count": 25
+    },
+    {
+      "word": "bicolandia",
+      "count": 25
+    },
+    {
+      "word": "rinconada",
+      "count": 25
+    },
+    {
+      "word": "rebolusyon",
+      "count": 25
+    },
+    {
+      "word": "rona",
+      "count": 25
+    },
+    {
+      "word": "international",
+      "count": 25
+    },
+    {
+      "word": "order",
+      "count": 25
+    },
+    {
+      "word": "setyembre",
+      "count": 25
+    },
+    {
+      "word": "batanes",
+      "count": 25
+    },
+    {
+      "word": "camiguin",
+      "count": 25
+    },
+    {
+      "word": "santos",
+      "count": 25
+    },
+    {
+      "word": "nageerok",
+      "count": 25
+    },
+    {
+      "word": "radyo",
+      "count": 25
+    },
+    {
+      "word": "pag-adal",
+      "count": 25
+    },
+    {
+      "word": "pangkinaban",
+      "count": 25
+    },
+    {
+      "word": "audiovisual",
+      "count": 25
+    },
+    {
+      "word": "communicators",
+      "count": 25
+    },
+    {
+      "word": "barrio",
+      "count": 25
+    },
+    {
+      "word": "portuges",
+      "count": 25
+    },
+    {
+      "word": "carlos",
+      "count": 25
+    },
+    {
+      "word": "natong",
+      "count": 25
+    },
+    {
+      "word": "sekretaryo",
+      "count": 25
+    },
+    {
+      "word": "prutas",
+      "count": 25
+    },
+    {
+      "word": "agriculture",
+      "count": 25
+    },
+    {
+      "word": "clemente",
+      "count": 25
+    },
+    {
+      "word": "we",
+      "count": 25
+    },
+    {
+      "word": "ika-apat",
+      "count": 25
+    },
+    {
+      "word": "giniris",
+      "count": 24
+    },
+    {
+      "word": "institusyon",
+      "count": 24
+    },
+    {
+      "word": "pagkatapos",
+      "count": 24
+    },
+    {
+      "word": "importanteng",
+      "count": 24
+    },
+    {
+      "word": "komponido",
+      "count": 24
+    },
+    {
+      "word": "da",
+      "count": 24
+    },
+    {
+      "word": "goa",
+      "count": 24
+    },
+    {
+      "word": "usa",
+      "count": 24
+    },
+    {
+      "word": "puon",
+      "count": 24
+    },
+    {
+      "word": "program",
+      "count": 24
+    },
+    {
+      "word": "espiritu",
+      "count": 24
+    },
+    {
+      "word": "magallanes",
+      "count": 24
+    },
+    {
+      "word": "tanganing",
+      "count": 24
+    },
+    {
+      "word": "padagos",
+      "count": 24
+    },
+    {
+      "word": "pulitikal",
+      "count": 24
+    },
+    {
+      "word": "muslim",
+      "count": 24
+    },
+    {
+      "word": "sadiring",
+      "count": 24
+    },
+    {
+      "word": "bisaya",
+      "count": 24
+    },
+    {
+      "word": "act",
+      "count": 24
+    },
+    {
+      "word": "sitio",
+      "count": 24
+    },
+    {
+      "word": "nagluwas",
+      "count": 24
+    },
+    {
+      "word": "grupong",
+      "count": 24
+    },
+    {
+      "word": "tao",
+      "count": 24
+    },
+    {
+      "word": "huring",
+      "count": 24
+    },
+    {
+      "word": "sadiri",
+      "count": 24
+    },
+    {
+      "word": "tapos",
+      "count": 24
+    },
+    {
+      "word": "buenavista",
+      "count": 24
+    },
+    {
+      "word": "paggamit",
+      "count": 24
+    },
+    {
+      "word": "lenggwahe",
+      "count": 24
+    },
+    {
+      "word": "be",
+      "count": 24
+    },
+    {
+      "word": "carmen",
+      "count": 24
+    },
+    {
+      "word": "magkapirang",
+      "count": 24
+    },
+    {
+      "word": "bagas",
+      "count": 24
+    },
+    {
+      "word": "science",
+      "count": 24
+    },
+    {
+      "word": "vol",
+      "count": 24
+    },
+    {
+      "word": "rayo",
+      "count": 24
+    },
+    {
+      "word": "tinampo",
+      "count": 24
+    },
+    {
+      "word": "burgos",
+      "count": 24
+    },
+    {
+      "word": "elias",
+      "count": 24
+    },
+    {
+      "word": "leon",
+      "count": 24
+    },
+    {
+      "word": "sobrang",
+      "count": 23
+    },
+    {
+      "word": "pankinaban",
+      "count": 23
+    },
+    {
+      "word": "midbid",
+      "count": 23
+    },
+    {
+      "word": "langit",
+      "count": 23
+    },
+    {
+      "word": "tataramong",
+      "count": 23
+    },
+    {
+      "word": "calabanga",
+      "count": 23
+    },
+    {
+      "word": "peninsula",
+      "count": 23
+    },
+    {
+      "word": "probinsyang",
+      "count": 23
+    },
+    {
+      "word": "tabaco",
+      "count": 23
+    },
+    {
+      "word": "diyalekto",
+      "count": 23
+    },
+    {
+      "word": "tulay",
+      "count": 23
+    },
+    {
+      "word": "librong",
+      "count": 23
+    },
+    {
+      "word": "mahiwas",
+      "count": 23
+    },
+    {
+      "word": "kapiyestahan",
+      "count": 23
+    },
+    {
+      "word": "community",
+      "count": 23
+    },
+    {
+      "word": "occidental",
+      "count": 23
+    },
+    {
+      "word": "lagonoy",
+      "count": 23
+    },
+    {
+      "word": "akta",
+      "count": 23
+    },
+    {
+      "word": "tinataram",
+      "count": 23
+    },
+    {
+      "word": "panay",
+      "count": 23
+    },
+    {
+      "word": "kadakol",
+      "count": 23
+    },
+    {
+      "word": "district",
+      "count": 23
+    },
+    {
+      "word": "semana",
+      "count": 23
+    },
+    {
+      "word": "osmeña",
+      "count": 23
+    },
+    {
+      "word": "nabua",
+      "count": 23
+    },
+    {
+      "word": "william",
+      "count": 23
+    },
+    {
+      "word": "kristo",
+      "count": 23
+    },
+    {
+      "word": "video",
+      "count": 23
+    },
+    {
+      "word": "luna",
+      "count": 23
+    },
+    {
+      "word": "united",
+      "count": 23
+    },
+    {
+      "word": "colegio",
+      "count": 23
+    },
+    {
+      "word": "php",
+      "count": 23
+    },
+    {
+      "word": "heneral",
+      "count": 23
+    },
+    {
+      "word": "departamento",
+      "count": 23
+    },
+    {
+      "word": "katongdan",
+      "count": 23
+    },
+    {
+      "word": "mais",
+      "count": 23
+    },
+    {
+      "word": "most",
+      "count": 23
+    },
+    {
+      "word": "bradley",
+      "count": 23
+    },
+    {
+      "word": "club",
+      "count": 23
+    },
+    {
+      "word": "suprema",
+      "count": 23
+    },
+    {
+      "word": "katuwang",
+      "count": 23
+    },
+    {
+      "word": "barlin",
+      "count": 23
+    },
+    {
+      "word": "alejandria",
+      "count": 23
+    },
+    {
+      "word": "rosalio",
+      "count": 23
+    },
+    {
+      "word": "martires",
+      "count": 23
+    },
+    {
+      "word": "pres",
+      "count": 23
+    },
+    {
+      "word": "ilagan",
+      "count": 23
+    },
+    {
+      "word": "agnes",
+      "count": 23
+    },
+    {
+      "word": "bawang",
+      "count": 22
+    },
+    {
+      "word": "namit",
+      "count": 22
+    },
+    {
+      "word": "nasabing",
+      "count": 22
+    },
+    {
+      "word": "building",
+      "count": 22
+    },
+    {
+      "word": "antes",
+      "count": 22
+    },
+    {
+      "word": "house",
+      "count": 22
+    },
+    {
+      "word": "haloy",
+      "count": 22
+    },
+    {
+      "word": "tubo",
+      "count": 22
+    },
+    {
+      "word": "mt",
+      "count": 22
+    },
+    {
+      "word": "park",
+      "count": 22
+    },
+    {
+      "word": "baryo",
+      "count": 22
+    },
+    {
+      "word": "ligao",
+      "count": 22
+    },
+    {
+      "word": "oktubre",
+      "count": 22
+    },
+    {
+      "word": "ibabaw",
+      "count": 22
+    },
+    {
+      "word": "church",
+      "count": 22
+    },
+    {
+      "word": "katalingkasan",
+      "count": 22
+    },
+    {
+      "word": "itiot",
+      "count": 22
+    },
+    {
+      "word": "kompwesto",
+      "count": 22
     }
-  ],
-  "source": "CommonLID TSV + FLORES+ (dev+devtest)",
-  "total_tokens": 13749,
-  "unique_tokens": 3570
+  ]
 }

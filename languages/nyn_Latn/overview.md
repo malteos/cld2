@@ -21,3 +21,21 @@ but unmarked.
 Runyankore-Rukiga is taught jointly in Ugandan schools; the common
 orthography was standardised in the 20th century by the East African
 missionary and educational boards.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://www.newvision.co.ug/` — New Vision — Uganda news — _live WebFetch_
+- `https://orumuri.co.ug/` — Orumuri — Runyankore/Rukiga newspaper — _live WebFetch_
+- `https://www.mak.ac.ug/` — Makerere University — Runyankore-Rukiga department — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://www.newvision.co.ug/` — New Vision — Uganda news (news)
+- `https://orumuri.co.ug/` — Orumuri — Runyankore/Rukiga newspaper (news)
+- `https://www.radioperformanceug.com/` — Radio Performance Uganda (Runyankore / English) (news)
+- `https://www.mak.ac.ug/` — Makerere University — Runyankore-Rukiga department (education)

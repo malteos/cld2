@@ -31,3 +31,18 @@ Primary language of the Hebrew Bible (Torah, Nevi'im, Ketuvim) and of some
 post-biblical and Qumranic texts. Studied in Jewish education, Christian
 seminaries, Semitic philology, and now NLP for historical/religious corpora.
 CommonLID `hbo_Hebr` samples are almost exclusively biblical or liturgical.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://www.sefaria.org/texts/Tanakh` — Sefaria — Tanakh (biblical Hebrew) — _live WebFetch_
+- `https://mechon-mamre.org/p/pt/pt0.htm` — Mechon Mamre — Hebrew Bible — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://www.sefaria.org/texts/Tanakh` — Sefaria — Tanakh (biblical Hebrew) (cultural)
+- `https://mechon-mamre.org/p/pt/pt0.htm` — Mechon Mamre — Hebrew Bible (cultural)

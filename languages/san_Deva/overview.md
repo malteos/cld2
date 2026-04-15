@@ -24,3 +24,18 @@ very dense conjunct consonants (**क्ष, ज्ञ, श्र, त्र, �
 Classical Sanskrit was codified by **Pāṇini** in the Aṣṭādhyāyī (c. 4th
 c. BCE). It has remained a scholarly and liturgical language through
 contemporary times; modern Sanskrit publication continues in India.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://sa.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+
+### Catalogued source candidates
+
+- `https://sa.wikipedia.org/` — Sanskrit Wikipedia (cultural)
+- `https://www.sanskritdocuments.org/` — Sanskrit Documents (cultural)
+- `https://www.sudharma.in/` — Sudharma — Sanskrit daily (news)

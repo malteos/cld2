@@ -29,3 +29,18 @@ shifted repeatedly since the early 20th century: Arabic → Latin
 (1928) → Cyrillic (1940) → Latin (1993). Some older corpora still
 show Cyrillic or transitional orthographies, but the post-1999
 Latin form is standard today.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://tk.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://turkmenistan.gov.tm/` — Government of Turkmenistan — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://tk.wikipedia.org/` — Turkmen Wikipedia (cultural)
+- `https://turkmenistan.gov.tm/` — Government of Turkmenistan (gov)

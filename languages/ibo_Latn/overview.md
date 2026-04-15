@@ -11,3 +11,18 @@ Igbo uses a Latin alphabet with **under-dot vowels** and **tone marks**. The und
 ## History and status
 
 Modern Igbo orthography (the 1961 *Ọnwụ* alphabet) is a unified compromise between earlier Central and Union Igbo standards. Igbo is a recognised national language in Nigeria and is used in education, media, and a growing online corpus.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://ig.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.bbc.com/igbo` — BBC Igbo — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://ig.wikipedia.org/` — Igbo Wikipedia (cultural)
+- `https://www.bbc.com/igbo` — BBC Igbo (news)

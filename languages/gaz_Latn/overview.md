@@ -11,3 +11,19 @@ Since 1991 Oromo has been written in **Qubee**, a Latin alphabet. Qubee uses onl
 ## History and status
 
 Qubee replaced the earlier Ge'ez (Ethiopic) script for Oromo in 1991. Oromo is now a working language of the Ethiopian federal government and the regional state of Oromia, and is widely used in media, publishing, and online content (VOA Afaan Oromoo, BBC News Afaan Oromoo).
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://om.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.bbc.com/afaanoromoo` — BBC Afaan Oromoo — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://om.wikipedia.org/` — Oromo Wikipedia (West-Central proxy) (cultural)
+- `https://www.oromiyaa.com/` — Oromia Regional portal (Afaan Oromoo) (news)
+- `https://www.bbc.com/afaanoromoo` — BBC Afaan Oromoo (news)

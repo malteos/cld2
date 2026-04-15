@@ -2,13 +2,15 @@
 """Extract the 109 CommonLID languages from HuggingFace and enrich each with
 metadata (ISO-639-3 code, endonym/English name, script, family, resource tier).
 
-Primary source: HuggingFace `commoncrawl/CommonLID` dataset tags.
+**What we use from CommonLID:** only the dataset's tag metadata (the list
+of language codes), accessed through `HfApi().dataset_info`. We do **NOT**
+download or read the TSV contents — that would risk train-test leakage,
+since CommonLID is our downstream evaluation set.
+
 Fallback: the list compiled into `FALLBACK_LANGS` below, captured from the HF
 dataset on 2026-04-14.
 
-Outputs: languages/language_list.json
-Also writes: languages/per_language_samples/{code}.txt with up to N lines per
-language extracted from the CommonLID .tsv.gz (useful as real example texts).
+Output: languages/language_list.json
 
 Usage (from repo root):
     source .venv/bin/activate
@@ -245,7 +247,15 @@ def main() -> int:
     with OUT.open("w", encoding="utf-8") as f:
         json.dump({"count": len(entries), "languages": entries}, f, ensure_ascii=False, indent=2)
     print(f"[info] wrote {OUT} with {len(entries)} entries")
+    print("[info] CommonLID TSV contents are intentionally not fetched here; "
+          "they are the evaluation set and must stay out of this pipeline.")
+    return 0
 
+
+def _unused_dataset_download_kept_for_reference() -> None:
+    """Retained as documentation only — do not call. The old flow used the
+    code below to slice the CommonLID TSV into per-language sample files.
+    That's train-test leakage and is permanently off limits."""
     tsv = ensure_dataset_file()
     if tsv is not None:
         write_samples(tsv)

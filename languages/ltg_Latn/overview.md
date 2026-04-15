@@ -25,3 +25,18 @@ Written Latgalian developed independently within the Catholic
 Polish-Lithuanian sphere, diverging orthographically from the Protestant
 Latvian tradition further west. Suppressed in the Soviet era, it has
 undergone revival since 1990.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://ltg.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://lakuga.lv/` — LaKuGa — Latgalian culture portal — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://ltg.wikipedia.org/` — Latgalian Wikipedia (cultural)
+- `https://lakuga.lv/` — LaKuGa — Latgalian culture portal (cultural)

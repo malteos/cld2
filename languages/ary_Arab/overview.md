@@ -26,3 +26,19 @@ National vernacular of Morocco and increasingly visible written register
 diglossia with MSA (school, administration) and French (business, higher
 education). Substrate influence from Amazigh (Berber) languages and heavy
 borrowing from French and Spanish.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://ary.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://goud.ma/` — Goud.ma — Moroccan Darija-heavy news — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://ary.wikipedia.org/` — Moroccan Arabic Wikipedia (Wikipediya Dderja) (cultural)
+- `https://www.hespress.com/` — Hespress — Moroccan news (frequent Darija) (news)
+- `https://goud.ma/` — Goud.ma — Moroccan Darija-heavy news (news)

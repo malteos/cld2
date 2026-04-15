@@ -28,3 +28,20 @@ Polish has a continuous literary tradition since the 14th century (Bogurodzica
 hymn). Standardisation occurred during the Renaissance and Enlightenment; the
 current orthography was set by the 1936 reform and is maintained by the
 Rada Języka Polskiego.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://pl.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.gov.pl/` — Gov.pl — _live WebFetch_
+- `https://www.rp.pl/` — Rzeczpospolita — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://pl.wikipedia.org/` — Polish Wikipedia (cultural)
+- `https://www.gov.pl/` — Gov.pl (gov)
+- `https://www.rp.pl/` — Rzeczpospolita (news)

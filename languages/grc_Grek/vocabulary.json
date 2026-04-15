@@ -1,13 +1,644 @@
 {
   "code": "grc",
   "name": "Ancient Greek",
+  "script": "Grek",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 313,
+  "unique_tokens": 158,
   "words": [
     {
-      "word": "μεσσίας",
+      "word": "the",
+      "count": 28
+    },
+    {
+      "word": "perseus",
+      "count": 11
+    },
+    {
+      "word": "of",
+      "count": 11
+    },
+    {
+      "word": "and",
+      "count": 9
+    },
+    {
+      "word": "tufts",
+      "count": 6
+    },
+    {
+      "word": "we",
+      "count": 6
+    },
+    {
+      "word": "to",
+      "count": 6
+    },
+    {
+      "word": "work",
+      "count": 6
+    },
+    {
+      "word": "for",
+      "count": 6
+    },
+    {
+      "word": "digital",
+      "count": 5
+    },
+    {
+      "word": "on",
+      "count": 5
+    },
+    {
+      "word": "in",
+      "count": 4
+    },
+    {
+      "word": "is",
+      "count": 4
+    },
+    {
+      "word": "now",
+      "count": 4
+    },
+    {
+      "word": "with",
+      "count": 4
+    },
+    {
+      "word": "are",
+      "count": 4
+    },
+    {
+      "word": "beyond",
+      "count": 4
+    },
+    {
+      "word": "translation",
+      "count": 4
+    },
+    {
+      "word": "source",
+      "count": 3
+    },
+    {
+      "word": "https",
+      "count": 3
+    },
+    {
+      "word": "www",
+      "count": 3
+    },
+    {
+      "word": "edu",
+      "count": 3
+    },
+    {
+      "word": "hopper",
+      "count": 3
+    },
+    {
+      "word": "library",
+      "count": 3
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "phase",
+      "count": 3
+    },
+    {
+      "word": "university",
+      "count": 3
+    },
+    {
+      "word": "neh",
+      "count": 3
+    },
+    {
+      "word": "support",
+      "count": 3
+    },
+    {
+      "word": "our",
+      "count": 2
+    },
+    {
+      "word": "us",
+      "count": 2
+    },
+    {
+      "word": "replace",
+      "count": 2
+    },
+    {
+      "word": "which",
+      "count": 2
+    },
+    {
+      "word": "using",
+      "count": 2
+    },
+    {
+      "word": "draft",
+      "count": 2
+    },
+    {
+      "word": "that",
+      "count": 2
+    },
+    {
+      "word": "available",
+      "count": 2
+    },
+    {
+      "word": "here",
+      "count": 2
+    },
+    {
+      "word": "has",
+      "count": 2
+    },
+    {
+      "word": "been",
+      "count": 2
+    },
+    {
+      "word": "humanities",
+      "count": 2
+    },
+    {
+      "word": "as",
+      "count": 2
+    },
+    {
+      "word": "part",
+      "count": 2
+    },
+    {
+      "word": "scaife",
+      "count": 2
+    },
+    {
+      "word": "viewer",
+      "count": 2
+    },
+    {
+      "word": "grant",
+      "count": 2
+    },
+    {
+      "word": "from",
+      "count": 2
+    },
+    {
+      "word": "program",
+      "count": 2
+    },
+    {
+      "word": "arts",
+      "count": 2
+    },
+    {
+      "word": "technology",
+      "count": 2
+    },
+    {
+      "word": "project",
+      "count": 2
+    },
+    {
+      "word": "endowment",
+      "count": 2
+    },
+    {
+      "word": "education",
+      "count": 2
+    },
+    {
+      "word": "main",
+      "count": 1
+    },
+    {
+      "word": "collaborator",
+      "count": 1
+    },
+    {
+      "word": "development",
+      "count": 1
+    },
+    {
+      "word": "james",
+      "count": 1
+    },
+    {
+      "word": "tauber",
+      "count": 1
+    },
+    {
+      "word": "who",
+      "count": 1
+    },
+    {
+      "word": "working",
+      "count": 1
+    },
+    {
+      "word": "signum",
+      "count": 1
+    },
+    {
+      "word": "also",
+      "count": 1
+    },
+    {
+      "word": "waiting",
+      "count": 1
+    },
+    {
+      "word": "administrative",
+      "count": 1
+    },
+    {
+      "word": "paperwork",
+      "count": 1
+    },
+    {
+      "word": "finalize",
+      "count": 1
+    },
+    {
+      "word": "contract",
+      "count": 1
+    },
+    {
+      "word": "another",
+      "count": 1
+    },
+    {
+      "word": "group",
+      "count": 1
+    },
+    {
+      "word": "help",
+      "count": 1
+    },
+    {
+      "word": "reorganize",
+      "count": 1
+    },
+    {
+      "word": "home",
+      "count": 1
+    },
+    {
+      "word": "associated",
+      "count": 1
+    },
+    {
+      "word": "sub",
+      "count": 1
+    },
+    {
+      "word": "pages",
+      "count": 1
+    },
+    {
+      "word": "wordpress-based",
+      "count": 1
+    },
+    {
+      "word": "blog",
+      "count": 1
+    },
+    {
+      "word": "pubpub",
+      "count": 1
+    },
+    {
+      "word": "publishing",
+      "count": 1
+    },
+    {
+      "word": "platform",
+      "count": 1
+    },
+    {
+      "word": "already",
+      "count": 1
+    },
+    {
+      "word": "began",
+      "count": 1
+    },
+    {
+      "word": "documenting",
+      "count": 1
+    },
+    {
+      "word": "outline",
+      "count": 1
+    },
+    {
+      "word": "doing",
+      "count": 1
+    },
+    {
+      "word": "have",
+      "count": 1
+    },
+    {
+      "word": "completed",
+      "count": 1
+    },
+    {
+      "word": "white",
+      "count": 1
+    },
+    {
+      "word": "paper",
+      "count": 1
+    },
+    {
+      "word": "submitted",
+      "count": 1
+    },
+    {
+      "word": "office",
+      "count": 1
+    },
+    {
+      "word": "focused",
+      "count": 1
+    },
+    {
+      "word": "an",
+      "count": 1
+    },
+    {
+      "word": "update",
+      "count": 1
+    },
+    {
+      "word": "resulting",
+      "count": 1
+    },
+    {
+      "word": "system",
+      "count": 1
+    },
+    {
+      "word": "will",
+      "count": 1
+    },
+    {
+      "word": "finally",
+      "count": 1
+    },
+    {
+      "word": "allow",
+      "count": 1
+    },
+    {
+      "word": "calling",
+      "count": 1
+    },
+    {
+      "word": "new",
+      "count": 1
+    },
+    {
+      "word": "version",
+      "count": 1
+    },
+    {
+      "word": "rather",
+      "count": 1
+    },
+    {
+      "word": "than",
+      "count": 1
+    },
+    {
+      "word": "reflect",
+      "count": 1
+    },
+    {
+      "word": "amount",
+      "count": 1
+    },
+    {
+      "word": "embedded",
+      "count": 1
+    },
+    {
+      "word": "view",
+      "count": 1
+    },
+    {
+      "word": "collectively",
+      "count": 1
+    },
+    {
+      "word": "collections",
+      "count": 1
+    },
+    {
+      "word": "references",
+      "count": 1
+    },
+    {
+      "word": "division",
+      "count": 1
+    },
+    {
+      "word": "preservation",
+      "count": 1
+    },
+    {
+      "word": "access",
+      "count": 1
+    },
+    {
+      "word": "web",
+      "count": 1
+    },
+    {
+      "word": "ndash",
+      "count": 1
+    },
+    {
+      "word": "preparing",
+      "count": 1
+    },
+    {
+      "word": "next",
+      "count": 1
+    },
+    {
+      "word": "thirty",
+      "count": 1
+    },
+    {
+      "word": "years",
+      "count": 1
+    },
+    {
+      "word": "provides",
+      "count": 1
+    },
+    {
+      "word": "primary",
+      "count": 1
+    },
+    {
+      "word": "additional",
+      "count": 1
+    },
+    {
+      "word": "data",
+      "count": 1
+    },
+    {
+      "word": "intensive",
+      "count": 1
+    },
+    {
+      "word": "studies",
+      "count": 1
+    },
+    {
+      "word": "center",
+      "count": 1
+    },
+    {
+      "word": "school",
+      "count": 1
+    },
+    {
+      "word": "sciences",
+      "count": 1
+    },
+    {
+      "word": "services",
+      "count": 1
+    },
+    {
+      "word": "google",
+      "count": 1
+    },
+    {
+      "word": "prior",
+      "count": 1
+    },
+    {
+      "word": "provided",
+      "count": 1
+    },
+    {
+      "word": "by",
+      "count": 1
+    },
+    {
+      "word": "annenberg",
+      "count": 1
+    },
+    {
+      "word": "cpb",
+      "count": 1
+    },
+    {
+      "word": "apple",
+      "count": 1
+    },
+    {
+      "word": "computer",
+      "count": 1
+    },
+    {
+      "word": "berger",
+      "count": 1
+    },
+    {
+      "word": "family",
+      "count": 1
+    },
+    {
+      "word": "transfer",
+      "count": 1
+    },
+    {
+      "word": "libraries",
+      "count": 1
+    },
+    {
+      "word": "initiative",
+      "count": 1
+    },
+    {
+      "word": "fund",
+      "count": 1
+    },
+    {
+      "word": "improvement",
+      "count": 1
+    },
+    {
+      "word": "postsecondary",
+      "count": 1
+    },
+    {
+      "word": "department",
+      "count": 1
+    },
+    {
+      "word": "getty",
+      "count": 1
+    },
+    {
+      "word": "modern",
+      "count": 1
+    },
+    {
+      "word": "language",
+      "count": 1
+    },
+    {
+      "word": "association",
+      "count": 1
+    },
+    {
+      "word": "national",
+      "count": 1
+    },
+    {
+      "word": "packard",
+      "count": 1
+    },
+    {
+      "word": "institute",
+      "count": 1
+    },
+    {
+      "word": "xerox",
+      "count": 1
+    },
+    {
+      "word": "corporation",
+      "count": 1
+    },
+    {
+      "word": "boston",
+      "count": 1
+    },
+    {
+      "word": "harvard",
       "count": 1
     }
-  ],
-  "source": "CommonLID TSV + FLORES+ (dev+devtest)",
-  "total_tokens": 1,
-  "unique_tokens": 1
+  ]
 }

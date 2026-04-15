@@ -11,3 +11,20 @@ Persian is written in a right-to-left Perso-Arabic abjad that extends the Arabic
 ## History and status
 
 Modern Persian (*Fārsī-ye now*) descends from Middle Persian (Pahlavi) and has been a major literary language since the 9th century (Rudaki, Ferdowsi, Hafez, Rumi). It was the court language of the Mughal Empire and a lingua franca across western, central and south Asia until the 19th century, leaving heavy lexical layers in Urdu, Turkish, Hindi and Uzbek.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://fa.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://president.ir/fa` — Office of the President (Iran) — _live WebFetch_
+- `https://www.bbc.com/persian` — BBC Persian — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://fa.wikipedia.org/` — Persian Wikipedia (cultural)
+- `https://president.ir/fa` — Office of the President (Iran) (gov)
+- `https://www.bbc.com/persian` — BBC Persian (news)

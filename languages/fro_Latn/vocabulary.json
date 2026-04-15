@@ -1,1677 +1,147 @@
 {
   "code": "fro",
   "name": "Old French",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 229,
+  "unique_tokens": 137,
   "words": [
     {
-      "word": "et",
-      "count": 343
-    },
-    {
       "word": "de",
-      "count": 186
-    },
-    {
-      "word": "en",
-      "count": 137
-    },
-    {
-      "word": "la",
-      "count": 134
-    },
-    {
-      "word": "il",
-      "count": 111
-    },
-    {
-      "word": "li",
-      "count": 110
-    },
-    {
-      "word": "que",
-      "count": 103
-    },
-    {
-      "word": "le",
-      "count": 85
-    },
-    {
-      "word": "qui",
-      "count": 74
-    },
-    {
-      "word": "co",
-      "count": 63
-    },
-    {
-      "word": "les",
-      "count": 62
-    },
-    {
-      "word": "ne",
-      "count": 56
-    },
-    {
-      "word": "si",
-      "count": 51
-    },
-    {
-      "word": "est",
-      "count": 49
-    },
-    {
-      "word": "ou",
-      "count": 46
-    },
-    {
-      "word": "ce",
-      "count": 46
-    },
-    {
-      "word": "des",
-      "count": 42
-    },
-    {
-      "word": "er",
-      "count": 40
-    },
-    {
-      "word": "se",
-      "count": 39
-    },
-    {
-      "word": "me",
-      "count": 35
-    },
-    {
-      "word": "ue",
-      "count": 35
-    },
-    {
-      "word": "nt",
-      "count": 35
-    },
-    {
-      "word": "re",
-      "count": 34
-    },
-    {
-      "word": "nos",
-      "count": 34
-    },
-    {
-      "word": "fu",
-      "count": 32
-    },
-    {
-      "word": "fol",
-      "count": 32
-    },
-    {
-      "word": "par",
-      "count": 32
-    },
-    {
-      "word": "son",
-      "count": 31
-    },
-    {
-      "word": "vos",
-      "count": 29
-    },
-    {
-      "word": "ge",
-      "count": 26
-    },
-    {
-      "word": "dist",
-      "count": 26
-    },
-    {
-      "word": "ua",
-      "count": 25
-    },
-    {
-      "word": "sa",
-      "count": 24
-    },
-    {
-      "word": "avoit",
-      "count": 23
-    },
-    {
-      "word": "lt",
-      "count": 23
-    },
-    {
-      "word": "dieu",
-      "count": 22
-    },
-    {
-      "word": "touz",
-      "count": 21
-    },
-    {
-      "word": "ot",
-      "count": 19
-    },
-    {
-      "word": "dex",
-      "count": 19
-    },
-    {
-      "word": "ar",
-      "count": 19
-    },
-    {
-      "word": "ra",
       "count": 18
     },
     {
-      "word": "ci",
-      "count": 18
-    },
-    {
-      "word": "por",
-      "count": 18
-    },
-    {
-      "word": "ele",
-      "count": 18
-    },
-    {
-      "word": "toutes",
-      "count": 17
-    },
-    {
-      "word": "car",
-      "count": 17
-    },
-    {
-      "word": "au",
-      "count": 17
-    },
-    {
-      "word": "ses",
-      "count": 16
-    },
-    {
-      "word": "es",
-      "count": 16
-    },
-    {
-      "word": "bien",
-      "count": 16
-    },
-    {
-      "word": "lui",
-      "count": 16
-    },
-    {
-      "word": "plus",
-      "count": 16
-    },
-    {
-      "word": "roys",
-      "count": 15
-    },
-    {
-      "word": "fist",
-      "count": 15
-    },
-    {
-      "word": "terre",
-      "count": 15
-    },
-    {
-      "word": "tant",
-      "count": 15
-    },
-    {
-      "word": "tu",
-      "count": 15
-    },
-    {
-      "word": "ost",
-      "count": 14
-    },
-    {
-      "word": "dou",
-      "count": 14
-    },
-    {
-      "word": "roy",
-      "count": 14
-    },
-    {
-      "word": "fet",
-      "count": 14
-    },
-    {
-      "word": "estoit",
-      "count": 13
-    },
-    {
-      "word": "vie",
-      "count": 12
-    },
-    {
-      "word": "mort",
-      "count": 12
-    },
-    {
-      "word": "bone",
-      "count": 12
-    },
-    {
-      "word": "mes",
-      "count": 12
-    },
-    {
-      "word": "qu'il",
-      "count": 12
-    },
-    {
-      "word": "aussi",
-      "count": 11
-    },
-    {
-      "word": "ap",
-      "count": 11
+      "word": "arlima",
+      "count": 10
     },
     {
       "word": "du",
-      "count": 11
-    },
-    {
-      "word": "sires",
-      "count": 11
-    },
-    {
-      "word": "ciel",
-      "count": 11
-    },
-    {
-      "word": "choses",
-      "count": 11
-    },
-    {
-      "word": "tout",
-      "count": 11
-    },
-    {
-      "word": "dont",
-      "count": 11
-    },
-    {
-      "word": "l'en",
-      "count": 11
-    },
-    {
-      "word": "ceste",
-      "count": 11
-    },
-    {
-      "word": "lor",
-      "count": 11
-    },
-    {
-      "word": "aus",
-      "count": 10
-    },
-    {
-      "word": "aprés",
-      "count": 10
-    },
-    {
-      "word": "autres",
-      "count": 10
-    },
-    {
-      "word": "dit",
-      "count": 10
-    },
-    {
-      "word": "fait",
-      "count": 10
-    },
-    {
-      "word": "ment",
-      "count": 10
-    },
-    {
-      "word": "cels",
-      "count": 10
-    },
-    {
-      "word": "pere",
-      "count": 10
-    },
-    {
-      "word": "joie",
-      "count": 10
-    },
-    {
-      "word": "cité",
-      "count": 9
-    },
-    {
-      "word": "ré",
-      "count": 9
-    },
-    {
-      "word": "sainte",
-      "count": 9
-    },
-    {
-      "word": "cil",
-      "count": 9
-    },
-    {
-      "word": "graal",
-      "count": 9
-    },
-    {
-      "word": "sont",
-      "count": 9
-    },
-    {
-      "word": "seignor",
-      "count": 9
-    },
-    {
-      "word": "soit",
-      "count": 9
-    },
-    {
-      "word": "genz",
-      "count": 8
-    },
-    {
-      "word": "celui",
-      "count": 8
-    },
-    {
-      "word": "contes",
-      "count": 8
-    },
-    {
-      "word": "fin",
-      "count": 8
-    },
-    {
-      "word": "fil",
-      "count": 8
-    },
-    {
-      "word": "puis",
-      "count": 8
-    },
-    {
-      "word": "escrit",
-      "count": 8
-    },
-    {
-      "word": "cui",
-      "count": 8
-    },
-    {
-      "word": "estoient",
-      "count": 8
-    },
-    {
-      "word": "je",
-      "count": 8
-    },
-    {
-      "word": "une",
-      "count": 7
-    },
-    {
-      "word": "furent",
-      "count": 7
-    },
-    {
-      "word": "royaume",
-      "count": 7
-    },
-    {
-      "word": "tiex",
-      "count": 7
-    },
-    {
-      "word": "c'est",
-      "count": 7
-    },
-    {
-      "word": "quant",
-      "count": 7
-    },
-    {
-      "word": "leur",
-      "count": 7
-    },
-    {
-      "word": "face",
-      "count": 7
-    },
-    {
-      "word": "chose",
-      "count": 7
-    },
-    {
-      "word": "non",
-      "count": 7
-    },
-    {
-      "word": "s'en",
-      "count": 7
-    },
-    {
-      "word": "ainsi",
-      "count": 7
-    },
-    {
-      "word": "doit",
-      "count": 7
-    },
-    {
-      "word": "mestre",
-      "count": 7
-    },
-    {
-      "word": "te",
-      "count": 7
-    },
-    {
-      "word": "pas",
-      "count": 7
-    },
-    {
-      "word": "ro",
-      "count": 7
-    },
-    {
-      "word": "uns",
-      "count": 6
-    },
-    {
-      "word": "apela",
-      "count": 6
-    },
-    {
-      "word": "cest",
-      "count": 6
-    },
-    {
-      "word": "ch",
-      "count": 6
-    },
-    {
-      "word": "savoir",
-      "count": 6
-    },
-    {
-      "word": "homes",
-      "count": 6
-    },
-    {
-      "word": "saint",
-      "count": 6
-    },
-    {
-      "word": "sera",
-      "count": 6
-    },
-    {
-      "word": "faire",
-      "count": 6
-    },
-    {
-      "word": "jor",
-      "count": 6
-    },
-    {
-      "word": "pooit",
-      "count": 6
-    },
-    {
-      "word": "assez",
-      "count": 6
-    },
-    {
-      "word": "estre",
-      "count": 6
-    },
-    {
-      "word": "jh",
-      "count": 6
-    },
-    {
-      "word": "nostre",
-      "count": 6
-    },
-    {
-      "word": "avec",
-      "count": 6
-    },
-    {
-      "word": "os",
-      "count": 6
-    },
-    {
-      "word": "aventures",
-      "count": 6
-    },
-    {
-      "word": "aint",
-      "count": 6
-    },
-    {
-      "word": "el",
-      "count": 6
-    },
-    {
-      "word": "creance",
-      "count": 6
-    },
-    {
-      "word": "nus",
-      "count": 6
-    },
-    {
-      "word": "no",
       "count": 5
     },
     {
-      "word": "puissant",
+      "word": "moyen",
       "count": 5
     },
     {
-      "word": "toute",
+      "word": "le",
       "count": 5
     },
     {
-      "word": "cele",
+      "word": "la",
       "count": 5
     },
     {
-      "word": "jorz",
-      "count": 5
-    },
-    {
-      "word": "duq",
-      "count": 5
-    },
-    {
-      "word": "tesmoigne",
-      "count": 5
-    },
-    {
-      "word": "home",
-      "count": 5
-    },
-    {
-      "word": "ma",
-      "count": 5
-    },
-    {
-      "word": "porq",
-      "count": 5
-    },
-    {
-      "word": "uo",
-      "count": 5
-    },
-    {
-      "word": "queste",
-      "count": 5
-    },
-    {
-      "word": "mence",
-      "count": 5
-    },
-    {
-      "word": "ui",
-      "count": 5
-    },
-    {
-      "word": "diex",
-      "count": 5
-    },
-    {
-      "word": "cuer",
-      "count": 5
-    },
-    {
-      "word": "volenté",
-      "count": 5
-    },
-    {
-      "word": "ces",
-      "count": 5
-    },
-    {
-      "word": "homs",
-      "count": 5
-    },
-    {
-      "word": "grant",
-      "count": 5
-    },
-    {
-      "word": "païs",
-      "count": 5
-    },
-    {
-      "word": "vit",
-      "count": 5
-    },
-    {
-      "word": "cort",
-      "count": 5
-    },
-    {
-      "word": "feust",
-      "count": 5
-    },
-    {
-      "word": "on",
-      "count": 5
-    },
-    {
-      "word": "selonc",
-      "count": 5
-    },
-    {
-      "word": "livre",
-      "count": 5
-    },
-    {
-      "word": "table",
-      "count": 5
-    },
-    {
-      "word": "artu",
-      "count": 5
-    },
-    {
-      "word": "rois",
-      "count": 5
-    },
-    {
-      "word": "map",
-      "count": 5
-    },
-    {
-      "word": "meismes",
-      "count": 5
-    },
-    {
-      "word": "apostres",
-      "count": 5
-    },
-    {
-      "word": "autre",
-      "count": 5
-    },
-    {
-      "word": "sanz",
-      "count": 5
-    },
-    {
-      "word": "devant",
-      "count": 5
-    },
-    {
-      "word": "bohorz",
-      "count": 5
-    },
-    {
-      "word": "marie",
-      "count": 5
-    },
-    {
-      "word": "iii",
-      "count": 5
-    },
-    {
-      "word": "eves",
-      "count": 5
-    },
-    {
-      "word": "clarté",
-      "count": 5
-    },
-    {
-      "word": "adecertes",
+      "word": "dã",
       "count": 4
-    },
-    {
-      "word": "gloire",
-      "count": 4
-    },
-    {
-      "word": "jour",
-      "count": 4
-    },
-    {
-      "word": "escripture",
-      "count": 4
-    },
-    {
-      "word": "tinst",
-      "count": 4
-    },
-    {
-      "word": "court",
-      "count": 4
-    },
-    {
-      "word": "chascun",
-      "count": 4
-    },
-    {
-      "word": "monde",
-      "count": 4
-    },
-    {
-      "word": "dire",
-      "count": 4
-    },
-    {
-      "word": "moi",
-      "count": 4
-    },
-    {
-      "word": "sui",
-      "count": 4
-    },
-    {
-      "word": "joseph",
-      "count": 4
-    },
-    {
-      "word": "contre",
-      "count": 4
-    },
-    {
-      "word": "pelleus",
-      "count": 4
-    },
-    {
-      "word": "ala",
-      "count": 4
-    },
-    {
-      "word": "lieu",
-      "count": 4
-    },
-    {
-      "word": "haute",
-      "count": 4
-    },
-    {
-      "word": "morz",
-      "count": 4
-    },
-    {
-      "word": "pechiez",
-      "count": 4
-    },
-    {
-      "word": "avoir",
-      "count": 4
-    },
-    {
-      "word": "fera",
-      "count": 4
-    },
-    {
-      "word": "char",
-      "count": 4
-    },
-    {
-      "word": "force",
-      "count": 4
-    },
-    {
-      "word": "ensemble",
-      "count": 4
-    },
-    {
-      "word": "roonde",
-      "count": 4
-    },
-    {
-      "word": "gautier",
-      "count": 4
-    },
-    {
-      "word": "maniere",
-      "count": 4
-    },
-    {
-      "word": "ciex",
-      "count": 4
-    },
-    {
-      "word": "nons",
-      "count": 4
-    },
-    {
-      "word": "noz",
-      "count": 4
-    },
-    {
-      "word": "establi",
-      "count": 4
-    },
-    {
-      "word": "avant",
-      "count": 4
-    },
-    {
-      "word": "ent",
-      "count": 4
-    },
-    {
-      "word": "orent",
-      "count": 4
-    },
-    {
-      "word": "lors",
-      "count": 4
-    },
-    {
-      "word": "maintenant",
-      "count": 4
-    },
-    {
-      "word": "evalie",
-      "count": 4
-    },
-    {
-      "word": "sic",
-      "count": 4
-    },
-    {
-      "word": "vierge",
-      "count": 4
-    },
-    {
-      "word": "esperit",
-      "count": 4
-    },
-    {
-      "word": "esp",
-      "count": 4
-    },
-    {
-      "word": "nz",
-      "count": 4
-    },
-    {
-      "word": "ocis",
-      "count": 4
-    },
-    {
-      "word": "durable",
-      "count": 4
-    },
-    {
-      "word": "filz",
-      "count": 4
-    },
-    {
-      "word": "d'ui",
-      "count": 4
-    },
-    {
-      "word": "creons",
-      "count": 4
-    },
-    {
-      "word": "rome",
-      "count": 4
-    },
-    {
-      "word": "mot",
-      "count": 4
-    },
-    {
-      "word": "tres",
-      "count": 3
-    },
-    {
-      "word": "feste",
-      "count": 3
-    },
-    {
-      "word": "sainz",
-      "count": 3
-    },
-    {
-      "word": "tans",
-      "count": 3
-    },
-    {
-      "word": "artus",
-      "count": 3
-    },
-    {
-      "word": "esté",
-      "count": 3
-    },
-    {
-      "word": "venist",
-      "count": 3
-    },
-    {
-      "word": "cist",
-      "count": 3
-    },
-    {
-      "word": "l'evangile",
-      "count": 3
-    },
-    {
-      "word": "endroit",
-      "count": 3
-    },
-    {
-      "word": "ventre",
-      "count": 3
-    },
-    {
-      "word": "veoir",
-      "count": 3
-    },
-    {
-      "word": "mere",
-      "count": 3
-    },
-    {
-      "word": "paroles",
-      "count": 3
-    },
-    {
-      "word": "nez",
-      "count": 3
-    },
-    {
-      "word": "bons",
-      "count": 3
-    },
-    {
-      "word": "or",
-      "count": 3
-    },
-    {
-      "word": "diré",
-      "count": 3
-    },
-    {
-      "word": "bon",
-      "count": 3
-    },
-    {
-      "word": "croire",
-      "count": 3
-    },
-    {
-      "word": "del",
-      "count": 3
-    },
-    {
-      "word": "fine",
-      "count": 3
-    },
-    {
-      "word": "livres",
-      "count": 3
-    },
-    {
-      "word": "om",
-      "count": 3
-    },
-    {
-      "word": "doint",
-      "count": 3
-    },
-    {
-      "word": "vueille",
-      "count": 3
-    },
-    {
-      "word": "bataille",
-      "count": 3
-    },
-    {
-      "word": "faites",
-      "count": 3
-    },
-    {
-      "word": "digne",
-      "count": 3
-    },
-    {
-      "word": "adés",
-      "count": 3
-    },
-    {
-      "word": "neant",
-      "count": 3
-    },
-    {
-      "word": "apelez",
-      "count": 3
-    },
-    {
-      "word": "quiex",
-      "count": 3
-    },
-    {
-      "word": "grace",
-      "count": 3
-    },
-    {
-      "word": "pueple",
-      "count": 3
-    },
-    {
-      "word": "totes",
-      "count": 3
-    },
-    {
-      "word": "poist",
-      "count": 3
-    },
-    {
-      "word": "aler",
-      "count": 3
-    },
-    {
-      "word": "tel",
-      "count": 3
-    },
-    {
-      "word": "so",
-      "count": 3
-    },
-    {
-      "word": "mie",
-      "count": 3
-    },
-    {
-      "word": "mal",
-      "count": 3
-    },
-    {
-      "word": "vient",
-      "count": 3
-    },
-    {
-      "word": "stres",
-      "count": 3
-    },
-    {
-      "word": "ta",
-      "count": 3
-    },
-    {
-      "word": "requeste",
-      "count": 3
-    },
-    {
-      "word": "devoit",
-      "count": 3
-    },
-    {
-      "word": "mença",
-      "count": 3
-    },
-    {
-      "word": "partie",
-      "count": 3
-    },
-    {
-      "word": "faite",
-      "count": 3
-    },
-    {
-      "word": "seur",
-      "count": 3
-    },
-    {
-      "word": "dites",
-      "count": 3
-    },
-    {
-      "word": "n'i",
-      "count": 3
-    },
-    {
-      "word": "firent",
-      "count": 3
-    },
-    {
-      "word": "us",
-      "count": 3
-    },
-    {
-      "word": "cors",
-      "count": 3
-    },
-    {
-      "word": "conseil",
-      "count": 3
-    },
-    {
-      "word": "riens",
-      "count": 3
-    },
-    {
-      "word": "puet",
-      "count": 3
-    },
-    {
-      "word": "batailles",
-      "count": 3
-    },
-    {
-      "word": "guerres",
-      "count": 3
-    },
-    {
-      "word": "ucrist",
-      "count": 3
-    },
-    {
-      "word": "venue",
-      "count": 3
-    },
-    {
-      "word": "encore",
-      "count": 3
-    },
-    {
-      "word": "di",
-      "count": 3
-    },
-    {
-      "word": "demande",
-      "count": 3
-    },
-    {
-      "word": "test",
-      "count": 3
-    },
-    {
-      "word": "atant",
-      "count": 3
-    },
-    {
-      "word": "tes",
-      "count": 3
-    },
-    {
-      "word": "plot",
-      "count": 3
-    },
-    {
-      "word": "in",
-      "count": 3
-    },
-    {
-      "word": "quele",
-      "count": 3
-    },
-    {
-      "word": "tient",
-      "count": 3
-    },
-    {
-      "word": "estoire",
-      "count": 3
-    },
-    {
-      "word": "trinité",
-      "count": 3
-    },
-    {
-      "word": "eust",
-      "count": 3
-    },
-    {
-      "word": "avons",
-      "count": 3
-    },
-    {
-      "word": "pluseurs",
-      "count": 3
-    },
-    {
-      "word": "l'arcevesque",
-      "count": 3
-    },
-    {
-      "word": "n'en",
-      "count": 3
-    },
-    {
-      "word": "nous",
-      "count": 3
-    },
-    {
-      "word": "passion",
-      "count": 3
-    },
-    {
-      "word": "vois",
-      "count": 3
-    },
-    {
-      "word": "anges",
-      "count": 3
-    },
-    {
-      "word": "cesar",
-      "count": 3
-    },
-    {
-      "word": "ri",
-      "count": 3
-    },
-    {
-      "word": "anz",
-      "count": 3
-    },
-    {
-      "word": "ier",
-      "count": 3
-    },
-    {
-      "word": "tenebres",
-      "count": 3
-    },
-    {
-      "word": "firmam",
-      "count": 3
-    },
-    {
-      "word": "mediens",
-      "count": 2
-    },
-    {
-      "word": "icelui",
-      "count": 2
-    },
-    {
-      "word": "murs",
-      "count": 2
-    },
-    {
-      "word": "lx",
-      "count": 2
-    },
-    {
-      "word": "coutes",
-      "count": 2
-    },
-    {
-      "word": "tours",
-      "count": 2
-    },
-    {
-      "word": "mist",
-      "count": 2
-    },
-    {
-      "word": "chascune",
-      "count": 2
-    },
-    {
-      "word": "l'espace",
-      "count": 2
-    },
-    {
-      "word": "puissance",
-      "count": 2
-    },
-    {
-      "word": "ainz",
-      "count": 2
-    },
-    {
-      "word": "hebriex",
-      "count": 2
-    },
-    {
-      "word": "juys",
-      "count": 2
-    },
-    {
-      "word": "mi-aoust",
-      "count": 2
-    },
-    {
-      "word": "coronez",
-      "count": 2
-    },
-    {
-      "word": "evale",
-      "count": 2
-    },
-    {
-      "word": "rie",
-      "count": 2
-    },
-    {
-      "word": "karlyon",
-      "count": 2
-    },
-    {
-      "word": "logres",
-      "count": 2
-    },
-    {
-      "word": "barons",
-      "count": 2
-    },
-    {
-      "word": "d'orcanie",
-      "count": 2
-    },
-    {
-      "word": "sermo",
-      "count": 2
-    },
-    {
-      "word": "dim",
-      "count": 2
-    },
-    {
-      "word": "an",
-      "count": 2
-    },
-    {
-      "word": "che",
-      "count": 2
-    },
-    {
-      "word": "paques",
-      "count": 2
-    },
-    {
-      "word": "job",
-      "count": 2
-    },
-    {
-      "word": "porquoi",
-      "count": 2
-    },
-    {
-      "word": "issi",
-      "count": 2
-    },
-    {
-      "word": "poine",
-      "count": 2
-    },
-    {
-      "word": "ve",
-      "count": 2
-    },
-    {
-      "word": "soi",
-      "count": 2
-    },
-    {
-      "word": "ainçois",
-      "count": 2
-    },
-    {
-      "word": "receuz",
-      "count": 2
-    },
-    {
-      "word": "ores",
-      "count": 2
-    },
-    {
-      "word": "lumiere",
-      "count": 2
-    },
-    {
-      "word": "pensee",
-      "count": 2
-    },
-    {
-      "word": "riches",
-      "count": 2
-    },
-    {
-      "word": "gent",
-      "count": 2
-    },
-    {
-      "word": "tuit",
-      "count": 2
-    },
-    {
-      "word": "doivent",
-      "count": 2
-    },
-    {
-      "word": "machabeux",
-      "count": 2
-    },
-    {
-      "word": "freres",
-      "count": 2
-    },
-    {
-      "word": "egypte",
-      "count": 2
-    },
-    {
-      "word": "frere",
-      "count": 2
-    },
-    {
-      "word": "salut",
-      "count": 2
-    },
-    {
-      "word": "orisons",
-      "count": 2
-    },
-    {
-      "word": "sachiez",
-      "count": 2
-    },
-    {
-      "word": "somes",
-      "count": 2
-    },
-    {
-      "word": "perse",
-      "count": 2
-    },
-    {
-      "word": "icés",
-      "count": 2
-    },
-    {
-      "word": "ferai",
-      "count": 2
-    },
-    {
-      "word": "ole",
-      "count": 2
-    },
-    {
-      "word": "vueil",
-      "count": 2
-    },
-    {
-      "word": "tele",
-      "count": 2
-    },
-    {
-      "word": "grece",
-      "count": 2
-    },
-    {
-      "word": "apelee",
-      "count": 2
-    },
-    {
-      "word": "jason",
-      "count": 2
-    },
-    {
-      "word": "amez",
-      "count": 2
-    },
-    {
-      "word": "entra",
-      "count": 2
-    },
-    {
-      "word": "foiz",
-      "count": 2
-    },
-    {
-      "word": "porpensa",
-      "count": 2
     },
     {
       "word": "un",
+      "count": 4
+    },
+    {
+      "word": "plus",
+      "count": 4
+    },
+    {
+      "word": "en",
+      "count": 4
+    },
+    {
+      "word": "et",
+      "count": 4
+    },
+    {
+      "word": "archives",
+      "count": 3
+    },
+    {
+      "word": "maintenant",
+      "count": 3
+    },
+    {
+      "word": "les",
+      "count": 3
+    },
+    {
+      "word": "gation",
+      "count": 3
+    },
+    {
+      "word": "ge",
+      "count": 3
+    },
+    {
+      "word": "des",
+      "count": 3
+    },
+    {
+      "word": "source",
       "count": 2
     },
     {
-      "word": "avint",
+      "word": "https",
       "count": 2
     },
     {
-      "word": "volt",
+      "word": "www",
       "count": 2
     },
     {
-      "word": "thelegonus",
+      "word": "net",
       "count": 2
     },
     {
-      "word": "oublier",
+      "word": "littérature",
       "count": 2
     },
     {
-      "word": "poor",
+      "word": "âge",
       "count": 2
     },
     {
-      "word": "l'ot",
+      "word": "est",
       "count": 2
     },
     {
-      "word": "voies",
+      "word": "sur",
       "count": 2
     },
     {
-      "word": "vesqui",
+      "word": "er",
       "count": 2
     },
     {
-      "word": "tint",
+      "word": "septembre",
       "count": 2
     },
     {
-      "word": "pes",
+      "word": "entame",
       "count": 2
     },
     {
-      "word": "dis",
+      "word": "sa",
       "count": 2
     },
     {
-      "word": "onq",
+      "word": "annã",
       "count": 2
     },
     {
-      "word": "branches",
+      "word": "d'existence",
       "count": 2
     },
     {
-      "word": "seroit",
+      "word": "votre",
       "count": 2
     },
     {
-      "word": "d'orgueil",
+      "word": "une",
       "count": 2
     },
     {
-      "word": "mandem",
-      "count": 2
-    },
-    {
-      "word": "meffaiz",
-      "count": 2
-    },
-    {
-      "word": "pechié",
-      "count": 2
-    },
-    {
-      "word": "amen",
-      "count": 2
-    },
-    {
-      "word": "judith",
-      "count": 2
-    },
-    {
-      "word": "mielz",
-      "count": 2
-    },
-    {
-      "word": "françois",
-      "count": 2
-    },
-    {
-      "word": "toi",
-      "count": 2
-    },
-    {
-      "word": "dame",
-      "count": 2
-    },
-    {
-      "word": "bele",
-      "count": 2
-    },
-    {
-      "word": "chastee",
-      "count": 2
-    },
-    {
-      "word": "dirai",
-      "count": 2
-    },
-    {
-      "word": "mais",
-      "count": 2
-    },
-    {
-      "word": "avis",
-      "count": 2
-    },
-    {
-      "word": "henri",
-      "count": 2
-    },
-    {
-      "word": "morurent",
+      "word": "l'agrã",
       "count": 2
     },
     {
@@ -1679,2331 +149,412 @@
       "count": 2
     },
     {
-      "word": "vers",
+      "word": "roman",
       "count": 2
     },
     {
-      "word": "saintefiez",
+      "word": "ou",
       "count": 2
     },
     {
-      "word": "tiens",
+      "word": "qui",
       "count": 2
     },
     {
-      "word": "meffait",
+      "word": "bibliographie",
       "count": 2
     },
     {
-      "word": "ont",
+      "word": "tã",
       "count": 2
     },
     {
-      "word": "temptation",
-      "count": 2
-    },
-    {
-      "word": "delivres",
-      "count": 2
-    },
-    {
-      "word": "ame",
-      "count": 2
-    },
-    {
-      "word": "establies",
-      "count": 2
-    },
-    {
-      "word": "cestui",
-      "count": 2
-    },
-    {
-      "word": "manda",
-      "count": 2
-    },
-    {
-      "word": "croient",
-      "count": 2
-    },
-    {
-      "word": "dite",
-      "count": 2
-    },
-    {
-      "word": "tie",
-      "count": 2
-    },
-    {
-      "word": "nul",
-      "count": 2
-    },
-    {
-      "word": "droit",
-      "count": 2
-    },
-    {
-      "word": "deable",
-      "count": 2
-    },
-    {
-      "word": "apostre",
-      "count": 2
-    },
-    {
-      "word": "granz",
-      "count": 2
-    },
-    {
-      "word": "ancien",
-      "count": 2
-    },
-    {
-      "word": "sen",
-      "count": 2
-    },
-    {
-      "word": "seil",
-      "count": 2
-    },
-    {
-      "word": "ouvre",
-      "count": 2
-    },
-    {
-      "word": "sens",
-      "count": 2
-    },
-    {
-      "word": "achoison",
-      "count": 2
-    },
-    {
-      "word": "veille",
-      "count": 2
-    },
-    {
-      "word": "resurrection",
-      "count": 2
-    },
-    {
-      "word": "seigneur",
-      "count": 2
-    },
-    {
-      "word": "quatre",
-      "count": 2
-    },
-    {
-      "word": "servise",
-      "count": 2
-    },
-    {
-      "word": "tables",
-      "count": 2
-    },
-    {
-      "word": "hore",
-      "count": 2
-    },
-    {
-      "word": "cheval",
-      "count": 2
-    },
-    {
-      "word": "lancelot",
-      "count": 2
-    },
-    {
-      "word": "vous",
-      "count": 2
-    },
-    {
-      "word": "besoing",
-      "count": 2
-    },
-    {
-      "word": "armes",
-      "count": 2
-    },
-    {
-      "word": "venir",
-      "count": 2
+      "word": "novembre",
+      "count": 1
     },
     {
-      "word": "rs",
-      "count": 2
+      "word": "sormais",
+      "count": 1
     },
     {
-      "word": "teles",
-      "count": 2
+      "word": "prã",
+      "count": 1
     },
     {
-      "word": "l'ermitage",
-      "count": 2
+      "word": "sent",
+      "count": 1
     },
     {
-      "word": "racontees",
-      "count": 2
+      "word": "rã",
+      "count": 1
     },
     {
-      "word": "trouva",
-      "count": 2
+      "word": "seau",
+      "count": 1
     },
     {
-      "word": "romains",
-      "count": 2
+      "word": "mastodon",
+      "count": 1
     },
     {
-      "word": "pecheor",
-      "count": 2
+      "word": "sous",
+      "count": 1
     },
     {
-      "word": "ph",
-      "count": 2
+      "word": "nom",
+      "count": 1
     },
     {
-      "word": "cel",
-      "count": 2
+      "word": "mas",
+      "count": 1
     },
     {
-      "word": "enfer",
-      "count": 2
+      "word": "to",
+      "count": 1
     },
     {
-      "word": "avoient",
-      "count": 2
+      "word": "cembre",
+      "count": 1
     },
     {
-      "word": "secont",
-      "count": 2
+      "word": "site",
+      "count": 1
     },
     {
-      "word": "quia",
-      "count": 2
+      "word": "vient",
+      "count": 1
     },
     {
-      "word": "trestié",
-      "count": 2
+      "word": "d'atteindre",
+      "count": 1
     },
     {
-      "word": "raconté",
-      "count": 2
+      "word": "nouveau",
+      "count": 1
     },
     {
-      "word": "raco",
-      "count": 2
+      "word": "record",
+      "count": 1
     },
     {
-      "word": "sanc",
-      "count": 2
+      "word": "frã",
+      "count": 1
     },
     {
-      "word": "com",
-      "count": 2
+      "word": "quentation",
+      "count": 1
     },
     {
-      "word": "ensivant",
-      "count": 2
+      "word": "avec",
+      "count": 1
     },
     {
-      "word": "branche",
-      "count": 2
+      "word": "peu",
+      "count": 1
     },
     {
-      "word": "l'estoire",
-      "count": 2
+      "word": "visiteurs",
+      "count": 1
     },
     {
-      "word": "petit",
-      "count": 2
+      "word": "soit",
+      "count": 1
     },
     {
-      "word": "mande",
-      "count": 2
+      "word": "jã",
+      "count": 1
     },
     {
-      "word": "cuers",
-      "count": 2
+      "word": "que",
+      "count": 1
     },
     {
-      "word": "fill",
-      "count": 2
+      "word": "l'an",
+      "count": 1
     },
     {
-      "word": "vrai",
-      "count": 2
+      "word": "dernierâ",
+      "count": 1
     },
     {
-      "word": "confort",
-      "count": 2
+      "word": "l'annã",
+      "count": 1
     },
     {
       "word": "n'est",
-      "count": 2
+      "count": 1
     },
     {
-      "word": "mez",
-      "count": 2
+      "word": "pas",
+      "count": 1
     },
     {
-      "word": "mencem",
-      "count": 2
+      "word": "encore",
+      "count": 1
     },
     {
-      "word": "trespassement",
-      "count": 2
+      "word": "terminã",
+      "count": 1
     },
     {
-      "word": "seignors",
-      "count": 2
+      "word": "merci",
+      "count": 1
     },
     {
-      "word": "gau",
-      "count": 2
+      "word": "beaucoup",
+      "count": 1
     },
     {
-      "word": "vains",
-      "count": 2
+      "word": "soutien",
+      "count": 1
     },
     {
-      "word": "jamés",
-      "count": 2
+      "word": "confiance",
+      "count": 1
     },
     {
-      "word": "siecle",
-      "count": 2
+      "word": "depuis",
+      "count": 1
     },
     {
-      "word": "u'i",
-      "count": 2
+      "word": "cennie",
+      "count": 1
+    },
+    {
+      "word": "avril",
+      "count": 1
+    },
+    {
+      "word": "programmes",
+      "count": 1
+    },
+    {
+      "word": "sont",
+      "count": 1
+    },
+    {
+      "word": "enfin",
+      "count": 1
+    },
+    {
+      "word": "sortis",
+      "count": 1
+    },
+    {
+      "word": "c'est",
+      "count": 1
+    },
+    {
+      "word": "donc",
+      "count": 1
+    },
+    {
+      "word": "rose",
+      "count": 1
+    },
+    {
+      "word": "guillaume",
+      "count": 1
+    },
+    {
+      "word": "dole",
+      "count": 1
+    },
+    {
+      "word": "jean",
+      "count": 1
+    },
+    {
+      "word": "renart",
+      "count": 1
+    },
+    {
+      "word": "sera",
+      "count": 1
+    },
+    {
+      "word": "l'ã",
+      "count": 1
+    },
+    {
+      "word": "tude",
+      "count": 1
+    },
+    {
+      "word": "fã",
+      "count": 1
+    },
+    {
+      "word": "vrier",
+      "count": 1
+    },
+    {
+      "word": "agrã",
+      "count": 1
+    },
+    {
+      "word": "lettres",
+      "count": 1
+    },
+    {
+      "word": "modernes",
+      "count": 1
+    },
+    {
+      "word": "voyez",
+      "count": 1
+    },
+    {
+      "word": "ligne",
+      "count": 1
+    },
+    {
+      "word": "d'eneas",
+      "count": 1
+    },
+    {
+      "word": "au",
+      "count": 1
+    },
+    {
+      "word": "programme",
+      "count": 1
+    },
+    {
+      "word": "toutes",
+      "count": 1
+    },
+    {
+      "word": "actualitã",
+      "count": 1
+    },
+    {
+      "word": "littã",
+      "count": 1
+    },
+    {
+      "word": "rature",
+      "count": 1
+    },
+    {
+      "word": "ont",
+      "count": 1
+    },
+    {
+      "word": "fondã",
+      "count": 1
+    },
+    {
+      "word": "es",
+      "count": 1
+    },
+    {
+      "word": "l'intention",
+      "count": 1
+    },
+    {
+      "word": "tudiants",
+      "count": 1
+    },
+    {
+      "word": "chercheurs",
+      "count": 1
+    },
+    {
+      "word": "spã",
+      "count": 1
+    },
+    {
+      "word": "cialistes",
+      "count": 1
+    },
+    {
+      "word": "constitution",
+      "count": 1
+    },
+    {
+      "word": "d'une",
+      "count": 1
+    },
+    {
+      "word": "auteur",
+      "count": 1
+    },
+    {
+      "word": "texte",
+      "count": 1
+    },
+    {
+      "word": "devenue",
+      "count": 1
+    },
+    {
+      "word": "che",
+      "count": 1
+    },
+    {
+      "word": "ardue",
+      "count": 1
+    },
+    {
+      "word": "raison",
+      "count": 1
+    },
+    {
+      "word": "multiplication",
+      "count": 1
+    },
+    {
+      "word": "non",
+      "count": 1
     },
     {
       "word": "seulement",
-      "count": 2
-    },
-    {
-      "word": "chastel",
-      "count": 2
-    },
-    {
-      "word": "pot",
-      "count": 2
-    },
-    {
-      "word": "norri",
-      "count": 2
-    },
-    {
-      "word": "petite",
-      "count": 2
-    },
-    {
-      "word": "it",
-      "count": 2
-    },
-    {
-      "word": "prinst",
-      "count": 2
-    },
-    {
-      "word": "huevre",
-      "count": 2
-    },
-    {
-      "word": "regarder",
-      "count": 2
-    },
-    {
-      "word": "bienfait",
-      "count": 2
-    },
-    {
-      "word": "ainte",
-      "count": 2
-    },
-    {
-      "word": "volez",
-      "count": 2
-    },
-    {
-      "word": "ja",
-      "count": 2
-    },
-    {
-      "word": "juesdi",
-      "count": 2
-    },
-    {
-      "word": "assolu",
-      "count": 2
-    },
-    {
-      "word": "m'a",
-      "count": 2
-    },
-    {
-      "word": "mier",
-      "count": 2
-    },
-    {
-      "word": "fame",
-      "count": 2
-    },
-    {
-      "word": "aucun",
-      "count": 2
-    },
-    {
-      "word": "damedieu",
-      "count": 2
-    },
-    {
-      "word": "luc",
-      "count": 2
-    },
-    {
-      "word": "as",
-      "count": 2
-    },
-    {
-      "word": "enfant",
-      "count": 2
-    },
-    {
-      "word": "mellins",
-      "count": 2
-    },
-    {
-      "word": "l'emp",
-      "count": 2
-    },
-    {
-      "word": "eor",
-      "count": 2
-    },
-    {
-      "word": "fez",
-      "count": 2
-    },
-    {
-      "word": "huevres",
-      "count": 2
-    },
-    {
-      "word": "feussent",
-      "count": 2
-    },
-    {
-      "word": "miers",
-      "count": 2
-    },
-    {
-      "word": "capistoiles",
-      "count": 2
-    },
-    {
-      "word": "jourz",
-      "count": 2
-    },
-    {
-      "word": "anemis",
-      "count": 2
-    },
-    {
-      "word": "adam",
-      "count": 2
-    },
-    {
-      "word": "eve",
-      "count": 2
-    },
-    {
-      "word": "abraham",
-      "count": 2
-    },
-    {
-      "word": "ysaac",
-      "count": 2
-    },
-    {
-      "word": "jacob",
-      "count": 2
-    },
-    {
-      "word": "phestes",
-      "count": 2
-    },
-    {
-      "word": "disoient",
-      "count": 2
-    },
-    {
-      "word": "mell",
-      "count": 2
-    },
-    {
-      "word": "blaise",
-      "count": 2
-    },
-    {
-      "word": "guerre",
-      "count": 2
-    },
-    {
-      "word": "mortalitez",
-      "count": 2
-    },
-    {
-      "word": "haulz",
-      "count": 2
-    },
-    {
-      "word": "veis",
-      "count": 2
-    },
-    {
-      "word": "l'euvangile",
-      "count": 2
-    },
-    {
-      "word": "aiment",
-      "count": 2
-    },
-    {
-      "word": "vaine",
-      "count": 2
-    },
-    {
-      "word": "vobis",
-      "count": 2
-    },
-    {
-      "word": "cria",
-      "count": 2
-    },
-    {
-      "word": "vespre",
-      "count": 2
-    },
-    {
-      "word": "matin",
-      "count": 2
-    },
-    {
-      "word": "olz",
-      "count": 2
-    },
-    {
-      "word": "avecq",
-      "count": 2
-    },
-    {
-      "word": "arphaxat",
-      "count": 1
-    },
-    {
-      "word": "sozmis",
-      "count": 1
-    },
-    {
-      "word": "empire",
-      "count": 1
-    },
-    {
-      "word": "seignorie",
-      "count": 1
-    },
-    {
-      "word": "edefia",
-      "count": 1
-    },
-    {
-      "word": "laquelle",
-      "count": 1
-    },
-    {
-      "word": "ygbathanis",
-      "count": 1
-    },
-    {
-      "word": "pierres",
-      "count": 1
-    },
-    {
-      "word": "quarrees",
-      "count": 1
-    },
-    {
-      "word": "tailliees",
-      "count": 1
-    },
-    {
-      "word": "halt",
-      "count": 1
-    },
-    {
-      "word": "xxx",
-      "count": 1
-    },
-    {
-      "word": "lé",
-      "count": 1
-    },
-    {
-      "word": "d'icele",
-      "count": 1
-    },
-    {
-      "word": "hault",
-      "count": 1
-    },
-    {
-      "word": "costez",
-      "count": 1
-    },
-    {
-      "word": "rreure",
-      "count": 1
-    },
-    {
-      "word": "tourz",
-      "count": 1
-    },
-    {
-      "word": "xx",
-      "count": 1
-    },
-    {
-      "word": "piez",
-      "count": 1
-    },
-    {
-      "word": "portes",
-      "count": 1
-    },
-    {
-      "word": "hautesce",
-      "count": 1
-    },
-    {
-      "word": "glorefioit",
-      "count": 1
-    },
-    {
-      "word": "charroiz",
-      "count": 1
-    },
-    {
-      "word": "troblast",
-      "count": 1
-    },
-    {
-      "word": "isr",
-      "count": 1
-    },
-    {
-      "word": "ae",
-      "count": 1
-    },
-    {
-      "word": "pés",
-      "count": 1
-    },
-    {
-      "word": "d'ans",
-      "count": 1
-    },
-    {
-      "word": "victoire",
-      "count": 1
-    },
-    {
-      "word": "prisé",
-      "count": 1
-    },
-    {
-      "word": "nombre",
-      "count": 1
-    },
-    {
-      "word": "cultivee",
-      "count": 1
-    },
-    {
-      "word": "celebree",
-      "count": 1
-    },
-    {
-      "word": "present",
-      "count": 1
-    },
-    {
-      "word": "receue",
-      "count": 1
-    },
-    {
-      "word": "l'ordre",
-      "count": 1
-    },
-    {
-      "word": "merveilleuse",
-      "count": 1
-    },
-    {
-      "word": "regions",
-      "count": 1
-    },
-    {
-      "word": "dux",
-      "count": 1
-    },
-    {
-      "word": "jornee",
-      "count": 1
-    },
-    {
-      "word": "vinst",
-      "count": 1
-    },
-    {
-      "word": "loth",
-      "count": 1
-    },
-    {
-      "word": "leonois",
-      "count": 1
-    },
-    {
-      "word": "iiii",
-      "count": 1
-    },
-    {
-      "word": "misere",
-      "count": 1
-    },
-    {
-      "word": "escript",
-      "count": 1
-    },
-    {
-      "word": "ur",
-      "count": 1
-    },
-    {
-      "word": "doleur",
-      "count": 1
-    },
-    {
-      "word": "degaster",
-      "count": 1
-    },
-    {
-      "word": "jors",
-      "count": 1
-    },
-    {
-      "word": "confusacion",
-      "count": 1
-    },
-    {
-      "word": "saintefia",
-      "count": 1
-    },
-    {
-      "word": "tre",
-      "count": 1
-    },
-    {
-      "word": "porrai",
-      "count": 1
-    },
-    {
-      "word": "suis",
-      "count": 1
-    },
-    {
-      "word": "conceuz",
-      "count": 1
-    },
-    {
-      "word": "congenuiz",
-      "count": 1
-    },
-    {
-      "word": "naquisse",
-      "count": 1
-    },
-    {
-      "word": "issuz",
-      "count": 1
-    },
-    {
-      "word": "peri",
-      "count": 1
-    },
-    {
-      "word": "tantost",
-      "count": 1
-    },
-    {
-      "word": "genolz",
-      "count": 1
-    },
-    {
-      "word": "alestiez",
-      "count": 1
-    },
-    {
-      "word": "mameles",
-      "count": 1
-    },
-    {
-      "word": "arçon",
-      "count": 1
-    },
-    {
-      "word": "viande",
-      "count": 1
-    },
-    {
-      "word": "feu",
-      "count": 1
-    },
-    {
-      "word": "jhesus",
-      "count": 1
-    },
-    {
-      "word": "criz",
-      "count": 1
-    },
-    {
-      "word": "crucefiez",
-      "count": 1
-    },
-    {
-      "word": "barrabas",
-      "count": 1
-    },
-    {
-      "word": "lierres",
-      "count": 1
-    },
-    {
-      "word": "delivrés",
-      "count": 1
-    },
-    {
-      "word": "siecles",
-      "count": 1
-    },
-    {
-      "word": "pesibles",
-      "count": 1
-    },
-    {
-      "word": "tenuz",
-      "count": 1
-    },
-    {
-      "word": "divers",
-      "count": 1
-    },
-    {
-      "word": "religieux",
-      "count": 1
-    },
-    {
-      "word": "ypocrite",
-      "count": 1
-    },
-    {
-      "word": "simples",
-      "count": 1
-    },
-    {
-      "word": "simplece",
-      "count": 1
-    },
-    {
-      "word": "escharnie",
-      "count": 1
-    },
-    {
-      "word": "despite",
-      "count": 1
-    },
-    {
-      "word": "escoutez",
-      "count": 1
-    },
-    {
-      "word": "crestien",
-      "count": 1
-    },
-    {
-      "word": "crestiennes",
-      "count": 1
-    },
-    {
-      "word": "premiers",
-      "count": 1
-    },
-    {
-      "word": "seconz",
-      "count": 1
-    },
-    {
-      "word": "liv",
-      "count": 1
-    },
-    {
-      "word": "juyf",
-      "count": 1
-    },
-    {
-      "word": "jherosolime",
-      "count": 1
-    },
-    {
-      "word": "judee",
-      "count": 1
-    },
-    {
-      "word": "cultivoiz",
-      "count": 1
-    },
-    {
-      "word": "façoiz",
-      "count": 1
-    },
-    {
-      "word": "doi",
-      "count": 1
-    },
-    {
-      "word": "pais",
-      "count": 1
-    },
-    {
-      "word": "recevoir",
-      "count": 1
-    },
-    {
-      "word": "essaucier",
-      "count": 1
-    },
-    {
-      "word": "voz",
-      "count": 1
-    },
-    {
-      "word": "deprianz",
-      "count": 1
-    },
-    {
-      "word": "demetriu",
-      "count": 1
-    },
-    {
-      "word": "regnant",
-      "count": 1
-    },
-    {
-      "word": "rendons",
-      "count": 1
-    },
-    {
-      "word": "graces",
-      "count": 1
-    },
-    {
-      "word": "delivrez",
-      "count": 1
-    },
-    {
-      "word": "st",
-      "count": 1
-    },
-    {
-      "word": "issir",
-      "count": 1
-    },
-    {
-      "word": "combatirent",
-      "count": 1
-    },
-    {
-      "word": "nichanore",
-      "count": 1
-    },
-    {
-      "word": "eue",
-      "count": 1
-    },
-    {
-      "word": "ebriex",
-      "count": 1
-    },
-    {
-      "word": "ensement",
-      "count": 1
-    },
-    {
-      "word": "covient",
-      "count": 1
-    },
-    {
-      "word": "l'istoire",
-      "count": 1
-    },
-    {
-      "word": "ai",
-      "count": 1
-    },
-    {
-      "word": "moins",
-      "count": 1
-    },
-    {
-      "word": "donez",
-      "count": 1
-    },
-    {
-      "word": "boivre",
-      "count": 1
-    },
-    {
-      "word": "vin",
-      "count": 1
-    },
-    {
-      "word": "yaue",
-      "count": 1
-    },
-    {
-      "word": "contraire",
-      "count": 1
-    },
-    {
-      "word": "delitable",
-      "count": 1
-    },
-    {
-      "word": "entrechangier",
-      "count": 1
-    },
-    {
-      "word": "loy",
-      "count": 1
-    },
-    {
-      "word": "man",
-      "count": 1
-    },
-    {
-      "word": "ere",
-      "count": 1
-    },
-    {
-      "word": "oye",
-      "count": 1
-    },
-    {
-      "word": "lizanz",
-      "count": 1
-    },
-    {
-      "word": "profitable",
-      "count": 1
-    },
-    {
-      "word": "agreable",
-      "count": 1
-    },
-    {
-      "word": "finez",
-      "count": 1
-    },
-    {
-      "word": "consomez",
-      "count": 1
-    },
-    {
-      "word": "parties",
-      "count": 1
-    },
-    {
-      "word": "syce",
-      "count": 1
-    },
-    {
-      "word": "puissanz",
-      "count": 1
-    },
-    {
-      "word": "engi",
-      "count": 1
-    },
-    {
-      "word": "apeloit",
-      "count": 1
-    },
-    {
-      "word": "eson",
-      "count": 1
-    },
-    {
-      "word": "penelope",
-      "count": 1
-    },
-    {
-      "word": "biauté",
-      "count": 1
-    },
-    {
-      "word": "pris",
-      "count": 1
-    },
-    {
-      "word": "oncle",
-      "count": 1
-    },
-    {
-      "word": "renomee",
-      "count": 1
-    },
-    {
-      "word": "maint",
-      "count": 1
-    },
-    {
-      "word": "niés",
-      "count": 1
-    },
-    {
-      "word": "douta",
-      "count": 1
-    },
-    {
-      "word": "tolsist",
-      "count": 1
-    },
-    {
-      "word": "l'acordement",
-      "count": 1
-    },
-    {
-      "word": "maintes",
-      "count": 1
-    },
-    {
-      "word": "jamais",
-      "count": 1
-    },
-    {
-      "word": "retorner",
-      "count": 1
-    },
-    {
-      "word": "neveu",
-      "count": 1
-    },
-    {
-      "word": "bailla",
-      "count": 1
-    },
-    {
-      "word": "compaignie",
-      "count": 1
-    },
-    {
-      "word": "d'avoir",
-      "count": 1
-    },
-    {
-      "word": "rala",
-      "count": 1
-    },
-    {
-      "word": "honorablement",
-      "count": 1
-    },
-    {
-      "word": "trop",
-      "count": 1
-    },
-    {
-      "word": "corrociez",
-      "count": 1
-    },
-    {
-      "word": "cyrché",
-      "count": 1
-    },
-    {
-      "word": "longuem",
-      "count": 1
-    },
-    {
-      "word": "l'avoit",
-      "count": 1
-    },
-    {
-      "word": "desirré",
-      "count": 1
-    },
-    {
-      "word": "regreté",
-      "count": 1
-    },
-    {
-      "word": "savoit",
-      "count": 1
-    },
-    {
-      "word": "ouvré",
-      "count": 1
-    },
-    {
-      "word": "demore",
-      "count": 1
-    },
-    {
-      "word": "fesoit",
-      "count": 1
-    },
-    {
-      "word": "toz",
-      "count": 1
-    },
-    {
-      "word": "oublia",
-      "count": 1
-    },
-    {
-      "word": "tost",
-      "count": 1
-    },
-    {
-      "word": "corouz",
-      "count": 1
-    },
-    {
-      "word": "pres",
-      "count": 1
-    },
-    {
-      "word": "ulixes",
-      "count": 1
-    },
-    {
-      "word": "amé",
-      "count": 1
-    },
-    {
-      "word": "auq",
-      "count": 1
-    },
-    {
-      "word": "plorast",
-      "count": 1
-    },
-    {
-      "word": "reson",
-      "count": 1
-    },
-    {
-      "word": "ans",
-      "count": 1
-    },
-    {
-      "word": "conquist",
-      "count": 1
-    },
-    {
-      "word": "richeces",
-      "count": 1
-    },
-    {
-      "word": "essauca",
-      "count": 1
-    },
-    {
-      "word": "regne",
-      "count": 1
-    },
-    {
-      "word": "veult",
-      "count": 1
-    },
-    {
-      "word": "vraie",
-      "count": 1
-    },
-    {
-      "word": "confession",
-      "count": 1
-    },
-    {
-      "word": "s'ame",
-      "count": 1
-    },
-    {
-      "word": "dolenz",
-      "count": 1
-    },
-    {
-      "word": "repentanz",
-      "count": 1
-    },
-    {
-      "word": "regehissanz",
-      "count": 1
-    },
-    {
-      "word": "ferme",
-      "count": 1
-    },
-    {
-      "word": "gard",
-      "count": 1
-    },
-    {
-      "word": "pooir",
-      "count": 1
-    },
-    {
-      "word": "penitance",
-      "count": 1
-    },
-    {
-      "word": "prestres",
-      "count": 1
-    },
-    {
-      "word": "crez",
-      "count": 1
-    },
-    {
-      "word": "encharg",
-      "count": 1
-    },
-    {
-      "word": "conseillera",
-      "count": 1
-    },
-    {
-      "word": "porpenser",
-      "count": 1
-    },
-    {
-      "word": "mesfist",
-      "count": 1
-    },
-    {
-      "word": "clerc",
-      "count": 1
-    },
-    {
-      "word": "prodome",
-      "count": 1
-    },
-    {
-      "word": "enseignent",
-      "count": 1
-    },
-    {
-      "word": "vii",
-      "count": 1
-    },
-    {
-      "word": "mortex",
-      "count": 1
-    },
-    {
-      "word": "issent",
-      "count": 1
-    },
-    {
-      "word": "confesser",
-      "count": 1
-    },
-    {
-      "word": "enco",
-      "count": 1
-    },
-    {
-      "word": "brem",
-      "count": 1
-    },
-    {
-      "word": "l'ame",
-      "count": 1
-    },
-    {
-      "word": "connoistre",
-      "count": 1
-    },
-    {
-      "word": "noistre",
-      "count": 1
-    },
-    {
-      "word": "sache",
-      "count": 1
-    },
-    {
-      "word": "eschiver",
-      "count": 1
-    },
-    {
-      "word": "commencement",
-      "count": 1
-    },
-    {
-      "word": "enseignerons",
-      "count": 1
-    },
-    {
-      "word": "mencement",
-      "count": 1
-    },
-    {
-      "word": "racine",
-      "count": 1
-    },
-    {
-      "word": "maux",
-      "count": 1
-    },
-    {
-      "word": "inobedience",
-      "count": 1
-    },
-    {
-      "word": "orgueil",
-      "count": 1
-    },
-    {
-      "word": "laisse",
-      "count": 1
-    },
-    {
-      "word": "beneoites",
-      "count": 1
-    },
-    {
-      "word": "vierges",
-      "count": 1
-    },
-    {
-      "word": "saintes",
-      "count": 1
-    },
-    {
-      "word": "priez",
-      "count": 1
-    },
-    {
-      "word": "crist",
-      "count": 1
-    },
-    {
-      "word": "m'asoille",
-      "count": 1
-    },
-    {
-      "word": "don",
-      "count": 1
-    },
-    {
-      "word": "deffende",
-      "count": 1
-    },
-    {
-      "word": "tieigne",
-      "count": 1
-    },
-    {
-      "word": "sev",
-      "count": 1
-    },
-    {
-      "word": "ance",
-      "count": 1
-    },
-    {
-      "word": "leuz",
-      "count": 1
-    },
-    {
-      "word": "parole",
-      "count": 1
-    },
-    {
-      "word": "grec",
-      "count": 1
-    },
-    {
-      "word": "travailleré",
-      "count": 1
-    },
-    {
-      "word": "porré",
-      "count": 1
-    },
-    {
-      "word": "pri",
-      "count": 1
-    },
-    {
-      "word": "preigniez",
-      "count": 1
-    },
-    {
-      "word": "juieve",
-      "count": 1
-    },
-    {
-      "word": "resplendissant",
-      "count": 1
-    },
-    {
-      "word": "example",
-      "count": 1
-    },
-    {
-      "word": "desclarez",
-      "count": 1
-    },
-    {
-      "word": "loange",
-      "count": 1
-    },
-    {
-      "word": "perpetuel",
-      "count": 1
-    },
-    {
-      "word": "dona",
-      "count": 1
-    },
-    {
-      "word": "garder",
-      "count": 1
-    },
-    {
-      "word": "voinquist",
-      "count": 1
-    },
-    {
-      "word": "voincus",
-      "count": 1
-    },
-    {
-      "word": "sormontez",
-      "count": 1
-    },
-    {
-      "word": "comment",
-      "count": 1
-    },
-    {
-      "word": "soufire",
-      "count": 1
-    },
-    {
-      "word": "racontoit",
-      "count": 1
-    },
-    {
-      "word": "mention",
-      "count": 1
-    },
-    {
-      "word": "proesces",
-      "count": 1
-    },
-    {
-      "word": "ramenteues",
-      "count": 1
-    },
-    {
-      "word": "derriene",
-      "count": 1
-    },
-    {
-      "word": "mise",
-      "count": 1
-    },
-    {
-      "word": "l'apela",
-      "count": 1
-    },
-    {
-      "word": "destrucion",
-      "count": 1
-    },
-    {
-      "word": "navrez",
-      "count": 1
-    },
-    {
-      "word": "salebieres",
-      "count": 1
-    },
-    {
-      "word": "departi",
-      "count": 1
-    },
-    {
-      "word": "girflet",
-      "count": 1
-    },
-    {
-      "word": "paignie",
-      "count": 1
-    },
-    {
-      "word": "veist",
-      "count": 1
-    },
-    {
-      "word": "vivant",
-      "count": 1
-    },
-    {
-      "word": "derreniere",
-      "count": 1
-    },
-    {
-      "word": "s'ensuit",
-      "count": 1
-    },
-    {
-      "word": "avieigne",
-      "count": 1
-    },
-    {
-      "word": "regnes",
-      "count": 1
-    },
-    {
-      "word": "toe",
-      "count": 1
-    },
-    {
-      "word": "pain",
-      "count": 1
-    },
-    {
-      "word": "dones",
-      "count": 1
-    },
-    {
-      "word": "hui",
-      "count": 1
-    },
-    {
-      "word": "do",
-      "count": 1
-    },
-    {
-      "word": "nes",
-      "count": 1
-    },
-    {
-      "word": "pardonons",
-      "count": 1
-    },
-    {
-      "word": "moines",
-      "count": 1
-    },
-    {
-      "word": "patenostre",
-      "count": 1
-    },
-    {
-      "word": "meem",
-      "count": 1
-    },
-    {
-      "word": "elle",
-      "count": 1
-    },
-    {
-      "word": "nule",
-      "count": 1
-    },
-    {
-      "word": "orison",
-      "count": 1
-    },
-    {
-      "word": "miere",
-      "count": 1
-    },
-    {
-      "word": "apele",
-      "count": 1
-    },
-    {
-      "word": "paten",
-      "count": 1
-    },
-    {
-      "word": "voirem",
-      "count": 1
-    },
-    {
-      "word": "sueffres",
-      "count": 1
-    },
-    {
-      "word": "soions",
-      "count": 1
-    },
-    {
-      "word": "pté",
-      "count": 1
-    },
-    {
-      "word": "mauvese",
-      "count": 1
-    },
-    {
-      "word": "voirement",
-      "count": 1
-    },
-    {
-      "word": "seigna",
-      "count": 1
-    },
-    {
-      "word": "beney",
-      "count": 1
-    },
-    {
-      "word": "monta",
-      "count": 1
-    },
-    {
-      "word": "siet",
-      "count": 1
-    },
-    {
-      "word": "destre",
-      "count": 1
-    },
-    {
-      "word": "alerent",
-      "count": 1
-    },
-    {
-      "word": "eschierent",
-      "count": 1
-    },
-    {
-      "word": "partout",
-      "count": 1
-    },
-    {
-      "word": "ouvroit",
-      "count": 1
-    },
-    {
-      "word": "aux",
-      "count": 1
-    },
-    {
-      "word": "aff",
-      "count": 1
-    },
-    {
-      "word": "moit",
-      "count": 1
-    },
-    {
-      "word": "dication",
-      "count": 1
-    },
-    {
-      "word": "signe",
-      "count": 1
-    },
-    {
-      "word": "miracle",
-      "count": 1
-    },
-    {
-      "word": "marc",
-      "count": 1
-    },
-    {
-      "word": "xvi",
-      "count": 1
-    },
-    {
-      "word": "estrivem",
-      "count": 1
-    },
-    {
-      "word": "pl",
-      "count": 1
-    },
-    {
-      "word": "essauciee",
-      "count": 1
-    },
-    {
-      "word": "ndre",
-      "count": 1
-    },
-    {
-      "word": "bo",
-      "count": 1
-    },
-    {
-      "word": "sivre",
-      "count": 1
-    },
-    {
-      "word": "vault",
-      "count": 1
-    },
-    {
-      "word": "essoient",
-      "count": 1
-    },
-    {
-      "word": "anciens",
-      "count": 1
-    },
-    {
-      "word": "engins",
-      "count": 1
-    },
-    {
-      "word": "s'apairoit",
-      "count": 1
-    },
-    {
-      "word": "engin",
-      "count": 1
-    },
-    {
-      "word": "fiter",
-      "count": 1
-    },
-    {
-      "word": "premierem",
-      "count": 1
-    },
-    {
-      "word": "menc",
-      "count": 1
-    },
-    {
-      "word": "esmovoir",
-      "count": 1
-    },
-    {
-      "word": "seignories",
-      "count": 1
-    },
-    {
-      "word": "acroistre",
-      "count": 1
-    },
-    {
-      "word": "mençassent",
-      "count": 1
-    },
-    {
-      "word": "covoitise",
-      "count": 1
-    },
-    {
-      "word": "soffisoit",
-      "count": 1
-    },
-    {
-      "word": "penthecouste",
-      "count": 1
-    },
-    {
-      "word": "cenz",
-      "count": 1
-    },
-    {
-      "word": "cinquante",
-      "count": 1
-    },
-    {
-      "word": "aanz",
-      "count": 1
-    },
-    {
-      "word": "mois",
-      "count": 1
-    },
-    {
-      "word": "jung",
-      "count": 1
-    },
-    {
-      "word": "paignon",
-      "count": 1
-    },
-    {
-      "word": "venu",
-      "count": 1
-    },
-    {
-      "word": "camaalot",
-      "count": 1
-    },
-    {
-      "word": "oy",
-      "count": 1
-    },
-    {
-      "word": "vouloit",
-      "count": 1
-    },
-    {
-      "word": "mettre",
-      "count": 1
-    },
-    {
-      "word": "none",
-      "count": 1
-    },
-    {
-      "word": "sale",
-      "count": 1
-    },
-    {
-      "word": "damoisele",
-      "count": 1
-    },
-    {
-      "word": "erre",
-      "count": 1
-    },
-    {
-      "word": "chevax",
-      "count": 1
-    },
-    {
-      "word": "suanz",
-      "count": 1
-    },
-    {
-      "word": "descent",
-      "count": 1
-    },
-    {
-      "word": "salue",
-      "count": 1
-    },
-    {
-      "word": "beneye",
-      "count": 1
-    },
-    {
-      "word": "sire",
-      "count": 1
-    },
-    {
-      "word": "fait-ele",
-      "count": 1
-    },
-    {
-      "word": "seanz",
-      "count": 1
-    },
-    {
-      "word": "oyl",
-      "count": 1
-    },
-    {
-      "word": "voir",
-      "count": 1
-    },
-    {
-      "word": "veez",
-      "count": 1
-    },
-    {
-      "word": "monstre",
-      "count": 1
-    },
-    {
-      "word": "va",
-      "count": 1
-    },
-    {
-      "word": "pelles",
-      "count": 1
-    },
-    {
-      "word": "venez",
-      "count": 1
-    },
-    {
-      "word": "jusq",
-      "count": 1
-    },
-    {
-      "word": "forest",
-      "count": 1
-    },
-    {
-      "word": "parol",
-      "count": 1
-    },
-    {
-      "word": "quel",
-      "count": 1
-    },
-    {
-      "word": "avez",
-      "count": 1
-    },
-    {
-      "word": "savrez",
-      "count": 1
-    },
-    {
-      "word": "irai",
-      "count": 1
-    },
-    {
-      "word": "volentiers",
-      "count": 1
-    },
-    {
-      "word": "escuier",
-      "count": 1
-    },
-    {
-      "word": "meste",
-      "count": 1
-    },
-    {
-      "word": "sele",
-      "count": 1
-    },
-    {
-      "word": "aport",
-      "count": 1
-    },
-    {
-      "word": "mengié",
-      "count": 1
-    },
-    {
-      "word": "clers",
-      "count": 1
-    },
-    {
-      "word": "metoient",
-      "count": 1
-    },
-    {
-      "word": "leanz",
-      "count": 1
-    },
-    {
-      "word": "contees",
-      "count": 1
-    },
-    {
-      "word": "veuees",
-      "count": 1
-    },
-    {
-      "word": "mises",
-      "count": 1
-    },
-    {
-      "word": "gardees",
-      "count": 1
-    },
-    {
-      "word": "salesbieres",
-      "count": 1
-    },
-    {
-      "word": "translata",
-      "count": 1
-    },
-    {
-      "word": "latin",
-      "count": 1
-    },
-    {
-      "word": "d'avis",
-      "count": 1
-    },
-    {
-      "word": "souffisanment",
-      "count": 1
-    },
-    {
-      "word": "compilé",
-      "count": 1
-    },
-    {
-      "word": "saluste",
-      "count": 1
-    },
-    {
-      "word": "suetoine",
-      "count": 1
-    },
-    {
-      "word": "lucan",
-      "count": 1
-    },
-    {
-      "word": "faisoit",
-      "count": 1
-    },
-    {
-      "word": "parler",
-      "count": 1
-    },
-    {
-      "word": "annoncier",
-      "count": 1
-    },
-    {
-      "word": "parle",
-      "count": 1
-    },
-    {
-      "word": "aloient",
-      "count": 1
-    },
-    {
-      "word": "neis",
-      "count": 1
-    },
-    {
-      "word": "menez",
-      "count": 1
-    },
-    {
-      "word": "cuidoient",
-      "count": 1
-    },
-    {
-      "word": "esploistié",
-      "count": 1
-    },
-    {
-      "word": "engigniez",
-      "count": 1
-    },
-    {
-      "word": "confortoient",
-      "count": 1
-    },
-    {
-      "word": "terra",
-      "count": 1
-    },
-    {
-      "word": "s'enombra",
-      "count": 1
-    },
-    {
-      "word": "sermons",
-      "count": 1
-    },
-    {
-      "word": "tret",
-      "count": 1
-    },
-    {
-      "word": "l'ev",
-      "count": 1
-    },
-    {
-      "word": "ngile",
-      "count": 1
-    },
-    {
-      "word": "dimanche",
-      "count": 1
-    },
-    {
-      "word": "mulier",
-      "count": 1
-    },
-    {
-      "word": "parit",
-      "count": 1
-    },
-    {
-      "word": "tristiciam",
-      "count": 1
-    },
-    {
-      "word": "habet",
-      "count": 1
-    },
-    {
-      "word": "venit",
-      "count": 1
-    },
-    {
-      "word": "hora",
-      "count": 1
-    },
-    {
-      "word": "ejus",
-      "count": 1
-    },
-    {
-      "word": "cu",
-      "count": 1
-    },
-    {
-      "word": "aute",
-      "count": 1
-    },
-    {
-      "word": "peperit",
-      "count": 1
-    },
-    {
-      "word": "filiu",
-      "count": 1
-    },
-    {
-      "word": "jam",
-      "count": 1
-    },
-    {
-      "word": "meminit",
-      "count": 1
-    },
-    {
-      "word": "ssure",
-      "count": 1
-    },
-    {
-      "word": "pter",
-      "count": 1
-    },
-    {
-      "word": "gaudium",
-      "count": 1
-    },
-    {
-      "word": "natus",
-      "count": 1
-    },
-    {
-      "word": "mu",
-      "count": 1
-    },
-    {
-      "word": "prés",
-      "count": 1
-    },
-    {
-      "word": "chevaleries",
-      "count": 1
-    },
-    {
-      "word": "compaignons",
-      "count": 1
-    },
-    {
-      "word": "enfances",
-      "count": 1
-    },
-    {
-      "word": "souffizanment",
-      "count": 1
-    },
-    {
-      "word": "he",
-      "count": 1
-    },
-    {
-      "word": "ry",
-      "count": 1
-    },
-    {
-      "word": "souffire",
-      "count": 1
-    },
-    {
-      "word": "tast",
-      "count": 1
-    },
-    {
-      "word": "merveilleuses",
-      "count": 1
-    },
-    {
-      "word": "enprise",
       "count": 1
     },
     {
-      "word": "juree",
+      "word": "publications",
       "count": 1
     },
     {
-      "word": "camaaloth",
+      "word": "mais",
       "count": 1
     },
     {
-      "word": "merlin",
+      "word": "galement",
       "count": 1
     },
     {
-      "word": "d'abarimacie",
+      "word": "outils",
       "count": 1
     },
     {
-      "word": "juge",
+      "word": "bibliographiques",
       "count": 1
     },
     {
-      "word": "saluz",
+      "word": "imprimã",
       "count": 1
     },
     {
-      "word": "mancement",
+      "word": "lectroniques",
       "count": 1
     },
     {
-      "word": "leurs",
+      "word": "leur",
       "count": 1
     },
     {
-      "word": "reçoivent",
+      "word": "disposition",
       "count": 1
     },
     {
-      "word": "cement",
+      "word": "lire",
       "count": 1
     },
     {
-      "word": "delivrees",
+      "word": "suite",
       "count": 1
     }
-  ],
-  "source": "CommonLID TSV + FLORES+ (dev+devtest)",
-  "total_tokens": 5433,
-  "unique_tokens": 1487
+  ]
 }

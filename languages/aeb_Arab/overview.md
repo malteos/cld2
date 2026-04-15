@@ -26,3 +26,21 @@ schools, administration, and religion; French in business and scientific
 spheres. Increasingly written (social media, novels like *Kelmti Hourra*
 lyrics, and some dictionaries). Heavy borrowing from French, Italian, Turkish,
 and Berber substrate.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://www.babnet.net/` — BabNet — Tunisian news with frequent Tunisian-Arabic — _live WebFetch_
+- `https://www.tunisienumerique.com/` — Tunisie Numérique — _live WebFetch_
+- `https://www.turess.com/` — Turess — Tunisian press aggregator — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://www.babnet.net/` — BabNet — Tunisian news with frequent Tunisian-Arabic (news)
+- `https://www.tunisienumerique.com/` — Tunisie Numérique (news)
+- `https://www.jamaity.org/` — Jamaity — Tunisian civil-society portal (civil)
+- `https://www.turess.com/` — Turess — Tunisian press aggregator (news)

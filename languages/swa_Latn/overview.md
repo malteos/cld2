@@ -27,3 +27,20 @@ contact, leaving a thick Arabic loan stratum (`kitabu`, `dunia`, `sababu`,
 `safari`). Standard Swahili was codified in the 1930s on the Zanzibar
 (Unguja) dialect; the `swa` macrocode therefore spans considerable
 regional variation in vocabulary and concord.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://sw.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.bbc.com/swahili` — BBC Swahili — _live WebFetch_
+- `https://www.mwananchi.co.tz/` — Mwananchi — Tanzanian Swahili daily — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://sw.wikipedia.org/` — Swahili Wikipedia (cultural)
+- `https://www.bbc.com/swahili` — BBC Swahili (news)
+- `https://www.mwananchi.co.tz/` — Mwananchi — Tanzanian Swahili daily (news)

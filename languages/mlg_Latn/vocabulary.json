@@ -1,473 +1,3039 @@
 {
   "code": "mlg",
   "name": "Malagasy",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (mg.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 397913,
+  "unique_tokens": 45934,
   "words": [
     {
       "word": "ny",
-      "count": 6186
-    },
-    {
-      "word": "amin'ny",
-      "count": 1531
+      "count": 41139
     },
     {
       "word": "dia",
-      "count": 1474
+      "count": 11430
     },
     {
-      "word": "tsy",
-      "count": 1045
-    },
-    {
-      "word": "sy",
-      "count": 911
-    },
-    {
-      "word": "ary",
-      "count": 815
-    },
-    {
-      "word": "ho",
-      "count": 783
-    },
-    {
-      "word": "ireo",
-      "count": 707
-    },
-    {
-      "word": "fa",
-      "count": 646
-    },
-    {
-      "word": "izay",
-      "count": 637
-    },
-    {
-      "word": "no",
-      "count": 631
-    },
-    {
-      "word": "ao",
-      "count": 515
-    },
-    {
-      "word": "izany",
-      "count": 493
-    },
-    {
-      "word": "na",
-      "count": 449
-    },
-    {
-      "word": "izy",
-      "count": 444
+      "word": "amin'ny",
+      "count": 5394
     },
     {
       "word": "amin",
-      "count": 364
+      "count": 5284
     },
     {
-      "word": "ity",
-      "count": 341
+      "word": "sy",
+      "count": 4471
     },
     {
-      "word": "misy",
-      "count": 326
+      "word": "no",
+      "count": 4320
     },
     {
-      "word": "raha",
-      "count": 313
+      "word": "ao",
+      "count": 3946
     },
     {
-      "word": "azy",
-      "count": 302
+      "word": "ary",
+      "count": 3688
+    },
+    {
+      "word": "mpilalao",
+      "count": 3139
     },
     {
       "word": "any",
-      "count": 276
-    },
-    {
-      "word": "avy",
-      "count": 268
-    },
-    {
-      "word": "mba",
-      "count": 255
-    },
-    {
-      "word": "eo",
-      "count": 248
-    },
-    {
-      "word": "iray",
-      "count": 242
-    },
-    {
-      "word": "koa",
-      "count": 236
-    },
-    {
-      "word": "tamin'ny",
-      "count": 223
-    },
-    {
-      "word": "izao",
-      "count": 220
-    },
-    {
-      "word": "olona",
-      "count": 219
-    },
-    {
-      "word": "ka",
-      "count": 206
-    },
-    {
-      "word": "ihany",
-      "count": 204
-    },
-    {
-      "word": "rehetra",
-      "count": 200
-    },
-    {
-      "word": "an'ny",
-      "count": 186
-    },
-    {
-      "word": "tsara",
-      "count": 184
-    },
-    {
-      "word": "efa",
-      "count": 183
-    },
-    {
-      "word": "momba",
-      "count": 181
-    },
-    {
-      "word": "tena",
-      "count": 178
-    },
-    {
-      "word": "hoe",
-      "count": 174
-    },
-    {
-      "word": "hafa",
-      "count": 172
-    },
-    {
-      "word": "noho",
-      "count": 168
-    },
-    {
-      "word": "io",
-      "count": 163
-    },
-    {
-      "word": "ilay",
-      "count": 156
-    },
-    {
-      "word": "aza",
-      "count": 152
-    },
-    {
-      "word": "maro",
-      "count": 145
-    },
-    {
-      "word": "afaka",
-      "count": 144
-    },
-    {
-      "word": "manana",
-      "count": 143
-    },
-    {
-      "word": "indrindra",
-      "count": 143
-    },
-    {
-      "word": "mety",
-      "count": 142
-    },
-    {
-      "word": "toy",
-      "count": 140
-    },
-    {
-      "word": "azo",
-      "count": 138
-    },
-    {
-      "word": "tao",
-      "count": 135
-    },
-    {
-      "word": "fomba",
-      "count": 131
-    },
-    {
-      "word": "satria",
-      "count": 128
-    },
-    {
-      "word": "kokoa",
-      "count": 126
-    },
-    {
-      "word": "be",
-      "count": 124
-    },
-    {
-      "word": "isika",
-      "count": 124
-    },
-    {
-      "word": "aho",
-      "count": 124
-    },
-    {
-      "word": "miaraka",
-      "count": 122
-    },
-    {
-      "word": "teo",
-      "count": 120
-    },
-    {
-      "word": "an'i",
-      "count": 119
-    },
-    {
-      "word": "zavatra",
-      "count": 117
-    },
-    {
-      "word": "rehefa",
-      "count": 116
-    },
-    {
-      "word": "taona",
-      "count": 113
-    },
-    {
-      "word": "ianao",
-      "count": 112
-    },
-    {
-      "word": "fotoana",
-      "count": 106
-    },
-    {
-      "word": "lehibe",
-      "count": 105
-    },
-    {
-      "word": "tany",
-      "count": 105
-    },
-    {
-      "word": "teny",
-      "count": 103
-    },
-    {
-      "word": "inona",
-      "count": 102
-    },
-    {
-      "word": "tokony",
-      "count": 101
-    },
-    {
-      "word": "anao",
-      "count": 100
-    },
-    {
-      "word": "hoy",
-      "count": 100
-    },
-    {
-      "word": "atao",
-      "count": 98
-    },
-    {
-      "word": "mbola",
-      "count": 92
-    },
-    {
-      "word": "fitaovana",
-      "count": 89
+      "count": 3102
     },
     {
       "word": "tamin",
-      "count": 87
+      "count": 2966
     },
     {
-      "word": "manao",
-      "count": 82
+      "word": "injeniera",
+      "count": 2725
     },
     {
-      "word": "vaovao",
-      "count": 82
+      "word": "taona",
+      "count": 2723
     },
     {
-      "word": "asa",
-      "count": 82
+      "word": "misy",
+      "count": 2418
     },
     {
-      "word": "roa",
-      "count": 79
+      "word": "na",
+      "count": 2334
     },
     {
-      "word": "kristy",
-      "count": 79
+      "word": "izay",
+      "count": 2310
     },
     {
-      "word": "antsika",
-      "count": 77
+      "word": "ireo",
+      "count": 2246
     },
     {
-      "word": "an",
-      "count": 77
+      "word": "tsy",
+      "count": 2202
     },
     {
-      "word": "toerana",
-      "count": 77
+      "word": "fiteny",
+      "count": 2180
     },
     {
-      "word": "toa",
-      "count": 77
+      "word": "ho",
+      "count": 2173
     },
     {
-      "word": "faritra",
-      "count": 76
+      "word": "indrindra",
+      "count": 1965
     },
     {
-      "word": "kely",
-      "count": 75
+      "word": "io",
+      "count": 1917
     },
     {
-      "word": "andriamanitra",
-      "count": 75
+      "word": "baolina",
+      "count": 1903
     },
     {
-      "word": "orinasa",
-      "count": 74
+      "word": "kitra",
+      "count": 1894
     },
     {
-      "word": "tontolo",
-      "count": 74
+      "word": "mponina",
+      "count": 1799
     },
     {
-      "word": "amin'ireo",
-      "count": 73
+      "word": "hoe",
+      "count": 1715
     },
     {
-      "word": "voalohany",
-      "count": 72
+      "word": "izy",
+      "count": 1686
     },
     {
-      "word": "izahay",
-      "count": 72
+      "word": "koa",
+      "count": 1648
     },
     {
-      "word": "eto",
-      "count": 71
+      "word": "mpanoratra",
+      "count": 1645
     },
     {
-      "word": "araka",
-      "count": 71
+      "word": "izany",
+      "count": 1583
     },
     {
-      "word": "vokatra",
-      "count": 69
+      "word": "tamin'ny",
+      "count": 1542
+    },
+    {
+      "word": "tany",
+      "count": 1356
+    },
+    {
+      "word": "madagasikara",
+      "count": 1354
+    },
+    {
+      "word": "eo",
+      "count": 1316
+    },
+    {
+      "word": "olona",
+      "count": 1244
+    },
+    {
+      "word": "teny",
+      "count": 1237
+    },
+    {
+      "word": "malagasy",
+      "count": 1223
+    },
+    {
+      "word": "ahitana",
+      "count": 1204
+    },
+    {
+      "word": "avy",
+      "count": 1195
+    },
+    {
+      "word": "fa",
+      "count": 1191
+    },
+    {
+      "word": "mpanao",
+      "count": 1188
+    },
+    {
+      "word": "azy",
+      "count": 1124
+    },
+    {
+      "word": "kaominina",
+      "count": 1119
+    },
+    {
+      "word": "de",
+      "count": 1093
+    },
+    {
+      "word": "tanàna",
+      "count": 1089
+    },
+    {
+      "word": "tao",
+      "count": 1083
     },
     {
       "word": "firenena",
-      "count": 69
+      "count": 1049
     },
     {
-      "word": "tahaka",
-      "count": 69
+      "word": "an",
+      "count": 1039
     },
     {
-      "word": "manokana",
-      "count": 68
+      "word": "ka",
+      "count": 1014
     },
     {
-      "word": "marina",
-      "count": 67
+      "word": "talen-koronantsary",
+      "count": 1013
     },
     {
-      "word": "tonga",
-      "count": 67
+      "word": "faritra",
+      "count": 1006
     },
     {
-      "word": "sary",
-      "count": 66
+      "word": "lehibe",
+      "count": 914
     },
     {
-      "word": "eny",
-      "count": 63
+      "word": "ilay",
+      "count": 884
     },
     {
-      "word": "vita",
-      "count": 61
+      "word": "teo",
+      "count": 819
     },
     {
-      "word": "nisy",
-      "count": 60
+      "word": "volana",
+      "count": 811
     },
     {
-      "word": "mila",
-      "count": 60
+      "word": "manana",
+      "count": 808
     },
     {
-      "word": "jesosy",
-      "count": 60
+      "word": "atao",
+      "count": 757
     },
     {
-      "word": "mazava",
-      "count": 59
+      "word": "mankany",
+      "count": 737
     },
     {
-      "word": "kosa",
-      "count": 58
+      "word": "senariô",
+      "count": 728
+    },
+    {
+      "word": "isan-jaton'ny",
+      "count": 723
     },
     {
       "word": "andro",
-      "count": 58
+      "count": 709
     },
     {
-      "word": "indray",
-      "count": 56
+      "word": "atsimo",
+      "count": 706
+    },
+    {
+      "word": "politika",
+      "count": 689
+    },
+    {
+      "word": "maro",
+      "count": 657
+    },
+    {
+      "word": "iray",
+      "count": 640
+    },
+    {
+      "word": "avaratra",
+      "count": 639
+    },
+    {
+      "word": "ity",
+      "count": 618
+    },
+    {
+      "word": "voalohany",
+      "count": 616
+    },
+    {
+      "word": "isan'ny",
+      "count": 614
+    },
+    {
+      "word": "eto",
+      "count": 603
+    },
+    {
+      "word": "tena",
+      "count": 594
+    },
+    {
+      "word": "faharoa",
+      "count": 585
+    },
+    {
+      "word": "jereo",
+      "count": 584
+    },
+    {
+      "word": "mpahay",
+      "count": 583
+    },
+    {
+      "word": "faha",
+      "count": 580
+    },
+    {
+      "word": "horonantsary",
+      "count": 571
+    },
+    {
+      "word": "frantsay",
+      "count": 568
+    },
+    {
+      "word": "espaina",
+      "count": 565
+    },
+    {
+      "word": "masoivohon'ny",
+      "count": 561
+    },
+    {
+      "word": "miasa",
+      "count": 557
+    },
+    {
+      "word": "ministeran'ny",
+      "count": 553
+    },
+    {
+      "word": "ihany",
+      "count": 545
+    },
+    {
+      "word": "entana",
+      "count": 544
+    },
+    {
+      "word": "momba",
+      "count": 542
+    },
+    {
+      "word": "araka",
+      "count": 540
+    },
+    {
+      "word": "ivelany",
+      "count": 537
+    },
+    {
+      "word": "tantara",
+      "count": 535
+    },
+    {
+      "word": "mety",
+      "count": 534
+    },
+    {
+      "word": "amerika",
+      "count": 530
+    },
+    {
+      "word": "lafo",
+      "count": 528
+    },
+    {
+      "word": "vidy",
+      "count": 518
+    },
+    {
+      "word": "raha",
+      "count": 513
+    },
+    {
+      "word": "tanàn-dehibem-paritany",
+      "count": 510
+    },
+    {
+      "word": "rohy",
+      "count": 504
+    },
+    {
+      "word": "noho",
+      "count": 503
+    },
+    {
+      "word": "afrika",
+      "count": 488
+    },
+    {
+      "word": "nosy",
+      "count": 486
+    },
+    {
+      "word": "mahantra",
+      "count": 484
+    },
+    {
+      "word": "hafa",
+      "count": 477
+    },
+    {
+      "word": "be",
+      "count": 471
+    },
+    {
+      "word": "mba",
+      "count": 464
+    },
+    {
+      "word": "fiangonana",
+      "count": 438
+    },
+    {
+      "word": "vokatry",
+      "count": 434
+    },
+    {
+      "word": "nisy",
+      "count": 434
+    },
+    {
+      "word": "mpamorona",
+      "count": 430
+    },
+    {
+      "word": "azo",
+      "count": 414
+    },
+    {
+      "word": "taonjato",
+      "count": 411
+    },
+    {
+      "word": "ampiasaina",
+      "count": 408
+    },
+    {
+      "word": "fomba",
+      "count": 408
+    },
+    {
+      "word": "vary",
+      "count": 407
+    },
+    {
+      "word": "tokana",
+      "count": 403
+    },
+    {
+      "word": "rehefa",
+      "count": 402
+    },
+    {
+      "word": "ora",
+      "count": 398
+    },
+    {
+      "word": "natao",
+      "count": 392
+    },
+    {
+      "word": "maty",
+      "count": 392
+    },
+    {
+      "word": "fahavaratra",
+      "count": 392
+    },
+    {
+      "word": "izao",
+      "count": 390
+    },
+    {
+      "word": "repoblika",
+      "count": 389
+    },
+    {
+      "word": "roa",
+      "count": 387
+    },
+    {
+      "word": "asa",
+      "count": 379
+    },
+    {
+      "word": "velarantany",
+      "count": 369
+    },
+    {
+      "word": "efa",
+      "count": 366
+    },
+    {
+      "word": "fanjakana",
+      "count": 364
+    },
+    {
+      "word": "fizika",
+      "count": 359
+    },
+    {
+      "word": "matetika",
+      "count": 355
+    },
+    {
+      "word": "la",
+      "count": 350
+    },
+    {
+      "word": "zavatra",
+      "count": 349
+    },
+    {
+      "word": "anglisy",
+      "count": 348
+    },
+    {
+      "word": "teraka",
+      "count": 348
+    },
+    {
+      "word": "lafin'ny",
+      "count": 346
+    },
+    {
+      "word": "mpamoaka",
+      "count": 344
+    },
+    {
+      "word": "zava-bolena",
+      "count": 342
+    },
+    {
+      "word": "aza",
+      "count": 341
+    },
+    {
+      "word": "fmg",
+      "count": 339
+    },
+    {
+      "word": "lasa",
+      "count": 336
+    },
+    {
+      "word": "vaovao",
+      "count": 334
+    },
+    {
+      "word": "lahatsoratra",
+      "count": 332
+    },
+    {
+      "word": "saran-dalan'ny",
+      "count": 332
+    },
+    {
+      "word": "nanomboka",
+      "count": 329
+    },
+    {
+      "word": "eorôpa",
+      "count": 325
+    },
+    {
+      "word": "atsinanana",
+      "count": 322
+    },
+    {
+      "word": "rano",
+      "count": 317
+    },
+    {
+      "word": "etazonia",
+      "count": 317
+    },
+    {
+      "word": "fotoana",
+      "count": 313
+    },
+    {
+      "word": "isan",
+      "count": 312
+    },
+    {
+      "word": "of",
+      "count": 312
+    },
+    {
+      "word": "rehetra",
+      "count": 303
+    },
+    {
+      "word": "anarana",
+      "count": 303
+    },
+    {
+      "word": "mbola",
+      "count": 299
+    },
+    {
+      "word": "amin'ilay",
+      "count": 299
+    },
+    {
+      "word": "toy",
+      "count": 298
+    },
+    {
+      "word": "mampiasa",
+      "count": 292
+    },
+    {
+      "word": "ankehitriny",
+      "count": 291
+    },
+    {
+      "word": "the",
+      "count": 289
+    },
+    {
+      "word": "hatramin",
+      "count": 286
+    },
+    {
+      "word": "an'ny",
+      "count": 286
+    },
+    {
+      "word": "andrefana",
+      "count": 284
+    },
+    {
+      "word": "sekoly",
+      "count": 282
+    },
+    {
+      "word": "abidy",
+      "count": 281
+    },
+    {
+      "word": "toerana",
+      "count": 279
+    },
+    {
+      "word": "fambolena",
+      "count": 279
+    },
+    {
+      "word": "tapitrisa",
+      "count": 278
+    },
+    {
+      "word": "azia",
+      "count": 278
+    },
+    {
+      "word": "ady",
+      "count": 274
+    },
+    {
+      "word": "satria",
+      "count": 270
+    },
+    {
+      "word": "faritany",
+      "count": 270
+    },
+    {
+      "word": "et",
+      "count": 267
+    },
+    {
+      "word": "fahatelo",
+      "count": 267
+    },
+    {
+      "word": "miisa",
+      "count": 266
+    },
+    {
+      "word": "tanatin'ny",
+      "count": 263
+    },
+    {
+      "word": "taloha",
+      "count": 260
+    },
+    {
+      "word": "antananarivo",
+      "count": 259
+    },
+    {
+      "word": "afaka",
+      "count": 258
+    },
+    {
+      "word": "des",
+      "count": 253
+    },
+    {
+      "word": "mpanjaka",
+      "count": 251
+    },
+    {
+      "word": "fototra",
+      "count": 249
+    },
+    {
+      "word": "sivily",
+      "count": 249
+    },
+    {
+      "word": "sady",
+      "count": 246
+    },
+    {
+      "word": "soratra",
+      "count": 238
     },
     {
       "word": "aminy",
-      "count": 56
+      "count": 236
     },
     {
-      "word": "mahita",
-      "count": 54
+      "word": "in",
+      "count": 233
     },
     {
-      "word": "filazantsara",
-      "count": 54
+      "word": "ambaratonga",
+      "count": 233
+    },
+    {
+      "word": "hita",
+      "count": 231
+    },
+    {
+      "word": "john",
+      "count": 231
+    },
+    {
+      "word": "matematika",
+      "count": 228
+    },
+    {
+      "word": "frantsa",
+      "count": 227
+    },
+    {
+      "word": "olana",
+      "count": 227
+    },
+    {
+      "word": "kosa",
+      "count": 226
+    },
+    {
+      "word": "km",
+      "count": 225
+    },
+    {
+      "word": "fanabeazana",
+      "count": 223
+    },
+    {
+      "word": "tonga",
+      "count": 221
+    },
+    {
+      "word": "gazety",
+      "count": 217
+    },
+    {
+      "word": "anatin'ny",
+      "count": 216
+    },
+    {
+      "word": "faritanin'i",
+      "count": 216
+    },
+    {
+      "word": "anisan",
+      "count": 215
+    },
+    {
+      "word": "vanim-potoana",
+      "count": 214
+    },
+    {
+      "word": "ranomasina",
+      "count": 213
+    },
+    {
+      "word": "latina",
+      "count": 212
+    },
+    {
+      "word": "ohatra",
+      "count": 212
+    },
+    {
+      "word": "distrikan'i",
+      "count": 211
+    },
+    {
+      "word": "lalana",
+      "count": 210
+    },
+    {
+      "word": "arabo",
+      "count": 207
+    },
+    {
+      "word": "kely",
+      "count": 206
+    },
+    {
+      "word": "miaraka",
+      "count": 203
+    },
+    {
+      "word": "telo",
+      "count": 201
+    },
+    {
+      "word": "india",
+      "count": 201
+    },
+    {
+      "word": "charles",
+      "count": 198
+    },
+    {
+      "word": "tontolo",
+      "count": 197
+    },
+    {
+      "word": "kristiana",
+      "count": 196
+    },
+    {
+      "word": "janoary",
+      "count": 195
+    },
+    {
+      "word": "fitaterana",
+      "count": 194
+    },
+    {
+      "word": "fiompiana",
+      "count": 194
+    },
+    {
+      "word": "sary",
+      "count": 192
+    },
+    {
+      "word": "mpahaisiansan-javaboahary",
+      "count": 192
+    },
+    {
+      "word": "miteny",
+      "count": 191
+    },
+    {
+      "word": "anelanelan'ny",
+      "count": 190
+    },
+    {
+      "word": "vorona",
+      "count": 189
+    },
+    {
+      "word": "nefa",
+      "count": 188
+    },
+    {
+      "word": "an-tany",
+      "count": 187
+    },
+    {
+      "word": "vahoaka",
+      "count": 187
+    },
+    {
+      "word": "sampandraharaha",
+      "count": 187
+    },
+    {
+      "word": "du",
+      "count": 186
+    },
+    {
+      "word": "betsaka",
+      "count": 185
+    },
+    {
+      "word": "statistika",
+      "count": 183
+    },
+    {
+      "word": "fotodrafitrasa",
+      "count": 183
+    },
+    {
+      "word": "anaty",
+      "count": 182
+    },
+    {
+      "word": "manao",
+      "count": 182
+    },
+    {
+      "word": "basikety",
+      "count": 182
+    },
+    {
+      "word": "renivohi-paritany",
+      "count": 181
+    },
+    {
+      "word": "merina",
+      "count": 180
+    },
+    {
+      "word": "sasany",
+      "count": 179
+    },
+    {
+      "word": "manan-karena",
+      "count": 179
+    },
+    {
+      "word": "soria",
+      "count": 179
+    },
+    {
+      "word": "antonontonony",
+      "count": 177
+    },
+    {
+      "word": "mangahazo",
+      "count": 176
+    },
+    {
+      "word": "namoronana",
+      "count": 176
+    },
+    {
+      "word": "indray",
+      "count": 175
+    },
+    {
+      "word": "ara-tsosialy",
+      "count": 175
+    },
+    {
+      "word": "faminavinana",
+      "count": 175
+    },
+    {
+      "word": "fitaovam-pitaterana",
+      "count": 174
+    },
+    {
+      "word": "fari-piainana",
+      "count": 174
+    },
+    {
+      "word": "edu",
+      "count": 174
+    },
+    {
+      "word": "faritan'i",
+      "count": 174
+    },
+    {
+      "word": "halavan'ny",
+      "count": 173
+    },
+    {
+      "word": "sina",
+      "count": 172
+    },
+    {
+      "word": "haintany",
+      "count": 172
+    },
+    {
+      "word": "ilo",
+      "count": 172
+    },
+    {
+      "word": "kaodin-kaominina",
+      "count": 171
+    },
+    {
+      "word": "kaodin-distrika",
+      "count": 171
+    },
+    {
+      "word": "taon-dasa",
+      "count": 171
+    },
+    {
+      "word": "cornell",
+      "count": 171
+    },
+    {
+      "word": "loharanom-pahaizana",
+      "count": 171
+    },
+    {
+      "word": "an'ity",
+      "count": 171
+    },
+    {
+      "word": "taorian",
+      "count": 170
+    },
+    {
+      "word": "lava",
+      "count": 170
+    },
+    {
+      "word": "faharetan'ny",
+      "count": 170
+    },
+    {
+      "word": "fahasoavana",
+      "count": 170
+    },
+    {
+      "word": "isam-poniny",
+      "count": 170
+    },
+    {
+      "word": "fotoam-pitaterana",
+      "count": 170
+    },
+    {
+      "word": "endri-javatra",
+      "count": 169
+    },
+    {
+      "word": "teto",
+      "count": 168
+    },
+    {
+      "word": "orinasa",
+      "count": 168
+    },
+    {
+      "word": "anisan'ny",
+      "count": 168
+    },
+    {
+      "word": "farany",
+      "count": 168
+    },
+    {
+      "word": "and",
+      "count": 168
+    },
+    {
+      "word": "faritanin",
+      "count": 168
+    },
+    {
+      "word": "fantatra",
+      "count": 167
+    },
+    {
+      "word": "kokoa",
+      "count": 167
+    },
+    {
+      "word": "ranomasimbe",
+      "count": 167
+    },
+    {
+      "word": "tetiandro",
+      "count": 166
+    },
+    {
+      "word": "siansa",
+      "count": 166
+    },
+    {
+      "word": "ahalanian'ny",
+      "count": 166
+    },
+    {
+      "word": "isan'omby",
+      "count": 165
+    },
+    {
+      "word": "an'i",
+      "count": 164
+    },
+    {
+      "word": "manodidina",
+      "count": 164
+    },
+    {
+      "word": "vondrona",
+      "count": 163
+    },
+    {
+      "word": "anefa",
+      "count": 161
+    },
+    {
+      "word": "foko",
+      "count": 160
+    },
+    {
+      "word": "manokana",
+      "count": 160
+    },
+    {
+      "word": "jean",
+      "count": 160
+    },
+    {
+      "word": "nisiam-pesitry",
+      "count": 160
+    },
+    {
+      "word": "kisoa",
+      "count": 159
+    },
+    {
+      "word": "tobim-pahasalamana",
+      "count": 159
+    },
+    {
+      "word": "fivavahana",
+      "count": 158
+    },
+    {
+      "word": "nahazo",
+      "count": 158
+    },
+    {
+      "word": "amerikanina",
+      "count": 158
+    },
+    {
+      "word": "ala",
+      "count": 157
+    },
+    {
+      "word": "manome",
+      "count": 157
+    },
+    {
+      "word": "rômana",
+      "count": 157
+    },
+    {
+      "word": "midika",
+      "count": 154
+    },
+    {
+      "word": "nandritra",
+      "count": 154
+    },
+    {
+      "word": "jeôgrafia",
+      "count": 153
+    },
+    {
+      "word": "rosia",
+      "count": 152
+    },
+    {
+      "word": "poeta",
+      "count": 152
+    },
+    {
+      "word": "ireto",
+      "count": 151
+    },
+    {
+      "word": "katôlika",
+      "count": 150
+    },
+    {
+      "word": "le",
+      "count": 150
+    },
+    {
+      "word": "mpitsabo",
+      "count": 150
+    },
+    {
+      "word": "ambony",
+      "count": 149
+    },
+    {
+      "word": "hatrany",
+      "count": 148
+    },
+    {
+      "word": "biby",
+      "count": 148
+    },
+    {
+      "word": "boky",
+      "count": 147
+    },
+    {
+      "word": "folo",
+      "count": 147
+    },
+    {
+      "word": "tsara",
+      "count": 147
+    },
+    {
+      "word": "sehatra",
+      "count": 147
+    },
+    {
+      "word": "nanao",
+      "count": 147
+    },
+    {
+      "word": "afovoany",
+      "count": 146
+    },
+    {
+      "word": "william",
+      "count": 146
+    },
+    {
+      "word": "hira",
+      "count": 144
+    },
+    {
+      "word": "nify",
+      "count": 143
+    },
+    {
+      "word": "fahitalavitra",
+      "count": 142
+    },
+    {
+      "word": "fianarantsoa",
+      "count": 142
+    },
+    {
+      "word": "sinoa",
+      "count": 142
+    },
+    {
+      "word": "vao",
+      "count": 142
+    },
+    {
+      "word": "eoropa",
+      "count": 142
+    },
+    {
+      "word": "daty",
+      "count": 141
+    },
+    {
+      "word": "robert",
+      "count": 141
+    },
+    {
+      "word": "tanànan-dehibe",
+      "count": 141
+    },
+    {
+      "word": "aoriana",
+      "count": 140
+    },
+    {
+      "word": "vola",
+      "count": 140
+    },
+    {
+      "word": "fikambanana",
+      "count": 140
+    },
+    {
+      "word": "onu",
+      "count": 139
+    },
+    {
+      "word": "taty",
+      "count": 137
+    },
+    {
+      "word": "mahajanga",
+      "count": 137
+    },
+    {
+      "word": "alalan",
+      "count": 136
+    },
+    {
+      "word": "mitovy",
+      "count": 136
+    },
+    {
+      "word": "wiki",
+      "count": 136
+    },
+    {
+      "word": "marsa",
+      "count": 136
+    },
+    {
+      "word": "toamasina",
+      "count": 136
+    },
+    {
+      "word": "isam-ponin'ny",
+      "count": 136
+    },
+    {
+      "word": "wikipedia",
+      "count": 135
+    },
+    {
+      "word": "rindrankajy",
+      "count": 135
+    },
+    {
+      "word": "trano",
+      "count": 134
+    },
+    {
+      "word": "olombelona",
+      "count": 133
+    },
+    {
+      "word": "mey",
+      "count": 133
+    },
+    {
+      "word": "mpiantoka",
+      "count": 133
+    },
+    {
+      "word": "ii",
+      "count": 133
+    },
+    {
+      "word": "anatin",
+      "count": 132
+    },
+    {
+      "word": "endrika",
+      "count": 132
+    },
+    {
+      "word": "madagascar",
+      "count": 132
+    },
+    {
+      "word": "morontsiraka",
+      "count": 132
+    },
+    {
+      "word": "nitranga",
+      "count": 132
+    },
+    {
+      "word": "joseph",
+      "count": 131
+    },
+    {
+      "word": "maha",
+      "count": 130
+    },
+    {
+      "word": "fahefana",
+      "count": 130
+    },
+    {
+      "word": "antsoina",
+      "count": 129
+    },
+    {
+      "word": "karazana",
+      "count": 129
+    },
+    {
+      "word": "jeografia",
+      "count": 129
+    },
+    {
+      "word": "andriamanitra",
+      "count": 129
+    },
+    {
+      "word": "febroary",
+      "count": 128
+    },
+    {
+      "word": "samy",
+      "count": 127
+    },
+    {
+      "word": "filoham-pirenena",
+      "count": 126
+    },
+    {
+      "word": "samihafa",
+      "count": 125
+    },
+    {
+      "word": "pôlitika",
+      "count": 125
+    },
+    {
+      "word": "mozika",
+      "count": 125
+    },
+    {
+      "word": "okraina",
+      "count": 124
+    },
+    {
+      "word": "fahasalamana",
+      "count": 124
+    },
+    {
+      "word": "farihy",
+      "count": 124
+    },
+    {
+      "word": "renivohitra",
+      "count": 124
+    },
+    {
+      "word": "ambany",
+      "count": 123
+    },
+    {
+      "word": "paul",
+      "count": 123
+    },
+    {
+      "word": "sns",
+      "count": 122
+    },
+    {
+      "word": "toa",
+      "count": 122
+    },
+    {
+      "word": "kanada",
+      "count": 122
+    },
+    {
+      "word": "iraisam-pirenena",
+      "count": 122
+    },
+    {
+      "word": "anjara",
+      "count": 122
+    },
+    {
+      "word": "kôntinenta",
+      "count": 121
+    },
+    {
+      "word": "governemanta",
+      "count": 121
+    },
+    {
+      "word": "filoha",
+      "count": 121
+    },
+    {
+      "word": "tokony",
+      "count": 120
+    },
+    {
+      "word": "ngeza",
+      "count": 120
+    },
+    {
+      "word": "grika",
+      "count": 120
+    },
+    {
+      "word": "amerikana",
+      "count": 120
+    },
+    {
+      "word": "isa",
+      "count": 119
+    },
+    {
+      "word": "efatra",
+      "count": 119
+    },
+    {
+      "word": "desambra",
+      "count": 119
+    },
+    {
+      "word": "jolay",
+      "count": 119
+    },
+    {
+      "word": "andron'ny",
+      "count": 119
+    },
+    {
+      "word": "distrikan",
+      "count": 118
+    },
+    {
+      "word": "manaraka",
+      "count": 116
+    },
+    {
+      "word": "andrianampoinimerina",
+      "count": 115
+    },
+    {
+      "word": "sambon-danitra",
+      "count": 115
+    },
+    {
+      "word": "distrika",
+      "count": 115
+    },
+    {
+      "word": "tendrombohitra",
+      "count": 114
+    },
+    {
+      "word": "richard",
+      "count": 114
+    },
+    {
+      "word": "polisy",
+      "count": 114
+    },
+    {
+      "word": "mpanamory",
+      "count": 114
+    },
+    {
+      "word": "lazaina",
+      "count": 113
+    },
+    {
+      "word": "eorôpeana",
+      "count": 113
+    },
+    {
+      "word": "anivon",
+      "count": 113
+    },
+    {
+      "word": "harena",
+      "count": 113
+    },
+    {
+      "word": "fifidianana",
+      "count": 113
+    },
+    {
+      "word": "ôfisialy",
+      "count": 112
+    },
+    {
+      "word": "en",
+      "count": 112
+    },
+    {
+      "word": "aogositra",
+      "count": 112
+    },
+    {
+      "word": "pierre",
+      "count": 112
+    },
+    {
+      "word": "kanji",
+      "count": 112
+    },
+    {
+      "word": "tapaka",
+      "count": 111
     },
     {
       "word": "hatramin'ny",
-      "count": 53
+      "count": 110
     },
     {
-      "word": "avo",
-      "count": 53
+      "word": "george",
+      "count": 110
+    },
+    {
+      "word": "tapany",
+      "count": 109
+    },
+    {
+      "word": "pejy",
+      "count": 109
+    },
+    {
+      "word": "kôngô",
+      "count": 109
+    },
+    {
+      "word": "alemaina",
+      "count": 109
+    },
+    {
+      "word": "aux",
+      "count": 109
+    },
+    {
+      "word": "fampiasana",
+      "count": 108
+    },
+    {
+      "word": "dimy",
+      "count": 108
+    },
+    {
+      "word": "loterana",
+      "count": 108
+    },
+    {
+      "word": "masina",
+      "count": 108
+    },
+    {
+      "word": "litera",
+      "count": 107
+    },
+    {
+      "word": "ôseania",
+      "count": 107
+    },
+    {
+      "word": "fianarana",
+      "count": 107
+    },
+    {
+      "word": "empira",
+      "count": 107
+    },
+    {
+      "word": "renirano",
+      "count": 106
+    },
+    {
+      "word": "aloha",
+      "count": 106
+    },
+    {
+      "word": "fiainany",
+      "count": 106
+    },
+    {
+      "word": "rajoelina",
+      "count": 106
+    },
+    {
+      "word": "thomas",
+      "count": 106
+    },
+    {
+      "word": "kastila",
+      "count": 106
+    },
+    {
+      "word": "intsony",
+      "count": 105
+    },
+    {
+      "word": "new",
+      "count": 105
+    },
+    {
+      "word": "mpikambana",
+      "count": 105
+    },
+    {
+      "word": "ilaina",
+      "count": 105
     },
     {
       "word": "fotsiny",
+      "count": 104
+    },
+    {
+      "word": "fanjakan",
+      "count": 104
+    },
+    {
+      "word": "andry",
+      "count": 104
+    },
+    {
+      "word": "anelanelan",
+      "count": 103
+    },
+    {
+      "word": "mena",
+      "count": 103
+    },
+    {
+      "word": "kajimirindra",
+      "count": 103
+    },
+    {
+      "word": "tsangana",
+      "count": 103
+    },
+    {
+      "word": "jesoa",
+      "count": 102
+    },
+    {
+      "word": "mpaka",
+      "count": 102
+    },
+    {
+      "word": "david",
+      "count": 101
+    },
+    {
+      "word": "kolejy",
+      "count": 101
+    },
+    {
+      "word": "eny",
+      "count": 100
+    },
+    {
+      "word": "james",
+      "count": 100
+    },
+    {
+      "word": "septambra",
+      "count": 100
+    },
+    {
+      "word": "tenenina",
+      "count": 99
+    },
+    {
+      "word": "maromaro",
+      "count": 99
+    },
+    {
+      "word": "fanoratana",
+      "count": 99
+    },
+    {
+      "word": "louis",
+      "count": 99
+    },
+    {
+      "word": "vakitrano",
+      "count": 99
+    },
+    {
+      "word": "fianakaviam-piteny",
+      "count": 98
+    },
+    {
+      "word": "mpiteny",
+      "count": 98
+    },
+    {
+      "word": "espaniôla",
+      "count": 98
+    },
+    {
+      "word": "filôzôfy",
+      "count": 98
+    },
+    {
+      "word": "sakalava",
+      "count": 97
+    },
+    {
+      "word": "renivohiny",
+      "count": 97
+    },
+    {
+      "word": "paris",
+      "count": 97
+    },
+    {
+      "word": "poopy",
+      "count": 97
+    },
+    {
+      "word": "imerina",
+      "count": 96
+    },
+    {
+      "word": "les",
+      "count": 96
+    },
+    {
+      "word": "lalàna",
+      "count": 96
+    },
+    {
+      "word": "tamin'ity",
+      "count": 96
+    },
+    {
+      "word": "kolontsaina",
+      "count": 95
+    },
+    {
+      "word": "antarktika",
+      "count": 95
+    },
+    {
+      "word": "rosiana",
+      "count": 95
+    },
+    {
+      "word": "anarany",
+      "count": 95
+    },
+    {
+      "word": "jacques",
+      "count": 95
+    },
+    {
+      "word": "ravalomanana",
+      "count": 95
+    },
+    {
+      "word": "miaina",
+      "count": 94
+    },
+    {
+      "word": "mahery",
+      "count": 94
+    },
+    {
+      "word": "tantaran'ny",
+      "count": 94
+    },
+    {
+      "word": "cafe",
+      "count": 94
+    },
+    {
+      "word": "mizaka-tenan'i",
+      "count": 94
+    },
+    {
+      "word": "repoblikan",
+      "count": 93
+    },
+    {
+      "word": "fitondrana",
+      "count": 92
+    },
+    {
+      "word": "marc",
+      "count": 92
+    },
+    {
+      "word": "filohan",
+      "count": 92
+    },
+    {
+      "word": "simika",
+      "count": 92
+    },
+    {
+      "word": "paska",
+      "count": 92
+    },
+    {
+      "word": "nataon",
+      "count": 91
+    },
+    {
+      "word": "talohan",
+      "count": 91
+    },
+    {
+      "word": "amin'ireo",
+      "count": 91
+    },
+    {
+      "word": "tanimbary",
+      "count": 91
+    },
+    {
+      "word": "mizara",
+      "count": 90
+    },
+    {
+      "word": "nanana",
+      "count": 90
+    },
+    {
+      "word": "feo",
+      "count": 90
+    },
+    {
+      "word": "avo",
+      "count": 90
+    },
+    {
+      "word": "vono",
+      "count": 90
+    },
+    {
+      "word": "namorona",
+      "count": 89
+    },
+    {
+      "word": "mitondra",
+      "count": 89
+    },
+    {
+      "word": "zavamaniry",
+      "count": 89
+    },
+    {
+      "word": "atsimon",
+      "count": 88
+    },
+    {
+      "word": "oktobra",
+      "count": 88
+    },
+    {
+      "word": "tantsaha",
+      "count": 88
+    },
+    {
+      "word": "lalan-tany",
+      "count": 88
+    },
+    {
+      "word": "vita",
+      "count": 87
+    },
+    {
+      "word": "nitondra",
+      "count": 87
+    },
+    {
+      "word": "finoana",
+      "count": 87
+    },
+    {
+      "word": "fiara",
+      "count": 87
+    },
+    {
+      "word": "mpampiasa",
+      "count": 86
+    },
+    {
+      "word": "tarika",
+      "count": 86
+    },
+    {
+      "word": "baseball",
+      "count": 86
+    },
+    {
+      "word": "von",
+      "count": 86
+    },
+    {
+      "word": "nivoaka",
+      "count": 86
+    },
+    {
+      "word": "baiboly",
+      "count": 85
+    },
+    {
+      "word": "hery",
+      "count": 85
+    },
+    {
+      "word": "tsena",
+      "count": 85
+    },
+    {
+      "word": "dokotera",
+      "count": 85
+    },
+    {
+      "word": "andré",
+      "count": 85
+    },
+    {
+      "word": "mihoatra",
+      "count": 84
+    },
+    {
+      "word": "tsiahy",
+      "count": 84
+    },
+    {
+      "word": "http",
+      "count": 84
+    },
+    {
+      "word": "taminy",
+      "count": 84
+    },
+    {
+      "word": "loi",
+      "count": 84
+    },
+    {
+      "word": "mionisipaliten'ny",
+      "count": 84
+    },
+    {
+      "word": "masoandro",
+      "count": 83
+    },
+    {
+      "word": "meksika",
+      "count": 83
+    },
+    {
+      "word": "voatondraka",
+      "count": 83
+    },
+    {
+      "word": "tranonkala",
+      "count": 82
+    },
+    {
+      "word": "milina",
+      "count": 82
+    },
+    {
+      "word": "vato",
+      "count": 82
+    },
+    {
+      "word": "tanteraka",
+      "count": 82
+    },
+    {
+      "word": "sur",
+      "count": 82
+    },
+    {
+      "word": "tohidrano",
+      "count": 82
+    },
+    {
+      "word": "paompy",
+      "count": 82
+    },
+    {
+      "word": "saingy",
+      "count": 81
+    },
+    {
+      "word": "lafiny",
+      "count": 81
+    },
+    {
+      "word": "amin'i",
+      "count": 81
+    },
+    {
+      "word": "niteraka",
+      "count": 81
+    },
+    {
+      "word": "mitambatra",
+      "count": 81
+    },
+    {
+      "word": "soeda",
+      "count": 81
+    },
+    {
+      "word": "nandray",
+      "count": 81
+    },
+    {
+      "word": "ginea",
+      "count": 81
+    },
+    {
+      "word": "ambohimanga",
+      "count": 81
+    },
+    {
+      "word": "tratra",
+      "count": 81
+    },
+    {
+      "word": "henry",
+      "count": 81
+    },
+    {
+      "word": "toe-tany",
+      "count": 81
+    },
+    {
+      "word": "isan'ireo",
+      "count": 81
+    },
+    {
+      "word": "fikambanan-tantsaha",
+      "count": 81
+    },
+    {
+      "word": "miaramila",
+      "count": 80
+    },
+    {
+      "word": "aostralia",
+      "count": 80
+    },
+    {
+      "word": "finlandy",
+      "count": 80
+    },
+    {
+      "word": "albert",
+      "count": 80
+    },
+    {
+      "word": "niaraka",
+      "count": 80
+    },
+    {
+      "word": "feony",
+      "count": 80
+    },
+    {
+      "word": "zanatany",
+      "count": 79
+    },
+    {
+      "word": "peter",
+      "count": 79
+    },
+    {
+      "word": "sihanaka",
+      "count": 78
+    },
+    {
+      "word": "www",
+      "count": 78
+    },
+    {
+      "word": "italia",
+      "count": 78
+    },
+    {
+      "word": "indiana",
+      "count": 78
+    },
+    {
+      "word": "antoko",
+      "count": 78
+    },
+    {
+      "word": "kôrea",
+      "count": 78
+    },
+    {
+      "word": "vondrom-piteny",
+      "count": 77
+    },
+    {
+      "word": "britanika",
+      "count": 77
+    },
+    {
+      "word": "zanany",
+      "count": 77
+    },
+    {
+      "word": "vitsy",
+      "count": 77
+    },
+    {
+      "word": "tsotra",
+      "count": 77
+    },
+    {
+      "word": "sarimihetsika",
+      "count": 77
+    },
+    {
+      "word": "fitrandrahana",
+      "count": 77
+    },
+    {
+      "word": "van",
+      "count": 77
+    },
+    {
+      "word": "anaran",
+      "count": 76
+    },
+    {
+      "word": "com",
+      "count": 76
+    },
+    {
+      "word": "tokoa",
+      "count": 76
+    },
+    {
+      "word": "ara-toekarena",
+      "count": 76
+    },
+    {
+      "word": "filipina",
+      "count": 76
+    },
+    {
+      "word": "niorina",
+      "count": 76
+    },
+    {
+      "word": "ankapobeny",
+      "count": 75
+    },
+    {
+      "word": "monina",
+      "count": 75
+    },
+    {
+      "word": "manerana",
+      "count": 75
+    },
+    {
+      "word": "tafika",
+      "count": 75
+    },
+    {
+      "word": "tanànan",
+      "count": 75
+    },
+    {
+      "word": "anjaran'ny",
+      "count": 75
+    },
+    {
+      "word": "kristy",
+      "count": 75
+    },
+    {
+      "word": "rafitra",
+      "count": 74
+    },
+    {
+      "word": "milaza",
+      "count": 74
+    },
+    {
+      "word": "ankamaroan",
+      "count": 74
+    },
+    {
+      "word": "orana",
+      "count": 74
+    },
+    {
+      "word": "henri",
+      "count": 74
+    },
+    {
+      "word": "alexander",
+      "count": 74
+    },
+    {
+      "word": "mpamono",
+      "count": 74
+    },
+    {
+      "word": "zezika",
+      "count": 74
+    },
+    {
+      "word": "isbn",
+      "count": 73
+    },
+    {
+      "word": "mpitondra",
+      "count": 73
+    },
+    {
+      "word": "amin'io",
+      "count": 73
+    },
+    {
+      "word": "sakafo",
+      "count": 73
+    },
+    {
+      "word": "km²",
+      "count": 73
+    },
+    {
+      "word": "toekarena",
+      "count": 73
+    },
+    {
+      "word": "isan-karazany",
+      "count": 73
+    },
+    {
+      "word": "tetikasa",
+      "count": 73
+    },
+    {
+      "word": "tanana",
+      "count": 73
+    },
+    {
+      "word": "manakara",
+      "count": 73
+    },
+    {
+      "word": "prôtestanta",
+      "count": 72
+    },
+    {
+      "word": "soratana",
+      "count": 72
+    },
+    {
+      "word": "isan'andro",
+      "count": 72
+    },
+    {
+      "word": "org",
+      "count": 72
+    },
+    {
+      "word": "ara-pôlitika",
+      "count": 72
+    },
+    {
+      "word": "fanjonoana",
+      "count": 72
+    },
+    {
+      "word": "mizaka",
+      "count": 72
+    },
+    {
+      "word": "mandavan-taona",
+      "count": 72
+    },
+    {
+      "word": "jirama",
+      "count": 72
+    },
+    {
+      "word": "omby",
+      "count": 71
+    },
+    {
+      "word": "tia",
+      "count": 71
+    },
+    {
+      "word": "fifandraisana",
+      "count": 71
+    },
+    {
+      "word": "mikambana",
+      "count": 71
+    },
+    {
+      "word": "manomboka",
+      "count": 71
+    },
+    {
+      "word": "ampahany",
+      "count": 71
+    },
+    {
+      "word": "arthur",
+      "count": 71
+    },
+    {
+      "word": "mpihira",
+      "count": 71
+    },
+    {
+      "word": "fitaovana",
+      "count": 70
+    },
+    {
+      "word": "nahatonga",
+      "count": 70
+    },
+    {
+      "word": "vehivavy",
+      "count": 70
+    },
+    {
+      "word": "manontolo",
+      "count": 70
+    },
+    {
+      "word": "loatra",
+      "count": 70
+    },
+    {
+      "word": "tal",
+      "count": 70
+    },
+    {
+      "word": "indônezia",
+      "count": 70
+    },
+    {
+      "word": "hiragana",
+      "count": 70
+    },
+    {
+      "word": "lany",
+      "count": 69
+    },
+    {
+      "word": "tanin",
+      "count": 69
+    },
+    {
+      "word": "fiarovana",
+      "count": 69
+    },
+    {
+      "word": "sambo",
+      "count": 68
+    },
+    {
+      "word": "vahiny",
+      "count": 68
+    },
+    {
+      "word": "miankina",
+      "count": 68
+    },
+    {
+      "word": "aty",
+      "count": 68
+    },
+    {
+      "word": "andriana",
+      "count": 68
+    },
+    {
+      "word": "ririnina",
+      "count": 68
+    },
+    {
+      "word": "alfred",
+      "count": 68
+    },
+    {
+      "word": "tongotra",
+      "count": 68
+    },
+    {
+      "word": "tanjona",
+      "count": 67
+    },
+    {
+      "word": "pôrtogey",
+      "count": 67
+    },
+    {
+      "word": "pasifika",
+      "count": 67
+    },
+    {
+      "word": "anatiny",
+      "count": 67
+    },
+    {
+      "word": "josé",
+      "count": 67
+    },
+    {
+      "word": "to",
+      "count": 67
+    },
+    {
+      "word": "tahaka",
+      "count": 66
+    },
+    {
+      "word": "atsimo-atsinanana",
+      "count": 66
+    },
+    {
+      "word": "eran-tany",
+      "count": 66
+    },
+    {
+      "word": "soisa",
+      "count": 66
+    },
+    {
+      "word": "taranja",
+      "count": 66
+    },
+    {
+      "word": "ejipta",
+      "count": 66
+    },
+    {
+      "word": "andevo",
+      "count": 66
+    },
+    {
+      "word": "fifanarahana",
+      "count": 66
+    },
+    {
+      "word": "toliara",
+      "count": 66
+    },
+    {
+      "word": "walter",
+      "count": 66
+    },
+    {
+      "word": "tovo",
+      "count": 66
+    },
+    {
+      "word": "york",
+      "count": 66
+    },
+    {
+      "word": "kanefa",
+      "count": 65
+    },
+    {
+      "word": "ray",
+      "count": 65
+    },
+    {
+      "word": "martin",
+      "count": 65
+    },
+    {
+      "word": "mila",
+      "count": 65
+    },
+    {
+      "word": "alalan'ny",
+      "count": 65
+    },
+    {
+      "word": "avokoa",
+      "count": 65
+    },
+    {
+      "word": "lemaka",
+      "count": 65
+    },
+    {
+      "word": "hans",
+      "count": 65
+    },
+    {
+      "word": "saikanosy",
+      "count": 65
+    },
+    {
+      "word": "site",
+      "count": 65
+    },
+    {
+      "word": "aleha",
+      "count": 65
+    },
+    {
+      "word": "lalam-pirenena",
+      "count": 65
+    },
+    {
+      "word": "demôkratikan",
+      "count": 64
+    },
+    {
+      "word": "antsiranana",
+      "count": 64
+    },
+    {
+      "word": "toe-karena",
+      "count": 64
+    },
+    {
+      "word": "anao",
+      "count": 64
+    },
+    {
+      "word": "daniel",
+      "count": 64
+    },
+    {
+      "word": "flm",
+      "count": 64
+    },
+    {
+      "word": "ofisialy",
+      "count": 64
+    },
+    {
+      "word": "tsimihety",
+      "count": 63
+    },
+    {
+      "word": "akaiky",
+      "count": 63
+    },
+    {
+      "word": "mandritra",
+      "count": 63
+    },
+    {
+      "word": "maneran-tany",
+      "count": 63
+    },
+    {
+      "word": "foana",
+      "count": 63
+    },
+    {
+      "word": "mpahaikintana",
+      "count": 63
+    },
+    {
+      "word": "mipetraka",
+      "count": 62
+    },
+    {
+      "word": "mainty",
+      "count": 62
+    },
+    {
+      "word": "aorian",
+      "count": 62
+    },
+    {
+      "word": "velarana",
+      "count": 62
+    },
+    {
+      "word": "fiarahamonina",
+      "count": 62
+    },
+    {
+      "word": "irery",
+      "count": 62
+    },
+    {
+      "word": "varotra",
+      "count": 62
+    },
+    {
+      "word": "tantaran",
+      "count": 62
+    },
+    {
+      "word": "mazava",
+      "count": 62
+    },
+    {
+      "word": "michael",
+      "count": 62
+    },
+    {
+      "word": "mpitendry",
+      "count": 62
+    },
+    {
+      "word": "j'hay",
+      "count": 62
+    },
+    {
+      "word": "pastora",
+      "count": 62
+    },
+    {
+      "word": "mg",
+      "count": 62
+    },
+    {
+      "word": "heverina",
+      "count": 61
+    },
+    {
+      "word": "mikasika",
+      "count": 61
+    },
+    {
+      "word": "velona",
+      "count": 61
+    },
+    {
+      "word": "amina",
+      "count": 61
+    },
+    {
+      "word": "an-kibon'ny",
+      "count": 61
+    },
+    {
+      "word": "atlantika",
+      "count": 61
+    },
+    {
+      "word": "mpianatra",
+      "count": 61
+    },
+    {
+      "word": "edward",
+      "count": 61
+    },
+    {
+      "word": "sokatra",
+      "count": 61
+    },
+    {
+      "word": "zandary",
+      "count": 61
+    },
+    {
+      "word": "taksiborosy",
+      "count": 61
+    },
+    {
+      "word": "guangdong",
+      "count": 61
+    },
+    {
+      "word": "mamaritra",
+      "count": 60
+    },
+    {
+      "word": "fiainana",
+      "count": 60
+    },
+    {
+      "word": "maintsy",
+      "count": 60
+    },
+    {
+      "word": "mihitsy",
+      "count": 60
+    },
+    {
+      "word": "angôla",
+      "count": 60
+    },
+    {
+      "word": "atsinanan",
+      "count": 60
+    },
+    {
+      "word": "novambra",
+      "count": 60
+    },
+    {
+      "word": "fampisehoana",
+      "count": 60
+    },
+    {
+      "word": "firaisana",
+      "count": 60
+    },
+    {
+      "word": "sôvietika",
+      "count": 60
+    },
+    {
+      "word": "andalovan'ny",
+      "count": 60
+    },
+    {
+      "word": "loharano",
+      "count": 59
+    },
+    {
+      "word": "belzika",
+      "count": 59
+    },
+    {
+      "word": "feno",
+      "count": 59
+    },
+    {
+      "word": "tetezamita",
+      "count": 59
+    },
+    {
+      "word": "ony",
+      "count": 59
+    },
+    {
+      "word": "georges",
+      "count": 59
+    },
+    {
+      "word": "testamenta",
+      "count": 59
+    },
+    {
+      "word": "niova",
+      "count": 58
+    },
+    {
+      "word": "matoanteny",
+      "count": 58
+    },
+    {
+      "word": "nôrvezy",
+      "count": 58
+    },
+    {
+      "word": "marina",
+      "count": 58
+    },
+    {
+      "word": "martsa",
+      "count": 58
+    },
+    {
+      "word": "jesosy",
+      "count": 58
+    },
+    {
+      "word": "afrikana",
+      "count": 57
+    },
+    {
+      "word": "tsirairay",
+      "count": 57
+    },
+    {
+      "word": "rivotra",
+      "count": 57
+    },
+    {
+      "word": "malalaka",
+      "count": 57
+    },
+    {
+      "word": "danemarka",
+      "count": 57
+    },
+    {
+      "word": "pôrtogaly",
+      "count": 57
+    },
+    {
+      "word": "iainana",
+      "count": 57
+    },
+    {
+      "word": "latsaky",
+      "count": 57
+    },
+    {
+      "word": "ambositra",
+      "count": 57
+    },
+    {
+      "word": "avrily",
+      "count": 57
+    },
+    {
+      "word": "ijanon'ny",
+      "count": 57
+    },
+    {
+      "word": "jona",
+      "count": 56
+    },
+    {
+      "word": "fisian",
+      "count": 56
+    },
+    {
+      "word": "alàlan'ny",
+      "count": 56
+    },
+    {
+      "word": "mediteranea",
+      "count": 56
+    },
+    {
+      "word": "for",
+      "count": 56
+    },
+    {
+      "word": "mifandray",
+      "count": 56
+    },
+    {
+      "word": "endriny",
+      "count": 56
+    },
+    {
+      "word": "nametraka",
+      "count": 56
+    },
+    {
+      "word": "nanjaka",
+      "count": 56
+    },
+    {
+      "word": "pour",
+      "count": 56
+    },
+    {
+      "word": "hevitra",
+      "count": 55
+    },
+    {
+      "word": "aotrisy",
+      "count": 55
+    },
+    {
+      "word": "fanaovana",
+      "count": 55
+    },
+    {
+      "word": "hazo",
+      "count": 55
+    },
+    {
+      "word": "fampianarana",
+      "count": 55
+    },
+    {
+      "word": "indostrialy",
+      "count": 55
+    },
+    {
+      "word": "radama",
+      "count": 54
+    },
+    {
+      "word": "zanapeo",
+      "count": 54
+    },
+    {
+      "word": "mirefy",
+      "count": 54
+    },
+    {
+      "word": "malaza",
+      "count": 54
+    },
+    {
+      "word": "kipra",
+      "count": 54
+    },
+    {
+      "word": "carl",
+      "count": 54
+    },
+    {
+      "word": "antonio",
+      "count": 54
+    },
+    {
+      "word": "maurice",
+      "count": 54
+    },
+    {
+      "word": "biraom-paositra",
+      "count": 54
+    },
+    {
+      "word": "nahita",
+      "count": 53
+    },
+    {
+      "word": "reny",
+      "count": 53
+    },
+    {
+      "word": "nahitana",
+      "count": 53
+    },
+    {
+      "word": "famokarana",
+      "count": 53
+    },
+    {
+      "word": "fanamboarana",
+      "count": 53
+    },
+    {
+      "word": "tanzania",
+      "count": 53
+    },
+    {
+      "word": "ratsiraka",
+      "count": 53
+    },
+    {
+      "word": "ila-bolantany",
       "count": 53
     },
     {
@@ -475,3535 +3041,972 @@
       "count": 53
     },
     {
-      "word": "saingy",
+      "word": "albania",
       "count": 52
     },
     {
-      "word": "lasa",
-      "count": 51
+      "word": "daholo",
+      "count": 52
     },
     {
-      "word": "karazana",
-      "count": 50
-    },
-    {
-      "word": "hita",
-      "count": 50
-    },
-    {
-      "word": "mandeha",
-      "count": 50
-    },
-    {
-      "word": "vondrona",
-      "count": 50
-    },
-    {
-      "word": "malagasy",
-      "count": 50
-    },
-    {
-      "word": "lalàna",
-      "count": 50
-    },
-    {
-      "word": "vao",
-      "count": 48
-    },
-    {
-      "word": "olana",
-      "count": 48
-    },
-    {
-      "word": "ireny",
-      "count": 48
-    },
-    {
-      "word": "nilaza",
-      "count": 48
-    },
-    {
-      "word": "mora",
-      "count": 47
-    },
-    {
-      "word": "nosy",
-      "count": 46
-    },
-    {
-      "word": "farany",
-      "count": 46
-    },
-    {
-      "word": "nanao",
-      "count": 45
-    },
-    {
-      "word": "mankany",
-      "count": 45
-    },
-    {
-      "word": "trano",
-      "count": 45
-    },
-    {
-      "word": "mahazo",
-      "count": 44
-    },
-    {
-      "word": "aloha",
-      "count": 44
-    },
-    {
-      "word": "alika",
-      "count": 44
-    },
-    {
-      "word": "ve",
-      "count": 43
-    },
-    {
-      "word": "nandritra",
-      "count": 43
-    },
-    {
-      "word": "mpampianatra",
-      "count": 43
-    },
-    {
-      "word": "hevitra",
-      "count": 42
-    },
-    {
-      "word": "maintsy",
-      "count": 42
-    },
-    {
-      "word": "paoly",
-      "count": 42
-    },
-    {
-      "word": "fivarotam-panafody",
-      "count": 42
-    },
-    {
-      "word": "fiainana",
-      "count": 42
-    },
-    {
-      "word": "feno",
-      "count": 42
-    },
-    {
-      "word": "azonao",
-      "count": 42
-    },
-    {
-      "word": "mpanao",
-      "count": 41
-    },
-    {
-      "word": "iny",
-      "count": 41
-    },
-    {
-      "word": "ahy",
-      "count": 41
-    },
-    {
-      "word": "nefa",
-      "count": 41
-    },
-    {
-      "word": "tanàna",
-      "count": 41
-    },
-    {
-      "word": "lahatsoratra",
-      "count": 40
-    },
-    {
-      "word": "manome",
-      "count": 40
-    },
-    {
-      "word": "sady",
-      "count": 40
-    },
-    {
-      "word": "mandritra",
-      "count": 40
-    },
-    {
-      "word": "ampiasaina",
-      "count": 40
-    },
-    {
-      "word": "hetsika",
-      "count": 40
-    },
-    {
-      "word": "volana",
-      "count": 39
-    },
-    {
-      "word": "maimaim-poana",
-      "count": 39
-    },
-    {
-      "word": "ambony",
-      "count": 39
-    },
-    {
-      "word": "ankehitriny",
-      "count": 39
-    },
-    {
-      "word": "fanafody",
-      "count": 39
-    },
-    {
-      "word": "avaratra",
-      "count": 39
-    },
-    {
-      "word": "tokoa",
-      "count": 39
-    },
-    {
-      "word": "tia",
-      "count": 39
-    },
-    {
-      "word": "hafatra",
-      "count": 38
-    },
-    {
-      "word": "amin'i",
-      "count": 38
-    },
-    {
-      "word": "maty",
-      "count": 38
-    },
-    {
-      "word": "an-tserasera",
-      "count": 37
-    },
-    {
-      "word": "anaty",
-      "count": 37
-    },
-    {
-      "word": "rano",
-      "count": 37
-    },
-    {
-      "word": "manodidina",
-      "count": 37
-    },
-    {
-      "word": "maharitra",
-      "count": 37
-    },
-    {
-      "word": "sasany",
-      "count": 37
-    },
-    {
-      "word": "iza",
-      "count": 37
-    },
-    {
-      "word": "koh",
-      "count": 37
-    },
-    {
-      "word": "amin'ity",
-      "count": 37
-    },
-    {
-      "word": "alàlan'ny",
-      "count": 36
-    },
-    {
-      "word": "hatrany",
-      "count": 36
-    },
-    {
-      "word": "nahita",
-      "count": 36
-    },
-    {
-      "word": "haingana",
-      "count": 36
-    },
-    {
-      "word": "natao",
-      "count": 36
-    },
-    {
-      "word": "vy",
-      "count": 36
-    },
-    {
-      "word": "miasa",
-      "count": 36
-    },
-    {
-      "word": "rafitra",
-      "count": 35
-    },
-    {
-      "word": "rosiana",
-      "count": 35
-    },
-    {
-      "word": "casino",
-      "count": 35
-    },
-    {
-      "word": "fonosana",
-      "count": 35
-    },
-    {
-      "word": "mampiasa",
-      "count": 35
-    },
-    {
-      "word": "id",
-      "count": 35
-    },
-    {
-      "word": "fandefasana",
-      "count": 34
-    },
-    {
-      "word": "malaza",
-      "count": 34
-    },
-    {
-      "word": "mpanjifa",
-      "count": 34
-    },
-    {
-      "word": "anjara",
-      "count": 34
-    },
-    {
-      "word": "rohy",
-      "count": 34
-    },
-    {
-      "word": "aterineto",
-      "count": 33
-    },
-    {
-      "word": "fampiasana",
-      "count": 33
-    },
-    {
-      "word": "serivisy",
-      "count": 33
-    },
-    {
-      "word": "vehivavy",
-      "count": 33
-    },
-    {
-      "word": "ratsy",
-      "count": 33
-    },
-    {
-      "word": "manampy",
-      "count": 33
-    },
-    {
-      "word": "mitovy",
-      "count": 33
-    },
-    {
-      "word": "amintsika",
-      "count": 33
-    },
-    {
-      "word": "samy",
-      "count": 33
-    },
-    {
-      "word": "mak",
-      "count": 33
-    },
-    {
-      "word": "fiarovana",
-      "count": 32
-    },
-    {
-      "word": "fitiavana",
-      "count": 32
-    },
-    {
-      "word": "tanteraka",
-      "count": 32
-    },
-    {
-      "word": "milaza",
-      "count": 32
-    },
-    {
-      "word": "ahoana",
-      "count": 32
-    },
-    {
-      "word": "tsirairay",
-      "count": 31
-    },
-    {
-      "word": "madagasikara",
-      "count": 31
-    },
-    {
-      "word": "tombony",
-      "count": 31
-    },
-    {
-      "word": "an-toerana",
-      "count": 31
-    },
-    {
-      "word": "vola",
-      "count": 31
-    },
-    {
-      "word": "loatra",
-      "count": 31
-    },
-    {
-      "word": "fanaovana",
-      "count": 31
-    },
-    {
-      "word": "nahazo",
-      "count": 31
-    },
-    {
-      "word": "manomboka",
-      "count": 30
-    },
-    {
-      "word": "ohatra",
-      "count": 30
-    },
-    {
-      "word": "fanaterana",
-      "count": 30
-    },
-    {
-      "word": "hanao",
-      "count": 30
-    },
-    {
-      "word": "faha",
-      "count": 30
-    },
-    {
-      "word": "adobe",
-      "count": 30
-    },
-    {
-      "word": "ray",
-      "count": 30
-    },
-    {
-      "word": "sehatra",
-      "count": 30
-    },
-    {
-      "word": "tranonkala",
-      "count": 30
-    },
-    {
-      "word": "de",
-      "count": 30
-    },
-    {
-      "word": "lenta",
-      "count": 30
-    },
-    {
-      "word": "mihitsy",
-      "count": 30
-    },
-    {
-      "word": "mino",
-      "count": 29
-    },
-    {
-      "word": "intsony",
-      "count": 29
-    },
-    {
-      "word": "mpampiasa",
-      "count": 29
-    },
-    {
-      "word": "antony",
-      "count": 29
-    },
-    {
-      "word": "tanora",
-      "count": 29
-    },
-    {
-      "word": "matetika",
-      "count": 29
-    },
-    {
-      "word": "loko",
-      "count": 29
-    },
-    {
-      "word": "septambra",
-      "count": 29
-    },
-    {
-      "word": "izaho",
-      "count": 29
-    },
-    {
-      "word": "manaraka",
-      "count": 28
-    },
-    {
-      "word": "mihoatra",
-      "count": 28
-    },
-    {
-      "word": "mahery",
-      "count": 28
-    },
-    {
-      "word": "hahita",
-      "count": 28
-    },
-    {
-      "word": "voninahitr'andriamanitra",
-      "count": 28
-    },
-    {
-      "word": "taratasy",
-      "count": 28
-    },
-    {
-      "word": "endrika",
-      "count": 28
-    },
-    {
-      "word": "alimony",
-      "count": 28
-    },
-    {
-      "word": "herinandro",
-      "count": 28
-    },
-    {
-      "word": "fampandrosoana",
-      "count": 28
-    },
-    {
-      "word": "amin'izao",
-      "count": 28
-    },
-    {
-      "word": "bebe",
-      "count": 27
-    },
-    {
-      "word": "tapaka",
-      "count": 27
-    },
-    {
-      "word": "mampiseho",
-      "count": 27
-    },
-    {
-      "word": "midika",
-      "count": 27
-    },
-    {
-      "word": "miankina",
-      "count": 27
-    },
-    {
-      "word": "ankizy",
-      "count": 27
-    },
-    {
-      "word": "jesoa",
-      "count": 27
-    },
-    {
-      "word": "fanaraha-maso",
-      "count": 26
-    },
-    {
-      "word": "teknolojia",
-      "count": 26
-    },
-    {
-      "word": "ianareo",
-      "count": 26
-    },
-    {
-      "word": "foana",
-      "count": 26
-    },
-    {
-      "word": "satana",
-      "count": 26
-    },
-    {
-      "word": "ady",
-      "count": 26
-    },
-    {
-      "word": "moa",
-      "count": 26
-    },
-    {
-      "word": "aminao",
-      "count": 26
-    },
-    {
-      "word": "ilaina",
-      "count": 26
-    },
-    {
-      "word": "atsinanana",
-      "count": 26
-    },
-    {
-      "word": "ampy",
-      "count": 26
-    },
-    {
-      "word": "faharoa",
-      "count": 26
-    },
-    {
-      "word": "hery",
-      "count": 26
-    },
-    {
-      "word": "anatin'ny",
-      "count": 25
-    },
-    {
-      "word": "voninahitra",
-      "count": 25
-    },
-    {
-      "word": "milina",
-      "count": 25
-    },
-    {
-      "word": "mahazatra",
-      "count": 25
-    },
-    {
-      "word": "illustrator",
-      "count": 25
-    },
-    {
-      "word": "omaly",
-      "count": 25
-    },
-    {
-      "word": "pejy",
-      "count": 25
-    },
-    {
-      "word": "jiro",
-      "count": 25
-    },
-    {
-      "word": "fametrahana",
-      "count": 25
-    },
-    {
-      "word": "mpikambana",
-      "count": 25
-    },
-    {
-      "word": "antoka",
-      "count": 24
-    },
-    {
-      "word": "ireto",
-      "count": 24
-    },
-    {
-      "word": "mikasika",
-      "count": 24
-    },
-    {
-      "word": "ry",
-      "count": 24
-    },
-    {
-      "word": "kalitao",
-      "count": 24
-    },
-    {
-      "word": "hahazo",
-      "count": 24
-    },
-    {
-      "word": "karatra",
-      "count": 24
-    },
-    {
-      "word": "an'andriamanitra",
-      "count": 24
-    },
-    {
-      "word": "fepetra",
-      "count": 24
-    },
-    {
-      "word": "boky",
-      "count": 24
-    },
-    {
-      "word": "miisa",
-      "count": 24
-    },
-    {
-      "word": "aoka",
-      "count": 24
-    },
-    {
-      "word": "rosia",
-      "count": 23
-    },
-    {
-      "word": "mifandray",
-      "count": 23
-    },
-    {
-      "word": "anefa",
-      "count": 23
-    },
-    {
-      "word": "zanany",
-      "count": 23
-    },
-    {
-      "word": "mandray",
-      "count": 23
-    },
-    {
-      "word": "mandrakizay",
-      "count": 23
-    },
-    {
-      "word": "fikambanana",
-      "count": 23
-    },
-    {
-      "word": "miresaka",
-      "count": 23
-    },
-    {
-      "word": "sakafo",
-      "count": 23
-    },
-    {
-      "word": "nizeria",
-      "count": 23
-    },
-    {
-      "word": "fanoherana",
-      "count": 23
-    },
-    {
-      "word": "isan-karazany",
-      "count": 23
-    },
-    {
-      "word": "governemanta",
-      "count": 22
-    },
-    {
-      "word": "irery",
-      "count": 22
-    },
-    {
-      "word": "amerika",
-      "count": 22
-    },
-    {
-      "word": "very",
-      "count": 22
-    },
-    {
-      "word": "fanahy",
-      "count": 22
-    },
-    {
-      "word": "safidy",
-      "count": 22
-    },
-    {
-      "word": "tenany",
-      "count": 22
-    },
-    {
-      "word": "nanomboka",
-      "count": 22
-    },
-    {
-      "word": "anatiny",
-      "count": 22
-    },
-    {
-      "word": "sarobidy",
-      "count": 22
-    },
-    {
-      "word": "vidiny",
-      "count": 22
-    },
-    {
-      "word": "akanjo",
-      "count": 22
-    },
-    {
-      "word": "fiara",
-      "count": 21
-    },
-    {
-      "word": "politika",
-      "count": 21
-    },
-    {
-      "word": "fifandraisana",
-      "count": 21
-    },
-    {
-      "word": "atra",
-      "count": 21
-    },
-    {
-      "word": "tanjona",
-      "count": 21
-    },
-    {
-      "word": "hanana",
-      "count": 21
-    },
-    {
-      "word": "mitoetra",
-      "count": 21
-    },
-    {
-      "word": "lalana",
-      "count": 21
-    },
-    {
-      "word": "backlinks",
-      "count": 21
-    },
-    {
-      "word": "takelaka",
-      "count": 21
-    },
-    {
-      "word": "hisy",
-      "count": 21
-    },
-    {
-      "word": "aminareo",
-      "count": 21
-    },
-    {
-      "word": "tiako",
-      "count": 21
-    },
-    {
-      "word": "fananganana",
-      "count": 21
-    },
-    {
-      "word": "mpianatra",
-      "count": 21
-    },
-    {
-      "word": "tarika",
-      "count": 21
-    },
-    {
-      "word": "dingana",
-      "count": 20
-    },
-    {
-      "word": "mijery",
-      "count": 20
-    },
-    {
-      "word": "lehilahy",
-      "count": 20
-    },
-    {
-      "word": "lesoka",
-      "count": 20
-    },
-    {
-      "word": "miezaka",
-      "count": 20
-    },
-    {
-      "word": "anay",
-      "count": 20
-    },
-    {
-      "word": "marika",
-      "count": 20
-    },
-    {
-      "word": "varotra",
-      "count": 20
-    },
-    {
-      "word": "amin'izany",
-      "count": 20
-    },
-    {
-      "word": "hono",
-      "count": 20
-    },
-    {
-      "word": "polisy",
-      "count": 20
-    },
-    {
-      "word": "ambany",
-      "count": 20
-    },
-    {
-      "word": "jereo",
-      "count": 20
-    },
-    {
-      "word": "betsaka",
-      "count": 20
-    },
-    {
-      "word": "telo",
-      "count": 20
-    },
-    {
-      "word": "mugabe",
-      "count": 20
-    },
-    {
-      "word": "fanjakana",
-      "count": 20
-    },
-    {
-      "word": "mozika",
-      "count": 20
-    },
-    {
-      "word": "vato",
-      "count": 20
-    },
-    {
-      "word": "anarana",
-      "count": 20
-    },
-    {
-      "word": "mponina",
-      "count": 20
-    },
-    {
-      "word": "taloha",
-      "count": 20
-    },
-    {
-      "word": "flyer",
-      "count": 20
-    },
-    {
-      "word": "antsirabe",
-      "count": 20
-    },
-    {
-      "word": "fanompoana",
-      "count": 19
-    },
-    {
-      "word": "internet",
-      "count": 19
-    },
-    {
-      "word": "tompo",
-      "count": 19
-    },
-    {
-      "word": "aoriana",
-      "count": 19
-    },
-    {
-      "word": "twitter",
-      "count": 19
-    },
-    {
-      "word": "amin'andriamanitra",
-      "count": 19
-    },
-    {
-      "word": "ela",
-      "count": 19
-    },
-    {
-      "word": "tantara",
-      "count": 19
-    },
-    {
-      "word": "fahasalamana",
-      "count": 19
-    },
-    {
-      "word": "fohy",
-      "count": 19
-    },
-    {
-      "word": "backlink",
-      "count": 19
-    },
-    {
-      "word": "ankapobeny",
-      "count": 19
-    },
-    {
-      "word": "iraisam-pirenena",
-      "count": 19
-    },
-    {
-      "word": "shina",
-      "count": 19
-    },
-    {
-      "word": "hanome",
-      "count": 19
-    },
-    {
-      "word": "gazety",
-      "count": 19
-    },
-    {
-      "word": "manolotra",
-      "count": 19
-    },
-    {
-      "word": "mitondra",
-      "count": 19
-    },
-    {
-      "word": "fototra",
-      "count": 19
-    },
-    {
-      "word": "sarotra",
-      "count": 19
-    },
-    {
-      "word": "mpiasa",
-      "count": 19
-    },
-    {
-      "word": "maizina",
-      "count": 19
-    },
-    {
-      "word": "kolikoly",
-      "count": 19
-    },
-    {
-      "word": "alalan",
-      "count": 19
-    },
-    {
-      "word": "afrika",
-      "count": 19
-    },
-    {
-      "word": "atsimo",
-      "count": 18
-    },
-    {
-      "word": "vavaka",
-      "count": 18
-    },
-    {
-      "word": "mafy",
-      "count": 18
-    },
-    {
-      "word": "fizarana",
-      "count": 18
-    },
-    {
-      "word": "ampahany",
-      "count": 18
-    },
-    {
-      "word": "anareo",
-      "count": 18
-    },
-    {
-      "word": "fanafihana",
-      "count": 18
-    },
-    {
-      "word": "hanampy",
-      "count": 18
-    },
-    {
-      "word": "fampiatoana",
-      "count": 18
-    },
-    {
-      "word": "sns",
-      "count": 18
-    },
-    {
-      "word": "minisitry",
-      "count": 18
-    },
-    {
-      "word": "fandraharahana",
-      "count": 18
-    },
-    {
-      "word": "aogositra",
-      "count": 18
-    },
-    {
-      "word": "finday",
-      "count": 18
-    },
-    {
-      "word": "programa",
-      "count": 18
-    },
-    {
-      "word": "niaraka",
-      "count": 18
-    },
-    {
-      "word": "tranokala",
-      "count": 18
-    },
-    {
-      "word": "mainty",
-      "count": 18
-    },
-    {
-      "word": "mahatonga",
-      "count": 18
-    },
-    {
-      "word": "namoaka",
-      "count": 18
-    },
-    {
-      "word": "mahalala",
-      "count": 18
-    },
-    {
-      "word": "sosialy",
-      "count": 18
-    },
-    {
-      "word": "miala",
-      "count": 18
-    },
-    {
-      "word": "latabatra",
-      "count": 18
-    },
-    {
-      "word": "miverina",
-      "count": 18
-    },
-    {
-      "word": "modely",
-      "count": 18
-    },
-    {
-      "word": "gps",
-      "count": 18
-    },
-    {
-      "word": "avokoa",
-      "count": 18
-    },
-    {
-      "word": "fanavaozana",
-      "count": 18
-    },
-    {
-      "word": "famaritana",
-      "count": 17
-    },
-    {
-      "word": "ekipa",
-      "count": 17
-    },
-    {
-      "word": "mey",
-      "count": 17
-    },
-    {
-      "word": "mitory",
-      "count": 17
-    },
-    {
-      "word": "mailaka",
-      "count": 17
-    },
-    {
-      "word": "hitako",
-      "count": 17
-    },
-    {
-      "word": "jamba",
-      "count": 17
-    },
-    {
-      "word": "shinoa",
-      "count": 17
-    },
-    {
-      "word": "kivy",
-      "count": 17
-    },
-    {
-      "word": "mendrika",
-      "count": 17
+      "word": "toetany",
+      "count": 52
     },
     {
       "word": "fikarohana",
-      "count": 17
+      "count": 52
     },
     {
-      "word": "fanampiana",
-      "count": 17
-    },
-    {
-      "word": "mahafinaritra",
-      "count": 17
-    },
-    {
-      "word": "jolay",
-      "count": 17
-    },
-    {
-      "word": "nahoana",
-      "count": 17
-    },
-    {
-      "word": "etsy",
-      "count": 17
-    },
-    {
-      "word": "ato",
-      "count": 17
-    },
-    {
-      "word": "fivarotana",
-      "count": 17
-    },
-    {
-      "word": "mamela",
-      "count": 17
-    },
-    {
-      "word": "zaza",
-      "count": 17
-    },
-    {
-      "word": "vitsivitsy",
-      "count": 17
-    },
-    {
-      "word": "famokarana",
-      "count": 16
-    },
-    {
-      "word": "lava",
-      "count": 16
-    },
-    {
-      "word": "fanohanana",
-      "count": 16
-    },
-    {
-      "word": "vahiny",
-      "count": 16
-    },
-    {
-      "word": "ezaka",
-      "count": 16
-    },
-    {
-      "word": "sehatry",
-      "count": 16
-    },
-    {
-      "word": "filaminana",
-      "count": 16
-    },
-    {
-      "word": "didy",
-      "count": 16
-    },
-    {
-      "word": "fitsarana",
-      "count": 16
-    },
-    {
-      "word": "ahitana",
-      "count": 16
-    },
-    {
-      "word": "ofisialy",
-      "count": 16
-    },
-    {
-      "word": "singa",
-      "count": 16
-    },
-    {
-      "word": "mialoha",
-      "count": 16
-    },
-    {
-      "word": "fampianarana",
-      "count": 16
-    },
-    {
-      "word": "mpitondra",
-      "count": 16
-    },
-    {
-      "word": "famolavolana",
-      "count": 16
-    },
-    {
-      "word": "ota",
-      "count": 16
-    },
-    {
-      "word": "velona",
-      "count": 16
-    },
-    {
-      "word": "resaka",
-      "count": 16
-    },
-    {
-      "word": "mivantana",
-      "count": 16
-    },
-    {
-      "word": "aina",
-      "count": 16
-    },
-    {
-      "word": "fantatra",
-      "count": 16
-    },
-    {
-      "word": "tariby",
-      "count": 16
-    },
-    {
-      "word": "puja",
-      "count": 16
-    },
-    {
-      "word": "an-trano",
-      "count": 16
-    },
-    {
-      "word": "hety",
-      "count": 16
-    },
-    {
-      "word": "volo",
-      "count": 16
-    },
-    {
-      "word": "snapdragon",
-      "count": 16
-    },
-    {
-      "word": "fampiharana",
-      "count": 15
-    },
-    {
-      "word": "maika",
-      "count": 15
-    },
-    {
-      "word": "mpanamboatra",
-      "count": 15
-    },
-    {
-      "word": "terrier",
-      "count": 15
-    },
-    {
-      "word": "oktobra",
-      "count": 15
-    },
-    {
-      "word": "taorian'ny",
-      "count": 15
-    },
-    {
-      "word": "hong",
-      "count": 15
-    },
-    {
-      "word": "kong",
-      "count": 15
-    },
-    {
-      "word": "diso",
-      "count": 15
-    },
-    {
-      "word": "google",
-      "count": 15
-    },
-    {
-      "word": "ipad",
-      "count": 15
-    },
-    {
-      "word": "mpivarotra",
-      "count": 15
-    },
-    {
-      "word": "mahomby",
-      "count": 15
-    },
-    {
-      "word": "lafatra",
-      "count": 15
-    },
-    {
-      "word": "mpitsidika",
-      "count": 15
-    },
-    {
-      "word": "azontsika",
-      "count": 15
-    },
-    {
-      "word": "tatitra",
-      "count": 15
-    },
-    {
-      "word": "analytics",
-      "count": 15
-    },
-    {
-      "word": "sempama",
-      "count": 15
-    },
-    {
-      "word": "mafana",
-      "count": 15
-    },
-    {
-      "word": "samihafa",
-      "count": 15
-    },
-    {
-      "word": "aiza",
-      "count": 15
-    },
-    {
-      "word": "fifidianana",
-      "count": 15
-    },
-    {
-      "word": "mpitarika",
-      "count": 15
-    },
-    {
-      "word": "anatin",
-      "count": 15
-    },
-    {
-      "word": "loza",
-      "count": 15
-    },
-    {
-      "word": "anio",
-      "count": 15
-    },
-    {
-      "word": "bay",
-      "count": 15
-    },
-    {
-      "word": "tetsy",
-      "count": 15
-    },
-    {
-      "word": "mamorona",
-      "count": 15
-    },
-    {
-      "word": "antsoina",
-      "count": 15
-    },
-    {
-      "word": "misokatra",
-      "count": 15
-    },
-    {
-      "word": "fiangonana",
-      "count": 15
-    },
-    {
-      "word": "ivelany",
-      "count": 15
-    },
-    {
-      "word": "zareo",
-      "count": 15
-    },
-    {
-      "word": "matihanina",
-      "count": 14
-    },
-    {
-      "word": "amin'izay",
-      "count": 14
-    },
-    {
-      "word": "isan'andro",
-      "count": 14
-    },
-    {
-      "word": "mombamomba",
-      "count": 14
-    },
-    {
-      "word": "rindrambaiko",
-      "count": 14
-    },
-    {
-      "word": "fiteny",
-      "count": 14
-    },
-    {
-      "word": "mipetraka",
-      "count": 14
-    },
-    {
-      "word": "fahadisoana",
-      "count": 14
-    },
-    {
-      "word": "hazo",
-      "count": 14
-    },
-    {
-      "word": "spins",
-      "count": 14
-    },
-    {
-      "word": "fantatsika",
-      "count": 14
-    },
-    {
-      "word": "tiany",
-      "count": 14
-    },
-    {
-      "word": "an'ireo",
-      "count": 14
-    },
-    {
-      "word": "tsotra",
-      "count": 14
-    },
-    {
-      "word": "mametraka",
-      "count": 14
-    },
-    {
-      "word": "voadika",
-      "count": 14
-    },
-    {
-      "word": "gmt",
-      "count": 14
-    },
-    {
-      "word": "isaky",
-      "count": 14
-    },
-    {
-      "word": "tsena",
-      "count": 14
-    },
-    {
-      "word": "tranokalanao",
-      "count": 14
-    },
-    {
-      "word": "green",
-      "count": 14
-    },
-    {
-      "word": "miorina",
-      "count": 14
-    },
-    {
-      "word": "maromaro",
-      "count": 14
-    },
-    {
-      "word": "tavoahangy",
-      "count": 14
-    },
-    {
-      "word": "tetikasa",
-      "count": 14
-    },
-    {
-      "word": "handray",
-      "count": 14
-    },
-    {
-      "word": "fahafatesana",
-      "count": 14
-    },
-    {
-      "word": "anie",
-      "count": 14
-    },
-    {
-      "word": "japoney",
-      "count": 14
-    },
-    {
-      "word": "maso",
-      "count": 14
-    },
-    {
-      "word": "fahamarinana",
-      "count": 14
-    },
-    {
-      "word": "hanova",
-      "count": 14
-    },
-    {
-      "word": "maka",
-      "count": 14
-    },
-    {
-      "word": "andraikitra",
-      "count": 14
-    },
-    {
-      "word": "entana",
-      "count": 14
-    },
-    {
-      "word": "karama",
-      "count": 14
-    },
-    {
-      "word": "lavitra",
-      "count": 14
-    },
-    {
-      "word": "desambra",
-      "count": 14
-    },
-    {
-      "word": "finoana",
-      "count": 14
-    },
-    {
-      "word": "isan-taona",
-      "count": 14
-    },
-    {
-      "word": "kaokazy",
-      "count": 14
-    },
-    {
-      "word": "zanak'andriamanitra",
-      "count": 14
-    },
-    {
-      "word": "manohitra",
-      "count": 13
-    },
-    {
-      "word": "tamin'ity",
-      "count": 13
-    },
-    {
-      "word": "azia",
-      "count": 13
-    },
-    {
-      "word": "angona",
-      "count": 13
-    },
-    {
-      "word": "beagle",
-      "count": 13
-    },
-    {
-      "word": "nitondra",
-      "count": 13
-    },
-    {
-      "word": "hijery",
-      "count": 13
-    },
-    {
-      "word": "hahazoana",
-      "count": 13
-    },
-    {
-      "word": "hitantsika",
-      "count": 13
-    },
-    {
-      "word": "fitondrana",
-      "count": 13
-    },
-    {
-      "word": "naneho",
-      "count": 13
-    },
-    {
-      "word": "hampiasa",
-      "count": 13
-    },
-    {
-      "word": "haben'ny",
-      "count": 13
-    },
-    {
-      "word": "mameno",
-      "count": 13
-    },
-    {
-      "word": "tolotra",
-      "count": 13
-    },
-    {
-      "word": "manaiky",
-      "count": 13
-    },
-    {
-      "word": "indostrian'ny",
-      "count": 13
-    },
-    {
-      "word": "fanampiny",
-      "count": 13
-    },
-    {
-      "word": "soa",
-      "count": 13
-    },
-    {
-      "word": "sinoa",
-      "count": 13
-    },
-    {
-      "word": "fanapahana",
-      "count": 13
-    },
-    {
-      "word": "vonona",
-      "count": 13
-    },
-    {
-      "word": "lany",
-      "count": 13
-    },
-    {
-      "word": "km",
-      "count": 13
-    },
-    {
-      "word": "ankamaroan'ny",
-      "count": 13
-    },
-    {
-      "word": "bilaogera",
-      "count": 13
-    },
-    {
-      "word": "amin'ilay",
-      "count": 13
-    },
-    {
-      "word": "angamba",
-      "count": 13
-    },
-    {
-      "word": "filokana",
-      "count": 13
-    },
-    {
-      "word": "afovoany",
-      "count": 13
+      "word": "ben",
+      "count": 52
     },
     {
       "word": "mangatsiaka",
-      "count": 13
-    },
-    {
-      "word": "mitady",
-      "count": 13
-    },
-    {
-      "word": "eoropeana",
-      "count": 13
-    },
-    {
-      "word": "fahafahana",
-      "count": 13
-    },
-    {
-      "word": "global",
-      "count": 13
-    },
-    {
-      "word": "voices",
-      "count": 13
-    },
-    {
-      "word": "fidirana",
-      "count": 13
-    },
-    {
-      "word": "akaikin'ny",
-      "count": 13
-    },
-    {
-      "word": "fanesoana",
-      "count": 13
-    },
-    {
-      "word": "faran'ny",
-      "count": 13
-    },
-    {
-      "word": "mm",
-      "count": 13
-    },
-    {
-      "word": "manambara",
-      "count": 13
-    },
-    {
-      "word": "lahatsary",
-      "count": 13
-    },
-    {
-      "word": "fifanarahana",
-      "count": 13
-    },
-    {
-      "word": "mandroso",
-      "count": 13
-    },
-    {
-      "word": "latsaky",
-      "count": 13
-    },
-    {
-      "word": "sokajy",
-      "count": 13
-    },
-    {
-      "word": "tokana",
-      "count": 12
-    },
-    {
-      "word": "nanambara",
-      "count": 12
-    },
-    {
-      "word": "lazao",
-      "count": 12
-    },
-    {
-      "word": "nanome",
-      "count": 12
-    },
-    {
-      "word": "fanantenana",
-      "count": 12
-    },
-    {
-      "word": "nasrin",
-      "count": 12
-    },
-    {
-      "word": "ºc",
-      "count": 12
-    },
-    {
-      "word": "rariny",
-      "count": 12
-    },
-    {
-      "word": "aql",
-      "count": 12
-    },
-    {
-      "word": "hany",
-      "count": 12
-    },
-    {
-      "word": "alalan'ny",
-      "count": 12
-    },
-    {
-      "word": "herinaratra",
-      "count": 12
-    },
-    {
-      "word": "cs",
-      "count": 12
-    },
-    {
-      "word": "sabotsy",
-      "count": 12
-    },
-    {
-      "word": "sambo",
-      "count": 12
-    },
-    {
-      "word": "seychelles",
-      "count": 12
-    },
-    {
-      "word": "mifandraika",
-      "count": 12
-    },
-    {
-      "word": "fanazavana",
-      "count": 12
-    },
-    {
-      "word": "laharana",
-      "count": 12
-    },
-    {
-      "word": "fenitra",
-      "count": 12
-    },
-    {
-      "word": "zanaka",
-      "count": 12
-    },
-    {
-      "word": "makedonia",
-      "count": 12
-    },
-    {
-      "word": "amina",
-      "count": 12
-    },
-    {
-      "word": "tsipika",
-      "count": 12
-    },
-    {
-      "word": "lehiben",
-      "count": 12
-    },
-    {
-      "word": "fanadinana",
-      "count": 12
-    },
-    {
-      "word": "nizara",
-      "count": 12
-    },
-    {
-      "word": "vaika",
-      "count": 12
-    },
-    {
-      "word": "te",
-      "count": 12
-    },
-    {
-      "word": "ainy",
-      "count": 12
-    },
-    {
-      "word": "nandray",
-      "count": 12
-    },
-    {
-      "word": "isan",
-      "count": 12
-    },
-    {
-      "word": "novambra",
-      "count": 12
-    },
-    {
-      "word": "namboarina",
-      "count": 12
-    },
-    {
-      "word": "filoham-pirenena",
-      "count": 12
-    },
-    {
-      "word": "fampangatsiahana",
-      "count": 12
-    },
-    {
-      "word": "teto",
-      "count": 12
-    },
-    {
-      "word": "janoary",
-      "count": 12
-    },
-    {
-      "word": "fo",
-      "count": 12
-    },
-    {
-      "word": "efatra",
-      "count": 12
-    },
-    {
-      "word": "drafitra",
-      "count": 12
-    },
-    {
-      "word": "fahazoana",
-      "count": 12
-    },
-    {
-      "word": "famenoana",
-      "count": 12
-    },
-    {
-      "word": "japana",
-      "count": 12
-    },
-    {
-      "word": "taminy",
-      "count": 12
-    },
-    {
-      "word": "fampahalalana",
-      "count": 12
-    },
-    {
-      "word": "ara-dalàna",
-      "count": 12
-    },
-    {
-      "word": "kaody",
-      "count": 12
-    },
-    {
-      "word": "est",
-      "count": 12
-    },
-    {
-      "word": "masina",
-      "count": 12
-    },
-    {
-      "word": "manerana",
-      "count": 12
-    },
-    {
-      "word": "vidin'ny",
-      "count": 12
-    },
-    {
-      "word": "miakatra",
-      "count": 12
-    },
-    {
-      "word": "ara-teknika",
-      "count": 12
-    },
-    {
-      "word": "mena",
-      "count": 12
-    },
-    {
-      "word": "tompon",
-      "count": 12
-    },
-    {
-      "word": "sa",
-      "count": 12
-    },
-    {
-      "word": "kitapo",
-      "count": 12
-    },
-    {
-      "word": "clamp",
-      "count": 12
-    },
-    {
-      "word": "tanana",
-      "count": 12
-    },
-    {
-      "word": "afa-tsy",
-      "count": 12
-    },
-    {
-      "word": "rahalahiny",
-      "count": 12
-    },
-    {
-      "word": "sembana",
-      "count": 12
-    },
-    {
-      "word": "miloko",
-      "count": 12
-    },
-    {
-      "word": "labiera",
-      "count": 11
-    },
-    {
-      "word": "efijery",
-      "count": 11
-    },
-    {
-      "word": "mitambatra",
-      "count": 11
-    },
-    {
-      "word": "heloka",
-      "count": 11
-    },
-    {
-      "word": "mitaky",
-      "count": 11
-    },
-    {
-      "word": "nomerika",
-      "count": 11
-    },
-    {
-      "word": "karazany",
-      "count": 11
-    },
-    {
-      "word": "toetra",
-      "count": 11
-    },
-    {
-      "word": "zava-dehibe",
-      "count": 11
-    },
-    {
-      "word": "mihevitra",
-      "count": 11
-    },
-    {
-      "word": "latina",
-      "count": 11
-    },
-    {
-      "word": "sisa",
-      "count": 11
-    },
-    {
-      "word": "manohy",
-      "count": 11
-    },
-    {
-      "word": "tafiditra",
-      "count": 11
-    },
-    {
-      "word": "angon-drakitra",
-      "count": 11
-    },
-    {
-      "word": "valiny",
-      "count": 11
-    },
-    {
-      "word": "ondry",
-      "count": 11
-    },
-    {
-      "word": "tenin'andriamanitra",
-      "count": 11
-    },
-    {
-      "word": "mifanaraka",
-      "count": 11
-    },
-    {
-      "word": "raharaha",
-      "count": 11
-    },
-    {
-      "word": "ora",
-      "count": 11
-    },
-    {
-      "word": "hatramin",
-      "count": 11
-    },
-    {
-      "word": "isan'ny",
-      "count": 11
-    },
-    {
-      "word": "frantsay",
-      "count": 11
-    },
-    {
-      "word": "milalao",
-      "count": 11
-    },
-    {
-      "word": "fanambarana",
-      "count": 11
-    },
-    {
-      "word": "olombelona",
-      "count": 11
-    },
-    {
-      "word": "fizahan-tany",
-      "count": 11
-    },
-    {
-      "word": "rahalahy",
-      "count": 11
-    },
-    {
-      "word": "vatosoa",
-      "count": 11
-    },
-    {
-      "word": "fahefana",
-      "count": 11
-    },
-    {
-      "word": "mahatsapa",
-      "count": 11
-    },
-    {
-      "word": "akory",
-      "count": 11
-    },
-    {
-      "word": "ara-pahasalamana",
-      "count": 11
-    },
-    {
-      "word": "tompon'andraikitra",
-      "count": 11
-    },
-    {
-      "word": "tambajotra",
-      "count": 11
-    },
-    {
-      "word": "mitranga",
-      "count": 11
-    },
-    {
-      "word": "indostria",
-      "count": 11
-    },
-    {
-      "word": "handeha",
-      "count": 11
-    },
-    {
-      "word": "ekena",
-      "count": 11
-    },
-    {
-      "word": "fanabeazana",
-      "count": 11
-    },
-    {
-      "word": "namany",
-      "count": 11
-    },
-    {
-      "word": "alina",
-      "count": 11
-    },
-    {
-      "word": "farmasia",
-      "count": 11
-    },
-    {
-      "word": "korea",
-      "count": 11
-    },
-    {
-      "word": "kristianina",
-      "count": 11
-    },
-    {
-      "word": "indraindray",
-      "count": 11
-    },
-    {
-      "word": "fiasa",
-      "count": 11
-    },
-    {
-      "word": "dimy",
-      "count": 11
-    },
-    {
-      "word": "mamirapiratra",
-      "count": 10
-    },
-    {
-      "word": "hanaovana",
-      "count": 10
-    },
-    {
-      "word": "fampidirana",
-      "count": 10
-    },
-    {
-      "word": "votoaty",
-      "count": 10
-    },
-    {
-      "word": "fandraisana",
-      "count": 10
-    },
-    {
-      "word": "rakitra",
-      "count": 10
-    },
-    {
-      "word": "amerikana",
-      "count": 10
-    },
-    {
-      "word": "tale",
-      "count": 10
-    },
-    {
-      "word": "vahaolana",
-      "count": 10
-    },
-    {
-      "word": "zava-misy",
-      "count": 10
-    },
-    {
-      "word": "of",
-      "count": 10
-    },
-    {
-      "word": "devoly",
-      "count": 10
-    },
-    {
-      "word": "mangataka",
-      "count": 10
-    },
-    {
-      "word": "entina",
-      "count": 10
-    },
-    {
-      "word": "misaotra",
-      "count": 10
-    },
-    {
-      "word": "wuhan",
-      "count": 10
-    },
-    {
-      "word": "firaisana",
-      "count": 10
-    },
-    {
-      "word": "iraniana",
-      "count": 10
-    },
-    {
-      "word": "repoblika",
-      "count": 10
-    },
-    {
-      "word": "sotoudeh",
-      "count": 10
-    },
-    {
-      "word": "manohana",
-      "count": 10
-    },
-    {
-      "word": "ariary",
-      "count": 10
-    },
-    {
-      "word": "manontolo",
-      "count": 10
-    },
-    {
-      "word": "vavy",
-      "count": 10
-    },
-    {
-      "word": "fitokonana",
-      "count": 10
-    },
-    {
-      "word": "vahoaka",
-      "count": 10
-    },
-    {
-      "word": "voalaza",
-      "count": 10
-    },
-    {
-      "word": "mahitsy",
-      "count": 10
-    },
-    {
-      "word": "fangatahana",
-      "count": 10
-    },
-    {
-      "word": "iainana",
-      "count": 10
-    },
-    {
-      "word": "mpiandry",
-      "count": 10
-    },
-    {
-      "word": "miteny",
-      "count": 10
-    },
-    {
-      "word": "voasoratra",
-      "count": 10
-    },
-    {
-      "word": "tendrombohitra",
-      "count": 10
-    },
-    {
-      "word": "ara-bola",
-      "count": 10
-    },
-    {
-      "word": "fisaraham-panambadiana",
-      "count": 10
-    },
-    {
-      "word": "manerantany",
-      "count": 10
-    },
-    {
-      "word": "fanatsarana",
-      "count": 10
-    },
-    {
-      "word": "nahatratra",
-      "count": 10
-    },
-    {
-      "word": "manondro",
-      "count": 10
-    },
-    {
-      "word": "ahafantarantsika",
-      "count": 10
-    },
-    {
-      "word": "fitoriana",
-      "count": 10
-    },
-    {
-      "word": "maodelin'ny",
-      "count": 10
-    },
-    {
-      "word": "jehovah",
-      "count": 10
-    },
-    {
-      "word": "nanana",
-      "count": 10
-    },
-    {
-      "word": "mieritreritra",
-      "count": 10
-    },
-    {
-      "word": "filoha",
-      "count": 10
-    },
-    {
-      "word": "mpitsara",
-      "count": 10
-    },
-    {
-      "word": "mpilalao",
-      "count": 10
-    },
-    {
-      "word": "foibe",
-      "count": 10
-    },
-    {
-      "word": "vokatry",
-      "count": 10
-    },
-    {
-      "word": "minitra",
-      "count": 10
-    },
-    {
-      "word": "tranga",
-      "count": 10
-    },
-    {
-      "word": "fotsy",
-      "count": 10
-    },
-    {
-      "word": "sidina",
-      "count": 10
-    },
-    {
-      "word": "malalaka",
-      "count": 10
-    },
-    {
-      "word": "sendika",
-      "count": 10
-    },
-    {
-      "word": "nivoaka",
-      "count": 10
-    },
-    {
-      "word": "asany",
-      "count": 10
-    },
-    {
-      "word": "nomena",
-      "count": 10
-    },
-    {
-      "word": "mandefa",
-      "count": 10
-    },
-    {
-      "word": "zava-drehetra",
-      "count": 10
-    },
-    {
-      "word": "rita",
-      "count": 10
-    },
-    {
-      "word": "aprily",
-      "count": 10
-    },
-    {
-      "word": "anivon",
-      "count": 10
-    },
-    {
-      "word": "fisamborana",
-      "count": 10
-    },
-    {
-      "word": "fisintahana",
-      "count": 10
-    },
-    {
-      "word": "miantso",
-      "count": 10
-    },
-    {
-      "word": "fampisehoana",
-      "count": 10
-    },
-    {
-      "word": "namana",
-      "count": 10
-    },
-    {
-      "word": "zo",
-      "count": 10
-    },
-    {
-      "word": "haka",
-      "count": 10
-    },
-    {
-      "word": "toe-javatra",
-      "count": 10
-    },
-    {
-      "word": "lafiny",
-      "count": 10
-    },
-    {
-      "word": "manan-danja",
-      "count": 10
-    },
-    {
-      "word": "nepal",
-      "count": 10
-    },
-    {
-      "word": "daholo",
-      "count": 10
-    },
-    {
-      "word": "petra-bola",
-      "count": 10
-    },
-    {
-      "word": "fandavana",
-      "count": 10
-    },
-    {
-      "word": "fahavaratra",
-      "count": 10
-    },
-    {
-      "word": "aorian'ny",
-      "count": 10
-    },
-    {
-      "word": "hatao",
-      "count": 10
-    },
-    {
-      "word": "miditra",
-      "count": 10
-    },
-    {
-      "word": "alahady",
-      "count": 10
-    },
-    {
-      "word": "tavaratra",
-      "count": 10
-    },
-    {
-      "word": "andalana",
-      "count": 10
-    },
-    {
-      "word": "ankoatra",
-      "count": 10
-    },
-    {
-      "word": "fanamarinana",
-      "count": 10
-    },
-    {
-      "word": "santionany",
-      "count": 10
-    },
-    {
-      "word": "alaina",
-      "count": 10
-    },
-    {
-      "word": "lafo",
-      "count": 10
-    },
-    {
-      "word": "voajanahary",
-      "count": 10
-    },
-    {
-      "word": "bevava",
-      "count": 9
-    },
-    {
-      "word": "fiandrianana",
-      "count": 9
-    },
-    {
-      "word": "tenantsika",
-      "count": 9
-    },
-    {
-      "word": "mifangaro",
-      "count": 9
-    },
-    {
-      "word": "boston",
-      "count": 9
-    },
-    {
-      "word": "moto",
-      "count": 9
-    },
-    {
-      "word": "aty",
-      "count": 9
-    },
-    {
-      "word": "maraina",
-      "count": 9
-    },
-    {
-      "word": "checkdb",
-      "count": 9
-    },
-    {
-      "word": "mahagaga",
-      "count": 9
-    },
-    {
-      "word": "hiaro",
-      "count": 9
-    },
-    {
-      "word": "fiarovam-pirenena",
-      "count": 9
-    },
-    {
-      "word": "tamin'izany",
-      "count": 9
-    },
-    {
-      "word": "mpamatsy",
-      "count": 9
-    },
-    {
-      "word": "hamonjy",
-      "count": 9
-    },
-    {
-      "word": "fantatro",
-      "count": 9
-    },
-    {
-      "word": "mahaliana",
-      "count": 9
-    },
-    {
-      "word": "famerenana",
-      "count": 9
-    },
-    {
-      "word": "anglisy",
-      "count": 9
-    },
-    {
-      "word": "vitsy",
-      "count": 9
-    },
-    {
-      "word": "mihaino",
-      "count": 9
-    },
-    {
-      "word": "hahatakatra",
-      "count": 9
-    },
-    {
-      "word": "fanentanana",
-      "count": 9
-    },
-    {
-      "word": "osaka",
-      "count": 9
-    },
-    {
-      "word": "loharano",
-      "count": 9
-    },
-    {
-      "word": "jerena",
-      "count": 9
-    },
-    {
-      "word": "saika",
-      "count": 9
-    },
-    {
-      "word": "dikan-teny",
-      "count": 9
-    },
-    {
-      "word": "etazonia",
-      "count": 9
-    },
-    {
-      "word": "miaro",
-      "count": 9
-    },
-    {
-      "word": "manota",
-      "count": 9
-    },
-    {
-      "word": "manantena",
-      "count": 9
-    },
-    {
-      "word": "eofrata",
-      "count": 9
-    },
-    {
-      "word": "mockup",
-      "count": 9
-    },
-    {
-      "word": "manoloana",
-      "count": 9
-    },
-    {
-      "word": "tamiko",
-      "count": 9
-    },
-    {
-      "word": "oneplus",
-      "count": 9
-    },
-    {
-      "word": "akaiky",
-      "count": 9
-    },
-    {
-      "word": "ataon",
-      "count": 9
-    },
-    {
-      "word": "filohan",
-      "count": 9
-    },
-    {
-      "word": "niteraka",
-      "count": 9
-    },
-    {
-      "word": "miandry",
-      "count": 9
-    },
-    {
-      "word": "japon",
-      "count": 9
-    },
-    {
-      "word": "famoronana",
-      "count": 9
-    },
-    {
-      "word": "fahalalana",
-      "count": 9
-    },
-    {
-      "word": "fitantanana",
-      "count": 9
-    },
-    {
-      "word": "monja",
-      "count": 9
-    },
-    {
-      "word": "niresaka",
-      "count": 9
-    },
-    {
-      "word": "vanim-potoana",
-      "count": 9
-    },
-    {
-      "word": "manoratra",
-      "count": 9
-    },
-    {
-      "word": "mpifaninana",
-      "count": 9
-    },
-    {
-      "word": "tsia",
-      "count": 9
-    },
-    {
-      "word": "zoo",
-      "count": 9
-    },
-    {
-      "word": "mifototra",
-      "count": 9
-    },
-    {
-      "word": "ambaratonga",
-      "count": 9
-    },
-    {
-      "word": "fanontaniana",
-      "count": 9
-    },
-    {
-      "word": "adala",
-      "count": 9
-    },
-    {
-      "word": "mankahala",
-      "count": 9
-    },
-    {
-      "word": "mandalo",
-      "count": 9
+      "count": 52
     },
     {
       "word": "nataony",
-      "count": 9
+      "count": 52
     },
     {
-      "word": "index",
-      "count": 9
+      "word": "aratra",
+      "count": 52
     },
     {
-      "word": "hotely",
-      "count": 9
+      "word": "ralambo",
+      "count": 52
     },
     {
-      "word": "tompony",
-      "count": 9
+      "word": "organisation",
+      "count": 52
     },
     {
-      "word": "malefaka",
-      "count": 9
+      "word": "ambin",
+      "count": 51
     },
     {
-      "word": "nahavita",
-      "count": 9
+      "word": "enina",
+      "count": 51
     },
     {
-      "word": "amiko",
-      "count": 9
+      "word": "fianakaviana",
+      "count": 51
     },
     {
-      "word": "hanatsarana",
-      "count": 9
+      "word": "didy",
+      "count": 51
     },
     {
-      "word": "miatrika",
-      "count": 9
+      "word": "kristianisma",
+      "count": 51
     },
     {
-      "word": "ko",
-      "count": 9
+      "word": "fanahy",
+      "count": 51
     },
     {
-      "word": "fifaninanana",
-      "count": 9
+      "word": "françois",
+      "count": 51
     },
     {
-      "word": "malala",
-      "count": 9
+      "word": "sp",
+      "count": 51
     },
     {
-      "word": "faty",
-      "count": 9
+      "word": "malay",
+      "count": 50
     },
     {
-      "word": "sekoly",
-      "count": 9
+      "word": "andron",
+      "count": 50
     },
     {
-      "word": "baiko",
-      "count": 9
+      "word": "mafy",
+      "count": 50
     },
     {
-      "word": "gb",
-      "count": 9
+      "word": "fotsy",
+      "count": 50
     },
     {
-      "word": "andiany",
-      "count": 9
+      "word": "nanome",
+      "count": 50
     },
     {
-      "word": "vakinankaratra",
-      "count": 9
+      "word": "silamo",
+      "count": 50
     },
     {
-      "word": "navalin'i",
-      "count": 9
+      "word": "nanaiky",
+      "count": 50
     },
     {
-      "word": "lamba",
-      "count": 9
+      "word": "niditra",
+      "count": 50
     },
     {
-      "word": "minisitera",
-      "count": 9
+      "word": "lalàmpanorenana",
+      "count": 50
     },
     {
-      "word": "metatra",
-      "count": 9
+      "word": "sodàna",
+      "count": 50
     },
     {
-      "word": "kinova",
-      "count": 9
+      "word": "katowice",
+      "count": 50
     },
     {
-      "word": "fanambadiana",
-      "count": 9
+      "word": "esperanto",
+      "count": 50
     },
     {
-      "word": "faucet",
-      "count": 9
+      "word": "banane",
+      "count": 50
     },
     {
-      "word": "oviana",
-      "count": 9
+      "word": "aho",
+      "count": 49
     },
     {
-      "word": "tombontsoa",
-      "count": 9
+      "word": "hetsika",
+      "count": 49
     },
     {
-      "word": "tile",
-      "count": 9
+      "word": "isan-taona",
+      "count": 49
     },
     {
-      "word": "kristiana",
-      "count": 9
+      "word": "bernard",
+      "count": 49
     },
     {
-      "word": "antananarivo",
-      "count": 9
+      "word": "maina",
+      "count": 49
     },
     {
-      "word": "renivohitra",
-      "count": 9
+      "word": "haingana",
+      "count": 49
     },
     {
-      "word": "hiala",
-      "count": 9
+      "word": "fahaleovantena",
+      "count": 49
     },
     {
-      "word": "fanetezana",
-      "count": 9
+      "word": "jiosy",
+      "count": 49
     },
     {
-      "word": "folo",
-      "count": 9
+      "word": "vitsivitsy",
+      "count": 49
     },
     {
-      "word": "mitohy",
-      "count": 9
+      "word": "fito",
+      "count": 49
     },
     {
-      "word": "fampirantiana",
-      "count": 9
+      "word": "antsirabe",
+      "count": 49
     },
     {
-      "word": "mandà",
-      "count": 9
+      "word": "ambatondrazaka",
+      "count": 49
     },
     {
-      "word": "mpitandro",
-      "count": 9
+      "word": "michel",
+      "count": 49
     },
     {
-      "word": "teboka",
-      "count": 8
+      "word": "au",
+      "count": 49
     },
     {
-      "word": "fitiliana",
-      "count": 8
+      "word": "tanànan'i",
+      "count": 49
     },
     {
-      "word": "hahatonga",
-      "count": 8
+      "word": "japoney",
+      "count": 49
     },
     {
-      "word": "alohan'ny",
-      "count": 8
+      "word": "jermanika",
+      "count": 48
     },
     {
-      "word": "mahatakatra",
-      "count": 8
+      "word": "nampiasa",
+      "count": 48
     },
     {
-      "word": "miavaka",
-      "count": 8
+      "word": "praiminisitra",
+      "count": 48
     },
     {
-      "word": "fotodrafitrasa",
-      "count": 8
+      "word": "nitarika",
+      "count": 48
     },
     {
-      "word": "boglen",
-      "count": 8
+      "word": "ôfisialin",
+      "count": 48
     },
     {
-      "word": "fijaliana",
-      "count": 8
+      "word": "mafana",
+      "count": 48
     },
     {
-      "word": "fanovana",
-      "count": 8
+      "word": "frank",
+      "count": 48
     },
     {
-      "word": "ranomasina",
-      "count": 8
+      "word": "karl",
+      "count": 48
     },
     {
-      "word": "liana",
-      "count": 8
+      "word": "on",
+      "count": 48
     },
     {
-      "word": "ankizivavy",
-      "count": 8
+      "word": "lalam-paritra",
+      "count": 48
     },
     {
-      "word": "nanjary",
-      "count": 8
+      "word": "teratanin'ny",
+      "count": 48
     },
     {
-      "word": "tiantsika",
-      "count": 8
+      "word": "zaza",
+      "count": 47
     },
     {
-      "word": "planeta",
-      "count": 8
+      "word": "lahy",
+      "count": 47
     },
     {
-      "word": "famonjena",
-      "count": 8
+      "word": "nampiasaina",
+      "count": 47
     },
     {
-      "word": "fanomezana",
-      "count": 8
+      "word": "tsekia",
+      "count": 47
     },
     {
-      "word": "fahatsapana",
-      "count": 8
+      "word": "tanora",
+      "count": 47
     },
     {
-      "word": "fitaterana",
-      "count": 8
+      "word": "ranavalona",
+      "count": 47
     },
     {
-      "word": "mahafantatra",
-      "count": 8
+      "word": "vy",
+      "count": 47
     },
     {
-      "word": "miantoka",
-      "count": 8
+      "word": "aprily",
+      "count": 47
     },
     {
-      "word": "nanoratra",
-      "count": 8
+      "word": "fiandohan",
+      "count": 47
     },
     {
-      "word": "data",
-      "count": 8
+      "word": "nilaza",
+      "count": 47
     },
     {
-      "word": "taorian",
-      "count": 8
+      "word": "guangxi",
+      "count": 47
     },
     {
-      "word": "the",
-      "count": 8
+      "word": "rakibolana",
+      "count": 46
     },
     {
-      "word": "matoky",
-      "count": 8
+      "word": "renifeo",
+      "count": 46
     },
     {
-      "word": "vadiny",
-      "count": 8
+      "word": "hatry",
+      "count": 46
     },
     {
-      "word": "manova",
-      "count": 8
+      "word": "ratsy",
+      "count": 46
     },
     {
-      "word": "condor",
-      "count": 8
+      "word": "antony",
+      "count": 46
     },
     {
-      "word": "hijerena",
-      "count": 8
+      "word": "solitany",
+      "count": 46
     },
     {
-      "word": "anatin'izany",
-      "count": 8
+      "word": "mora",
+      "count": 46
     },
     {
-      "word": "globe",
-      "count": 8
+      "word": "aretina",
+      "count": 46
     },
     {
-      "word": "tratra",
-      "count": 8
+      "word": "mananjary",
+      "count": 46
     },
     {
-      "word": "miova",
-      "count": 8
+      "word": "mahazo",
+      "count": 46
     },
     {
-      "word": "mpiara-miasa",
-      "count": 8
+      "word": "hangul",
+      "count": 46
     },
     {
-      "word": "haavon'ny",
-      "count": 8
+      "word": "wikibolana",
+      "count": 46
     },
     {
-      "word": "sao",
-      "count": 8
+      "word": "roger",
+      "count": 46
     },
     {
-      "word": "tigrisy",
-      "count": 8
+      "word": "nosin",
+      "count": 45
     },
     {
-      "word": "endriny",
-      "count": 8
+      "word": "fitenin",
+      "count": 45
     },
     {
-      "word": "heviny",
-      "count": 8
+      "word": "mandeha",
+      "count": 45
     },
     {
-      "word": "fanapahan-kevitra",
-      "count": 8
+      "word": "ahafahana",
+      "count": 45
     },
     {
-      "word": "marobe",
-      "count": 8
+      "word": "namoaka",
+      "count": 45
     },
     {
-      "word": "andry",
-      "count": 8
+      "word": "maorisy",
+      "count": 45
     },
     {
-      "word": "nanolotra",
-      "count": 8
+      "word": "iii",
+      "count": 45
     },
     {
-      "word": "fony",
-      "count": 8
+      "word": "ireny",
+      "count": 45
     },
     {
-      "word": "aminay",
-      "count": 8
+      "word": "katsaka",
+      "count": 45
     },
     {
-      "word": "matahotra",
-      "count": 8
+      "word": "world",
+      "count": 45
     },
     {
-      "word": "iraisana",
-      "count": 8
+      "word": "joliana",
+      "count": 45
     },
     {
-      "word": "manampahefana",
-      "count": 8
+      "word": "pretra",
+      "count": 45
     },
     {
-      "word": "tonta",
-      "count": 8
+      "word": "rené",
+      "count": 45
     },
     {
-      "word": "zanak",
-      "count": 8
+      "word": "godorô",
+      "count": 45
     },
     {
-      "word": "saina",
-      "count": 8
+      "word": "shandong",
+      "count": 45
     },
     {
-      "word": "antoko",
-      "count": 8
+      "word": "amin'izao",
+      "count": 44
     },
     {
-      "word": "efitrano",
-      "count": 8
+      "word": "da",
+      "count": 44
     },
     {
-      "word": "miaramila",
-      "count": 8
+      "word": "sampana",
+      "count": 44
     },
     {
-      "word": "kaodim-paositra",
-      "count": 8
+      "word": "ranomandry",
+      "count": 44
     },
     {
-      "word": "eoropeanina",
-      "count": 8
+      "word": "etiôpia",
+      "count": 44
     },
     {
-      "word": "fijery",
-      "count": 8
+      "word": "nanangana",
+      "count": 44
     },
     {
-      "word": "fanadihadiana",
-      "count": 8
+      "word": "banky",
+      "count": 44
     },
     {
-      "word": "fiantohana",
-      "count": 8
+      "word": "analamanga",
+      "count": 44
     },
     {
-      "word": "dokotera",
-      "count": 8
+      "word": "sisa",
+      "count": 44
     },
     {
-      "word": "polisim-pirenena",
-      "count": 8
+      "word": "wilhelm",
+      "count": 44
     },
     {
-      "word": "didiny",
-      "count": 8
+      "word": "herbert",
+      "count": 44
     },
     {
-      "word": "roma",
-      "count": 8
+      "word": "septembre",
+      "count": 44
     },
     {
-      "word": "solontena",
-      "count": 8
+      "word": "tongavan'ny",
+      "count": 44
     },
     {
-      "word": "maimaimpoana",
-      "count": 8
+      "word": "volapoky",
+      "count": 44
     },
     {
-      "word": "fahombiazana",
-      "count": 8
+      "word": "jiangsu",
+      "count": 44
     },
     {
-      "word": "monte-carlo",
-      "count": 8
+      "word": "manoratra",
+      "count": 43
     },
     {
-      "word": "bisikileta",
-      "count": 8
+      "word": "mifototra",
+      "count": 43
     },
     {
-      "word": "ataony",
-      "count": 8
+      "word": "fanisana",
+      "count": 43
     },
     {
-      "word": "fizahana",
-      "count": 8
+      "word": "lehilahy",
+      "count": 43
     },
     {
-      "word": "famatsiana",
-      "count": 8
+      "word": "indianina",
+      "count": 43
     },
     {
-      "word": "masinina",
-      "count": 8
+      "word": "eorôpeanina",
+      "count": 43
     },
     {
-      "word": "restaurant",
-      "count": 8
+      "word": "serbia",
+      "count": 43
     },
     {
-      "word": "laem",
-      "count": 8
+      "word": "mpamokatra",
+      "count": 43
     },
     {
-      "word": "voatery",
-      "count": 8
+      "word": "ela",
+      "count": 43
     },
     {
-      "word": "an-dakozia",
-      "count": 8
+      "word": "christian",
+      "count": 43
     },
     {
-      "word": "fiadanana",
-      "count": 8
+      "word": "isaky",
+      "count": 43
     },
     {
-      "word": "fizahantany",
-      "count": 8
+      "word": "vokatra",
+      "count": 43
     },
     {
-      "word": "fanodinana",
-      "count": 8
+      "word": "seranam-piaramanidina",
+      "count": 43
     },
     {
-      "word": "morontsiraka",
-      "count": 8
+      "word": "lohataona",
+      "count": 43
     },
     {
-      "word": "ltd",
-      "count": 8
+      "word": "mpampindrana",
+      "count": 43
     },
     {
-      "word": "simika",
-      "count": 8
+      "word": "bob",
+      "count": 43
     },
     {
-      "word": "basy",
-      "count": 8
+      "word": "fanononana",
+      "count": 43
     },
     {
-      "word": "mihintsy",
-      "count": 8
+      "word": "isam-ponina",
+      "count": 43
     },
     {
-      "word": "fihetsika",
-      "count": 8
+      "word": "rahona",
+      "count": 43
     },
     {
-      "word": "manatsara",
-      "count": 8
+      "word": "faran",
+      "count": 42
     },
     {
-      "word": "fiarahamonina",
-      "count": 8
+      "word": "arakaraky",
+      "count": 42
     },
     {
-      "word": "menaka",
-      "count": 8
+      "word": "mivantana",
+      "count": 42
+    },
+    {
+      "word": "pôlônia",
+      "count": 42
+    },
+    {
+      "word": "faritr",
+      "count": 42
+    },
+    {
+      "word": "tafiditra",
+      "count": 42
+    },
+    {
+      "word": "nataon'i",
+      "count": 42
+    },
+    {
+      "word": "google",
+      "count": 42
+    },
+    {
+      "word": "fiaramanidina",
+      "count": 42
+    },
+    {
+      "word": "afa-tsy",
+      "count": 42
+    },
+    {
+      "word": "mpanjakavavy",
+      "count": 42
+    },
+    {
+      "word": "niverina",
+      "count": 42
+    },
+    {
+      "word": "teratany",
+      "count": 42
+    },
+    {
+      "word": "labiera",
+      "count": 42
+    },
+    {
+      "word": "marôka",
+      "count": 42
+    },
+    {
+      "word": "alexandre",
+      "count": 42
+    },
+    {
+      "word": "filazantsara",
+      "count": 42
+    },
+    {
+      "word": "ambohidrabiby",
+      "count": 42
+    },
+    {
+      "word": "koreanina",
+      "count": 42
+    },
+    {
+      "word": "relative",
+      "count": 42
+    },
+    {
+      "word": "modalités",
+      "count": 42
+    },
+    {
+      "word": "nipetraka",
+      "count": 41
+    },
+    {
+      "word": "fankalazana",
+      "count": 41
+    },
+    {
+      "word": "madinika",
+      "count": 41
+    },
+    {
+      "word": "fanamarihana",
+      "count": 41
+    },
+    {
+      "word": "somary",
+      "count": 41
+    },
+    {
+      "word": "mpandrindra",
+      "count": 41
+    },
+    {
+      "word": "maivana",
+      "count": 41
+    },
+    {
+      "word": "zanaka",
+      "count": 41
     },
     {
       "word": "matanjaka",
-      "count": 8
+      "count": 41
     },
     {
-      "word": "biby",
-      "count": 8
+      "word": "an-toerana",
+      "count": 41
     },
     {
-      "word": "mivoaka",
-      "count": 8
+      "word": "oniversite",
+      "count": 41
     },
     {
-      "word": "mpankafy",
-      "count": 8
+      "word": "fanjanahan-tany",
+      "count": 41
     },
     {
-      "word": "fiainanao",
-      "count": 8
+      "word": "nandritry",
+      "count": 41
     },
     {
-      "word": "koreana",
-      "count": 8
+      "word": "national",
+      "count": 41
     },
     {
-      "word": "memfisy",
-      "count": 8
+      "word": "tailandy",
+      "count": 41
     },
     {
-      "word": "anisan",
-      "count": 8
+      "word": "franz",
+      "count": 41
     },
     {
-      "word": "minisiteran",
-      "count": 8
+      "word": "italiana",
+      "count": 41
     },
     {
-      "word": "nataon",
-      "count": 8
+      "word": "fandikana",
+      "count": 41
     },
     {
-      "word": "ahafahanao",
-      "count": 8
+      "word": "nepaly",
+      "count": 41
     },
     {
-      "word": "zandary",
-      "count": 8
+      "word": "bill",
+      "count": 41
     },
     {
-      "word": "mahatratra",
-      "count": 8
+      "word": "hebreo",
+      "count": 41
     },
     {
-      "word": "maha",
-      "count": 8
+      "word": "collectivités",
+      "count": 41
     },
     {
-      "word": "mockups",
-      "count": 8
+      "word": "ainsi",
+      "count": 41
     },
     {
-      "word": "voasambotra",
-      "count": 8
+      "word": "endriky",
+      "count": 40
     },
     {
-      "word": "mampiavaka",
-      "count": 7
+      "word": "tamba-nosy",
+      "count": 40
     },
     {
-      "word": "raisina",
-      "count": 7
+      "word": "soahily",
+      "count": 40
     },
     {
-      "word": "paositra",
-      "count": 7
+      "word": "voambolana",
+      "count": 40
     },
     {
-      "word": "tandrefana",
-      "count": 7
+      "word": "moa",
+      "count": 40
     },
     {
-      "word": "anisan'izany",
-      "count": 7
+      "word": "karazany",
+      "count": 40
     },
     {
-      "word": "mpandraharaha",
-      "count": 7
+      "word": "fanavaozana",
+      "count": 40
+    },
+    {
+      "word": "sisintany",
+      "count": 40
+    },
+    {
+      "word": "tamin'izany",
+      "count": 40
+    },
+    {
+      "word": "mahazatra",
+      "count": 40
+    },
+    {
+      "word": "mahatonga",
+      "count": 40
+    },
+    {
+      "word": "lisitry",
+      "count": 40
+    },
+    {
+      "word": "libia",
+      "count": 40
+    },
+    {
+      "word": "kolikoly",
+      "count": 40
+    },
+    {
+      "word": "alina",
+      "count": 40
+    },
+    {
+      "word": "an-tsehatra",
+      "count": 40
+    },
+    {
+      "word": "marcel",
+      "count": 40
+    },
+    {
+      "word": "mpanjakan",
+      "count": 40
+    },
+    {
+      "word": "hafanana",
+      "count": 40
+    },
+    {
+      "word": "web",
+      "count": 40
+    },
+    {
+      "word": "mediawiki",
+      "count": 40
+    },
+    {
+      "word": "territoriales",
+      "count": 40
+    },
+    {
+      "word": "décentralisées",
+      "count": 40
+    },
+    {
+      "word": "fonctionnement",
+      "count": 40
+    },
+    {
+      "word": "leurs",
+      "count": 40
+    },
+    {
+      "word": "fikambanam-pampiasa",
+      "count": 40
+    },
+    {
+      "word": "hoy",
+      "count": 39
+    },
+    {
+      "word": "miova",
+      "count": 39
+    },
+    {
+      "word": "sarotra",
+      "count": 39
+    },
+    {
+      "word": "maria",
+      "count": 39
+    },
+    {
+      "word": "karatra",
+      "count": 39
+    },
+    {
+      "word": "maharitra",
+      "count": 39
+    },
+    {
+      "word": "fitantanana",
+      "count": 39
+    },
+    {
+      "word": "didier",
+      "count": 39
+    },
+    {
+      "word": "fitsarana",
+      "count": 39
+    },
+    {
+      "word": "tiako",
+      "count": 39
+    },
+    {
+      "word": "avaratr",
+      "count": 39
+    },
+    {
+      "word": "ôrtôdôksa",
+      "count": 39
+    },
+    {
+      "word": "otto",
+      "count": 39
+    },
+    {
+      "word": "salt",
+      "count": 39
+    },
+    {
+      "word": "quebec",
+      "count": 39
+    },
+    {
+      "word": "aterineto",
+      "count": 38
+    },
+    {
+      "word": "ianao",
+      "count": 38
+    },
+    {
+      "word": "indraindray",
+      "count": 38
+    },
+    {
+      "word": "mahay",
+      "count": 38
+    },
+    {
+      "word": "fahefatra",
+      "count": 38
+    },
+    {
+      "word": "malta",
+      "count": 38
+    },
+    {
+      "word": "amin'izany",
+      "count": 38
+    },
+    {
+      "word": "dika",
+      "count": 38
+    },
+    {
+      "word": "ampiasain",
+      "count": 38
+    },
+    {
+      "word": "voankazo",
+      "count": 38
+    },
+    {
+      "word": "razana",
+      "count": 38
+    },
+    {
+      "word": "nomena",
+      "count": 38
+    },
+    {
+      "word": "lalàm-panorenana",
+      "count": 38
+    },
+    {
+      "word": "saika",
+      "count": 38
+    },
+    {
+      "word": "fohy",
+      "count": 38
+    },
+    {
+      "word": "rainy",
+      "count": 38
+    },
+    {
+      "word": "claude",
+      "count": 38
+    },
+    {
+      "word": "lee",
+      "count": 38
+    },
+    {
+      "word": "fanoharana",
+      "count": 38
+    },
+    {
+      "word": "fanjakany",
+      "count": 38
+    },
+    {
+      "word": "fahaleovan-tenany",
+      "count": 38
+    },
+    {
+      "word": "raki-kira",
+      "count": 38
+    },
+    {
+      "word": "kilalao",
+      "count": 38
+    },
+    {
+      "word": "japàna",
+      "count": 38
+    },
+    {
+      "word": "desimaly",
+      "count": 38
+    },
+    {
+      "word": "miresaka",
+      "count": 37
     }
-  ],
-  "source": "CommonLID TSV + FLORES+ (dev+devtest)",
-  "total_tokens": 60643,
-  "unique_tokens": 9729
+  ]
 }

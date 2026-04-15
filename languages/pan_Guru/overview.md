@@ -23,3 +23,19 @@ language — three tones distinguished phonetically but not written.
 Gurmukhi is closely associated with the **Guru Granth Sahib**, the central
 religious text of Sikhism. Literary Punjabi flourished with Sufi and Sikh
 poetry from the 15th century onward.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://pa.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.ajitjalandhar.com/` — Ajit Jalandhar — Punjabi daily — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://pa.wikipedia.org/` — Punjabi Wikipedia (cultural)
+- `https://www.ajitjalandhar.com/` — Ajit Jalandhar — Punjabi daily (news)
+- `https://punjab.gov.in/` — Government of Punjab (gov)

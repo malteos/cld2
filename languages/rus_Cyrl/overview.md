@@ -28,3 +28,19 @@ writing.
 Russian has a long literary tradition from the 11th century (Old East Slavic),
 codified in its modern form by Lomonosov and Pushkin. It remains a major
 language of science, diplomacy and Orthodox Christianity.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://ru.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://meduza.io/` — Meduza — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://ru.wikipedia.org/` — Russian Wikipedia (cultural)
+- `https://government.ru/` — Government of the Russian Federation (gov)
+- `https://meduza.io/` — Meduza (news)

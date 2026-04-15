@@ -11,3 +11,18 @@ Uses the 26-letter Latin alphabet; the dominant modern standard is the *grafia c
 ## Status
 
 Occitan is recognised as a regional language in France without co-official status at the national level. Aranese (Gascon) is co-official in the Val d'Aran and protected throughout Catalonia. Six main dialects: Gascon (incl. Aranese), Languedocien, Provençal, Auvergnat, Limousin, Vivaro-Alpin.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://oc.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.jornalet.com/` — Jornalet — Occitan news — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://oc.wikipedia.org/` — Occitan Wikipedia (cultural)
+- `https://www.jornalet.com/` — Jornalet — Occitan news (news)

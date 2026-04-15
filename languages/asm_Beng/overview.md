@@ -11,3 +11,19 @@ Assamese is written in the Eastern Nāgarī script (Unicode block U+0980–U+09F
 ## History and status
 
 Classical Assamese has a documented history from the 13th-century *Charyāpada* tradition and the Vaishnava movement of Sankardeva (16th c.). The Assamese printing press was pioneered at Serampore in 1813 and later at Sibsagar by American Baptist missionaries, who standardised the modern written form.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://as.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.asomiyapratidin.in/` — Asomiya Pratidin — Assamese daily — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://as.wikipedia.org/` — Assamese Wikipedia (cultural)
+- `https://assam.gov.in/` — Government of Assam (Assamese publications) (gov)
+- `https://www.asomiyapratidin.in/` — Asomiya Pratidin — Assamese daily (news)

@@ -26,3 +26,17 @@ vs. Tagalog **isa**, **magayon** 'beautiful' vs. **maganda**).
 `bik` is the ISO-639-3 macrolanguage tag that spans Central Bikol (`bcl`),
 Rinconada Bikol, Albay Bikol, Miraya Bikol, Masbateño, and other varieties.
 Web text tagged `bik` may be any of them.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://bcl.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+
+### Catalogued source candidates
+
+- `https://bcl.wikipedia.org/` — Central Bikol Wikipedia (proxy for macro) (cultural)
+- `https://www.pia.gov.ph/` — Philippine Information Agency regional releases (gov)

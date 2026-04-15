@@ -11,3 +11,19 @@ Marathi uses the Devanagari abugida (block U+0900–U+097F) in a slightly adapte
 ## History and status
 
 Marathi is one of the oldest Indo-Aryan literary languages, with inscriptions from the 11th century and a rich literary corpus from the Bhakti poets (Dnyaneshwar, Tukaram, Eknath, Ramdas). Modern literary Marathi developed in the 19th century alongside printing in Bombay/Pune. Marathi received the status of *Classical Language of India* in 2024.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://mr.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.loksatta.com/` — Loksatta — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://mr.wikipedia.org/` — Marathi Wikipedia (cultural)
+- `https://www.loksatta.com/` — Loksatta (news)
+- `https://www.maharashtra.gov.in/` — Government of Maharashtra (gov)

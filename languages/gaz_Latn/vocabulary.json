@@ -1,4009 +1,4012 @@
 {
   "code": "gaz",
   "name": "West Central Oromo",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (om.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 374213,
+  "unique_tokens": 63107,
   "words": [
     {
       "word": "kan",
-      "count": 851
+      "count": 7679
     },
     {
       "word": "fi",
-      "count": 763
+      "count": 6726
     },
     {
       "word": "akka",
-      "count": 643
-    },
-    {
-      "word": "ta",
-      "count": 481
-    },
-    {
-      "word": "yeroo",
-      "count": 386
+      "count": 4165
     },
     {
       "word": "hin",
-      "count": 348
-    },
-    {
-      "word": "keessatti",
-      "count": 285
-    },
-    {
-      "word": "irratti",
-      "count": 251
-    },
-    {
-      "word": "keessa",
-      "count": 249
-    },
-    {
-      "word": "ee",
-      "count": 247
-    },
-    {
-      "word": "isaa",
-      "count": 216
-    },
-    {
-      "word": "irraa",
-      "count": 213
-    },
-    {
-      "word": "danda",
-      "count": 211
-    },
-    {
-      "word": "gara",
-      "count": 209
-    },
-    {
-      "word": "tokko",
-      "count": 196
-    },
-    {
-      "word": "itti",
-      "count": 191
-    },
-    {
-      "word": "ture",
-      "count": 178
-    },
-    {
-      "word": "isaanii",
-      "count": 162
-    },
-    {
-      "word": "baay",
-      "count": 160
-    },
-    {
-      "word": "irra",
-      "count": 158
-    },
-    {
-      "word": "bakka",
-      "count": 157
-    },
-    {
-      "word": "keessaa",
-      "count": 155
-    },
-    {
-      "word": "akkasumas",
-      "count": 148
-    },
-    {
-      "word": "waan",
-      "count": 147
-    },
-    {
-      "word": "inni",
-      "count": 146
-    },
-    {
-      "word": "isa",
-      "count": 146
-    },
-    {
-      "word": "garuu",
-      "count": 141
-    },
-    {
-      "word": "aa",
-      "count": 141
-    },
-    {
-      "word": "uu",
-      "count": 135
-    },
-    {
-      "word": "ni",
-      "count": 125
-    },
-    {
-      "word": "dha",
-      "count": 125
-    },
-    {
-      "word": "qabu",
-      "count": 121
+      "count": 4076
     },
     {
       "word": "yoo",
-      "count": 119
+      "count": 2457
     },
     {
-      "word": "jiru",
-      "count": 117
+      "word": "keessatti",
+      "count": 2351
     },
     {
-      "word": "waliin",
-      "count": 117
+      "word": "yeroo",
+      "count": 2266
     },
     {
-      "word": "naannoo",
-      "count": 116
+      "word": "tokko",
+      "count": 2089
     },
     {
-      "word": "kun",
-      "count": 116
-    },
-    {
-      "word": "isaan",
-      "count": 115
-    },
-    {
-      "word": "karaa",
-      "count": 105
-    },
-    {
-      "word": "an",
-      "count": 100
-    },
-    {
-      "word": "adda",
-      "count": 98
-    },
-    {
-      "word": "kanneen",
-      "count": 96
-    },
-    {
-      "word": "booda",
-      "count": 93
-    },
-    {
-      "word": "bara",
-      "count": 91
-    },
-    {
-      "word": "wal",
-      "count": 90
-    },
-    {
-      "word": "mana",
-      "count": 87
-    },
-    {
-      "word": "haala",
-      "count": 85
+      "word": "isaa",
+      "count": 1980
     },
     {
       "word": "kana",
-      "count": 83
+      "count": 1929
     },
     {
-      "word": "tti",
-      "count": 80
+      "word": "waan",
+      "count": 1881
     },
     {
-      "word": "yookaan",
-      "count": 79
+      "word": "keessa",
+      "count": 1865
     },
     {
-      "word": "namoota",
-      "count": 79
+      "word": "bara",
+      "count": 1683
     },
     {
-      "word": "ykn",
-      "count": 78
+      "word": "itti",
+      "count": 1664
     },
     {
-      "word": "walitti",
-      "count": 78
+      "word": "ture",
+      "count": 1653
     },
     {
-      "word": "jira",
-      "count": 78
+      "word": "gara",
+      "count": 1592
     },
     {
-      "word": "ga",
-      "count": 78
+      "word": "oromoo",
+      "count": 1571
     },
     {
-      "word": "hedduu",
-      "count": 77
+      "word": "ta",
+      "count": 1521
     },
     {
-      "word": "malee",
-      "count": 73
+      "word": "irratti",
+      "count": 1474
     },
     {
-      "word": "qaba",
-      "count": 71
+      "word": "kun",
+      "count": 1424
     },
     {
-      "word": "bu",
-      "count": 71
+      "word": "irraa",
+      "count": 1419
     },
     {
-      "word": "baayee",
-      "count": 68
+      "word": "keessaa",
+      "count": 1374
+    },
+    {
+      "word": "dha",
+      "count": 1238
+    },
+    {
+      "word": "ta'u",
+      "count": 1236
     },
     {
       "word": "of",
-      "count": 67
+      "count": 1120
     },
     {
-      "word": "addunyaa",
-      "count": 64
-    },
-    {
-      "word": "guddaa",
-      "count": 62
-    },
-    {
-      "word": "hunda",
-      "count": 61
+      "word": "ykn",
+      "count": 1110
     },
     {
       "word": "nama",
-      "count": 61
-    },
-    {
-      "word": "yookiin",
-      "count": 61
-    },
-    {
-      "word": "caalaa",
-      "count": 60
-    },
-    {
-      "word": "hanga",
-      "count": 59
-    },
-    {
-      "word": "ol",
-      "count": 57
-    },
-    {
-      "word": "hundaa",
-      "count": 57
-    },
-    {
-      "word": "sababa",
-      "count": 57
-    },
-    {
-      "word": "bishaan",
-      "count": 55
-    },
-    {
-      "word": "sana",
-      "count": 54
-    },
-    {
-      "word": "ka",
-      "count": 54
-    },
-    {
-      "word": "biyya",
-      "count": 54
-    },
-    {
-      "word": "warra",
-      "count": 53
-    },
-    {
-      "word": "qaban",
-      "count": 52
-    },
-    {
-      "word": "dura",
-      "count": 51
+      "count": 1026
     },
     {
       "word": "afaan",
-      "count": 51
+      "count": 1010
     },
     {
-      "word": "erga",
-      "count": 50
+      "word": "jiru",
+      "count": 1005
     },
     {
-      "word": "uun",
-      "count": 50
+      "word": "qabu",
+      "count": 982
     },
     {
-      "word": "ba",
-      "count": 48
+      "word": "bakka",
+      "count": 968
     },
     {
-      "word": "lafa",
-      "count": 47
+      "word": "ni",
+      "count": 952
     },
     {
-      "word": "immoo",
-      "count": 47
+      "word": "garuu",
+      "count": 943
     },
     {
-      "word": "illee",
-      "count": 46
+      "word": "isa",
+      "count": 927
     },
     {
-      "word": "akkuma",
-      "count": 45
+      "word": "booda",
+      "count": 865
     },
     {
-      "word": "jalqabaa",
-      "count": 45
+      "word": "koo",
+      "count": 860
     },
     {
-      "word": "osoo",
-      "count": 45
+      "word": "irra",
+      "count": 849
     },
     {
-      "word": "turan",
-      "count": 45
+      "word": "isaanii",
+      "count": 807
     },
     {
-      "word": "jiran",
-      "count": 44
+      "word": "na",
+      "count": 801
     },
     {
-      "word": "gadi",
-      "count": 43
-    },
-    {
-      "word": "muraasa",
-      "count": 43
-    },
-    {
-      "word": "addaa",
-      "count": 42
-    },
-    {
-      "word": "biyyoota",
-      "count": 42
-    },
-    {
-      "word": "hojii",
-      "count": 42
-    },
-    {
-      "word": "iyyuu",
-      "count": 42
-    },
-    {
-      "word": "biroo",
-      "count": 41
-    },
-    {
-      "word": "qilleensa",
-      "count": 41
-    },
-    {
-      "word": "si",
-      "count": 41
-    },
-    {
-      "word": "jechuun",
-      "count": 40
-    },
-    {
-      "word": "sa",
-      "count": 40
-    },
-    {
-      "word": "deebi",
-      "count": 40
-    },
-    {
-      "word": "qaama",
-      "count": 40
-    },
-    {
-      "word": "namoonni",
-      "count": 39
-    },
-    {
-      "word": "waa",
-      "count": 39
-    },
-    {
-      "word": "amma",
-      "count": 39
-    },
-    {
-      "word": "haa",
-      "count": 39
-    },
-    {
-      "word": "baayyee",
-      "count": 39
-    },
-    {
-      "word": "aadaa",
-      "count": 39
-    },
-    {
-      "word": "hedduun",
-      "count": 38
-    },
-    {
-      "word": "kutaa",
-      "count": 38
-    },
-    {
-      "word": "to",
-      "count": 38
-    },
-    {
-      "word": "namni",
-      "count": 38
-    },
-    {
-      "word": "anii",
-      "count": 38
-    },
-    {
-      "word": "lama",
-      "count": 37
-    },
-    {
-      "word": "waggaa",
-      "count": 37
-    },
-    {
-      "word": "gaafa",
-      "count": 37
-    },
-    {
-      "word": "guyyaa",
-      "count": 37
-    },
-    {
-      "word": "humna",
-      "count": 37
-    },
-    {
-      "word": "balaa",
-      "count": 37
-    },
-    {
-      "word": "du",
-      "count": 36
-    },
-    {
-      "word": "kee",
-      "count": 36
-    },
-    {
-      "word": "haaraa",
-      "count": 35
-    },
-    {
-      "word": "ffaa",
-      "count": 35
-    },
-    {
-      "word": "magaalaa",
-      "count": 35
-    },
-    {
-      "word": "ji",
-      "count": 35
-    },
-    {
-      "word": "mala",
-      "count": 35
-    },
-    {
-      "word": "hamma",
-      "count": 35
-    },
-    {
-      "word": "cabbii",
-      "count": 35
-    },
-    {
-      "word": "bakkee",
-      "count": 35
-    },
-    {
-      "word": "garee",
-      "count": 34
-    },
-    {
-      "word": "wantoota",
-      "count": 34
-    },
-    {
-      "word": "miti",
-      "count": 34
-    },
-    {
-      "word": "mul",
-      "count": 34
-    },
-    {
-      "word": "akkasuma",
-      "count": 34
-    },
-    {
-      "word": "seenaa",
-      "count": 33
-    },
-    {
-      "word": "lafaa",
-      "count": 33
-    },
-    {
-      "word": "seera",
-      "count": 32
-    },
-    {
-      "word": "alaa",
-      "count": 32
-    },
-    {
-      "word": "qofa",
-      "count": 32
-    },
-    {
-      "word": "ittiin",
-      "count": 32
-    },
-    {
-      "word": "xiqqoo",
-      "count": 32
-    },
-    {
-      "word": "aan",
-      "count": 32
-    },
-    {
-      "word": "jalqaba",
-      "count": 32
-    },
-    {
-      "word": "nyaata",
-      "count": 32
-    },
-    {
-      "word": "iddoo",
-      "count": 31
-    },
-    {
-      "word": "kanaaf",
-      "count": 31
-    },
-    {
-      "word": "sirna",
-      "count": 31
-    },
-    {
-      "word": "gaarii",
-      "count": 31
-    },
-    {
-      "word": "bal",
-      "count": 31
-    },
-    {
-      "word": "ho",
-      "count": 30
-    },
-    {
-      "word": "yaada",
-      "count": 29
-    },
-    {
-      "word": "duraa",
-      "count": 29
-    },
-    {
-      "word": "jedhe",
-      "count": 29
-    },
-    {
-      "word": "namootni",
-      "count": 29
-    },
-    {
-      "word": "tokkoo",
-      "count": 28
-    },
-    {
-      "word": "jaarraa",
-      "count": 28
-    },
-    {
-      "word": "waggoota",
-      "count": 28
-    },
-    {
-      "word": "mootummaa",
-      "count": 28
-    },
-    {
-      "word": "muraasni",
-      "count": 28
-    },
-    {
-      "word": "buufata",
-      "count": 27
-    },
-    {
-      "word": "biraa",
-      "count": 27
-    },
-    {
-      "word": "filannoo",
-      "count": 27
-    },
-    {
-      "word": "ishee",
-      "count": 27
-    },
-    {
-      "word": "bishaanii",
-      "count": 27
-    },
-    {
-      "word": "warri",
-      "count": 27
-    },
-    {
-      "word": "tarii",
-      "count": 27
-    },
-    {
-      "word": "garaa",
-      "count": 26
-    },
-    {
-      "word": "mo",
-      "count": 26
-    },
-    {
-      "word": "harka",
-      "count": 26
-    },
-    {
-      "word": "cimaa",
-      "count": 26
-    },
-    {
-      "word": "sadarkaa",
-      "count": 26
-    },
-    {
-      "word": "adeemsa",
-      "count": 26
-    },
-    {
-      "word": "warreen",
-      "count": 25
-    },
-    {
-      "word": "rakkoo",
-      "count": 25
-    },
-    {
-      "word": "sammuu",
-      "count": 25
-    },
-    {
-      "word": "uuf",
-      "count": 25
-    },
-    {
-      "word": "wajjin",
-      "count": 24
-    },
-    {
-      "word": "daandii",
-      "count": 24
-    },
-    {
-      "word": "sun",
-      "count": 24
-    },
-    {
-      "word": "kanaa",
-      "count": 24
-    },
-    {
-      "word": "argamu",
-      "count": 24
-    },
-    {
-      "word": "een",
-      "count": 24
-    },
-    {
-      "word": "beekamu",
-      "count": 24
-    },
-    {
-      "word": "jedhu",
-      "count": 24
-    },
-    {
-      "word": "ilaalcha",
-      "count": 24
-    },
-    {
-      "word": "inaan",
-      "count": 24
-    },
-    {
-      "word": "ati",
-      "count": 24
-    },
-    {
-      "word": "kibbaa",
-      "count": 24
-    },
-    {
-      "word": "namaa",
-      "count": 23
-    },
-    {
-      "word": "fayyaa",
-      "count": 23
-    },
-    {
-      "word": "waraana",
-      "count": 23
-    },
-    {
-      "word": "gidduu",
-      "count": 23
-    },
-    {
-      "word": "dabalataa",
-      "count": 23
-    },
-    {
-      "word": "galaanaa",
-      "count": 23
-    },
-    {
-      "word": "bira",
-      "count": 22
-    },
-    {
-      "word": "daangaa",
-      "count": 22
-    },
-    {
-      "word": "konkolaataa",
-      "count": 22
-    },
-    {
-      "word": "har",
-      "count": 22
-    },
-    {
-      "word": "eef",
-      "count": 22
-    },
-    {
-      "word": "bakkeewwan",
-      "count": 22
-    },
-    {
-      "word": "akkaataa",
-      "count": 21
-    },
-    {
-      "word": "barnoota",
-      "count": 21
-    },
-    {
-      "word": "tokkoon",
-      "count": 21
-    },
-    {
-      "word": "qarqara",
-      "count": 21
-    },
-    {
-      "word": "awurooppaa",
-      "count": 21
-    },
-    {
-      "word": "meeshaalee",
-      "count": 21
-    },
-    {
-      "word": "sirriitti",
-      "count": 21
-    },
-    {
-      "word": "kaaba",
-      "count": 20
-    },
-    {
-      "word": "gad",
-      "count": 20
-    },
-    {
-      "word": "guddaan",
-      "count": 20
-    },
-    {
-      "word": "lamaan",
-      "count": 20
-    },
-    {
-      "word": "maayilii",
-      "count": 20
-    },
-    {
-      "word": "guutuu",
-      "count": 20
-    },
-    {
-      "word": "daa",
-      "count": 20
-    },
-    {
-      "word": "hundi",
-      "count": 20
-    },
-    {
-      "word": "imala",
-      "count": 20
-    },
-    {
-      "word": "beekamaa",
-      "count": 20
-    },
-    {
-      "word": "argaman",
-      "count": 20
-    },
-    {
-      "word": "ammoo",
-      "count": 19
-    },
-    {
-      "word": "qorannoo",
-      "count": 19
-    },
-    {
-      "word": "sagalee",
-      "count": 19
-    },
-    {
-      "word": "agarsiisa",
-      "count": 19
-    },
-    {
-      "word": "gareen",
-      "count": 19
-    },
-    {
-      "word": "qilleensaa",
-      "count": 19
-    },
-    {
-      "word": "yooma",
-      "count": 19
-    },
-    {
-      "word": "dhugaa",
-      "count": 19
-    },
-    {
-      "word": "dhimma",
-      "count": 18
-    },
-    {
-      "word": "bahaa",
-      "count": 18
-    },
-    {
-      "word": "utuu",
-      "count": 18
-    },
-    {
-      "word": "sochii",
-      "count": 18
-    },
-    {
-      "word": "seeraa",
-      "count": 18
-    },
-    {
-      "word": "jedhamee",
-      "count": 18
-    },
-    {
-      "word": "jala",
-      "count": 18
+      "word": "mana",
+      "count": 797
     },
     {
       "word": "kunis",
-      "count": 18
+      "count": 771
     },
     {
-      "word": "amantaa",
-      "count": 18
+      "word": "hanga",
+      "count": 753
     },
     {
-      "word": "amala",
-      "count": 18
+      "word": "qaba",
+      "count": 752
     },
     {
-      "word": "darbe",
-      "count": 18
+      "word": "malee",
+      "count": 738
     },
     {
-      "word": "deemu",
-      "count": 18
+      "word": "adda",
+      "count": 732
     },
     {
-      "word": "mataa",
-      "count": 18
+      "word": "inni",
+      "count": 731
     },
     {
-      "word": "argama",
-      "count": 18
+      "word": "ee",
+      "count": 720
     },
     {
-      "word": "wajjiin",
-      "count": 18
+      "word": "naannoo",
+      "count": 718
     },
     {
-      "word": "odeeffannoo",
-      "count": 18
-    },
-    {
-      "word": "nuti",
-      "count": 18
-    },
-    {
-      "word": "wanta",
-      "count": 18
-    },
-    {
-      "word": "dandeessa",
-      "count": 18
-    },
-    {
-      "word": "xixiqqoo",
-      "count": 18
-    },
-    {
-      "word": "naanna",
-      "count": 18
-    },
-    {
-      "word": "dhuma",
-      "count": 17
-    },
-    {
-      "word": "jecha",
-      "count": 17
-    },
-    {
-      "word": "duraanii",
-      "count": 17
-    },
-    {
-      "word": "ameerikaa",
-      "count": 17
-    },
-    {
-      "word": "suuraa",
-      "count": 17
-    },
-    {
-      "word": "durii",
-      "count": 17
-    },
-    {
-      "word": "biyyaalessaa",
-      "count": 17
-    },
-    {
-      "word": "dhuunfaa",
-      "count": 17
-    },
-    {
-      "word": "gatii",
-      "count": 17
-    },
-    {
-      "word": "dhiibbaa",
-      "count": 17
-    },
-    {
-      "word": "achi",
-      "count": 17
-    },
-    {
-      "word": "giddu",
-      "count": 17
-    },
-    {
-      "word": "isii",
-      "count": 17
-    },
-    {
-      "word": "galaana",
-      "count": 17
-    },
-    {
-      "word": "isheen",
-      "count": 17
-    },
-    {
-      "word": "jedhamu",
-      "count": 17
-    },
-    {
-      "word": "fagoo",
-      "count": 17
-    },
-    {
-      "word": "laga",
-      "count": 17
-    },
-    {
-      "word": "ala",
-      "count": 16
-    },
-    {
-      "word": "kanaan",
-      "count": 16
+      "word": "biyya",
+      "count": 715
     },
     {
       "word": "aanaa",
-      "count": 16
+      "count": 703
     },
     {
-      "word": "deebii",
-      "count": 16
+      "word": "tti",
+      "count": 691
     },
     {
-      "word": "magaala",
-      "count": 16
+      "word": "ta'e",
+      "count": 659
     },
     {
-      "word": "as",
-      "count": 16
+      "word": "wal",
+      "count": 651
     },
     {
-      "word": "kudha",
-      "count": 16
+      "word": "karaa",
+      "count": 649
     },
     {
-      "word": "afur",
-      "count": 16
+      "word": "guddaa",
+      "count": 636
     },
     {
-      "word": "malu",
-      "count": 16
+      "word": "aa",
+      "count": 632
     },
     {
-      "word": "umsa",
-      "count": 16
+      "word": "walitti",
+      "count": 611
     },
     {
-      "word": "tajaajila",
-      "count": 16
+      "word": "jira",
+      "count": 602
     },
     {
-      "word": "saffisa",
-      "count": 16
+      "word": "the",
+      "count": 599
     },
     {
-      "word": "qabaachuu",
-      "count": 16
+      "word": "osoo",
+      "count": 595
     },
     {
-      "word": "kaabaa",
-      "count": 16
+      "word": "immoo",
+      "count": 585
     },
     {
-      "word": "yuunaayitid",
-      "count": 16
+      "word": "haa",
+      "count": 570
     },
     {
-      "word": "taatee",
-      "count": 16
+      "word": "sana",
+      "count": 570
     },
     {
-      "word": "hir",
-      "count": 16
+      "word": "jedhamu",
+      "count": 562
     },
     {
-      "word": "doonii",
-      "count": 16
+      "word": "isaan",
+      "count": 543
     },
     {
-      "word": "barbaachisaa",
-      "count": 16
+      "word": "itoophiyaa",
+      "count": 514
     },
     {
-      "word": "ina",
-      "count": 16
+      "word": "ammoo",
+      "count": 507
     },
     {
-      "word": "garaagaraa",
-      "count": 16
-    },
-    {
-      "word": "ti",
-      "count": 15
-    },
-    {
-      "word": "barnootaa",
-      "count": 15
-    },
-    {
-      "word": "wanti",
-      "count": 15
-    },
-    {
-      "word": "us",
-      "count": 15
-    },
-    {
-      "word": "ingilizii",
-      "count": 15
-    },
-    {
-      "word": "chaayinaa",
-      "count": 15
-    },
-    {
-      "word": "lamaa",
-      "count": 15
-    },
-    {
-      "word": "waraanaa",
-      "count": 15
-    },
-    {
-      "word": "dabalatee",
-      "count": 15
-    },
-    {
-      "word": "jedhanii",
-      "count": 15
-    },
-    {
-      "word": "qabxii",
-      "count": 15
-    },
-    {
-      "word": "kibba",
-      "count": 15
-    },
-    {
-      "word": "taa",
-      "count": 15
-    },
-    {
-      "word": "dhangala",
-      "count": 15
-    },
-    {
-      "word": "aniif",
-      "count": 15
-    },
-    {
-      "word": "jalaa",
-      "count": 15
-    },
-    {
-      "word": "ama",
-      "count": 15
-    },
-    {
-      "word": "isaas",
-      "count": 15
-    },
-    {
-      "word": "milkaa",
-      "count": 15
-    },
-    {
-      "word": "imalaa",
-      "count": 15
-    },
-    {
-      "word": "mi",
-      "count": 15
-    },
-    {
-      "word": "aatii",
-      "count": 14
-    },
-    {
-      "word": "sirrii",
-      "count": 14
-    },
-    {
-      "word": "darbee",
-      "count": 14
-    },
-    {
-      "word": "ifaa",
-      "count": 14
-    },
-    {
-      "word": "murtaa",
-      "count": 14
-    },
-    {
-      "word": "km",
-      "count": 14
-    },
-    {
-      "word": "seeraan",
-      "count": 14
-    },
-    {
-      "word": "meetira",
-      "count": 14
-    },
-    {
-      "word": "qabuu",
-      "count": 14
-    },
-    {
-      "word": "yaalii",
-      "count": 14
-    },
-    {
-      "word": "amu",
-      "count": 14
-    },
-    {
-      "word": "olaanaa",
-      "count": 14
-    },
-    {
-      "word": "akkas",
-      "count": 14
-    },
-    {
-      "word": "biyyaa",
-      "count": 14
-    },
-    {
-      "word": "manneen",
-      "count": 14
-    },
-    {
-      "word": "taane",
-      "count": 14
-    },
-    {
-      "word": "jedhamuun",
-      "count": 14
-    },
-    {
-      "word": "deemuu",
-      "count": 14
-    },
-    {
-      "word": "turte",
-      "count": 14
-    },
-    {
-      "word": "keenya",
-      "count": 14
-    },
-    {
-      "word": "barbaadu",
-      "count": 14
-    },
-    {
-      "word": "iinsa",
-      "count": 14
-    },
-    {
-      "word": "haaraan",
-      "count": 14
-    },
-    {
-      "word": "haalli",
-      "count": 14
-    },
-    {
-      "word": "yaa",
-      "count": 14
-    },
-    {
-      "word": "faransaay",
-      "count": 14
-    },
-    {
-      "word": "jalatti",
-      "count": 14
-    },
-    {
-      "word": "carraa",
-      "count": 14
-    },
-    {
-      "word": "dheeraa",
-      "count": 14
-    },
-    {
-      "word": "dhumaa",
-      "count": 14
-    },
-    {
-      "word": "muuxannoo",
-      "count": 14
-    },
-    {
-      "word": "bulchiinsa",
-      "count": 13
-    },
-    {
-      "word": "poolisiin",
-      "count": 13
-    },
-    {
-      "word": "lammaffaa",
-      "count": 13
-    },
-    {
-      "word": "meeshaa",
-      "count": 13
-    },
-    {
-      "word": "irraan",
-      "count": 13
-    },
-    {
-      "word": "tapha",
-      "count": 13
-    },
-    {
-      "word": "kubbaa",
-      "count": 13
-    },
-    {
-      "word": "manni",
-      "count": 13
-    },
-    {
-      "word": "ergaa",
-      "count": 13
-    },
-    {
-      "word": "ijoollee",
-      "count": 13
-    },
-    {
-      "word": "sanaa",
-      "count": 13
-    },
-    {
-      "word": "tokkotti",
-      "count": 13
-    },
-    {
-      "word": "turani",
-      "count": 13
-    },
-    {
-      "word": "jirti",
-      "count": 13
+      "word": "ishee",
+      "count": 506
     },
     {
       "word": "maqaa",
-      "count": 13
+      "count": 502
     },
     {
-      "word": "sirni",
-      "count": 13
+      "word": "magaalaa",
+      "count": 487
     },
     {
-      "word": "dhiisuu",
-      "count": 13
+      "word": "lafa",
+      "count": 480
     },
     {
-      "word": "gama",
-      "count": 13
+      "word": "amma",
+      "count": 474
     },
     {
-      "word": "kaa",
-      "count": 13
+      "word": "akkasumas",
+      "count": 473
     },
     {
-      "word": "jiraachuu",
-      "count": 13
+      "word": "seenaa",
+      "count": 473
     },
     {
-      "word": "innis",
-      "count": 13
-    },
-    {
-      "word": "isaatiin",
-      "count": 13
-    },
-    {
-      "word": "lakkoofsa",
-      "count": 13
-    },
-    {
-      "word": "afrikaa",
-      "count": 13
-    },
-    {
-      "word": "walii",
-      "count": 13
-    },
-    {
-      "word": "miidhaa",
-      "count": 13
-    },
-    {
-      "word": "ammas",
-      "count": 13
-    },
-    {
-      "word": "salphaa",
-      "count": 13
-    },
-    {
-      "word": "barbaada",
-      "count": 13
-    },
-    {
-      "word": "balali",
-      "count": 13
-    },
-    {
-      "word": "raadiyoo",
-      "count": 13
-    },
-    {
-      "word": "jedhan",
-      "count": 12
-    },
-    {
-      "word": "fayyadamuun",
-      "count": 12
-    },
-    {
-      "word": "walakkaa",
-      "count": 12
-    },
-    {
-      "word": "dhaabbata",
-      "count": 12
-    },
-    {
-      "word": "uudhaan",
-      "count": 12
-    },
-    {
-      "word": "isaani",
-      "count": 12
-    },
-    {
-      "word": "halkan",
-      "count": 12
-    },
-    {
-      "word": "jedhee",
-      "count": 12
-    },
-    {
-      "word": "ammaa",
-      "count": 12
-    },
-    {
-      "word": "argachuu",
-      "count": 12
-    },
-    {
-      "word": "jedhetti",
-      "count": 12
-    },
-    {
-      "word": "kunniin",
-      "count": 12
-    },
-    {
-      "word": "bilbila",
-      "count": 12
-    },
-    {
-      "word": "gochuu",
-      "count": 12
-    },
-    {
-      "word": "baayeen",
-      "count": 12
-    },
-    {
-      "word": "achii",
-      "count": 12
-    },
-    {
-      "word": "sanyii",
-      "count": 12
-    },
-    {
-      "word": "torban",
-      "count": 12
-    },
-    {
-      "word": "alatti",
-      "count": 12
-    },
-    {
-      "word": "biraan",
-      "count": 12
-    },
-    {
-      "word": "bilisa",
-      "count": 12
-    },
-    {
-      "word": "ibsa",
-      "count": 12
-    },
-    {
-      "word": "dhagaa",
-      "count": 12
-    },
-    {
-      "word": "dabalataan",
-      "count": 12
-    },
-    {
-      "word": "beekamoo",
-      "count": 12
-    },
-    {
-      "word": "bubbee",
-      "count": 12
-    },
-    {
-      "word": "qulqulluu",
-      "count": 12
-    },
-    {
-      "word": "yaalaa",
-      "count": 12
-    },
-    {
-      "word": "salphaatti",
-      "count": 12
-    },
-    {
-      "word": "suuta",
-      "count": 12
-    },
-    {
-      "word": "kam",
-      "count": 12
-    },
-    {
-      "word": "kuni",
-      "count": 12
-    },
-    {
-      "word": "in",
-      "count": 12
-    },
-    {
-      "word": "mootii",
-      "count": 12
-    },
-    {
-      "word": "beekaman",
-      "count": 12
-    },
-    {
-      "word": "qabda",
-      "count": 12
-    },
-    {
-      "word": "qaamaa",
-      "count": 12
-    },
-    {
-      "word": "keessattuu",
-      "count": 12
-    },
-    {
-      "word": "bineensota",
-      "count": 12
-    },
-    {
-      "word": "saayinsii",
-      "count": 11
-    },
-    {
-      "word": "sadii",
-      "count": 11
-    },
-    {
-      "word": "jireenya",
-      "count": 11
-    },
-    {
-      "word": "deemaa",
-      "count": 11
-    },
-    {
-      "word": "dinagdee",
-      "count": 11
-    },
-    {
-      "word": "atu",
-      "count": 11
-    },
-    {
-      "word": "ifa",
-      "count": 11
-    },
-    {
-      "word": "keessaatti",
-      "count": 11
-    },
-    {
-      "word": "argate",
-      "count": 11
-    },
-    {
-      "word": "maatii",
-      "count": 11
-    },
-    {
-      "word": "dhufu",
-      "count": 11
-    },
-    {
-      "word": "gadii",
-      "count": 11
-    },
-    {
-      "word": "kenna",
-      "count": 11
-    },
-    {
-      "word": "waliigaltee",
-      "count": 11
-    },
-    {
-      "word": "qofaa",
-      "count": 11
-    },
-    {
-      "word": "akkasumaas",
-      "count": 11
-    },
-    {
-      "word": "kennu",
-      "count": 11
-    },
-    {
-      "word": "nagaa",
-      "count": 11
-    },
-    {
-      "word": "oomisha",
-      "count": 11
-    },
-    {
-      "word": "waqtii",
-      "count": 11
-    },
-    {
-      "word": "lakkoofsi",
-      "count": 11
-    },
-    {
-      "word": "san",
-      "count": 11
-    },
-    {
-      "word": "turre",
-      "count": 11
-    },
-    {
-      "word": "xiqqaate",
-      "count": 11
-    },
-    {
-      "word": "badaa",
-      "count": 11
-    },
-    {
-      "word": "hafe",
-      "count": 11
-    },
-    {
-      "word": "deemsa",
-      "count": 11
-    },
-    {
-      "word": "sodaa",
-      "count": 11
-    },
-    {
-      "word": "sirritti",
-      "count": 11
-    },
-    {
-      "word": "manaa",
-      "count": 11
-    },
-    {
-      "word": "dandeettii",
-      "count": 11
-    },
-    {
-      "word": "bayyee",
-      "count": 11
-    },
-    {
-      "word": "uumuu",
-      "count": 11
-    },
-    {
-      "word": "caala",
-      "count": 11
-    },
-    {
-      "word": "jedhama",
-      "count": 11
-    },
-    {
-      "word": "gidduutti",
-      "count": 11
-    },
-    {
-      "word": "teessuma",
-      "count": 11
-    },
-    {
-      "word": "ijaarsa",
-      "count": 11
-    },
-    {
-      "word": "bineeldota",
-      "count": 11
-    },
-    {
-      "word": "godhamu",
-      "count": 11
-    },
-    {
-      "word": "dhugaatii",
-      "count": 11
-    },
-    {
-      "word": "aangoo",
-      "count": 10
-    },
-    {
-      "word": "daldalaa",
-      "count": 10
-    },
-    {
-      "word": "jijjiirama",
-      "count": 10
-    },
-    {
-      "word": "gosa",
-      "count": 10
-    },
-    {
-      "word": "xiqqaa",
-      "count": 10
-    },
-    {
-      "word": "dhukkuba",
-      "count": 10
-    },
-    {
-      "word": "kennuu",
-      "count": 10
-    },
-    {
-      "word": "gochaa",
-      "count": 10
-    },
-    {
-      "word": "wagga",
-      "count": 10
-    },
-    {
-      "word": "eera",
-      "count": 10
-    },
-    {
-      "word": "yeroon",
-      "count": 10
-    },
-    {
-      "word": "darban",
-      "count": 10
-    },
-    {
-      "word": "qabdi",
-      "count": 10
-    },
-    {
-      "word": "jedhanitti",
-      "count": 10
-    },
-    {
-      "word": "lola",
-      "count": 10
-    },
-    {
-      "word": "teessoo",
-      "count": 10
-    },
-    {
-      "word": "miiliyoona",
-      "count": 10
-    },
-    {
-      "word": "giddugala",
-      "count": 10
-    },
-    {
-      "word": "miseensa",
-      "count": 10
-    },
-    {
-      "word": "agarsiisu",
-      "count": 10
-    },
-    {
-      "word": "etti",
-      "count": 10
-    },
-    {
-      "word": "balaan",
-      "count": 10
-    },
-    {
-      "word": "dabalatu",
-      "count": 10
-    },
-    {
-      "word": "biyyoonni",
-      "count": 10
-    },
-    {
-      "word": "jabaa",
-      "count": 10
-    },
-    {
-      "word": "marsariitii",
-      "count": 10
-    },
-    {
-      "word": "qabiyyee",
-      "count": 10
-    },
-    {
-      "word": "toora",
-      "count": 10
-    },
-    {
-      "word": "oduu",
-      "count": 10
-    },
-    {
-      "word": "uumamaa",
-      "count": 10
-    },
-    {
-      "word": "isteetsi",
-      "count": 10
-    },
-    {
-      "word": "lolaa",
-      "count": 10
-    },
-    {
-      "word": "xaaliyaanii",
-      "count": 10
-    },
-    {
-      "word": "ani",
-      "count": 10
-    },
-    {
-      "word": "bakki",
-      "count": 10
-    },
-    {
-      "word": "keessumaa",
-      "count": 10
-    },
-    {
-      "word": "qabdu",
-      "count": 10
-    },
-    {
-      "word": "dhufan",
-      "count": 10
-    },
-    {
-      "word": "isaatti",
-      "count": 10
-    },
-    {
-      "word": "jiruu",
-      "count": 10
-    },
-    {
-      "word": "qabne",
-      "count": 10
-    },
-    {
-      "word": "oo",
-      "count": 10
-    },
-    {
-      "word": "hojjetu",
-      "count": 10
-    },
-    {
-      "word": "garba",
-      "count": 10
-    },
-    {
-      "word": "bifa",
-      "count": 10
-    },
-    {
-      "word": "olii",
-      "count": 10
-    },
-    {
-      "word": "godha",
-      "count": 10
-    },
-    {
-      "word": "sababni",
-      "count": 10
-    },
-    {
-      "word": "hedduutu",
-      "count": 10
-    },
-    {
-      "word": "namatti",
-      "count": 10
-    },
-    {
-      "word": "fakkeenyaaf",
-      "count": 10
-    },
-    {
-      "word": "biroon",
-      "count": 10
-    },
-    {
-      "word": "baayyeen",
-      "count": 10
-    },
-    {
-      "word": "gargaara",
-      "count": 10
-    },
-    {
-      "word": "jalqaban",
-      "count": 10
-    },
-    {
-      "word": "mm",
-      "count": 10
-    },
-    {
-      "word": "caalaatti",
-      "count": 10
-    },
-    {
-      "word": "godhe",
-      "count": 9
-    },
-    {
-      "word": "poolisii",
-      "count": 9
-    },
-    {
-      "word": "dhufe",
-      "count": 9
-    },
-    {
-      "word": "darbanii",
-      "count": 9
-    },
-    {
-      "word": "addaan",
-      "count": 9
-    },
-    {
-      "word": "ganama",
-      "count": 9
-    },
-    {
-      "word": "ganna",
-      "count": 9
-    },
-    {
-      "word": "eegalee",
-      "count": 9
-    },
-    {
-      "word": "tuqaa",
-      "count": 9
-    },
-    {
-      "word": "galgala",
-      "count": 9
-    },
-    {
-      "word": "fageenya",
-      "count": 9
-    },
-    {
-      "word": "humni",
-      "count": 9
-    },
-    {
-      "word": "paarkii",
-      "count": 9
-    },
-    {
-      "word": "joon",
-      "count": 9
-    },
-    {
-      "word": "fiigicha",
-      "count": 9
-    },
-    {
-      "word": "faayidaa",
-      "count": 9
-    },
-    {
-      "word": "gargaarsa",
-      "count": 9
-    },
-    {
-      "word": "jireenyaa",
-      "count": 9
-    },
-    {
-      "word": "murtii",
-      "count": 9
-    },
-    {
-      "word": "dhaabbataa",
-      "count": 9
-    },
-    {
-      "word": "ii",
-      "count": 9
-    },
-    {
-      "word": "xumure",
-      "count": 9
-    },
-    {
-      "word": "annaa",
-      "count": 9
-    },
-    {
-      "word": "qabachuu",
-      "count": 9
-    },
-    {
-      "word": "dandeenye",
-      "count": 9
-    },
-    {
-      "word": "hamaa",
-      "count": 9
-    },
-    {
-      "word": "shan",
-      "count": 9
-    },
-    {
-      "word": "dorgommii",
-      "count": 9
-    },
-    {
-      "word": "barreeffama",
-      "count": 9
-    },
-    {
-      "word": "hojjechuu",
-      "count": 9
-    },
-    {
-      "word": "mootummaan",
-      "count": 9
-    },
-    {
-      "word": "mijataa",
-      "count": 9
-    },
-    {
-      "word": "dubbii",
-      "count": 9
-    },
-    {
-      "word": "kamiyyuu",
-      "count": 9
-    },
-    {
-      "word": "hawaa",
-      "count": 9
-    },
-    {
-      "word": "arguu",
-      "count": 9
-    },
-    {
-      "word": "jalqabe",
-      "count": 9
-    },
-    {
-      "word": "fedha",
-      "count": 9
-    },
-    {
-      "word": "atan",
-      "count": 9
-    },
-    {
-      "word": "baasii",
-      "count": 9
-    },
-    {
-      "word": "hojiin",
-      "count": 9
-    },
-    {
-      "word": "qo",
-      "count": 9
-    },
-    {
-      "word": "fakkaatan",
-      "count": 9
-    },
-    {
-      "word": "yemmuu",
-      "count": 9
-    },
-    {
-      "word": "biraatti",
-      "count": 9
-    },
-    {
-      "word": "darbuu",
-      "count": 9
-    },
-    {
-      "word": "dooniiwwan",
-      "count": 9
-    },
-    {
-      "word": "afaanota",
-      "count": 9
-    },
-    {
-      "word": "afriikaa",
-      "count": 9
-    },
-    {
-      "word": "barbaachisa",
-      "count": 9
-    },
-    {
-      "word": "deebiin",
-      "count": 9
-    },
-    {
-      "word": "ijaarame",
-      "count": 9
-    },
-    {
-      "word": "biyyootni",
-      "count": 9
-    },
-    {
-      "word": "fudhatama",
-      "count": 9
-    },
-    {
-      "word": "kallattii",
-      "count": 9
-    },
-    {
-      "word": "roomaa",
-      "count": 9
-    },
-    {
-      "word": "fuula",
-      "count": 9
-    },
-    {
-      "word": "faana",
-      "count": 9
-    },
-    {
-      "word": "kamuu",
-      "count": 9
-    },
-    {
-      "word": "hunduu",
-      "count": 9
-    },
-    {
-      "word": "dhufee",
-      "count": 9
-    },
-    {
-      "word": "dheeraaf",
-      "count": 9
-    },
-    {
-      "word": "yookin",
-      "count": 9
-    },
-    {
-      "word": "karaan",
-      "count": 9
-    },
-    {
-      "word": "gannaa",
-      "count": 9
-    },
-    {
-      "word": "gaara",
-      "count": 9
-    },
-    {
-      "word": "bareedaa",
-      "count": 9
-    },
-    {
-      "word": "bilbilaa",
-      "count": 9
-    },
-    {
-      "word": "tabba",
-      "count": 9
-    },
-    {
-      "word": "kanaafuu",
-      "count": 9
-    },
-    {
-      "word": "yookan",
-      "count": 9
-    },
-    {
-      "word": "daandiiwwan",
-      "count": 9
-    },
-    {
-      "word": "hawaasa",
-      "count": 8
-    },
-    {
-      "word": "uummata",
-      "count": 8
-    },
-    {
-      "word": "qabatan",
-      "count": 8
-    },
-    {
-      "word": "gabaa",
-      "count": 8
-    },
-    {
-      "word": "godhu",
-      "count": 8
-    },
-    {
-      "word": "hariiroo",
-      "count": 8
-    },
-    {
-      "word": "fudhate",
-      "count": 8
-    },
-    {
-      "word": "kitaaba",
-      "count": 8
-    },
-    {
-      "word": "gabaasa",
-      "count": 8
-    },
-    {
-      "word": "dursanii",
-      "count": 8
-    },
-    {
-      "word": "turee",
-      "count": 8
-    },
-    {
-      "word": "guutummaatti",
-      "count": 8
-    },
-    {
-      "word": "moo",
-      "count": 8
-    },
-    {
-      "word": "galma",
-      "count": 8
-    },
-    {
-      "word": "samii",
-      "count": 8
-    },
-    {
-      "word": "qabaniif",
-      "count": 8
-    },
-    {
-      "word": "buufataa",
-      "count": 8
-    },
-    {
-      "word": "dhihaa",
-      "count": 8
-    },
-    {
-      "word": "fayyadamuu",
-      "count": 8
-    },
-    {
-      "word": "oota",
-      "count": 8
-    },
-    {
-      "word": "dhaga",
-      "count": 8
-    },
-    {
-      "word": "qabaatu",
-      "count": 8
-    },
-    {
-      "word": "akkasii",
-      "count": 8
-    },
-    {
-      "word": "fooyya",
-      "count": 8
-    },
-    {
-      "word": "uummataa",
-      "count": 8
-    },
-    {
-      "word": "guddichi",
-      "count": 8
-    },
-    {
-      "word": "hojjetan",
-      "count": 8
-    },
-    {
-      "word": "akkanaa",
-      "count": 8
-    },
-    {
-      "word": "baallee",
-      "count": 8
-    },
-    {
-      "word": "beekumsa",
-      "count": 8
-    },
-    {
-      "word": "kumaatama",
-      "count": 8
-    },
-    {
-      "word": "taasise",
-      "count": 8
-    },
-    {
-      "word": "indiyaa",
-      "count": 8
-    },
-    {
-      "word": "argannoo",
-      "count": 8
-    },
-    {
-      "word": "babal",
-      "count": 8
-    },
-    {
-      "word": "aduu",
-      "count": 8
-    },
-    {
-      "word": "intarneetii",
-      "count": 8
-    },
-    {
-      "word": "qurxummii",
-      "count": 8
-    },
-    {
-      "word": "baala",
-      "count": 8
-    },
-    {
-      "word": "kaffaltii",
-      "count": 8
-    },
-    {
-      "word": "eetti",
-      "count": 8
-    },
-    {
-      "word": "adoolessa",
-      "count": 8
-    },
-    {
-      "word": "fedhii",
-      "count": 8
-    },
-    {
-      "word": "dursee",
-      "count": 8
-    },
-    {
-      "word": "aadha",
-      "count": 8
-    },
-    {
-      "word": "miidhaan",
-      "count": 8
-    },
-    {
-      "word": "qabeessa",
-      "count": 8
-    },
-    {
-      "word": "daqiiqaa",
-      "count": 8
-    },
-    {
-      "word": "nii",
-      "count": 8
-    },
-    {
-      "word": "taphoota",
-      "count": 8
-    },
-    {
-      "word": "olompikii",
-      "count": 8
-    },
-    {
-      "word": "socho",
-      "count": 8
-    },
-    {
-      "word": "maqaan",
-      "count": 8
-    },
-    {
-      "word": "tu",
-      "count": 8
-    },
-    {
-      "word": "seerota",
-      "count": 8
-    },
-    {
-      "word": "umurii",
-      "count": 8
-    },
-    {
-      "word": "dhaabbilee",
-      "count": 8
-    },
-    {
-      "word": "magaalota",
-      "count": 8
-    },
-    {
-      "word": "dhufuu",
-      "count": 8
-    },
-    {
-      "word": "bilisummaa",
-      "count": 8
-    },
-    {
-      "word": "ammayyaa",
-      "count": 8
-    },
-    {
-      "word": "tokkoof",
-      "count": 8
-    },
-    {
-      "word": "warren",
-      "count": 8
-    },
-    {
-      "word": "fakkaatu",
-      "count": 8
-    },
-    {
-      "word": "biratti",
-      "count": 8
-    },
-    {
-      "word": "dubbatan",
-      "count": 8
-    },
-    {
-      "word": "qaroomina",
-      "count": 8
-    },
-    {
-      "word": "argamuu",
-      "count": 8
-    },
-    {
-      "word": "hammata",
-      "count": 8
-    },
-    {
-      "word": "harkaa",
-      "count": 8
-    },
-    {
-      "word": "barbaachisu",
-      "count": 8
-    },
-    {
-      "word": "gocha",
-      "count": 8
-    },
-    {
-      "word": "dhaloota",
-      "count": 8
-    },
-    {
-      "word": "sulula",
-      "count": 8
-    },
-    {
-      "word": "ittin",
-      "count": 8
-    },
-    {
-      "word": "biro",
-      "count": 8
-    },
-    {
-      "word": "achuu",
-      "count": 8
-    },
-    {
-      "word": "amaloota",
-      "count": 8
-    },
-    {
-      "word": "ofii",
-      "count": 8
-    },
-    {
-      "word": "bukkee",
-      "count": 8
-    },
-    {
-      "word": "garaagarummaa",
-      "count": 8
-    },
-    {
-      "word": "gochuuf",
-      "count": 8
-    },
-    {
-      "word": "uumamuu",
-      "count": 8
-    },
-    {
-      "word": "oolu",
-      "count": 8
-    },
-    {
-      "word": "isaaniitiin",
-      "count": 8
-    },
-    {
-      "word": "hinjiru",
-      "count": 8
-    },
-    {
-      "word": "guddinaan",
-      "count": 8
-    },
-    {
-      "word": "isaaniif",
-      "count": 8
-    },
-    {
-      "word": "imaltoonni",
-      "count": 8
-    },
-    {
-      "word": "banaa",
-      "count": 8
-    },
-    {
-      "word": "pirezidaantii",
-      "count": 7
-    },
-    {
-      "word": "oromiyaa",
-      "count": 7
-    },
-    {
-      "word": "qabate",
-      "count": 7
-    },
-    {
-      "word": "federaalaa",
-      "count": 7
-    },
-    {
-      "word": "lubbuu",
-      "count": 7
-    },
-    {
-      "word": "baankii",
-      "count": 7
-    },
-    {
-      "word": "siyaasaa",
-      "count": 7
-    },
-    {
-      "word": "mormii",
-      "count": 7
-    },
-    {
-      "word": "hafan",
-      "count": 7
-    },
-    {
-      "word": "galmaa",
-      "count": 7
-    },
-    {
-      "word": "tiraafikaa",
-      "count": 7
-    },
-    {
-      "word": "mirga",
-      "count": 7
-    },
-    {
-      "word": "niiwu",
-      "count": 7
-    },
-    {
-      "word": "argatan",
-      "count": 7
-    },
-    {
-      "word": "galii",
-      "count": 7
-    },
-    {
-      "word": "murteessaa",
-      "count": 7
-    },
-    {
-      "word": "iin",
-      "count": 7
-    },
-    {
-      "word": "kutaalee",
-      "count": 7
-    },
-    {
-      "word": "ijoolleen",
-      "count": 7
-    },
-    {
-      "word": "deeman",
-      "count": 7
-    },
-    {
-      "word": "maaliif",
-      "count": 7
-    },
-    {
-      "word": "obomboleettii",
-      "count": 7
-    },
-    {
-      "word": "fulbaana",
-      "count": 7
-    },
-    {
-      "word": "kiiloo",
-      "count": 7
-    },
-    {
-      "word": "al",
-      "count": 7
-    },
-    {
-      "word": "saffisaa",
-      "count": 7
-    },
-    {
-      "word": "deema",
-      "count": 7
-    },
-    {
-      "word": "maallaqaa",
-      "count": 7
-    },
-    {
-      "word": "ministeeraa",
-      "count": 7
-    },
-    {
-      "word": "awustiraaliyaa",
-      "count": 7
-    },
-    {
-      "word": "kabaja",
-      "count": 7
-    },
-    {
-      "word": "loltoota",
-      "count": 7
-    },
-    {
-      "word": "ammaatti",
-      "count": 7
-    },
-    {
-      "word": "qophaa",
-      "count": 7
-    },
-    {
-      "word": "seerri",
-      "count": 7
-    },
-    {
-      "word": "maatiiwwan",
-      "count": 7
-    },
-    {
-      "word": "maal",
-      "count": 7
-    },
-    {
-      "word": "baroota",
-      "count": 7
-    },
-    {
-      "word": "kanatti",
-      "count": 7
-    },
-    {
-      "word": "kuusaa",
-      "count": 7
-    },
-    {
-      "word": "miliyoona",
-      "count": 7
-    },
-    {
-      "word": "gamtaa",
-      "count": 7
-    },
-    {
-      "word": "dhaan",
-      "count": 7
-    },
-    {
-      "word": "beekamtii",
-      "count": 7
-    },
-    {
-      "word": "fudhachuu",
-      "count": 7
-    },
-    {
-      "word": "garmalee",
-      "count": 7
-    },
-    {
-      "word": "argachuuf",
-      "count": 7
-    },
-    {
-      "word": "jiraatu",
-      "count": 7
-    },
-    {
-      "word": "haleellaa",
-      "count": 7
-    },
-    {
-      "word": "hagayya",
-      "count": 7
-    },
-    {
-      "word": "fe",
-      "count": 7
-    },
-    {
-      "word": "uffata",
-      "count": 7
-    },
-    {
-      "word": "roobaa",
-      "count": 7
-    },
-    {
-      "word": "ragaa",
-      "count": 7
-    },
-    {
-      "word": "dursa",
-      "count": 7
-    },
-    {
-      "word": "qabuuf",
-      "count": 7
-    },
-    {
-      "word": "duubatti",
-      "count": 7
-    },
-    {
-      "word": "hindii",
-      "count": 7
-    },
-    {
-      "word": "rakkoolee",
-      "count": 7
-    },
-    {
-      "word": "barumsaa",
-      "count": 7
-    },
-    {
-      "word": "turuu",
-      "count": 7
-    },
-    {
-      "word": "ellee",
-      "count": 7
-    },
-    {
-      "word": "duraan",
-      "count": 7
-    },
-    {
-      "word": "gaasii",
-      "count": 7
-    },
-    {
-      "word": "mallattoo",
-      "count": 7
-    },
-    {
-      "word": "sanatti",
-      "count": 7
-    },
-    {
-      "word": "idil-addunyaa",
-      "count": 7
-    },
-    {
-      "word": "ispoortii",
-      "count": 7
-    },
-    {
-      "word": "guutummaa",
-      "count": 7
-    },
-    {
-      "word": "geejjibaa",
-      "count": 7
-    },
-    {
-      "word": "jarmanii",
-      "count": 7
-    },
-    {
-      "word": "guddina",
-      "count": 7
-    },
-    {
-      "word": "uumame",
-      "count": 7
-    },
-    {
-      "word": "hospitaala",
-      "count": 7
-    },
-    {
-      "word": "foddaa",
-      "count": 7
-    },
-    {
-      "word": "wantoonni",
-      "count": 7
-    },
-    {
-      "word": "suuraan",
-      "count": 7
-    },
-    {
-      "word": "beekamaan",
-      "count": 7
-    },
-    {
-      "word": "ce",
-      "count": 7
-    },
-    {
-      "word": "sanaaf",
-      "count": 7
-    },
-    {
-      "word": "loltootni",
-      "count": 7
-    },
-    {
-      "word": "hubachuu",
-      "count": 7
-    },
-    {
-      "word": "turkii",
-      "count": 7
-    },
-    {
-      "word": "qofti",
-      "count": 7
-    },
-    {
-      "word": "dirree",
-      "count": 7
-    },
-    {
-      "word": "kaabaatti",
-      "count": 7
-    },
-    {
-      "word": "ardii",
-      "count": 7
-    },
-    {
-      "word": "salphaati",
-      "count": 7
-    },
-    {
-      "word": "fudhatan",
-      "count": 7
-    },
-    {
-      "word": "baruuf",
-      "count": 7
-    },
-    {
-      "word": "bashannanaa",
-      "count": 7
-    },
-    {
-      "word": "fiixee",
-      "count": 7
-    },
-    {
-      "word": "dhiirota",
-      "count": 7
-    },
-    {
-      "word": "ilaali",
-      "count": 7
-    },
-    {
-      "word": "gabaabaa",
-      "count": 7
-    },
-    {
-      "word": "keetii",
-      "count": 7
-    },
-    {
-      "word": "galchuu",
-      "count": 7
-    },
-    {
-      "word": "ummata",
-      "count": 7
-    },
-    {
-      "word": "xiyyaaraa",
-      "count": 7
-    },
-    {
-      "word": "de",
-      "count": 7
-    },
-    {
-      "word": "daggalaa",
-      "count": 7
-    },
-    {
-      "word": "jirtu",
-      "count": 7
-    },
-    {
-      "word": "barbaadde",
-      "count": 7
-    },
-    {
-      "word": "naannawaa",
-      "count": 7
-    },
-    {
-      "word": "qorannoon",
-      "count": 7
-    },
-    {
-      "word": "baasan",
-      "count": 6
-    },
-    {
-      "word": "lammaan",
-      "count": 6
-    },
-    {
-      "word": "digirii",
-      "count": 6
-    },
-    {
-      "word": "saayintistootni",
-      "count": 6
-    },
-    {
-      "word": "seelii",
-      "count": 6
-    },
-    {
-      "word": "taphaa",
-      "count": 6
-    },
-    {
-      "word": "deeme",
-      "count": 6
-    },
-    {
-      "word": "irrattii",
-      "count": 6
-    },
-    {
-      "word": "taaksii",
-      "count": 6
-    },
-    {
-      "word": "qabeenya",
-      "count": 6
-    },
-    {
-      "word": "galgalaa",
-      "count": 6
-    },
-    {
-      "word": "boba",
-      "count": 6
-    },
-    {
-      "word": "kessatti",
-      "count": 6
-    },
-    {
-      "word": "gamoo",
-      "count": 6
-    },
-    {
-      "word": "sagantaa",
-      "count": 6
-    },
-    {
-      "word": "eedha",
-      "count": 6
-    },
-    {
-      "word": "qofaatu",
-      "count": 6
-    },
-    {
-      "word": "guddate",
-      "count": 6
-    },
-    {
-      "word": "obbo",
-      "count": 6
-    },
-    {
-      "word": "oofuu",
-      "count": 6
-    },
-    {
-      "word": "galmee",
-      "count": 6
-    },
-    {
-      "word": "giddugaleessaa",
-      "count": 6
+      "word": "baayyee",
+      "count": 466
     },
     {
       "word": "abbaa",
-      "count": 6
+      "count": 464
     },
     {
-      "word": "annoo",
-      "count": 6
+      "word": "ol",
+      "count": 460
     },
     {
-      "word": "namichi",
-      "count": 6
+      "word": "keenya",
+      "count": 458
     },
     {
-      "word": "qabna",
-      "count": 6
+      "word": "hunda",
+      "count": 448
     },
     {
-      "word": "kaasuu",
-      "count": 6
+      "word": "wajjin",
+      "count": 448
     },
     {
-      "word": "saala",
-      "count": 6
+      "word": "guyyaa",
+      "count": 446
     },
     {
-      "word": "jiraachuun",
-      "count": 6
+      "word": "jedhu",
+      "count": 444
     },
     {
-      "word": "jiruuf",
-      "count": 6
+      "word": "ummata",
+      "count": 443
     },
     {
-      "word": "giriikii",
-      "count": 6
+      "word": "an",
+      "count": 436
     },
     {
-      "word": "abbootii",
-      "count": 6
+      "word": "danda",
+      "count": 434
     },
     {
-      "word": "waajjira",
-      "count": 6
+      "word": "erga",
+      "count": 431
     },
     {
-      "word": "tokkootti",
-      "count": 6
+      "word": "natti",
+      "count": 430
     },
     {
-      "word": "hoggantoonni",
-      "count": 6
+      "word": "waliin",
+      "count": 426
     },
     {
-      "word": "hangi",
-      "count": 6
-    },
-    {
-      "word": "iraan",
-      "count": 6
-    },
-    {
-      "word": "fiduu",
-      "count": 6
-    },
-    {
-      "word": "hinturre",
-      "count": 6
-    },
-    {
-      "word": "uudha",
-      "count": 6
-    },
-    {
-      "word": "isteetsii",
-      "count": 6
-    },
-    {
-      "word": "bakkoota",
-      "count": 6
-    },
-    {
-      "word": "halluu",
-      "count": 6
-    },
-    {
-      "word": "kenname",
-      "count": 6
-    },
-    {
-      "word": "iinsi",
-      "count": 6
-    },
-    {
-      "word": "haalota",
-      "count": 6
-    },
-    {
-      "word": "dafee",
-      "count": 6
-    },
-    {
-      "word": "dhimmoota",
-      "count": 6
-    },
-    {
-      "word": "bittaa",
-      "count": 6
-    },
-    {
-      "word": "kaampaanii",
-      "count": 6
-    },
-    {
-      "word": "imman",
-      "count": 6
-    },
-    {
-      "word": "mirkaneessa",
-      "count": 6
-    },
-    {
-      "word": "argame",
-      "count": 6
-    },
-    {
-      "word": "qoricha",
-      "count": 6
-    },
-    {
-      "word": "eegama",
-      "count": 6
-    },
-    {
-      "word": "vaayirasii",
-      "count": 6
-    },
-    {
-      "word": "guyyoota",
-      "count": 6
-    },
-    {
-      "word": "manatti",
-      "count": 6
-    },
-    {
-      "word": "hojiiwwan",
-      "count": 6
-    },
-    {
-      "word": "kaleessa",
-      "count": 6
-    },
-    {
-      "word": "dubartootaa",
-      "count": 6
-    },
-    {
-      "word": "isuuf",
-      "count": 6
-    },
-    {
-      "word": "beekama",
-      "count": 6
-    },
-    {
-      "word": "taateewwan",
-      "count": 6
-    },
-    {
-      "word": "midhaan",
-      "count": 6
-    },
-    {
-      "word": "amajjii",
-      "count": 6
-    },
-    {
-      "word": "fakkii",
-      "count": 6
-    },
-    {
-      "word": "imaltoota",
-      "count": 6
-    },
-    {
-      "word": "jechuu",
-      "count": 6
-    },
-    {
-      "word": "godhee",
-      "count": 6
-    },
-    {
-      "word": "konkolaataawwan",
-      "count": 6
-    },
-    {
-      "word": "qophii",
-      "count": 6
-    },
-    {
-      "word": "nu",
-      "count": 6
-    },
-    {
-      "word": "maree",
-      "count": 6
-    },
-    {
-      "word": "kirkira",
-      "count": 6
-    },
-    {
-      "word": "kirkirri",
-      "count": 6
-    },
-    {
-      "word": "uumamu",
-      "count": 6
-    },
-    {
-      "word": "dooniin",
-      "count": 6
-    },
-    {
-      "word": "turtii",
-      "count": 6
-    },
-    {
-      "word": "kessaa",
-      "count": 6
-    },
-    {
-      "word": "shaakala",
-      "count": 6
-    },
-    {
-      "word": "dirqama",
-      "count": 6
-    },
-    {
-      "word": "udha",
-      "count": 6
-    },
-    {
-      "word": "gubbaa",
-      "count": 6
-    },
-    {
-      "word": "isaaniitti",
-      "count": 6
-    },
-    {
-      "word": "cabbiin",
-      "count": 6
-    },
-    {
-      "word": "dhumarratti",
-      "count": 6
-    },
-    {
-      "word": "ammo",
-      "count": 6
-    },
-    {
-      "word": "sibiila",
-      "count": 6
-    },
-    {
-      "word": "qaamni",
-      "count": 6
-    },
-    {
-      "word": "hundarra",
-      "count": 6
-    },
-    {
-      "word": "biqiloota",
-      "count": 6
-    },
-    {
-      "word": "muka",
-      "count": 6
-    },
-    {
-      "word": "bineensotni",
-      "count": 6
-    },
-    {
-      "word": "kutaawwan",
-      "count": 6
-    },
-    {
-      "word": "lolli",
-      "count": 6
-    },
-    {
-      "word": "harki",
-      "count": 6
-    },
-    {
-      "word": "caalaan",
-      "count": 6
-    },
-    {
-      "word": "jarman",
-      "count": 6
-    },
-    {
-      "word": "loltuuwwan",
-      "count": 6
-    },
-    {
-      "word": "gaariidha",
-      "count": 6
-    },
-    {
-      "word": "ilaalamu",
-      "count": 6
-    },
-    {
-      "word": "argachuun",
-      "count": 6
-    },
-    {
-      "word": "taate",
-      "count": 6
-    },
-    {
-      "word": "hawwata",
-      "count": 6
-    },
-    {
-      "word": "biqiltuu",
-      "count": 6
-    },
-    {
-      "word": "makaa",
-      "count": 6
-    },
-    {
-      "word": "leensii",
-      "count": 6
-    },
-    {
-      "word": "umsi",
-      "count": 6
-    },
-    {
-      "word": "yaali",
-      "count": 6
-    },
-    {
-      "word": "gosoota",
-      "count": 6
-    },
-    {
-      "word": "barbaachisummaa",
-      "count": 6
-    },
-    {
-      "word": "eegale",
-      "count": 6
-    },
-    {
-      "word": "viidiyoo",
-      "count": 6
-    },
-    {
-      "word": "qabamu",
-      "count": 6
-    },
-    {
-      "word": "fayyadaman",
-      "count": 6
-    },
-    {
-      "word": "gosti",
-      "count": 6
-    },
-    {
-      "word": "qabatee",
-      "count": 6
-    },
-    {
-      "word": "bonaa",
-      "count": 6
-    },
-    {
-      "word": "hundumaa",
-      "count": 6
-    },
-    {
-      "word": "dhi",
-      "count": 6
-    },
-    {
-      "word": "miira",
-      "count": 6
-    },
-    {
-      "word": "jechi",
-      "count": 6
-    },
-    {
-      "word": "qabatu",
-      "count": 6
-    },
-    {
-      "word": "fayyadama",
-      "count": 6
-    },
-    {
-      "word": "bineensonni",
-      "count": 6
-    },
-    {
-      "word": "jedhaman",
-      "count": 6
-    },
-    {
-      "word": "qabudha",
-      "count": 6
-    },
-    {
-      "word": "yaadan",
-      "count": 6
-    },
-    {
-      "word": "nuuf",
-      "count": 6
-    },
-    {
-      "word": "barattoonni",
-      "count": 6
-    },
-    {
-      "word": "tuuristii",
-      "count": 6
-    },
-    {
-      "word": "cinaa",
-      "count": 6
-    },
-    {
-      "word": "ja",
-      "count": 6
-    },
-    {
-      "word": "caalan",
-      "count": 6
-    },
-    {
-      "word": "harkaan",
-      "count": 6
-    },
-    {
-      "word": "konkolaata",
-      "count": 6
-    },
-    {
-      "word": "ija",
-      "count": 6
-    },
-    {
-      "word": "isin",
-      "count": 6
-    },
-    {
-      "word": "gogaa",
-      "count": 6
-    },
-    {
-      "word": "immanii",
-      "count": 6
-    },
-    {
-      "word": "naannootti",
-      "count": 6
-    },
-    {
-      "word": "waraqaa",
-      "count": 6
-    },
-    {
-      "word": "jiraatan",
-      "count": 6
-    },
-    {
-      "word": "wantichi",
-      "count": 6
-    },
-    {
-      "word": "addatti",
-      "count": 6
-    },
-    {
-      "word": "kaanaadaa",
-      "count": 6
-    },
-    {
-      "word": "gochuun",
-      "count": 6
-    },
-    {
-      "word": "biyyi",
-      "count": 6
-    },
-    {
-      "word": "boqonnaa",
-      "count": 6
-    },
-    {
-      "word": "dubartoota",
-      "count": 6
-    },
-    {
-      "word": "ibsu",
-      "count": 6
-    },
-    {
-      "word": "malees",
-      "count": 5
-    },
-    {
-      "word": "argamne",
-      "count": 5
-    },
-    {
-      "word": "koree",
-      "count": 5
-    },
-    {
-      "word": "nageenya",
-      "count": 5
+      "word": "biraa",
+      "count": 420
     },
     {
       "word": "ta'ee",
-      "count": 5
+      "count": 418
     },
     {
-      "word": "caffee",
-      "count": 5
+      "word": "nu",
+      "count": 415
     },
     {
-      "word": "tilmaamaan",
-      "count": 5
+      "word": "afrikaa",
+      "count": 413
     },
     {
-      "word": "damee",
-      "count": 5
+      "word": "waggaa",
+      "count": 408
     },
     {
-      "word": "wayita",
-      "count": 5
+      "word": "kanaa",
+      "count": 391
     },
     {
-      "word": "baasu",
-      "count": 5
+      "word": "bishaan",
+      "count": 389
     },
     {
-      "word": "boodatti",
-      "count": 5
+      "word": "addunyaa",
+      "count": 388
     },
     {
-      "word": "balalii",
-      "count": 5
+      "word": "qofa",
+      "count": 385
     },
     {
-      "word": "isaaf",
-      "count": 5
+      "word": "oromiyaa",
+      "count": 384
     },
     {
-      "word": "fallaa",
-      "count": 5
+      "word": "hojii",
+      "count": 383
     },
     {
-      "word": "walirra",
-      "count": 5
+      "word": "addaa",
+      "count": 383
     },
     {
-      "word": "marsaa",
-      "count": 5
+      "word": "warra",
+      "count": 381
     },
     {
-      "word": "kanati",
-      "count": 5
+      "word": "kutaa",
+      "count": 380
     },
     {
-      "word": "achuuf",
-      "count": 5
+      "word": "argamu",
+      "count": 376
     },
     {
-      "word": "taayitaa",
-      "count": 5
+      "word": "and",
+      "count": 376
     },
     {
-      "word": "yuuniversitii",
-      "count": 5
+      "word": "haala",
+      "count": 373
     },
     {
-      "word": "ijoo",
-      "count": 5
+      "word": "namni",
+      "count": 370
     },
     {
-      "word": "icha",
-      "count": 5
+      "word": "wabii",
+      "count": 364
     },
     {
-      "word": "iraaq",
-      "count": 5
+      "word": "jechuun",
+      "count": 361
     },
     {
-      "word": "badhaasa",
-      "count": 5
+      "word": "je",
+      "count": 361
     },
     {
-      "word": "oddola",
-      "count": 5
+      "word": "lafaa",
+      "count": 359
     },
     {
-      "word": "soda",
-      "count": 5
+      "word": "sirna",
+      "count": 348
     },
     {
-      "word": "torba",
-      "count": 5
+      "word": "sadarkaa",
+      "count": 342
     },
     {
-      "word": "ilaalu",
-      "count": 5
+      "word": "akkuma",
+      "count": 337
     },
     {
-      "word": "muummicha",
-      "count": 5
+      "word": "turan",
+      "count": 336
     },
     {
-      "word": "beekamaadha",
-      "count": 5
+      "word": "dura",
+      "count": 335
     },
     {
-      "word": "qabeenyaa",
-      "count": 5
+      "word": "ta'uu",
+      "count": 335
     },
     {
-      "word": "yerooma",
-      "count": 5
+      "word": "gosa",
+      "count": 330
     },
     {
-      "word": "humnaan",
-      "count": 5
+      "word": "kanaan",
+      "count": 328
     },
     {
-      "word": "jedhamanii",
-      "count": 5
+      "word": "baay'ee",
+      "count": 325
     },
     {
-      "word": "rakkisaa",
-      "count": 5
+      "word": "ani",
+      "count": 324
     },
     {
-      "word": "miseensi",
-      "count": 5
+      "word": "qaama",
+      "count": 323
     },
     {
-      "word": "paarlaamaa",
-      "count": 5
+      "word": "kiitii",
+      "count": 321
     },
     {
-      "word": "baasuuf",
-      "count": 5
+      "word": "waa'ee",
+      "count": 318
     },
     {
-      "word": "murteessa",
-      "count": 5
+      "word": "lama",
+      "count": 314
     },
     {
-      "word": "jirutti",
-      "count": 5
+      "word": "mootummaa",
+      "count": 312
     },
     {
-      "word": "guutuutti",
-      "count": 5
+      "word": "namoota",
+      "count": 311
     },
     {
-      "word": "hiiki",
-      "count": 5
+      "word": "humna",
+      "count": 307
     },
     {
-      "word": "awwaalaa",
-      "count": 5
+      "word": "godina",
+      "count": 304
     },
     {
-      "word": "aangawootni",
-      "count": 5
+      "word": "jedhama",
+      "count": 303
     },
     {
-      "word": "xiyyaarri",
-      "count": 5
+      "word": "uu",
+      "count": 300
     },
     {
-      "word": "raashiyaa",
-      "count": 5
+      "word": "si",
+      "count": 295
     },
     {
-      "word": "uutti",
-      "count": 5
+      "word": "kee",
+      "count": 295
     },
     {
-      "word": "ibsaa",
-      "count": 5
+      "word": "argama",
+      "count": 294
     },
     {
-      "word": "bakkeen",
-      "count": 5
+      "word": "qaban",
+      "count": 294
     },
     {
-      "word": "aanaan",
-      "count": 5
+      "word": "jiran",
+      "count": 292
     },
     {
-      "word": "biyyattii",
-      "count": 5
+      "word": "jedhee",
+      "count": 288
     },
     {
-      "word": "baasuu",
-      "count": 5
+      "word": "kanaaf",
+      "count": 284
     },
     {
-      "word": "seenuu",
-      "count": 5
+      "word": "jalqabaa",
+      "count": 284
     },
     {
-      "word": "baha",
-      "count": 5
+      "word": "baay",
+      "count": 284
     },
     {
-      "word": "qabamee",
-      "count": 5
+      "word": "ittiin",
+      "count": 283
     },
     {
-      "word": "saayintistoonni",
-      "count": 5
+      "word": "danda'u",
+      "count": 282
     },
     {
-      "word": "jaappaanii",
-      "count": 5
+      "word": "maal",
+      "count": 281
     },
     {
-      "word": "ofiin",
-      "count": 5
+      "word": "naa",
+      "count": 281
     },
     {
-      "word": "ata",
-      "count": 5
+      "word": "jecha",
+      "count": 280
     },
     {
-      "word": "jaallatan",
-      "count": 5
+      "word": "in",
+      "count": 279
     },
     {
-      "word": "fayyadamuudhaan",
-      "count": 5
+      "word": "piiter",
+      "count": 274
     },
     {
-      "word": "qubee",
-      "count": 5
+      "word": "danda'a",
+      "count": 268
     },
     {
-      "word": "fuulduraatti",
-      "count": 5
+      "word": "kessatti",
+      "count": 267
     },
     {
-      "word": "rook",
-      "count": 5
+      "word": "miti",
+      "count": 266
     },
     {
-      "word": "ataa",
-      "count": 5
+      "word": "aadaa",
+      "count": 262
     },
     {
-      "word": "kunneen",
-      "count": 5
+      "word": "gadaa",
+      "count": 258
+    },
+    {
+      "word": "iddoo",
+      "count": 258
+    },
+    {
+      "word": "gadi",
+      "count": 254
+    },
+    {
+      "word": "immo",
+      "count": 252
+    },
+    {
+      "word": "waraana",
+      "count": 252
+    },
+    {
+      "word": "ffaa",
+      "count": 247
+    },
+    {
+      "word": "sababa",
+      "count": 243
+    },
+    {
+      "word": "ta'an",
+      "count": 241
+    },
+    {
+      "word": "duuba",
+      "count": 240
+    },
+    {
+      "word": "tokkoo",
+      "count": 239
+    },
+    {
+      "word": "harka",
+      "count": 237
+    },
+    {
+      "word": "mataa",
+      "count": 237
+    },
+    {
+      "word": "namaa",
+      "count": 236
+    },
+    {
+      "word": "bu",
+      "count": 233
+    },
+    {
+      "word": "oromo",
+      "count": 232
+    },
+    {
+      "word": "laga",
+      "count": 232
+    },
+    {
+      "word": "yeroon",
+      "count": 228
+    },
+    {
+      "word": "akkan",
+      "count": 227
+    },
+    {
+      "word": "ka",
+      "count": 226
+    },
+    {
+      "word": "kuni",
+      "count": 224
+    },
+    {
+      "word": "qabsoo",
+      "count": 224
+    },
+    {
+      "word": "namoonni",
+      "count": 222
+    },
+    {
+      "word": "hedduu",
+      "count": 222
+    },
+    {
+      "word": "sitti",
+      "count": 222
+    },
+    {
+      "word": "jalqaba",
+      "count": 221
+    },
+    {
+      "word": "ta'a",
+      "count": 220
+    },
+    {
+      "word": "taane",
+      "count": 219
+    },
+    {
+      "word": "sun",
+      "count": 219
+    },
+    {
+      "word": "gaafa",
+      "count": 219
+    },
+    {
+      "word": "kanneen",
+      "count": 214
+    },
+    {
+      "word": "oromoon",
+      "count": 213
+    },
+    {
+      "word": "yaada",
+      "count": 213
+    },
+    {
+      "word": "obbo",
+      "count": 210
+    },
+    {
+      "word": "jireenya",
+      "count": 209
+    },
+    {
+      "word": "kessa",
+      "count": 204
+    },
+    {
+      "word": "saayinsii",
+      "count": 204
+    },
+    {
+      "word": "odoo",
+      "count": 203
+    },
+    {
+      "word": "ti",
+      "count": 202
+    },
+    {
+      "word": "ii",
+      "count": 201
+    },
+    {
+      "word": "ameerikaa",
+      "count": 201
+    },
+    {
+      "word": "ofii",
+      "count": 200
+    },
+    {
+      "word": "ji",
+      "count": 198
+    },
+    {
+      "word": "gidduu",
+      "count": 198
+    },
+    {
+      "word": "waraanaa",
+      "count": 197
+    },
+    {
+      "word": "garaa",
+      "count": 195
+    },
+    {
+      "word": "warri",
+      "count": 194
+    },
+    {
+      "word": "jechuu",
+      "count": 192
+    },
+    {
+      "word": "waa",
+      "count": 190
+    },
+    {
+      "word": "lamaan",
+      "count": 187
+    },
+    {
+      "word": "yookiin",
+      "count": 186
+    },
+    {
+      "word": "maqaan",
+      "count": 186
+    },
+    {
+      "word": "bahaa",
+      "count": 186
+    },
+    {
+      "word": "jalqabe",
+      "count": 185
+    },
+    {
+      "word": "nan",
+      "count": 184
+    },
+    {
+      "word": "meeshaa",
+      "count": 183
+    },
+    {
+      "word": "ija",
+      "count": 182
+    },
+    {
+      "word": "fakkeenyaaf",
+      "count": 181
+    },
+    {
+      "word": "durii",
+      "count": 180
+    },
+    {
+      "word": "yuurooppi",
+      "count": 180
+    },
+    {
+      "word": "dhugaa",
+      "count": 180
+    },
+    {
+      "word": "guutuu",
+      "count": 180
+    },
+    {
+      "word": "kitaaba",
+      "count": 179
+    },
+    {
+      "word": "jedhamuun",
+      "count": 179
+    },
+    {
+      "word": "barnoota",
+      "count": 178
+    },
+    {
+      "word": "seelii",
+      "count": 178
+    },
+    {
+      "word": "jiraatu",
+      "count": 177
+    },
+    {
+      "word": "jirtu",
+      "count": 176
+    },
+    {
+      "word": "jedhe",
+      "count": 176
+    },
+    {
+      "word": "isaas",
+      "count": 174
+    },
+    {
+      "word": "walii",
+      "count": 173
+    },
+    {
+      "word": "qabne",
+      "count": 172
+    },
+    {
+      "word": "hundi",
+      "count": 171
+    },
+    {
+      "word": "biroo",
+      "count": 171
+    },
+    {
+      "word": "fuula",
+      "count": 169
+    },
+    {
+      "word": "to",
+      "count": 169
+    },
+    {
+      "word": "yaa",
+      "count": 169
+    },
+    {
+      "word": "kibbaa",
+      "count": 168
+    },
+    {
+      "word": "naan",
+      "count": 168
+    },
+    {
+      "word": "isaanis",
+      "count": 167
+    },
+    {
+      "word": "jaarraa",
+      "count": 167
+    },
+    {
+      "word": "san",
+      "count": 167
+    },
+    {
+      "word": "biratti",
+      "count": 165
+    },
+    {
+      "word": "uun",
+      "count": 165
+    },
+    {
+      "word": "dhufe",
+      "count": 164
+    },
+    {
+      "word": "garee",
+      "count": 163
+    },
+    {
+      "word": "jedhamee",
+      "count": 162
+    },
+    {
+      "word": "bira",
+      "count": 162
+    },
+    {
+      "word": "godhe",
+      "count": 161
+    },
+    {
+      "word": "mul",
+      "count": 161
+    },
+    {
+      "word": "qorannoo",
+      "count": 160
+    },
+    {
+      "word": "jalatti",
+      "count": 159
+    },
+    {
+      "word": "shawaa",
+      "count": 159
+    },
+    {
+      "word": "biyyoota",
+      "count": 159
+    },
+    {
+      "word": "deebi",
+      "count": 158
+    },
+    {
+      "word": "dhihaa",
+      "count": 157
+    },
+    {
+      "word": "jalaa",
+      "count": 157
+    },
+    {
+      "word": "kiyya",
+      "count": 157
+    },
+    {
+      "word": "haaraa",
+      "count": 155
+    },
+    {
+      "word": "guddaan",
+      "count": 154
+    },
+    {
+      "word": "jala",
+      "count": 154
+    },
+    {
+      "word": "oo",
+      "count": 154
+    },
+    {
+      "word": "kanatti",
+      "count": 153
+    },
+    {
+      "word": "kibba",
+      "count": 153
+    },
+    {
+      "word": "arsii",
+      "count": 153
+    },
+    {
+      "word": "tokkoon",
+      "count": 152
+    },
+    {
+      "word": "addaan",
+      "count": 152
+    },
+    {
+      "word": "hafe",
+      "count": 152
+    },
+    {
+      "word": "nyaata",
+      "count": 152
+    },
+    {
+      "word": "bilisummaa",
+      "count": 150
+    },
+    {
+      "word": "alaa",
+      "count": 150
+    },
+    {
+      "word": "caalaa",
+      "count": 150
+    },
+    {
+      "word": "seera",
+      "count": 150
+    },
+    {
+      "word": "sagalee",
+      "count": 148
+    },
+    {
+      "word": "hundaa",
+      "count": 146
+    },
+    {
+      "word": "sochii",
+      "count": 146
+    },
+    {
+      "word": "argaman",
+      "count": 145
+    },
+    {
+      "word": "amantii",
+      "count": 144
+    },
+    {
+      "word": "ammas",
+      "count": 144
+    },
+    {
+      "word": "qabdu",
+      "count": 144
+    },
+    {
+      "word": "jiruu",
+      "count": 144
+    },
+    {
+      "word": "siin",
+      "count": 144
+    },
+    {
+      "word": "uummata",
+      "count": 143
+    },
+    {
+      "word": "dheeraa",
+      "count": 143
+    },
+    {
+      "word": "bifa",
+      "count": 143
+    },
+    {
+      "word": "een",
+      "count": 142
+    },
+    {
+      "word": "ummanni",
+      "count": 141
+    },
+    {
+      "word": "mootummaan",
+      "count": 141
+    },
+    {
+      "word": "finfinnee",
+      "count": 141
+    },
+    {
+      "word": "meeshaalee",
+      "count": 141
+    },
+    {
+      "word": "gaarii",
+      "count": 140
     },
     {
       "word": "haga",
-      "count": 5
+      "count": 140
     },
     {
-      "word": "warqee",
-      "count": 5
+      "word": "km",
+      "count": 140
     },
     {
-      "word": "sadaffaa",
-      "count": 5
+      "word": "ifa",
+      "count": 140
     },
     {
-      "word": "lammiilee",
-      "count": 5
+      "word": "faandaan",
+      "count": 140
     },
     {
-      "word": "bulchaan",
-      "count": 5
+      "word": "haadha",
+      "count": 139
+    },
+    {
+      "word": "xiqqaa",
+      "count": 139
+    },
+    {
+      "word": "kanin",
+      "count": 138
+    },
+    {
+      "word": "biyyaa",
+      "count": 137
+    },
+    {
+      "word": "abbaan",
+      "count": 137
+    },
+    {
+      "word": "jedha",
+      "count": 136
+    },
+    {
+      "word": "wantoota",
+      "count": 134
+    },
+    {
+      "word": "ishii",
+      "count": 134
+    },
+    {
+      "word": "ijoollee",
+      "count": 133
+    },
+    {
+      "word": "dubbii",
+      "count": 133
+    },
+    {
+      "word": "dandeenye",
+      "count": 133
+    },
+    {
+      "word": "lakkoofsa",
+      "count": 132
+    },
+    {
+      "word": "nuti",
+      "count": 132
+    },
+    {
+      "word": "hunduu",
+      "count": 132
+    },
+    {
+      "word": "anii",
+      "count": 131
+    },
+    {
+      "word": "qabdi",
+      "count": 129
+    },
+    {
+      "word": "nuu",
+      "count": 129
+    },
+    {
+      "word": "kaasee",
+      "count": 128
+    },
+    {
+      "word": "qilleensa",
+      "count": 128
+    },
+    {
+      "word": "com",
+      "count": 127
+    },
+    {
+      "word": "ati",
+      "count": 127
+    },
+    {
+      "word": "too",
+      "count": 127
+    },
+    {
+      "word": "yuunivarsiitii",
+      "count": 126
+    },
+    {
+      "word": "meetira",
+      "count": 126
+    },
+    {
+      "word": "innis",
+      "count": 125
+    },
+    {
+      "word": "as",
+      "count": 125
+    },
+    {
+      "word": "kaabaa",
+      "count": 125
+    },
+    {
+      "word": "waaqa",
+      "count": 125
+    },
+    {
+      "word": "kkf",
+      "count": 125
+    },
+    {
+      "word": "illee",
+      "count": 125
+    },
+    {
+      "word": "lammaffaa",
+      "count": 124
+    },
+    {
+      "word": "mirga",
+      "count": 124
+    },
+    {
+      "word": "ammaa",
+      "count": 124
+    },
+    {
+      "word": "jedhanii",
+      "count": 124
+    },
+    {
+      "word": "turte",
+      "count": 124
+    },
+    {
+      "word": "sanyii",
+      "count": 123
+    },
+    {
+      "word": "gama",
+      "count": 123
+    },
+    {
+      "word": "aadde",
+      "count": 123
+    },
+    {
+      "word": "sadii",
+      "count": 122
+    },
+    {
+      "word": "du",
+      "count": 121
+    },
+    {
+      "word": "dhalate",
+      "count": 120
+    },
+    {
+      "word": "taatu",
+      "count": 120
+    },
+    {
+      "word": "aanaan",
+      "count": 120
+    },
+    {
+      "word": "argate",
+      "count": 120
+    },
+    {
+      "word": "kanas",
+      "count": 119
+    },
+    {
+      "word": "gidduutti",
+      "count": 119
+    },
+    {
+      "word": "maatii",
+      "count": 119
+    },
+    {
+      "word": "baalee",
+      "count": 119
+    },
+    {
+      "word": "urjii",
+      "count": 119
+    },
+    {
+      "word": "rakkoo",
+      "count": 119
+    },
+    {
+      "word": "biiftuu",
+      "count": 119
+    },
+    {
+      "word": "argamtu",
+      "count": 118
+    },
+    {
+      "word": "tokkotti",
+      "count": 118
+    },
+    {
+      "word": "duraa",
+      "count": 118
+    },
+    {
+      "word": "xiqqoo",
+      "count": 118
+    },
+    {
+      "word": "jechuudha",
+      "count": 117
+    },
+    {
+      "word": "uumama",
+      "count": 117
+    },
+    {
+      "word": "garba",
+      "count": 117
+    },
+    {
+      "word": "muraasa",
+      "count": 117
+    },
+    {
+      "word": "achi",
+      "count": 117
+    },
+    {
+      "word": "kaan",
+      "count": 116
+    },
+    {
+      "word": "dhimma",
+      "count": 116
+    },
+    {
+      "word": "fayyadamuun",
+      "count": 115
+    },
+    {
+      "word": "sii",
+      "count": 115
+    },
+    {
+      "word": "baha",
+      "count": 114
+    },
+    {
+      "word": "hidhaa",
+      "count": 114
+    },
+    {
+      "word": "mallattoo",
+      "count": 114
+    },
+    {
+      "word": "kanan",
+      "count": 113
+    },
+    {
+      "word": "takka",
+      "count": 113
+    },
+    {
+      "word": "iyyuu",
+      "count": 113
+    },
+    {
+      "word": "miira",
+      "count": 113
+    },
+    {
+      "word": "fakkaatu",
+      "count": 112
+    },
+    {
+      "word": "dhufu",
+      "count": 112
+    },
+    {
+      "word": "beeku",
+      "count": 112
+    },
+    {
+      "word": "yokan",
+      "count": 110
+    },
+    {
+      "word": "ka'e",
+      "count": 110
+    },
+    {
+      "word": "dorgommii",
+      "count": 110
+    },
+    {
+      "word": "keenyaa",
+      "count": 110
+    },
+    {
+      "word": "qubee",
+      "count": 109
+    },
+    {
+      "word": "ilma",
+      "count": 109
+    },
+    {
+      "word": "amala",
+      "count": 109
+    },
+    {
+      "word": "sanaa",
+      "count": 109
+    },
+    {
+      "word": "jette",
+      "count": 109
+    },
+    {
+      "word": "manaa",
+      "count": 108
+    },
+    {
+      "word": "aduu",
+      "count": 108
+    },
+    {
+      "word": "takkaa",
+      "count": 108
+    },
+    {
+      "word": "darbee",
+      "count": 105
+    },
+    {
+      "word": "wanni",
+      "count": 105
+    },
+    {
+      "word": "eeyyee",
+      "count": 105
+    },
+    {
+      "word": "jaalatamtuu",
+      "count": 105
+    },
+    {
+      "word": "fakkaata",
+      "count": 104
+    },
+    {
+      "word": "dhukkuba",
+      "count": 104
+    },
+    {
+      "word": "dhiiga",
+      "count": 104
+    },
+    {
+      "word": "nagaa",
+      "count": 103
+    },
+    {
+      "word": "sagantaa",
+      "count": 103
+    },
+    {
+      "word": "yaalii",
+      "count": 103
+    },
+    {
+      "word": "teslaan",
+      "count": 103
+    },
+    {
+      "word": "jiraatan",
+      "count": 102
+    },
+    {
+      "word": "tajaajila",
+      "count": 102
+    },
+    {
+      "word": "bulchiinsa",
+      "count": 102
+    },
+    {
+      "word": "gad",
+      "count": 102
+    },
+    {
+      "word": "sammuu",
+      "count": 102
+    },
+    {
+      "word": "kiitiif",
+      "count": 102
+    },
+    {
+      "word": "dhufee",
+      "count": 101
+    },
+    {
+      "word": "saba",
+      "count": 101
+    },
+    {
+      "word": "cimaa",
+      "count": 101
+    },
+    {
+      "word": "ganda",
+      "count": 101
+    },
+    {
+      "word": "wanti",
+      "count": 101
+    },
+    {
+      "word": "eshiyaa",
+      "count": 101
+    },
+    {
+      "word": "dhibee",
+      "count": 101
+    },
+    {
+      "word": "on",
+      "count": 100
+    },
+    {
+      "word": "galaana",
+      "count": 100
+    },
+    {
+      "word": "kaaba",
+      "count": 100
+    },
+    {
+      "word": "hedduun",
+      "count": 100
+    },
+    {
+      "word": "ala",
+      "count": 100
+    },
+    {
+      "word": "gurguddoo",
+      "count": 100
+    },
+    {
+      "word": "lammii",
+      "count": 100
+    },
+    {
+      "word": "isheen",
+      "count": 99
+    },
+    {
+      "word": "haalli",
+      "count": 98
+    },
+    {
+      "word": "jiraachuu",
+      "count": 98
+    },
+    {
+      "word": "ta'eef",
+      "count": 98
+    },
+    {
+      "word": "akkas",
+      "count": 98
+    },
+    {
+      "word": "waanti",
+      "count": 98
+    },
+    {
+      "word": "maargoot",
+      "count": 98
+    },
+    {
+      "word": "yookaan",
+      "count": 97
+    },
+    {
+      "word": "godhu",
+      "count": 97
+    },
+    {
+      "word": "dhiibbaa",
+      "count": 96
+    },
+    {
+      "word": "gogaa",
+      "count": 96
+    },
+    {
+      "word": "carraa",
+      "count": 96
+    },
+    {
+      "word": "qabuu",
+      "count": 96
+    },
+    {
+      "word": "egaa",
+      "count": 96
+    },
+    {
+      "word": "ga",
+      "count": 96
+    },
+    {
+      "word": "waanan",
+      "count": 96
+    },
+    {
+      "word": "shan",
+      "count": 95
+    },
+    {
+      "word": "duraan",
+      "count": 95
+    },
+    {
+      "word": "marsaa",
+      "count": 95
+    },
+    {
+      "word": "jireenyaa",
+      "count": 95
+    },
+    {
+      "word": "wayita",
+      "count": 95
+    },
+    {
+      "word": "de",
+      "count": 94
+    },
+    {
+      "word": "arabaa",
+      "count": 94
+    },
+    {
+      "word": "waggoota",
+      "count": 94
+    },
+    {
+      "word": "lubbiyyoo",
+      "count": 94
+    },
+    {
+      "word": "deemu",
+      "count": 94
+    },
+    {
+      "word": "barnootaa",
+      "count": 94
+    },
+    {
+      "word": "waldaa",
+      "count": 94
+    },
+    {
+      "word": "icciitii",
+      "count": 94
+    },
+    {
+      "word": "jedhamutti",
+      "count": 93
+    },
+    {
+      "word": "walakkaa",
+      "count": 93
+    },
+    {
+      "word": "barumsa",
+      "count": 93
+    },
+    {
+      "word": "ji'a",
+      "count": 93
+    },
+    {
+      "word": "lubbuu",
+      "count": 93
+    },
+    {
+      "word": "dhuma",
+      "count": 92
+    },
+    {
+      "word": "miseensa",
+      "count": 92
+    },
+    {
+      "word": "ilmaan",
+      "count": 92
+    },
+    {
+      "word": "ebla",
+      "count": 92
+    },
+    {
+      "word": "yommuu",
+      "count": 92
+    },
+    {
+      "word": "jedheen",
+      "count": 92
+    },
+    {
+      "word": "isaani",
+      "count": 91
+    },
+    {
+      "word": "barumsaa",
+      "count": 91
+    },
+    {
+      "word": "mala",
+      "count": 91
+    },
+    {
+      "word": "isaatti",
+      "count": 91
+    },
+    {
+      "word": "fedhii",
+      "count": 91
+    },
+    {
+      "word": "abo",
+      "count": 90
+    },
+    {
+      "word": "lafti",
+      "count": 90
+    },
+    {
+      "word": "maccaa",
+      "count": 90
+    },
+    {
+      "word": "kamiyyuu",
+      "count": 90
+    },
+    {
+      "word": "galaanaa",
+      "count": 90
+    },
+    {
+      "word": "hoggaa",
+      "count": 90
+    },
+    {
+      "word": "sanatti",
+      "count": 90
+    },
+    {
+      "word": "nutti",
+      "count": 90
+    },
+    {
+      "word": "turre",
+      "count": 89
+    },
+    {
+      "word": "ba",
+      "count": 89
+    },
+    {
+      "word": "sirni",
+      "count": 89
+    },
+    {
+      "word": "kanaafuu",
+      "count": 89
+    },
+    {
+      "word": "plate",
+      "count": 89
+    },
+    {
+      "word": "gochuu",
+      "count": 88
+    },
+    {
+      "word": "qabata",
+      "count": 88
+    },
+    {
+      "word": "dhaloota",
+      "count": 88
+    },
+    {
+      "word": "taate",
+      "count": 88
+    },
+    {
+      "word": "godha",
+      "count": 88
+    },
+    {
+      "word": "urjiilee",
+      "count": 88
+    },
+    {
+      "word": "guddina",
+      "count": 88
+    },
+    {
+      "word": "walaloo",
+      "count": 88
+    },
+    {
+      "word": "turee",
+      "count": 87
+    },
+    {
+      "word": "argamti",
+      "count": 87
+    },
+    {
+      "word": "dachee",
+      "count": 87
+    },
+    {
+      "word": "jettee",
+      "count": 87
+    },
+    {
+      "word": "beeka",
+      "count": 87
+    },
+    {
+      "word": "oduu",
+      "count": 86
+    },
+    {
+      "word": "ergaa",
+      "count": 86
+    },
+    {
+      "word": "bishaanii",
+      "count": 86
+    },
+    {
+      "word": "beekama",
+      "count": 86
+    },
+    {
+      "word": "deeme",
+      "count": 86
+    },
+    {
+      "word": "sheekh",
+      "count": 86
+    },
+    {
+      "word": "booranaa",
+      "count": 85
+    },
+    {
+      "word": "badhaasa",
+      "count": 85
+    },
+    {
+      "word": "dhagaa",
+      "count": 85
+    },
+    {
+      "word": "bal",
+      "count": 85
+    },
+    {
+      "word": "maaliif",
+      "count": 85
+    },
+    {
+      "word": "diimaa",
+      "count": 84
+    },
+    {
+      "word": "olaanaa",
+      "count": 84
+    },
+    {
+      "word": "siyaasaa",
+      "count": 84
+    },
+    {
+      "word": "ammayyaa",
+      "count": 84
+    },
+    {
+      "word": "hamma",
+      "count": 84
+    },
+    {
+      "word": "guddoo",
+      "count": 84
+    },
+    {
+      "word": "tulluu",
+      "count": 84
+    },
+    {
+      "word": "kubbaa",
+      "count": 84
+    },
+    {
+      "word": "kallattii",
+      "count": 84
+    },
+    {
+      "word": "akkam",
+      "count": 83
+    },
+    {
+      "word": "jimmaa",
+      "count": 83
+    },
+    {
+      "word": "hawaasa",
+      "count": 83
+    },
+    {
+      "word": "aanolee",
+      "count": 83
+    },
+    {
+      "word": "qilleensaa",
+      "count": 83
+    },
+    {
+      "word": "akkaataa",
+      "count": 83
+    },
+    {
+      "word": "xixiqqoo",
+      "count": 83
+    },
+    {
+      "word": "irraan",
+      "count": 83
+    },
+    {
+      "word": "anniisaa",
+      "count": 83
+    },
+    {
+      "word": "isin",
+      "count": 83
+    },
+    {
+      "word": "jedhan",
+      "count": 83
+    },
+    {
+      "word": "koloneel",
+      "count": 83
+    },
+    {
+      "word": "duukaa",
+      "count": 83
+    },
+    {
+      "word": "dhufan",
+      "count": 82
+    },
+    {
+      "word": "sa'aa",
+      "count": 82
     },
     {
       "word": "arge",
-      "count": 5
+      "count": 82
     },
     {
-      "word": "boodaa",
-      "count": 5
+      "word": "balaa",
+      "count": 82
     },
     {
-      "word": "murtoo",
-      "count": 5
+      "word": "diina",
+      "count": 82
+    },
+    {
+      "word": "dabalatee",
+      "count": 81
+    },
+    {
+      "word": "jirutti",
+      "count": 81
+    },
+    {
+      "word": "beekkama",
+      "count": 81
+    },
+    {
+      "word": "lafee",
+      "count": 81
+    },
+    {
+      "word": "ta'uun",
+      "count": 81
+    },
+    {
+      "word": "godhee",
+      "count": 80
+    },
+    {
+      "word": "ibsa",
+      "count": 80
+    },
+    {
+      "word": "damee",
+      "count": 80
+    },
+    {
+      "word": "sirrii",
+      "count": 80
+    },
+    {
+      "word": "magaala",
+      "count": 80
+    },
+    {
+      "word": "hima",
+      "count": 80
+    },
+    {
+      "word": "akkasii",
+      "count": 80
+    },
+    {
+      "word": "maaltu",
+      "count": 80
+    },
+    {
+      "word": "armaan",
+      "count": 79
+    },
+    {
+      "word": "gadii",
+      "count": 79
+    },
+    {
+      "word": "sirriitti",
+      "count": 79
+    },
+    {
+      "word": "caala",
+      "count": 79
+    },
+    {
+      "word": "fayyadamu",
+      "count": 79
+    },
+    {
+      "word": "ofitti",
+      "count": 79
+    },
+    {
+      "word": "waraanni",
+      "count": 79
+    },
+    {
+      "word": "kudha",
+      "count": 79
+    },
+    {
+      "word": "bahaatti",
+      "count": 79
+    },
+    {
+      "word": "lixaa",
+      "count": 79
+    },
+    {
+      "word": "hoo",
+      "count": 79
+    },
+    {
+      "word": "qaamni",
+      "count": 79
+    },
+    {
+      "word": "yookaa",
+      "count": 79
+    },
+    {
+      "word": "seete",
+      "count": 79
+    },
+    {
+      "word": "bayye",
+      "count": 78
+    },
+    {
+      "word": "aangoo",
+      "count": 78
+    },
+    {
+      "word": "jeneraal",
+      "count": 78
+    },
+    {
+      "word": "dhiigaa",
+      "count": 78
+    },
+    {
+      "word": "isaaf",
+      "count": 78
+    },
+    {
+      "word": "fiiziksii",
+      "count": 78
+    },
+    {
+      "word": "kanarratti",
+      "count": 78
+    },
+    {
+      "word": "sababni",
+      "count": 78
+    },
+    {
+      "word": "aabbaa",
+      "count": 78
+    },
+    {
+      "word": "afur",
+      "count": 77
+    },
+    {
+      "word": "ifaa",
+      "count": 77
+    },
+    {
+      "word": "aan",
+      "count": 77
+    },
+    {
+      "word": "agarsiisa",
+      "count": 77
+    },
+    {
+      "word": "daangaa",
+      "count": 77
+    },
+    {
+      "word": "jijjiirama",
+      "count": 77
+    },
+    {
+      "word": "gaaffii",
+      "count": 77
+    },
+    {
+      "word": "hawaa",
+      "count": 77
+    },
+    {
+      "word": "beekkamoo",
+      "count": 76
+    },
+    {
+      "word": "suuta",
+      "count": 76
+    },
+    {
+      "word": "dhaaba",
+      "count": 75
+    },
+    {
+      "word": "tuulamaa",
+      "count": 75
+    },
+    {
+      "word": "gargaarsa",
+      "count": 75
+    },
+    {
+      "word": "uuf",
+      "count": 75
+    },
+    {
+      "word": "boodarra",
+      "count": 75
+    },
+    {
+      "word": "maraatoonii",
+      "count": 75
+    },
+    {
+      "word": "sababiin",
+      "count": 75
+    },
+    {
+      "word": "hamaa",
+      "count": 74
+    },
+    {
+      "word": "gaazii",
+      "count": 74
+    },
+    {
+      "word": "dambalii",
+      "count": 74
+    },
+    {
+      "word": "nyaataa",
+      "count": 74
+    },
+    {
+      "word": "umurii",
+      "count": 74
+    },
+    {
+      "word": "tiyya",
+      "count": 74
+    },
+    {
+      "word": "kompitara",
+      "count": 74
+    },
+    {
+      "word": "darbe",
+      "count": 73
+    },
+    {
+      "word": "qulqulluu",
+      "count": 73
+    },
+    {
+      "word": "har'a",
+      "count": 73
+    },
+    {
+      "word": "tuuta",
+      "count": 73
+    },
+    {
+      "word": "baayyinaan",
+      "count": 73
+    },
+    {
+      "word": "olii",
+      "count": 73
+    },
+    {
+      "word": "loon",
+      "count": 73
+    },
+    {
+      "word": "dhaabbata",
+      "count": 73
+    },
+    {
+      "word": "qabee",
+      "count": 73
+    },
+    {
+      "word": "beekamu",
+      "count": 73
+    },
+    {
+      "word": "sa'aatii",
+      "count": 73
+    },
+    {
+      "word": "raadiyoo",
+      "count": 73
+    },
+    {
+      "word": "anis",
+      "count": 73
+    },
+    {
+      "word": "harkaa",
+      "count": 72
+    },
+    {
+      "word": "jedhaman",
+      "count": 72
+    },
+    {
+      "word": "dirqama",
+      "count": 72
+    },
+    {
+      "word": "jirti",
+      "count": 72
+    },
+    {
+      "word": "firaansi",
+      "count": 72
+    },
+    {
+      "word": "saffisa",
+      "count": 72
+    },
+    {
+      "word": "uume",
+      "count": 72
+    },
+    {
+      "word": "beekkamu",
+      "count": 71
+    },
+    {
+      "word": "bu'aa",
+      "count": 71
+    },
+    {
+      "word": "qarqara",
+      "count": 71
+    },
+    {
+      "word": "dubartii",
+      "count": 71
+    },
+    {
+      "word": "guyyaan",
+      "count": 71
+    },
+    {
+      "word": "jechi",
+      "count": 71
+    },
+    {
+      "word": "waaqeffannaa",
+      "count": 71
+    },
+    {
+      "word": "ogummaa",
+      "count": 71
+    },
+    {
+      "word": "halluu",
+      "count": 71
+    },
+    {
+      "word": "fudhatee",
+      "count": 70
+    },
+    {
+      "word": "barreeffama",
+      "count": 70
+    },
+    {
+      "word": "horii",
+      "count": 70
+    },
+    {
+      "word": "faayidaa",
+      "count": 70
+    },
+    {
+      "word": "gosoota",
+      "count": 70
+    },
+    {
+      "word": "mariin",
+      "count": 70
+    },
+    {
+      "word": "garbaa",
+      "count": 70
+    },
+    {
+      "word": "magaalaan",
+      "count": 70
+    },
+    {
+      "word": "adoolessa",
+      "count": 70
+    },
+    {
+      "word": "qabaachuu",
+      "count": 70
+    },
+    {
+      "word": "namatti",
+      "count": 70
+    },
+    {
+      "word": "ሲሚንቶ",
+      "count": 70
+    },
+    {
+      "word": "seenaan",
+      "count": 69
+    },
+    {
+      "word": "mootii",
+      "count": 69
+    },
+    {
+      "word": "eega",
+      "count": 69
+    },
+    {
+      "word": "caamsaa",
+      "count": 69
+    },
+    {
+      "word": "isii",
+      "count": 69
+    },
+    {
+      "word": "retrieved",
+      "count": 69
+    },
+    {
+      "word": "halkan",
+      "count": 69
+    },
+    {
+      "word": "barbaadu",
+      "count": 69
+    },
+    {
+      "word": "lafjoo",
+      "count": 69
+    },
+    {
+      "word": "galgala",
+      "count": 68
+    },
+    {
+      "word": "for",
+      "count": 68
+    },
+    {
+      "word": "harargee",
+      "count": 68
+    },
+    {
+      "word": "seene",
+      "count": 68
+    },
+    {
+      "word": "fayyadama",
+      "count": 68
+    },
+    {
+      "word": "mata",
+      "count": 68
+    },
+    {
+      "word": "qabatee",
+      "count": 68
+    },
+    {
+      "word": "humni",
+      "count": 68
+    },
+    {
+      "word": "gochaa",
+      "count": 68
+    },
+    {
+      "word": "qaamaa",
+      "count": 68
+    },
+    {
+      "word": "raammoo",
+      "count": 68
+    },
+    {
+      "word": "odaa",
+      "count": 68
+    },
+    {
+      "word": "eef",
+      "count": 68
+    },
+    {
+      "word": "mucaa",
+      "count": 68
+    },
+    {
+      "word": "anaa",
+      "count": 68
+    },
+    {
+      "word": "akkamitti",
+      "count": 68
+    },
+    {
+      "word": "aartii",
+      "count": 68
+    },
+    {
+      "word": "himuu",
+      "count": 68
+    },
+    {
+      "word": "bakkalcha",
+      "count": 68
+    },
+    {
+      "word": "hojiin",
+      "count": 67
+    },
+    {
+      "word": "yoon",
+      "count": 67
+    },
+    {
+      "word": "daandii",
+      "count": 67
+    },
+    {
+      "word": "kennuu",
+      "count": 67
+    },
+    {
+      "word": "harmeen",
+      "count": 67
+    },
+    {
+      "word": "sa",
+      "count": 66
+    },
+    {
+      "word": "adii",
+      "count": 66
+    },
+    {
+      "word": "ilaalcha",
+      "count": 66
+    },
+    {
+      "word": "hagayya",
+      "count": 66
+    },
+    {
+      "word": "fufe",
+      "count": 66
+    },
+    {
+      "word": "bineensota",
+      "count": 66
+    },
+    {
+      "word": "onnee",
+      "count": 66
+    },
+    {
+      "word": "sarkiyuutii",
+      "count": 66
+    },
+    {
+      "word": "uffata",
+      "count": 66
+    },
+    {
+      "word": "manni",
+      "count": 65
+    },
+    {
+      "word": "salphaa",
+      "count": 65
+    },
+    {
+      "word": "gargaara",
+      "count": 65
+    },
+    {
+      "word": "dhumaa",
+      "count": 65
+    },
+    {
+      "word": "org",
+      "count": 65
+    },
+    {
+      "word": "tan",
+      "count": 65
+    },
+    {
+      "word": "uumamaa",
+      "count": 65
+    },
+    {
+      "word": "wajji",
+      "count": 65
+    },
+    {
+      "word": "kophaa",
+      "count": 65
+    },
+    {
+      "word": "world",
+      "count": 64
+    },
+    {
+      "word": "jirru",
+      "count": 64
+    },
+    {
+      "word": "umrii",
+      "count": 64
+    },
+    {
+      "word": "gossa",
+      "count": 64
+    },
+    {
+      "word": "haati",
+      "count": 64
+    },
+    {
+      "word": "islaamaa",
+      "count": 64
+    },
+    {
+      "word": "fakkii",
+      "count": 64
+    },
+    {
+      "word": "taatee",
+      "count": 64
+    },
+    {
+      "word": "adeemsa",
+      "count": 64
+    },
+    {
+      "word": "faallaa",
+      "count": 64
+    },
+    {
+      "word": "akkasuma",
+      "count": 64
+    },
+    {
+      "word": "osoon",
+      "count": 64
+    },
+    {
+      "word": "harmee",
+      "count": 64
+    },
+    {
+      "word": "aabbaan",
+      "count": 64
+    },
+    {
+      "word": "muraasni",
+      "count": 63
+    },
+    {
+      "word": "dirree",
+      "count": 63
+    },
+    {
+      "word": "gujii",
+      "count": 63
+    },
+    {
+      "word": "miliyoona",
+      "count": 63
+    },
+    {
+      "word": "hafan",
+      "count": 63
+    },
+    {
+      "word": "fulbaana",
+      "count": 63
+    },
+    {
+      "word": "haroo",
+      "count": 63
+    },
+    {
+      "word": "bitootessa",
+      "count": 63
+    },
+    {
+      "word": "murtii",
+      "count": 63
+    },
+    {
+      "word": "ardii",
+      "count": 62
+    },
+    {
+      "word": "ummataa",
+      "count": 62
+    },
+    {
+      "word": "ethiopia",
+      "count": 62
+    },
+    {
+      "word": "usa",
+      "count": 62
+    },
+    {
+      "word": "taa",
+      "count": 62
+    },
+    {
+      "word": "samii",
+      "count": 62
+    },
+    {
+      "word": "baay'een",
+      "count": 62
+    },
+    {
+      "word": "boca",
+      "count": 62
+    },
+    {
+      "word": "caasaa",
+      "count": 62
+    },
+    {
+      "word": "deemuu",
+      "count": 62
+    },
+    {
+      "word": "socho",
+      "count": 62
+    },
+    {
+      "word": "lubbuun",
+      "count": 62
+    },
+    {
+      "word": "achitti",
+      "count": 62
+    },
+    {
+      "word": "ayyaana",
+      "count": 62
+    },
+    {
+      "word": "ላይ",
+      "count": 62
+    },
+    {
+      "word": "lubbu",
+      "count": 61
+    },
+    {
+      "word": "is",
+      "count": 61
+    },
+    {
+      "word": "afaanii",
+      "count": 61
+    },
+    {
+      "word": "bulchaa",
+      "count": 61
+    },
+    {
+      "word": "wallagga",
+      "count": 61
+    },
+    {
+      "word": "fageenya",
+      "count": 61
+    },
+    {
+      "word": "odeeffannoo",
+      "count": 61
+    },
+    {
+      "word": "ilmi",
+      "count": 61
+    },
+    {
+      "word": "hojjatu",
+      "count": 61
+    },
+    {
+      "word": "dandeettii",
+      "count": 61
+    },
+    {
+      "word": "magaalota",
+      "count": 61
+    },
+    {
+      "word": "galee",
+      "count": 61
+    },
+    {
+      "word": "by",
+      "count": 61
+    },
+    {
+      "word": "qabeeyyii",
+      "count": 61
+    },
+    {
+      "word": "naaf",
+      "count": 61
+    },
+    {
+      "word": "jechoota",
+      "count": 60
+    },
+    {
+      "word": "qabeenya",
+      "count": 60
+    },
+    {
+      "word": "jalqaban",
+      "count": 60
+    },
+    {
+      "word": "wanta",
+      "count": 60
+    },
+    {
+      "word": "madda",
+      "count": 60
+    },
+    {
+      "word": "danda'ama",
+      "count": 60
+    },
+    {
+      "word": "xaaliyaanii",
+      "count": 60
+    },
+    {
+      "word": "bahee",
+      "count": 60
+    },
+    {
+      "word": "ofirraa",
+      "count": 60
+    },
+    {
+      "word": "baname",
+      "count": 60
+    },
+    {
+      "word": "haaluma",
+      "count": 60
+    },
+    {
+      "word": "barreesse",
+      "count": 60
+    },
+    {
+      "word": "dhaqee",
+      "count": 60
+    },
+    {
+      "word": "gale",
+      "count": 60
+    },
+    {
+      "word": "gabaabaa",
+      "count": 60
+    },
+    {
+      "word": "barate",
+      "count": 60
+    },
+    {
+      "word": "himu",
+      "count": 60
+    },
+    {
+      "word": "lola",
+      "count": 60
+    },
+    {
+      "word": "siif",
+      "count": 60
+    },
+    {
+      "word": "iin",
+      "count": 59
+    },
+    {
+      "word": "ho",
+      "count": 59
+    },
+    {
+      "word": "lamatti",
+      "count": 59
+    },
+    {
+      "word": "jirra",
+      "count": 59
+    },
+    {
+      "word": "malees",
+      "count": 59
+    },
+    {
+      "word": "dr",
+      "count": 59
+    },
+    {
+      "word": "wallaggaa",
+      "count": 59
+    },
+    {
+      "word": "kunii",
+      "count": 59
+    },
+    {
+      "word": "aafrikaa",
+      "count": 59
+    },
+    {
+      "word": "heddu",
+      "count": 59
+    },
+    {
+      "word": "ta'een",
+      "count": 59
+    },
+    {
+      "word": "bineensa",
+      "count": 59
+    },
+    {
+      "word": "isaati",
+      "count": 59
+    },
+    {
+      "word": "eeshiyaa",
+      "count": 59
+    },
+    {
+      "word": "suuraa",
+      "count": 59
+    },
+    {
+      "word": "kanarraa",
+      "count": 59
+    },
+    {
+      "word": "daldala",
+      "count": 59
+    },
+    {
+      "word": "lamaa",
+      "count": 59
+    },
+    {
+      "word": "wbo",
+      "count": 59
+    },
+    {
+      "word": "gadaan",
+      "count": 59
+    },
+    {
+      "word": "tapha",
+      "count": 58
+    },
+    {
+      "word": "new",
+      "count": 58
+    },
+    {
+      "word": "ganna",
+      "count": 58
+    },
+    {
+      "word": "deebii",
+      "count": 58
+    },
+    {
+      "word": "dachaa",
+      "count": 58
+    },
+    {
+      "word": "hojiirra",
+      "count": 58
+    },
+    {
+      "word": "dhuunfaa",
+      "count": 58
+    },
+    {
+      "word": "lakkoofsi",
+      "count": 58
+    },
+    {
+      "word": "elektirikii",
+      "count": 58
+    },
+    {
+      "word": "agarsiisu",
+      "count": 58
+    },
+    {
+      "word": "dhabuu",
+      "count": 58
+    },
+    {
+      "word": "giddu",
+      "count": 58
+    },
+    {
+      "word": "muka",
+      "count": 58
+    },
+    {
+      "word": "barsiisaa",
+      "count": 58
+    },
+    {
+      "word": "torban",
+      "count": 58
+    },
+    {
+      "word": "hariiroo",
+      "count": 58
+    },
+    {
+      "word": "deemee",
+      "count": 58
+    },
+    {
+      "word": "abdii",
+      "count": 58
+    },
+    {
+      "word": "jaalala",
+      "count": 58
+    },
+    {
+      "word": "barattoota",
+      "count": 58
+    },
+    {
+      "word": "kompitaraa",
+      "count": 58
+    },
+    {
+      "word": "jalqabee",
+      "count": 57
+    },
+    {
+      "word": "olitti",
+      "count": 57
+    },
+    {
+      "word": "jiraata",
+      "count": 57
+    },
+    {
+      "word": "tana",
+      "count": 57
+    },
+    {
+      "word": "boolla",
+      "count": 57
+    },
+    {
+      "word": "jarmanii",
+      "count": 57
+    },
+    {
+      "word": "with",
+      "count": 57
+    },
+    {
+      "word": "dhumarratti",
+      "count": 57
+    },
+    {
+      "word": "deema",
+      "count": 57
+    },
+    {
+      "word": "fayyaa",
+      "count": 57
+    },
+    {
+      "word": "gala",
+      "count": 57
+    },
+    {
+      "word": "xalayaa",
+      "count": 57
+    },
+    {
+      "word": "mitii",
+      "count": 57
+    },
+    {
+      "word": "baatirii",
+      "count": 57
+    },
+    {
+      "word": "እና",
+      "count": 57
+    },
+    {
+      "word": "barri",
+      "count": 56
+    },
+    {
+      "word": "kuma",
+      "count": 56
+    },
+    {
+      "word": "ilaali",
+      "count": 56
+    },
+    {
+      "word": "bahaan",
+      "count": 56
+    },
+    {
+      "word": "foon",
+      "count": 56
+    },
+    {
+      "word": "argamuu",
+      "count": 56
+    },
+    {
+      "word": "bosona",
+      "count": 56
+    },
+    {
+      "word": "marii",
+      "count": 56
+    },
+    {
+      "word": "herregaa",
+      "count": 56
+    },
+    {
+      "word": "ama",
+      "count": 56
+    },
+    {
+      "word": "jalqabaaf",
+      "count": 56
+    },
+    {
+      "word": "ganama",
+      "count": 56
+    },
+    {
+      "word": "otoo",
+      "count": 56
+    },
+    {
+      "word": "ana",
+      "count": 56
+    },
+    {
+      "word": "amu",
+      "count": 56
+    },
+    {
+      "word": "godhame",
+      "count": 55
+    },
+    {
+      "word": "dubbatu",
+      "count": 55
+    },
+    {
+      "word": "godhan",
+      "count": 55
+    },
+    {
+      "word": "fudhate",
+      "count": 55
+    },
+    {
+      "word": "argachuu",
+      "count": 55
+    },
+    {
+      "word": "gaara",
+      "count": 55
+    },
+    {
+      "word": "garagaraa",
+      "count": 55
+    },
+    {
+      "word": "qabuun",
+      "count": 55
+    },
+    {
+      "word": "xiqqaate",
+      "count": 55
+    },
+    {
+      "word": "amaloota",
+      "count": 55
+    },
+    {
+      "word": "qabsaawota",
+      "count": 55
+    },
+    {
+      "word": "fayyadamuu",
+      "count": 55
+    },
+    {
+      "word": "barruu",
+      "count": 55
+    },
+    {
+      "word": "wagga",
+      "count": 54
+    },
+    {
+      "word": "qabxii",
+      "count": 54
+    },
+    {
+      "word": "gurguddaa",
+      "count": 54
+    },
+    {
+      "word": "dhala",
+      "count": 54
+    },
+    {
+      "word": "jedhame",
+      "count": 54
+    },
+    {
+      "word": "eegalee",
+      "count": 54
+    },
+    {
+      "word": "gubbaa",
+      "count": 54
+    },
+    {
+      "word": "biraan",
+      "count": 54
+    },
+    {
+      "word": "guyyoota",
+      "count": 54
+    },
+    {
+      "word": "nuun",
+      "count": 54
+    },
+    {
+      "word": "baayyeen",
+      "count": 53
+    },
+    {
+      "word": "dabalata",
+      "count": 53
+    },
+    {
+      "word": "harar",
+      "count": 53
+    },
+    {
+      "word": "miseensota",
+      "count": 53
+    },
+    {
+      "word": "duubatti",
+      "count": 53
+    },
+    {
+      "word": "keessattuu",
+      "count": 53
+    },
+    {
+      "word": "awurooppaa",
+      "count": 53
+    },
+    {
+      "word": "dhufuu",
+      "count": 53
+    },
+    {
+      "word": "yaadannoo",
+      "count": 53
+    },
+    {
+      "word": "buufata",
+      "count": 53
+    },
+    {
+      "word": "goota",
+      "count": 53
+    },
+    {
+      "word": "olompiikii",
+      "count": 53
+    },
+    {
+      "word": "ilaaluu",
+      "count": 53
+    },
+    {
+      "word": "dhufeenya",
+      "count": 53
+    },
+    {
+      "word": "barbaada",
+      "count": 53
+    },
+    {
+      "word": "የጂኦፖሊመር",
+      "count": 53
+    },
+    {
+      "word": "naanna",
+      "count": 52
+    },
+    {
+      "word": "dhangala",
+      "count": 52
+    },
+    {
+      "word": "daqiiqaa",
+      "count": 52
+    },
+    {
+      "word": "hojjatame",
+      "count": 52
+    },
+    {
+      "word": "uumamu",
+      "count": 52
+    },
+    {
+      "word": "mee",
+      "count": 52
+    },
+    {
+      "word": "duubaa",
+      "count": 52
+    },
+    {
+      "word": "hundoofte",
+      "count": 52
+    },
+    {
+      "word": "utuu",
+      "count": 52
+    },
+    {
+      "word": "jennaan",
+      "count": 52
+    },
+    {
+      "word": "miilaa",
+      "count": 52
+    },
+    {
+      "word": "eebba",
+      "count": 52
+    },
+    {
+      "word": "soorata",
+      "count": 52
+    },
+    {
+      "word": "yerro",
+      "count": 51
+    },
+    {
+      "word": "dhihoo",
+      "count": 51
+    },
+    {
+      "word": "ballina",
+      "count": 51
+    },
+    {
+      "word": "qorannoon",
+      "count": 51
+    },
+    {
+      "word": "walumaa",
+      "count": 51
+    },
+    {
+      "word": "fudhachuu",
+      "count": 51
+    },
+    {
+      "word": "barbaachisaa",
+      "count": 51
+    },
+    {
+      "word": "sanii",
+      "count": 51
+    },
+    {
+      "word": "dhibeen",
+      "count": 51
+    },
+    {
+      "word": "piyeer",
+      "count": 51
+    },
+    {
+      "word": "tarree",
+      "count": 51
+    },
+    {
+      "word": "gammachuu",
+      "count": 51
+    },
+    {
+      "word": "seenee",
+      "count": 51
+    },
+    {
+      "word": "keessoo",
+      "count": 51
+    },
+    {
+      "word": "caalaatti",
+      "count": 51
+    },
+    {
+      "word": "kompitarri",
+      "count": 51
+    },
+    {
+      "word": "group",
+      "count": 50
+    },
+    {
+      "word": "bakki",
+      "count": 50
+    },
+    {
+      "word": "kennu",
+      "count": 50
+    },
+    {
+      "word": "argame",
+      "count": 50
+    },
+    {
+      "word": "fakkeenya",
+      "count": 50
+    },
+    {
+      "word": "deeman",
+      "count": 50
+    },
+    {
+      "word": "uummanni",
+      "count": 50
+    },
+    {
+      "word": "galatti",
+      "count": 50
+    },
+    {
+      "word": "guraandhala",
+      "count": 50
+    },
+    {
+      "word": "atu",
+      "count": 50
+    },
+    {
+      "word": "uuma",
+      "count": 50
+    },
+    {
+      "word": "gochuun",
+      "count": 50
+    },
+    {
+      "word": "fayyadaman",
+      "count": 50
+    },
+    {
+      "word": "kenne",
+      "count": 50
+    },
+    {
+      "word": "qananiisaan",
+      "count": 50
+    },
+    {
+      "word": "kunniin",
+      "count": 49
+    },
+    {
+      "word": "tarii",
+      "count": 49
+    },
+    {
+      "word": "guutuutti",
+      "count": 49
+    },
+    {
+      "word": "eenyu",
+      "count": 49
+    },
+    {
+      "word": "caalu",
+      "count": 49
+    },
+    {
+      "word": "dheerina",
+      "count": 49
+    },
+    {
+      "word": "fudhatama",
+      "count": 49
+    },
+    {
+      "word": "raashiyaa",
+      "count": 49
+    },
+    {
+      "word": "jabaa",
+      "count": 49
+    },
+    {
+      "word": "ijaan",
+      "count": 49
+    },
+    {
+      "word": "ina",
+      "count": 49
+    },
+    {
+      "word": "fiigicha",
+      "count": 49
+    },
+    {
+      "word": "yaadu",
+      "count": 49
+    },
+    {
+      "word": "lolaa",
+      "count": 49
+    },
+    {
+      "word": "mooraa",
+      "count": 49
+    },
+    {
+      "word": "dhufa",
+      "count": 49
+    },
+    {
+      "word": "haalaan",
+      "count": 49
+    },
+    {
+      "word": "ammaatti",
+      "count": 48
+    },
+    {
+      "word": "gargar",
+      "count": 48
+    },
+    {
+      "word": "dabalaa",
+      "count": 48
+    },
+    {
+      "word": "argatu",
+      "count": 48
+    },
+    {
+      "word": "danda'an",
+      "count": 48
+    },
+    {
+      "word": "ajaja",
+      "count": 48
+    },
+    {
+      "word": "sochiin",
+      "count": 48
+    },
+    {
+      "word": "duree",
+      "count": 48
+    },
+    {
+      "word": "seena",
+      "count": 48
+    },
+    {
+      "word": "miidhaa",
+      "count": 48
+    },
+    {
+      "word": "qofaa",
+      "count": 48
+    },
+    {
+      "word": "keemikaalaa",
+      "count": 48
+    },
+    {
+      "word": "waliigalaa",
+      "count": 48
+    },
+    {
+      "word": "wayii",
+      "count": 48
+    },
+    {
+      "word": "keessan",
+      "count": 48
+    },
+    {
+      "word": "shaampiyoonaa",
+      "count": 48
+    },
+    {
+      "word": "karantii",
+      "count": 48
+    },
+    {
+      "word": "bu'uura",
+      "count": 48
+    },
+    {
+      "word": "waaqni",
+      "count": 48
+    },
+    {
+      "word": "akkasitti",
+      "count": 48
+    },
+    {
+      "word": "xin-hawaa",
+      "count": 48
+    },
+    {
+      "word": "wayta",
+      "count": 48
+    },
+    {
+      "word": "jalqabu",
+      "count": 47
+    },
+    {
+      "word": "hara",
+      "count": 47
+    },
+    {
+      "word": "achii",
+      "count": 47
+    },
+    {
+      "word": "baayyen",
+      "count": 47
+    },
+    {
+      "word": "somaaliyaa",
+      "count": 47
+    },
+    {
+      "word": "kibbaan",
+      "count": 47
+    },
+    {
+      "word": "ammallee",
+      "count": 47
+    },
+    {
+      "word": "tokkoffaa",
+      "count": 47
+    },
+    {
+      "word": "qabame",
+      "count": 47
+    },
+    {
+      "word": "taaddasaa",
+      "count": 47
+    },
+    {
+      "word": "fkn",
+      "count": 47
+    },
+    {
+      "word": "deebiin",
+      "count": 47
+    },
+    {
+      "word": "salphaatti",
+      "count": 47
+    },
+    {
+      "word": "isaanitti",
+      "count": 47
+    },
+    {
+      "word": "saree",
+      "count": 47
+    },
+    {
+      "word": "finfinneetti",
+      "count": 47
+    },
+    {
+      "word": "gatii",
+      "count": 47
+    },
+    {
+      "word": "sirba",
+      "count": 47
+    },
+    {
+      "word": "moo",
+      "count": 47
+    },
+    {
+      "word": "kooti",
+      "count": 47
+    },
+    {
+      "word": "hime",
+      "count": 47
+    },
+    {
+      "word": "gareen",
+      "count": 47
+    },
+    {
+      "word": "ogbarruu",
+      "count": 47
+    },
+    {
+      "word": "oolchi",
+      "count": 47
+    },
+    {
+      "word": "beekamaa",
+      "count": 47
+    },
+    {
+      "word": "miirri",
+      "count": 47
+    },
+    {
+      "word": "gudda",
+      "count": 46
+    },
+    {
+      "word": "jirre",
+      "count": 46
+    },
+    {
+      "word": "warqee",
+      "count": 46
+    },
+    {
+      "word": "guddate",
+      "count": 46
+    },
+    {
+      "word": "biyyatti",
+      "count": 46
+    },
+    {
+      "word": "keessattis",
+      "count": 46
+    },
+    {
+      "word": "nyaatu",
+      "count": 46
+    },
+    {
+      "word": "ragaa",
+      "count": 46
+    },
+    {
+      "word": "sadaasa",
+      "count": 46
+    },
+    {
+      "word": "baasu",
+      "count": 46
+    },
+    {
+      "word": "guutummaa",
+      "count": 46
+    },
+    {
+      "word": "manneen",
+      "count": 46
+    },
+    {
+      "word": "hiika",
+      "count": 46
+    },
+    {
+      "word": "iaaf",
+      "count": 46
+    },
+    {
+      "word": "dhiisuu",
+      "count": 46
+    },
+    {
+      "word": "agarii",
+      "count": 46
+    },
+    {
+      "word": "hawaasaa",
+      "count": 46
+    },
+    {
+      "word": "biraatti",
+      "count": 46
+    },
+    {
+      "word": "tayuu",
+      "count": 46
+    },
+    {
+      "word": "isi",
+      "count": 46
+    },
+    {
+      "word": "rabbiin",
+      "count": 46
+    },
+    {
+      "word": "waanin",
+      "count": 46
+    },
+    {
+      "word": "yaaliin",
+      "count": 46
+    },
+    {
+      "word": "piiteriin",
+      "count": 46
+    },
+    {
+      "word": "galu",
+      "count": 45
+    },
+    {
+      "word": "garaagarummaa",
+      "count": 45
+    },
+    {
+      "word": "kanaafis",
+      "count": 45
+    },
+    {
+      "word": "dargii",
+      "count": 45
+    },
+    {
+      "word": "tooftaa",
+      "count": 45
+    },
+    {
+      "word": "dheeraaf",
+      "count": 45
+    },
+    {
+      "word": "maatiin",
+      "count": 45
+    },
+    {
+      "word": "eegale",
+      "count": 45
+    },
+    {
+      "word": "from",
+      "count": 45
+    },
+    {
+      "word": "mirgaa",
+      "count": 45
+    },
+    {
+      "word": "deebi'ee",
+      "count": 45
+    },
+    {
+      "word": "dabarsuu",
+      "count": 45
+    },
+    {
+      "word": "hundaaf",
+      "count": 45
+    },
+    {
+      "word": "gita",
+      "count": 45
+    },
+    {
+      "word": "danda'uu",
+      "count": 45
+    },
+    {
+      "word": "gochuuf",
+      "count": 45
+    },
+    {
+      "word": "barreessaa",
+      "count": 45
+    },
+    {
+      "word": "balbala",
+      "count": 45
+    },
+    {
+      "word": "poolaandi",
+      "count": 45
+    },
+    {
+      "word": "faa",
+      "count": 45
+    },
+    {
+      "word": "ነው",
+      "count": 45
+    },
+    {
+      "word": "ummatni",
+      "count": 44
+    },
+    {
+      "word": "fayyadamaa",
+      "count": 44
     }
-  ],
-  "source": "CommonLID TSV + FLORES+ (dev+devtest)",
-  "total_tokens": 39604,
-  "unique_tokens": 12909
+  ]
 }

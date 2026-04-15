@@ -11,3 +11,20 @@ Fulfulde is written in a Latin alphabet with the hooked consonants **ɓ**, **ɗ*
 ## History and status
 
 Fulfulde is a regional lingua franca across the Sahel. In Nigeria it is a recognised language of instruction and broadcasting in several northern states. The Fulɓe are traditionally pastoralists, and the language is spread along a vast east–west axis from Senegal to Sudan.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://www.voafulfulde.com/` — Voice of America Fulfulde — _live WebFetch_
+- `https://www.rfi.fr/ha/` — RFI Hausa (West-African lingua franca close to Fulfulde) — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://www.voafulfulde.com/` — Voice of America Fulfulde (news)
+- `https://www.rfi.fr/ha/` — RFI Hausa (West-African lingua franca close to Fulfulde) (news)
+- `https://kaceendafr.info/` — Kaceendafr — Senegalese Pulaar portal (news)
+- `https://www.bbc.com/fulah` — BBC Fulah Mandingo services (news)

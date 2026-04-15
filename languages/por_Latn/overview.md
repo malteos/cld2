@@ -11,3 +11,20 @@ Uses the 26-letter Latin alphabet with diacritics: acute `á é í ó ú`, circu
 ## Status
 
 Portuguese is a co-official language of the EU, Mercosur, African Union, and UNASUR, and a working language at the UN. Instituto Internacional da Língua Portuguesa coordinates spelling. Brazil accounts for ~80% of speakers worldwide.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://pt.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.gov.br/pt-br` — Gov.br — Brazilian government — _live WebFetch_
+- `https://www.publico.pt/` — Público — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://pt.wikipedia.org/` — Portuguese Wikipedia (cultural)
+- `https://www.gov.br/pt-br` — Gov.br — Brazilian government (gov)
+- `https://www.publico.pt/` — Público (news)

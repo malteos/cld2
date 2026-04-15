@@ -11,3 +11,19 @@ Bengali is written in the left-to-right **Bangla / Eastern Nāgarī** abugida (U
 ## History and status
 
 Bangla has a literary tradition from the 10th-century *Charyāpada* through the Vaishnava poets and the modern renaissance of Rabindranath Tagore (Nobel Laureate 1913), Kazi Nazrul Islam, and Bankim Chandra Chattopadhyay. The 1952 Bengali Language Movement in East Pakistan, commemorated by UNESCO's International Mother Language Day, was pivotal to Bangladeshi independence in 1971.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://bn.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.bbc.com/bengali` — BBC Bengali — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://bn.wikipedia.org/` — Bengali Wikipedia (cultural)
+- `https://www.prothomalo.com/` — Prothom Alo — Bangladesh's largest Bengali daily (news)
+- `https://www.bbc.com/bengali` — BBC Bengali (news)

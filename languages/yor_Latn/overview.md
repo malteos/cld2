@@ -11,3 +11,18 @@ Yoruba is written in a Latin alphabet augmented with **tone marks** and **underd
 ## History and status
 
 Yoruba was one of the first West African languages with a standard orthography (Samuel Ajayi Crowther, 1840s). It is a recognised language in Nigerian education, media, and government, and has a rich literary tradition in novels, drama (Soyinka, Fagunwa), and Ifá divination verse.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://yo.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.bbc.com/yoruba` — BBC Yoruba — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://yo.wikipedia.org/` — Yoruba Wikipedia (cultural)
+- `https://www.bbc.com/yoruba` — BBC Yoruba (news)

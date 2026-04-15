@@ -11,3 +11,18 @@ Uses the Latin alphabet. Two orthographies compete: the **grafía SLA / Academia
 ## Status
 
 Co-official in some Aragon municipalities since the 2013 Ley de Lenguas regional statute. Aragonese is on UNESCO's endangered languages list. Actively promoted by the *Academia de l'Aragonés* and local cultural associations. Wikipedia (Aragonese edition) and a small but dedicated media presence exist.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://an.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.academiadelaragones.org/` — Academia de l'Aragonés — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://an.wikipedia.org/` — Aragonese Wikipedia (cultural)
+- `https://www.academiadelaragones.org/` — Academia de l'Aragonés (cultural)

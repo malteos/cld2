@@ -27,3 +27,20 @@ Bulgarian is the earliest attested Slavic language: Old Bulgarian (Old Church
 Slavonic) from the 9th century onward, the liturgical language of Orthodox
 Slavs. Modern literary Bulgarian was codified in the mid-19th century during
 the National Revival.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://bg.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.government.bg/` — Council of Ministers of Bulgaria — _live WebFetch_
+- `https://dariknews.bg/` — Darik News — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://bg.wikipedia.org/` — Bulgarian Wikipedia (cultural)
+- `https://www.government.bg/` — Council of Ministers of Bulgaria (gov)
+- `https://dariknews.bg/` — Darik News (news)

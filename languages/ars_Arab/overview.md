@@ -26,3 +26,20 @@ Vehicular in the Saudi capital region and in broadcast media targeted at the
 Gulf audience, though Saudi media often blends Najdi, Hejazi, and MSA. Online
 use is extensive on X/Twitter, YouTube, and Snapchat, where CommonLID is
 likely to encounter ars-labelled text.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://sabq.org/` — Sabq — Saudi Arabic news — _live WebFetch_
+- `https://www.okaz.com.sa/` — Okaz — Saudi news — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://www.spa.gov.sa/?lang=ar` — Saudi Press Agency — Arabic edition (gov)
+- `https://sabq.org/` — Sabq — Saudi Arabic news (news)
+- `https://www.alyaum.com/` — Al Yaum — Saudi daily (news)
+- `https://www.okaz.com.sa/` — Okaz — Saudi news (news)

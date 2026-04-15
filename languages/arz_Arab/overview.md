@@ -27,3 +27,18 @@ De facto lingua franca of the Arab film/TV industry; widely understood across
 the Arab League due to the prominence of Egyptian media. Used online, in
 personal communication, advertising, and some literature, but diglossia with
 MSA remains: formal writing defaults to MSA.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://arz.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.youm7.com/` — Youm7 — Egyptian news — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://arz.wikipedia.org/` — Egyptian Arabic Wikipedia (cultural)
+- `https://www.youm7.com/` — Youm7 — Egyptian news (news)

@@ -29,3 +29,18 @@ codified successor to Classical Malay used in Malaysia today. It is
 extremely close to both Indonesian (shared Rumi orthography) and Brunei
 Malay (Brunei uses *zsm* as one of its official written forms alongside
 *Bahasa Melayu Brunei*).
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://ms.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.utusan.com.my/` — Utusan Malaysia — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://ms.wikipedia.org/` — Malay Wikipedia (Standard Malay) (cultural)
+- `https://www.utusan.com.my/` — Utusan Malaysia (news)

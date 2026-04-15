@@ -27,3 +27,17 @@ standardised in 1940.
 Bashkir is a co-official language of the Republic of Bashkortostan
 alongside Russian. It is listed by UNESCO as "vulnerable" owing to
 ongoing Russian-language shift.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://ba.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+
+### Catalogued source candidates
+
+- `https://ba.wikipedia.org/` — Bashkir Wikipedia (cultural)
+- `https://bashinform.ru/ba/` — Bashinform (Bashkir-language service) (news)

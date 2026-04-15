@@ -11,3 +11,19 @@ Hindi uses the left-to-right **Devanagari** abugida (Unicode block U+0900–U+09
 ## History and status
 
 Modern Standard Hindi crystallised in the late 19th century as a Sanskritised counterpart to Urdu, sharing its spoken base. It is the medium of instruction across the Hindi belt, and the dominant language of Bollywood and mainstream Indian broadcasting.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://hi.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.bbc.com/hindi` — BBC Hindi — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://hi.wikipedia.org/` — Hindi Wikipedia (cultural)
+- `https://www.bbc.com/hindi` — BBC Hindi (news)
+- `https://www.india.gov.in/hi` — India.gov.in Hindi portal (gov)

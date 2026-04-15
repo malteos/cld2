@@ -28,3 +28,17 @@ Javanese (*Kawi*) through Middle and Modern Javanese. It operates a
 complex speech-level system (*ngoko*, *madya*, *krama*) distinguishing
 familiar versus polite/honorific registers; this affects lexical choice
 far more than grammar.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://jv.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+
+### Catalogued source candidates
+
+- `https://jv.wikipedia.org/` — Javanese Wikipedia (cultural)
+- `https://www.panjebarsemangat.co.id/` — Panjebar Semangat — Javanese magazine (news)

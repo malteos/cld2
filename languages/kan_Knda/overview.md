@@ -13,3 +13,19 @@ Like Telugu (and unlike Tamil), Kannada preserves the full Sanskrit-style four-w
 ## History and status
 
 Kannada has a literary tradition reaching back to the 9th–10th century CE (Kavirajamarga, c. 850), with inscriptions considerably older. It is one of India's designated classical languages. Modern written Kannada is the standard for education, administration, media, and literature in Karnataka.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://kn.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.prajavani.net/` — Prajavani — Kannada daily — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://kn.wikipedia.org/` — Kannada Wikipedia (cultural)
+- `https://www.prajavani.net/` — Prajavani — Kannada daily (news)
+- `https://www.karnataka.gov.in/` — Government of Karnataka (gov)

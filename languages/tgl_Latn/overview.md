@@ -22,3 +22,17 @@ Tagalog served as the basis for Filipino during the 20th-century
 standardisation effort. Distinctions between Tagalog and Filipino in
 written form are minimal; Filipino is more permissive of loan phoneme
 graphemes.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://tl.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+
+### Catalogued source candidates
+
+- `https://tl.wikipedia.org/` — Tagalog Wikipedia (cultural)
+- `https://www.philstar.com/` — The Philippine Star (partial Tagalog) (news)

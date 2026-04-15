@@ -11,3 +11,20 @@ English uses a 26-letter Latin alphabet with case distinctions (A–Z / a–z) a
 ## History
 
 English evolved from Old English (Anglo-Saxon) through Middle English and Early Modern English; heavy lexical borrowing from Old Norse, Norman French, Latin, and Greek has produced a famously mixed vocabulary, and its orthography preserves many historical spellings.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://en.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.gov.uk/` — GOV.UK — _live WebFetch_
+- `https://www.bbc.com/news` — BBC News — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://en.wikipedia.org/` — English Wikipedia (cultural)
+- `https://www.gov.uk/` — GOV.UK (gov)
+- `https://www.bbc.com/news` — BBC News (news)

@@ -28,3 +28,18 @@ Malacca, Johor and Aceh sultanates from the 15th century onward. It is the
 parent of standardised Indonesian (`ind`) and Malaysian Malay (`zsm`), and
 the `msa` macro-tag is typically applied when the specific variety is
 unknown or when content is regionally mixed.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://ms.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+
+### Catalogued source candidates
+
+- `https://ms.wikipedia.org/` — Malay Wikipedia (cultural)
+- `https://www.bharian.com.my/` — Berita Harian (news)
+- `https://www.malaysia.gov.my/portal/index` — MyGovernment portal (Malay) (gov)

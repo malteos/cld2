@@ -11,3 +11,19 @@ French uses the 26-letter Latin alphabet with diacritics: acute `é`, grave `à 
 ## Status
 
 French is a co-official UN and EU language and one of the most widely taught L2 languages globally. The Académie française issues normative guidance but is not enforced legally.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://fr.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.lemonde.fr/` — Le Monde — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://fr.wikipedia.org/` — French Wikipedia (cultural)
+- `https://www.gouvernement.fr/` — Gouvernement de la République française (gov)
+- `https://www.lemonde.fr/` — Le Monde (news)

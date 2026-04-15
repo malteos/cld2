@@ -11,3 +11,19 @@ Southern Uzbek is written right-to-left in a Perso-Arabic script that takes the 
 ## History and status
 
 Southern Uzbek diverges from Northern Uzbek (the standard of Uzbekistan, written in Latin since 1993) mainly in retaining the Arabic script, exhibiting heavier Persian/Tajik contact influence, and showing older Turkic vowel-harmony distinctions. It has been used in print and in Afghan television since the 1980s and gained official regional recognition in Afghanistan's 2004 constitution.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://da.azadiradio.com/` — Radio Azadi — RFE/RL Afghanistan (Dari + Southern Uzbek reports) — _live WebFetch_
+- `https://www.pajhwok.com/` — Pajhwok Afghan News — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://da.azadiradio.com/` — Radio Azadi — RFE/RL Afghanistan (Dari + Southern Uzbek reports) (news)
+- `https://www.rta.org.af/` — Radio Television Afghanistan (news)
+- `https://www.pajhwok.com/` — Pajhwok Afghan News (news)

@@ -26,3 +26,19 @@ substantial lexicon with Egyptian and Hijazi Arabic but carries Nubian, Beja,
 and English borrowings. Used in Sudanese broadcast media and popular music;
 formal writing remains MSA. Social-media Sudanese Arabic is increasingly
 visible in corpora.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://www.alrakoba.net/` — Al Rakoba — Sudanese news portal — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://www.sudantribune.net/` — Sudan Tribune — Sudanese news (news)
+- `https://www.alrakoba.net/` — Al Rakoba — Sudanese news portal (news)
+- `https://sudanakhbar.com/` — Sudan Akhbar (news)
+- `https://www.sudaress.com/` — Sudaress — Sudanese press aggregator (news)

@@ -13,3 +13,19 @@ Unlike Tamil, Telugu preserves the full Sanskrit voiced/aspirated stop series (�
 ## History and status
 
 Telugu has a continuous literary tradition since the 11th century, with roots reaching back to early medieval inscriptions. It is one of India's designated classical languages and is sometimes nicknamed "the Italian of the East" for its vowel-heavy, open-syllable phonotactics.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://te.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.eenadu.net/` — Eenadu — Telugu daily — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://te.wikipedia.org/` — Telugu Wikipedia (cultural)
+- `https://www.eenadu.net/` — Eenadu — Telugu daily (news)
+- `https://www.ap.gov.in/` — Government of Andhra Pradesh (gov)

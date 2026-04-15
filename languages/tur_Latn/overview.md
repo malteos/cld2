@@ -28,3 +28,19 @@ co-official language of Cyprus. The 20th-century *Öz Türkçe* purism
 movement replaced many Arabic and Persian loanwords with native
 Turkic or newly coined roots, giving modern Turkish a more distinctly
 Turkic lexicon than pre-1928 Ottoman written material.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://tr.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.hurriyet.com.tr/` — Hürriyet — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://tr.wikipedia.org/` — Turkish Wikipedia (cultural)
+- `https://www.tccb.gov.tr/` — Turkish Presidency (gov)
+- `https://www.hurriyet.com.tr/` — Hürriyet (news)

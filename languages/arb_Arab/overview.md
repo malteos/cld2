@@ -27,3 +27,17 @@ discourse outside liturgy. It coexists with regional dialects in a
 **diglossic** relationship — speakers use the dialect at home and MSA for
 reading/writing and pan-Arab media. In LID pipelines, `arb` content is largely
 indistinguishable from the macrolanguage `ara` tag.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://ar.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+
+### Catalogued source candidates
+
+- `https://ar.wikipedia.org/` — Arabic Wikipedia (MSA) (cultural)
+- `https://www.un.org/ar/` — UN in Arabic (civil)

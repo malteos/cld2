@@ -11,3 +11,18 @@ Latin is written in the Roman alphabet — the script to which it lent its name.
 ## History and status
 
 Written Latin is typically distinguished as: **Classical Latin** (the literary standard of the late Republic and early Empire, c. 100 BCE–200 CE, e.g. Cicero, Virgil, Caesar), **Ecclesiastical / Late Latin** (the Christian Church from c. 300 CE onward), **Medieval Latin** (c. 700–1400, the lingua franca of learning and administration in Western Christendom), **Renaissance / Neo-Latin** (c. 1400–1800, the language of humanists and science). For LID purposes all these varieties share the same orthography and the same characteristic grammatical endings.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://la.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+
+### Catalogued source candidates
+
+- `https://la.wikipedia.org/` — Latin Wikipedia (cultural)
+- `https://www.thelatinlibrary.com/` — The Latin Library (cultural)
+- `https://www.vatican.va/archive/hist_councils/index_lt.htm` — Vatican Latin archives (religious)

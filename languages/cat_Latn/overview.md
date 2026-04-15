@@ -11,3 +11,20 @@ Uses the 26-letter Latin alphabet with diacritics: grave `à è ò`, acute `é �
 ## Status
 
 Co-official with Spanish (and French in Andorra). Actively regulated by the Institut d'Estudis Catalans (IEC) and the Acadèmia Valenciana de la Llengua (AVL). Catalan has a strong media and literary presence (TV3, Viquipèdia) and a large L2 population.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://ca.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.ara.cat/` — Ara — Catalan daily — _live WebFetch_
+- `https://web.gencat.cat/ca/inici/` — Generalitat de Catalunya — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://ca.wikipedia.org/` — Catalan Wikipedia (cultural)
+- `https://www.ara.cat/` — Ara — Catalan daily (news)
+- `https://web.gencat.cat/ca/inici/` — Generalitat de Catalunya (gov)

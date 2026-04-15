@@ -11,3 +11,20 @@ Dutch uses the 26-letter Latin alphabet plus the digraph `ij`, traditionally tre
 ## History
 
 Dutch descends from Old Low Franconian via Middle Dutch; the 1947–1954 and 1995 spelling reforms standardised `ij`/`y` usage and the treatment of compound loanwords. Afrikaans, a daughter language in South Africa, split from 17th-century Dutch settler speech.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://nl.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.rijksoverheid.nl/` — Rijksoverheid — Dutch government — _live WebFetch_
+- `https://www.nrc.nl/` — NRC Handelsblad — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://nl.wikipedia.org/` — Dutch Wikipedia (cultural)
+- `https://www.rijksoverheid.nl/` — Rijksoverheid — Dutch government (gov)
+- `https://www.nrc.nl/` — NRC Handelsblad (news)

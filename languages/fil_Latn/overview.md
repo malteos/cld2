@@ -28,3 +28,18 @@ to "Pilipino" (which was itself a renaming of the Tagalog-based
 national language). Filipino is taught nationwide and is the medium of
 domestic broadcast, film, and government alongside English (the other
 official language).
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://tl.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+
+### Catalogued source candidates
+
+- `https://tl.wikipedia.org/` — Tagalog/Filipino Wikipedia (cultural)
+- `https://www.officialgazette.gov.ph/` — Official Gazette of the Philippines (gov)
+- `https://www.abs-cbn.com/news` — ABS-CBN News (TL/ENG) (news)

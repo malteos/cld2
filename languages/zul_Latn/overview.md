@@ -28,3 +28,18 @@ Zulu emerged from the Nguni cluster and was first written down by
 missionaries in the 1830s. It has a rich oral tradition of praise poetry
 (*izibongo*) and today dominates South African broadcast media, making
 it one of the best-documented Bantu languages.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://zu.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.isolezwe.co.za/` — Isolezwe — Zulu daily — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://zu.wikipedia.org/` — Zulu Wikipedia (cultural)
+- `https://www.isolezwe.co.za/` — Isolezwe — Zulu daily (news)

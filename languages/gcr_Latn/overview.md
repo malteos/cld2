@@ -21,3 +21,21 @@ Emerged in the 17th–18th century from French settler speech in contact
 with West-African substrates and neighbouring Portuguese / English /
 Amerindian languages. Mutual intelligibility with Antillean creoles
 (gcf, acf) is high but lexical divergence is noticeable.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://la1ere.francetvinfo.fr/guyane/` — Guyane La 1ère (French + Guianese Creole) — _live WebFetch_
+- `https://www.potomitan.info/` — Potomitan — Caribbean-creole literature / education portal — _live WebFetch_
+- `https://www.ctguyane.fr/` — Collectivité territoriale de Guyane — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://la1ere.francetvinfo.fr/guyane/` — Guyane La 1ère (French + Guianese Creole) (news)
+- `https://www.potomitan.info/` — Potomitan — Caribbean-creole literature / education portal (education)
+- `https://www.guyaweb.com/` — Guyaweb — French Guiana news (news)
+- `https://www.ctguyane.fr/` — Collectivité territoriale de Guyane (gov)

@@ -24,3 +24,17 @@ Venetian was the prestige language of the Venetian Republic (697–1797)
 and had a pan-Mediterranean trade reach. Modern written Venetian
 flourishes on social media, signage, and regional literature; it retains
 robust spoken vitality, especially outside Venice proper.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://vec.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+
+### Catalogued source candidates
+
+- `https://vec.wikipedia.org/` — Venetian Wikipedia (cultural)
+- `https://www.raixevenete.com/` — Raixe Venete — Venetian portal (cultural)

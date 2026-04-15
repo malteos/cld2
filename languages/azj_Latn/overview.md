@@ -28,3 +28,18 @@ Yañalif Latin (1929–1939), Cyrillic (1939–1991), and the current
 Latin (1991–present, finalised 1992). South Azerbaijani (`azb`) in
 Iran still uses a Perso-Arabic script and is covered separately.
 Within CommonLID, `azj_Latn` is the modern post-1993 Latin standard.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://az.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://report.az/` — Report.az — Baku news agency — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://az.wikipedia.org/` — Azerbaijani Wikipedia (North Azerbaijani) (cultural)
+- `https://report.az/` — Report.az — Baku news agency (news)

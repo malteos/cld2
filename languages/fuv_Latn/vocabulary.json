@@ -1,4009 +1,3320 @@
 {
   "code": "fuv",
   "name": "Nigerian Fulfulde",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 7766,
+  "unique_tokens": 827,
   "words": [
     {
-      "word": "be",
-      "count": 2348
+      "word": "px",
+      "count": 648
     },
     {
-      "word": "ha",
-      "count": 1746
+      "word": "display",
+      "count": 238
     },
     {
-      "word": "je",
-      "count": 1670
+      "word": "t-content",
+      "count": 210
     },
     {
-      "word": "do",
-      "count": 901
+      "word": "center",
+      "count": 187
     },
     {
-      "word": "man",
-      "count": 713
+      "word": "height",
+      "count": 152
     },
     {
-      "word": "ko",
-      "count": 667
+      "word": "width",
+      "count": 127
     },
     {
-      "word": "ɓe",
-      "count": 546
+      "word": "none",
+      "count": 100
     },
     {
-      "word": "on",
-      "count": 525
-    },
-    {
-      "word": "bo",
-      "count": 524
-    },
-    {
-      "word": "ɗo",
-      "count": 362
-    },
-    {
-      "word": "himbe",
-      "count": 309
-    },
-    {
-      "word": "himɓe",
-      "count": 285
-    },
-    {
-      "word": "mari",
-      "count": 277
-    },
-    {
-      "word": "to",
-      "count": 275
-    },
-    {
-      "word": "no",
-      "count": 272
-    },
-    {
-      "word": "fere",
-      "count": 270
-    },
-    {
-      "word": "kujeji",
-      "count": 244
-    },
-    {
-      "word": "kuje",
-      "count": 232
-    },
-    {
-      "word": "mai",
-      "count": 217
-    },
-    {
-      "word": "wala",
-      "count": 215
-    },
-    {
-      "word": "nder",
-      "count": 212
-    },
-    {
-      "word": "pellel",
-      "count": 202
-    },
-    {
-      "word": "leddi",
-      "count": 199
-    },
-    {
-      "word": "gam",
-      "count": 197
-    },
-    {
-      "word": "dum",
-      "count": 197
-    },
-    {
-      "word": "mo",
-      "count": 193
-    },
-    {
-      "word": "babal",
-      "count": 189
-    },
-    {
-      "word": "bana",
-      "count": 186
-    },
-    {
-      "word": "wakkati",
-      "count": 184
-    },
-    {
-      "word": "ɗum",
-      "count": 182
-    },
-    {
-      "word": "wawan",
-      "count": 166
-    },
-    {
-      "word": "amma",
-      "count": 165
-    },
-    {
-      "word": "daga",
-      "count": 163
-    },
-    {
-      "word": "pat",
-      "count": 163
-    },
-    {
-      "word": "wuro",
-      "count": 146
-    },
-    {
-      "word": "maɓɓe",
-      "count": 144
-    },
-    {
-      "word": "der",
-      "count": 136
-    },
-    {
-      "word": "ma",
-      "count": 135
-    },
-    {
-      "word": "en",
-      "count": 131
-    },
-    {
-      "word": "fu",
-      "count": 125
-    },
-    {
-      "word": "woni",
-      "count": 122
-    },
-    {
-      "word": "mabbe",
-      "count": 122
-    },
-    {
-      "word": "ɗon",
-      "count": 120
-    },
-    {
-      "word": "hala",
-      "count": 113
-    },
-    {
-      "word": "dow",
-      "count": 113
-    },
-    {
-      "word": "mako",
-      "count": 111
-    },
-    {
-      "word": "buri",
-      "count": 110
-    },
-    {
-      "word": "gotel",
-      "count": 104
-    },
-    {
-      "word": "ɗuɗɗum",
-      "count": 99
-    },
-    {
-      "word": "majum",
-      "count": 98
-    },
-    {
-      "word": "ta",
-      "count": 98
-    },
-    {
-      "word": "yahugo",
-      "count": 96
-    },
-    {
-      "word": "manga",
-      "count": 95
-    },
-    {
-      "word": "hado",
-      "count": 94
-    },
-    {
-      "word": "vi",
+      "word": "auto",
       "count": 90
     },
     {
-      "word": "wawata",
-      "count": 90
-    },
-    {
-      "word": "wadi",
-      "count": 89
-    },
-    {
-      "word": "hauti",
+      "word": "webkit-flex",
       "count": 84
     },
     {
-      "word": "lawol",
-      "count": 83
+      "word": "flex",
+      "count": 84
     },
     {
-      "word": "ɓuri",
-      "count": 81
+      "word": "top",
+      "count": 77
     },
     {
-      "word": "fijirde",
-      "count": 81
-    },
-    {
-      "word": "ba",
-      "count": 80
-    },
-    {
-      "word": "kanjum",
-      "count": 79
-    },
-    {
-      "word": "watta",
-      "count": 79
-    },
-    {
-      "word": "na",
-      "count": 76
-    },
-    {
-      "word": "yake",
-      "count": 75
-    },
-    {
-      "word": "ngam",
+      "word": "rem",
       "count": 74
     },
     {
-      "word": "waɗi",
-      "count": 74
-    },
-    {
-      "word": "fe",
+      "word": "font-size",
       "count": 72
     },
     {
-      "word": "mayo",
+      "word": "webkit-transform",
       "count": 72
     },
     {
-      "word": "tan",
-      "count": 71
-    },
-    {
-      "word": "ni",
-      "count": 71
-    },
-    {
-      "word": "iri",
-      "count": 70
-    },
-    {
-      "word": "de",
-      "count": 69
-    },
-    {
-      "word": "feere",
+      "word": "transform",
       "count": 68
     },
     {
-      "word": "bawo",
-      "count": 68
-    },
-    {
-      "word": "kugal",
-      "count": 65
-    },
-    {
-      "word": "wodi",
-      "count": 64
-    },
-    {
-      "word": "sembe",
+      "word": "color",
       "count": 63
     },
     {
-      "word": "ɓawo",
+      "word": "solid",
       "count": 60
     },
     {
-      "word": "larugo",
-      "count": 60
-    },
-    {
-      "word": "min",
+      "word": "position",
       "count": 59
     },
     {
-      "word": "duniyaru",
-      "count": 59
-    },
-    {
-      "word": "ndiyam",
-      "count": 59
-    },
-    {
-      "word": "yiɗi",
-      "count": 59
-    },
-    {
-      "word": "kala",
-      "count": 58
-    },
-    {
-      "word": "sali",
-      "count": 58
-    },
-    {
-      "word": "duddum",
-      "count": 58
-    },
-    {
-      "word": "sai",
-      "count": 58
-    },
-    {
-      "word": "hore",
-      "count": 58
-    },
-    {
-      "word": "jirgi",
+      "word": "t-content__body",
       "count": 57
     },
     {
-      "word": "hedi",
-      "count": 56
-    },
-    {
-      "word": "hendu",
-      "count": 56
-    },
-    {
-      "word": "sare",
-      "count": 56
-    },
-    {
-      "word": "warti",
+      "word": "media",
       "count": 55
     },
     {
-      "word": "heɓa",
-      "count": 55
-    },
-    {
-      "word": "chaka",
-      "count": 55
-    },
-    {
-      "word": "les",
-      "count": 55
-    },
-    {
-      "word": "habaru",
-      "count": 54
-    },
-    {
-      "word": "wada",
-      "count": 54
-    },
-    {
-      "word": "duniya",
+      "word": "padding",
       "count": 53
     },
     {
-      "word": "andi",
-      "count": 52
-    },
-    {
-      "word": "lesde",
-      "count": 52
-    },
-    {
-      "word": "dar",
-      "count": 52
-    },
-    {
-      "word": "lara",
-      "count": 52
-    },
-    {
-      "word": "duuɓi",
-      "count": 51
-    },
-    {
-      "word": "ladde",
-      "count": 51
-    },
-    {
-      "word": "goɗɗo",
-      "count": 51
-    },
-    {
-      "word": "jotta",
-      "count": 51
-    },
-    {
-      "word": "goddo",
-      "count": 50
-    },
-    {
-      "word": "mota",
-      "count": 49
-    },
-    {
-      "word": "sedda",
-      "count": 49
-    },
-    {
-      "word": "diga",
+      "word": "webkit-box",
       "count": 48
     },
     {
-      "word": "bako",
+      "word": "font-weight",
       "count": 48
     },
     {
-      "word": "naftira",
-      "count": 48
-    },
-    {
-      "word": "wari",
+      "word": "ms-flexbox",
       "count": 47
     },
     {
-      "word": "handi",
-      "count": 47
-    },
-    {
-      "word": "sosai",
+      "word": "hover",
       "count": 46
     },
     {
-      "word": "nafu",
+      "word": "min-width",
       "count": 46
     },
     {
-      "word": "heba",
-      "count": 45
+      "word": "and",
+      "count": 46
     },
     {
-      "word": "boɗɗum",
-      "count": 45
-    },
-    {
-      "word": "kesum",
-      "count": 44
-    },
-    {
-      "word": "chede",
-      "count": 44
-    },
-    {
-      "word": "didi",
-      "count": 44
-    },
-    {
-      "word": "boddum",
-      "count": 44
-    },
-    {
-      "word": "lesdi",
+      "word": "background-color",
       "count": 43
     },
     {
-      "word": "baabal",
-      "count": 43
-    },
-    {
-      "word": "yotti",
-      "count": 43
-    },
-    {
-      "word": "fijerde",
-      "count": 43
-    },
-    {
-      "word": "masin",
-      "count": 43
-    },
-    {
-      "word": "warta",
-      "count": 43
-    },
-    {
-      "word": "holli",
+      "word": "screen",
       "count": 42
     },
     {
-      "word": "har",
-      "count": 42
-    },
-    {
-      "word": "koh",
-      "count": 42
-    },
-    {
-      "word": "tsari",
+      "word": "line-height",
       "count": 41
     },
     {
-      "word": "wi",
-      "count": 41
-    },
-    {
-      "word": "gefe",
-      "count": 41
-    },
-    {
-      "word": "fuddi",
-      "count": 41
-    },
-    {
-      "word": "nane",
-      "count": 41
-    },
-    {
-      "word": "ɗiɗi",
+      "word": "background",
       "count": 40
     },
     {
-      "word": "dou",
-      "count": 40
-    },
-    {
-      "word": "cede",
-      "count": 40
-    },
-    {
-      "word": "hefti",
-      "count": 40
-    },
-    {
-      "word": "yidi",
-      "count": 40
-    },
-    {
-      "word": "don",
-      "count": 40
-    },
-    {
-      "word": "yasi",
+      "word": "a-nav-item",
       "count": 39
     },
     {
-      "word": "tati",
+      "word": "maɓɓe",
       "count": 39
     },
     {
-      "word": "wadugo",
-      "count": 39
-    },
-    {
-      "word": "nyamdu",
-      "count": 39
-    },
-    {
-      "word": "mi",
+      "word": "u-no-consent",
       "count": 38
     },
     {
-      "word": "hakkilo",
-      "count": 38
-    },
-    {
-      "word": "tun",
+      "word": "ms-flex",
       "count": 37
     },
     {
-      "word": "hoto",
+      "word": "border-bottom",
       "count": 37
     },
     {
-      "word": "kombi",
+      "word": "t-content__main-media",
       "count": 37
     },
     {
-      "word": "diyam",
-      "count": 37
-    },
-    {
-      "word": "hokka",
-      "count": 37
-    },
-    {
-      "word": "ji",
+      "word": "url",
       "count": 36
     },
     {
-      "word": "habre",
+      "word": "webkit-box-flex",
       "count": 36
     },
     {
-      "word": "petel",
+      "word": "start",
       "count": 36
     },
     {
-      "word": "lewru",
+      "word": "webkit-box-align",
+      "count": 36
+    },
+    {
+      "word": "ms-flex-align",
+      "count": 36
+    },
+    {
+      "word": "webkit-align-items",
+      "count": 36
+    },
+    {
+      "word": "align-items",
+      "count": 36
+    },
+    {
+      "word": "o-tag-list",
       "count": 35
     },
     {
-      "word": "yimɓe",
-      "count": 35
+      "word": "no-repeat",
+      "count": 34
     },
     {
-      "word": "nangi",
-      "count": 35
+      "word": "contain",
+      "count": 34
     },
     {
-      "word": "yeso",
-      "count": 35
+      "word": "data",
+      "count": 34
     },
     {
-      "word": "anda",
-      "count": 35
+      "word": "image",
+      "count": 34
     },
     {
-      "word": "sappo",
+      "word": "svg",
+      "count": 34
+    },
+    {
+      "word": "xml",
+      "count": 34
+    },
+    {
+      "word": "charset",
+      "count": 34
+    },
+    {
+      "word": "utf",
+      "count": 34
+    },
+    {
+      "word": "background-size",
       "count": 33
     },
     {
-      "word": "yonki",
+      "word": "ms-flex-pack",
       "count": 33
     },
     {
-      "word": "hande",
+      "word": "webkit-justify-content",
       "count": 33
     },
     {
-      "word": "ugo",
+      "word": "justify-content",
       "count": 33
     },
     {
-      "word": "hebi",
+      "word": "a-svg",
       "count": 33
     },
     {
-      "word": "naftirta",
-      "count": 33
-    },
-    {
-      "word": "burna",
-      "count": 33
-    },
-    {
-      "word": "arti",
+      "word": "before",
       "count": 32
     },
     {
-      "word": "waɗata",
+      "word": "webkit-box-pack",
       "count": 32
     },
     {
-      "word": "fuɗɗi",
-      "count": 32
-    },
-    {
-      "word": "kawrital",
-      "count": 32
-    },
-    {
-      "word": "se",
-      "count": 32
-    },
-    {
-      "word": "waɗa",
-      "count": 32
-    },
-    {
-      "word": "yare",
-      "count": 32
-    },
-    {
-      "word": "naftiri",
+      "word": "margin",
       "count": 31
     },
     {
-      "word": "bedo",
+      "word": "a-picture",
       "count": 31
     },
     {
-      "word": "inde",
-      "count": 31
-    },
-    {
-      "word": "nandi",
-      "count": 31
-    },
-    {
-      "word": "yadu",
-      "count": 31
-    },
-    {
-      "word": "irin",
+      "word": "wrap",
       "count": 30
     },
     {
-      "word": "yaha",
+      "word": "a-section-title",
       "count": 30
     },
     {
-      "word": "dubi",
-      "count": 30
-    },
-    {
-      "word": "guda",
-      "count": 30
-    },
-    {
-      "word": "al",
-      "count": 30
-    },
-    {
-      "word": "holla",
+      "word": "e2001a",
       "count": 29
     },
     {
-      "word": "duubi",
+      "word": "daande",
       "count": 29
     },
     {
-      "word": "lari",
-      "count": 29
-    },
-    {
-      "word": "nyau",
+      "word": "to",
       "count": 28
     },
     {
-      "word": "nastugo",
+      "word": "absolute",
       "count": 28
     },
     {
-      "word": "wani",
+      "word": "flex-start",
       "count": 28
     },
     {
-      "word": "hite",
+      "word": "margin-bottom",
       "count": 28
     },
     {
-      "word": "nafturgo",
+      "word": "u-has-adblock",
       "count": 28
     },
     {
-      "word": "jamanu",
-      "count": 28
-    },
-    {
-      "word": "gonga",
-      "count": 28
-    },
-    {
-      "word": "hokki",
-      "count": 28
-    },
-    {
-      "word": "kuɗe",
-      "count": 28
-    },
-    {
-      "word": "windi",
-      "count": 28
-    },
-    {
-      "word": "jahangal",
-      "count": 28
-    },
-    {
-      "word": "huwata",
+      "word": "fff",
       "count": 27
     },
     {
-      "word": "dari",
+      "word": "deg",
       "count": 27
     },
     {
-      "word": "hani",
+      "word": "o-tag-list-wrapper",
       "count": 27
     },
     {
-      "word": "yanayi",
+      "word": "column",
       "count": 27
     },
     {
-      "word": "maunugo",
-      "count": 27
-    },
-    {
-      "word": "dyam",
-      "count": 27
-    },
-    {
-      "word": "bandu",
-      "count": 27
-    },
-    {
-      "word": "debbo",
+      "word": "rotate",
       "count": 26
     },
     {
-      "word": "haa",
+      "word": "left",
       "count": 26
     },
     {
-      "word": "wati",
+      "word": "ko",
       "count": 26
     },
     {
-      "word": "doggudu",
+      "word": "alhaaliiji",
       "count": 26
     },
     {
-      "word": "wata",
-      "count": 26
-    },
-    {
-      "word": "hokkata",
-      "count": 26
-    },
-    {
-      "word": "totton",
-      "count": 26
-    },
-    {
-      "word": "kam",
-      "count": 26
-    },
-    {
-      "word": "ɓurna",
-      "count": 26
-    },
-    {
-      "word": "dabbaji",
-      "count": 26
-    },
-    {
-      "word": "heɓi",
+      "word": "z-index",
       "count": 25
     },
     {
-      "word": "yecci",
+      "word": "transition",
       "count": 25
     },
     {
-      "word": "go",
+      "word": "relative",
       "count": 25
     },
     {
-      "word": "yende",
-      "count": 25
-    },
-    {
-      "word": "andal",
-      "count": 25
-    },
-    {
-      "word": "waɗugo",
-      "count": 25
-    },
-    {
-      "word": "hautugo",
-      "count": 25
-    },
-    {
-      "word": "kare",
-      "count": 25
-    },
-    {
-      "word": "ata",
+      "word": "a-header-entry",
       "count": 24
     },
     {
-      "word": "jemma",
+      "word": "content",
       "count": 24
     },
     {
-      "word": "doka",
+      "word": "m-em-audio",
       "count": 24
     },
     {
-      "word": "nasti",
-      "count": 24
-    },
-    {
-      "word": "dau",
-      "count": 24
-    },
-    {
-      "word": "toi",
-      "count": 24
-    },
-    {
-      "word": "asali",
-      "count": 24
-    },
-    {
-      "word": "jonta",
+      "word": "hidden",
       "count": 23
     },
     {
-      "word": "hollata",
-      "count": 23
-    },
-    {
-      "word": "soja",
-      "count": 23
-    },
-    {
-      "word": "hosugo",
-      "count": 23
-    },
-    {
-      "word": "hosi",
-      "count": 23
-    },
-    {
-      "word": "wawi",
-      "count": 23
-    },
-    {
-      "word": "nasta",
-      "count": 23
-    },
-    {
-      "word": "nde",
+      "word": "border",
       "count": 22
     },
     {
-      "word": "acca",
+      "word": "o-tag-list__wrapper",
       "count": 22
     },
     {
-      "word": "masibo",
-      "count": 22
-    },
-    {
-      "word": "kampani",
-      "count": 22
-    },
-    {
-      "word": "warata",
-      "count": 22
-    },
-    {
-      "word": "jonde",
-      "count": 22
-    },
-    {
-      "word": "hosere",
-      "count": 22
-    },
-    {
-      "word": "huwa",
-      "count": 22
-    },
-    {
-      "word": "ka",
-      "count": 22
-    },
-    {
-      "word": "zamanu",
-      "count": 22
-    },
-    {
-      "word": "haje",
-      "count": 22
-    },
-    {
-      "word": "ɗemngal",
+      "word": "rgba",
       "count": 21
     },
     {
-      "word": "fattude",
+      "word": "a-loader-wrapper",
       "count": 21
     },
     {
-      "word": "hunde",
+      "word": "m-em-video",
       "count": 21
     },
     {
-      "word": "yarugo",
-      "count": 21
-    },
-    {
-      "word": "jangirde",
-      "count": 21
-    },
-    {
-      "word": "heri",
-      "count": 21
-    },
-    {
-      "word": "va",
-      "count": 21
-    },
-    {
-      "word": "vo",
-      "count": 21
-    },
-    {
-      "word": "may",
-      "count": 21
-    },
-    {
-      "word": "woyla",
-      "count": 21
-    },
-    {
-      "word": "seɗɗa",
-      "count": 21
-    },
-    {
-      "word": "nyawu",
-      "count": 21
-    },
-    {
-      "word": "mara",
-      "count": 21
-    },
-    {
-      "word": "ada",
-      "count": 21
-    },
-    {
-      "word": "yahi",
+      "word": "opacity",
       "count": 20
     },
     {
-      "word": "laamu",
+      "word": "max-width",
       "count": 20
     },
     {
-      "word": "yaadu",
+      "word": "border-box",
       "count": 20
     },
     {
-      "word": "lumo",
+      "word": "o-ad-container",
       "count": 20
     },
     {
-      "word": "dilla",
+      "word": "o-site-nav-wrapper",
       "count": 20
     },
     {
-      "word": "nyami",
-      "count": 20
-    },
-    {
-      "word": "kungiya",
-      "count": 20
-    },
-    {
-      "word": "nana",
-      "count": 20
-    },
-    {
-      "word": "hebugo",
-      "count": 20
-    },
-    {
-      "word": "nai",
-      "count": 20
-    },
-    {
-      "word": "jungo",
-      "count": 20
-    },
-    {
-      "word": "waya",
-      "count": 20
-    },
-    {
-      "word": "komoi",
-      "count": 20
-    },
-    {
-      "word": "gomnati",
-      "count": 20
-    },
-    {
-      "word": "vindi",
-      "count": 20
-    },
-    {
-      "word": "hunduko",
-      "count": 20
-    },
-    {
-      "word": "africa",
+      "word": "em-video-wrapper",
       "count": 19
     },
     {
-      "word": "th",
+      "word": "o-modal-content--pwa",
       "count": 19
     },
     {
-      "word": "ɓandu",
+      "word": "a-status-tag",
       "count": 19
     },
     {
-      "word": "banni",
-      "count": 19
-    },
-    {
-      "word": "ceede",
-      "count": 19
-    },
-    {
-      "word": "yari",
-      "count": 19
-    },
-    {
-      "word": "lau",
-      "count": 19
-    },
-    {
-      "word": "temere",
-      "count": 19
-    },
-    {
-      "word": "nufa",
-      "count": 19
-    },
-    {
-      "word": "kusan",
-      "count": 19
-    },
-    {
-      "word": "heɓugo",
-      "count": 19
-    },
-    {
-      "word": "hoore",
+      "word": "bottom",
       "count": 18
     },
     {
-      "word": "wurti",
+      "word": "after",
       "count": 18
     },
     {
-      "word": "nyamugo",
+      "word": "data-tms-ad-status",
       "count": 18
     },
     {
-      "word": "timmini",
+      "word": "translatey",
       "count": 18
     },
     {
-      "word": "majun",
+      "word": "m-item-image",
       "count": 18
     },
     {
-      "word": "bo'o",
-      "count": 18
-    },
-    {
-      "word": "saali",
-      "count": 18
-    },
-    {
-      "word": "fahin",
-      "count": 18
-    },
-    {
-      "word": "yaasi",
-      "count": 18
-    },
-    {
-      "word": "ledde",
-      "count": 18
-    },
-    {
-      "word": "faransa",
-      "count": 18
-    },
-    {
-      "word": "nange",
-      "count": 18
-    },
-    {
-      "word": "daban",
-      "count": 18
-    },
-    {
-      "word": "mum",
+      "word": "o-em-consent",
       "count": 17
     },
     {
-      "word": "he",
+      "word": "o-modal-content",
       "count": 17
     },
     {
-      "word": "walla",
-      "count": 17
-    },
-    {
-      "word": "makaranta",
-      "count": 17
-    },
-    {
-      "word": "jam",
-      "count": 17
-    },
-    {
-      "word": "walugo",
-      "count": 17
-    },
-    {
-      "word": "nasaru",
-      "count": 17
-    },
-    {
-      "word": "hokkugo",
-      "count": 17
-    },
-    {
-      "word": "heɓɓi",
-      "count": 17
-    },
-    {
-      "word": "tokki",
-      "count": 17
-    },
-    {
-      "word": "yimbe",
-      "count": 17
-    },
-    {
-      "word": "hakkila",
-      "count": 17
-    },
-    {
-      "word": "demgal",
-      "count": 17
-    },
-    {
-      "word": "ekkutuggo",
-      "count": 17
-    },
-    {
-      "word": "gite",
-      "count": 17
-    },
-    {
-      "word": "am",
-      "count": 17
-    },
-    {
-      "word": "mahi",
-      "count": 17
-    },
-    {
-      "word": "ziyara",
-      "count": 17
-    },
-    {
-      "word": "hitaande",
+      "word": "a-figcaption",
       "count": 16
     },
     {
-      "word": "bincike",
+      "word": "not",
       "count": 16
     },
     {
-      "word": "vurti",
+      "word": "visibility",
       "count": 16
     },
     {
-      "word": "km",
+      "word": "m-block-ad",
       "count": 16
     },
     {
-      "word": "du",
+      "word": "o-em-adblock",
       "count": 16
     },
     {
-      "word": "wi'i",
+      "word": "t-content__description",
       "count": 16
     },
     {
-      "word": "tokka",
-      "count": 16
-    },
-    {
-      "word": "da",
-      "count": 16
-    },
-    {
-      "word": "fombina",
-      "count": 16
-    },
-    {
-      "word": "india",
-      "count": 16
-    },
-    {
-      "word": "waddi",
-      "count": 16
-    },
-    {
-      "word": "matsala",
-      "count": 16
-    },
-    {
-      "word": "wara",
-      "count": 16
-    },
-    {
-      "word": "wa",
-      "count": 16
-    },
-    {
-      "word": "musamman",
-      "count": 16
-    },
-    {
-      "word": "dasa",
-      "count": 16
-    },
-    {
-      "word": "europe",
-      "count": 16
-    },
-    {
-      "word": "firawol",
-      "count": 16
-    },
-    {
-      "word": "heftugo",
-      "count": 16
-    },
-    {
-      "word": "belɗum",
-      "count": 16
-    },
-    {
-      "word": "pakistan",
+      "word": "webkit-transition",
       "count": 15
     },
     {
-      "word": "new",
+      "word": "border-radius",
       "count": 15
     },
     {
-      "word": "hakkilitta",
+      "word": "gap",
       "count": 15
     },
     {
-      "word": "beldum",
+      "word": "fulɓe",
       "count": 15
     },
     {
-      "word": "hosa",
+      "word": "taskaram",
       "count": 15
     },
     {
-      "word": "yardi",
-      "count": 15
-    },
-    {
-      "word": "ummatore",
-      "count": 15
-    },
-    {
-      "word": "bedda",
-      "count": 15
-    },
-    {
-      "word": "dudugo",
-      "count": 15
-    },
-    {
-      "word": "andugo",
-      "count": 15
-    },
-    {
-      "word": "huwugo",
-      "count": 15
-    },
-    {
-      "word": "tamma",
-      "count": 15
-    },
-    {
-      "word": "minti",
-      "count": 15
-    },
-    {
-      "word": "lutti",
-      "count": 15
-    },
-    {
-      "word": "japan",
-      "count": 15
-    },
-    {
-      "word": "larata",
-      "count": 15
-    },
-    {
-      "word": "ado",
-      "count": 15
-    },
-    {
-      "word": "hauta",
-      "count": 15
-    },
-    {
-      "word": "lekki",
-      "count": 15
-    },
-    {
-      "word": "pikkon",
-      "count": 15
-    },
-    {
-      "word": "kodume",
-      "count": 15
-    },
-    {
-      "word": "leydi",
+      "word": "translate",
       "count": 14
     },
     {
-      "word": "nasara",
+      "word": "o-breaking-alert",
       "count": 14
     },
     {
-      "word": "yahdu",
+      "word": "fulbe",
       "count": 14
     },
     {
-      "word": "yotta",
-      "count": 14
-    },
-    {
-      "word": "vowi",
-      "count": 14
-    },
-    {
-      "word": "mayi",
-      "count": 14
-    },
-    {
-      "word": "dillugo",
-      "count": 14
-    },
-    {
-      "word": "jun",
-      "count": 14
-    },
-    {
-      "word": "bone",
-      "count": 14
-    },
-    {
-      "word": "kanju",
-      "count": 14
-    },
-    {
-      "word": "lamu",
-      "count": 14
-    },
-    {
-      "word": "timmi",
-      "count": 14
-    },
-    {
-      "word": "kosde",
-      "count": 14
-    },
-    {
-      "word": "toh",
-      "count": 14
-    },
-    {
-      "word": "hosata",
-      "count": 14
-    },
-    {
-      "word": "daabba",
-      "count": 14
-    },
-    {
-      "word": "konu",
+      "word": "a-hot-tag",
       "count": 13
     },
     {
-      "word": "gorko",
+      "word": "webkit-keyframes",
       "count": 13
     },
     {
-      "word": "kanko",
+      "word": "keyframes",
       "count": 13
     },
     {
-      "word": "njamdi",
+      "word": "webkit-box-sizing",
       "count": 13
     },
     {
-      "word": "jamdi",
+      "word": "box-sizing",
       "count": 13
     },
     {
-      "word": "guldum",
+      "word": "m-breadcrumb",
       "count": 13
     },
     {
-      "word": "karshe",
+      "word": "o-em-consent__content",
       "count": 13
     },
     {
-      "word": "habda",
+      "word": "o-pwa-a2hs",
       "count": 13
     },
     {
-      "word": "deftere",
+      "word": "yontereejo",
       "count": 13
     },
     {
-      "word": "jaangirde",
+      "word": "mo",
       "count": 13
     },
     {
-      "word": "nasaraku",
+      "word": "silmaaji",
       "count": 13
     },
     {
-      "word": "ardata",
+      "word": "marɗi",
       "count": 13
     },
     {
-      "word": "cakka",
+      "word": "taƴe",
       "count": 13
     },
     {
-      "word": "horɗoore",
+      "word": "taƴere",
       "count": 13
     },
     {
-      "word": "nanugo",
+      "word": "aranere",
       "count": 13
-    },
-    {
-      "word": "jego",
-      "count": 13
-    },
-    {
-      "word": "valla",
-      "count": 13
-    },
-    {
-      "word": "bingel",
-      "count": 13
-    },
-    {
-      "word": "banning",
-      "count": 13
-    },
-    {
-      "word": "amerika",
-      "count": 13
-    },
-    {
-      "word": "chanja",
-      "count": 13
-    },
-    {
-      "word": "funange",
-      "count": 13
-    },
-    {
-      "word": "saito",
-      "count": 13
-    },
-    {
-      "word": "maari",
-      "count": 13
-    },
-    {
-      "word": "yawanci",
-      "count": 13
-    },
-    {
-      "word": "yahata",
-      "count": 13
-    },
-    {
-      "word": "den",
-      "count": 13
-    },
-    {
-      "word": "ski",
-      "count": 13
-    },
-    {
-      "word": "worɓe",
-      "count": 13
-    },
-    {
-      "word": "korwal",
-      "count": 13
-    },
-    {
-      "word": "nyande",
-      "count": 12
-    },
-    {
-      "word": "sera",
-      "count": 12
-    },
-    {
-      "word": "lamɗo",
-      "count": 12
-    },
-    {
-      "word": "us",
-      "count": 12
-    },
-    {
-      "word": "doggugo",
-      "count": 12
-    },
-    {
-      "word": "heɓata",
-      "count": 12
-    },
-    {
-      "word": "chi",
-      "count": 12
-    },
-    {
-      "word": "chanji",
-      "count": 12
-    },
-    {
-      "word": "latta",
-      "count": 12
-    },
-    {
-      "word": "hebbini",
-      "count": 12
-    },
-    {
-      "word": "nyebbam",
-      "count": 12
-    },
-    {
-      "word": "binchike",
-      "count": 12
-    },
-    {
-      "word": "aandal",
-      "count": 12
-    },
-    {
-      "word": "dama",
-      "count": 12
-    },
-    {
-      "word": "hundeji",
-      "count": 12
-    },
-    {
-      "word": "umma",
-      "count": 12
-    },
-    {
-      "word": "arande",
-      "count": 12
-    },
-    {
-      "word": "doo",
-      "count": 12
-    },
-    {
-      "word": "lamdo",
-      "count": 12
-    },
-    {
-      "word": "sey",
-      "count": 12
-    },
-    {
-      "word": "salugo",
-      "count": 12
-    },
-    {
-      "word": "hirna",
-      "count": 12
-    },
-    {
-      "word": "heɓɓa",
-      "count": 12
-    },
-    {
-      "word": "mahol",
-      "count": 12
-    },
-    {
-      "word": "duɓɓi",
-      "count": 12
-    },
-    {
-      "word": "hefta",
-      "count": 12
-    },
-    {
-      "word": "united",
-      "count": 11
-    },
-    {
-      "word": "duɓi",
-      "count": 11
-    },
-    {
-      "word": "yida",
-      "count": 11
-    },
-    {
-      "word": "luttuɗum",
-      "count": 11
-    },
-    {
-      "word": "hakkilinta",
-      "count": 11
-    },
-    {
-      "word": "haaje",
-      "count": 11
-    },
-    {
-      "word": "ɓikkoi",
-      "count": 11
-    },
-    {
-      "word": "odo",
-      "count": 11
-    },
-    {
-      "word": "ɗonno",
-      "count": 11
-    },
-    {
-      "word": "nauni",
-      "count": 11
-    },
-    {
-      "word": "wawa",
-      "count": 11
-    },
-    {
-      "word": "haɓre",
-      "count": 11
-    },
-    {
-      "word": "leggal",
-      "count": 11
-    },
-    {
-      "word": "warugo",
-      "count": 11
-    },
-    {
-      "word": "beddi",
-      "count": 11
-    },
-    {
-      "word": "volde",
-      "count": 11
-    },
-    {
-      "word": "fudda",
-      "count": 11
-    },
-    {
-      "word": "watugo",
-      "count": 11
-    },
-    {
-      "word": "fotta",
-      "count": 11
-    },
-    {
-      "word": "bindi",
-      "count": 11
-    },
-    {
-      "word": "fasaha",
-      "count": 11
-    },
-    {
-      "word": "nyamata",
-      "count": 11
-    },
-    {
-      "word": "asli",
-      "count": 11
-    },
-    {
-      "word": "wadda",
-      "count": 11
-    },
-    {
-      "word": "nyama",
-      "count": 11
-    },
-    {
-      "word": "juɗe",
-      "count": 11
-    },
-    {
-      "word": "amin",
-      "count": 11
-    },
-    {
-      "word": "hawti",
-      "count": 10
-    },
-    {
-      "word": "ina",
-      "count": 10
-    },
-    {
-      "word": "kuugal",
-      "count": 10
-    },
-    {
-      "word": "nanga",
-      "count": 10
-    },
-    {
-      "word": "hiite",
-      "count": 10
-    },
-    {
-      "word": "arɗo",
-      "count": 10
-    },
-    {
-      "word": "weltare",
-      "count": 10
-    },
-    {
-      "word": "habaruji",
-      "count": 10
-    },
-    {
-      "word": "dole",
-      "count": 10
-    },
-    {
-      "word": "acci",
-      "count": 10
-    },
-    {
-      "word": "nogas",
-      "count": 10
-    },
-    {
-      "word": "kilomita",
-      "count": 10
-    },
-    {
-      "word": "habdi",
-      "count": 10
-    },
-    {
-      "word": "damuwa",
-      "count": 10
-    },
-    {
-      "word": "awa",
-      "count": 10
-    },
-    {
-      "word": "australia",
-      "count": 10
-    },
-    {
-      "word": "miliyon",
-      "count": 10
-    },
-    {
-      "word": "viyugo",
-      "count": 10
-    },
-    {
-      "word": "kosɗe",
-      "count": 10
-    },
-    {
-      "word": "fim",
-      "count": 10
-    },
-    {
-      "word": "hatsari",
-      "count": 10
-    },
-    {
-      "word": "joga",
-      "count": 10
-    },
-    {
-      "word": "wokkati",
-      "count": 10
-    },
-    {
-      "word": "dasata",
-      "count": 10
-    },
-    {
-      "word": "dina",
-      "count": 10
-    },
-    {
-      "word": "sudu",
-      "count": 10
-    },
-    {
-      "word": "hollugo",
-      "count": 10
-    },
-    {
-      "word": "kullum",
-      "count": 10
-    },
-    {
-      "word": "hobbe",
-      "count": 10
-    },
-    {
-      "word": "adadu",
-      "count": 10
-    },
-    {
-      "word": "dotti",
-      "count": 10
-    },
-    {
-      "word": "haako",
-      "count": 10
-    },
-    {
-      "word": "goo",
-      "count": 10
-    },
-    {
-      "word": "sam",
-      "count": 10
-    },
-    {
-      "word": "wawugo",
-      "count": 10
-    },
-    {
-      "word": "dayugo",
-      "count": 10
-    },
-    {
-      "word": "gulɗum",
-      "count": 10
-    },
-    {
-      "word": "yara",
-      "count": 10
-    },
-    {
-      "word": "joɗi",
-      "count": 10
-    },
-    {
-      "word": "wonni",
-      "count": 10
-    },
-    {
-      "word": "eji",
-      "count": 10
-    },
-    {
-      "word": "leuru",
-      "count": 10
-    },
-    {
-      "word": "maayo",
-      "count": 10
-    },
-    {
-      "word": "ferefere",
-      "count": 10
-    },
-    {
-      "word": "america",
-      "count": 10
-    },
-    {
-      "word": "fuɗɗorde",
-      "count": 10
-    },
-    {
-      "word": "wadan",
-      "count": 10
-    },
-    {
-      "word": "an",
-      "count": 10
-    },
-    {
-      "word": "waawan",
-      "count": 10
-    },
-    {
-      "word": "laana",
-      "count": 10
-    },
-    {
-      "word": "afrika",
-      "count": 10
-    },
-    {
-      "word": "alada",
-      "count": 10
-    },
-    {
-      "word": "dabare",
-      "count": 10
-    },
-    {
-      "word": "bannin",
-      "count": 10
-    },
-    {
-      "word": "caka",
-      "count": 10
-    },
-    {
-      "word": "baabe",
-      "count": 10
-    },
-    {
-      "word": "babeji",
-      "count": 10
-    },
-    {
-      "word": "joɗata",
-      "count": 10
-    },
-    {
-      "word": "mm",
-      "count": 10
-    },
-    {
-      "word": "joɗa",
-      "count": 10
-    },
-    {
-      "word": "kankara",
-      "count": 10
-    },
-    {
-      "word": "ini",
-      "count": 9
-    },
-    {
-      "word": "gila",
-      "count": 9
-    },
-    {
-      "word": "men",
-      "count": 9
-    },
-    {
-      "word": "soɓɓiire",
-      "count": 9
-    },
-    {
-      "word": "moftorde",
-      "count": 9
-    },
-    {
-      "word": "the",
-      "count": 9
-    },
-    {
-      "word": "ngomnati",
-      "count": 9
-    },
-    {
-      "word": "marugo",
-      "count": 9
-    },
-    {
-      "word": "amurka",
-      "count": 9
-    },
-    {
-      "word": "tefata",
-      "count": 9
-    },
-    {
-      "word": "ayebe",
-      "count": 9
-    },
-    {
-      "word": "pellei",
-      "count": 9
-    },
-    {
-      "word": "vurtini",
-      "count": 9
-    },
-    {
-      "word": "indi",
-      "count": 9
-    },
-    {
-      "word": "tokkugo",
-      "count": 9
-    },
-    {
-      "word": "jogi",
-      "count": 9
-    },
-    {
-      "word": "hebai",
-      "count": 9
-    },
-    {
-      "word": "nani",
-      "count": 9
-    },
-    {
-      "word": "maube",
-      "count": 9
-    },
-    {
-      "word": "sambe",
-      "count": 9
-    },
-    {
-      "word": "vurtungo",
-      "count": 9
-    },
-    {
-      "word": "derewol",
-      "count": 9
-    },
-    {
-      "word": "iyalu",
-      "count": 9
-    },
-    {
-      "word": "jodi",
-      "count": 9
-    },
-    {
-      "word": "nufata",
-      "count": 9
-    },
-    {
-      "word": "zaɓe",
-      "count": 9
-    },
-    {
-      "word": "yite",
-      "count": 9
-    },
-    {
-      "word": "lantarki",
-      "count": 9
-    },
-    {
-      "word": "lesɗe",
-      "count": 9
-    },
-    {
-      "word": "asama",
-      "count": 9
-    },
-    {
-      "word": "naane",
-      "count": 9
-    },
-    {
-      "word": "tarihi",
-      "count": 9
-    },
-    {
-      "word": "resi",
-      "count": 9
-    },
-    {
-      "word": "tasha",
-      "count": 9
-    },
-    {
-      "word": "ɓeddi",
-      "count": 9
-    },
-    {
-      "word": "waɗan",
-      "count": 9
-    },
-    {
-      "word": "itta",
-      "count": 9
-    },
-    {
-      "word": "yottan",
-      "count": 9
-    },
-    {
-      "word": "babe",
-      "count": 9
-    },
-    {
-      "word": "italy",
-      "count": 9
-    },
-    {
-      "word": "joda",
-      "count": 9
-    },
-    {
-      "word": "vonni",
-      "count": 9
-    },
-    {
-      "word": "alama",
-      "count": 9
-    },
-    {
-      "word": "robe",
-      "count": 9
-    },
-    {
-      "word": "duniyaaru",
-      "count": 9
-    },
-    {
-      "word": "hukuma",
-      "count": 9
-    },
-    {
-      "word": "habe",
-      "count": 9
-    },
-    {
-      "word": "kaanjum",
-      "count": 9
-    },
-    {
-      "word": "siyasa",
-      "count": 9
-    },
-    {
-      "word": "gal",
-      "count": 9
-    },
-    {
-      "word": "gallure",
-      "count": 9
-    },
-    {
-      "word": "halaji",
-      "count": 9
-    },
-    {
-      "word": "sa",
-      "count": 9
-    },
-    {
-      "word": "turkey",
-      "count": 9
-    },
-    {
-      "word": "spanish",
-      "count": 9
-    },
-    {
-      "word": "booju",
-      "count": 9
-    },
-    {
-      "word": "dyona",
-      "count": 9
-    },
-    {
-      "word": "mangu",
-      "count": 9
-    },
-    {
-      "word": "sossai",
-      "count": 9
-    },
-    {
-      "word": "saare",
-      "count": 9
-    },
-    {
-      "word": "tefa",
-      "count": 9
-    },
-    {
-      "word": "jabi",
-      "count": 9
-    },
-    {
-      "word": "gandi",
-      "count": 9
-    },
-    {
-      "word": "tema",
-      "count": 9
-    },
-    {
-      "word": "yottai",
-      "count": 9
-    },
-    {
-      "word": "wo",
-      "count": 9
-    },
-    {
-      "word": "dai",
-      "count": 9
-    },
-    {
-      "word": "nangata",
-      "count": 9
-    },
-    {
-      "word": "maadi",
-      "count": 9
-    },
-    {
-      "word": "mah",
-      "count": 9
-    },
-    {
-      "word": "roɓe",
-      "count": 9
-    },
-    {
-      "word": "ñalnde",
-      "count": 8
-    },
-    {
-      "word": "taƴto",
-      "count": 8
-    },
-    {
-      "word": "org",
-      "count": 8
-    },
-    {
-      "word": "edo",
-      "count": 8
-    },
-    {
-      "word": "mbernde",
-      "count": 8
     },
     {
       "word": "nden",
+      "count": 13
+    },
+    {
+      "word": "yewtan",
+      "count": 13
+    },
+    {
+      "word": "faatii",
+      "count": 13
+    },
+    {
+      "word": "sukaaɓe",
+      "count": 13
+    },
+    {
+      "word": "ɓee",
+      "count": 13
+    },
+    {
+      "word": "liggeeji",
+      "count": 13
+    },
+    {
+      "word": "faandaaje",
+      "count": 13
+    },
+    {
+      "word": "teeriiɗiɓe",
+      "count": 13
+    },
+    {
+      "word": "haa",
+      "count": 13
+    },
+    {
+      "word": "njianɗe",
+      "count": 13
+    },
+    {
+      "word": "fahde",
+      "count": 13
+    },
+    {
+      "word": "adunaaru",
+      "count": 13
+    },
+    {
+      "word": "normal",
+      "count": 12
+    },
+    {
+      "word": "justify",
+      "count": 12
+    },
+    {
+      "word": "space-between",
+      "count": 12
+    },
+    {
+      "word": "border-color",
+      "count": 12
+    },
+    {
+      "word": "a-hover-content",
+      "count": 12
+    },
+    {
+      "word": "m-horizontal-nav",
+      "count": 12
+    },
+    {
+      "word": "webkit-box-shadow",
+      "count": 12
+    },
+    {
+      "word": "box-shadow",
+      "count": 12
+    },
+    {
+      "word": "o-breaking-alert-wrapper",
+      "count": 12
+    },
+    {
+      "word": "ol",
+      "count": 12
+    },
+    {
+      "word": "ul",
+      "count": 12
+    },
+    {
+      "word": "scale",
+      "count": 12
+    },
+    {
+      "word": "max-height",
+      "count": 11
+    },
+    {
+      "word": "webkit-flex-wrap",
+      "count": 11
+    },
+    {
+      "word": "ms-flex-wrap",
+      "count": 11
+    },
+    {
+      "word": "flex-wrap",
+      "count": 11
+    },
+    {
+      "word": "a-nav-item--bb",
+      "count": 11
+    },
+    {
+      "word": "o-youtube-player-modal__no-consent",
+      "count": 11
+    },
+    {
+      "word": "a-tag-nav-btn",
+      "count": 11
+    },
+    {
+      "word": "o-ad-sponsoring",
+      "count": 11
+    },
+    {
+      "word": "enabled",
+      "count": 11
+    },
+    {
+      "word": "o-em-adblock__content",
+      "count": 11
+    },
+    {
+      "word": "t-content__tags",
+      "count": 11
+    },
+    {
+      "word": "t-content__list-content",
+      "count": 11
+    },
+    {
+      "word": "f6e",
+      "count": 10
+    },
+    {
+      "word": "end",
+      "count": 10
+    },
+    {
+      "word": "linear",
+      "count": 10
+    },
+    {
+      "word": "transparent",
+      "count": 10
+    },
+    {
+      "word": "right",
+      "count": 10
+    },
+    {
+      "word": "a-loader",
+      "count": 10
+    },
+    {
+      "word": "cubic-bezier",
+      "count": 10
+    },
+    {
+      "word": "infinite",
+      "count": 10
+    },
+    {
+      "word": "a-master-button",
+      "count": 10
+    },
+    {
+      "word": "nowrap",
+      "count": 10
+    },
+    {
+      "word": "webkit-box-orient",
+      "count": 10
+    },
+    {
+      "word": "vertical",
+      "count": 10
+    },
+    {
+      "word": "overflow",
+      "count": 10
+    },
+    {
+      "word": "aspect-ratio",
+      "count": 10
+    },
+    {
+      "word": "a-site-nav-link",
+      "count": 10
+    },
+    {
+      "word": "flex-end",
+      "count": 10
+    },
+    {
+      "word": "translatex",
+      "count": 10
+    },
+    {
+      "word": "o-ad-sponsoring__wrapper",
+      "count": 10
+    },
+    {
+      "word": "fulfulde",
+      "count": 9
+    },
+    {
+      "word": "text-align",
+      "count": 9
+    },
+    {
+      "word": "webkit-box-ordinal-group",
+      "count": 9
+    },
+    {
+      "word": "ms-flex-order",
+      "count": 9
+    },
+    {
+      "word": "webkit-order",
+      "count": 9
+    },
+    {
+      "word": "order",
+      "count": 9
+    },
+    {
+      "word": "white-space",
+      "count": 9
+    },
+    {
+      "word": "border-width",
+      "count": 9
+    },
+    {
+      "word": "text-transform",
+      "count": 9
+    },
+    {
+      "word": "webkit-box-direction",
+      "count": 9
+    },
+    {
+      "word": "webkit-flex-direction",
+      "count": 9
+    },
+    {
+      "word": "ms-flex-direction",
+      "count": 9
+    },
+    {
+      "word": "flex-direction",
+      "count": 9
+    },
+    {
+      "word": "t-content--page-builder",
+      "count": 9
+    },
+    {
+      "word": "m-content-typology",
+      "count": 9
+    },
+    {
+      "word": "calc",
+      "count": 9
+    },
+    {
+      "word": "margin-top",
+      "count": 9
+    },
+    {
+      "word": "table",
+      "count": 9
+    },
+    {
+      "word": "webkit-column-gap",
       "count": 8
     },
     {
-      "word": "zabe",
+      "word": "moz-column-gap",
       "count": 8
     },
     {
-      "word": "sa'e",
+      "word": "column-gap",
       "count": 8
     },
     {
-      "word": "siga",
+      "word": "a-img",
       "count": 8
     },
     {
-      "word": "aibe",
+      "word": "block",
       "count": 8
     },
     {
-      "word": "motaji",
+      "word": "blur",
       "count": 8
     },
     {
-      "word": "fidi",
+      "word": "a-section-color",
       "count": 8
     },
     {
-      "word": "shiri",
+      "word": "o-sidebar",
       "count": 8
     },
     {
-      "word": "chanjugo",
+      "word": "f5f5f",
       "count": 8
     },
     {
-      "word": "dasi",
+      "word": "o-tag-list__scrollable",
       "count": 8
     },
     {
-      "word": "usta",
+      "word": "o-site-nav__scrollable",
       "count": 8
     },
     {
-      "word": "her",
+      "word": "o-site-nav-wrapper--is-bb",
       "count": 8
     },
     {
-      "word": "funa",
+      "word": "t-content__related",
       "count": 8
     },
     {
-      "word": "lettugal",
+      "word": "t-content__shares",
       "count": 8
     },
     {
-      "word": "wallata",
+      "word": "tr",
       "count": 8
     },
     {
-      "word": "zealand",
-      "count": 8
-    },
-    {
-      "word": "hadi",
-      "count": 8
-    },
-    {
-      "word": "daidai",
-      "count": 8
-    },
-    {
-      "word": "sende",
-      "count": 8
-    },
-    {
-      "word": "shawara",
-      "count": 8
-    },
-    {
-      "word": "hadou",
-      "count": 8
-    },
-    {
-      "word": "fuuna",
-      "count": 8
-    },
-    {
-      "word": "san",
-      "count": 8
-    },
-    {
-      "word": "wartan",
-      "count": 8
-    },
-    {
-      "word": "pelel",
-      "count": 8
-    },
-    {
-      "word": "internet",
-      "count": 8
-    },
-    {
-      "word": "urop",
-      "count": 8
-    },
-    {
-      "word": "yontere",
-      "count": 8
-    },
-    {
-      "word": "sodugo",
-      "count": 8
-    },
-    {
-      "word": "vurtina",
-      "count": 8
-    },
-    {
-      "word": "numa",
-      "count": 8
-    },
-    {
-      "word": "ii",
-      "count": 8
-    },
-    {
-      "word": "dume",
-      "count": 8
-    },
-    {
-      "word": "jodata",
-      "count": 8
-    },
-    {
-      "word": "sabon",
-      "count": 8
-    },
-    {
-      "word": "labi",
-      "count": 8
-    },
-    {
-      "word": "dara",
-      "count": 8
-    },
-    {
-      "word": "jamus",
-      "count": 8
-    },
-    {
-      "word": "paris",
-      "count": 8
-    },
-    {
-      "word": "hotoji",
-      "count": 8
-    },
-    {
-      "word": "dimbugo",
-      "count": 8
-    },
-    {
-      "word": "germany",
-      "count": 8
-    },
-    {
-      "word": "faamugo",
-      "count": 8
-    },
-    {
-      "word": "ammin",
-      "count": 8
-    },
-    {
-      "word": "wayla",
-      "count": 8
-    },
-    {
-      "word": "kauye",
-      "count": 8
-    },
-    {
-      "word": "gizo",
-      "count": 8
-    },
-    {
-      "word": "soinde",
-      "count": 8
-    },
-    {
-      "word": "ndu",
-      "count": 8
-    },
-    {
-      "word": "ziyaara",
-      "count": 8
-    },
-    {
-      "word": "jamu",
-      "count": 8
-    },
-    {
-      "word": "hoodere",
-      "count": 8
-    },
-    {
-      "word": "dabba",
-      "count": 8
-    },
-    {
-      "word": "yeeso",
-      "count": 8
-    },
-    {
-      "word": "tokkata",
-      "count": 8
-    },
-    {
-      "word": "kiddum",
-      "count": 8
-    },
-    {
-      "word": "canada",
-      "count": 8
-    },
-    {
-      "word": "visa",
-      "count": 8
-    },
-    {
-      "word": "suitare",
-      "count": 8
-    },
-    {
-      "word": "koidum",
-      "count": 8
-    },
-    {
-      "word": "south",
-      "count": 8
-    },
-    {
-      "word": "taati",
-      "count": 8
-    },
-    {
-      "word": "ngoo",
+      "word": "pointer-events",
       "count": 7
     },
     {
-      "word": "ɗaɗi",
+      "word": "webkit-animation",
       "count": 7
     },
     {
-      "word": "aanyam",
+      "word": "animation",
       "count": 7
     },
     {
-      "word": "haalirde",
+      "word": "a-loader-error",
       "count": 7
     },
     {
-      "word": "maajum",
+      "word": "uppercase",
       "count": 7
+    },
+    {
+      "word": "a-section-title--link",
+      "count": 7
+    },
+    {
+      "word": "text-decoration",
+      "count": 7
+    },
+    {
+      "word": "o-ad-container__content",
+      "count": 7
+    },
+    {
+      "word": "m-em-video__video",
+      "count": 7
+    },
+    {
+      "word": "o-header",
+      "count": 7
+    },
+    {
+      "word": "o-header__inner",
+      "count": 7
+    },
+    {
+      "word": "o-site-nav-wrapper--active",
+      "count": 7
+    },
+    {
+      "word": "t-content__authors",
+      "count": 7
+    },
+    {
+      "word": "t-content__section",
+      "count": 7
+    },
+    {
+      "word": "blockquote",
+      "count": 7
+    },
+    {
+      "word": "dow",
+      "count": 7
+    },
+    {
+      "word": "fm",
+      "count": 7
+    },
+    {
+      "word": "m-box-expand",
+      "count": 6
+    },
+    {
+      "word": "a-nav-item--active",
+      "count": 6
+    },
+    {
+      "word": "d4d4d",
+      "count": 6
+    },
+    {
+      "word": "outline-animation",
+      "count": 6
+    },
+    {
+      "word": "show-logo",
+      "count": 6
+    },
+    {
+      "word": "visible",
+      "count": 6
+    },
+    {
+      "word": "row-gap",
+      "count": 6
+    },
+    {
+      "word": "content-box",
+      "count": 6
+    },
+    {
+      "word": "m-block-ad__content",
+      "count": 6
+    },
+    {
+      "word": "resized",
+      "count": 6
+    },
+    {
+      "word": "underline",
+      "count": 6
+    },
+    {
+      "word": "u-loading-btn",
+      "count": 6
+    },
+    {
+      "word": "o-header-nav",
+      "count": 6
+    },
+    {
+      "word": "o-modal-content__header",
+      "count": 6
+    },
+    {
+      "word": "o-modal-content__footer",
+      "count": 6
+    },
+    {
+      "word": "t-content__chapo",
+      "count": 6
+    },
+    {
+      "word": "t-content__dates",
+      "count": 6
+    },
+    {
+      "word": "t-content__page-cta",
+      "count": 6
+    },
+    {
+      "word": "quote",
+      "count": 6
+    },
+    {
+      "word": "a-status-tag--urgent",
+      "count": 6
+    },
+    {
+      "word": "a-status-tag--breaking",
+      "count": 6
+    },
+    {
+      "word": "fr",
+      "count": 5
+    },
+    {
+      "word": "min-height",
+      "count": 5
+    },
+    {
+      "word": "active",
+      "count": 5
+    },
+    {
+      "word": "a-close-button",
+      "count": 5
+    },
+    {
+      "word": "fixed",
+      "count": 5
+    },
+    {
+      "word": "a-loader-error__content",
+      "count": 5
+    },
+    {
+      "word": "disabled",
+      "count": 5
+    },
+    {
+      "word": "a-picto-play-pause",
+      "count": 5
+    },
+    {
+      "word": "m-section-title--small",
+      "count": 5
+    },
+    {
+      "word": "m-block-ad__label",
+      "count": 5
+    },
+    {
+      "word": "m-breadcrumb__list",
+      "count": 5
+    },
+    {
+      "word": "grid-template-columns",
+      "count": 5
+    },
+    {
+      "word": "m-em-audio__sound",
+      "count": 5
+    },
+    {
+      "word": "m-audio-infos",
+      "count": 5
+    },
+    {
+      "word": "m-section-title",
+      "count": 5
+    },
+    {
+      "word": "webkit-padding-start",
+      "count": 5
+    },
+    {
+      "word": "padding-inline-start",
+      "count": 5
+    },
+    {
+      "word": "o-em-consent--vertical",
+      "count": 5
+    },
+    {
+      "word": "u-header-hide-scroll-down",
+      "count": 5
+    },
+    {
+      "word": "data-site-nav-state",
+      "count": 5
+    },
+    {
+      "word": "o-bottom-bar",
+      "count": 5
+    },
+    {
+      "word": "u-horizontal-scroll__scrollable",
+      "count": 5
+    },
+    {
+      "word": "t-content__title",
+      "count": 5
+    },
+    {
+      "word": "t-content__transcription",
+      "count": 5
+    },
+    {
+      "word": "t-content__shares--has-label",
+      "count": 5
+    },
+    {
+      "word": "m-item-image--16x",
+      "count": 5
+    },
+    {
+      "word": "a-status-tag--big",
+      "count": 5
+    },
+    {
+      "word": "m-box-expand__button",
+      "count": 4
+    },
+    {
+      "word": "outline-offset",
+      "count": 4
+    },
+    {
+      "word": "body",
+      "count": 4
+    },
+    {
+      "word": "a-header-entry--live",
+      "count": 4
+    },
+    {
+      "word": "a-audio-player-btn",
+      "count": 4
+    },
+    {
+      "word": "dadce",
+      "count": 4
+    },
+    {
+      "word": "focus-visible",
+      "count": 4
+    },
+    {
+      "word": "a-loader-wrapper--show",
+      "count": 4
+    },
+    {
+      "word": "webkit-backdrop-filter",
+      "count": 4
+    },
+    {
+      "word": "ms-flex-item-align",
+      "count": 4
+    },
+    {
+      "word": "webkit-align-self",
+      "count": 4
+    },
+    {
+      "word": "align-self",
+      "count": 4
+    },
+    {
+      "word": "c4c4c",
+      "count": 4
+    },
+    {
+      "word": "webkit-margin-end",
+      "count": 4
+    },
+    {
+      "word": "margin-inline-end",
+      "count": 4
+    },
+    {
+      "word": "burger-to-cross",
+      "count": 4
+    },
+    {
+      "word": "burger-to-cross-bottom-bar",
+      "count": 4
+    },
+    {
+      "word": "cross-to-burger",
+      "count": 4
+    },
+    {
+      "word": "cross-to-burger-bottom-bar",
+      "count": 4
+    },
+    {
+      "word": "div",
+      "count": 4
+    },
+    {
+      "word": "m-breadcrumb__list__item",
+      "count": 4
+    },
+    {
+      "word": "vw",
+      "count": 4
+    },
+    {
+      "word": "border-top",
+      "count": 4
+    },
+    {
+      "word": "o-ad-container--banner-top",
+      "count": 4
+    },
+    {
+      "word": "o-ad-container--with-background",
+      "count": 4
+    },
+    {
+      "word": "o-ad-container__content--report-enabled",
+      "count": 4
+    },
+    {
+      "word": "data-tms-ad-type",
+      "count": 4
+    },
+    {
+      "word": "post-article",
+      "count": 4
+    },
+    {
+      "word": "span",
+      "count": 4
+    },
+    {
+      "word": "a-button",
+      "count": 4
+    },
+    {
+      "word": "o-site-nav-wrapper--main-menu",
+      "count": 4
+    },
+    {
+      "word": "o-special-bar",
+      "count": 4
+    },
+    {
+      "word": "stretch",
+      "count": 4
+    },
+    {
+      "word": "t-content__chapters",
+      "count": 4
+    },
+    {
+      "word": "margin-left",
+      "count": 4
+    },
+    {
+      "word": "margin-right",
+      "count": 4
+    },
+    {
+      "word": "visited",
+      "count": 4
+    },
+    {
+      "word": "th",
+      "count": 4
+    },
+    {
+      "word": "m-table-alternate",
+      "count": 4
+    },
+    {
+      "word": "squeeze",
+      "count": 4
+    },
+    {
+      "word": "a-modal-btn",
+      "count": 4
+    },
+    {
+      "word": "jeri",
+      "count": 4
+    },
+    {
+      "word": "gmt",
+      "count": 4
+    },
+    {
+      "word": "utc",
+      "count": 4
     },
     {
       "word": "https",
-      "count": 7
-    },
-    {
-      "word": "ff",
-      "count": 7
-    },
-    {
-      "word": "wikipedia",
-      "count": 7
-    },
-    {
-      "word": "index",
-      "count": 7
-    },
-    {
-      "word": "php",
-      "count": 7
-    },
-    {
-      "word": "title",
-      "count": 7
-    },
-    {
-      "word": "oldid",
-      "count": 7
-    },
-    {
-      "word": "bengal",
-      "count": 7
-    },
-    {
-      "word": "company",
-      "count": 7
-    },
-    {
-      "word": "maha",
-      "count": 7
-    },
-    {
-      "word": "mabbi",
-      "count": 7
-    },
-    {
-      "word": "wolwa",
-      "count": 7
-    },
-    {
-      "word": "sala",
-      "count": 7
-    },
-    {
-      "word": "huwobe",
-      "count": 7
-    },
-    {
-      "word": "moy",
-      "count": 7
-    },
-    {
-      "word": "marbe",
-      "count": 7
-    },
-    {
-      "word": "tammi",
-      "count": 7
-    },
-    {
-      "word": "latti",
-      "count": 7
-    },
-    {
-      "word": "ci",
-      "count": 7
-    },
-    {
-      "word": "defte",
-      "count": 7
-    },
-    {
-      "word": "john",
-      "count": 7
-    },
-    {
-      "word": "jangugo",
-      "count": 7
-    },
-    {
-      "word": "danneere",
-      "count": 7
-    },
-    {
-      "word": "st",
-      "count": 7
-    },
-    {
-      "word": "system",
-      "count": 7
-    },
-    {
-      "word": "sorugo",
-      "count": 7
-    },
-    {
-      "word": "kambe",
-      "count": 7
-    },
-    {
-      "word": "gwamnati",
-      "count": 7
-    },
-    {
-      "word": "ummi",
-      "count": 7
-    },
-    {
-      "word": "handai",
-      "count": 7
-    },
-    {
-      "word": "sati",
-      "count": 7
-    },
-    {
-      "word": "tunda",
-      "count": 7
-    },
-    {
-      "word": "ɓingel",
-      "count": 7
-    },
-    {
-      "word": "habar",
-      "count": 7
-    },
-    {
-      "word": "roshiya",
-      "count": 7
-    },
-    {
-      "word": "keeke",
-      "count": 7
-    },
-    {
-      "word": "maɓɓiti",
-      "count": 7
-    },
-    {
-      "word": "alarba",
-      "count": 7
-    },
-    {
-      "word": "wawai",
-      "count": 7
-    },
-    {
-      "word": "iran",
-      "count": 7
-    },
-    {
-      "word": "nastata",
-      "count": 7
-    },
-    {
-      "word": "biindi",
-      "count": 7
-    },
-    {
-      "word": "gootel",
-      "count": 7
-    },
-    {
-      "word": "naange",
-      "count": 7
-    },
-    {
-      "word": "ɗerwol",
-      "count": 7
-    },
-    {
-      "word": "states",
-      "count": 7
-    },
-    {
-      "word": "kenya",
-      "count": 7
-    },
-    {
-      "word": "pellelji",
-      "count": 7
-    },
-    {
-      "word": "kalima",
-      "count": 7
-    },
-    {
-      "word": "accata",
-      "count": 7
-    },
-    {
-      "word": "fondi",
-      "count": 7
-    },
-    {
-      "word": "banki",
-      "count": 7
-    },
-    {
-      "word": "heɓai",
-      "count": 7
-    },
-    {
-      "word": "dubu",
-      "count": 7
-    },
-    {
-      "word": "lawal",
-      "count": 7
-    },
-    {
-      "word": "joi",
-      "count": 7
-    },
-    {
-      "word": "iyende",
-      "count": 7
-    },
-    {
-      "word": "sappoi",
-      "count": 7
-    },
-    {
-      "word": "huwoɓe",
-      "count": 7
-    },
-    {
-      "word": "jamo",
-      "count": 7
-    },
-    {
-      "word": "volwata",
-      "count": 7
-    },
-    {
-      "word": "gimol",
-      "count": 7
-    },
-    {
-      "word": "nawugo",
-      "count": 7
-    },
-    {
-      "word": "ummini",
-      "count": 7
-    },
-    {
-      "word": "ekkita",
-      "count": 7
-    },
-    {
-      "word": "baba",
-      "count": 7
-    },
-    {
-      "word": "laabi",
-      "count": 7
-    },
-    {
-      "word": "wali",
-      "count": 7
-    },
-    {
-      "word": "cholli",
-      "count": 7
-    },
-    {
-      "word": "barata",
-      "count": 7
-    },
-    {
-      "word": "kashi",
-      "count": 7
-    },
-    {
-      "word": "keesum",
-      "count": 7
-    },
-    {
-      "word": "berniwol",
-      "count": 7
-    },
-    {
-      "word": "sibiti",
-      "count": 7
-    },
-    {
-      "word": "la",
-      "count": 7
-    },
-    {
-      "word": "wurta",
-      "count": 7
-    },
-    {
-      "word": "pade",
-      "count": 7
-    },
-    {
-      "word": "audi",
-      "count": 7
-    },
-    {
-      "word": "domari",
-      "count": 7
-    },
-    {
-      "word": "latin",
-      "count": 7
-    },
-    {
-      "word": "jamani",
-      "count": 7
-    },
-    {
-      "word": "wonna",
-      "count": 7
-    },
-    {
-      "word": "ai",
-      "count": 7
-    },
-    {
-      "word": "dona",
-      "count": 7
-    },
-    {
-      "word": "mauɓe",
-      "count": 7
-    },
-    {
-      "word": "jutugo",
-      "count": 7
-    },
-    {
-      "word": "juddum",
-      "count": 7
-    },
-    {
-      "word": "fe'i",
-      "count": 7
-    },
-    {
-      "word": "fere-fere",
-      "count": 7
-    },
-    {
-      "word": "nanata",
-      "count": 7
-    },
-    {
-      "word": "deena",
-      "count": 7
-    },
-    {
-      "word": "ya",
-      "count": 7
-    },
-    {
-      "word": "mabbiti",
-      "count": 7
-    },
-    {
-      "word": "wakkere",
-      "count": 7
-    },
-    {
-      "word": "mon",
-      "count": 7
-    },
-    {
-      "word": "kude",
-      "count": 7
-    },
-    {
-      "word": "hatoi",
-      "count": 7
-    },
-    {
-      "word": "fama",
-      "count": 7
-    },
-    {
-      "word": "intanet",
-      "count": 7
-    },
-    {
-      "word": "wuroji",
-      "count": 7
-    },
-    {
-      "word": "heban",
-      "count": 7
-    },
-    {
-      "word": "seto",
-      "count": 7
-    },
-    {
-      "word": "nyibi",
-      "count": 7
-    },
-    {
-      "word": "tari",
-      "count": 7
-    },
-    {
-      "word": "vodugo",
-      "count": 7
-    },
-    {
-      "word": "bal",
-      "count": 7
-    },
-    {
-      "word": "rewɓe",
-      "count": 7
-    },
-    {
-      "word": "hello",
-      "count": 6
-    },
-    {
-      "word": "taƴtaa",
-      "count": 6
-    },
-    {
-      "word": "sakket",
-      "count": 6
-    },
-    {
-      "word": "sahnga",
-      "count": 6
-    },
-    {
-      "word": "ene",
-      "count": 6
-    },
-    {
-      "word": "ɗe",
-      "count": 6
-    },
-    {
-      "word": "hooreejo",
-      "count": 6
-    },
-    {
-      "word": "ɓaawo",
-      "count": 6
-    },
-    {
-      "word": "ittaa",
-      "count": 6
-    },
-    {
-      "word": "un",
-      "count": 6
-    },
-    {
-      "word": "ɗi",
-      "count": 6
-    },
-    {
-      "word": "ndeen",
-      "count": 6
-    },
-    {
-      "word": "ne",
-      "count": 6
-    },
-    {
-      "word": "ɓernde",
-      "count": 6
-    },
-    {
-      "word": "tabbitina",
-      "count": 6
-    },
-    {
-      "word": "haala",
-      "count": 6
-    },
-    {
-      "word": "hakkillo",
-      "count": 6
-    },
-    {
-      "word": "yoga",
-      "count": 6
-    },
-    {
-      "word": "kan",
-      "count": 6
-    },
-    {
-      "word": "reta",
-      "count": 6
-    },
-    {
-      "word": "sojaji",
-      "count": 6
-    },
-    {
-      "word": "wowi",
-      "count": 6
-    },
-    {
-      "word": "nay",
-      "count": 6
-    },
-    {
-      "word": "british",
-      "count": 6
-    },
-    {
-      "word": "hong",
-      "count": 6
-    },
-    {
-      "word": "kong",
-      "count": 6
-    },
-    {
-      "word": "wannata",
-      "count": 6
-    },
-    {
-      "word": "sauki",
-      "count": 6
-    },
-    {
-      "word": "fiji",
-      "count": 6
-    },
-    {
-      "word": "nyamande",
-      "count": 6
-    },
-    {
-      "word": "didabre",
-      "count": 6
-    },
-    {
-      "word": "non",
-      "count": 6
-    },
-    {
-      "word": "dilli",
-      "count": 6
-    },
-    {
-      "word": "fidugo",
-      "count": 6
-    },
-    {
-      "word": "juɗɗum",
-      "count": 6
-    },
-    {
-      "word": "joowey",
-      "count": 6
-    },
-    {
-      "word": "yehi",
-      "count": 6
-    },
-    {
-      "word": "janga",
-      "count": 6
-    },
-    {
-      "word": "tv",
-      "count": 6
-    },
-    {
-      "word": "miles",
-      "count": 6
-    },
-    {
-      "word": "jabugo",
-      "count": 6
-    },
-    {
-      "word": "mauni",
-      "count": 6
-    },
-    {
-      "word": "jagordo",
-      "count": 6
-    },
-    {
-      "word": "heɓan",
-      "count": 6
-    },
-    {
-      "word": "rayuwa",
-      "count": 6
-    },
-    {
-      "word": "brazil",
-      "count": 6
-    },
-    {
-      "word": "sendugo",
-      "count": 6
-    },
-    {
-      "word": "doddon",
-      "count": 6
-    },
-    {
-      "word": "doggi",
-      "count": 6
-    },
-    {
-      "word": "fasiti",
-      "count": 6
-    },
-    {
-      "word": "vodaka",
-      "count": 6
-    },
-    {
-      "word": "redu",
-      "count": 6
-    },
-    {
-      "word": "tabbitini",
-      "count": 6
-    },
-    {
-      "word": "fotti",
-      "count": 6
-    },
-    {
-      "word": "mallimalloje",
-      "count": 6
-    },
-    {
-      "word": "fudarde",
-      "count": 6
-    },
-    {
-      "word": "ragare",
-      "count": 6
-    },
-    {
-      "word": "vurtinta",
-      "count": 6
-    },
-    {
-      "word": "luttudum",
-      "count": 6
-    },
-    {
-      "word": "china",
-      "count": 6
-    },
-    {
-      "word": "waddugo",
-      "count": 6
-    },
-    {
-      "word": "artundere",
-      "count": 6
-    },
-    {
-      "word": "wannugo",
-      "count": 6
-    },
-    {
-      "word": "hanko",
-      "count": 6
-    },
-    {
-      "word": "liɗɗi",
-      "count": 6
-    },
-    {
-      "word": "senditi",
-      "count": 6
-    },
-    {
-      "word": "sodi",
-      "count": 6
-    },
-    {
-      "word": "larti",
-      "count": 6
-    },
-    {
-      "word": "dudai",
-      "count": 6
-    },
-    {
-      "word": "yande",
-      "count": 6
-    },
-    {
-      "word": "harbe",
-      "count": 6
-    },
-    {
-      "word": "vallita",
-      "count": 6
-    },
-    {
-      "word": "ɓikkon",
-      "count": 6
-    },
-    {
-      "word": "birni",
-      "count": 6
-    },
-    {
-      "word": "ende",
-      "count": 6
-    },
-    {
-      "word": "yawugo",
-      "count": 6
-    },
-    {
-      "word": "damugo",
-      "count": 6
-    },
-    {
-      "word": "fija",
-      "count": 6
-    },
-    {
-      "word": "dayi",
-      "count": 6
-    },
-    {
-      "word": "horeejo",
-      "count": 6
-    },
-    {
-      "word": "subti",
-      "count": 6
-    },
-    {
-      "word": "kode",
-      "count": 6
-    },
-    {
-      "word": "tammata",
-      "count": 6
-    },
-    {
-      "word": "asibiti",
-      "count": 6
-    },
-    {
-      "word": "ɓura",
-      "count": 6
-    },
-    {
-      "word": "walli",
-      "count": 6
-    },
-    {
-      "word": "ton",
-      "count": 6
-    },
-    {
-      "word": "lamba",
-      "count": 6
-    },
-    {
-      "word": "nonnon",
-      "count": 6
-    },
-    {
-      "word": "woodi",
-      "count": 6
-    },
-    {
-      "word": "maɓɓi",
-      "count": 6
-    },
-    {
-      "word": "vonnugo",
-      "count": 6
-    },
-    {
-      "word": "wakati",
-      "count": 6
-    },
-    {
-      "word": "poland",
-      "count": 6
-    },
-    {
-      "word": "ummugo",
-      "count": 6
-    },
-    {
-      "word": "yaake",
-      "count": 6
-    },
-    {
-      "word": "hawtugo",
-      "count": 6
-    },
-    {
-      "word": "aji",
-      "count": 6
-    },
-    {
-      "word": "panni",
-      "count": 6
-    },
-    {
-      "word": "tauraro",
-      "count": 6
-    },
-    {
-      "word": "hindu",
-      "count": 6
-    },
-    {
-      "word": "di'di",
-      "count": 6
-    },
-    {
-      "word": "wailita",
-      "count": 6
-    },
-    {
-      "word": "dadi",
-      "count": 6
-    },
-    {
-      "word": "kimiya",
-      "count": 6
-    },
-    {
-      "word": "dinosaur",
-      "count": 6
-    },
-    {
-      "word": "noi",
-      "count": 6
-    },
-    {
-      "word": "britania",
-      "count": 6
-    },
-    {
-      "word": "puccu",
-      "count": 6
-    },
-    {
-      "word": "volwugo",
-      "count": 6
-    },
-    {
-      "word": "wolde",
-      "count": 6
-    },
-    {
-      "word": "diina",
-      "count": 6
-    },
-    {
-      "word": "dudum",
-      "count": 6
-    },
-    {
-      "word": "yahan",
-      "count": 6
-    },
-    {
-      "word": "dillata",
-      "count": 6
-    },
-    {
-      "word": "haykaliwol",
-      "count": 6
-    },
-    {
-      "word": "ɓedda",
-      "count": 6
-    },
-    {
-      "word": "misali",
-      "count": 6
-    },
-    {
-      "word": "shafi",
-      "count": 6
-    },
-    {
-      "word": "fuddorde",
-      "count": 6
-    },
-    {
-      "word": "taska",
-      "count": 6
-    },
-    {
-      "word": "mahdi",
-      "count": 6
-    },
-    {
-      "word": "luttuɓe",
-      "count": 6
-    },
-    {
-      "word": "daran",
-      "count": 6
-    },
-    {
-      "word": "perpetum",
-      "count": 6
-    },
-    {
-      "word": "wondi",
-      "count": 6
-    },
-    {
-      "word": "yecca",
-      "count": 6
-    },
-    {
-      "word": "luttube",
-      "count": 6
-    },
-    {
-      "word": "lesta",
-      "count": 6
-    },
-    {
-      "word": "greenland",
-      "count": 6
-    },
-    {
-      "word": "yoba",
-      "count": 6
-    },
-    {
-      "word": "galapagos",
-      "count": 6
-    },
-    {
-      "word": "chile",
-      "count": 6
-    },
-    {
-      "word": "pewol",
-      "count": 6
-    },
-    {
-      "word": "komfuta",
-      "count": 6
-    },
-    {
-      "word": "hatotton",
-      "count": 6
-    },
-    {
-      "word": "skiing",
-      "count": 6
-    },
-    {
-      "word": "numba",
-      "count": 6
-    },
-    {
-      "word": "kujejji",
-      "count": 6
-    },
-    {
-      "word": "emi",
-      "count": 6
-    },
-    {
-      "word": "ɓaandu",
-      "count": 6
-    },
-    {
-      "word": "french",
-      "count": 6
-    },
-    {
-      "word": "sweden",
-      "count": 6
-    },
-    {
-      "word": "worbe",
-      "count": 6
-    },
-    {
-      "word": "wonan",
-      "count": 6
-    },
-    {
-      "word": "hoseji",
-      "count": 6
-    },
-    {
-      "word": "unesco",
-      "count": 5
-    },
-    {
-      "word": "colte",
-      "count": 5
-    },
-    {
-      "word": "com",
-      "count": 5
-    },
-    {
-      "word": "maayi",
-      "count": 5
-    },
-    {
-      "word": "miss",
-      "count": 5
-    },
-    {
-      "word": "ummaatoore",
-      "count": 5
-    },
-    {
-      "word": "bangladesh",
-      "count": 5
-    },
-    {
-      "word": "hiirnaange",
-      "count": 5
-    },
-    {
-      "word": "mbari",
-      "count": 5
-    },
-    {
-      "word": "haandi",
-      "count": 5
-    },
-    {
-      "word": "fuu",
-      "count": 5
+      "count": 3
     },
     {
       "word": "www",
-      "count": 5
+      "count": 3
     },
     {
-      "word": "charles",
-      "count": 5
+      "word": "rfi",
+      "count": 3
     },
     {
-      "word": "waawi",
-      "count": 5
+      "word": "a-svg--picto-play-with-opacity",
+      "count": 3
     },
     {
-      "word": "lenyol",
-      "count": 5
+      "word": "a-svg--picto-share-arrow",
+      "count": 3
     },
     {
-      "word": "ekkititta",
-      "count": 5
+      "word": "a-a11y-skip-main",
+      "count": 3
     },
     {
-      "word": "cewa",
-      "count": 5
+      "word": "justify-self",
+      "count": 3
     },
     {
-      "word": "poliici",
-      "count": 5
+      "word": "a-header-entry--desktop-only",
+      "count": 3
     },
     {
-      "word": "dammugal",
-      "count": 5
+      "word": "a-nav-item__label",
+      "count": 3
     },
     {
-      "word": "sanda",
-      "count": 5
+      "word": "a-header-entry--main",
+      "count": 3
     },
     {
-      "word": "hota",
-      "count": 5
+      "word": "a-home-link",
+      "count": 3
     },
     {
-      "word": "holo",
-      "count": 5
+      "word": "a-hot-tag--active",
+      "count": 3
     },
     {
-      "word": "grand",
-      "count": 5
+      "word": "cursor",
+      "count": 3
     },
     {
-      "word": "dereji",
-      "count": 5
+      "word": "outline",
+      "count": 3
     },
     {
-      "word": "marɓe",
-      "count": 5
+      "word": "a-master-button--dark",
+      "count": 3
     },
     {
-      "word": "fonda",
-      "count": 5
+      "word": "backdrop-filter",
+      "count": 3
     },
     {
-      "word": "kati",
-      "count": 5
+      "word": "a-picture--original",
+      "count": 3
     },
     {
-      "word": "fijata",
-      "count": 5
+      "word": "a-section-title-logo",
+      "count": 3
     },
     {
-      "word": "of",
-      "count": 5
+      "word": "grid",
+      "count": 3
     },
     {
-      "word": "wanna",
-      "count": 5
+      "word": "a-circle-loader",
+      "count": 3
     },
     {
-      "word": "hokkan",
-      "count": 5
+      "word": "m-audio-infos__author",
+      "count": 3
     },
     {
-      "word": "haadi",
-      "count": 5
+      "word": "m-em-audio--has-quote",
+      "count": 3
     },
     {
-      "word": "jon",
-      "count": 5
+      "word": "m-em-quote",
+      "count": 3
     },
     {
-      "word": "meɗi",
-      "count": 5
+      "word": "a-tag-nav-btn--left",
+      "count": 3
     },
     {
-      "word": "satumba",
-      "count": 5
+      "word": "a-tag-nav-btn--right",
+      "count": 3
     },
     {
-      "word": "lebbi",
-      "count": 5
+      "word": "o-ad-sponsoring__link",
+      "count": 3
     },
     {
-      "word": "yofi",
-      "count": 5
+      "word": "iframe",
+      "count": 3
+    },
+    {
+      "word": "o-ad-container__content__report-link",
+      "count": 3
+    },
+    {
+      "word": "o-breaking-alert__content",
+      "count": 3
+    },
+    {
+      "word": "urgent__title",
+      "count": 3
+    },
+    {
+      "word": "webkit-filter",
+      "count": 3
+    },
+    {
+      "word": "filter",
+      "count": 3
+    },
+    {
+      "word": "o-modal-content__body",
+      "count": 3
+    },
+    {
+      "word": "o-tag-list--no-overflow",
+      "count": 3
+    },
+    {
+      "word": "o-special-bar__wrapper",
+      "count": 3
+    },
+    {
+      "word": "o-seasons",
+      "count": 3
+    },
+    {
+      "word": "t-content__podcast-header",
+      "count": 3
+    },
+    {
+      "word": "t-content__top-articles",
+      "count": 3
+    },
+    {
+      "word": "a-tag",
+      "count": 3
+    },
+    {
+      "word": "font-style",
+      "count": 3
+    },
+    {
+      "word": "t-content__list-content__title",
+      "count": 3
+    },
+    {
+      "word": "td",
+      "count": 3
+    },
+    {
+      "word": "a-status-tag--small",
+      "count": 3
+    },
+    {
+      "word": "font-family",
+      "count": 3
+    },
+    {
+      "word": "labarai",
+      "count": 3
+    },
+    {
+      "word": "kai-tsaye",
+      "count": 3
+    },
+    {
+      "word": "voa",
+      "count": 3
+    },
+    {
+      "word": "direct",
+      "count": 3
+    },
+    {
+      "word": "source",
+      "count": 2
+    },
+    {
+      "word": "ha",
+      "count": 2
+    },
+    {
+      "word": "hausa",
+      "count": 2
+    },
+    {
+      "word": "a-svg--picto-chevron-bottom",
+      "count": 2
+    },
+    {
+      "word": "o-footer",
+      "count": 2
+    },
+    {
+      "word": "a-svg--picto-chevron-bottom-small",
+      "count": 2
+    },
+    {
+      "word": "m-transcription",
+      "count": 2
+    },
+    {
+      "word": "a-svg--picto-chevron-top",
+      "count": 2
+    },
+    {
+      "word": "a-svg--picto-chevron-top-small",
+      "count": 2
+    },
+    {
+      "word": "a-svg--picto-play-circle",
+      "count": 2
+    },
+    {
+      "word": "a-svg--picto-podcast-white",
+      "count": 2
+    },
+    {
+      "word": "m-context-menu",
+      "count": 2
+    },
+    {
+      "word": "m-context-menu__item__btn",
+      "count": 2
+    },
+    {
+      "word": "focus",
+      "count": 2
+    },
+    {
+      "word": "a-brand-logo",
+      "count": 2
+    },
+    {
+      "word": "text-indent",
+      "count": 2
+    },
+    {
+      "word": "a-header-entry--home",
+      "count": 2
+    },
+    {
+      "word": "a-header-entry--start",
+      "count": 2
+    },
+    {
+      "word": "a-header-entry--end",
+      "count": 2
+    },
+    {
+      "word": "a-header-entry--spacer",
+      "count": 2
+    },
+    {
+      "word": "a-header-entry--placeholder",
+      "count": 2
+    },
+    {
+      "word": "a-svg--icon-caret-down",
+      "count": 2
+    },
+    {
+      "word": "data-nav-button-id",
+      "count": 2
+    },
+    {
+      "word": "site-nav-settings",
+      "count": 2
+    },
+    {
+      "word": "a-loader-wrapper--error",
+      "count": 2
+    },
+    {
+      "word": "a-loader-wrapper--silenced",
+      "count": 2
+    },
+    {
+      "word": "e8eaed",
+      "count": 2
+    },
+    {
+      "word": "a-master-button--no-hover",
+      "count": 2
+    },
+    {
+      "word": "a-media-time",
+      "count": 2
+    },
+    {
+      "word": "attr",
+      "count": 2
+    },
+    {
+      "word": "data-hover-label",
+      "count": 2
+    },
+    {
+      "word": "webkit-user-select",
+      "count": 2
+    },
+    {
+      "word": "moz-user-select",
+      "count": 2
+    },
+    {
+      "word": "ms-user-select",
+      "count": 2
+    },
+    {
+      "word": "user-select",
+      "count": 2
+    },
+    {
+      "word": "a-picto-play-pause--is-jingle",
+      "count": 2
+    },
+    {
+      "word": "a-picture--rounded",
+      "count": 2
+    },
+    {
+      "word": "webkit-inline-box",
+      "count": 2
+    },
+    {
+      "word": "webkit-inline-flex",
+      "count": 2
+    },
+    {
+      "word": "ms-inline-flexbox",
+      "count": 2
+    },
+    {
+      "word": "inline-flex",
+      "count": 2
+    },
+    {
+      "word": "a-section-title__label",
+      "count": 2
+    },
+    {
+      "word": "a-spacer",
+      "count": 2
+    },
+    {
+      "word": "vertical-align",
+      "count": 2
+    },
+    {
+      "word": "middle",
+      "count": 2
+    },
+    {
+      "word": "direction",
+      "count": 2
+    },
+    {
+      "word": "inline",
+      "count": 2
+    },
+    {
+      "word": "m-section-title--has-image",
+      "count": 2
+    },
+    {
+      "word": "burger-to-cross-top-bar",
+      "count": 2
+    },
+    {
+      "word": "cross-to-burger-top-bar",
+      "count": 2
+    },
+    {
+      "word": "m-block-ad__label__report-link",
+      "count": 2
+    },
+    {
+      "word": "m-block-ad--h",
+      "count": 2
+    },
+    {
+      "word": "m-breadcrumb__list__item__link",
+      "count": 2
+    },
+    {
+      "word": "t-content--page-builder--dark-bg",
+      "count": 2
+    },
+    {
+      "word": "grid-column-start",
+      "count": 2
+    },
+    {
+      "word": "m-content-typology__brand",
+      "count": 2
+    },
+    {
+      "word": "m-em-audio__title",
+      "count": 2
+    },
+    {
+      "word": "m-em-audio__sound__button-wrapper",
+      "count": 2
+    },
+    {
+      "word": "m-audio-infos__title",
+      "count": 2
+    },
+    {
+      "word": "m-section-title--no-border",
+      "count": 2
+    },
+    {
+      "word": "inset-inline-start",
+      "count": 2
+    },
+    {
+      "word": "html",
+      "count": 2
+    },
+    {
+      "word": "o-ad-sponsoring__end",
+      "count": 2
+    },
+    {
+      "word": "o-ad-sponsoring__start",
+      "count": 2
+    },
+    {
+      "word": "background-position",
+      "count": 2
+    },
+    {
+      "word": "inset",
+      "count": 2
+    },
+    {
+      "word": "padding-bottom",
+      "count": 2
+    },
+    {
+      "word": "padding-top",
+      "count": 2
+    },
+    {
+      "word": "o-breaking-alert__meta",
+      "count": 2
+    },
+    {
+      "word": "grid-column-end",
+      "count": 2
+    },
+    {
+      "word": "grid-template-rows",
+      "count": 2
+    },
+    {
+      "word": "o-em-adblock__content__text",
+      "count": 2
+    },
+    {
+      "word": "o-em-consent__content__text",
+      "count": 2
+    },
+    {
+      "word": "space-around",
+      "count": 2
+    },
+    {
+      "word": "o-bottom-bar__item",
+      "count": 2
+    },
+    {
+      "word": "o-modal-content__header__title",
+      "count": 2
+    },
+    {
+      "word": "overflow-x",
+      "count": 2
+    },
+    {
+      "word": "overflow-y",
+      "count": 2
+    },
+    {
+      "word": "hsla",
+      "count": 2
+    },
+    {
+      "word": "o-tag-list__item",
+      "count": 2
+    },
+    {
+      "word": "o-sticky-wrapper",
+      "count": 2
+    },
+    {
+      "word": "t-content__podcast-about",
+      "count": 2
+    },
+    {
+      "word": "ease-in-out",
+      "count": 2
+    },
+    {
+      "word": "e0e0e",
+      "count": 2
+    },
+    {
+      "word": "a-share-bar-label",
+      "count": 2
+    },
+    {
+      "word": "o-aside-content",
+      "count": 2
+    },
+    {
+      "word": "m-tags-list",
+      "count": 2
+    },
+    {
+      "word": "m-tags-list__tag",
+      "count": 2
+    },
+    {
+      "word": "data-hidden-video-player",
+      "count": 2
+    },
+    {
+      "word": "t-content__authors--with-rt",
+      "count": 2
+    },
+    {
+      "word": "t-location",
+      "count": 2
+    },
+    {
+      "word": "empty",
+      "count": 2
+    },
+    {
+      "word": "list-style",
+      "count": 2
+    },
+    {
+      "word": "disc",
+      "count": 2
+    },
+    {
+      "word": "list-style-type",
+      "count": 2
+    },
+    {
+      "word": "decimal",
+      "count": 2
+    },
+    {
+      "word": "t-copyright",
+      "count": 2
+    },
+    {
+      "word": "last-child",
+      "count": 2
+    },
+    {
+      "word": "a-aside-title",
+      "count": 2
+    },
+    {
+      "word": "m-pagination-wrapper",
+      "count": 2
+    },
+    {
+      "word": "t-content__edition-emission",
+      "count": 2
+    },
+    {
+      "word": "t-content__article-wrapper",
+      "count": 2
+    },
+    {
+      "word": "o-pwa-a2hs--step",
+      "count": 2
+    },
+    {
+      "word": "all",
+      "count": 2
+    },
+    {
+      "word": "m-content-body-item__text-with-icon",
+      "count": 2
+    },
+    {
+      "word": "inter",
+      "count": 2
+    },
+    {
+      "word": "woff",
+      "count": 2
+    },
+    {
+      "word": "arial",
+      "count": 2
+    },
+    {
+      "word": "sans-serif",
+      "count": 2
+    },
+    {
+      "word": "português",
+      "count": 2
+    },
+    {
+      "word": "ta",
+      "count": 2
+    },
+    {
+      "word": "voafulfulde",
+      "count": 2
+    },
+    {
+      "word": "com",
+      "count": 2
+    },
+    {
+      "word": "retour",
+      "count": 2
+    },
+    {
+      "word": "la",
+      "count": 2
+    },
+    {
+      "word": "subscribe",
+      "count": 2
+    },
+    {
+      "word": "embed",
+      "count": 2
+    },
+    {
+      "word": "share",
+      "count": 2
+    },
+    {
+      "word": "the",
+      "count": 2
+    },
+    {
+      "word": "has",
+      "count": 2
+    },
+    {
+      "word": "been",
+      "count": 2
+    },
+    {
+      "word": "copied",
+      "count": 2
+    },
+    {
+      "word": "your",
+      "count": 2
+    },
+    {
+      "word": "clipboard",
+      "count": 2
+    },
+    {
+      "word": "no",
+      "count": 2
+    },
+    {
+      "word": "live",
+      "count": 2
+    },
+    {
+      "word": "rediyo",
+      "count": 2
+    },
+    {
+      "word": "nder",
+      "count": 2
+    },
+    {
+      "word": "keɗee",
+      "count": 2
+    },
+    {
+      "word": "wakkati",
+      "count": 2
+    },
+    {
+      "word": "kuubal",
+      "count": 2
+    },
+    {
+      "word": "oo",
+      "count": 2
+    },
+    {
+      "word": "kadi",
+      "count": 2
+    },
+    {
+      "word": "facebook",
+      "count": 2
+    },
+    {
+      "word": "west-african",
+      "count": 1
+    },
+    {
+      "word": "lingua",
+      "count": 1
+    },
+    {
+      "word": "franca",
+      "count": 1
+    },
+    {
+      "word": "close",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-actualites",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-add-pwa",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-burger",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-close",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-cookies",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-home-empty",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-music",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-newsletter-white",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-notifications",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-obs",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-play-circled-live",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-pause-circled-live",
+      "count": 1
+    },
+    {
+      "word": "m-em-video__cmp__disclaimer-wrapper",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-pause-circle",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-play-circle-filled",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-pause-circle-filled",
+      "count": 1
+    },
+    {
+      "word": "u-media-video-loading",
+      "count": 1
+    },
+    {
+      "word": "u-adaptative-size",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-settings",
+      "count": 1
+    },
+    {
+      "word": "m-cta",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-share-arrow-square",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-sport",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-translation",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-thematic",
+      "count": 1
+    },
+    {
+      "word": "a-site-nav-button-wrapper",
+      "count": 1
+    },
+    {
+      "word": "a-svg-icon-caret-down",
+      "count": 1
+    },
+    {
+      "word": "a-header-entry--mobile-only",
+      "count": 1
+    },
+    {
+      "word": "u-show-overlay",
+      "count": 1
+    },
+    {
+      "word": "border-left",
+      "count": 1
+    },
+    {
+      "word": "border-right",
+      "count": 1
+    },
+    {
+      "word": "a-hot-tag--selected",
+      "count": 1
+    },
+    {
+      "word": "a-hot-tag--disabled",
+      "count": 1
+    },
+    {
+      "word": "not-allowed",
+      "count": 1
+    },
+    {
+      "word": "data-lazyloaded",
+      "count": 1
+    },
+    {
+      "word": "a-loader-error__content__title",
+      "count": 1
+    },
+    {
+      "word": "a-loader-error__content__icon",
+      "count": 1
+    },
+    {
+      "word": "a-loader-error__content__message",
+      "count": 1
+    },
+    {
+      "word": "a-master-button--full-width",
+      "count": 1
+    },
+    {
+      "word": "a-master-button--full-width-mobile",
+      "count": 1
+    },
+    {
+      "word": "a-master-button--small",
+      "count": 1
+    },
+    {
+      "word": "a-nav-item--dark",
+      "count": 1
+    },
+    {
+      "word": "a-nav-item--secondary",
+      "count": 1
+    },
+    {
+      "word": "a-nav-item--bb--active",
+      "count": 1
+    },
+    {
+      "word": "a-nav-item--desktop-only",
+      "count": 1
+    },
+    {
+      "word": "a-nav-item--mobile-only",
+      "count": 1
+    },
+    {
+      "word": "a-nav-item--placeholder",
+      "count": 1
+    },
+    {
+      "word": "m-nav-list",
+      "count": 1
+    },
+    {
+      "word": "a-svg--hide-on-mobile",
+      "count": 1
+    },
+    {
+      "word": "a-svg--mobile-only",
+      "count": 1
+    },
+    {
+      "word": "a-picto-play-pause--pause",
+      "count": 1
+    },
+    {
+      "word": "a-picto-play-pause__play",
+      "count": 1
+    },
+    {
+      "word": "a-picto-play-pause--play",
+      "count": 1
+    },
+    {
+      "word": "a-picto-play-pause__pause",
+      "count": 1
+    },
+    {
+      "word": "a-picto-social",
+      "count": 1
+    },
+    {
+      "word": "m-em-video--no-consent",
+      "count": 1
+    },
+    {
+      "word": "t-content__main-media--no-consent",
+      "count": 1
+    },
+    {
+      "word": "a-picture--16x",
+      "count": 1
+    },
+    {
+      "word": "a-picture--9x",
+      "count": 1
+    },
+    {
+      "word": "a-picture--24x",
+      "count": 1
+    },
+    {
+      "word": "a-picture--3x",
+      "count": 1
+    },
+    {
+      "word": "a-picture--1x",
+      "count": 1
+    },
+    {
+      "word": "img",
+      "count": 1
+    },
+    {
+      "word": "webkit-margin-start",
+      "count": 1
+    },
+    {
+      "word": "inherit",
+      "count": 1
+    },
+    {
+      "word": "margin-inline-start",
+      "count": 1
+    },
+    {
+      "word": "o-aside-content--current-liveblogs",
+      "count": 1
+    },
+    {
+      "word": "m-block-ad__label__text",
+      "count": 1
+    },
+    {
+      "word": "dotted",
+      "count": 1
+    },
+    {
+      "word": "m-block-ad--arena",
+      "count": 1
+    },
+    {
+      "word": "m-block-ad__label--report-enabled",
+      "count": 1
+    },
+    {
+      "word": "m-breadcrumb__list__item__separator",
+      "count": 1
+    },
+    {
+      "word": "b4d",
+      "count": 1
+    },
+    {
+      "word": "m-content-typology--external-brand",
+      "count": 1
+    },
+    {
+      "word": "a-content-icon",
+      "count": 1
+    },
+    {
+      "word": "first-letter",
+      "count": 1
+    },
+    {
+      "word": "a-svg--logo-france",
+      "count": 1
+    },
+    {
+      "word": "a-svg--logo-mcd",
+      "count": 1
+    },
+    {
+      "word": "a-svg--logo-rfi",
+      "count": 1
+    },
+    {
+      "word": "a-svg--logo-infomigrants",
+      "count": 1
+    },
+    {
+      "word": "ms-flex-line-pack",
+      "count": 1
+    },
+    {
+      "word": "webkit-align-content",
+      "count": 1
+    },
+    {
+      "word": "align-content",
+      "count": 1
+    },
+    {
+      "word": "m-em-audio__sound__duration",
+      "count": 1
+    },
+    {
+      "word": "a-circle-loader__main-circle",
+      "count": 1
+    },
+    {
+      "word": "a-circle-loader__bg-circle",
+      "count": 1
+    },
+    {
+      "word": "m-em-quote__body",
+      "count": 1
+    },
+    {
+      "word": "pointer",
+      "count": 1
+    },
+    {
+      "word": "a-tag-nav-btn--show",
+      "count": 1
+    },
+    {
+      "word": "dir",
+      "count": 1
+    },
+    {
+      "word": "rtl",
+      "count": 1
+    },
+    {
+      "word": "href",
+      "count": 1
+    },
+    {
+      "word": "default",
+      "count": 1
+    },
+    {
+      "word": "o-ad-sponsoring__middle",
+      "count": 1
+    },
+    {
+      "word": "f8f8f",
+      "count": 1
+    },
+    {
+      "word": "o-ad-container__content__ad",
+      "count": 1
+    },
+    {
+      "word": "a20b0b",
+      "count": 1
+    },
+    {
+      "word": "webkit-line-clamp",
+      "count": 1
+    },
+    {
+      "word": "o-breaking-alert--no-image",
+      "count": 1
+    },
+    {
+      "word": "webkit-min-content",
+      "count": 1
+    },
+    {
+      "word": "min-content",
+      "count": 1
+    },
+    {
+      "word": "urgent__image",
+      "count": 1
+    },
+    {
+      "word": "grid-row",
+      "count": 1
+    },
+    {
+      "word": "o-em-adblock__content__option-link",
+      "count": 1
+    },
+    {
+      "word": "o-em-consent__content__option-link",
+      "count": 1
+    },
+    {
+      "word": "repeat",
+      "count": 1
+    },
+    {
+      "word": "distribute",
+      "count": 1
+    },
+    {
+      "word": "inset-inline-end",
+      "count": 1
+    },
+    {
+      "word": "o-tapbar",
+      "count": 1
+    },
+    {
+      "word": "strong",
+      "count": 1
+    },
+    {
+      "word": "webkit-overflow-scrolling",
+      "count": 1
+    },
+    {
+      "word": "touch",
+      "count": 1
+    },
+    {
+      "word": "webkit-padding-end",
+      "count": 1
+    },
+    {
+      "word": "padding-inline-end",
+      "count": 1
+    },
+    {
+      "word": "scrollbar-width",
+      "count": 1
+    },
+    {
+      "word": "webkit-scrollbar",
+      "count": 1
+    },
+    {
+      "word": "webkit-gradient",
+      "count": 1
+    },
+    {
+      "word": "from",
+      "count": 1
+    },
+    {
+      "word": "linear-gradient",
+      "count": 1
+    },
+    {
+      "word": "o-tag-list__title",
+      "count": 1
+    },
+    {
+      "word": "o-pb-masterhead",
+      "count": 1
+    },
+    {
+      "word": "o-pb-masterhead__hot-tags",
+      "count": 1
+    },
+    {
+      "word": "o-tag-list--all-programs",
+      "count": 1
+    },
+    {
+      "word": "ms-scroll-chaining",
+      "count": 1
+    },
+    {
+      "word": "overscroll-behavior",
+      "count": 1
+    },
+    {
+      "word": "o-site-nav",
+      "count": 1
+    },
+    {
+      "word": "data-nav-id",
+      "count": 1
+    },
+    {
+      "word": "settings",
+      "count": 1
+    },
+    {
+      "word": "static",
+      "count": 1
+    },
+    {
+      "word": "o-special-bar__content",
+      "count": 1
+    },
+    {
+      "word": "m-box-expand__content",
+      "count": 1
+    },
+    {
+      "word": "a-audio-player-btn--skeleton",
+      "count": 1
+    },
+    {
+      "word": "a-audio-player-btn__label",
+      "count": 1
+    },
+    {
+      "word": "m-share-bar",
+      "count": 1
+    },
+    {
+      "word": "o-aside-content--guest-list",
+      "count": 1
+    },
+    {
+      "word": "o-podcast-header--without-edition",
+      "count": 1
+    },
+    {
+      "word": "t-content__tags__title",
+      "count": 1
+    },
+    {
+      "word": "a-tag__wrapper",
+      "count": 1
+    },
+    {
+      "word": "t-content__title--centered",
+      "count": 1
+    },
+    {
+      "word": "m-item-image__overlay-wrapper",
+      "count": 1
+    },
+    {
+      "word": "italic",
+      "count": 1
+    },
+    {
+      "word": "oblique",
+      "count": 1
+    },
+    {
+      "word": "o-layout-list",
+      "count": 1
+    },
+    {
+      "word": "border-spacing",
+      "count": 1
+    },
+    {
+      "word": "nth-child",
+      "count": 1
+    },
+    {
+      "word": "a-read-more",
+      "count": 1
+    },
+    {
+      "word": "m-em-diaporama",
+      "count": 1
+    },
+    {
+      "word": "m-em-flash",
+      "count": 1
+    },
+    {
+      "word": "m-em-liveblog",
+      "count": 1
+    },
+    {
+      "word": "m-em-textbox",
+      "count": 1
+    },
+    {
+      "word": "m-em-twitter",
+      "count": 1
+    },
+    {
+      "word": "data-wrapper-video-player",
+      "count": 1
+    },
+    {
+      "word": "clear",
+      "count": 1
+    },
+    {
+      "word": "both",
+      "count": 1
+    },
+    {
+      "word": "o-aside-content__title",
+      "count": 1
+    },
+    {
+      "word": "t-content--article",
+      "count": 1
+    },
+    {
+      "word": "t-content--breaking",
+      "count": 1
+    },
+    {
+      "word": "t-content--report",
+      "count": 1
+    },
+    {
+      "word": "t-content--video",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-home-cn-tw",
+      "count": 1
+    },
+    {
+      "word": "a-svg--picto-redirect-cn-tw",
+      "count": 1
+    },
+    {
+      "word": "a-status-tag--live",
+      "count": 1
+    },
+    {
+      "word": "d60e0e",
+      "count": 1
+    },
+    {
+      "word": "unset",
+      "count": 1
+    },
+    {
+      "word": "border-top-color",
+      "count": 1
+    },
+    {
+      "word": "a-brand-logo--fle",
+      "count": 1
+    },
+    {
+      "word": "border-style",
+      "count": 1
+    },
+    {
+      "word": "a-modal-btn--primary",
+      "count": 1
+    },
+    {
+      "word": "a-modal-btn--secondary",
+      "count": 1
+    },
+    {
+      "word": "font-face",
+      "count": 1
+    },
+    {
+      "word": "font-display",
+      "count": 1
+    },
+    {
+      "word": "swap",
+      "count": 1
+    },
+    {
+      "word": "src",
+      "count": 1
+    },
+    {
+      "word": "build",
+      "count": 1
+    },
+    {
+      "word": "fonts",
+      "count": 1
+    },
+    {
+      "word": "inter_latin",
+      "count": 1
+    },
+    {
+      "word": "b10a7966d94927c2ec64a71918e",
+      "count": 1
+    },
+    {
+      "word": "format",
+      "count": 1
+    },
+    {
+      "word": "unicode-range",
+      "count": 1
+    },
+    {
+      "word": "bb-02bc",
+      "count": 1
+    },
+    {
+      "word": "da",
+      "count": 1
+    },
+    {
+      "word": "dc",
+      "count": 1
+    },
+    {
+      "word": "ac",
+      "count": 1
+    },
+    {
+      "word": "feff",
+      "count": 1
+    },
+    {
+      "word": "fffd",
+      "count": 1
+    },
+    {
+      "word": "ltr",
+      "count": 1
+    },
+    {
+      "word": "lang",
+      "count": 1
+    },
+    {
+      "word": "km",
+      "count": 1
+    },
+    {
+      "word": "noto",
+      "count": 1
+    },
+    {
+      "word": "sans",
+      "count": 1
+    },
+    {
+      "word": "khmer",
+      "count": 1
+    },
+    {
+      "word": "kai",
+      "count": 1
+    },
+    {
+      "word": "tsaye",
+      "count": 1
+    },
+    {
+      "word": "radio",
+      "count": 1
+    },
+    {
+      "word": "france",
+      "count": 1
+    },
+    {
+      "word": "internationale",
+      "count": 1
+    },
+    {
+      "word": "isa",
+      "count": 1
     },
     {
       "word": "ga",
-      "count": 5
+      "count": 1
     },
     {
-      "word": "nafata",
-      "count": 5
+      "word": "babban",
+      "count": 1
     },
     {
-      "word": "nyamo",
-      "count": 5
+      "word": "shafi",
+      "count": 1
     },
     {
-      "word": "maudo",
-      "count": 5
+      "word": "français",
+      "count": 1
     },
     {
-      "word": "less",
-      "count": 5
+      "word": "english",
+      "count": 1
     },
     {
-      "word": "ruum",
-      "count": 5
+      "word": "español",
+      "count": 1
     },
     {
-      "word": "ɗaɓɓita",
-      "count": 5
+      "word": "do",
+      "count": 1
     },
     {
-      "word": "fottan",
-      "count": 5
+      "word": "brasil",
+      "count": 1
     },
     {
-      "word": "haram",
-      "count": 5
+      "word": "kiswahili",
+      "count": 1
     },
     {
-      "word": "wujji",
-      "count": 5
+      "word": "mandenkan",
+      "count": 1
     },
     {
-      "word": "hader",
-      "count": 5
+      "word": "românia",
+      "count": 1
     },
     {
-      "word": "hakkulungo",
-      "count": 5
+      "word": "русский",
+      "count": 1
     },
     {
-      "word": "greek",
-      "count": 5
+      "word": "українською",
+      "count": 1
     },
     {
-      "word": "kotu",
-      "count": 5
+      "word": "tiếng",
+      "count": 1
     },
     {
-      "word": "asawere",
-      "count": 5
+      "word": "việt",
+      "count": 1
     },
     {
-      "word": "duudugo",
-      "count": 5
+      "word": "华语",
+      "count": 1
     },
     {
-      "word": "wade",
-      "count": 5
+      "word": "華語",
+      "count": 1
     },
     {
-      "word": "yendere",
-      "count": 5
+      "word": "فارسی",
+      "count": 1
     },
     {
-      "word": "kobo",
-      "count": 5
+      "word": "saituna",
+      "count": 1
     },
     {
-      "word": "ummata",
-      "count": 5
+      "word": "tsara",
+      "count": 1
     },
     {
-      "word": "economy",
-      "count": 5
+      "word": "kundin",
+      "count": 1
     },
     {
-      "word": "chaina",
-      "count": 5
+      "word": "adana",
+      "count": 1
     },
     {
-      "word": "ana",
-      "count": 5
+      "word": "bayanka",
+      "count": 1
     },
     {
-      "word": "talla",
-      "count": 5
+      "word": "na",
+      "count": 1
     },
     {
-      "word": "yidugo",
-      "count": 5
+      "word": "cookies",
+      "count": 1
     },
     {
-      "word": "subtugo",
-      "count": 5
+      "word": "rufe",
+      "count": 1
     },
     {
-      "word": "weltaare",
-      "count": 5
+      "word": "rikicin",
+      "count": 1
     },
     {
-      "word": "remugo",
-      "count": 5
+      "word": "gabas",
+      "count": 1
     },
     {
-      "word": "ɗiɗabre",
-      "count": 5
+      "word": "tsakiya",
+      "count": 1
     },
     {
-      "word": "fajira",
-      "count": 5
+      "word": "najeriya",
+      "count": 1
     },
     {
-      "word": "bura",
-      "count": 5
+      "word": "nijar",
+      "count": 1
     },
     {
-      "word": "koɗume",
-      "count": 5
+      "word": "zaɓen",
+      "count": 1
     },
     {
-      "word": "taski",
-      "count": 5
+      "word": "kamaru",
+      "count": 1
     },
     {
-      "word": "jaba",
-      "count": 5
+      "word": "shirye-shirye",
+      "count": 1
     },
     {
-      "word": "billa",
-      "count": 5
+      "word": "bidiyo",
+      "count": 1
     },
     {
-      "word": "footi",
-      "count": 5
+      "word": "voice",
+      "count": 1
     },
     {
-      "word": "nasarako",
-      "count": 5
+      "word": "of",
+      "count": 1
     },
     {
-      "word": "dogga",
-      "count": 5
+      "word": "america",
+      "count": 1
     },
     {
-      "word": "wuli",
-      "count": 5
+      "word": "afrique",
+      "count": 1
     },
     {
-      "word": "salasa",
-      "count": 5
+      "word": "liens",
+      "count": 1
     },
     {
-      "word": "nargewol",
-      "count": 5
+      "word": "d'accessibilit",
+      "count": 1
     },
     {
-      "word": "naunande",
-      "count": 5
+      "word": "menu",
+      "count": 1
+    },
+    {
+      "word": "principal",
+      "count": 1
+    },
+    {
+      "word": "navigation",
+      "count": 1
+    },
+    {
+      "word": "principale",
+      "count": 1
+    },
+    {
+      "word": "recherche",
+      "count": 1
+    },
+    {
+      "word": "apprenez",
+      "count": 1
+    },
+    {
+      "word": "l'anglais",
+      "count": 1
+    },
+    {
+      "word": "suivez-nous",
+      "count": 1
+    },
+    {
+      "word": "langues",
+      "count": 1
+    },
+    {
+      "word": "pr",
+      "count": 1
+    },
+    {
+      "word": "dent",
+      "count": 1
+    },
+    {
+      "word": "suivant",
+      "count": 1
+    },
+    {
+      "word": "derni",
+      "count": 1
+    },
+    {
+      "word": "res",
+      "count": 1
+    },
+    {
+      "word": "nouvelles",
+      "count": 1
+    },
+    {
+      "word": "s'abonner",
+      "count": 1
+    },
+    {
+      "word": "home",
+      "count": 1
+    },
+    {
+      "word": "programmes",
+      "count": 1
+    },
+    {
+      "word": "propos",
+      "count": 1
+    },
+    {
+      "word": "le",
+      "count": 1
+    },
+    {
+      "word": "monde",
+      "count": 1
+    },
+    {
+      "word": "aujourd'hui",
+      "count": 1
+    },
+    {
+      "word": "dition",
+      "count": 1
+    },
+    {
+      "word": "de",
+      "count": 1
+    },
+    {
+      "word": "code",
+      "count": 1
+    },
+    {
+      "word": "streaming",
+      "count": 1
+    },
+    {
+      "word": "currently",
+      "count": 1
+    },
+    {
+      "word": "available",
+      "count": 1
+    },
+    {
+      "word": "en",
+      "count": 1
+    },
+    {
+      "word": "kongol",
+      "count": 1
+    },
+    {
+      "word": "amerka",
+      "count": 1
+    },
+    {
+      "word": "yottan",
+      "count": 1
+    },
+    {
+      "word": "heditoobe",
+      "count": 1
+    },
+    {
+      "word": "lawon",
+      "count": 1
+    },
+    {
+      "word": "matotiral",
+      "count": 1
+    },
+    {
+      "word": "interu",
+      "count": 1
+    },
+    {
+      "word": "laabi",
+      "count": 1
+    },
+    {
+      "word": "sakol",
+      "count": 1
+    },
+    {
+      "word": "kubaruji",
+      "count": 1
+    },
+    {
+      "word": "zaman",
+      "count": 1
+    },
+    {
+      "word": "taskaramji",
+      "count": 1
+    },
+    {
+      "word": "fijiji",
+      "count": 1
+    },
+    {
+      "word": "lesde",
+      "count": 1
+    },
+    {
+      "word": "afirka",
+      "count": 1
+    },
+    {
+      "word": "ñande",
+      "count": 1
+    },
+    {
+      "word": "fof",
+      "count": 1
+    },
+    {
+      "word": "asewe",
+      "count": 1
+    },
+    {
+      "word": "alati",
+      "count": 1
+    },
+    {
+      "word": "kala",
+      "count": 1
+    },
+    {
+      "word": "abijan",
+      "count": 1
+    },
+    {
+      "word": "bangii",
+      "count": 1
+    },
+    {
+      "word": "dakar",
+      "count": 1
+    },
+    {
+      "word": "keɗodee",
+      "count": 1
+    },
+    {
+      "word": "n'jamenaa",
+      "count": 1
+    },
+    {
+      "word": "wagadugu",
+      "count": 1
+    },
+    {
+      "word": "bamako",
+      "count": 1
+    },
+    {
+      "word": "gao",
+      "count": 1
+    },
+    {
+      "word": "tombuktu",
+      "count": 1
+    },
+    {
+      "word": "hiɗon",
+      "count": 1
+    },
+    {
+      "word": "nbaawi",
+      "count": 1
+    },
+    {
+      "word": "heɗaade",
+      "count": 1
+    },
+    {
+      "word": "nalorma",
+      "count": 1
+    },
+    {
+      "word": "naamey",
+      "count": 1
+    },
+    {
+      "word": "ka",
+      "count": 1
+    },
+    {
+      "word": "onduuji",
+      "count": 1
+    },
+    {
+      "word": "daɓɓi",
+      "count": 1
+    },
+    {
+      "word": "toɓɓere",
+      "count": 1
+    },
+    {
+      "word": "khz",
+      "count": 1
+    },
+    {
+      "word": "mais",
+      "count": 1
+    },
+    {
+      "word": "jokkoɗee",
+      "count": 1
+    },
+    {
+      "word": "men",
+      "count": 1
+    },
+    {
+      "word": "kelle",
+      "count": 1
+    },
+    {
+      "word": "amen",
+      "count": 1
     }
-  ],
-  "source": "CommonLID TSV + FLORES+ (dev+devtest)",
-  "total_tokens": 44317,
-  "unique_tokens": 9006
+  ]
 }

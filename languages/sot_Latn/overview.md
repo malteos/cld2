@@ -28,3 +28,18 @@ orthographic traditions coexist: the Lesotho tradition, which keeps
 the circumflex `ê` / `ô`, and the South African tradition, which
 tends to omit it. Sesotho is closely related to Northern Sotho
 (`nso`) and Tswana (`tsn`).
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://st.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.jw.org/st/` — jw.org Southern Sotho edition — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://st.wikipedia.org/` — Southern Sotho Wikipedia (cultural)
+- `https://www.jw.org/st/` — jw.org Southern Sotho edition (religious)

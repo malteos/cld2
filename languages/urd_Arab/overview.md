@@ -11,3 +11,20 @@ Urdu is written right-to-left in a modified Perso-Arabic script, normally render
 ## History and status
 
 Urdu and Hindi share a common spoken base (Hindustani) but differ sharply in script and in high-register vocabulary (Persian/Arabic for Urdu, Sanskrit tatsamas for Hindi). Urdu developed at the Mughal court and in Delhi/Lucknow from the 13th century onward, flourishing as a major poetic language (Ghalib, Iqbal, Faiz).
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://ur.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.jang.com.pk/` — Jang — Urdu daily — _live WebFetch_
+- `https://www.bbc.com/urdu` — BBC Urdu — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://ur.wikipedia.org/` — Urdu Wikipedia (cultural)
+- `https://www.jang.com.pk/` — Jang — Urdu daily (news)
+- `https://www.bbc.com/urdu` — BBC Urdu (news)

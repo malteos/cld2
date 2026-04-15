@@ -28,3 +28,18 @@ it was codified by the Inter-territorial Language Committee in the 1930s
 using Unguja as the reference dialect, giving `swh` its distinctive
 conservative, Arabic-rich lexicon compared with inland Swahili
 varieties.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://sw.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.dw.com/sw/` — Deutsche Welle Kiswahili — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://sw.wikipedia.org/` — Swahili Wikipedia (Coastal Swahili) (cultural)
+- `https://www.dw.com/sw/` — Deutsche Welle Kiswahili (news)

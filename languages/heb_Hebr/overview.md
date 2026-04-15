@@ -26,3 +26,19 @@ Official, administrative, educational, and media language of Israel. Highly
 standardised by the **Academy of the Hebrew Language** (האקדמיה ללשון
 העברית). Heavy borrowing from English, Arabic, Yiddish, and Russian in
 colloquial register.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://he.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.haaretz.co.il/` — Haaretz Hebrew — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://he.wikipedia.org/` — Hebrew Wikipedia (cultural)
+- `https://www.gov.il/he` — gov.il (Israel) (gov)
+- `https://www.haaretz.co.il/` — Haaretz Hebrew (news)

@@ -19,3 +19,20 @@ is highly phonemic — one letter per phoneme with few exceptions.
 Finnish orthography was standardised by Mikael Agricola in the 16th century
 and reshaped into its modern form in the 19th century (Kalevala era). The
 language is noted for its vowel harmony and agglutinative morphology.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://fi.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://valtioneuvosto.fi/etusivu` — Finnish Government — _live WebFetch_
+- `https://yle.fi/uutiset` — Yle Uutiset — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://fi.wikipedia.org/` — Finnish Wikipedia (cultural)
+- `https://valtioneuvosto.fi/etusivu` — Finnish Government (gov)
+- `https://yle.fi/uutiset` — Yle Uutiset (news)

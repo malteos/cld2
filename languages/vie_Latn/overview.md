@@ -17,3 +17,19 @@ Modern Vietnamese is written in **Quốc ngữ**, a Latin-based orthography devi
 ## Status
 
 Sole official language of Vietnam. One of the most-spoken Austroasiatic languages worldwide and the only one written in Latin script by default.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://vi.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://tuoitre.vn/` — Tuổi Trẻ — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://vi.wikipedia.org/` — Vietnamese Wikipedia (cultural)
+- `https://www.chinhphu.vn/` — Vietnamese Government Portal (gov)
+- `https://tuoitre.vn/` — Tuổi Trẻ (news)

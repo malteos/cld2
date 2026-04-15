@@ -26,3 +26,17 @@ Shona was unified in orthography by Clement Doke in 1931, drawing
 mainly on the Karanga and Zezuru dialects. It has a strong literary
 tradition in Zimbabwe and features in broadcasting, education and
 Bible translation across southern Africa.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://sn.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+
+### Catalogued source candidates
+
+- `https://sn.wikipedia.org/` — Shona Wikipedia (cultural)
+- `https://www.kwayedza.co.zw/` — Kwayedza — Shona-language newspaper (news)

@@ -20,3 +20,18 @@ prenasalised consonants.
 Standardised orthography dates to the early 20th century (Kenya Language
 Board and subsequent revisions). The tilde-vowel convention distinguishes
 a seven-vowel system on the page.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://ki.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.jw.org/ki/` — jw.org Kikuyu edition — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://ki.wikipedia.org/` — Kikuyu Wikipedia (cultural)
+- `https://www.jw.org/ki/` — jw.org Kikuyu edition (religious)

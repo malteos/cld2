@@ -28,3 +28,20 @@ codified by Jan Hus (diacritic orthography, ca. 1410) and revived in the
 19th-century National Revival (Josef Dobrovský, Josef Jungmann). A distinct
 colloquial register, Common Czech (obecná čeština), coexists with the
 literary standard.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://cs.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.vlada.cz/cz/` — Government of the Czech Republic — _live WebFetch_
+- `https://www.idnes.cz/` — iDnes — Czech news — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://cs.wikipedia.org/` — Czech Wikipedia (cultural)
+- `https://www.vlada.cz/cz/` — Government of the Czech Republic (gov)
+- `https://www.idnes.cz/` — iDnes — Czech news (news)

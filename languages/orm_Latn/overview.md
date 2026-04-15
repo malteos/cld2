@@ -11,3 +11,18 @@ Oromo is written in **Qubee**, a Latin-based alphabet adopted officially in 1991
 ## History and status
 
 Before 1991 Oromo was written sporadically in the Ge'ez (Ethiopic) script. Qubee is now the standard orthography and the language is a working language of Ethiopia's federal government and the official language of the Oromia Regional State. The label **orm** in datasets typically denotes general/standardised Oromo text, which in practice is West Central Oromo (gaz).
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://om.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.bbc.com/afaanoromoo` — BBC Afaan Oromoo — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://om.wikipedia.org/` — Oromo Wikipedia (cultural)
+- `https://www.bbc.com/afaanoromoo` — BBC Afaan Oromoo (news)

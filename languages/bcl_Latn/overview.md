@@ -20,3 +20,18 @@ vowels (**á, é, í, ó, ú**) for stress and **–** for glottal-final stress
 Bikol shares its function-word inventory (**an, sa, na, mga, ng**) with
 Tagalog but its lexicon diverges substantially (e.g. Bikol **saro** 'one'
 vs. Tagalog **isa**, **magayon** 'beautiful' vs. **maganda**).
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://bcl.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.bicolstandard.com/` — Bicol Standard (English/Bicol) — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://bcl.wikipedia.org/` — Central Bikol Wikipedia (cultural)
+- `https://www.bicolstandard.com/` — Bicol Standard (English/Bicol) (news)

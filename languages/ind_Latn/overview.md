@@ -31,3 +31,20 @@ codified progressively through the Balai Pustaka publishing house and the
 *Pusat Bahasa*. It shares mutual intelligibility of roughly 80 % with
 Malaysian Malay but diverges in vocabulary due to Dutch versus English
 influence.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://id.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.setneg.go.id/` — Sekretariat Negara RI — _live WebFetch_
+- `https://www.kompas.com/` — Kompas — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://id.wikipedia.org/` — Indonesian Wikipedia (cultural)
+- `https://www.setneg.go.id/` — Sekretariat Negara RI (gov)
+- `https://www.kompas.com/` — Kompas (news)

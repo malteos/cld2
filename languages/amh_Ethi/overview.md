@@ -27,3 +27,18 @@ of much of urban Ethiopia, and major literary/media language with extensive
 publishing, TV, radio, and web presence. It is the only Ethiopic-script
 language likely to dominate amh CommonLID samples, but Tigrinya (tir), Ge'ez
 (gez), Tigre (tig), and others share the script.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://am.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+
+### Catalogued source candidates
+
+- `https://am.wikipedia.org/` — Amharic Wikipedia (cultural)
+- `https://www.press.et/` — Ethiopian Press Agency (አፍሪካውያን ፕሬስ) — Amharic news (news)
+- `https://www.fanabc.com/amharic/` — Fana Broadcasting (Amharic service) (news)

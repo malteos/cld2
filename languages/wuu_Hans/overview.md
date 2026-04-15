@@ -11,3 +11,16 @@ Wu has no official written standard. The `wuu_Hans` row uses **Simplified Han** 
 ## Status
 
 No official recognition; not taught in schools. Wu is a heritage/home language with strong regional identity in Shanghai and Jiangnan. Romanisation systems (e.g. Shanghainese Wugniu, Qian Nairong's scheme) exist but are not widely used in running text.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://wuu.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+
+### Catalogued source candidates
+
+- `https://wuu.wikipedia.org/` — Wu Chinese Wikipedia (cultural)

@@ -27,3 +27,18 @@ Uniform Turkic Alphabet in 2012 but has limited official use.
 Tatar is the co-official language of the Republic of Tatarstan
 alongside Russian. It is one of the largest minority languages of
 the Russian Federation.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://tt.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://intertat.tatar/` — Intertat — Tatar-language news — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://tt.wikipedia.org/` — Tatar Wikipedia (cultural)
+- `https://intertat.tatar/` — Intertat — Tatar-language news (news)

@@ -23,3 +23,19 @@ Katharevousa/Dimotiki diglossia was resolved in 1976 in favour of Dimotiki
 (the demotic/vernacular), which underlies written Modern Greek. Katharevousa
 forms (e.g. genitive endings **-εως / -ως** for **-ης / -ος**) still appear
 in legal and ecclesiastical registers.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://el.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.kathimerini.gr/` — Kathimerini — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://el.wikipedia.org/` — Greek Wikipedia (cultural)
+- `https://www.kathimerini.gr/` — Kathimerini (news)
+- `https://www.primeminister.gr/` — Office of the Prime Minister of Greece (gov)

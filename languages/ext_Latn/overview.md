@@ -15,3 +15,18 @@ Uses the Latin alphabet. The standard used by *Órgánu de Seguimientu i Cordina
 ## Status
 
 Recognised as a cultural heritage language of Extremadura but without co-official status. A small modern literature exists, and Extremaduran has a Wikipedia edition.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://ext.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://elhabrahla.wordpress.com/` — El Habrahla — Extremaduran blog — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://ext.wikipedia.org/` — Extremaduran Wikipedia (cultural)
+- `https://elhabrahla.wordpress.com/` — El Habrahla — Extremaduran blog (cultural)

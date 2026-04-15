@@ -30,3 +30,18 @@ Azerbaijani is the state language of the Republic of Azerbaijan,
 where the Latin script is official. Sizable communities exist in
 Iran (using Perso-Arabic, covered by `azb`), Russia, Turkey, and
 Georgia.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://az.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.president.az/az` — President.az (Azerbaijani) — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://az.wikipedia.org/` — Azerbaijani Wikipedia (cultural)
+- `https://www.president.az/az` — President.az (Azerbaijani) (gov)

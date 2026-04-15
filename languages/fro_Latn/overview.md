@@ -24,3 +24,17 @@ into edited transcriptions.
 Old French retained a **two-case noun system** (nominative / oblique)
 that Middle and Modern French lost. Its lexicon is closer to Latin and
 has heavy influence on Middle English via the Norman Conquest.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://www.arlima.net/` — ARLIMA — Archives de littérature du Moyen Âge — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://fro.wikipedia.org/` — Old French Wikipedia (cultural)
+- `https://www.arlima.net/` — ARLIMA — Archives de littérature du Moyen Âge (cultural)

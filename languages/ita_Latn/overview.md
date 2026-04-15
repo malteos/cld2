@@ -11,3 +11,20 @@ Italian uses a 21-letter core Latin alphabet; the letters `j k w x y` appear alm
 ## Status
 
 Standardized from Tuscan (Florentine) since the 14th century (Dante, Petrarch, Boccaccio). The Accademia della Crusca monitors usage. Dozens of regional varieties (Neapolitan, Sicilian, Venetian, Ligurian, Piedmontese) coexist but are linguistically separate Romance languages rather than dialects of standard Italian.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://it.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.governo.it/` — Governo Italiano — _live WebFetch_
+- `https://www.ansa.it/` — ANSA — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://it.wikipedia.org/` — Italian Wikipedia (cultural)
+- `https://www.governo.it/` — Governo Italiano (gov)
+- `https://www.ansa.it/` — ANSA (news)

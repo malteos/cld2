@@ -1,321 +1,2607 @@
 {
   "code": "tuk",
   "name": "Turkmen",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (tk.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 196558,
+  "unique_tokens": 44705,
   "words": [
     {
       "word": "we",
-      "count": 824
+      "count": 4657
     },
     {
       "word": "bilen",
-      "count": 373
-    },
-    {
-      "word": "üçin",
-      "count": 334
-    },
-    {
-      "word": "ol",
-      "count": 281
-    },
-    {
-      "word": "bir",
-      "count": 267
-    },
-    {
-      "word": "ýa-da",
-      "count": 248
-    },
-    {
-      "word": "hem",
-      "count": 234
-    },
-    {
-      "word": "bolup",
-      "count": 206
-    },
-    {
-      "word": "bolan",
-      "count": 194
-    },
-    {
-      "word": "bu",
-      "count": 187
-    },
-    {
-      "word": "öz",
-      "count": 181
-    },
-    {
-      "word": "köp",
-      "count": 161
-    },
-    {
-      "word": "iň",
-      "count": 161
-    },
-    {
-      "word": "has",
-      "count": 154
+      "count": 2120
     },
     {
       "word": "nji",
-      "count": 153
+      "count": 1826
     },
     {
-      "word": "şol",
-      "count": 144
+      "word": "bu",
+      "count": 1318
     },
     {
-      "word": "bolsa",
-      "count": 128
+      "word": "hem",
+      "count": 1177
     },
     {
-      "word": "ýaly",
-      "count": 128
+      "word": "ol",
+      "count": 1076
     },
     {
-      "word": "ýöne",
-      "count": 120
+      "word": "üçin",
+      "count": 914
     },
     {
-      "word": "onuň",
-      "count": 115
-    },
-    {
-      "word": "şeýle",
-      "count": 96
-    },
-    {
-      "word": "hem-de",
-      "count": 95
-    },
-    {
-      "word": "bolýar",
-      "count": 89
-    },
-    {
-      "word": "bar",
-      "count": 88
-    },
-    {
-      "word": "iki",
-      "count": 84
-    },
-    {
-      "word": "olar",
-      "count": 82
-    },
-    {
-      "word": "sebäpli",
-      "count": 80
+      "word": "bir",
+      "count": 904
     },
     {
       "word": "ýylda",
-      "count": 79
+      "count": 778
     },
     {
-      "word": "bilýär",
-      "count": 76
+      "word": "boýunça",
+      "count": 718
     },
     {
-      "word": "köplenç",
-      "count": 76
+      "word": "onuň",
+      "count": 669
     },
     {
-      "word": "boldy",
-      "count": 75
+      "word": "bolsa",
+      "count": 625
+    },
+    {
+      "word": "bolup",
+      "count": 611
     },
     {
       "word": "uly",
-      "count": 74
-    },
-    {
-      "word": "täze",
-      "count": 74
-    },
-    {
-      "word": "bardyr",
-      "count": 72
-    },
-    {
-      "word": "barada",
-      "count": 71
-    },
-    {
-      "word": "tarapyndan",
-      "count": 70
+      "count": 598
     },
     {
       "word": "njy",
-      "count": 69
+      "count": 572
     },
     {
-      "word": "şu",
-      "count": 68
-    },
-    {
-      "word": "gowy",
-      "count": 67
-    },
-    {
-      "word": "edýär",
-      "count": 65
-    },
-    {
-      "word": "olaryň",
-      "count": 65
-    },
-    {
-      "word": "başga",
-      "count": 64
-    },
-    {
-      "word": "arkaly",
-      "count": 63
-    },
-    {
-      "word": "hökmünde",
-      "count": 63
-    },
-    {
-      "word": "käbir",
-      "count": 63
-    },
-    {
-      "word": "sany",
-      "count": 58
-    },
-    {
-      "word": "diýip",
-      "count": 57
-    },
-    {
-      "word": "ähli",
-      "count": 56
-    },
-    {
-      "word": "diňe",
-      "count": 56
-    },
-    {
-      "word": "dürli",
-      "count": 56
-    },
-    {
-      "word": "soň",
-      "count": 55
-    },
-    {
-      "word": "beýleki",
-      "count": 55
-    },
-    {
-      "word": "aýtdy",
-      "count": 55
-    },
-    {
-      "word": "her",
-      "count": 54
-    },
-    {
-      "word": "etmek",
-      "count": 49
-    },
-    {
-      "word": "emma",
-      "count": 49
+      "word": "bolan",
+      "count": 559
     },
     {
       "word": "ýylyň",
-      "count": 48
+      "count": 507
+    },
+    {
+      "word": "öz",
+      "count": 500
+    },
+    {
+      "word": "iň",
+      "count": 478
+    },
+    {
+      "word": "bar",
+      "count": 451
+    },
+    {
+      "word": "türkmen",
+      "count": 450
+    },
+    {
+      "word": "köp",
+      "count": 423
+    },
+    {
+      "word": "ýaly",
+      "count": 415
+    },
+    {
+      "word": "şol",
+      "count": 414
+    },
+    {
+      "word": "ýokary",
+      "count": 385
     },
     {
       "word": "çenli",
-      "count": 48
+      "count": 368
     },
     {
-      "word": "birnäçe",
-      "count": 47
+      "word": "soň",
+      "count": 368
     },
     {
-      "word": "hiç",
-      "count": 46
+      "word": "sany",
+      "count": 364
     },
     {
-      "word": "edip",
-      "count": 46
+      "word": "türkmenistanyň",
+      "count": 336
     },
     {
-      "word": "durýar",
-      "count": 46
+      "word": "döwlet",
+      "count": 325
     },
     {
-      "word": "etdi",
-      "count": 45
+      "word": "dünýä",
+      "count": 324
     },
     {
-      "word": "alyp",
-      "count": 45
+      "word": "dili",
+      "count": 323
+    },
+    {
+      "word": "bolýar",
+      "count": 312
     },
     {
       "word": "esasy",
-      "count": 45
+      "count": 311
     },
     {
-      "word": "örän",
-      "count": 45
+      "word": "olaryň",
+      "count": 309
     },
     {
-      "word": "biler",
-      "count": 45
+      "word": "internet",
+      "count": 294
+    },
+    {
+      "word": "edýär",
+      "count": 293
+    },
+    {
+      "word": "iki",
+      "count": 293
+    },
+    {
+      "word": "şeýle",
+      "count": 289
+    },
+    {
+      "word": "has",
+      "count": 282
+    },
+    {
+      "word": "bolupdyr",
+      "count": 274
+    },
+    {
+      "word": "ýa-da",
+      "count": 274
+    },
+    {
+      "word": "tarapyndan",
+      "count": 264
+    },
+    {
+      "word": "hem-de",
+      "count": 262
+    },
+    {
+      "word": "olar",
+      "count": 261
+    },
+    {
+      "word": "ýurduň",
+      "count": 261
+    },
+    {
+      "word": "ýurt",
+      "count": 259
+    },
+    {
+      "word": "aradan",
+      "count": 259
     },
     {
       "word": "ilkinji",
-      "count": 44
+      "count": 252
     },
     {
-      "word": "ony",
-      "count": 42
-    },
-    {
-      "word": "belli",
-      "count": 41
-    },
-    {
-      "word": "häzirki",
-      "count": 41
-    },
-    {
-      "word": "içine",
-      "count": 41
-    },
-    {
-      "word": "edýän",
-      "count": 41
-    },
-    {
-      "word": "syýahat",
-      "count": 41
-    },
-    {
-      "word": "ýyl",
-      "count": 40
+      "word": "her",
+      "count": 250
     },
     {
       "word": "ýerde",
-      "count": 40
+      "count": 250
     },
     {
-      "word": "baradaky",
-      "count": 39
+      "word": "ady",
+      "count": 247
+    },
+    {
+      "word": "müň",
+      "count": 237
+    },
+    {
+      "word": "orta",
+      "count": 237
+    },
+    {
+      "word": "diýen",
+      "count": 236
+    },
+    {
+      "word": "häzirki",
+      "count": 234
+    },
+    {
+      "word": "merkezi",
+      "count": 232
+    },
+    {
+      "word": "beýik",
+      "count": 228
+    },
+    {
+      "word": "gadymy",
+      "count": 228
+    },
+    {
+      "word": "hökmünde",
+      "count": 226
+    },
+    {
+      "word": "barada",
+      "count": 224
+    },
+    {
+      "word": "dürli",
+      "count": 224
+    },
+    {
+      "word": "ýyl",
+      "count": 221
+    },
+    {
+      "word": "adam",
+      "count": 221
+    },
+    {
+      "word": "milli",
+      "count": 217
+    },
+    {
+      "word": "täze",
+      "count": 215
+    },
+    {
+      "word": "mustafa",
+      "count": 210
+    },
+    {
+      "word": "taryhy",
+      "count": 206
+    },
+    {
+      "word": "garşy",
+      "count": 203
+    },
+    {
+      "word": "arasynda",
+      "count": 202
+    },
+    {
+      "word": "wakalar",
+      "count": 201
+    },
+    {
+      "word": "şu",
+      "count": 197
+    },
+    {
+      "word": "halk",
+      "count": 195
+    },
+    {
+      "word": "boldy",
+      "count": 195
+    },
+    {
+      "word": "tema",
+      "count": 193
+    },
+    {
+      "word": "han",
+      "count": 191
+    },
+    {
+      "word": "oguz",
+      "count": 190
+    },
+    {
+      "word": "beýleki",
+      "count": 189
+    },
+    {
+      "word": "sebitler",
+      "count": 189
+    },
+    {
+      "word": "inenler",
+      "count": 189
+    },
+    {
+      "word": "çykanlar",
+      "count": 189
+    },
+    {
+      "word": "soňra",
+      "count": 186
+    },
+    {
+      "word": "noinclude",
+      "count": 185
+    },
+    {
+      "word": "diýip",
+      "count": 184
+    },
+    {
+      "word": "alyp",
+      "count": 182
+    },
+    {
+      "word": "edip",
+      "count": 181
+    },
+    {
+      "word": "birnäçe",
+      "count": 181
+    },
+    {
+      "word": "etdi",
+      "count": 181
+    },
+    {
+      "word": "diňe",
+      "count": 180
+    },
+    {
+      "word": "oba",
+      "count": 179
+    },
+    {
+      "word": "biri",
+      "count": 178
     },
     {
       "word": "görä",
-      "count": 39
+      "count": 177
+    },
+    {
+      "word": "derejeli",
+      "count": 176
+    },
+    {
+      "word": "ony",
+      "count": 175
+    },
+    {
+      "word": "soltan",
+      "count": 174
+    },
+    {
+      "word": "ýöne",
+      "count": 172
+    },
+    {
+      "word": "emma",
+      "count": 172
+    },
+    {
+      "word": "günorta",
+      "count": 171
+    },
+    {
+      "word": "şäher",
+      "count": 167
+    },
+    {
+      "word": "kemal",
+      "count": 165
+    },
+    {
+      "word": "atly",
+      "count": 161
+    },
+    {
+      "word": "da",
+      "count": 160
+    },
+    {
+      "word": "hytaý",
+      "count": 158
+    },
+    {
+      "word": "daşary",
+      "count": 158
+    },
+    {
+      "word": "kodlarynyň",
+      "count": 157
+    },
+    {
+      "word": "ýyllarda",
+      "count": 156
+    },
+    {
+      "word": "umumy",
+      "count": 156
+    },
+    {
+      "word": "ähli",
+      "count": 156
+    },
+    {
+      "word": "domenleri",
+      "count": 156
+    },
+    {
+      "word": "ýerleşýär",
+      "count": 152
+    },
+    {
+      "word": "şäheri",
+      "count": 151
+    },
+    {
+      "word": "km",
+      "count": 151
+    },
+    {
+      "word": "degişli",
+      "count": 150
+    },
+    {
+      "word": "ýer",
+      "count": 149
+    },
+    {
+      "word": "türkmenistan",
+      "count": 148
+    },
+    {
+      "word": "arap",
+      "count": 148
+    },
+    {
+      "word": "ta",
+      "count": 148
+    },
+    {
+      "word": "asyryň",
+      "count": 147
+    },
+    {
+      "word": "baş",
+      "count": 146
+    },
+    {
+      "word": "görnüşi",
+      "count": 146
+    },
+    {
+      "word": "sv",
+      "count": 146
+    },
+    {
+      "word": "toppdomän",
+      "count": 145
+    },
+    {
+      "word": "harby",
+      "count": 141
+    },
+    {
+      "word": "türk",
+      "count": 141
+    },
+    {
+      "word": "belli",
+      "count": 140
+    },
+    {
+      "word": "de",
+      "count": 139
+    },
+    {
+      "word": "dowam",
+      "count": 139
+    },
+    {
+      "word": "kabul",
+      "count": 138
+    },
+    {
+      "word": "ýyldan",
+      "count": 135
+    },
+    {
+      "word": "gündogar",
+      "count": 135
+    },
+    {
+      "word": "gezek",
+      "count": 132
+    },
+    {
+      "word": "ikinji",
+      "count": 130
+    },
+    {
+      "word": "ýerine",
+      "count": 130
+    },
+    {
+      "word": "döwründe",
+      "count": 129
+    },
+    {
+      "word": "wagtda",
+      "count": 129
+    },
+    {
+      "word": "käbir",
+      "count": 129
+    },
+    {
+      "word": "örän",
+      "count": 128
+    },
+    {
+      "word": "soňky",
+      "count": 127
+    },
+    {
+      "word": "demirgazyk",
+      "count": 127
+    },
+    {
+      "word": "halkara",
+      "count": 125
+    },
+    {
+      "word": "oňa",
+      "count": 124
+    },
+    {
+      "word": "bölegi",
+      "count": 124
+    },
+    {
+      "word": "gyzyl",
+      "count": 124
+    },
+    {
+      "word": "durýar",
+      "count": 121
+    },
+    {
+      "word": "ibn",
+      "count": 121
+    },
+    {
+      "word": "içinde",
+      "count": 119
+    },
+    {
+      "word": "edildi",
+      "count": 119
+    },
+    {
+      "word": "diýlip",
+      "count": 118
+    },
+    {
+      "word": "balkan",
+      "count": 118
+    },
+    {
+      "word": "la",
+      "count": 118
+    },
+    {
+      "word": "däl",
+      "count": 117
+    },
+    {
+      "word": "gelip",
+      "count": 116
+    },
+    {
+      "word": "ýa",
+      "count": 116
+    },
+    {
+      "word": "gowy",
+      "count": 115
+    },
+    {
+      "word": "dag",
+      "count": 115
+    },
+    {
+      "word": "ylmy",
+      "count": 115
+    },
+    {
+      "word": "etmek",
+      "count": 114
+    },
+    {
+      "word": "tebigy",
+      "count": 114
+    },
+    {
+      "word": "aşgabat",
+      "count": 114
+    },
+    {
+      "word": "meýdany",
+      "count": 114
+    },
+    {
+      "word": "emele",
+      "count": 114
+    },
+    {
+      "word": "özüniň",
+      "count": 113
+    },
+    {
+      "word": "magtymguly",
+      "count": 113
+    },
+    {
+      "word": "sowet",
+      "count": 112
+    },
+    {
+      "word": "li",
+      "count": 112
+    },
+    {
+      "word": "birinji",
+      "count": 111
+    },
+    {
+      "word": "esasan",
+      "count": 110
+    },
+    {
+      "word": "edilýär",
+      "count": 110
+    },
+    {
+      "word": "başga",
+      "count": 110
+    },
+    {
+      "word": "ýerleşýän",
+      "count": 109
+    },
+    {
+      "word": "içine",
+      "count": 109
+    },
+    {
+      "word": "edýän",
+      "count": 108
+    },
+    {
+      "word": "rus",
+      "count": 107
+    },
+    {
+      "word": "taýdan",
+      "count": 107
+    },
+    {
+      "word": "ykdysady",
+      "count": 107
+    },
+    {
+      "word": "dilinde",
+      "count": 107
+    },
+    {
+      "word": "eden",
+      "count": 107
+    },
+    {
+      "word": "şonuň",
+      "count": 106
+    },
+    {
+      "word": "ilaty",
+      "count": 106
+    },
+    {
+      "word": "günbatar",
+      "count": 106
+    },
+    {
+      "word": "arkaly",
+      "count": 105
+    },
+    {
+      "word": "öňki",
+      "count": 105
+    },
+    {
+      "word": "bäri",
+      "count": 105
+    },
+    {
+      "word": "iňlis",
+      "count": 105
+    },
+    {
+      "word": "ýurtda",
+      "count": 105
+    },
+    {
+      "word": "asyrda",
+      "count": 104
+    },
+    {
+      "word": "türkmenistanda",
+      "count": 104
+    },
+    {
+      "word": "den",
+      "count": 104
+    },
+    {
+      "word": "doly",
+      "count": 104
+    },
+    {
+      "word": "ýagny",
+      "count": 103
+    },
+    {
+      "word": "le",
+      "count": 103
+    },
+    {
+      "word": "giň",
+      "count": 102
+    },
+    {
+      "word": "onda",
+      "count": 102
+    },
+    {
+      "word": "biziň",
+      "count": 101
+    },
+    {
+      "word": "paýtagty",
+      "count": 101
+    },
+    {
+      "word": "öň",
+      "count": 101
+    },
+    {
+      "word": "gelýär",
+      "count": 101
+    },
+    {
+      "word": "kiçi",
+      "count": 100
+    },
+    {
+      "word": "ýok",
+      "count": 99
+    },
+    {
+      "word": "gara",
+      "count": 98
+    },
+    {
+      "word": "merw",
+      "count": 98
+    },
+    {
+      "word": "asyr",
+      "count": 97
+    },
+    {
+      "word": "gün",
+      "count": 97
+    },
+    {
+      "word": "deňiz",
+      "count": 97
+    },
+    {
+      "word": "üç",
+      "count": 96
+    },
+    {
+      "word": "goşun",
+      "count": 96
+    },
+    {
+      "word": "osman",
+      "count": 96
+    },
+    {
+      "word": "gowrak",
+      "count": 95
+    },
+    {
+      "word": "abu",
+      "count": 95
+    },
+    {
+      "word": "beg",
+      "count": 95
+    },
+    {
+      "word": "dünýäde",
+      "count": 94
+    },
+    {
+      "word": "at",
+      "count": 93
+    },
+    {
+      "word": "ulanylýar",
+      "count": 93
+    },
+    {
+      "word": "hanyň",
+      "count": 93
+    },
+    {
+      "word": "ogly",
+      "count": 92
+    },
+    {
+      "word": "şahyr",
+      "count": 92
+    },
+    {
+      "word": "az",
+      "count": 92
+    },
+    {
+      "word": "welaýaty",
+      "count": 92
+    },
+    {
+      "word": "bolar",
+      "count": 91
+    },
+    {
+      "word": "hasaplanýar",
+      "count": 91
+    },
+    {
+      "word": "senagat",
+      "count": 91
+    },
+    {
+      "word": "wagt",
+      "count": 91
+    },
+    {
+      "word": "resmi",
+      "count": 91
+    },
+    {
+      "word": "bilim",
+      "count": 90
+    },
+    {
+      "word": "suw",
+      "count": 90
+    },
+    {
+      "word": "basyp",
+      "count": 90
+    },
+    {
+      "word": "taryh",
+      "count": 89
+    },
+    {
+      "word": "aziýa",
+      "count": 89
+    },
+    {
+      "word": "altyn",
+      "count": 88
+    },
+    {
+      "word": "ýerli",
+      "count": 88
+    },
+    {
+      "word": "olary",
+      "count": 88
+    },
+    {
+      "word": "hereket",
+      "count": 87
+    },
+    {
+      "word": "di",
+      "count": 87
+    },
+    {
+      "word": "gala",
+      "count": 86
+    },
+    {
+      "word": "söwda",
+      "count": 86
+    },
+    {
+      "word": "sebäbi",
+      "count": 86
+    },
+    {
+      "word": "ilatyň",
+      "count": 86
+    },
+    {
+      "word": "edilen",
+      "count": 86
+    },
+    {
+      "word": "hiç",
+      "count": 85
+    },
+    {
+      "word": "şahsyýetler",
+      "count": 85
+    },
+    {
+      "word": "göz",
+      "count": 84
+    },
+    {
+      "word": "muhammet",
+      "count": 83
+    },
+    {
+      "word": "ýol",
+      "count": 83
+    },
+    {
+      "word": "tarap",
+      "count": 83
+    },
+    {
+      "word": "esasynda",
+      "count": 82
+    },
+    {
+      "word": "mary",
+      "count": 82
+    },
+    {
+      "word": "respublikasy",
+      "count": 82
+    },
+    {
+      "word": "eýran",
+      "count": 82
+    },
+    {
+      "word": "futbol",
+      "count": 82
+    },
+    {
+      "word": "iri",
+      "count": 82
+    },
+    {
+      "word": "başlap",
+      "count": 81
+    },
+    {
+      "word": "meşhur",
+      "count": 81
+    },
+    {
+      "word": "nebit",
+      "count": 81
+    },
+    {
+      "word": "demir",
+      "count": 80
+    },
+    {
+      "word": "türkiýe",
+      "count": 80
+    },
+    {
+      "word": "ybarat",
+      "count": 80
+    },
+    {
+      "word": "çykýar",
+      "count": 79
+    },
+    {
+      "word": "üpjün",
+      "count": 78
+    },
+    {
+      "word": "nyň",
+      "count": 78
+    },
+    {
+      "word": "gaýtadan",
+      "count": 78
+    },
+    {
+      "word": "ga",
+      "count": 77
+    },
+    {
+      "word": "döwürde",
+      "count": 77
+    },
+    {
+      "word": "ahal",
+      "count": 77
+    },
+    {
+      "word": "ilki",
+      "count": 77
+    },
+    {
+      "word": "golaý",
+      "count": 77
+    },
+    {
+      "word": "yglan",
+      "count": 77
+    },
+    {
+      "word": "diýilýär",
+      "count": 77
+    },
+    {
+      "word": "edipdir",
+      "count": 77
+    },
+    {
+      "word": "ili",
+      "count": 77
+    },
+    {
+      "word": "baradaky",
+      "count": 76
+    },
+    {
+      "word": "hyzmat",
+      "count": 76
+    },
+    {
+      "word": "dini",
+      "count": 76
+    },
+    {
+      "word": "dünýäniň",
+      "count": 76
+    },
+    {
+      "word": "ii",
+      "count": 76
+    },
+    {
+      "word": "aýynda",
+      "count": 75
+    },
+    {
+      "word": "seljuk",
+      "count": 75
+    },
+    {
+      "word": "ýewropa",
+      "count": 75
+    },
+    {
+      "word": "tutýar",
+      "count": 75
+    },
+    {
+      "word": "döredildi",
+      "count": 75
+    },
+    {
+      "word": "ýüze",
+      "count": 75
+    },
+    {
+      "word": "berýär",
+      "count": 74
+    },
+    {
+      "word": "ýeri",
+      "count": 74
+    },
+    {
+      "word": "topary",
+      "count": 74
+    },
+    {
+      "word": "goraghananyň",
+      "count": 74
+    },
+    {
+      "word": "söz",
+      "count": 73
+    },
+    {
+      "word": "san",
+      "count": 73
+    },
+    {
+      "word": "ri",
+      "count": 73
+    },
+    {
+      "word": "geçen",
+      "count": 72
+    },
+    {
+      "word": "ýyla",
+      "count": 71
+    },
+    {
+      "word": "ortaça",
+      "count": 71
+    },
+    {
+      "word": "men",
+      "count": 71
+    },
+    {
+      "word": "ak",
+      "count": 71
+    },
+    {
+      "word": "mümkin",
+      "count": 71
+    },
+    {
+      "word": "maglumatlar",
+      "count": 71
+    },
+    {
+      "word": "iş",
+      "count": 71
+    },
+    {
+      "word": "üsti",
+      "count": 70
+    },
+    {
+      "word": "gelen",
+      "count": 70
+    },
+    {
+      "word": "agyr",
+      "count": 70
+    },
+    {
+      "word": "dil",
+      "count": 70
+    },
+    {
+      "word": "goşuny",
+      "count": 70
+    },
+    {
+      "word": "duş",
+      "count": 70
+    },
+    {
+      "word": "aldy",
+      "count": 70
+    },
+    {
+      "word": "paşa",
+      "count": 70
+    },
+    {
+      "word": "netijesinde",
+      "count": 69
+    },
+    {
+      "word": "hakynda",
+      "count": 69
+    },
+    {
+      "word": "mundan",
+      "count": 69
+    },
+    {
+      "word": "okuw",
+      "count": 69
+    },
+    {
+      "word": "işleri",
+      "count": 69
+    },
+    {
+      "word": "söweş",
+      "count": 69
+    },
+    {
+      "word": "pagta",
+      "count": 69
+    },
+    {
+      "word": "alp",
+      "count": 69
+    },
+    {
+      "word": "million",
+      "count": 68
+    },
+    {
+      "word": "berdi",
+      "count": 68
+    },
+    {
+      "word": "şäheriň",
+      "count": 68
+    },
+    {
+      "word": "russiýa",
+      "count": 68
+    },
+    {
+      "word": "hili",
+      "count": 68
+    },
+    {
+      "word": "başga-da",
+      "count": 68
+    },
+    {
+      "word": "wagty",
+      "count": 68
+    },
+    {
+      "word": "galan",
+      "count": 68
+    },
+    {
+      "word": "sanly",
+      "count": 68
+    },
+    {
+      "word": "arslan",
+      "count": 68
+    },
+    {
+      "word": "gelýän",
+      "count": 68
+    },
+    {
+      "word": "syýasy",
+      "count": 68
+    },
+    {
+      "word": "ýapon",
+      "count": 67
+    },
+    {
+      "word": "geçýär",
+      "count": 67
+    },
+    {
+      "word": "alýar",
+      "count": 67
+    },
+    {
+      "word": "gaty",
+      "count": 67
+    },
+    {
+      "word": "amala",
+      "count": 67
+    },
+    {
+      "word": "ilatynyň",
+      "count": 67
+    },
+    {
+      "word": "çig",
+      "count": 67
+    },
+    {
+      "word": "gaz",
+      "count": 67
+    },
+    {
+      "word": "başlady",
+      "count": 67
+    },
+    {
+      "word": "lar",
+      "count": 67
+    },
+    {
+      "word": "maglumat",
+      "count": 67
+    },
+    {
+      "word": "türkiýäniň",
+      "count": 67
+    },
+    {
+      "word": "gol",
+      "count": 66
+    },
+    {
+      "word": "baý",
+      "count": 66
+    },
+    {
+      "word": "geldi",
+      "count": 66
+    },
+    {
+      "word": "sport",
+      "count": 66
+    },
+    {
+      "word": "dört",
+      "count": 66
+    },
+    {
+      "word": "sebäpli",
+      "count": 66
+    },
+    {
+      "word": "galanyň",
+      "count": 66
+    },
+    {
+      "word": "almak",
+      "count": 65
+    },
+    {
+      "word": "metr",
+      "count": 65
+    },
+    {
+      "word": "gök",
+      "count": 65
+    },
+    {
+      "word": "ry",
+      "count": 65
+    },
+    {
+      "word": "ly",
+      "count": 65
+    },
+    {
+      "word": "kodu",
+      "count": 65
+    },
+    {
+      "word": "süýümleriñ",
+      "count": 65
+    },
+    {
+      "word": "süýümler",
+      "count": 65
+    },
+    {
+      "word": "si",
+      "count": 64
+    },
+    {
+      "word": "derýasynyň",
+      "count": 64
+    },
+    {
+      "word": "mln",
+      "count": 64
+    },
+    {
+      "word": "öňünde",
+      "count": 64
+    },
+    {
+      "word": "çap",
+      "count": 64
+    },
+    {
+      "word": "üstüne",
+      "count": 64
+    },
+    {
+      "word": "http",
+      "count": 63
+    },
+    {
+      "word": "gurluşyk",
+      "count": 63
+    },
+    {
+      "word": "döwletler",
+      "count": 63
+    },
+    {
+      "word": "fransuz",
+      "count": 63
+    },
+    {
+      "word": "eger",
+      "count": 63
+    },
+    {
+      "word": "gerek",
+      "count": 62
+    },
+    {
+      "word": "maksady",
+      "count": 62
+    },
+    {
+      "word": "halkyň",
+      "count": 62
+    },
+    {
+      "word": "ýaşaýar",
+      "count": 62
+    },
+    {
+      "word": "ýyllar",
+      "count": 62
+    },
+    {
+      "word": "kody",
+      "count": 62
+    },
+    {
+      "word": "aýratyn",
+      "count": 61
+    },
+    {
+      "word": "güýçli",
+      "count": 61
+    },
+    {
+      "word": "medeni",
+      "count": 61
+    },
+    {
+      "word": "kitabyna",
+      "count": 61
+    },
+    {
+      "word": "hytaýyň",
+      "count": 61
+    },
+    {
+      "word": "absolýut",
+      "count": 61
+    },
+    {
+      "word": "maý",
+      "count": 60
+    },
+    {
+      "word": "üstünde",
+      "count": 60
+    },
+    {
+      "word": "howa",
+      "count": 60
+    },
+    {
+      "word": "girizildi",
+      "count": 60
+    },
+    {
+      "word": "tutuş",
+      "count": 60
+    },
+    {
+      "word": "ýylynda",
+      "count": 60
+    },
+    {
+      "word": "uzak",
+      "count": 60
+    },
+    {
+      "word": "ni",
+      "count": 59
+    },
+    {
+      "word": "zaman",
+      "count": 59
+    },
+    {
+      "word": "bolmagy",
+      "count": 59
+    },
+    {
+      "word": "berildi",
+      "count": 59
     },
     {
       "word": "habar",
+      "count": 58
+    },
+    {
+      "word": "ýerleri",
+      "count": 58
+    },
+    {
+      "word": "uzynlygy",
+      "count": 58
+    },
+    {
+      "word": "aralygynda",
+      "count": 58
+    },
+    {
+      "word": "ondan",
+      "count": 58
+    },
+    {
+      "word": "döwleti",
+      "count": 58
+    },
+    {
+      "word": "orun",
+      "count": 58
+    },
+    {
+      "word": "osmanly",
+      "count": 58
+    },
+    {
+      "word": "bermek",
+      "count": 57
+    },
+    {
+      "word": "sy",
+      "count": 57
+    },
+    {
+      "word": "yslam",
+      "count": 57
+    },
+    {
+      "word": "çeper",
+      "count": 57
+    },
+    {
+      "word": "pul",
+      "count": 57
+    },
+    {
+      "word": "türkmenbaşy",
+      "count": 57
+    },
+    {
+      "word": "deň",
+      "count": 57
+    },
+    {
+      "word": "şeýle-de",
+      "count": 57
+    },
+    {
+      "word": "şäheriniň",
+      "count": 57
+    },
+    {
+      "word": "welaýatynyň",
+      "count": 57
+    },
+    {
+      "word": "ylym",
+      "count": 56
+    },
+    {
+      "word": "ýene-de",
+      "count": 56
+    },
+    {
+      "word": "başynda",
+      "count": 56
+    },
+    {
+      "word": "inedördül",
+      "count": 56
+    },
+    {
+      "word": "aýynyň",
+      "count": 56
+    },
+    {
+      "word": "senagaty",
+      "count": 56
+    },
+    {
+      "word": "şondan",
+      "count": 56
+    },
+    {
+      "word": "uruş",
+      "count": 56
+    },
+    {
+      "word": "geçdi",
+      "count": 56
+    },
+    {
+      "word": "etraby",
+      "count": 56
+    },
+    {
+      "word": "na",
+      "count": 56
+    },
+    {
+      "word": "edebiýaty",
+      "count": 55
+    },
+    {
+      "word": "sanjar",
+      "count": 55
+    },
+    {
+      "word": "özüni",
+      "count": 55
+    },
+    {
+      "word": "oktýabr",
+      "count": 55
+    },
+    {
+      "word": "awstriýa",
+      "count": 55
+    },
+    {
+      "word": "ýaponiýa",
+      "count": 55
+    },
+    {
+      "word": "möhüm",
+      "count": 55
+    },
+    {
+      "word": "girýär",
+      "count": 55
+    },
+    {
+      "word": "özi",
+      "count": 55
+    },
+    {
+      "word": "dowamynda",
+      "count": 55
+    },
+    {
+      "word": "çäginde",
+      "count": 55
+    },
+    {
+      "word": "şäherinde",
+      "count": 55
+    },
+    {
+      "word": "meselem",
+      "count": 54
+    },
+    {
+      "word": "hojalyk",
+      "count": 54
+    },
+    {
+      "word": "birleşen",
+      "count": 54
+    },
+    {
+      "word": "ybaratdyr",
+      "count": 54
+    },
+    {
+      "word": "ýaş",
+      "count": 54
+    },
+    {
+      "word": "gökdepe",
+      "count": 54
+    },
+    {
+      "word": "togrul",
+      "count": 54
+    },
+    {
+      "word": "işleýär",
+      "count": 53
+    },
+    {
+      "word": "dan",
+      "count": 53
+    },
+    {
+      "word": "biridir",
+      "count": 53
+    },
+    {
+      "word": "ahmet",
+      "count": 53
+    },
+    {
+      "word": "dilleri",
+      "count": 53
+    },
+    {
+      "word": "gurluşy",
+      "count": 53
+    },
+    {
+      "word": "garagum",
+      "count": 53
+    },
+    {
+      "word": "türkmenleriň",
+      "count": 53
+    },
+    {
+      "word": "ýaşaýan",
+      "count": 53
+    },
+    {
+      "word": "fewral",
+      "count": 53
+    },
+    {
+      "word": "giňden",
+      "count": 52
+    },
+    {
+      "word": "aziýanyň",
+      "count": 52
+    },
+    {
+      "word": "garaşsyz",
+      "count": 52
+    },
+    {
+      "word": "ýüpek",
+      "count": 52
+    },
+    {
+      "word": "ny",
+      "count": 52
+    },
+    {
+      "word": "ýüz",
+      "count": 52
+    },
+    {
+      "word": "eýe",
+      "count": 52
+    },
+    {
+      "word": "serkerdesi",
+      "count": 52
+    },
+    {
+      "word": "prezident",
+      "count": 52
+    },
+    {
+      "word": "ýyllaryň",
+      "count": 52
+    },
+    {
+      "word": "türki",
+      "count": 51
+    },
+    {
+      "word": "görnüşleri",
+      "count": 51
+    },
+    {
+      "word": "ozalky",
+      "count": 51
+    },
+    {
+      "word": "başlaýar",
+      "count": 51
+    },
+    {
+      "word": "jemi",
+      "count": 51
+    },
+    {
+      "word": "ýanwar",
+      "count": 51
+    },
+    {
+      "word": "ýene",
+      "count": 51
+    },
+    {
+      "word": "şahyryň",
+      "count": 51
+    },
+    {
+      "word": "mekdep",
+      "count": 51
+    },
+    {
+      "word": "irki",
+      "count": 51
+    },
+    {
+      "word": "seljukly",
+      "count": 51
+    },
+    {
+      "word": "güni",
+      "count": 51
+    },
+    {
+      "word": "www",
+      "count": 50
+    },
+    {
+      "word": "reňkli",
+      "count": 50
+    },
+    {
+      "word": "mysal",
+      "count": 50
+    },
+    {
+      "word": "ösen",
+      "count": 50
+    },
+    {
+      "word": "beýan",
+      "count": 50
+    },
+    {
+      "word": "ajaýyp",
+      "count": 50
+    },
+    {
+      "word": "bolmadyk",
+      "count": 50
+    },
+    {
+      "word": "olardan",
+      "count": 50
+    },
+    {
+      "word": "ýarym",
+      "count": 50
+    },
+    {
+      "word": "gysga",
+      "count": 50
+    },
+    {
+      "word": "olara",
+      "count": 50
+    },
+    {
+      "word": "arasyndaky",
+      "count": 50
+    },
+    {
+      "word": "ýurdy",
+      "count": 50
+    },
+    {
+      "word": "bilelikde",
+      "count": 50
+    },
+    {
+      "word": "aprel",
+      "count": 50
+    },
+    {
+      "word": "peýda",
+      "count": 49
+    },
+    {
+      "word": "baha",
+      "count": 49
+    },
+    {
+      "word": "ösüş",
+      "count": 49
+    },
+    {
+      "word": "çykan",
+      "count": 49
+    },
+    {
+      "word": "hazar",
+      "count": 49
+    },
+    {
+      "word": "bölegini",
+      "count": 49
+    },
+    {
+      "word": "hojalygy",
+      "count": 49
+    },
+    {
+      "word": "ýyllarynda",
+      "count": 49
+    },
+    {
+      "word": "özüne",
+      "count": 49
+    },
+    {
+      "word": "alan",
+      "count": 49
+    },
+    {
+      "word": "dogry",
+      "count": 49
+    },
+    {
+      "word": "kitap",
+      "count": 49
+    },
+    {
+      "word": "hasap",
+      "count": 49
+    },
+    {
+      "word": "hökümet",
+      "count": 49
+    },
+    {
+      "word": "hökümeti",
+      "count": 49
+    },
+    {
+      "word": "biler",
+      "count": 49
+    },
+    {
+      "word": "ýüplügiñ",
+      "count": 49
+    },
+    {
+      "word": "talap",
+      "count": 48
+    },
+    {
+      "word": "zähmet",
+      "count": 48
+    },
+    {
+      "word": "köpüsi",
+      "count": 48
+    },
+    {
+      "word": "abş",
+      "count": 48
+    },
+    {
+      "word": "böleginde",
+      "count": 48
+    },
+    {
+      "word": "gündogarda",
+      "count": 48
+    },
+    {
+      "word": "döwletiniň",
+      "count": 48
+    },
+    {
+      "word": "tutýan",
+      "count": 48
+    },
+    {
+      "word": "prezidenti",
+      "count": 48
+    },
+    {
+      "word": "ne",
+      "count": 48
+    },
+    {
+      "word": "ozal",
+      "count": 48
+    },
+    {
+      "word": "tä",
+      "count": 48
+    },
+    {
+      "word": "adamlar",
+      "count": 48
+    },
+    {
+      "word": "ýerlerde",
+      "count": 48
+    },
+    {
+      "word": "bi",
+      "count": 48
+    },
+    {
+      "word": "ti",
+      "count": 48
+    },
+    {
+      "word": "awgust",
+      "count": 48
+    },
+    {
+      "word": "göterimi",
+      "count": 48
+    },
+    {
+      "word": "töweregi",
+      "count": 47
+    },
+    {
+      "word": "çykdy",
+      "count": 47
+    },
+    {
+      "word": "eserleri",
+      "count": 47
+    },
+    {
+      "word": "imperiýasynyň",
+      "count": 47
+    },
+    {
+      "word": "şäherler",
+      "count": 47
+    },
+    {
+      "word": "ucin",
+      "count": 47
+    },
+    {
+      "word": "grek",
+      "count": 47
+    },
+    {
+      "word": "edebiýat",
+      "count": 47
+    },
+    {
+      "word": "pikir",
+      "count": 47
+    },
+    {
+      "word": "haly",
+      "count": 47
+    },
+    {
+      "word": "önümleri",
+      "count": 47
+    },
+    {
+      "word": "laýyklykda",
+      "count": 47
+    },
+    {
+      "word": "iýul",
+      "count": 47
+    },
+    {
+      "word": "of",
+      "count": 47
+    },
+    {
+      "word": "ra",
+      "count": 47
+    },
+    {
+      "word": "türkiýe'nin",
+      "count": 47
+    },
+    {
+      "word": "başlandy",
+      "count": 46
+    },
+    {
+      "word": "adyny",
+      "count": 46
+    },
+    {
+      "word": "işleýän",
+      "count": 46
+    },
+    {
+      "word": "uniwersiteti",
+      "count": 46
+    },
+    {
+      "word": "bütin",
+      "count": 46
+    },
+    {
+      "word": "edilipdir",
+      "count": 46
+    },
+    {
+      "word": "eken",
+      "count": 46
+    },
+    {
+      "word": "saklanyp",
+      "count": 46
+    },
+    {
+      "word": "täsir",
+      "count": 46
+    },
+    {
+      "word": "takmynan",
+      "count": 46
+    },
+    {
+      "word": "içerki",
+      "count": 46
+    },
+    {
+      "word": "ýere",
+      "count": 46
+    },
+    {
+      "word": "the",
+      "count": 46
+    },
+    {
+      "word": "işläp",
+      "count": 45
+    },
+    {
+      "word": "ýazylan",
+      "count": 45
+    },
+    {
+      "word": "ýazan",
+      "count": 45
+    },
+    {
+      "word": "kitaby",
+      "count": 45
+    },
+    {
+      "word": "berk",
+      "count": 45
+    },
+    {
+      "word": "wagtynda",
+      "count": 45
+    },
+    {
+      "word": "degişlidir",
+      "count": 45
+    },
+    {
+      "word": "ýakyn",
+      "count": 45
+    },
+    {
+      "word": "köplenç",
+      "count": 45
+    },
+    {
+      "word": "goşunynyň",
+      "count": 45
+    },
+    {
+      "word": "adyndaky",
+      "count": 45
+    },
+    {
+      "word": "kakasy",
+      "count": 45
+    },
+    {
+      "word": "wagtyň",
+      "count": 45
+    },
+    {
+      "word": "berilýär",
+      "count": 45
+    },
+    {
+      "word": "ahalteke",
+      "count": 45
+    },
+    {
+      "word": "me",
+      "count": 45
+    },
+    {
+      "word": "iýun",
+      "count": 45
+    },
+    {
+      "word": "ýönekeý",
+      "count": 44
+    },
+    {
+      "word": "ahyrynda",
+      "count": 44
+    },
+    {
+      "word": "munuň",
+      "count": 44
+    },
+    {
+      "word": "ilat",
+      "count": 44
+    },
+    {
+      "word": "afrika",
+      "count": 44
+    },
+    {
+      "word": "günbatarda",
+      "count": 44
+    },
+    {
+      "word": "deňziniň",
+      "count": 44
+    },
+    {
+      "word": "bölünýär",
+      "count": 44
+    },
+    {
+      "word": "işler",
+      "count": 44
+    },
+    {
+      "word": "neşir",
+      "count": 44
+    },
+    {
+      "word": "sanda",
+      "count": 44
+    },
+    {
+      "word": "ali",
+      "count": 44
+    },
+    {
+      "word": "söweşi",
+      "count": 44
+    },
+    {
+      "word": "geçirilen",
+      "count": 43
+    },
+    {
+      "word": "hakyky",
+      "count": 43
+    },
+    {
+      "word": "döwri",
+      "count": 43
+    },
+    {
+      "word": "ýaşap",
+      "count": 43
+    },
+    {
+      "word": "ýaşan",
+      "count": 43
+    },
+    {
+      "word": "durmuş",
+      "count": 43
+    },
+    {
+      "word": "köne",
+      "count": 43
+    },
+    {
+      "word": "bardyr",
+      "count": 43
+    },
+    {
+      "word": "ýyllyk",
+      "count": 43
+    },
+    {
+      "word": "welaýatyň",
+      "count": 43
+    },
+    {
+      "word": "ulanylýan",
+      "count": 43
+    },
+    {
+      "word": "ýörite",
+      "count": 43
+    },
+    {
+      "word": "täzeden",
+      "count": 43
+    },
+    {
+      "word": "niň",
+      "count": 43
+    },
+    {
+      "word": "sentýabr",
+      "count": 43
+    },
+    {
+      "word": "öňe",
+      "count": 42
+    },
+    {
+      "word": "indi",
+      "count": 42
+    },
+    {
+      "word": "adamyň",
+      "count": 42
+    },
+    {
+      "word": "dokma",
+      "count": 42
+    },
+    {
+      "word": "tebigaty",
+      "count": 42
+    },
+    {
+      "word": "gar",
+      "count": 42
+    },
+    {
+      "word": "duran",
+      "count": 42
+    },
+    {
+      "word": "özbaşdak",
+      "count": 42
+    },
+    {
+      "word": "ýazypdyr",
+      "count": 42
+    },
+    {
+      "word": "hökümdary",
+      "count": 42
+    },
+    {
+      "word": "çagry",
+      "count": 42
+    },
+    {
+      "word": "wezipesine",
+      "count": 42
+    },
+    {
+      "word": "çykyş",
+      "count": 42
+    },
+    {
+      "word": "baryp",
+      "count": 41
+    },
+    {
+      "word": "magtymgulynyň",
+      "count": 41
+    },
+    {
+      "word": "meňzeş",
+      "count": 41
+    },
+    {
+      "word": "saparmyrat",
+      "count": 41
+    },
+    {
+      "word": "adalary",
+      "count": 41
+    },
+    {
+      "word": "aziýada",
+      "count": 41
+    },
+    {
+      "word": "demirgazykda",
+      "count": 41
+    },
+    {
+      "word": "günortada",
+      "count": 41
+    },
+    {
+      "word": "köpetdag",
+      "count": 41
+    },
+    {
+      "word": "ugrunda",
+      "count": 41
+    },
+    {
+      "word": "goşunlary",
+      "count": 41
+    },
+    {
+      "word": "däldir",
+      "count": 41
+    },
+    {
+      "word": "diliniň",
+      "count": 41
+    },
+    {
+      "word": "öwrüldi",
+      "count": 41
+    },
+    {
+      "word": "berýän",
+      "count": 41
+    },
+    {
+      "word": "ýar",
+      "count": 41
+    },
+    {
+      "word": "pes",
+      "count": 41
+    },
+    {
+      "word": "derejede",
+      "count": 41
+    },
+    {
+      "word": "beý",
+      "count": 41
+    },
+    {
+      "word": "ösümlik",
+      "count": 41
+    },
+    {
+      "word": "mahmyt",
+      "count": 40
+    },
+    {
+      "word": "bolmaly",
+      "count": 40
+    },
+    {
+      "word": "eýsem",
+      "count": 40
+    },
+    {
+      "word": "işi",
+      "count": 40
+    },
+    {
+      "word": "on",
+      "count": 40
+    },
+    {
+      "word": "tapawutlanýar",
+      "count": 40
+    },
+    {
+      "word": "görnüşli",
+      "count": 40
+    },
+    {
+      "word": "amatly",
+      "count": 40
+    },
+    {
+      "word": "syýahatçylyk",
+      "count": 40
+    },
+    {
+      "word": "dekabrynda",
+      "count": 40
+    },
+    {
+      "word": "seýrek",
+      "count": 40
+    },
+    {
+      "word": "edilýän",
+      "count": 40
+    },
+    {
+      "word": "görnüşinde",
+      "count": 40
+    },
+    {
+      "word": "ma",
+      "count": 40
+    },
+    {
+      "word": "urşy",
+      "count": 40
+    },
+    {
+      "word": "mart",
+      "count": 40
+    },
+    {
+      "word": "himiýa",
+      "count": 39
+    },
+    {
+      "word": "ulgamy",
+      "count": 39
+    },
+    {
+      "word": "däl-de",
+      "count": 39
+    },
+    {
+      "word": "ýoly",
+      "count": 39
+    },
+    {
+      "word": "şäherde",
+      "count": 39
+    },
+    {
+      "word": "ýerinde",
+      "count": 39
+    },
+    {
+      "word": "bina",
+      "count": 39
+    },
+    {
+      "word": "bäş",
+      "count": 39
+    },
+    {
+      "word": "ýetýär",
+      "count": 39
+    },
+    {
+      "word": "geçirildi",
+      "count": 39
+    },
+    {
+      "word": "onuñ",
+      "count": 39
+    },
+    {
+      "word": "al",
       "count": 39
     },
     {
@@ -323,3687 +2609,1404 @@
       "count": 39
     },
     {
-      "word": "soňra",
-      "count": 38
-    },
-    {
-      "word": "mümkin",
-      "count": 38
-    },
-    {
-      "word": "ýerli",
-      "count": 38
-    },
-    {
-      "word": "adam",
-      "count": 37
-    },
-    {
-      "word": "diýen",
-      "count": 37
-    },
-    {
-      "word": "gün",
-      "count": 37
-    },
-    {
-      "word": "islendik",
-      "count": 37
-    },
-    {
-      "word": "adamlar",
-      "count": 36
-    },
-    {
-      "word": "däl",
-      "count": 34
-    },
-    {
-      "word": "öň",
-      "count": 34
-    },
-    {
-      "word": "ýokary",
-      "count": 33
-    },
-    {
-      "word": "günorta",
-      "count": 33
-    },
-    {
-      "word": "üç",
-      "count": 32
-    },
-    {
-      "word": "boýunça",
-      "count": 32
-    },
-    {
-      "word": "adamlaryň",
-      "count": 32
-    },
-    {
-      "word": "baryp",
-      "count": 32
-    },
-    {
-      "word": "milli",
-      "count": 31
-    },
-    {
-      "word": "ýerleşýän",
-      "count": 31
-    },
-    {
-      "word": "biri",
-      "count": 30
-    },
-    {
-      "word": "sebäbi",
-      "count": 30
-    },
-    {
-      "word": "kömek",
-      "count": 30
-    },
-    {
-      "word": "täsir",
-      "count": 30
-    },
-    {
-      "word": "ýer",
-      "count": 30
-    },
-    {
-      "word": "üpjün",
-      "count": 29
-    },
-    {
-      "word": "öňe",
-      "count": 29
-    },
-    {
-      "word": "bolmagy",
-      "count": 29
-    },
-    {
-      "word": "wagt",
-      "count": 29
-    },
-    {
-      "word": "olary",
-      "count": 29
-    },
-    {
-      "word": "emele",
-      "count": 28
-    },
-    {
-      "word": "berýär",
-      "count": 28
-    },
-    {
-      "word": "berdi",
-      "count": 28
-    },
-    {
-      "word": "bäri",
-      "count": 28
-    },
-    {
-      "word": "on",
-      "count": 28
-    },
-    {
-      "word": "suw",
-      "count": 28
-    },
-    {
-      "word": "hatda",
-      "count": 28
-    },
-    {
-      "word": "göz",
-      "count": 27
-    },
-    {
-      "word": "güni",
-      "count": 27
-    },
-    {
-      "word": "garşy",
-      "count": 27
-    },
-    {
-      "word": "demirgazyk",
-      "count": 27
-    },
-    {
-      "word": "ikinji",
-      "count": 27
-    },
-    {
-      "word": "mil",
-      "count": 27
-    },
-    {
-      "word": "eger",
-      "count": 27
-    },
-    {
-      "word": "ýüze",
-      "count": 27
-    },
-    {
-      "word": "ýere",
-      "count": 27
-    },
-    {
-      "word": "gerek",
-      "count": 27
-    },
-    {
-      "word": "soňky",
-      "count": 26
-    },
-    {
-      "word": "dowam",
-      "count": 26
-    },
-    {
-      "word": "gaty",
-      "count": 26
-    },
-    {
-      "word": "çemesi",
-      "count": 26
-    },
-    {
-      "word": "möhüm",
-      "count": 26
-    },
-    {
-      "word": "abş-nyň",
-      "count": 26
-    },
-    {
-      "word": "arasynda",
-      "count": 26
-    },
-    {
-      "word": "merkezi",
-      "count": 26
-    },
-    {
-      "word": "derejede",
-      "count": 26
-    },
-    {
-      "word": "talap",
-      "count": 26
-    },
-    {
-      "word": "ýerine",
-      "count": 25
-    },
-    {
-      "word": "goşmaça",
-      "count": 25
-    },
-    {
-      "word": "dowamynda",
-      "count": 25
-    },
-    {
-      "word": "taýdan",
-      "count": 25
-    },
-    {
-      "word": "km",
-      "count": 25
-    },
-    {
-      "word": "mümkinçilik",
-      "count": 25
-    },
-    {
-      "word": "uzak",
-      "count": 25
-    },
-    {
-      "word": "oňa",
-      "count": 24
-    },
-    {
-      "word": "wagtda",
-      "count": 24
-    },
-    {
-      "word": "ähtimal",
-      "count": 24
-    },
-    {
-      "word": "howa",
-      "count": 24
-    },
-    {
-      "word": "diýlip",
-      "count": 24
-    },
-    {
-      "word": "sebäp",
-      "count": 24
-    },
-    {
-      "word": "bolsa-da",
-      "count": 24
-    },
-    {
-      "word": "diýilýär",
-      "count": 24
-    },
-    {
-      "word": "ýabany",
-      "count": 24
-    },
-    {
-      "word": "bolsaňyz",
-      "count": 23
-    },
-    {
-      "word": "takmynan",
-      "count": 23
-    },
-    {
-      "word": "million",
-      "count": 23
-    },
-    {
-      "word": "adamyň",
-      "count": 23
-    },
-    {
-      "word": "bolar",
-      "count": 23
-    },
-    {
-      "word": "hakyky",
-      "count": 23
-    },
-    {
-      "word": "bilersiňiz",
-      "count": 22
-    },
-    {
-      "word": "adatça",
-      "count": 22
-    },
-    {
-      "word": "daşary",
-      "count": 22
-    },
-    {
-      "word": "almak",
-      "count": 22
-    },
-    {
-      "word": "birinji",
-      "count": 22
-    },
-    {
-      "word": "sanda",
-      "count": 22
-    },
-    {
-      "word": "alýar",
-      "count": 22
-    },
-    {
-      "word": "olimpiýa",
-      "count": 22
-    },
-    {
-      "word": "esasan",
-      "count": 22
-    },
-    {
-      "word": "kiçi",
-      "count": 22
-    },
-    {
-      "word": "ýurduň",
-      "count": 21
-    },
-    {
-      "word": "kabul",
-      "count": 21
-    },
-    {
-      "word": "açyk",
-      "count": 21
-    },
-    {
-      "word": "edildi",
-      "count": 21
-    },
-    {
-      "word": "edil",
-      "count": 21
-    },
-    {
-      "word": "ýewropa",
-      "count": 21
-    },
-    {
-      "word": "dünýäniň",
-      "count": 21
-    },
-    {
-      "word": "görnüşde",
-      "count": 21
-    },
-    {
-      "word": "ýok",
-      "count": 20
-    },
-    {
-      "word": "edilen",
-      "count": 20
-    },
-    {
-      "word": "halkara",
-      "count": 20
-    },
-    {
-      "word": "olara",
-      "count": 20
-    },
-    {
-      "word": "iş",
-      "count": 20
-    },
-    {
-      "word": "duran",
-      "count": 20
-    },
-    {
-      "word": "pes",
-      "count": 20
-    },
-    {
-      "word": "geçip",
-      "count": 20
-    },
-    {
-      "word": "geçen",
-      "count": 20
-    },
-    {
-      "word": "mälim",
-      "count": 20
-    },
-    {
-      "word": "aglabasy",
-      "count": 20
-    },
-    {
-      "word": "ýene",
-      "count": 20
-    },
-    {
-      "word": "meşhur",
-      "count": 20
-    },
-    {
-      "word": "amala",
-      "count": 19
-    },
-    {
-      "word": "birneme",
-      "count": 19
-    },
-    {
-      "word": "az",
-      "count": 19
-    },
-    {
-      "word": "yglan",
-      "count": 19
-    },
-    {
-      "word": "bolýan",
-      "count": 19
-    },
-    {
-      "word": "resmi",
-      "count": 19
-    },
-    {
-      "word": "barýan",
-      "count": 19
-    },
-    {
-      "word": "ýeri",
-      "count": 19
-    },
-    {
-      "word": "dört",
-      "count": 19
-    },
-    {
-      "word": "däl-de",
-      "count": 19
-    },
-    {
-      "word": "hili",
-      "count": 19
-    },
-    {
-      "word": "indi",
-      "count": 19
-    },
-    {
-      "word": "öňki",
-      "count": 19
-    },
-    {
-      "word": "şäher",
-      "count": 19
-    },
-    {
-      "word": "galan",
-      "count": 19
-    },
-    {
-      "word": "alýan",
-      "count": 19
-    },
-    {
-      "word": "gadymy",
-      "count": 19
-    },
-    {
-      "word": "ajaýyp",
-      "count": 19
-    },
-    {
-      "word": "bilýän",
-      "count": 18
-    },
-    {
-      "word": "zat",
-      "count": 18
-    },
-    {
-      "word": "öňünde",
-      "count": 18
-    },
-    {
-      "word": "ýeterlik",
-      "count": 18
-    },
-    {
-      "word": "gezek",
-      "count": 18
-    },
-    {
-      "word": "polisiýa",
-      "count": 18
-    },
-    {
-      "word": "güýçli",
-      "count": 18
-    },
-    {
-      "word": "zerarly",
-      "count": 18
-    },
-    {
-      "word": "doly",
-      "count": 18
-    },
-    {
-      "word": "täzeden",
-      "count": 18
-    },
-    {
-      "word": "sanly",
-      "count": 18
-    },
-    {
-      "word": "bolmak",
-      "count": 18
-    },
-    {
-      "word": "tutuş",
-      "count": 18
-    },
-    {
-      "word": "hereket",
-      "count": 18
-    },
-    {
-      "word": "baş",
-      "count": 17
-    },
-    {
-      "word": "agyr",
-      "count": 17
-    },
-    {
-      "word": "döwründe",
-      "count": 17
-    },
-    {
-      "word": "töweregi",
-      "count": 17
-    },
-    {
-      "word": "sagat",
-      "count": 17
-    },
-    {
-      "word": "gelen",
-      "count": 17
-    },
-    {
-      "word": "üsti",
-      "count": 17
-    },
-    {
-      "word": "çalt",
-      "count": 17
-    },
-    {
-      "word": "çykdy",
-      "count": 17
-    },
-    {
-      "word": "ýeke-täk",
-      "count": 17
-    },
-    {
-      "word": "birleşen",
-      "count": 17
-    },
-    {
-      "word": "berildi",
-      "count": 17
-    },
-    {
-      "word": "ylaýta-da",
-      "count": 17
-    },
-    {
-      "word": "diýilýän",
-      "count": 17
-    },
-    {
-      "word": "üns",
-      "count": 17
-    },
-    {
-      "word": "gezelenç",
-      "count": 17
-    },
-    {
-      "word": "maglumat",
-      "count": 16
-    },
-    {
-      "word": "gelip",
-      "count": 16
-    },
-    {
-      "word": "ýurtda",
-      "count": 16
-    },
-    {
-      "word": "umuman",
-      "count": 16
-    },
-    {
-      "word": "günüň",
-      "count": 16
-    },
-    {
-      "word": "bardy",
-      "count": 16
-    },
-    {
-      "word": "atly",
-      "count": 16
-    },
-    {
-      "word": "ozalky",
-      "count": 16
-    },
-    {
-      "word": "şonuň",
-      "count": 16
-    },
-    {
-      "word": "gelýär",
-      "count": 16
-    },
-    {
-      "word": "aý",
-      "count": 16
-    },
-    {
-      "word": "gündogar",
-      "count": 16
-    },
-    {
-      "word": "ýeňil",
-      "count": 16
-    },
-    {
-      "word": "görkezýär",
-      "count": 16
-    },
-    {
-      "word": "suwuň",
-      "count": 16
-    },
-    {
-      "word": "afrikanyň",
-      "count": 16
-    },
-    {
-      "word": "çagalar",
-      "count": 16
-    },
-    {
-      "word": "onda",
-      "count": 16
-    },
-    {
-      "word": "syýahatçylyk",
-      "count": 16
-    },
-    {
-      "word": "içinde",
-      "count": 15
-    },
-    {
-      "word": "eden",
-      "count": 15
-    },
-    {
-      "word": "lukmançylyk",
-      "count": 15
-    },
-    {
-      "word": "bölegi",
-      "count": 15
-    },
-    {
-      "word": "başlady",
-      "count": 15
-    },
-    {
-      "word": "ýurt",
-      "count": 15
-    },
-    {
-      "word": "gol",
-      "count": 15
-    },
-    {
-      "word": "ýyldaky",
-      "count": 15
-    },
-    {
-      "word": "gowrak",
-      "count": 15
-    },
-    {
-      "word": "gysga",
-      "count": 15
-    },
-    {
-      "word": "üstünde",
-      "count": 15
-    },
-    {
-      "word": "biz",
-      "count": 15
-    },
-    {
-      "word": "wagty",
-      "count": 15
-    },
-    {
-      "word": "alymlar",
-      "count": 15
-    },
-    {
-      "word": "amerikanyň",
-      "count": 15
-    },
-    {
-      "word": "aňladýar",
-      "count": 15
-    },
-    {
-      "word": "giňden",
-      "count": 15
-    },
-    {
-      "word": "topary",
-      "count": 15
-    },
-    {
-      "word": "şäheri",
-      "count": 15
-    },
-    {
-      "word": "bermek",
-      "count": 15
-    },
-    {
-      "word": "meňzeş",
-      "count": 15
-    },
-    {
-      "word": "asyrda",
-      "count": 15
-    },
-    {
-      "word": "öwrenmek",
-      "count": 15
-    },
-    {
-      "word": "aýratyn",
-      "count": 15
-    },
-    {
-      "word": "däldir",
-      "count": 15
-    },
-    {
-      "word": "bolupdyr",
-      "count": 15
-    },
-    {
-      "word": "ýol",
-      "count": 14
-    },
-    {
-      "word": "degişli",
-      "count": 14
-    },
-    {
-      "word": "köpüsi",
-      "count": 14
-    },
-    {
-      "word": "aýyň",
-      "count": 14
-    },
-    {
-      "word": "aslynda",
-      "count": 14
-    },
-    {
-      "word": "edilýän",
-      "count": 14
-    },
-    {
-      "word": "ýaşly",
-      "count": 14
-    },
-    {
-      "word": "ozal",
-      "count": 14
-    },
-    {
-      "word": "gije",
-      "count": 14
-    },
-    {
-      "word": "awstraliýanyň",
-      "count": 14
-    },
-    {
-      "word": "hasap",
-      "count": 14
-    },
-    {
-      "word": "şikes",
-      "count": 14
-    },
-    {
-      "word": "henizem",
-      "count": 14
-    },
-    {
-      "word": "satyn",
-      "count": 14
-    },
-    {
-      "word": "internet",
-      "count": 14
-    },
-    {
-      "word": "ýörite",
-      "count": 14
-    },
-    {
-      "word": "hemme",
-      "count": 14
-    },
-    {
-      "word": "ýerinde",
-      "count": 14
-    },
-    {
-      "word": "ýerleşýär",
-      "count": 14
-    },
-    {
-      "word": "bilelikde",
-      "count": 14
-    },
-    {
-      "word": "etmäge",
-      "count": 14
-    },
-    {
-      "word": "ýakyn",
-      "count": 14
-    },
-    {
-      "word": "aradan",
-      "count": 14
-    },
-    {
-      "word": "söwda",
-      "count": 14
-    },
-    {
-      "word": "mümkindir",
-      "count": 14
-    },
-    {
-      "word": "ybaratdyr",
-      "count": 14
-    },
-    {
-      "word": "garanyňda",
-      "count": 14
-    },
-    {
-      "word": "öňünden",
-      "count": 14
-    },
-    {
-      "word": "ýerlerde",
-      "count": 14
-    },
-    {
-      "word": "berip",
-      "count": 13
-    },
-    {
-      "word": "harby",
-      "count": 13
-    },
-    {
-      "word": "şa",
-      "count": 13
-    },
-    {
-      "word": "türkiýäniň",
-      "count": 13
-    },
-    {
-      "word": "ýurtlaryň",
-      "count": 13
-    },
-    {
-      "word": "tarap",
-      "count": 13
-    },
-    {
-      "word": "görmek",
-      "count": 13
-    },
-    {
-      "word": "ýagny",
-      "count": 13
-    },
-    {
-      "word": "uruş",
-      "count": 13
-    },
-    {
-      "word": "çykyş",
-      "count": 13
-    },
-    {
-      "word": "edilýär",
-      "count": 13
-    },
-    {
-      "word": "nähili",
-      "count": 13
-    },
-    {
-      "word": "müňlerçe",
-      "count": 13
-    },
-    {
-      "word": "dolanyp",
-      "count": 13
-    },
-    {
-      "word": "özüne",
-      "count": 13
-    },
-    {
-      "word": "fiziki",
-      "count": 13
-    },
-    {
-      "word": "şäherinde",
-      "count": 13
-    },
-    {
-      "word": "dünýä",
-      "count": 13
-    },
-    {
-      "word": "eýsem",
-      "count": 13
-    },
-    {
-      "word": "boluň",
-      "count": 13
-    },
-    {
-      "word": "baglanyşykly",
-      "count": 13
-    },
-    {
-      "word": "awtoulag",
-      "count": 13
-    },
-    {
-      "word": "azyndan",
-      "count": 13
-    },
-    {
-      "word": "kyn",
-      "count": 13
-    },
-    {
-      "word": "sport",
-      "count": 13
-    },
-    {
-      "word": "ses",
-      "count": 13
-    },
-    {
-      "word": "pikir",
-      "count": 13
-    },
-    {
-      "word": "ilki",
-      "count": 13
-    },
-    {
-      "word": "orta",
-      "count": 13
-    },
-    {
-      "word": "mysal",
-      "count": 13
-    },
-    {
-      "word": "ulanylýar",
-      "count": 13
-    },
-    {
-      "word": "usuly",
-      "count": 13
-    },
-    {
-      "word": "köne",
-      "count": 13
-    },
-    {
-      "word": "beýik",
-      "count": 12
-    },
-    {
-      "word": "aralygynda",
-      "count": 12
-    },
-    {
-      "word": "amerikan",
-      "count": 12
-    },
-    {
-      "word": "ýurtlarda",
-      "count": 12
-    },
-    {
-      "word": "ýüzünde",
-      "count": 12
-    },
-    {
-      "word": "göni",
-      "count": 12
-    },
-    {
-      "word": "britan",
-      "count": 12
-    },
-    {
-      "word": "dünýäde",
-      "count": 12
-    },
-    {
-      "word": "howpsuzlyk",
-      "count": 12
-    },
-    {
-      "word": "transport",
-      "count": 12
-    },
-    {
-      "word": "jon",
-      "count": 12
-    },
-    {
-      "word": "näme",
-      "count": 12
-    },
-    {
-      "word": "tizlik",
-      "count": 12
-    },
-    {
-      "word": "kazyýet",
-      "count": 12
-    },
-    {
-      "word": "tussag",
-      "count": 12
-    },
-    {
-      "word": "ýeriň",
-      "count": 12
-    },
-    {
-      "word": "başdan",
-      "count": 12
-    },
-    {
-      "word": "toparyň",
-      "count": 12
-    },
-    {
-      "word": "şäheriniň",
-      "count": 12
-    },
-    {
-      "word": "ýüz",
-      "count": 12
-    },
-    {
-      "word": "arasyndaky",
-      "count": 12
-    },
-    {
-      "word": "ýyldan",
-      "count": 12
-    },
-    {
-      "word": "suwasty",
-      "count": 12
-    },
-    {
-      "word": "ep-esli",
-      "count": 12
-    },
-    {
-      "word": "welin",
-      "count": 12
-    },
-    {
-      "word": "ýönekeý",
-      "count": 12
-    },
-    {
-      "word": "adamlary",
-      "count": 12
-    },
-    {
-      "word": "hödürleýär",
-      "count": 12
-    },
-    {
-      "word": "işleýär",
-      "count": 11
-    },
-    {
-      "word": "günbatar",
-      "count": 11
-    },
-    {
-      "word": "at",
-      "count": 11
-    },
-    {
-      "word": "da",
-      "count": 11
-    },
-    {
-      "word": "özi",
-      "count": 11
-    },
-    {
-      "word": "özboluşly",
-      "count": 11
-    },
-    {
-      "word": "ýyllarda",
-      "count": 11
-    },
-    {
-      "word": "ykdysady",
-      "count": 11
-    },
-    {
-      "word": "uniwersitetiniň",
-      "count": 11
-    },
-    {
-      "word": "aýtmagyna",
-      "count": 11
-    },
-    {
-      "word": "diýdi",
-      "count": 11
-    },
-    {
-      "word": "ulanylýan",
-      "count": 11
-    },
-    {
-      "word": "görkezdi",
-      "count": 11
-    },
-    {
-      "word": "bäş",
-      "count": 11
-    },
-    {
-      "word": "howp",
-      "count": 11
-    },
-    {
-      "word": "sag",
-      "count": 11
-    },
-    {
-      "word": "kompaniýasynyň",
-      "count": 11
-    },
-    {
-      "word": "ýaşaýyş",
-      "count": 11
-    },
-    {
-      "word": "içerki",
-      "count": 11
-    },
-    {
-      "word": "eýýäm",
-      "count": 11
-    },
-    {
-      "word": "aldy",
-      "count": 11
-    },
-    {
-      "word": "başlap",
-      "count": 11
-    },
-    {
-      "word": "tebigy",
-      "count": 11
-    },
-    {
-      "word": "bolmadyk",
-      "count": 11
-    },
-    {
-      "word": "seýrek",
-      "count": 11
-    },
-    {
-      "word": "ykrar",
-      "count": 11
-    },
-    {
-      "word": "özüni",
-      "count": 11
-    },
-    {
-      "word": "durnukly",
-      "count": 11
-    },
-    {
-      "word": "minut",
-      "count": 11
-    },
-    {
-      "word": "aýallar",
-      "count": 11
-    },
-    {
-      "word": "ylmy",
-      "count": 11
-    },
-    {
-      "word": "biraz",
-      "count": 11
-    },
-    {
-      "word": "umumy",
-      "count": 11
-    },
-    {
-      "word": "afrika",
-      "count": 11
-    },
-    {
-      "word": "geldi",
-      "count": 11
-    },
-    {
-      "word": "haýwanlar",
-      "count": 11
-    },
-    {
-      "word": "biridir",
-      "count": 11
-    },
-    {
-      "word": "medeni",
-      "count": 11
-    },
-    {
-      "word": "dynç",
-      "count": 11
-    },
-    {
-      "word": "syýahatçylaryň",
-      "count": 11
-    },
-    {
-      "word": "sowuk",
-      "count": 11
-    },
-    {
-      "word": "kesel",
-      "count": 11
-    },
-    {
-      "word": "berilýär",
-      "count": 11
-    },
-    {
-      "word": "laýyk",
-      "count": 11
-    },
-    {
-      "word": "pul",
-      "count": 11
-    },
-    {
-      "word": "hususy",
-      "count": 10
-    },
-    {
-      "word": "ene",
-      "count": 10
-    },
-    {
-      "word": "ýeňiş",
-      "count": 10
-    },
-    {
-      "word": "taryhy",
-      "count": 10
-    },
-    {
-      "word": "müň",
-      "count": 10
-    },
-    {
-      "word": "esse",
-      "count": 10
-    },
-    {
-      "word": "ýetdi",
-      "count": 10
-    },
-    {
-      "word": "başynda",
-      "count": 10
-    },
-    {
-      "word": "syýasy",
-      "count": 10
-    },
-    {
-      "word": "çaga",
-      "count": 10
-    },
-    {
-      "word": "döwürde",
-      "count": 10
-    },
-    {
-      "word": "dogry",
-      "count": 10
-    },
-    {
-      "word": "zatlary",
-      "count": 10
-    },
-    {
-      "word": "geçýär",
-      "count": 10
-    },
-    {
-      "word": "diýmegi",
-      "count": 10
-    },
-    {
-      "word": "utuk",
-      "count": 10
-    },
-    {
-      "word": "berýän",
-      "count": 10
-    },
-    {
-      "word": "käbirleri",
-      "count": 10
-    },
-    {
-      "word": "almaga",
-      "count": 10
-    },
-    {
-      "word": "toparynyň",
-      "count": 10
-    },
-    {
-      "word": "el",
-      "count": 10
-    },
-    {
-      "word": "çykyp",
-      "count": 10
-    },
-    {
-      "word": "kanun",
-      "count": 10
-    },
-    {
-      "word": "bolansoň",
-      "count": 10
-    },
-    {
-      "word": "bikanun",
-      "count": 10
-    },
-    {
-      "word": "şeýle-de",
-      "count": 10
-    },
-    {
-      "word": "görnüşi",
-      "count": 10
-    },
-    {
-      "word": "üstünden",
-      "count": 10
-    },
-    {
-      "word": "federal",
-      "count": 10
-    },
-    {
-      "word": "zerur",
-      "count": 10
-    },
-    {
-      "word": "etmegi",
-      "count": 10
-    },
-    {
-      "word": "guramasy",
-      "count": 10
-    },
-    {
-      "word": "yşyk",
-      "count": 10
-    },
-    {
-      "word": "ýerleri",
-      "count": 10
-    },
-    {
-      "word": "adamlara",
-      "count": 10
-    },
-    {
-      "word": "zady",
-      "count": 10
-    },
-    {
-      "word": "sähelçe",
-      "count": 10
-    },
-    {
-      "word": "ýagdaýy",
-      "count": 10
-    },
-    {
-      "word": "adama",
-      "count": 10
-    },
-    {
-      "word": "hyzmat",
-      "count": 10
-    },
-    {
-      "word": "baha",
-      "count": 10
-    },
-    {
-      "word": "paýtagty",
-      "count": 10
-    },
-    {
-      "word": "bardygyny",
-      "count": 10
-    },
-    {
-      "word": "daşyndan",
-      "count": 10
-    },
-    {
-      "word": "hindi",
-      "count": 10
-    },
-    {
-      "word": "saklamak",
-      "count": 10
-    },
-    {
-      "word": "käte",
-      "count": 10
-    },
-    {
-      "word": "çekýär",
-      "count": 10
-    },
-    {
-      "word": "ýaş",
-      "count": 10
-    },
-    {
-      "word": "bolmaýar",
-      "count": 10
-    },
-    {
-      "word": "ulanmak",
-      "count": 10
-    },
-    {
-      "word": "elýeterli",
-      "count": 10
-    },
-    {
-      "word": "başgaça",
-      "count": 10
-    },
-    {
-      "word": "wiza",
-      "count": 10
-    },
-    {
-      "word": "mm",
-      "count": 10
-    },
-    {
-      "word": "çünki",
-      "count": 10
-    },
-    {
-      "word": "fransuz",
-      "count": 10
-    },
-    {
-      "word": "gazandy",
-      "count": 9
-    },
-    {
-      "word": "sürdi",
-      "count": 9
-    },
-    {
-      "word": "goýlan",
-      "count": 9
-    },
-    {
-      "word": "käwagt",
-      "count": 9
-    },
-    {
-      "word": "geçirilen",
-      "count": 9
-    },
-    {
-      "word": "netijesinde",
-      "count": 9
-    },
-    {
-      "word": "türk",
-      "count": 9
-    },
-    {
-      "word": "ýygy-ýygydan",
-      "count": 9
-    },
-    {
-      "word": "tapyldy",
-      "count": 9
-    },
-    {
-      "word": "ýarym",
-      "count": 9
-    },
-    {
-      "word": "wagtynda",
-      "count": 9
-    },
-    {
-      "word": "özüniň",
-      "count": 9
-    },
-    {
-      "word": "irki",
-      "count": 9
-    },
-    {
-      "word": "irden",
-      "count": 9
-    },
-    {
-      "word": "maliýe",
-      "count": 9
-    },
-    {
-      "word": "kanuny",
-      "count": 9
-    },
-    {
-      "word": "gara",
-      "count": 9
-    },
-    {
-      "word": "sagatda",
-      "count": 9
-    },
-    {
-      "word": "astynda",
-      "count": 9
-    },
-    {
-      "word": "işi",
-      "count": 9
-    },
-    {
-      "word": "görnüşinde",
-      "count": 9
-    },
-    {
-      "word": "üstüni",
-      "count": 9
-    },
-    {
-      "word": "teklip",
-      "count": 9
-    },
-    {
-      "word": "ýaşaýan",
-      "count": 9
-    },
-    {
-      "word": "hepde",
-      "count": 9
-    },
-    {
-      "word": "guş",
-      "count": 9
-    },
-    {
-      "word": "duş",
-      "count": 9
-    },
-    {
-      "word": "geçirmek",
-      "count": 9
-    },
-    {
-      "word": "golaýynda",
-      "count": 9
-    },
-    {
-      "word": "zeper",
-      "count": 9
-    },
-    {
-      "word": "ýeten",
-      "count": 9
-    },
-    {
-      "word": "gelýän",
-      "count": 9
-    },
-    {
-      "word": "galýar",
-      "count": 9
-    },
-    {
-      "word": "harby-deňiz",
-      "count": 9
-    },
-    {
-      "word": "howpsuz",
-      "count": 9
-    },
-    {
-      "word": "gämi",
-      "count": 9
-    },
-    {
-      "word": "synag",
-      "count": 9
-    },
-    {
-      "word": "italiýanyň",
-      "count": 9
-    },
-    {
-      "word": "hytaýyň",
-      "count": 9
-    },
-    {
-      "word": "jaň",
-      "count": 9
-    },
-    {
-      "word": "komitetiniň",
-      "count": 9
-    },
-    {
-      "word": "geçdi",
-      "count": 9
-    },
-    {
-      "word": "bolandygyny",
-      "count": 9
-    },
-    {
-      "word": "birgiden",
-      "count": 9
-    },
-    {
-      "word": "wideo",
-      "count": 9
-    },
-    {
-      "word": "bardygy",
-      "count": 9
-    },
-    {
-      "word": "jahan",
-      "count": 9
-    },
-    {
-      "word": "dili",
-      "count": 9
-    },
-    {
-      "word": "dilini",
-      "count": 9
-    },
-    {
-      "word": "ispan",
-      "count": 9
-    },
-    {
-      "word": "ýaýran",
-      "count": 9
-    },
-    {
-      "word": "bolmaly",
-      "count": 9
-    },
-    {
-      "word": "diýseň",
-      "count": 9
-    },
-    {
-      "word": "nemes",
-      "count": 9
-    },
-    {
-      "word": "çäkli",
-      "count": 9
-    },
-    {
-      "word": "göterimi",
-      "count": 9
-    },
-    {
-      "word": "arzan",
-      "count": 9
-    },
-    {
-      "word": "giň",
-      "count": 9
-    },
-    {
-      "word": "dini",
-      "count": 9
-    },
-    {
-      "word": "ybadathana",
-      "count": 9
-    },
-    {
-      "word": "bolmasa-da",
-      "count": 9
-    },
-    {
-      "word": "geçýän",
-      "count": 9
-    },
-    {
-      "word": "bütindünýä",
-      "count": 9
-    },
-    {
-      "word": "usulydyr",
-      "count": 9
-    },
-    {
-      "word": "kert",
-      "count": 9
-    },
-    {
-      "word": "howply",
-      "count": 9
-    },
-    {
-      "word": "size",
-      "count": 9
-    },
-    {
-      "word": "gar",
-      "count": 9
-    },
-    {
-      "word": "hakynda",
-      "count": 8
-    },
-    {
-      "word": "ýörgünli",
-      "count": 8
-    },
-    {
-      "word": "döwlet",
-      "count": 8
-    },
-    {
-      "word": "işjeň",
-      "count": 8
-    },
-    {
-      "word": "raýat",
-      "count": 8
-    },
-    {
-      "word": "hökümeti",
-      "count": 8
-    },
-    {
-      "word": "laýyklykda",
-      "count": 8
-    },
-    {
-      "word": "the",
-      "count": 8
-    },
-    {
-      "word": "indiki",
-      "count": 8
-    },
-    {
-      "word": "süýdi",
-      "count": 8
-    },
-    {
-      "word": "sarp",
-      "count": 8
-    },
-    {
-      "word": "maslahat",
-      "count": 8
-    },
-    {
-      "word": "iýmit",
-      "count": 8
-    },
-    {
-      "word": "häzir",
-      "count": 8
-    },
-    {
-      "word": "ulanyp",
-      "count": 8
-    },
-    {
-      "word": "aşaky",
-      "count": 8
-    },
-    {
-      "word": "kiçijik",
-      "count": 8
-    },
-    {
-      "word": "eltip",
-      "count": 8
-    },
-    {
-      "word": "baý",
-      "count": 8
-    },
-    {
-      "word": "geçirildi",
-      "count": 8
-    },
-    {
-      "word": "adalarynyň",
-      "count": 8
-    },
-    {
-      "word": "hasaba",
-      "count": 8
-    },
-    {
-      "word": "alnan",
-      "count": 8
-    },
-    {
-      "word": "çekdi",
-      "count": 8
-    },
-    {
-      "word": "ýedi",
-      "count": 8
-    },
-    {
-      "word": "alyş",
-      "count": 8
-    },
-    {
-      "word": "aýynda",
-      "count": 8
-    },
-    {
-      "word": "berlen",
-      "count": 8
-    },
-    {
-      "word": "ýadro",
-      "count": 8
-    },
-    {
-      "word": "boldugyça",
-      "count": 8
-    },
-    {
-      "word": "çykan",
-      "count": 8
-    },
-    {
-      "word": "iri",
-      "count": 8
-    },
-    {
-      "word": "işgäri",
-      "count": 8
-    },
-    {
-      "word": "grek",
-      "count": 8
-    },
-    {
-      "word": "ýaramaz",
-      "count": 8
-    },
-    {
-      "word": "şahsy",
-      "count": 8
-    },
-    {
-      "word": "alty",
-      "count": 8
-    },
-    {
-      "word": "tamamlady",
-      "count": 8
-    },
-    {
-      "word": "halas",
-      "count": 8
-    },
-    {
-      "word": "möçberde",
-      "count": 8
-    },
-    {
-      "word": "habarlar",
-      "count": 8
-    },
-    {
-      "word": "goşun",
-      "count": 8
-    },
-    {
-      "word": "barlag",
-      "count": 8
-    },
-    {
-      "word": "ulgamynyň",
-      "count": 8
-    },
-    {
-      "word": "aşa",
-      "count": 8
-    },
-    {
-      "word": "zyýan",
-      "count": 8
-    },
-    {
-      "word": "neşir",
-      "count": 8
-    },
-    {
-      "word": "hasaplanýar",
-      "count": 8
-    },
-    {
-      "word": "bolmagynda",
-      "count": 8
-    },
-    {
-      "word": "ýokarky",
-      "count": 8
-    },
-    {
-      "word": "goramak",
-      "count": 8
-    },
-    {
-      "word": "çynlakaý",
-      "count": 8
-    },
-    {
-      "word": "gaz",
-      "count": 8
-    },
-    {
-      "word": "megerem",
-      "count": 8
-    },
-    {
-      "word": "bolşy",
-      "count": 8
-    },
-    {
-      "word": "bize",
-      "count": 8
-    },
-    {
-      "word": "garaşsyz",
-      "count": 8
-    },
-    {
-      "word": "gündelik",
-      "count": 8
-    },
-    {
-      "word": "guramanyň",
-      "count": 8
-    },
-    {
-      "word": "etmegiň",
-      "count": 8
-    },
-    {
-      "word": "işleýän",
-      "count": 8
-    },
-    {
-      "word": "maşgala",
-      "count": 8
-    },
-    {
-      "word": "iňlis",
-      "count": 8
-    },
-    {
-      "word": "diliniň",
-      "count": 8
-    },
-    {
-      "word": "dil",
-      "count": 8
-    },
-    {
-      "word": "zatlaryň",
-      "count": 8
-    },
-    {
-      "word": "ýokdur",
-      "count": 8
-    },
-    {
-      "word": "daşky",
-      "count": 8
-    },
-    {
-      "word": "wagtlap",
-      "count": 8
-    },
-    {
-      "word": "germaniýa",
-      "count": 8
-    },
-    {
-      "word": "şeýlelikde",
-      "count": 8
-    },
-    {
-      "word": "mejbur",
-      "count": 8
-    },
-    {
-      "word": "demirgazykda",
-      "count": 8
-    },
-    {
-      "word": "çykarmaň",
-      "count": 8
-    },
-    {
-      "word": "düşünmek",
-      "count": 8
-    },
-    {
-      "word": "özlerini",
-      "count": 8
-    },
-    {
-      "word": "emeli",
-      "count": 8
-    },
-    {
-      "word": "syýahatçylar",
-      "count": 8
-    },
-    {
-      "word": "özüňi",
-      "count": 8
-    },
-    {
-      "word": "tapmak",
-      "count": 8
-    },
-    {
-      "word": "şoňa",
-      "count": 8
-    },
-    {
-      "word": "bary-ýogy",
-      "count": 8
-    },
-    {
-      "word": "telefon",
-      "count": 8
-    },
-    {
-      "word": "pyýada",
-      "count": 8
-    },
-    {
-      "word": "munuň",
-      "count": 8
-    },
-    {
-      "word": "ulag",
-      "count": 8
-    },
-    {
-      "word": "wirtual",
-      "count": 8
-    },
-    {
-      "word": "barlaň",
-      "count": 8
-    },
-    {
-      "word": "lyžada",
-      "count": 8
-    },
-    {
-      "word": "sunami",
-      "count": 8
-    },
-    {
-      "word": "yza",
-      "count": 8
-    },
-    {
-      "word": "ýiti",
-      "count": 7
-    },
-    {
-      "word": "ýyllyk",
-      "count": 7
-    },
-    {
-      "word": "bolmagyna",
-      "count": 7
-    },
-    {
-      "word": "biljek",
-      "count": 7
-    },
-    {
-      "word": "ýaponiýa",
-      "count": 7
-    },
-    {
-      "word": "standart",
-      "count": 7
-    },
-    {
-      "word": "diri",
-      "count": 7
-    },
-    {
-      "word": "de",
-      "count": 7
-    },
-    {
-      "word": "deň",
-      "count": 7
-    },
-    {
-      "word": "arassa",
-      "count": 7
-    },
-    {
-      "word": "hukuk",
-      "count": 7
-    },
-    {
-      "word": "muny",
-      "count": 7
-    },
-    {
-      "word": "kompaniýanyň",
-      "count": 7
-    },
-    {
-      "word": "pakistanyň",
-      "count": 7
-    },
-    {
-      "word": "rugsat",
-      "count": 7
-    },
-    {
-      "word": "geçiren",
-      "count": 7
-    },
-    {
-      "word": "orny",
-      "count": 7
-    },
-    {
-      "word": "sungat",
-      "count": 7
-    },
-    {
-      "word": "geçensoň",
-      "count": 7
-    },
-    {
-      "word": "adyny",
-      "count": 7
-    },
-    {
-      "word": "takyk",
-      "count": 7
-    },
-    {
-      "word": "jenap",
-      "count": 7
-    },
-    {
-      "word": "bilim",
-      "count": 7
-    },
-    {
-      "word": "sürýär",
-      "count": 7
-    },
-    {
-      "word": "haýsydyr",
-      "count": 7
-    },
-    {
-      "word": "surata",
-      "count": 7
-    },
-    {
-      "word": "üçünji",
-      "count": 7
-    },
-    {
-      "word": "global",
-      "count": 7
-    },
-    {
-      "word": "başardy",
-      "count": 7
-    },
-    {
-      "word": "wagtlaýyn",
-      "count": 7
-    },
-    {
-      "word": "karar",
-      "count": 7
-    },
-    {
-      "word": "kompýuter",
-      "count": 7
-    },
-    {
-      "word": "işe",
-      "count": 7
-    },
-    {
-      "word": "amatly",
-      "count": 7
-    },
-    {
-      "word": "edýärler",
-      "count": 7
-    },
-    {
-      "word": "topar",
-      "count": 7
-    },
-    {
-      "word": "dolandyryş",
-      "count": 7
-    },
-    {
-      "word": "ilkibaşda",
-      "count": 7
-    },
-    {
-      "word": "başga-da",
-      "count": 7
-    },
-    {
-      "word": "orunda",
-      "count": 7
-    },
-    {
-      "word": "ýyly",
-      "count": 7
-    },
-    {
-      "word": "şertleri",
-      "count": 7
-    },
-    {
-      "word": "onçakly",
-      "count": 7
-    },
-    {
-      "word": "şäherine",
-      "count": 7
-    },
-    {
-      "word": "sowet",
-      "count": 7
-    },
-    {
-      "word": "nebit",
-      "count": 7
-    },
-    {
-      "word": "çarşenbe",
-      "count": 7
-    },
-    {
-      "word": "ýerlerinde",
-      "count": 7
-    },
-    {
-      "word": "ýaponiýanyň",
-      "count": 7
-    },
-    {
-      "word": "garamazdan",
-      "count": 7
-    },
-    {
-      "word": "duýduryş",
-      "count": 7
-    },
-    {
-      "word": "öňüne",
-      "count": 7
-    },
-    {
-      "word": "jemi",
-      "count": 7
-    },
-    {
-      "word": "dilinde",
-      "count": 7
-    },
-    {
-      "word": "kilometr",
-      "count": 7
+      "word": "bagly",
+      "count": 39
     },
     {
       "word": "hüjüm",
-      "count": 7
+      "count": 39
     },
     {
-      "word": "biziň",
-      "count": 7
+      "word": "goşmaça",
+      "count": 39
     },
     {
-      "word": "üýtgeşik",
-      "count": 7
+      "word": "süýümiñ",
+      "count": 39
     },
     {
-      "word": "düşürmek",
-      "count": 7
-    },
-    {
-      "word": "kim",
-      "count": 7
-    },
-    {
-      "word": "görnüşleri",
-      "count": 7
-    },
-    {
-      "word": "garaňky",
-      "count": 7
-    },
-    {
-      "word": "ady",
-      "count": 7
-    },
-    {
-      "word": "jogap",
-      "count": 7
-    },
-    {
-      "word": "prezidenti",
-      "count": 7
-    },
-    {
-      "word": "hökümet",
-      "count": 7
-    },
-    {
-      "word": "görmäge",
-      "count": 7
-    },
-    {
-      "word": "öňüni",
-      "count": 7
-    },
-    {
-      "word": "potensial",
-      "count": 7
-    },
-    {
-      "word": "metr",
-      "count": 7
-    },
-    {
-      "word": "okuw",
-      "count": 7
-    },
-    {
-      "word": "güne",
-      "count": 7
-    },
-    {
-      "word": "atlantik",
-      "count": 7
-    },
-    {
-      "word": "ýyla",
-      "count": 7
-    },
-    {
-      "word": "ahyrynda",
-      "count": 7
-    },
-    {
-      "word": "elbetde",
-      "count": 7
-    },
-    {
-      "word": "seresap",
-      "count": 7
-    },
-    {
-      "word": "sizi",
-      "count": 7
-    },
-    {
-      "word": "berk",
-      "count": 7
-    },
-    {
-      "word": "ybarat",
-      "count": 7
-    },
-    {
-      "word": "patyşa",
-      "count": 7
-    },
-    {
-      "word": "çylşyrymly",
-      "count": 7
-    },
-    {
-      "word": "ada",
-      "count": 7
-    },
-    {
-      "word": "köpüsinde",
-      "count": 7
-    },
-    {
-      "word": "baglylykda",
-      "count": 7
-    },
-    {
-      "word": "agzasy",
-      "count": 7
-    },
-    {
-      "word": "kwadrat",
-      "count": 7
-    },
-    {
-      "word": "hemişe",
-      "count": 7
-    },
-    {
-      "word": "gözel",
-      "count": 7
-    },
-    {
-      "word": "weýran",
-      "count": 7
-    },
-    {
-      "word": "däpleýin",
-      "count": 7
-    },
-    {
-      "word": "aşak",
-      "count": 7
-    },
-    {
-      "word": "berjaý",
-      "count": 7
-    },
-    {
-      "word": "rim",
-      "count": 7
-    },
-    {
-      "word": "aňsat",
-      "count": 7
-    },
-    {
-      "word": "wagtyňyz",
-      "count": 7
-    },
-    {
-      "word": "peýda",
-      "count": 7
-    },
-    {
-      "word": "beýlekiler",
-      "count": 7
-    },
-    {
-      "word": "haýwanlaryň",
-      "count": 7
-    },
-    {
-      "word": "wagtyň",
-      "count": 7
-    },
-    {
-      "word": "barha",
-      "count": 7
-    },
-    {
-      "word": "geçirilýär",
-      "count": 7
-    },
-    {
-      "word": "usullary",
-      "count": 7
-    },
-    {
-      "word": "isleýän",
-      "count": 7
-    },
-    {
-      "word": "ýeke",
-      "count": 7
-    },
-    {
-      "word": "öwreniş",
-      "count": 7
-    },
-    {
-      "word": "hemra",
-      "count": 7
-    },
-    {
-      "word": "howpy",
-      "count": 7
-    },
-    {
-      "word": "syýahatçy",
-      "count": 7
-    },
-    {
-      "word": "dag",
-      "count": 7
-    },
-    {
-      "word": "garaşsyzlyk",
-      "count": 7
-    },
-    {
-      "word": "berer",
-      "count": 7
-    },
-    {
-      "word": "isleseňiz",
-      "count": 7
-    },
-    {
-      "word": "kenarýaka",
-      "count": 7
-    },
-    {
-      "word": "bolandygy",
-      "count": 7
-    },
-    {
-      "word": "super-g",
-      "count": 7
-    },
-    {
-      "word": "piramida",
-      "count": 7
-    },
-    {
-      "word": "ýardam",
-      "count": 6
-    },
-    {
-      "word": "abş",
-      "count": 6
-    },
-    {
-      "word": "asyryň",
-      "count": 6
-    },
-    {
-      "word": "ýazylan",
-      "count": 6
-    },
-    {
-      "word": "ykdysadyýeti",
-      "count": 6
-    },
-    {
-      "word": "daşarky",
-      "count": 6
-    },
-    {
-      "word": "çaganyň",
-      "count": 6
-    },
-    {
-      "word": "alnyp",
-      "count": 6
-    },
-    {
-      "word": "erkin",
-      "count": 6
-    },
-    {
-      "word": "zähmet",
-      "count": 6
-    },
-    {
-      "word": "duşenbe",
-      "count": 6
-    },
-    {
-      "word": "ir",
-      "count": 6
-    },
-    {
-      "word": "uçuş",
-      "count": 6
-    },
-    {
-      "word": "gaýdyp",
-      "count": 6
-    },
-    {
-      "word": "saýlaw",
-      "count": 6
-    },
-    {
-      "word": "hytaý",
-      "count": 6
-    },
-    {
-      "word": "günki",
-      "count": 6
-    },
-    {
-      "word": "şäherde",
-      "count": 6
-    },
-    {
-      "word": "seýilgähi",
-      "count": 6
-    },
-    {
-      "word": "uzaklykda",
-      "count": 6
-    },
-    {
-      "word": "oýlanyp",
-      "count": 6
-    },
-    {
-      "word": "günortasynda",
-      "count": 6
-    },
-    {
-      "word": "şäherindäki",
-      "count": 6
-    },
-    {
-      "word": "girdeji",
-      "count": 6
-    },
-    {
-      "word": "aýyplama",
-      "count": 6
-    },
-    {
-      "word": "maksady",
-      "count": 6
-    },
-    {
-      "word": "premýer-ministr",
-      "count": 6
-    },
-    {
-      "word": "goldaw",
-      "count": 6
-    },
-    {
-      "word": "alada",
-      "count": 6
-    },
-    {
-      "word": "işlemek",
-      "count": 6
-    },
-    {
-      "word": "çykarmak",
-      "count": 6
-    },
-    {
-      "word": "kän",
-      "count": 6
-    },
-    {
-      "word": "jaý",
-      "count": 6
-    },
-    {
-      "word": "aýdyp",
-      "count": 6
-    },
-    {
-      "word": "jemgyýetçilik",
-      "count": 6
-    },
-    {
-      "word": "kompaniýasy",
-      "count": 6
-    },
-    {
-      "word": "edilmegi",
-      "count": 6
-    },
-    {
-      "word": "dik",
-      "count": 6
-    },
-    {
-      "word": "aňladýan",
-      "count": 6
-    },
-    {
-      "word": "adatdan",
-      "count": 6
-    },
-    {
-      "word": "ediş",
-      "count": 6
-    },
-    {
-      "word": "erbet",
-      "count": 6
-    },
-    {
-      "word": "başlandy",
-      "count": 6
-    },
-    {
-      "word": "uçar",
-      "count": 6
-    },
-    {
-      "word": "elektrik",
-      "count": 6
-    },
-    {
-      "word": "ştatlarynyň",
-      "count": 6
-    },
-    {
-      "word": "garaşylýar",
-      "count": 6
-    },
-    {
-      "word": "ösen",
-      "count": 6
-    },
-    {
-      "word": "boljak",
-      "count": 6
-    },
-    {
-      "word": "hindistan",
-      "count": 6
-    },
-    {
-      "word": "esaslanýar",
-      "count": 6
-    },
-    {
-      "word": "aragatnaşyk",
-      "count": 6
-    },
-    {
-      "word": "onlaýn",
-      "count": 6
-    },
-    {
-      "word": "çeken",
-      "count": 6
-    },
-    {
-      "word": "general",
-      "count": 6
-    },
-    {
-      "word": "jyns",
-      "count": 6
-    },
-    {
-      "word": "wekili",
-      "count": 6
-    },
-    {
-      "word": "gyzyl",
-      "count": 6
-    },
-    {
-      "word": "deňiz",
-      "count": 6
-    },
-    {
-      "word": "ýetip",
-      "count": 6
-    },
-    {
-      "word": "himiki",
-      "count": 6
-    },
-    {
-      "word": "bäşinji",
-      "count": 6
-    },
-    {
-      "word": "ýaryşy",
-      "count": 6
-    },
-    {
-      "word": "gaýykly",
-      "count": 6
-    },
-    {
-      "word": "ýagdaýda",
-      "count": 6
-    },
-    {
-      "word": "çykýan",
-      "count": 6
-    },
-    {
-      "word": "mesele",
-      "count": 6
-    },
-    {
-      "word": "arkaýyn",
-      "count": 6
-    },
-    {
-      "word": "bölegini",
-      "count": 6
-    },
-    {
-      "word": "şondan",
-      "count": 6
-    },
-    {
-      "word": "esasynda",
-      "count": 6
-    },
-    {
-      "word": "bolýardy",
-      "count": 6
-    },
-    {
-      "word": "bolmaz",
-      "count": 6
-    },
-    {
-      "word": "sişenbe",
-      "count": 6
-    },
-    {
-      "word": "düýn",
-      "count": 6
-    },
-    {
-      "word": "öý",
-      "count": 6
-    },
-    {
-      "word": "öýde",
-      "count": 6
-    },
-    {
-      "word": "golaý",
-      "count": 6
-    },
-    {
-      "word": "regbi",
-      "count": 6
-    },
-    {
-      "word": "meniň",
-      "count": 6
-    },
-    {
-      "word": "energiýa",
-      "count": 6
-    },
-    {
-      "word": "täsirleri",
-      "count": 6
-    },
-    {
-      "word": "açdy",
-      "count": 6
-    },
-    {
-      "word": "funt",
-      "count": 6
-    },
-    {
-      "word": "geň",
-      "count": 6
-    },
-    {
-      "word": "görüp",
-      "count": 6
-    },
-    {
-      "word": "hindistanyň",
-      "count": 6
-    },
-    {
-      "word": "daşynda",
-      "count": 6
-    },
-    {
-      "word": "ýaryşynyň",
-      "count": 6
-    },
-    {
-      "word": "gullugy",
-      "count": 6
-    },
-    {
-      "word": "ýerdäki",
-      "count": 6
-    },
-    {
-      "word": "ştatynyň",
-      "count": 6
-    },
-    {
-      "word": "germaniýanyň",
-      "count": 6
-    },
-    {
-      "word": "gürrüňsiz",
-      "count": 6
-    },
-    {
-      "word": "ýapon",
-      "count": 6
-    },
-    {
-      "word": "sözler",
-      "count": 6
-    },
-    {
-      "word": "galdy",
-      "count": 6
-    },
-    {
-      "word": "italýan",
-      "count": 6
-    },
-    {
-      "word": "ulgamy",
-      "count": 6
-    },
-    {
-      "word": "enjamlar",
-      "count": 6
-    },
-    {
-      "word": "ahyrsoňy",
-      "count": 6
-    },
-    {
-      "word": "getirýär",
-      "count": 6
-    },
-    {
-      "word": "böleginiň",
-      "count": 6
-    },
-    {
-      "word": "çalym",
-      "count": 6
-    },
-    {
-      "word": "diýmek",
-      "count": 6
-    },
-    {
-      "word": "göçüp",
-      "count": 6
-    },
-    {
-      "word": "häzirkizaman",
-      "count": 6
-    },
-    {
-      "word": "basyp",
-      "count": 6
-    },
-    {
-      "word": "urşunda",
-      "count": 6
-    },
-    {
-      "word": "näçe",
-      "count": 6
-    },
-    {
-      "word": "düşünip",
-      "count": 6
-    },
-    {
-      "word": "ýurda",
-      "count": 6
-    },
-    {
-      "word": "deňzi",
-      "count": 6
-    },
-    {
-      "word": "uzyn",
-      "count": 6
-    },
-    {
-      "word": "haýran",
-      "count": 6
-    },
-    {
-      "word": "ýerleriniň",
-      "count": 6
-    },
-    {
-      "word": "üstüne",
-      "count": 6
-    },
-    {
-      "word": "ýetýän",
-      "count": 6
-    },
-    {
-      "word": "düşünje",
-      "count": 6
-    },
-    {
-      "word": "yzyna",
-      "count": 6
-    },
-    {
-      "word": "dikeltmek",
-      "count": 6
-    },
-    {
-      "word": "derýasynyň",
-      "count": 6
-    },
-    {
-      "word": "görkezmek",
-      "count": 6
-    },
-    {
-      "word": "okuwçylar",
-      "count": 6
-    },
-    {
-      "word": "tomaşa",
-      "count": 6
-    },
-    {
-      "word": "belkem",
-      "count": 6
-    },
-    {
-      "word": "tapawutly",
-      "count": 6
-    },
-    {
-      "word": "bolmalydyr",
-      "count": 6
-    },
-    {
-      "word": "gyşda",
-      "count": 6
-    },
-    {
-      "word": "netijeli",
-      "count": 6
-    },
-    {
-      "word": "lezzet",
-      "count": 6
-    },
-    {
-      "word": "populýasiýa",
-      "count": 6
-    },
-    {
-      "word": "meselem",
-      "count": 6
-    },
-    {
-      "word": "ak",
-      "count": 6
-    },
-    {
-      "word": "awtoulagyň",
-      "count": 6
-    },
-    {
-      "word": "üstesine",
-      "count": 6
-    },
-    {
-      "word": "gaça",
-      "count": 6
-    },
-    {
-      "word": "gelmegi",
-      "count": 6
-    },
-    {
-      "word": "almagy",
-      "count": 6
-    },
-    {
-      "word": "etmeýär",
-      "count": 6
-    },
-    {
-      "word": "görünýär",
-      "count": 6
-    },
-    {
-      "word": "ýolagçy",
-      "count": 6
-    },
-    {
-      "word": "çäginde",
-      "count": 6
-    },
-    {
-      "word": "zatlar",
-      "count": 6
-    },
-    {
-      "word": "oturan",
-      "count": 6
-    },
-    {
-      "word": "ýöriş",
-      "count": 6
-    },
-    {
-      "word": "ýuwaş",
-      "count": 6
-    },
-    {
-      "word": "okeanyň",
-      "count": 6
-    },
-    {
-      "word": "ýatalga",
-      "count": 6
-    },
-    {
-      "word": "ýapyk",
-      "count": 6
-    },
-    {
-      "word": "tebigat",
-      "count": 6
-    },
-    {
-      "word": "gurşaw",
-      "count": 6
-    },
-    {
-      "word": "degişlidir",
-      "count": 6
-    },
-    {
-      "word": "howada",
-      "count": 6
-    },
-    {
-      "word": "gezelençleri",
-      "count": 6
-    },
-    {
-      "word": "ýagdaýlarda",
-      "count": 6
-    },
-    {
-      "word": "ölüm",
-      "count": 6
-    },
-    {
-      "word": "salgyt",
-      "count": 6
-    },
-    {
-      "word": "ýagdaýyna",
-      "count": 6
-    },
-    {
-      "word": "hemmesi",
-      "count": 6
-    },
-    {
-      "word": "jynsy",
-      "count": 6
-    },
-    {
-      "word": "aýallaryň",
-      "count": 6
-    },
-    {
-      "word": "köpçülikleýin",
-      "count": 6
-    },
-    {
-      "word": "ýaryşda",
-      "count": 6
-    },
-    {
-      "word": "oturma",
-      "count": 6
-    },
-    {
-      "word": "toparyny",
-      "count": 6
-    },
-    {
-      "word": "öýdeçi",
-      "count": 6
-    },
-    {
-      "word": "gazaply",
-      "count": 6
+      "word": "ýola",
+      "count": 38
     },
     {
       "word": "çeşme",
-      "count": 5
+      "count": 38
     },
     {
-      "word": "ýyllap",
-      "count": 5
+      "word": "pars",
+      "count": 38
     },
     {
-      "word": "yzyndan",
-      "count": 5
+      "word": "goramak",
+      "count": 38
     },
     {
-      "word": "serediň",
-      "count": 5
+      "word": "ençeme",
+      "count": 38
     },
     {
-      "word": "den",
-      "count": 5
+      "word": "kilometre",
+      "count": 38
     },
     {
-      "word": "pa",
-      "count": 5
+      "word": "ekerançylyk",
+      "count": 38
     },
     {
-      "word": "ra",
-      "count": 5
+      "word": "häzir",
+      "count": 38
     },
     {
-      "word": "hepdäniň",
-      "count": 5
+      "word": "daş",
+      "count": 38
     },
     {
-      "word": "öwrülýär",
-      "count": 5
+      "word": "özünde",
+      "count": 38
     },
     {
-      "word": "ýyllaryň",
-      "count": 5
+      "word": "baglanyşykly",
+      "count": 38
     },
     {
-      "word": "içindäki",
-      "count": 5
+      "word": "fizika",
+      "count": 38
     },
     {
-      "word": "doglan",
-      "count": 5
+      "word": "kanun",
+      "count": 38
     },
     {
-      "word": "oňat",
-      "count": 5
+      "word": "hin",
+      "count": 38
     },
     {
-      "word": "mukdarda",
-      "count": 5
+      "word": "haýwanlaryň",
+      "count": 38
+    },
+    {
+      "word": "gozgalaň",
+      "count": 38
+    },
+    {
+      "word": "oguzlaryň",
+      "count": 38
+    },
+    {
+      "word": "informatika",
+      "count": 37
+    },
+    {
+      "word": "nemes",
+      "count": 37
+    },
+    {
+      "word": "elektrik",
+      "count": 37
+    },
+    {
+      "word": "özboluşly",
+      "count": 37
+    },
+    {
+      "word": "soltany",
+      "count": 37
+    },
+    {
+      "word": "üns",
+      "count": 37
+    },
+    {
+      "word": "gabat",
+      "count": 37
+    },
+    {
+      "word": "koreýa",
+      "count": 37
+    },
+    {
+      "word": "siriýa",
+      "count": 37
+    },
+    {
+      "word": "derýasy",
+      "count": 37
+    },
+    {
+      "word": "administratiw",
+      "count": 37
+    },
+    {
+      "word": "ýagdaýda",
+      "count": 37
+    },
+    {
+      "word": "adamlary",
+      "count": 37
+    },
+    {
+      "word": "in",
+      "count": 37
+    },
+    {
+      "word": "ki",
+      "count": 37
+    },
+    {
+      "word": "çünki",
+      "count": 37
+    },
+    {
+      "word": "goraghana",
+      "count": 37
+    },
+    {
+      "word": "matematika",
+      "count": 37
+    },
+    {
+      "word": "wikipedia",
+      "count": 37
+    },
+    {
+      "word": "kemalyň",
+      "count": 37
+    },
+    {
+      "word": "sm",
+      "count": 36
+    },
+    {
+      "word": "alnyp",
+      "count": 36
+    },
+    {
+      "word": "ýerden",
+      "count": 36
+    },
+    {
+      "word": "hakyndaky",
+      "count": 36
+    },
+    {
+      "word": "welaýatynda",
+      "count": 36
+    },
+    {
+      "word": "mekdebi",
+      "count": 36
+    },
+    {
+      "word": "türkmenistandaky",
+      "count": 36
+    },
+    {
+      "word": "köpetdagyň",
+      "count": 36
+    },
+    {
+      "word": "aý",
+      "count": 36
+    },
+    {
+      "word": "şeýlelikde",
+      "count": 36
+    },
+    {
+      "word": "orny",
+      "count": 36
+    },
+    {
+      "word": "adama",
+      "count": 36
+    },
+    {
+      "word": "mümkinçilik",
+      "count": 36
+    },
+    {
+      "word": "şäherleri",
+      "count": 36
+    },
+    {
+      "word": "obasynda",
+      "count": 36
+    },
+    {
+      "word": "saz",
+      "count": 36
+    },
+    {
+      "word": "getirdi",
+      "count": 36
+    },
+    {
+      "word": "yza",
+      "count": 36
     },
     {
       "word": "hilli",
-      "count": 5
+      "count": 36
     },
     {
-      "word": "önümleri",
-      "count": 5
+      "word": "jahan",
+      "count": 36
     },
     {
-      "word": "ýurdy",
-      "count": 5
+      "word": "garamazdan",
+      "count": 36
     },
     {
-      "word": "kadaly",
-      "count": 5
+      "word": "ýär",
+      "count": 36
     },
     {
-      "word": "wajypdyr",
-      "count": 5
+      "word": "lis",
+      "count": 36
+    },
+    {
+      "word": "ýolbaşçylyk",
+      "count": 36
+    },
+    {
+      "word": "bardy",
+      "count": 35
+    },
+    {
+      "word": "sssr",
+      "count": 35
+    },
+    {
+      "word": "başlanýar",
+      "count": 35
+    },
+    {
+      "word": "asyrlarda",
+      "count": 35
+    },
+    {
+      "word": "berip",
+      "count": 35
+    },
+    {
+      "word": "halkynyň",
+      "count": 35
+    },
+    {
+      "word": "seret",
+      "count": 35
+    },
+    {
+      "word": "gyz",
+      "count": 35
+    },
+    {
+      "word": "saklamak",
+      "count": 35
+    },
+    {
+      "word": "diller",
+      "count": 35
+    },
+    {
+      "word": "aragatnaşyk",
+      "count": 35
+    },
+    {
+      "word": "döwletiň",
+      "count": 35
+    },
+    {
+      "word": "hususy",
+      "count": 35
+    },
+    {
+      "word": "balkanabat",
+      "count": 35
+    },
+    {
+      "word": "düýpli",
+      "count": 35
+    },
+    {
+      "word": "sebäp",
+      "count": 35
+    },
+    {
+      "word": "gözel",
+      "count": 35
+    },
+    {
+      "word": "guşlaryň",
+      "count": 35
+    },
+    {
+      "word": "göni",
+      "count": 35
+    },
+    {
+      "word": "respublikasynyň",
+      "count": 35
+    },
+    {
+      "word": "kömegi",
+      "count": 35
+    },
+    {
+      "word": "ỳüplügiň",
+      "count": 35
+    },
+    {
+      "word": "surat",
+      "count": 34
+    },
+    {
+      "word": "com",
+      "count": 34
+    },
+    {
+      "word": "türkmenler",
+      "count": 34
+    },
+    {
+      "word": "ýeňil",
+      "count": 34
+    },
+    {
+      "word": "çykyp",
+      "count": 34
+    },
+    {
+      "word": "galypdyr",
+      "count": 34
+    },
+    {
+      "word": "hemme",
+      "count": 34
+    },
+    {
+      "word": "ykrar",
+      "count": 34
+    },
+    {
+      "word": "gi",
+      "count": 34
+    },
+    {
+      "word": "guruldy",
+      "count": 34
+    },
+    {
+      "word": "daşoguz",
+      "count": 34
+    },
+    {
+      "word": "azyk",
+      "count": 34
+    },
+    {
+      "word": "ankara",
+      "count": 34
+    },
+    {
+      "word": "edebi",
+      "count": 34
+    },
+    {
+      "word": "şäherine",
+      "count": 34
+    },
+    {
+      "word": "baýdak",
+      "count": 34
+    },
+    {
+      "word": "döredilen",
+      "count": 34
+    },
+    {
+      "word": "dis",
+      "count": 34
+    },
+    {
+      "word": "ryň",
+      "count": 34
+    },
+    {
+      "word": "ler",
+      "count": 34
+    },
+    {
+      "word": "mi",
+      "count": 34
+    },
+    {
+      "word": "banky",
+      "count": 34
+    },
+    {
+      "word": "babatda",
+      "count": 33
+    },
+    {
+      "word": "satyn",
+      "count": 33
+    },
+    {
+      "word": "oktýabrynda",
+      "count": 33
+    },
+    {
+      "word": "işe",
+      "count": 33
+    },
+    {
+      "word": "lebap",
+      "count": 33
+    },
+    {
+      "word": "ýanynda",
+      "count": 33
+    },
+    {
+      "word": "gidýär",
+      "count": 33
+    },
+    {
+      "word": "goňşy",
+      "count": 33
+    },
+    {
+      "word": "edyar",
+      "count": 33
+    },
+    {
+      "word": "inçe",
+      "count": 33
+    },
+    {
+      "word": "garaşsyzlyk",
+      "count": 33
+    },
+    {
+      "word": "horezm",
+      "count": 33
+    },
+    {
+      "word": "bol",
+      "count": 33
+    },
+    {
+      "word": "şa",
+      "count": 33
+    },
+    {
+      "word": "etrabynyň",
+      "count": 33
+    },
+    {
+      "word": "taryhynda",
+      "count": 33
+    },
+    {
+      "word": "ägirt",
+      "count": 33
+    },
+    {
+      "word": "aýtdy",
+      "count": 33
+    },
+    {
+      "word": "hazirki",
+      "count": 33
+    },
+    {
+      "word": "sun",
+      "count": 33
+    },
+    {
+      "word": "stambul",
+      "count": 33
+    },
+    {
+      "word": "ýaponiýanyň",
+      "count": 33
+    },
+    {
+      "word": "metjidiň",
+      "count": 33
+    },
+    {
+      "word": "ştapel",
+      "count": 33
+    },
+    {
+      "word": "awiasiýa",
+      "count": 33
+    },
+    {
+      "word": "inženerligi",
+      "count": 32
+    },
+    {
+      "word": "geçirmek",
+      "count": 32
+    },
+    {
+      "word": "alypdyr",
+      "count": 32
+    },
+    {
+      "word": "açyk",
+      "count": 32
+    },
+    {
+      "word": "ata",
+      "count": 32
+    },
+    {
+      "word": "xx",
+      "count": 32
+    },
+    {
+      "word": "kömek",
+      "count": 32
+    },
+    {
+      "word": "org",
+      "count": 32
+    },
+    {
+      "word": "biz",
+      "count": 32
+    },
+    {
+      "word": "ep-esli",
+      "count": 32
+    },
+    {
+      "word": "aralykda",
+      "count": 32
+    },
+    {
+      "word": "diýmek",
+      "count": 32
+    },
+    {
+      "word": "özbegistan",
+      "count": 32
+    },
+    {
+      "word": "amyderýa",
+      "count": 32
+    },
+    {
+      "word": "mukdary",
+      "count": 32
+    },
+    {
+      "word": "mm",
+      "count": 32
+    },
+    {
+      "word": "geçipdir",
+      "count": 32
+    },
+    {
+      "word": "ýurtlaryň",
+      "count": 32
+    },
+    {
+      "word": "maldarçylyk",
+      "count": 32
+    },
+    {
+      "word": "ýanwarynda",
+      "count": 32
+    },
+    {
+      "word": "iñ",
+      "count": 32
+    },
+    {
+      "word": "atlary",
+      "count": 32
+    },
+    {
+      "word": "iii",
+      "count": 32
+    },
+    {
+      "word": "xi",
+      "count": 32
+    },
+    {
+      "word": "türkiýede",
+      "count": 32
+    },
+    {
+      "word": "bo",
+      "count": 32
+    },
+    {
+      "word": "başlygy",
+      "count": 32
+    },
+    {
+      "word": "ka",
+      "count": 32
+    },
+    {
+      "word": "gy",
+      "count": 32
+    },
+    {
+      "word": "dy",
+      "count": 32
+    },
+    {
+      "word": "ösümlikleriň",
+      "count": 32
+    },
+    {
+      "word": "noýabr",
+      "count": 32
+    },
+    {
+      "word": "alnan",
+      "count": 32
+    },
+    {
+      "word": "aşaky",
+      "count": 32
+    },
+    {
+      "word": "tebigat",
+      "count": 31
+    },
+    {
+      "word": "alýan",
+      "count": 31
+    },
+    {
+      "word": "döreden",
+      "count": 31
+    },
+    {
+      "word": "halklaryň",
+      "count": 31
+    },
+    {
+      "word": "sanjaryň",
+      "count": 31
+    },
+    {
+      "word": "bular",
+      "count": 31
+    },
+    {
+      "word": "mynasyp",
+      "count": 31
+    },
+    {
+      "word": "muňa",
+      "count": 31
+    },
+    {
+      "word": "kilometr",
+      "count": 31
+    },
+    {
+      "word": "owadan",
+      "count": 31
+    },
+    {
+      "word": "el",
+      "count": 31
+    },
+    {
+      "word": "hindistan",
+      "count": 31
+    },
+    {
+      "word": "ukraina",
+      "count": 31
+    },
+    {
+      "word": "onun",
+      "count": 31
+    },
+    {
+      "word": "çeşmeler",
+      "count": 31
+    },
+    {
+      "word": "üçünji",
+      "count": 31
+    },
+    {
+      "word": "ilatly",
+      "count": 31
+    },
+    {
+      "word": "edýärler",
+      "count": 31
+    },
+    {
+      "word": "halas",
+      "count": 31
+    },
+    {
+      "word": "rim",
+      "count": 31
+    },
+    {
+      "word": "oňat",
+      "count": 31
+    },
+    {
+      "word": "alym",
+      "count": 31
+    },
+    {
+      "word": "birlikde",
+      "count": 31
+    },
+    {
+      "word": "ýazýar",
+      "count": 31
+    },
+    {
+      "word": "etmäge",
+      "count": 31
+    },
+    {
+      "word": "sen",
+      "count": 31
+    },
+    {
+      "word": "önümçilik",
+      "count": 31
+    },
+    {
+      "word": "dörän",
+      "count": 31
+    },
+    {
+      "word": "hut",
+      "count": 31
     },
     {
       "word": "etdiler",
-      "count": 5
+      "count": 31
     },
     {
-      "word": "çap",
-      "count": 5
+      "word": "begiň",
+      "count": 31
     },
     {
-      "word": "partlady",
-      "count": 5
+      "word": "jemgyýetçilik",
+      "count": 31
     },
     {
-      "word": "täjirçilik",
-      "count": 5
+      "word": "general",
+      "count": 31
     },
     {
-      "word": "metbugat",
-      "count": 5
+      "word": "sözi",
+      "count": 31
     },
     {
-      "word": "geçirýän",
-      "count": 5
+      "word": "dyr",
+      "count": 30
     },
     {
-      "word": "bank",
-      "count": 5
+      "word": "taryhyny",
+      "count": 30
     },
     {
-      "word": "geçirip",
-      "count": 5
+      "word": "musulman",
+      "count": 30
     },
     {
-      "word": "heläkçilige",
-      "count": 5
+      "word": "edil",
+      "count": 30
     },
     {
-      "word": "ýangyç",
-      "count": 5
+      "word": "indoneziýa",
+      "count": 30
     },
     {
-      "word": "awtoulagynyň",
-      "count": 5
+      "word": "daşarky",
+      "count": 30
     },
     {
-      "word": "goýuldy",
-      "count": 5
+      "word": "hakda",
+      "count": 30
     },
     {
-      "word": "çagalara",
-      "count": 5
+      "word": "welaýat",
+      "count": 30
     },
     {
-      "word": "bes",
-      "count": 5
+      "word": "etrap",
+      "count": 30
     },
     {
-      "word": "tropiki",
-      "count": 5
+      "word": "ykdysadyýeti",
+      "count": 30
     },
     {
-      "word": "öwrüldi",
-      "count": 5
+      "word": "kenarynda",
+      "count": 30
     },
     {
-      "word": "zelandiýa",
-      "count": 5
+      "word": "ähmiýeti",
+      "count": 30
     },
     {
-      "word": "geçmegi",
-      "count": 5
+      "word": "ini",
+      "count": 30
     },
     {
-      "word": "kynçylyk",
-      "count": 5
+      "word": "geçirilýär",
+      "count": 30
     },
     {
-      "word": "güman",
-      "count": 5
+      "word": "öwrenmek",
+      "count": 30
     },
     {
-      "word": "hormatyna",
-      "count": 5
+      "word": "gurlan",
+      "count": 30
     },
     {
-      "word": "urşy",
-      "count": 5
+      "word": "terjime",
+      "count": 30
     },
     {
-      "word": "yzygiderli",
-      "count": 5
+      "word": "baglylykda",
+      "count": 30
     },
     {
-      "word": "umyt",
-      "count": 5
+      "word": "hukuk",
+      "count": 30
     },
     {
-      "word": "äşgär",
-      "count": 5
+      "word": "özara",
+      "count": 30
     },
     {
-      "word": "müdirliginiň",
-      "count": 5
+      "word": "gan",
+      "count": 30
     },
     {
-      "word": "duçar",
-      "count": 5
+      "word": "ýadygärlikler",
+      "count": 30
     },
     {
-      "word": "mundan",
-      "count": 5
+      "word": "hywa",
+      "count": 30
+    },
+    {
+      "word": "erkin",
+      "count": 30
+    },
+    {
+      "word": "geçýän",
+      "count": 30
+    },
+    {
+      "word": "agaç",
+      "count": 30
+    },
+    {
+      "word": "lan",
+      "count": 30
+    },
+    {
+      "word": "html",
+      "count": 30
+    },
+    {
+      "word": "islendik",
+      "count": 30
+    },
+    {
+      "word": "maddalar",
+      "count": 29
+    },
+    {
+      "word": "durmuşy",
+      "count": 29
+    },
+    {
+      "word": "aly",
+      "count": 29
+    },
+    {
+      "word": "bolmak",
+      "count": 29
+    },
+    {
+      "word": "barýan",
+      "count": 29
+    },
+    {
+      "word": "diline",
+      "count": 29
+    },
+    {
+      "word": "hindi",
+      "count": 29
     },
     {
       "word": "döredýär",
-      "count": 5
+      "count": 29
     },
     {
-      "word": "kämillik",
-      "count": 5
+      "word": "tejen",
+      "count": 29
     },
     {
-      "word": "ýetmedi",
-      "count": 5
+      "word": "metre",
+      "count": 29
     },
     {
-      "word": "gadagan",
-      "count": 5
+      "word": "gatnaşýar",
+      "count": 29
+    },
+    {
+      "word": "boýun",
+      "count": 29
+    },
+    {
+      "word": "başlangyç",
+      "count": 29
+    },
+    {
+      "word": "uniwersitet",
+      "count": 29
+    },
+    {
+      "word": "ýedi",
+      "count": 29
+    },
+    {
+      "word": "gaýdyp",
+      "count": 29
+    },
+    {
+      "word": "eýranyň",
+      "count": 29
+    },
+    {
+      "word": "nebiti",
+      "count": 29
+    },
+    {
+      "word": "yzyna",
+      "count": 29
+    },
+    {
+      "word": "eksport",
+      "count": 29
+    },
+    {
+      "word": "etmegi",
+      "count": 29
+    },
+    {
+      "word": "göçüp",
+      "count": 29
+    },
+    {
+      "word": "gurlupdyr",
+      "count": 29
+    },
+    {
+      "word": "ruhy",
+      "count": 29
+    },
+    {
+      "word": "abş-nyň",
+      "count": 29
+    },
+    {
+      "word": "afrikanyň",
+      "count": 29
+    },
+    {
+      "word": "imperiýasy",
+      "count": 29
+    },
+    {
+      "word": "ara",
+      "count": 29
+    },
+    {
+      "word": "dunaý",
+      "count": 29
+    },
+    {
+      "word": "türkçe",
+      "count": 29
+    },
+    {
+      "word": "edipdirler",
+      "count": 29
+    },
+    {
+      "word": "hun",
+      "count": 29
+    },
+    {
+      "word": "ministri",
+      "count": 29
+    },
+    {
+      "word": "berlen",
+      "count": 29
+    },
+    {
+      "word": "ýolbaşçylygynda",
+      "count": 29
+    },
+    {
+      "word": "abraziw",
+      "count": 29
+    },
+    {
+      "word": "bank",
+      "count": 29
+    },
+    {
+      "word": "amerikanyň",
+      "count": 28
+    },
+    {
+      "word": "tiz",
+      "count": 28
+    },
+    {
+      "word": "il",
+      "count": 28
+    },
+    {
+      "word": "salgylanmalar",
+      "count": 28
+    },
+    {
+      "word": "şahyrlar",
+      "count": 28
+    },
+    {
+      "word": "edebiýatynyň",
+      "count": 28
+    },
+    {
+      "word": "serkerde",
+      "count": 28
+    },
+    {
+      "word": "xix",
+      "count": 28
+    },
+    {
+      "word": "durmuşa",
+      "count": 28
+    },
+    {
+      "word": "watançylyk",
+      "count": 28
+    },
+    {
+      "word": "mukaddes",
+      "count": 28
+    },
+    {
+      "word": "zat",
+      "count": 28
+    },
+    {
+      "word": "görmek",
+      "count": 28
+    },
+    {
+      "word": "azerbaýjan",
+      "count": 28
+    },
+    {
+      "word": "çalt",
+      "count": 28
+    },
+    {
+      "word": "toplumy",
+      "count": 28
+    },
+    {
+      "word": "täsin",
+      "count": 28
+    },
+    {
+      "word": "milletler",
+      "count": 28
+    },
+    {
+      "word": "instituty",
+      "count": 28
+    },
+    {
+      "word": "tarapdan",
+      "count": 28
+    },
+    {
+      "word": "bolandygyny",
+      "count": 28
+    },
+    {
+      "word": "ýazuw",
+      "count": 28
+    },
+    {
+      "word": "ýardam",
+      "count": 28
+    },
+    {
+      "word": "ses",
+      "count": 28
+    },
+    {
+      "word": "dogulýar",
+      "count": 28
+    },
+    {
+      "word": "ýaýran",
+      "count": 28
+    },
+    {
+      "word": "golaýynda",
+      "count": 28
+    },
+    {
+      "word": "energiýasy",
+      "count": 28
+    },
+    {
+      "word": "söweşde",
+      "count": 28
+    },
+    {
+      "word": "çekildi",
+      "count": 28
     },
     {
       "word": "azat",
-      "count": 5
+      "count": 28
     },
     {
-      "word": "azaltmak",
-      "count": 5
+      "word": "getirýär",
+      "count": 28
     },
     {
-      "word": "oýun",
-      "count": 5
+      "word": "gözegçilik",
+      "count": 28
     },
     {
-      "word": "tutýar",
-      "count": 5
+      "word": "ky",
+      "count": 28
     },
     {
-      "word": "geçirdi",
-      "count": 5
+      "word": "saýlandy",
+      "count": 28
     },
     {
-      "word": "ýetirdi",
-      "count": 5
+      "word": "atatürk",
+      "count": 28
     },
     {
-      "word": "bölegidir",
-      "count": 5
+      "word": "iýulynda",
+      "count": 28
     },
     {
-      "word": "adamlarda",
-      "count": 5
+      "word": "goraghanada",
+      "count": 28
     },
     {
-      "word": "dem",
-      "count": 5
+      "word": "süýüm",
+      "count": 28
     },
     {
-      "word": "derejesine",
-      "count": 5
+      "word": "egirme",
+      "count": 28
     },
     {
-      "word": "subutnama",
-      "count": 5
+      "word": "soýuzdaş",
+      "count": 28
     },
     {
-      "word": "çak",
-      "count": 5
+      "word": "wied",
+      "count": 28
     },
     {
-      "word": "britaniýanyň",
-      "count": 5
+      "word": "reis",
+      "count": 28
     },
     {
-      "word": "northern",
-      "count": 5
+      "word": "kompýuter",
+      "count": 27
     },
     {
-      "word": "sanysy",
-      "count": 5
+      "word": "döretmek",
+      "count": 27
     },
     {
-      "word": "ýigrimi",
-      "count": 5
+      "word": "martynda",
+      "count": 27
     },
     {
-      "word": "çekip",
-      "count": 5
+      "word": "görkezýär",
+      "count": 27
     },
     {
-      "word": "döretdi",
-      "count": 5
+      "word": "geçip",
+      "count": 27
     },
     {
-      "word": "resmiler",
-      "count": 5
+      "word": "ösýär",
+      "count": 27
     },
     {
-      "word": "raýatlary",
-      "count": 5
+      "word": "parahatçylyk",
+      "count": 27
     },
     {
-      "word": "jemgyýetiň",
-      "count": 5
+      "word": "dynç",
+      "count": 27
     },
     {
-      "word": "sekiz",
-      "count": 5
+      "word": "watan",
+      "count": 27
     },
     {
-      "word": "berilmegine",
-      "count": 5
+      "word": "özbek",
+      "count": 27
     },
     {
-      "word": "görkezýän",
-      "count": 5
+      "word": "bilýär",
+      "count": 27
     },
     {
-      "word": "hasabat",
-      "count": 5
+      "word": "gazagystan",
+      "count": 27
     },
     {
-      "word": "möhümdir",
-      "count": 5
+      "word": "wekilleri",
+      "count": 27
     },
     {
-      "word": "saglygy",
-      "count": 5
+      "word": "deňzi",
+      "count": 27
     },
     {
-      "word": "awgustda",
-      "count": 5
+      "word": "düzümine",
+      "count": 27
     },
     {
-      "word": "garaşyp",
-      "count": 5
+      "word": "merwiň",
+      "count": 27
     },
     {
-      "word": "yssy",
-      "count": 5
+      "word": "çeperçilik",
+      "count": 27
     },
     {
-      "word": "adamy",
-      "count": 5
+      "word": "gorap",
+      "count": 27
     },
     {
-      "word": "prezident",
-      "count": 5
+      "word": "tutup",
+      "count": 27
+    },
+    {
+      "word": "alymlar",
+      "count": 27
+    },
+    {
+      "word": "çykgytlar",
+      "count": 27
+    },
+    {
+      "word": "gaçyp",
+      "count": 27
+    },
+    {
+      "word": "türkmeniň",
+      "count": 27
+    },
+    {
+      "word": "gymmatly",
+      "count": 27
+    },
+    {
+      "word": "sagat",
+      "count": 27
+    },
+    {
+      "word": "bölünip",
+      "count": 27
+    },
+    {
+      "word": "näçe",
+      "count": 27
+    },
+    {
+      "word": "etrek",
+      "count": 27
+    },
+    {
+      "word": "eýeleýär",
+      "count": 27
+    },
+    {
+      "word": "soýuzynyň",
+      "count": 27
+    },
+    {
+      "word": "dir",
+      "count": 27
+    },
+    {
+      "word": "ugurlary",
+      "count": 27
+    },
+    {
+      "word": "gazy",
+      "count": 27
+    },
+    {
+      "word": "pudagy",
+      "count": 27
+    },
+    {
+      "word": "birine",
+      "count": 27
+    },
+    {
+      "word": "isbn",
+      "count": 27
+    },
+    {
+      "word": "tan",
+      "count": 27
+    },
+    {
+      "word": "tizligi",
+      "count": 27
+    },
+    {
+      "word": "he",
+      "count": 27
     }
-  ],
-  "source": "CommonLID TSV + FLORES+ (dev+devtest)",
-  "total_tokens": 35369,
-  "unique_tokens": 12901
+  ]
 }

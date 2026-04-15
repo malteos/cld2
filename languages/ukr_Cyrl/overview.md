@@ -28,3 +28,19 @@ Ukrainian emerged from Old East Slavic through the Ruthenian literary tradition
 and was codified in the 19th century (Shevchenko, Kotliarevskyi). It became
 the sole state language of independent Ukraine in 1991 and underwent a
 significant orthographic update in 2019.
+
+
+## Sources
+
+Examples and vocabulary for this language folder are drawn **only** from non-benchmark websites (Wikipedia, government, news, cultural / religious organisations). CommonLID, FLORES+, MADLAD-400, OPUS-100, WMT, and Tatoeba are off-limits per the contamination policy.
+
+### Contributed content
+
+- `https://uk.wikipedia.org/` — _wikimedia/wikipedia 20231101_
+- `https://www.pravda.com.ua/` — Ukrayinska Pravda — _live WebFetch_
+
+### Catalogued source candidates
+
+- `https://uk.wikipedia.org/` — Ukrainian Wikipedia (cultural)
+- `https://www.kmu.gov.ua/` — Cabinet of Ministers of Ukraine (gov)
+- `https://www.pravda.com.ua/` — Ukrayinska Pravda (news)
