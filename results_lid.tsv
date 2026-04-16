@@ -1,0 +1,30 @@
+commit	macro_f1	micro_f1	coverage	status	description
+91040a9	0.4650	0.8694	1.0000	keep	baseline (vanilla CLD2)
+e19a6ad	0.4885	0.8818	1.0000	keep	add kQuad_obj2 with 30 languages (32K buckets)
+be2555e	0.5211	0.8810	1.0000	keep	add PLang for 19 new langs + 128K bucket table
+c980475	0.6015	0.8918	1.0000	keep	dual-table scoring (both tables contribute hits)
+b53bd18	0.6006	0.8905	1.0000	keep	remove contrast filtering (simpler + better)
+692b6bc	0.6921	0.8965	1.0000	keep	switch to 0122 tables + focused table 2 (10K/lang)
+c8c0fba	0.7044	0.9175	1.0000	keep	contrast filtering for table 2 against 0122 langs
+d69afa8	0.7117	0.9249	1.0000	keep	5K quad/lang, remove pcm/guw/gom (high FP)
+6133642	0.7243	0.9262	1.0000	keep	contrast threshold=1.0 (optimal)
+4390008	0.7258	0.9261	1.0000	keep	4K quad/lang + Latvian contrast (optimal)
+a140909	0.7298	0.9263	1.0000	keep	add gom+guw back, remove pcm (high FP)
+1f678ae	0.7304	0.9263	1.0000	keep	64K buckets (16-bit) reduces collisions 1718→196
+caa4819	0.7358	0.9282	1.0000	keep	chunk size 50 (was 20) + 64K table: major improvement
+d3b6f1f	0.7377	0.9279	1.0000	keep	selective +1 boost for high-precision table 2 PLangs
+992ba2f	0.7386	0.9280	1.0000	keep	tiered boost: acf/gom +2, arg/vec/bik/crh/rcf/kab/gcf/ltg +1
+89063da	0.7407	0.9285	1.0000	keep	stricter T2 reliability threshold (52% vs 41%)
+368dd77	0.7420	0.9285	1.0000	keep	gom +4 boost, kab +2 boost (fine-tuned per-language)
+c2adbb0	0.7433	0.9287	1.0000	keep	-1 penalty for kik/ext/nyn/guw (high FP langs)
+8cedc6b	0.7439	0.9287	1.0000	keep	remove nyn from penalty (too few samples to penalize)
+3364742	0.7496	0.9286	1.0000	keep	kMinGramCount=8 (was 3): much stricter reliability
+1317bdf	0.7528	0.9288	1.0000	keep	kMaxGramCount=8 (fixed reliability threshold)
+85ee435	0.7535	0.9290	1.0000	keep	kShortTextThresh=32 (was 256): better for medium texts
+f0d9fe0	0.7562	0.9337	1.0000	keep	low-gram reliability cap 25*n (was 12*n)
+4e7ee20	0.7568	0.9334	1.0000	keep	refined boost: ltg+3, crh/lij/gcr+2
+21fbacc	0.7573	0.9339	1.0000	keep	chunk size 70 (re-optimized after cap change)
+03d5299	0.7600	0.9332	1.0000	keep	kMinGramCount=kMaxGramCount=12 (re-optimized for chunk=70)
+1b25954	0.7604	0.9333	1.0000	keep	T2 reliability threshold 60% (was 52%)
+54c3401	0.7664	0.9328	1.0000	keep	kGoodFirstMinPercent=55 (was 26): major macro improvement
+9d666c7	0.7676	0.9330	1.0000	keep	chunk=150 (re-optimized with kGoodFirstMinPercent=55)

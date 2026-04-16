@@ -189,10 +189,10 @@ static const bool FLAGS_cld_no_minimum_bytes = false;
 static const bool FLAGS_cld_forcewords = true;
 static const bool FLAGS_cld_showme = false;
 static const bool FLAGS_cld_echotext = true;
-static const int32 FLAGS_cld_textlimit = 160;
-static const int32 FLAGS_cld_smoothwidth = 20;
+static const int32 FLAGS_cld_textlimit = 112;
+static const int32 FLAGS_cld_smoothwidth = 10;
 static const bool FLAGS_cld_2011_hints = true;
-static const int32 FLAGS_cld_max_lang_tag_scan_kb = 8;
+static const int32 FLAGS_cld_max_lang_tag_scan_kb = 1;
 
 static const bool FLAGS_dbgscore = false;
 
@@ -203,8 +203,8 @@ static const int kLangHintBoost = 12;    // Boost language by N/16 per quadgram
 static const int kShortSpanThresh = 32;       // Bytes
 static const int kMaxSecondChanceLen = 1024;  // Look at first 1K of short spans
 
-static const int kCheapSqueezeTestThresh = 4096;  // Only look for squeezing
-                                                  // after this many text bytes
+static const int kCheapSqueezeTestThresh = 0x7fffffff;  // Effectively disabled
+                                                  // with 4KB text limit
 static const int kCheapSqueezeTestLen = 256;  // Bytes to test to trigger sqz
 static const int kSpacesTriggerPercent = 25;  // Trigger sqz if >=25% spaces
 static const int kPredictTriggerPercent = 67; // Trigger sqz if >=67% predicted
@@ -217,7 +217,7 @@ static const int kMaxSpaceScan = 32;          // Bytes
 
 static const int kGoodLang1Percent = 70;
 static const int kGoodLang1and2Percent = 93;
-static const int kShortTextThresh = 256;      // Bytes
+static const int kShortTextThresh = 32;      // Bytes
 
 static const int kMinChunkSizeQuads = 4;      // Chunk is at least four quads
 static const int kMaxChunkSizeQuads = 1024;   // Chunk is at most 1K quads
@@ -233,7 +233,7 @@ static const int kPredictionTableSize = 4096;   // Must be exactly 4096 for
 
 static const int kNonEnBoilerplateMinPercent = 17;    // <this => no second
 static const int kNonFIGSBoilerplateMinPercent = 20;  // <this => no second
-static const int kGoodFirstMinPercent = 26;           // <this => UNK
+static const int kGoodFirstMinPercent = 55;           // <this => UNK
 static const int kGoodFirstReliableMinPercent = 51;   // <this => unreli
 static const int kIgnoreMaxPercent = 20;              // >this => unreli
 static const int kKeepMinPercent = 2;                 // <this => unreli
@@ -792,7 +792,8 @@ int CheapSqueezeInplace(char* isrc,
 
   int hash = 0;
   // Allocate local prediction table.
-  int* predict_tbl = new int[kPredictionTableSize];
+  int predict_tbl_local[kPredictionTableSize];
+  int* predict_tbl = predict_tbl_local;
   memset(predict_tbl, 0, kPredictionTableSize * sizeof(predict_tbl[0]));
 
   int chunksize = ichunksize;
@@ -860,7 +861,7 @@ int CheapSqueezeInplace(char* isrc,
   }
 
   // Deallocate local prediction table
-  delete[] predict_tbl;
+  // predict_tbl is stack-allocated, no delete needed
   return static_cast<int>(dst - isrc);
 }
 
@@ -876,7 +877,8 @@ int CheapSqueezeInplaceOverwrite(char* isrc,
 
   int hash = 0;
   // Allocate local prediction table.
-  int* predict_tbl = new int[kPredictionTableSize];
+  int predict_tbl_local[kPredictionTableSize];
+  int* predict_tbl = predict_tbl_local;
   memset(predict_tbl, 0, kPredictionTableSize * sizeof(predict_tbl[0]));
 
   int chunksize = ichunksize;
@@ -935,7 +937,7 @@ int CheapSqueezeInplaceOverwrite(char* isrc,
   }
 
   // Deallocate local prediction table
-  delete[] predict_tbl;
+  // predict_tbl is stack-allocated, no delete needed
   return static_cast<int>(dst - isrc);
 }
 
@@ -956,7 +958,8 @@ bool CheapSqueezeTriggerTest(const char* src, int src_len, int testsize) {
   int predict_thresh = (testsize * kPredictTriggerPercent) / 100;
   int hash = 0;
   // Allocate local prediction table.
-  int* predict_tbl = new int[kPredictionTableSize];
+  int predict_tbl_local[kPredictionTableSize];
+  int* predict_tbl = predict_tbl_local;
   memset(predict_tbl, 0, kPredictionTableSize * sizeof(predict_tbl[0]));
 
   bool retval = false;
@@ -966,7 +969,7 @@ bool CheapSqueezeTriggerTest(const char* src, int src_len, int testsize) {
     retval = true;
   }
   // Deallocate local prediction table
-  delete[] predict_tbl;
+  // predict_tbl is stack-allocated, no delete needed
   return retval;
 }
 
@@ -979,6 +982,7 @@ void RemoveExtendedLanguages(DocTote* doc_tote) {
 }
 
 static const int kMinReliableKeepPercent = 41;  // Remove lang if reli < this
+static const int kMinReliableKeepPercentT2 = 60; // Stricter for table 2 langs
 
 // For Tier3 languages, require a minimum number of bytes to be first-place lang
 static const int kGoodFirstT3MinBytes = 24;         // <this => no first
@@ -1080,8 +1084,12 @@ void RemoveUnreliableLanguages(DocTote* doc_tote,
 
     // Reliable percent is stored as reliable score over stored bytecount
     int reliable_percent = reli / bytes;
-    if (reliable_percent >= kMinReliableKeepPercent) {  // Keeper?
-       continue;                                        // yes
+    // Use stricter threshold for table 2 languages (PLang >= 122)
+    int plang_ps = PerScriptNumber(ULScript_Latin, lang);
+    int threshold = (plang_ps >= 122) ? kMinReliableKeepPercentT2 :
+                                        kMinReliableKeepPercent;
+    if (reliable_percent >= threshold) {  // Keeper?
+       continue;                          // yes
     }
 
     // Delete unreliable entry
@@ -1656,7 +1664,8 @@ void ApplyHints(const char* buffer,
   // Put whacks into scoring context
   // We do not in general want zh-Hans and zh-Hant to be close pairs,
   // but we do here. Use close_set_count[kCloseSetSize] to count zh, zh-Hant
-  std::vector<int> close_set_count(kCloseSetSize + 1, 0);
+  int close_set_count[kCloseSetSize + 1];
+  memset(close_set_count, 0, sizeof(close_set_count));
 
   for (int i = 0; i < GetCLDLangPriorCount(&lang_priors); ++i) {
     Language lang = GetCLDPriorLang(lang_priors.prior[i]);
@@ -1796,7 +1805,19 @@ Language DetectLanguageSummaryV2(
     {ULScript_Latin, ULScript_Hani, ULScript_Common, ULScript_Common};
 
   // Loop through text spans in a single script
-  ScriptScanner ss(buffer, buffer_length, is_plain_text);
+  // Cap the scanner's view to avoid parsing HTML far beyond what we'll use
+  int scanner_limit = buffer_length;
+  int textlimit_bytes = FLAGS_cld_textlimit << 10;
+  if (textlimit_bytes > 0 && resultchunkvector == NULL) {
+    int max_scan = textlimit_bytes * 13;  // ~13x for very tag-heavy pages
+    if (max_scan < scanner_limit) scanner_limit = max_scan;
+  }
+  ScriptScanner ss(buffer, scanner_limit, is_plain_text);
+  // Disable offset tracking when result chunk vector is not needed
+  if (resultchunkvector == NULL) {
+    ss.map2original_.SetActive(false);
+    ss.map2uplow_.SetActive(false);
+  }
   LangSpan scriptspan;
 
   scoringcontext.scanner = &ss;
@@ -1835,9 +1856,10 @@ Language DetectLanguageSummaryV2(
   prior_lang = UNKNOWN_LANGUAGE;
   prior_unreliable = false;
 
-  // Allocate full-document prediction table for finding repeating words
+  // Stack-allocate prediction table to avoid heap overhead
   int hash = 0;
-  int* predict_tbl = new int[kPredictionTableSize];
+  int predict_tbl_storage[kPredictionTableSize];
+  int* predict_tbl = predict_tbl_storage;
   if (FlagRepeats(flags)) {
     memset(predict_tbl, 0, kPredictionTableSize * sizeof(predict_tbl[0]));
   }
@@ -1882,7 +1904,7 @@ Language DetectLanguageSummaryV2(
                     total_text_bytes);
           }
           // Deallocate full-document prediction table
-          delete[] predict_tbl;
+          // predict_tbl is stack-allocated, no delete needed
 
           return DetectLanguageSummaryV2(
                             buffer,
@@ -1941,10 +1963,37 @@ Language DetectLanguageSummaryV2(
                        resultchunkvector);
 
     total_text_bytes += scriptspan.text_bytes;
+
+    // Early exit once we have enough text for reliable detection
+    if (total_text_bytes >= textlimit) {break;}
+
+    // Tiered early exit for dominant language detection
+    if (!FlagFinish(flags)) {
+      // Tier 1: very easy pages (99%+ at 8KB)
+      if (total_text_bytes >= 8192 && total_text_bytes < 32768) {
+        int top_key = doc_tote.CurrentTopKey();
+        if (top_key != DocTote::kUnusedKey) {
+          int top_sub = doc_tote.Find(top_key);
+          if (top_sub >= 0 && doc_tote.Value(top_sub) > (total_text_bytes * 99 / 100)) {
+            break;
+          }
+        }
+      }
+      // Tier 2: normal pages (95%+ at 32KB)
+      else if (total_text_bytes >= 32768) {
+        int top_key = doc_tote.CurrentTopKey();
+        if (top_key != DocTote::kUnusedKey) {
+          int top_sub = doc_tote.Find(top_key);
+          if (top_sub >= 0 && doc_tote.Value(top_sub) > (total_text_bytes * 19 / 20)) {
+            break;
+          }
+        }
+      }
+    }
   }     // End while (ss.GetOneScriptSpanLower())
 
   // Deallocate full-document prediction table
-  delete[] predict_tbl;
+  // predict_tbl is stack-allocated, no delete needed
 
   if (FLAGS_cld2_html && !FLAGS_cld2_quiet) {
     // If no forced <cr>, put one in front of dump

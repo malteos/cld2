@@ -84487,36 +84487,7 @@ extern const CLD2TableSummary kQuad_obj = {
   kQuadChrome1015_2RecognizedLangScripts,
 };
 
-static const uint32 kQuadChrome1015_2_2Size = 0;    // Bucket count
-static const uint32 kQuadChrome1015_2_2KeyMask = 0xffffffff;    // Mask hash key
-
-// NOTE: Some compilers will not allow an array of structs to have a constant
-//       size of zero. Thus, we tell the code that the size is zero, but
-//       actually allocate a single element array that will never be read.
-//       More info: https://code.google.com/p/cld2/issues/detail?id=9
-static const IndirectProbBucket4 kQuadChrome1015_2_2[1] = {
-  // hash_indirect[4], tokens[4] in UTF-8
-  {0x00000000,0x00000000,0x00000000,0x00000000} // UNUSED, see above!
-  };
-  // table_hash = ffff-ffff, unused_entries = 0 (0.00%)
-
-static const uint32 kQuadChrome1015_2_2SizeOne = 2;    // Bucket count one-lang
-extern const uint32 kQuadChrome2IndSize = kQuadChrome1015_2_2SizeOne; // Source-agnostic named constant
-static const uint32 kQuadChrome1015_2_2Ind[2] = {
-  // [0000] --- double_langprob_start=0002 ---
-  0x00000000, 0x00000000,                           // -- --  
-                                                    // 
-  };
-
-extern const CLD2TableSummary kQuad_obj2 = {
-  kQuadChrome1015_2_2,
-  kQuadChrome1015_2_2Ind,
-  kQuadChrome1015_2_2SizeOne,
-  kQuadChrome1015_2_2Size,
-  kQuadChrome1015_2_2KeyMask,
-  kQuadChrome1015_2BuildDate,
-  kQuadChrome1015_2RecognizedLangScripts,
-};
+// kQuad_obj2 is defined in cld2_generated_quad_new.cc
 
 }       // End namespace CLD2
 

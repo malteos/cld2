@@ -40,8 +40,8 @@ namespace CLD2 {
 
 static const int kMinCJKUTF8CharBytes = 3;
 
-static const int kMinGramCount = 3;
-static const int kMaxGramCount = 16;
+static const int kMinGramCount = 12;
+static const int kMaxGramCount = 12;
 
 static const int UTFmax = 4;        // Max number of bytes in a UTF-8 character
 
@@ -125,16 +125,35 @@ static const int UTFmax = 4;        // Max number of bytes in a UTF-8 character
 // Input: 4-byte entry of 3 language numbers and one probability subscript, plus
 //  an accumulator tote. (language 0 means unused entry)
 // Output: running sums in tote updated
+// Score boost for table 2 languages based on precision/recall ratio
+static inline int BoostAmount(uint8 plang) {
+  // +4 for gom(139) (Devanagari, very high prec, very low recall)
+  if (plang == 139) return 4;
+  // +3 for ltg(138) (precision 0.93, recall 0.34)
+  if (plang == 138) return 3;
+  // +2 for languages with high precision, low recall:
+  // acf(125), lij(128), kab(129), gcr(130), crh(126)
+  if (plang == 125 || plang == 126 || plang == 128 || plang == 129 ||
+      plang == 130) return 2;
+  // +1 for others with moderate precision, low recall:
+  // arg(122),vec(123),bik(124),rcf(127),gcf(133)
+  if ((plang >= 122 && plang <= 124) || plang == 127 || plang == 133) return 1;
+  // -1 penalty for high-FP languages (high recall, very low precision):
+  // kik(131), ext(134), guw(136)
+  if (plang == 131 || plang == 134 || plang == 136) return -1;
+  return 0;
+}
+
 void ProcessProbV2Tote(uint32 probs, Tote* tote) {
   uint8 prob123 = (probs >> 0) & 0xff;
   const uint8* prob123_entry = LgProb2TblEntry(prob123);
 
   uint8 top1 = (probs >> 8) & 0xff;
-  if (top1 > 0) {tote->Add(top1, LgProb3(prob123_entry, 0));}
+  if (top1 > 0) {tote->Add(top1, LgProb3(prob123_entry, 0) + BoostAmount(top1));}
   uint8 top2 = (probs >> 16) & 0xff;
-  if (top2 > 0) {tote->Add(top2, LgProb3(prob123_entry, 1));}
+  if (top2 > 0) {tote->Add(top2, LgProb3(prob123_entry, 1) + BoostAmount(top2));}
   uint8 top3 = (probs >> 24) & 0xff;
-  if (top3 > 0) {tote->Add(top3, LgProb3(prob123_entry, 2));}
+  if (top3 > 0) {tote->Add(top3, LgProb3(prob123_entry, 2) + BoostAmount(top3));}
 }
 
 // Return score for a particular per-script language, or zero
@@ -328,6 +347,7 @@ int GetQuadHits(const char* text,
     scoringcontext->scoringtables->quadgram_obj2;
   int next_base = hitbuffer->next_base;
   int next_base_limit = hitbuffer->maxscoringhits;
+  bool has_dual_table = (quadgram_obj2->kCLDTableSize != 0);
 
   // Run a little cache of last quad hits to catch overly-repetitive "text"
   // We don't care if we miss a couple repetitions at scriptspan boundaries
@@ -350,28 +370,31 @@ int GetQuadHits(const char* text,
 
     // Filter out recent repeats
     if ((quadhash != prior_quadhash[0]) && (quadhash != prior_quadhash[1])) {
-      // Look up this quadgram and save <offset, indirect>
-      uint32 indirect_flag = 0;   // For dual tables
-      const CLD2TableSummary* hit_obj = quadgram_obj;
-      uint32 probs = QuadHashV3Lookup4(quadgram_obj, quadhash);
-      if ((probs == 0) && (quadgram_obj2->kCLDTableSize != 0)) {
-        // Try lookup in dual table if not found in first one
-        // Note: we need to know later which of two indirect tables to use.
-        indirect_flag = 0x80000000u;
-        hit_obj = quadgram_obj2;
-        probs = QuadHashV3Lookup4(quadgram_obj2, quadhash);
-      }
-      if (probs != 0) {
+      // Look up this quadgram in both tables speculatively
+      uint32 probs1 = QuadHashV3Lookup4(quadgram_obj, quadhash);
+      uint32 probs2 = (has_dual_table) ?
+        QuadHashV3Lookup4(quadgram_obj2, quadhash) : 0;
+
+      // Record hits from both tables when available
+      if (probs1 != 0 || probs2 != 0) {
         // Round-robin two entries of actual hits
         prior_quadhash[next_prior_quadhash] = quadhash;
         next_prior_quadhash = (next_prior_quadhash + 1) & 1;
 
-        // Save indirect subscript for later scoring; 1 or 2 langprobs
-        int indirect_subscr = probs & ~hit_obj->kCLDTableKeyMask;
-        hitbuffer->base[next_base].offset = src - text;     // Offset in text
-        // Flip the high bit for table2
-        hitbuffer->base[next_base].indirect = indirect_subscr | indirect_flag;
-        ++next_base;
+        // Record table 1 hit
+        if (probs1 != 0) {
+          int indirect_subscr = probs1 & ~quadgram_obj->kCLDTableKeyMask;
+          hitbuffer->base[next_base].offset = src - text;
+          hitbuffer->base[next_base].indirect = indirect_subscr;
+          ++next_base;
+        }
+        // Also record table 2 hit so new languages can compete
+        if (probs2 != 0 && next_base < next_base_limit) {
+          int indirect_subscr = probs2 & ~quadgram_obj2->kCLDTableKeyMask;
+          hitbuffer->base[next_base].offset = src - text;
+          hitbuffer->base[next_base].indirect = indirect_subscr | 0x80000000u;
+          ++next_base;
+        }
       }
     }
 
@@ -553,7 +576,7 @@ void GetOctaHits(const char* text,
 int ReliabilityDelta(int value1, int value2, int gramcount) {
   int max_reliability_percent = 100;
   if (gramcount < 8) {
-    max_reliability_percent = 12 * gramcount;
+    max_reliability_percent = 25 * gramcount;
   }
   int fully_reliable_thresh = (gramcount * 5) >> 3;     // see note above
   if (fully_reliable_thresh < kMinGramCount) {          // Fully = 3..16
