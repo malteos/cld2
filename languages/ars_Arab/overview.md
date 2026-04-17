@@ -35,7 +35,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 ### Contributed content
 
 - `https://sabq.org/` — Sabq — Saudi Arabic news — _live WebFetch_
-- `https://www.okaz.com.sa/` — Okaz — Saudi news — _live WebFetch_
 
 ### Catalogued source candidates
 
@@ -43,3 +42,8 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 - `https://sabq.org/` — Sabq — Saudi Arabic news (news)
 - `https://www.alyaum.com/` — Al Yaum — Saudi daily (news)
 - `https://www.okaz.com.sa/` — Okaz — Saudi news (news)
+- `https://www.alriyadh.com/` — Al Riyadh — daily newspaper (news)
+- `https://www.al-madina.com/` — Al Madina newspaper (news)
+- `https://www.al-jazirah.com/` — Al Jazirah — Saudi daily (news)
+- `https://www.alwatan.com.sa/` — Al Watan Saudi Arabia (news)
+- `https://ajel.sa/` — Ajel — Saudi news portal (news)

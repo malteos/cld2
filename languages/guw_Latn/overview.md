@@ -19,11 +19,15 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 ### Contributed content
 
-- `https://beninrevele.bj/` — Bénin Révélé — Government of Benin — _live WebFetch_
 - `https://www.benindiaspora.com/` — Béninoise cultural / education portal — _live WebFetch_
+- `https://lanation.bj/` — La Nation — Bénin official daily — _live WebFetch_
 
 ### Catalogued source candidates
 
-- `https://www.24haubenin.info/` — 24 Heures au Bénin (news from Benin; some Gungbe) (news)
+- `https://www.24haubenin.info/` — 24 Heures au Bénin (news)
 - `https://beninrevele.bj/` — Bénin Révélé — Government of Benin (gov)
 - `https://www.benindiaspora.com/` — Béninoise cultural / education portal (education)
+- `https://www.sonangnon.com/` — Sonangnon — Béninoise news (news)
+- `https://lanation.bj/` — La Nation — Bénin official daily (news)
+- `https://www.banouto.info/` — Banouto — Béninoise news portal (news)
+- `https://fr.allafrica.com/benin/` — AllAfrica — Bénin section (news)

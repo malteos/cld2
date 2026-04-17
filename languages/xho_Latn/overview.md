@@ -35,7 +35,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 ### Contributed content
 
 - `https://xh.wikipedia.org/` — _wikimedia/wikipedia 20231101_
-- `https://www.jw.org/xh/` — jw.org Xhosa edition — _live WebFetch_
 
 ### Catalogued source candidates
 

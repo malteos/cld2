@@ -21,7 +21,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 - `https://nl.wikipedia.org/` — _wikimedia/wikipedia 20231101_
 - `https://www.rijksoverheid.nl/` — Rijksoverheid — Dutch government — _live WebFetch_
-- `https://www.nrc.nl/` — NRC Handelsblad — _live WebFetch_
 
 ### Catalogued source candidates
 

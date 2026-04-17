@@ -5,16 +5,16 @@
   "tier": "high",
   "tier_target": 10000,
   "source": "Wikipedia (et.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
-  "total_tokens": 1093467,
-  "unique_tokens": 178855,
+  "total_tokens": 1093112,
+  "unique_tokens": 178787,
   "words": [
     {
       "word": "ja",
-      "count": 34584
+      "count": 34583
     },
     {
       "word": "on",
-      "count": 25203
+      "count": 25205
     },
     {
       "word": "oli",
@@ -22,31 +22,31 @@
     },
     {
       "word": "ning",
-      "count": 6845
+      "count": 6847
     },
     {
       "word": "ka",
-      "count": 6703
+      "count": 6700
     },
     {
       "word": "ta",
-      "count": 6389
+      "count": 6391
     },
     {
       "word": "et",
-      "count": 6069
+      "count": 6064
     },
     {
       "word": "eesti",
-      "count": 5685
+      "count": 5683
     },
     {
       "word": "aastal",
-      "count": 5416
+      "count": 5417
     },
     {
       "word": "mis",
-      "count": 5238
+      "count": 5237
     },
     {
       "word": "maakond",
@@ -54,11 +54,11 @@
     },
     {
       "word": "ei",
-      "count": 4705
+      "count": 4704
     },
     {
       "word": "kui",
-      "count": 4670
+      "count": 4671
     },
     {
       "word": "vald",
@@ -66,7 +66,7 @@
     },
     {
       "word": "oma",
-      "count": 3370
+      "count": 3369
     },
     {
       "word": "see",
@@ -82,15 +82,15 @@
     },
     {
       "word": "või",
-      "count": 2544
+      "count": 2545
     },
     {
       "word": "selle",
-      "count": 2296
+      "count": 2295
     },
     {
       "word": "kuid",
-      "count": 2286
+      "count": 2285
     },
     {
       "word": "sai",
@@ -98,7 +98,7 @@
     },
     {
       "word": "kes",
-      "count": 2116
+      "count": 2115
     },
     {
       "word": "pärast",
@@ -114,7 +114,7 @@
     },
     {
       "word": "riigi",
-      "count": 1749
+      "count": 1748
     },
     {
       "word": "olid",
@@ -126,7 +126,7 @@
     },
     {
       "word": "tartu",
-      "count": 1685
+      "count": 1686
     },
     {
       "word": "üle",
@@ -134,7 +134,7 @@
     },
     {
       "word": "aga",
-      "count": 1518
+      "count": 1517
     },
     {
       "word": "nii",
@@ -146,7 +146,7 @@
     },
     {
       "word": "ajal",
-      "count": 1474
+      "count": 1476
     },
     {
       "word": "keeles",
@@ -177,16 +177,16 @@
       "count": 1270
     },
     {
-      "word": "näiteks",
-      "count": 1259
-    },
-    {
       "word": "umbes",
       "count": 1259
     },
     {
+      "word": "näiteks",
+      "count": 1258
+    },
+    {
       "word": "vastu",
-      "count": 1244
+      "count": 1243
     },
     {
       "word": "nad",
@@ -198,7 +198,7 @@
     },
     {
       "word": "osa",
-      "count": 1197
+      "count": 1198
     },
     {
       "word": "üks",
@@ -242,7 +242,7 @@
     },
     {
       "word": "kohta",
-      "count": 1010
+      "count": 1009
     },
     {
       "word": "vaid",
@@ -270,7 +270,7 @@
     },
     {
       "word": "aastatel",
-      "count": 924
+      "count": 926
     },
     {
       "word": "alates",
@@ -282,7 +282,7 @@
     },
     {
       "word": "tallinna",
-      "count": 907
+      "count": 909
     },
     {
       "word": "rootsi",
@@ -314,7 +314,7 @@
     },
     {
       "word": "the",
-      "count": 839
+      "count": 838
     },
     {
       "word": "nõukogude",
@@ -341,23 +341,23 @@
       "count": 819
     },
     {
-      "word": "aastat",
+      "word": "all",
       "count": 818
     },
     {
-      "word": "all",
+      "word": "aastat",
       "count": 817
     },
     {
       "word": "vaata",
-      "count": 812
-    },
-    {
-      "word": "ainult",
-      "count": 810
+      "count": 811
     },
     {
       "word": "aastast",
+      "count": 809
+    },
+    {
+      "word": "ainult",
       "count": 809
     },
     {
@@ -378,7 +378,7 @@
     },
     {
       "word": "ameerika",
-      "count": 797
+      "count": 796
     },
     {
       "word": "alla",
@@ -389,16 +389,16 @@
       "count": 794
     },
     {
-      "word": "usa",
-      "count": 792
-    },
-    {
       "word": "tõttu",
       "count": 791
     },
     {
       "word": "riik",
       "count": 789
+    },
+    {
+      "word": "usa",
+      "count": 787
     },
     {
       "word": "maa",
@@ -418,7 +418,7 @@
     },
     {
       "word": "vabariigi",
-      "count": 757
+      "count": 758
     },
     {
       "word": "jõgi",
@@ -454,15 +454,11 @@
     },
     {
       "word": "tagasi",
-      "count": 700
+      "count": 701
     },
     {
       "word": "india",
       "count": 700
-    },
-    {
-      "word": "maailma",
-      "count": 698
     },
     {
       "word": "sellest",
@@ -470,6 +466,10 @@
     },
     {
       "word": "viited",
+      "count": 697
+    },
+    {
+      "word": "maailma",
       "count": 697
     },
     {
@@ -486,7 +486,7 @@
     },
     {
       "word": "asub",
-      "count": 675
+      "count": 674
     },
     {
       "word": "itaalia",
@@ -502,7 +502,7 @@
     },
     {
       "word": "saab",
-      "count": 635
+      "count": 636
     },
     {
       "word": "kuigi",
@@ -518,7 +518,7 @@
     },
     {
       "word": "kokku",
-      "count": 627
+      "count": 628
     },
     {
       "word": "eestis",
@@ -533,11 +533,11 @@
       "count": 619
     },
     {
-      "word": "hispaania",
-      "count": 613
+      "word": "prantsuse",
+      "count": 612
     },
     {
-      "word": "prantsuse",
+      "word": "hispaania",
       "count": 612
     },
     {
@@ -562,7 +562,7 @@
     },
     {
       "word": "teine",
-      "count": 586
+      "count": 587
     },
     {
       "word": "korda",
@@ -606,7 +606,7 @@
     },
     {
       "word": "ülikooli",
-      "count": 553
+      "count": 555
     },
     {
       "word": "eriti",
@@ -621,10 +621,6 @@
       "count": 547
     },
     {
-      "word": "läbi",
-      "count": 547
-    },
-    {
       "word": "peamiselt",
       "count": 546
     },
@@ -633,12 +629,20 @@
       "count": 546
     },
     {
+      "word": "läbi",
+      "count": 545
+    },
+    {
       "word": "nime",
-      "count": 543
+      "count": 542
+    },
+    {
+      "word": "valitsus",
+      "count": 541
     },
     {
       "word": "pole",
-      "count": 540
+      "count": 538
     },
     {
       "word": "võimu",
@@ -647,10 +651,6 @@
     {
       "word": "peale",
       "count": 537
-    },
-    {
-      "word": "valitsus",
-      "count": 536
     },
     {
       "word": "poola",
@@ -737,16 +737,16 @@
       "count": 478
     },
     {
-      "word": "hakkas",
-      "count": 476
-    },
-    {
       "word": "teiste",
       "count": 476
     },
     {
       "word": "riigis",
       "count": 476
+    },
+    {
+      "word": "hakkas",
+      "count": 475
     },
     {
       "word": "kuna",
@@ -797,12 +797,12 @@
       "count": 460
     },
     {
-      "word": "loend",
-      "count": 452
-    },
-    {
       "word": "partei",
       "count": 451
+    },
+    {
+      "word": "loend",
+      "count": 449
     },
     {
       "word": "tal",
@@ -817,12 +817,12 @@
       "count": 442
     },
     {
-      "word": "valiti",
+      "word": "rajoon",
       "count": 441
     },
     {
-      "word": "rajoon",
-      "count": 441
+      "word": "valiti",
+      "count": 440
     },
     {
       "word": "vapp",
@@ -838,7 +838,7 @@
     },
     {
       "word": "järel",
-      "count": 431
+      "count": 430
     },
     {
       "word": "enam",
@@ -894,23 +894,23 @@
     },
     {
       "word": "tuleb",
-      "count": 406
+      "count": 405
+    },
+    {
+      "word": "samal",
+      "count": 404
     },
     {
       "word": "kuulub",
       "count": 403
     },
     {
-      "word": "samal",
-      "count": 403
+      "word": "and",
+      "count": 401
     },
     {
       "word": "pool",
-      "count": 401
-    },
-    {
-      "word": "and",
-      "count": 401
+      "count": 400
     },
     {
       "word": "lucius",
@@ -966,11 +966,7 @@
     },
     {
       "word": "sealhulgas",
-      "count": 387
-    },
-    {
-      "word": "uus",
-      "count": 387
+      "count": 388
     },
     {
       "word": "kraav",
@@ -978,6 +974,10 @@
     },
     {
       "word": "jooksul",
+      "count": 386
+    },
+    {
+      "word": "uus",
       "count": 386
     },
     {
@@ -998,7 +998,7 @@
     },
     {
       "word": "in",
-      "count": 382
+      "count": 381
     },
     {
       "word": "iga",
@@ -1009,11 +1009,11 @@
       "count": 380
     },
     {
-      "word": "nimetatakse",
-      "count": 378
+      "word": "milles",
+      "count": 379
     },
     {
-      "word": "milles",
+      "word": "nimetatakse",
       "count": 378
     },
     {
@@ -1045,12 +1045,12 @@
       "count": 371
     },
     {
-      "word": "rapla",
+      "word": "võimalik",
       "count": 370
     },
     {
-      "word": "võimalik",
-      "count": 369
+      "word": "rapla",
+      "count": 370
     },
     {
       "word": "valgevene",
@@ -1097,8 +1097,16 @@
       "count": 361
     },
     {
+      "word": "valitsuse",
+      "count": 361
+    },
+    {
       "word": "von",
       "count": 361
+    },
+    {
+      "word": "isa",
+      "count": 360
     },
     {
       "word": "maad",
@@ -1106,10 +1114,6 @@
     },
     {
       "word": "aastani",
-      "count": 359
-    },
-    {
-      "word": "isa",
       "count": 359
     },
     {
@@ -1127,10 +1131,6 @@
     {
       "word": "algas",
       "count": 357
-    },
-    {
-      "word": "valitsuse",
-      "count": 356
     },
     {
       "word": "teised",
@@ -1245,12 +1245,12 @@
       "count": 334
     },
     {
-      "word": "toimunud",
+      "word": "armeenia",
       "count": 333
     },
     {
-      "word": "armeenia",
-      "count": 333
+      "word": "toimunud",
+      "count": 332
     },
     {
       "word": "sõja",
@@ -1285,12 +1285,12 @@
       "count": 326
     },
     {
-      "word": "viis",
+      "word": "juulil",
       "count": 325
     },
     {
-      "word": "juulil",
-      "count": 324
+      "word": "viis",
+      "count": 325
     },
     {
       "word": "isegi",
@@ -1334,14 +1334,14 @@
     },
     {
       "word": "tallinnas",
-      "count": 314
-    },
-    {
-      "word": "enda",
-      "count": 313
+      "count": 315
     },
     {
       "word": "käigus",
+      "count": 312
+    },
+    {
+      "word": "enda",
       "count": 312
     },
     {
@@ -1353,15 +1353,11 @@
       "count": 312
     },
     {
-      "word": "jaoks",
-      "count": 310
-    },
-    {
       "word": "seejärel",
-      "count": 310
+      "count": 311
     },
     {
-      "word": "kirjutas",
+      "word": "jaoks",
       "count": 310
     },
     {
@@ -1374,6 +1370,10 @@
     },
     {
       "word": "enamik",
+      "count": 309
+    },
+    {
+      "word": "kirjutas",
       "count": 309
     },
     {
@@ -1433,10 +1433,6 @@
       "count": 300
     },
     {
-      "word": "postimees",
-      "count": 300
-    },
-    {
       "word": "juurde",
       "count": 299
     },
@@ -1445,7 +1441,7 @@
       "count": 299
     },
     {
-      "word": "said",
+      "word": "postimees",
       "count": 298
     },
     {
@@ -1454,6 +1450,10 @@
     },
     {
       "word": "andmetel",
+      "count": 297
+    },
+    {
+      "word": "said",
       "count": 297
     },
     {
@@ -1538,7 +1538,7 @@
     },
     {
       "word": "presidendi",
-      "count": 284
+      "count": 283
     },
     {
       "word": "artikkel",
@@ -1547,14 +1547,6 @@
     {
       "word": "samas",
       "count": 282
-    },
-    {
-      "word": "ukraina",
-      "count": 282
-    },
-    {
-      "word": "mil",
-      "count": 281
     },
     {
       "word": "eri",
@@ -1573,6 +1565,14 @@
       "count": 281
     },
     {
+      "word": "ukraina",
+      "count": 281
+    },
+    {
+      "word": "mil",
+      "count": 280
+    },
+    {
       "word": "kliima",
       "count": 280
     },
@@ -1585,15 +1585,15 @@
       "count": 280
     },
     {
-      "word": "mitu",
-      "count": 280
-    },
-    {
       "word": "midagi",
       "count": 279
     },
     {
       "word": "suhted",
+      "count": 279
+    },
+    {
+      "word": "mitu",
       "count": 279
     },
     {
@@ -1629,12 +1629,12 @@
       "count": 273
     },
     {
-      "word": "seega",
+      "word": "akadeemia",
       "count": 273
     },
     {
-      "word": "akadeemia",
-      "count": 272
+      "word": "seega",
+      "count": 273
     },
     {
       "word": "koosneb",
@@ -1670,7 +1670,7 @@
     },
     {
       "word": "riigid",
-      "count": 267
+      "count": 266
     },
     {
       "word": "tähendab",
@@ -1693,16 +1693,16 @@
       "count": 264
     },
     {
-      "word": "praegu",
-      "count": 263
-    },
-    {
       "word": "liit",
       "count": 263
     },
     {
-      "word": "aprill",
+      "word": "praegu",
       "count": 262
+    },
+    {
+      "word": "aprill",
+      "count": 261
     },
     {
       "word": "endine",
@@ -1733,6 +1733,10 @@
       "count": 256
     },
     {
+      "word": "juures",
+      "count": 255
+    },
+    {
       "word": "ühendriikide",
       "count": 255
     },
@@ -1749,20 +1753,12 @@
       "count": 255
     },
     {
-      "word": "juures",
-      "count": 254
-    },
-    {
       "word": "korral",
       "count": 254
     },
     {
       "word": "esimees",
       "count": 251
-    },
-    {
-      "word": "nato",
-      "count": 249
     },
     {
       "word": "üro",
@@ -1777,7 +1773,15 @@
       "count": 249
     },
     {
+      "word": "nato",
+      "count": 248
+    },
+    {
       "word": "küll",
+      "count": 248
+    },
+    {
+      "word": "sündis",
       "count": 248
     },
     {
@@ -1786,10 +1790,6 @@
     },
     {
       "word": "asuvad",
-      "count": 247
-    },
-    {
-      "word": "sündis",
       "count": 247
     },
     {
@@ -1833,16 +1833,16 @@
       "count": 242
     },
     {
-      "word": "teha",
-      "count": 242
-    },
-    {
       "word": "olema",
       "count": 242
     },
     {
       "word": "peaminister",
-      "count": 241
+      "count": 242
+    },
+    {
+      "word": "teha",
+      "count": 240
     },
     {
       "word": "seisuga",
@@ -1877,10 +1877,6 @@
       "count": 237
     },
     {
-      "word": "riigikogu",
-      "count": 237
-    },
-    {
       "word": "mai",
       "count": 237
     },
@@ -1897,12 +1893,16 @@
       "count": 236
     },
     {
-      "word": "johann",
+      "word": "riigikogu",
       "count": 235
     },
     {
-      "word": "suhtes",
+      "word": "johann",
       "count": 234
+    },
+    {
+      "word": "suhtes",
+      "count": 233
     },
     {
       "word": "päeva",
@@ -1962,7 +1962,7 @@
     },
     {
       "word": "kolme",
-      "count": 227
+      "count": 228
     },
     {
       "word": "detsember",
@@ -2085,6 +2085,10 @@
       "count": 211
     },
     {
+      "word": "annab",
+      "count": 210
+    },
+    {
       "word": "ülikool",
       "count": 210
     },
@@ -2099,10 +2103,6 @@
     {
       "word": "hea",
       "count": 210
-    },
-    {
-      "word": "annab",
-      "count": 209
     },
     {
       "word": "pealinn",
@@ -2157,10 +2157,6 @@
       "count": 204
     },
     {
-      "word": "neli",
-      "count": 204
-    },
-    {
       "word": "suuremad",
       "count": 204
     },
@@ -2181,19 +2177,19 @@
       "count": 203
     },
     {
-      "word": "pidas",
-      "count": 203
+      "word": "neli",
+      "count": 202
     },
     {
       "word": "moodustab",
       "count": 202
     },
     {
-      "word": "kirjanduse",
+      "word": "pidas",
       "count": 202
     },
     {
-      "word": "presidendiks",
+      "word": "kirjanduse",
       "count": 202
     },
     {
@@ -2206,6 +2202,10 @@
     },
     {
       "word": "november",
+      "count": 201
+    },
+    {
+      "word": "presidendiks",
       "count": 201
     },
     {
@@ -2273,10 +2273,6 @@
       "count": 195
     },
     {
-      "word": "le",
-      "count": 195
-    },
-    {
       "word": "nimetati",
       "count": 194
     },
@@ -2301,15 +2297,23 @@
       "count": 193
     },
     {
+      "word": "lõpetas",
+      "count": 193
+    },
+    {
+      "word": "le",
+      "count": 193
+    },
+    {
+      "word": "õppis",
+      "count": 193
+    },
+    {
       "word": "mere",
       "count": 192
     },
     {
       "word": "taas",
-      "count": 192
-    },
-    {
-      "word": "lõpetas",
       "count": 192
     },
     {
@@ -2326,10 +2330,6 @@
     },
     {
       "word": "avati",
-      "count": 191
-    },
-    {
-      "word": "õppis",
       "count": 191
     },
     {
@@ -2389,12 +2389,20 @@
       "count": 186
     },
     {
+      "word": "ee",
+      "count": 186
+    },
+    {
       "word": "peeter",
       "count": 186
     },
     {
       "word": "ütles",
       "count": 186
+    },
+    {
+      "word": "ajaloo",
+      "count": 185
     },
     {
       "word": "neile",
@@ -2406,10 +2414,6 @@
     },
     {
       "word": "hakkasid",
-      "count": 185
-    },
-    {
-      "word": "alustas",
       "count": 185
     },
     {
@@ -2425,15 +2429,15 @@
       "count": 185
     },
     {
-      "word": "ee",
-      "count": 185
-    },
-    {
       "word": "jaguneb",
       "count": 184
     },
     {
       "word": "loodi",
+      "count": 184
+    },
+    {
+      "word": "alustas",
       "count": 184
     },
     {
@@ -2443,10 +2447,6 @@
     {
       "word": "uuesti",
       "count": 183
-    },
-    {
-      "word": "ajaloo",
-      "count": 182
     },
     {
       "word": "üksnes",
@@ -2533,6 +2533,10 @@
       "count": 179
     },
     {
+      "word": "ülikoolis",
+      "count": 178
+    },
+    {
       "word": "robert",
       "count": 178
     },
@@ -2561,11 +2565,11 @@
       "count": 177
     },
     {
-      "word": "ülikoolis",
+      "word": "piirkonnas",
       "count": 176
     },
     {
-      "word": "piirkonnas",
+      "word": "toimub",
       "count": 176
     },
     {
@@ -2581,20 +2585,16 @@
       "count": 176
     },
     {
+      "word": "nimetatud",
+      "count": 175
+    },
+    {
       "word": "juhtimisel",
       "count": 175
     },
     {
       "word": "moodustati",
       "count": 175
-    },
-    {
-      "word": "toimub",
-      "count": 175
-    },
-    {
-      "word": "nimetatud",
-      "count": 174
     },
     {
       "word": "provints",
@@ -2637,10 +2637,6 @@
       "count": 171
     },
     {
-      "word": "iisraeli",
-      "count": 171
-    },
-    {
       "word": "põhjas",
       "count": 170
     },
@@ -2650,6 +2646,10 @@
     },
     {
       "word": "belgia",
+      "count": 170
+    },
+    {
+      "word": "iisraeli",
       "count": 170
     },
     {
@@ -2681,11 +2681,11 @@
       "count": 168
     },
     {
-      "word": "omakorda",
-      "count": 167
+      "word": "kasutada",
+      "count": 168
     },
     {
-      "word": "kujunes",
+      "word": "omakorda",
       "count": 167
     },
     {
@@ -2697,11 +2697,7 @@
       "count": 167
     },
     {
-      "word": "kasutada",
-      "count": 167
-    },
-    {
-      "word": "kõrval",
+      "word": "kujunes",
       "count": 166
     },
     {
@@ -2719,6 +2715,10 @@
     {
       "word": "looduskaitseala",
       "count": 166
+    },
+    {
+      "word": "kõrval",
+      "count": 165
     },
     {
       "word": "täielikult",
@@ -2753,6 +2753,10 @@
       "count": 163
     },
     {
+      "word": "teaduste",
+      "count": 163
+    },
+    {
       "word": "kasutati",
       "count": 163
     },
@@ -2767,10 +2771,6 @@
     {
       "word": "tegelikult",
       "count": 163
-    },
-    {
-      "word": "teaduste",
-      "count": 162
     },
     {
       "word": "läänes",
@@ -2794,10 +2794,6 @@
     },
     {
       "word": "töö",
-      "count": 162
-    },
-    {
-      "word": "kinnitas",
       "count": 162
     },
     {
@@ -2838,6 +2834,10 @@
     },
     {
       "word": "poolel",
+      "count": 160
+    },
+    {
+      "word": "kinnitas",
       "count": 160
     },
     {
@@ -2961,10 +2961,6 @@
       "count": 154
     },
     {
-      "word": "suurema",
-      "count": 154
-    },
-    {
       "word": "rahvaloenduse",
       "count": 154
     },
@@ -2978,6 +2974,10 @@
     },
     {
       "word": "tänu",
+      "count": 153
+    },
+    {
+      "word": "suurema",
       "count": 153
     },
     {
@@ -3133,6 +3133,10 @@
       "count": 146
     },
     {
+      "word": "keskus",
+      "count": 146
+    },
+    {
       "word": "mõlemad",
       "count": 146
     },
@@ -3151,10 +3155,6 @@
     {
       "word": "jeesuse",
       "count": 146
-    },
-    {
-      "word": "keskus",
-      "count": 145
     },
     {
       "word": "olles",
@@ -3213,15 +3213,7 @@
       "count": 143
     },
     {
-      "word": "anda",
-      "count": 143
-    },
-    {
       "word": "nn",
-      "count": 143
-    },
-    {
-      "word": "lepingu",
       "count": 143
     },
     {
@@ -3233,15 +3225,11 @@
       "count": 143
     },
     {
-      "word": "erinevad",
-      "count": 142
-    },
-    {
-      "word": "heaks",
-      "count": 142
-    },
-    {
       "word": "pealinna",
+      "count": 142
+    },
+    {
+      "word": "anda",
       "count": 142
     },
     {
@@ -3251,6 +3239,18 @@
     {
       "word": "hästi",
       "count": 142
+    },
+    {
+      "word": "erinevad",
+      "count": 141
+    },
+    {
+      "word": "heaks",
+      "count": 141
+    },
+    {
+      "word": "lepingu",
+      "count": 141
     },
     {
       "word": "mihhail",
@@ -3298,10 +3298,6 @@
     },
     {
       "word": "venemaal",
-      "count": 140
-    },
-    {
-      "word": "indoneesia",
       "count": 140
     },
     {
@@ -3405,6 +3401,10 @@
       "count": 137
     },
     {
+      "word": "indoneesia",
+      "count": 137
+    },
+    {
       "word": "poliitiline",
       "count": 136
     },
@@ -3430,6 +3430,10 @@
     },
     {
       "word": "ennast",
+      "count": 135
+    },
+    {
+      "word": "andres",
       "count": 135
     },
     {
@@ -3477,10 +3481,6 @@
       "count": 135
     },
     {
-      "word": "andres",
-      "count": 134
-    },
-    {
       "word": "suunas",
       "count": 134
     },
@@ -3513,10 +3513,6 @@
       "count": 134
     },
     {
-      "word": "saavad",
-      "count": 133
-    },
-    {
       "word": "saadeti",
       "count": 133
     },
@@ -3541,10 +3537,6 @@
       "count": 133
     },
     {
-      "word": "must",
-      "count": 133
-    },
-    {
       "word": "ilves",
       "count": 133
     },
@@ -3557,7 +3549,15 @@
       "count": 133
     },
     {
+      "word": "saavad",
+      "count": 132
+    },
+    {
       "word": "tulemusena",
+      "count": 132
+    },
+    {
+      "word": "must",
       "count": 132
     },
     {
@@ -3589,10 +3589,6 @@
       "count": 130
     },
     {
-      "word": "asutatud",
-      "count": 130
-    },
-    {
       "word": "kilomeetrit",
       "count": 130
     },
@@ -3603,6 +3599,10 @@
     {
       "word": "kohe",
       "count": 130
+    },
+    {
+      "word": "asutatud",
+      "count": 129
     },
     {
       "word": "erinevalt",
@@ -3649,10 +3649,6 @@
       "count": 128
     },
     {
-      "word": "lõi",
-      "count": 127
-    },
-    {
       "word": "pikkus",
       "count": 127
     },
@@ -3678,6 +3674,10 @@
     },
     {
       "word": "uurib",
+      "count": 126
+    },
+    {
+      "word": "lõi",
       "count": 126
     },
     {
@@ -3777,10 +3777,6 @@
       "count": 124
     },
     {
-      "word": "mitme",
-      "count": 123
-    },
-    {
       "word": "seni",
       "count": 123
     },
@@ -3823,6 +3819,10 @@
     {
       "word": "teatas",
       "count": 123
+    },
+    {
+      "word": "mitme",
+      "count": 122
     },
     {
       "word": "keelde",
@@ -3905,10 +3905,6 @@
       "count": 121
     },
     {
-      "word": "peter",
-      "count": 120
-    },
-    {
       "word": "vesi",
       "count": 120
     },
@@ -3950,6 +3946,10 @@
     },
     {
       "word": "kuus",
+      "count": 119
+    },
+    {
+      "word": "peter",
       "count": 119
     },
     {
@@ -4085,10 +4085,6 @@
       "count": 115
     },
     {
-      "word": "kollane",
-      "count": 115
-    },
-    {
       "word": "teistest",
       "count": 115
     },
@@ -4171,6 +4167,10 @@
     {
       "word": "merkuuri",
       "count": 114
+    },
+    {
+      "word": "kollane",
+      "count": 113
     },
     {
       "word": "asustatud",
@@ -4261,6 +4261,10 @@
       "count": 112
     },
     {
+      "word": "majanduse",
+      "count": 111
+    },
+    {
       "word": "uued",
       "count": 111
     },
@@ -4289,19 +4293,7 @@
       "count": 111
     },
     {
-      "word": "vanim",
-      "count": 110
-    },
-    {
-      "word": "ilmunud",
-      "count": 110
-    },
-    {
       "word": "põhineb",
-      "count": 110
-    },
-    {
-      "word": "majanduse",
       "count": 110
     },
     {
@@ -4339,6 +4331,14 @@
     {
       "word": "majakovski",
       "count": 110
+    },
+    {
+      "word": "vanim",
+      "count": 109
+    },
+    {
+      "word": "ilmunud",
+      "count": 109
     },
     {
       "word": "vett",
@@ -4383,10 +4383,6 @@
     {
       "word": "cm",
       "count": 109
-    },
-    {
-      "word": "ehkki",
-      "count": 108
     },
     {
       "word": "iraagi",
@@ -4441,6 +4437,10 @@
       "count": 108
     },
     {
+      "word": "ehkki",
+      "count": 107
+    },
+    {
       "word": "räägib",
       "count": 107
     },
@@ -4462,10 +4462,6 @@
     },
     {
       "word": "komitee",
-      "count": 107
-    },
-    {
-      "word": "peaks",
       "count": 107
     },
     {
@@ -4550,6 +4546,10 @@
     },
     {
       "word": "jakob",
+      "count": 105
+    },
+    {
+      "word": "peaks",
       "count": 105
     },
     {
@@ -4661,10 +4661,6 @@
       "count": 103
     },
     {
-      "word": "jalgpallikoondis",
-      "count": 102
-    },
-    {
       "word": "juan",
       "count": 102
     },
@@ -4713,6 +4709,10 @@
       "count": 102
     },
     {
+      "word": "õiguse",
+      "count": 102
+    },
+    {
       "word": "lahing",
       "count": 102
     },
@@ -4730,6 +4730,10 @@
     },
     {
       "word": "jäävad",
+      "count": 101
+    },
+    {
+      "word": "jalgpallikoondis",
       "count": 101
     },
     {
@@ -4773,19 +4777,11 @@
       "count": 101
     },
     {
-      "word": "teinud",
-      "count": 101
-    },
-    {
       "word": "ühendatud",
       "count": 101
     },
     {
       "word": "tõde",
-      "count": 101
-    },
-    {
-      "word": "õiguse",
       "count": 101
     },
     {
@@ -4814,6 +4810,10 @@
     },
     {
       "word": "sunnitud",
+      "count": 100
+    },
+    {
+      "word": "teinud",
       "count": 100
     },
     {
@@ -4853,10 +4853,6 @@
       "count": 99
     },
     {
-      "word": "loetakse",
-      "count": 98
-    },
-    {
       "word": "liiget",
       "count": 98
     },
@@ -4882,10 +4878,6 @@
     },
     {
       "word": "saavutas",
-      "count": 98
-    },
-    {
-      "word": "toetas",
       "count": 98
     },
     {
@@ -4921,6 +4913,10 @@
       "count": 98
     },
     {
+      "word": "loetakse",
+      "count": 97
+    },
+    {
       "word": "bütsantsi",
       "count": 97
     },
@@ -4929,15 +4925,15 @@
       "count": 97
     },
     {
+      "word": "toetas",
+      "count": 97
+    },
+    {
       "word": "puhkes",
       "count": 97
     },
     {
       "word": "süsteem",
-      "count": 97
-    },
-    {
-      "word": "juhitud",
       "count": 97
     },
     {
@@ -5014,6 +5010,10 @@
     },
     {
       "word": "tulemusel",
+      "count": 96
+    },
+    {
+      "word": "juhitud",
       "count": 96
     },
     {
@@ -5133,10 +5133,6 @@
       "count": 94
     },
     {
-      "word": "maja",
-      "count": 94
-    },
-    {
       "word": "raamatus",
       "count": 94
     },
@@ -5154,6 +5150,10 @@
     },
     {
       "word": "ants",
+      "count": 93
+    },
+    {
+      "word": "ajakirja",
       "count": 93
     },
     {
@@ -5197,7 +5197,15 @@
       "count": 93
     },
     {
+      "word": "maja",
+      "count": 93
+    },
+    {
       "word": "kooli",
+      "count": 93
+    },
+    {
+      "word": "kell",
       "count": 93
     },
     {
@@ -5206,10 +5214,6 @@
     },
     {
       "word": "räägitakse",
-      "count": 92
-    },
-    {
-      "word": "ajakirja",
       "count": 92
     },
     {
@@ -5250,6 +5254,10 @@
     },
     {
       "word": "läinud",
+      "count": 92
+    },
+    {
+      "word": "poja",
       "count": 92
     },
     {
@@ -5305,10 +5313,6 @@
       "count": 91
     },
     {
-      "word": "poja",
-      "count": 91
-    },
-    {
       "word": "heinrich",
       "count": 91
     },
@@ -5322,10 +5326,6 @@
     },
     {
       "word": "tekib",
-      "count": 91
-    },
-    {
-      "word": "kell",
       "count": 91
     },
     {
@@ -5354,6 +5354,10 @@
     },
     {
       "word": "ajaloolised",
+      "count": 90
+    },
+    {
+      "word": "võimaldab",
       "count": 90
     },
     {
@@ -5441,10 +5445,6 @@
       "count": 89
     },
     {
-      "word": "võimaldab",
-      "count": 89
-    },
-    {
       "word": "kasutatud",
       "count": 89
     },
@@ -5465,15 +5465,7 @@
       "count": 89
     },
     {
-      "word": "naiste",
-      "count": 88
-    },
-    {
       "word": "kõrgem",
-      "count": 88
-    },
-    {
-      "word": "kasutades",
       "count": 88
     },
     {
@@ -5553,6 +5545,10 @@
       "count": 87
     },
     {
+      "word": "naiste",
+      "count": 87
+    },
+    {
       "word": "punkt",
       "count": 87
     },
@@ -5562,6 +5558,10 @@
     },
     {
       "word": "järgnes",
+      "count": 87
+    },
+    {
+      "word": "kasutades",
       "count": 87
     },
     {
@@ -5633,10 +5633,6 @@
       "count": 86
     },
     {
-      "word": "head",
-      "count": 86
-    },
-    {
       "word": "tugev",
       "count": 86
     },
@@ -5705,6 +5701,14 @@
       "count": 86
     },
     {
+      "word": "ajalooline",
+      "count": 85
+    },
+    {
+      "word": "head",
+      "count": 85
+    },
+    {
       "word": "enamiku",
       "count": 85
     },
@@ -5726,6 +5730,10 @@
     },
     {
       "word": "nimeks",
+      "count": 85
+    },
+    {
+      "word": "hoone",
       "count": 85
     },
     {
@@ -5789,10 +5797,6 @@
       "count": 85
     },
     {
-      "word": "ajalooline",
-      "count": 84
-    },
-    {
       "word": "muid",
       "count": 84
     },
@@ -5814,10 +5818,6 @@
     },
     {
       "word": "teiseks",
-      "count": 84
-    },
-    {
-      "word": "hoone",
       "count": 84
     },
     {
@@ -5917,6 +5917,10 @@
       "count": 83
     },
     {
+      "word": "instituudi",
+      "count": 82
+    },
+    {
       "word": "tegutseb",
       "count": 82
     },
@@ -5981,10 +5985,6 @@
       "count": 81
     },
     {
-      "word": "instituudi",
-      "count": 81
-    },
-    {
       "word": "tähtsamad",
       "count": 81
     },
@@ -6041,14 +6041,6 @@
       "count": 81
     },
     {
-      "word": "ühiskonna",
-      "count": 80
-    },
-    {
-      "word": "ernst",
-      "count": 80
-    },
-    {
       "word": "valitseb",
       "count": 80
     },
@@ -6065,15 +6057,15 @@
       "count": 80
     },
     {
-      "word": "endiselt",
-      "count": 80
-    },
-    {
       "word": "viini",
       "count": 80
     },
     {
       "word": "surmani",
+      "count": 80
+    },
+    {
+      "word": "hoida",
       "count": 80
     },
     {
@@ -6117,7 +6109,15 @@
       "count": 79
     },
     {
+      "word": "ühiskonna",
+      "count": 79
+    },
+    {
       "word": "york",
+      "count": 79
+    },
+    {
+      "word": "ernst",
       "count": 79
     },
     {
@@ -6129,14 +6129,6 @@
       "count": 79
     },
     {
-      "word": "tundi",
-      "count": 79
-    },
-    {
-      "word": "suurus",
-      "count": 79
-    },
-    {
       "word": "läheb",
       "count": 79
     },
@@ -6145,11 +6137,11 @@
       "count": 79
     },
     {
-      "word": "algasid",
+      "word": "boliivia",
       "count": 79
     },
     {
-      "word": "boliivia",
+      "word": "endiselt",
       "count": 79
     },
     {
@@ -6161,19 +6153,11 @@
       "count": 79
     },
     {
-      "word": "hoida",
-      "count": 79
-    },
-    {
       "word": "kirjanike",
       "count": 79
     },
     {
       "word": "auhind",
-      "count": 79
-    },
-    {
-      "word": "otse",
       "count": 79
     },
     {
@@ -6201,7 +6185,11 @@
       "count": 79
     },
     {
-      "word": "voldemar",
+      "word": "tundi",
+      "count": 78
+    },
+    {
+      "word": "suurus",
       "count": 78
     },
     {
@@ -6218,6 +6206,10 @@
     },
     {
       "word": "põgenes",
+      "count": 78
+    },
+    {
+      "word": "algasid",
       "count": 78
     },
     {
@@ -6293,6 +6285,10 @@
       "count": 78
     },
     {
+      "word": "voldemar",
+      "count": 77
+    },
+    {
       "word": "alfred",
       "count": 77
     },
@@ -6353,7 +6349,7 @@
       "count": 77
     },
     {
-      "word": "piisavalt",
+      "word": "algab",
       "count": 77
     },
     {
@@ -6433,7 +6429,7 @@
       "count": 76
     },
     {
-      "word": "algab",
+      "word": "piisavalt",
       "count": 76
     },
     {
@@ -6765,10 +6761,6 @@
       "count": 72
     },
     {
-      "word": "tuhat",
-      "count": 72
-    },
-    {
       "word": "hertsog",
       "count": 72
     },
@@ -6833,14 +6825,6 @@
       "count": 71
     },
     {
-      "word": "sari",
-      "count": 71
-    },
-    {
-      "word": "alguseks",
-      "count": 71
-    },
-    {
       "word": "afganistani",
       "count": 71
     },
@@ -6873,15 +6857,15 @@
       "count": 71
     },
     {
-      "word": "paremini",
-      "count": 71
-    },
-    {
       "word": "roll",
       "count": 71
     },
     {
       "word": "taastati",
+      "count": 71
+    },
+    {
+      "word": "tuhat",
       "count": 71
     },
     {
@@ -6953,7 +6937,19 @@
       "count": 70
     },
     {
+      "word": "sari",
+      "count": 70
+    },
+    {
+      "word": "alguseks",
+      "count": 70
+    },
+    {
       "word": "vapil",
+      "count": 70
+    },
+    {
+      "word": "paremini",
       "count": 70
     },
     {
@@ -7042,6 +7038,10 @@
     },
     {
       "word": "riigilipp",
+      "count": 70
+    },
+    {
+      "word": "välisminister",
       "count": 70
     },
     {
@@ -7141,10 +7141,6 @@
       "count": 69
     },
     {
-      "word": "välisminister",
-      "count": 69
-    },
-    {
       "word": "da",
       "count": 69
     },
@@ -7178,10 +7174,6 @@
     },
     {
       "word": "haru",
-      "count": 68
-    },
-    {
-      "word": "sees",
       "count": 68
     },
     {
@@ -7257,10 +7249,6 @@
       "count": 68
     },
     {
-      "word": "liechtensteini",
-      "count": 68
-    },
-    {
       "word": "endast",
       "count": 68
     },
@@ -7333,6 +7321,10 @@
       "count": 67
     },
     {
+      "word": "sees",
+      "count": 67
+    },
+    {
       "word": "tiit",
       "count": 67
     },
@@ -7394,6 +7386,10 @@
     },
     {
       "word": "sellise",
+      "count": 67
+    },
+    {
+      "word": "liechtensteini",
       "count": 67
     },
     {
@@ -7542,10 +7538,6 @@
     },
     {
       "word": "keemia",
-      "count": 66
-    },
-    {
-      "word": "palus",
       "count": 66
     },
     {
@@ -7778,6 +7770,10 @@
     },
     {
       "word": "horvaatia",
+      "count": 64
+    },
+    {
+      "word": "palus",
       "count": 64
     },
     {
@@ -8581,10 +8577,6 @@
       "count": 59
     },
     {
-      "word": "err",
-      "count": 58
-    },
-    {
       "word": "neljaks",
       "count": 58
     },
@@ -8674,6 +8666,10 @@
     },
     {
       "word": "väidab",
+      "count": 58
+    },
+    {
+      "word": "leiab",
       "count": 58
     },
     {
@@ -8830,10 +8826,6 @@
     },
     {
       "word": "igas",
-      "count": 57
-    },
-    {
-      "word": "leiab",
       "count": 57
     },
     {
@@ -9037,6 +9029,10 @@
       "count": 56
     },
     {
+      "word": "võimalus",
+      "count": 56
+    },
+    {
       "word": "analüüs",
       "count": 56
     },
@@ -9122,10 +9118,6 @@
     },
     {
       "word": "mõnel",
-      "count": 55
-    },
-    {
-      "word": "mitmesuguseid",
       "count": 55
     },
     {
@@ -9229,7 +9221,7 @@
       "count": 55
     },
     {
-      "word": "võimalus",
+      "word": "sisu",
       "count": 55
     },
     {
@@ -9325,6 +9317,10 @@
       "count": 54
     },
     {
+      "word": "mitmesuguseid",
+      "count": 54
+    },
+    {
       "word": "stiilis",
       "count": 54
     },
@@ -9377,10 +9373,6 @@
       "count": 54
     },
     {
-      "word": "org",
-      "count": 54
-    },
-    {
       "word": "linnapea",
       "count": 54
     },
@@ -9410,10 +9402,6 @@
     },
     {
       "word": "keemiline",
-      "count": 54
-    },
-    {
-      "word": "sisu",
       "count": 54
     },
     {
@@ -9669,7 +9657,7 @@
       "count": 53
     },
     {
-      "word": "ülesanne",
+      "word": "tegelevad",
       "count": 52
     },
     {
@@ -9725,6 +9713,10 @@
       "count": 52
     },
     {
+      "word": "org",
+      "count": 52
+    },
+    {
       "word": "aruba",
       "count": 52
     },
@@ -9766,10 +9758,6 @@
     },
     {
       "word": "koidula",
-      "count": 52
-    },
-    {
-      "word": "valik",
       "count": 52
     },
     {
@@ -9817,11 +9805,11 @@
       "count": 51
     },
     {
-      "word": "tegelevad",
+      "word": "ülesanne",
       "count": 51
     },
     {
-      "word": "ajaleht",
+      "word": "err",
       "count": 51
     },
     {
@@ -9933,6 +9921,10 @@
       "count": 51
     },
     {
+      "word": "otse",
+      "count": 51
+    },
+    {
       "word": "kirjeldab",
       "count": 51
     },
@@ -9974,6 +9966,10 @@
     },
     {
       "word": "world",
+      "count": 51
+    },
+    {
+      "word": "valik",
       "count": 51
     },
     {
@@ -10214,6 +10210,14 @@
     },
     {
       "word": "teistele",
+      "count": 49
+    },
+    {
+      "word": "koostöös",
+      "count": 49
+    },
+    {
+      "word": "ajaleht",
       "count": 49
     },
     {
@@ -10469,10 +10473,6 @@
       "count": 48
     },
     {
-      "word": "antakse",
-      "count": 48
-    },
-    {
       "word": "augusti",
       "count": 48
     },
@@ -10709,19 +10709,7 @@
       "count": 47
     },
     {
-      "word": "koostöös",
-      "count": 47
-    },
-    {
-      "word": "säilitada",
-      "count": 47
-    },
-    {
       "word": "teadlased",
-      "count": 47
-    },
-    {
-      "word": "enam-vähem",
       "count": 47
     },
     {
@@ -10837,10 +10825,6 @@
       "count": 47
     },
     {
-      "word": "hoiab",
-      "count": 47
-    },
-    {
       "word": "vastavad",
       "count": 47
     },
@@ -10942,6 +10926,18 @@
     },
     {
       "word": "uurida",
+      "count": 46
+    },
+    {
+      "word": "säilitada",
+      "count": 46
+    },
+    {
+      "word": "antakse",
+      "count": 46
+    },
+    {
+      "word": "enam-vähem",
       "count": 46
     },
     {
@@ -11125,6 +11121,10 @@
       "count": 46
     },
     {
+      "word": "hoiab",
+      "count": 46
+    },
+    {
       "word": "võimatu",
       "count": 46
     },
@@ -11138,10 +11138,6 @@
     },
     {
       "word": "ideede",
-      "count": 46
-    },
-    {
-      "word": "otsus",
       "count": 46
     },
     {
@@ -11238,10 +11234,6 @@
     },
     {
       "word": "väiksemad",
-      "count": 45
-    },
-    {
-      "word": "kanda",
       "count": 45
     },
     {
@@ -11373,10 +11365,6 @@
       "count": 45
     },
     {
-      "word": "esitada",
-      "count": 45
-    },
-    {
       "word": "teadusliku",
       "count": 45
     },
@@ -11385,7 +11373,7 @@
       "count": 45
     },
     {
-      "word": "tundub",
+      "word": "otsus",
       "count": 45
     },
     {
@@ -11625,6 +11613,10 @@
       "count": 44
     },
     {
+      "word": "esitada",
+      "count": 44
+    },
+    {
       "word": "käitumise",
       "count": 44
     },
@@ -11638,6 +11630,10 @@
     },
     {
       "word": "francis",
+      "count": 44
+    },
+    {
+      "word": "tundub",
       "count": 44
     },
     {
@@ -11737,6 +11733,10 @@
       "count": 44
     },
     {
+      "word": "arheoloogia",
+      "count": 43
+    },
+    {
       "word": "tekstid",
       "count": 43
     },
@@ -11778,6 +11778,10 @@
     },
     {
       "word": "sõjad",
+      "count": 43
+    },
+    {
+      "word": "kanda",
       "count": 43
     },
     {
@@ -11846,10 +11850,6 @@
     },
     {
       "word": "äärde",
-      "count": 43
-    },
-    {
-      "word": "lahingu",
       "count": 43
     },
     {
@@ -12029,6 +12029,10 @@
       "count": 43
     },
     {
+      "word": "www",
+      "count": 43
+    },
+    {
       "word": "minutit",
       "count": 43
     },
@@ -12145,6 +12149,10 @@
       "count": 42
     },
     {
+      "word": "lahingu",
+      "count": 42
+    },
+    {
       "word": "sekretär",
       "count": 42
     },
@@ -12161,6 +12169,10 @@
       "count": 42
     },
     {
+      "word": "kaitseväe",
+      "count": 42
+    },
+    {
       "word": "koju",
       "count": 42
     },
@@ -12170,10 +12182,6 @@
     },
     {
       "word": "lastele",
-      "count": 42
-    },
-    {
-      "word": "sarnaselt",
       "count": 42
     },
     {
@@ -12317,14 +12325,6 @@
       "count": 42
     },
     {
-      "word": "arheoloogia",
-      "count": 41
-    },
-    {
-      "word": "välismaa",
-      "count": 41
-    },
-    {
       "word": "rahvavabariik",
       "count": 41
     },
@@ -12433,14 +12433,6 @@
       "count": 41
     },
     {
-      "word": "teenis",
-      "count": 41
-    },
-    {
-      "word": "kaitseväe",
-      "count": 41
-    },
-    {
       "word": "kirjutada",
       "count": 41
     },
@@ -12458,6 +12450,10 @@
     },
     {
       "word": "kasutamise",
+      "count": 41
+    },
+    {
+      "word": "sarnaselt",
       "count": 41
     },
     {
@@ -12637,10 +12633,6 @@
       "count": 40
     },
     {
-      "word": "intervjuu",
-      "count": 40
-    },
-    {
       "word": "pakistani",
       "count": 40
     },
@@ -12722,6 +12714,10 @@
     },
     {
       "word": "võttes",
+      "count": 40
+    },
+    {
+      "word": "teenis",
       "count": 40
     },
     {
@@ -12873,10 +12869,6 @@
       "count": 40
     },
     {
-      "word": "kiitis",
-      "count": 40
-    },
-    {
       "word": "mõjutada",
       "count": 40
     },
@@ -12978,6 +12970,14 @@
     },
     {
       "word": "sündmuste",
+      "count": 39
+    },
+    {
+      "word": "intervjuu",
+      "count": 39
+    },
+    {
+      "word": "välismaa",
       "count": 39
     },
     {
@@ -13165,10 +13165,6 @@
       "count": 39
     },
     {
-      "word": "tekst",
-      "count": 39
-    },
-    {
       "word": "rené",
       "count": 39
     },
@@ -13214,6 +13210,10 @@
     },
     {
       "word": "hakkavad",
+      "count": 39
+    },
+    {
+      "word": "kiitis",
       "count": 39
     },
     {
@@ -13509,6 +13509,10 @@
       "count": 38
     },
     {
+      "word": "tekst",
+      "count": 38
+    },
+    {
       "word": "kaugemale",
       "count": 38
     },
@@ -13597,7 +13601,7 @@
       "count": 38
     },
     {
-      "word": "www",
+      "word": "suurendada",
       "count": 38
     },
     {
@@ -13845,6 +13849,10 @@
       "count": 37
     },
     {
+      "word": "margus",
+      "count": 37
+    },
+    {
       "word": "püüti",
       "count": 37
     },
@@ -14025,10 +14033,6 @@
       "count": 37
     },
     {
-      "word": "suurendada",
-      "count": 37
-    },
-    {
       "word": "keenia",
       "count": 37
     },
@@ -14102,6 +14106,10 @@
     },
     {
       "word": "veega",
+      "count": 36
+    },
+    {
+      "word": "kaupa",
       "count": 36
     },
     {
@@ -14250,10 +14258,6 @@
     },
     {
       "word": "saksi",
-      "count": 36
-    },
-    {
-      "word": "margus",
       "count": 36
     },
     {
@@ -14433,10 +14437,6 @@
       "count": 35
     },
     {
-      "word": "toetab",
-      "count": 35
-    },
-    {
       "word": "arvamus",
       "count": 35
     },
@@ -14454,10 +14454,6 @@
     },
     {
       "word": "tähtsad",
-      "count": 35
-    },
-    {
-      "word": "kaupa",
       "count": 35
     },
     {
@@ -14877,19 +14873,11 @@
       "count": 34
     },
     {
+      "word": "toetab",
+      "count": 34
+    },
+    {
       "word": "history",
-      "count": 34
-    },
-    {
-      "word": "ajakirjandus",
-      "count": 34
-    },
-    {
-      "word": "isik",
-      "count": 34
-    },
-    {
-      "word": "televisioon",
       "count": 34
     },
     {
@@ -15078,10 +15066,6 @@
     },
     {
       "word": "aina",
-      "count": 34
-    },
-    {
-      "word": "res",
       "count": 34
     },
     {
@@ -15345,7 +15329,11 @@
       "count": 33
     },
     {
-      "word": "tänapäevane",
+      "word": "isik",
+      "count": 33
+    },
+    {
+      "word": "televisioon",
       "count": 33
     },
     {
@@ -15466,6 +15454,10 @@
     },
     {
       "word": "lühikese",
+      "count": 33
+    },
+    {
+      "word": "vähendada",
       "count": 33
     },
     {
@@ -15829,6 +15821,10 @@
       "count": 32
     },
     {
+      "word": "tänapäevane",
+      "count": 32
+    },
+    {
       "word": "sisemaal",
       "count": 32
     },
@@ -15950,10 +15946,6 @@
     },
     {
       "word": "ametiaeg",
-      "count": 32
-    },
-    {
-      "word": "vähendada",
       "count": 32
     },
     {
@@ -16525,6 +16517,10 @@
       "count": 31
     },
     {
+      "word": "res",
+      "count": 31
+    },
+    {
       "word": "olemise",
       "count": 31
     },
@@ -17005,10 +17001,6 @@
       "count": 30
     },
     {
-      "word": "plaani",
-      "count": 30
-    },
-    {
       "word": "jagu",
       "count": 30
     },
@@ -17142,10 +17134,6 @@
     },
     {
       "word": "iseloomulikud",
-      "count": 30
-    },
-    {
-      "word": "journal",
       "count": 30
     },
     {
@@ -17441,10 +17429,6 @@
       "count": 30
     },
     {
-      "word": "teksti",
-      "count": 30
-    },
-    {
       "word": "anthony",
       "count": 30
     },
@@ -17585,6 +17569,10 @@
       "count": 29
     },
     {
+      "word": "plaani",
+      "count": 29
+    },
+    {
       "word": "paremalt",
       "count": 29
     },
@@ -17654,6 +17642,10 @@
     },
     {
       "word": "legend",
+      "count": 29
+    },
+    {
+      "word": "journal",
       "count": 29
     },
     {
@@ -17929,10 +17921,6 @@
       "count": 29
     },
     {
-      "word": "asuda",
-      "count": 29
-    },
-    {
       "word": "sealne",
       "count": 29
     },
@@ -17966,10 +17954,6 @@
     },
     {
       "word": "kass",
-      "count": 29
-    },
-    {
-      "word": "katrin",
       "count": 29
     },
     {
@@ -18010,6 +17994,10 @@
     },
     {
       "word": "kierkegaard",
+      "count": 29
+    },
+    {
+      "word": "teksti",
       "count": 29
     },
     {
@@ -18074,6 +18062,10 @@
     },
     {
       "word": "mälestused",
+      "count": 28
+    },
+    {
+      "word": "ajakirjandus",
       "count": 28
     },
     {
@@ -18377,6 +18369,10 @@
       "count": 28
     },
     {
+      "word": "kõikides",
+      "count": 28
+    },
+    {
       "word": "eristab",
       "count": 28
     },
@@ -18653,6 +18649,10 @@
       "count": 28
     },
     {
+      "word": "asuda",
+      "count": 28
+    },
+    {
       "word": "laps",
       "count": 28
     },
@@ -18669,11 +18669,11 @@
       "count": 28
     },
     {
-      "word": "anu",
+      "word": "katrin",
       "count": 28
     },
     {
-      "word": "eestile",
+      "word": "anu",
       "count": 28
     },
     {
@@ -18754,10 +18754,6 @@
     },
     {
       "word": "millal",
-      "count": 27
-    },
-    {
-      "word": "indeks",
       "count": 27
     },
     {
@@ -18842,10 +18838,6 @@
     },
     {
       "word": "keskmisest",
-      "count": 27
-    },
-    {
-      "word": "toetada",
       "count": 27
     },
     {
@@ -19050,10 +19042,6 @@
     },
     {
       "word": "esiteks",
-      "count": 27
-    },
-    {
-      "word": "kõikides",
       "count": 27
     },
     {
@@ -19365,6 +19353,10 @@
       "count": 27
     },
     {
+      "word": "eestile",
+      "count": 27
+    },
+    {
       "word": "hurt",
       "count": 27
     },
@@ -19433,10 +19425,6 @@
       "count": 27
     },
     {
-      "word": "auml",
-      "count": 27
-    },
-    {
       "word": "ülikoolid",
       "count": 26
     },
@@ -19445,7 +19433,7 @@
       "count": 26
     },
     {
-      "word": "ad",
+      "word": "indeks",
       "count": 26
     },
     {
@@ -19534,6 +19522,10 @@
     },
     {
       "word": "büroo",
+      "count": 26
+    },
+    {
+      "word": "toetada",
       "count": 26
     },
     {
@@ -19782,6 +19774,10 @@
     },
     {
       "word": "pärines",
+      "count": 26
+    },
+    {
+      "word": "töös",
       "count": 26
     },
     {
@@ -20049,6 +20045,10 @@
       "count": 26
     },
     {
+      "word": "saavutamiseks",
+      "count": 26
+    },
+    {
       "word": "viljandis",
       "count": 26
     },
@@ -20293,7 +20293,11 @@
       "count": 25
     },
     {
-      "word": "ilmuma",
+      "word": "institutsioonid",
+      "count": 25
+    },
+    {
+      "word": "ad",
       "count": 25
     },
     {
@@ -20370,10 +20374,6 @@
     },
     {
       "word": "keskusega",
-      "count": 25
-    },
-    {
-      "word": "sidemeid",
       "count": 25
     },
     {
@@ -20481,6 +20481,10 @@
       "count": 25
     },
     {
+      "word": "võtavad",
+      "count": 25
+    },
+    {
       "word": "habsburgide",
       "count": 25
     },
@@ -20561,10 +20565,6 @@
       "count": 25
     },
     {
-      "word": "töös",
-      "count": 25
-    },
-    {
       "word": "mõistuse",
       "count": 25
     },
@@ -20593,11 +20593,11 @@
       "count": 25
     },
     {
-      "word": "tarbeks",
+      "word": "pakub",
       "count": 25
     },
     {
-      "word": "praktikas",
+      "word": "tarbeks",
       "count": 25
     },
     {
@@ -20865,10 +20865,6 @@
       "count": 25
     },
     {
-      "word": "saavutamiseks",
-      "count": 25
-    },
-    {
       "word": "filmilavastaja",
       "count": 25
     },
@@ -21069,7 +21065,7 @@
       "count": 24
     },
     {
-      "word": "institutsioonid",
+      "word": "ilmuma",
       "count": 24
     },
     {
@@ -21078,6 +21074,10 @@
     },
     {
       "word": "presidentaalne",
+      "count": 24
+    },
+    {
+      "word": "kinnitab",
       "count": 24
     },
     {
@@ -21138,6 +21138,10 @@
     },
     {
       "word": "ulatuslikud",
+      "count": 24
+    },
+    {
+      "word": "sidemeid",
       "count": 24
     },
     {
@@ -21226,10 +21230,6 @@
     },
     {
       "word": "võetakse",
-      "count": 24
-    },
-    {
-      "word": "võtavad",
       "count": 24
     },
     {
@@ -21341,6 +21341,10 @@
       "count": 24
     },
     {
+      "word": "rüütelkonna",
+      "count": 24
+    },
+    {
       "word": "saarelt",
       "count": 24
     },
@@ -21401,10 +21405,6 @@
       "count": 24
     },
     {
-      "word": "pakub",
-      "count": 24
-    },
-    {
       "word": "igatahes",
       "count": 24
     },
@@ -21414,6 +21414,10 @@
     },
     {
       "word": "argument",
+      "count": 24
+    },
+    {
+      "word": "praktikas",
       "count": 24
     },
     {
@@ -21965,10 +21969,6 @@
       "count": 23
     },
     {
-      "word": "kinnitab",
-      "count": 23
-    },
-    {
       "word": "kuberneri",
       "count": 23
     },
@@ -22301,10 +22301,6 @@
       "count": 23
     },
     {
-      "word": "rüütelkonna",
-      "count": 23
-    },
-    {
       "word": "number",
       "count": 23
     },
@@ -22566,6 +22562,10 @@
     },
     {
       "word": "salaja",
+      "count": 23
+    },
+    {
+      "word": "erialal",
       "count": 23
     },
     {
@@ -22929,15 +22929,7 @@
       "count": 23
     },
     {
-      "word": "otilde",
-      "count": 23
-    },
-    {
       "word": "minevikus",
-      "count": 22
-    },
-    {
-      "word": "eestikeelse",
       "count": 22
     },
     {
@@ -22978,10 +22970,6 @@
     },
     {
       "word": "etnoloogia",
-      "count": 22
-    },
-    {
-      "word": "ajakirjanduse",
       "count": 22
     },
     {
@@ -23058,6 +23046,10 @@
     },
     {
       "word": "valitsev",
+      "count": 22
+    },
+    {
+      "word": "lähtub",
       "count": 22
     },
     {
@@ -23653,10 +23645,6 @@
       "count": 22
     },
     {
-      "word": "akadeemilise",
-      "count": 22
-    },
-    {
       "word": "toimuma",
       "count": 22
     },
@@ -24045,6 +24033,10 @@
       "count": 22
     },
     {
+      "word": "eestikeelse",
+      "count": 21
+    },
+    {
       "word": "uusaja",
       "count": 21
     },
@@ -24149,10 +24141,6 @@
       "count": 21
     },
     {
-      "word": "lähtub",
-      "count": 21
-    },
-    {
       "word": "roomajaid",
       "count": 21
     },
@@ -24166,10 +24154,6 @@
     },
     {
       "word": "aastaseks",
-      "count": 21
-    },
-    {
-      "word": "lennujaama",
       "count": 21
     },
     {
@@ -24361,6 +24345,10 @@
       "count": 21
     },
     {
+      "word": "ülevaate",
+      "count": 21
+    },
+    {
       "word": "näidendid",
       "count": 21
     },
@@ -24477,6 +24465,10 @@
       "count": 21
     },
     {
+      "word": "siit",
+      "count": 21
+    },
+    {
       "word": "muust",
       "count": 21
     },
@@ -24510,10 +24502,6 @@
     },
     {
       "word": "mateeria",
-      "count": 21
-    },
-    {
-      "word": "soovib",
       "count": 21
     },
     {
@@ -24625,10 +24613,6 @@
       "count": 21
     },
     {
-      "word": "iraanis",
-      "count": 21
-    },
-    {
       "word": "liitunud",
       "count": 21
     },
@@ -24717,6 +24701,10 @@
       "count": 21
     },
     {
+      "word": "akadeemilise",
+      "count": 21
+    },
+    {
       "word": "ajakirjanduses",
       "count": 21
     },
@@ -24790,6 +24778,10 @@
     },
     {
       "word": "marssal",
+      "count": 21
+    },
+    {
+      "word": "eesmärkide",
       "count": 21
     },
     {
@@ -25037,10 +25029,6 @@
       "count": 21
     },
     {
-      "word": "allkirjastasid",
-      "count": 21
-    },
-    {
       "word": "kõpu",
       "count": 21
     },
@@ -25201,6 +25189,10 @@
       "count": 20
     },
     {
+      "word": "ajakirjanduse",
+      "count": 20
+    },
+    {
       "word": "raskesti",
       "count": 20
     },
@@ -25290,6 +25282,10 @@
     },
     {
       "word": "inflatsioon",
+      "count": 20
+    },
+    {
+      "word": "lennujaama",
       "count": 20
     },
     {
@@ -25485,10 +25481,6 @@
       "count": 20
     },
     {
-      "word": "ülevaate",
-      "count": 20
-    },
-    {
       "word": "korporatsioon",
       "count": 20
     },
@@ -25613,10 +25605,6 @@
       "count": 20
     },
     {
-      "word": "siit",
-      "count": 20
-    },
-    {
       "word": "olemust",
       "count": 20
     },
@@ -25662,6 +25650,10 @@
     },
     {
       "word": "õnne",
+      "count": 20
+    },
+    {
+      "word": "soovib",
       "count": 20
     },
     {
@@ -25741,6 +25733,10 @@
       "count": 20
     },
     {
+      "word": "iraanis",
+      "count": 20
+    },
+    {
       "word": "lossis",
       "count": 20
     },
@@ -25794,10 +25790,6 @@
     },
     {
       "word": "hävitada",
-      "count": 20
-    },
-    {
-      "word": "erialal",
       "count": 20
     },
     {
@@ -25898,10 +25890,6 @@
     },
     {
       "word": "relvi",
-      "count": 20
-    },
-    {
-      "word": "eesmärkide",
       "count": 20
     },
     {
@@ -26201,10 +26189,6 @@
       "count": 20
     },
     {
-      "word": "vajadust",
-      "count": 20
-    },
-    {
       "word": "tulenevalt",
       "count": 20
     },
@@ -26262,10 +26246,6 @@
     },
     {
       "word": "tutvustas",
-      "count": 20
-    },
-    {
-      "word": "loodust",
       "count": 20
     },
     {
@@ -26394,10 +26374,6 @@
     },
     {
       "word": "ajaloolase",
-      "count": 19
-    },
-    {
-      "word": "aeglane",
       "count": 19
     },
     {
@@ -27109,6 +27085,10 @@
       "count": 19
     },
     {
+      "word": "ülesannete",
+      "count": 19
+    },
+    {
       "word": "orbiidil",
       "count": 19
     },
@@ -27389,10 +27369,6 @@
       "count": 19
     },
     {
-      "word": "viimaseks",
-      "count": 19
-    },
-    {
       "word": "tunnuseks",
       "count": 19
     },
@@ -27406,10 +27382,6 @@
     },
     {
       "word": "pradeshi",
-      "count": 19
-    },
-    {
-      "word": "public",
       "count": 19
     },
     {
@@ -27593,6 +27565,10 @@
       "count": 19
     },
     {
+      "word": "vajadust",
+      "count": 19
+    },
+    {
       "word": "berliinis",
       "count": 19
     },
@@ -27610,6 +27586,10 @@
     },
     {
       "word": "euroala",
+      "count": 19
+    },
+    {
+      "word": "allkirjastasid",
       "count": 19
     },
     {
@@ -27646,6 +27626,10 @@
     },
     {
       "word": "gandhi",
+      "count": 19
+    },
+    {
+      "word": "loodust",
       "count": 19
     },
     {
@@ -27814,6 +27798,10 @@
     },
     {
       "word": "minevikust",
+      "count": 18
+    },
+    {
+      "word": "aeglane",
       "count": 18
     },
     {
@@ -28129,11 +28117,11 @@
       "count": 18
     },
     {
-      "word": "raudsepp",
+      "word": "estonian",
       "count": 18
     },
     {
-      "word": "positiivse",
+      "word": "raudsepp",
       "count": 18
     },
     {
@@ -28218,10 +28206,6 @@
     },
     {
       "word": "rõhutab",
-      "count": 18
-    },
-    {
-      "word": "otsustus",
       "count": 18
     },
     {
@@ -28469,10 +28453,6 @@
       "count": 18
     },
     {
-      "word": "rajamist",
-      "count": 18
-    },
-    {
       "word": "jõhvi",
       "count": 18
     },
@@ -28713,6 +28693,10 @@
       "count": 18
     },
     {
+      "word": "viimaseks",
+      "count": 18
+    },
+    {
       "word": "vähemal",
       "count": 18
     },
@@ -28937,10 +28921,6 @@
       "count": 18
     },
     {
-      "word": "donald",
-      "count": 18
-    },
-    {
       "word": "liikmesriigi",
       "count": 18
     },
@@ -29105,15 +29085,7 @@
       "count": 17
     },
     {
-      "word": "tegevusega",
-      "count": 17
-    },
-    {
       "word": "amet",
-      "count": 17
-    },
-    {
-      "word": "hiinaga",
       "count": 17
     },
     {
@@ -29349,10 +29321,6 @@
       "count": 17
     },
     {
-      "word": "istungil",
-      "count": 17
-    },
-    {
       "word": "tunnustamata",
       "count": 17
     },
@@ -29370,6 +29338,10 @@
     },
     {
       "word": "osariigist",
+      "count": 17
+    },
+    {
+      "word": "moodustanud",
       "count": 17
     },
     {
@@ -29394,10 +29366,6 @@
     },
     {
       "word": "olemast",
-      "count": 17
-    },
-    {
-      "word": "tulemuse",
       "count": 17
     },
     {
@@ -29545,6 +29513,10 @@
       "count": 17
     },
     {
+      "word": "positiivse",
+      "count": 17
+    },
+    {
       "word": "laiemas",
       "count": 17
     },
@@ -29606,6 +29578,10 @@
     },
     {
       "word": "paratamatult",
+      "count": 17
+    },
+    {
+      "word": "otsustus",
       "count": 17
     },
     {
@@ -29734,10 +29710,6 @@
     },
     {
       "word": "välisriikide",
-      "count": 17
-    },
-    {
-      "word": "washington",
       "count": 17
     },
     {
@@ -29901,10 +29873,6 @@
       "count": 17
     },
     {
-      "word": "ülesannete",
-      "count": 17
-    },
-    {
       "word": "mänginud",
       "count": 17
     },
@@ -29926,6 +29894,10 @@
     },
     {
       "word": "külast",
+      "count": 17
+    },
+    {
+      "word": "rajamist",
       "count": 17
     },
     {
@@ -30517,6 +30489,10 @@
       "count": 17
     },
     {
+      "word": "donald",
+      "count": 17
+    },
+    {
       "word": "kopenhaageni",
       "count": 17
     },
@@ -30542,10 +30518,6 @@
     },
     {
       "word": "kuulsad",
-      "count": 17
-    },
-    {
-      "word": "hindu",
       "count": 17
     },
     {
@@ -30661,10 +30633,6 @@
       "count": 17
     },
     {
-      "word": "jupiter",
-      "count": 17
-    },
-    {
       "word": "tejo",
       "count": 17
     },
@@ -30745,10 +30713,6 @@
       "count": 17
     },
     {
-      "word": "wikipedia",
-      "count": 17
-    },
-    {
       "word": "sahha",
       "count": 17
     },
@@ -30781,11 +30745,19 @@
       "count": 16
     },
     {
+      "word": "tegevusega",
+      "count": 16
+    },
+    {
       "word": "teavet",
       "count": 16
     },
     {
       "word": "traditsiooniliste",
+      "count": 16
+    },
+    {
+      "word": "hiinaga",
       "count": 16
     },
     {
@@ -30918,6 +30890,10 @@
     },
     {
       "word": "võrgustik",
+      "count": 16
+    },
+    {
+      "word": "energeetika",
       "count": 16
     },
     {
@@ -31077,6 +31053,10 @@
       "count": 16
     },
     {
+      "word": "istungil",
+      "count": 16
+    },
+    {
       "word": "kollast",
       "count": 16
     },
@@ -31086,10 +31066,6 @@
     },
     {
       "word": "fred",
-      "count": 16
-    },
-    {
-      "word": "moodustanud",
       "count": 16
     },
     {
@@ -31114,6 +31090,10 @@
     },
     {
       "word": "liitmine",
+      "count": 16
+    },
+    {
+      "word": "tulemuse",
       "count": 16
     },
     {
@@ -31209,6 +31189,10 @@
       "count": 16
     },
     {
+      "word": "täitmist",
+      "count": 16
+    },
+    {
       "word": "lr",
       "count": 16
     },
@@ -31246,10 +31230,6 @@
     },
     {
       "word": "tähtsamaks",
-      "count": 16
-    },
-    {
-      "word": "estonian",
       "count": 16
     },
     {
@@ -31533,15 +31513,15 @@
       "count": 16
     },
     {
+      "word": "washington",
+      "count": 16
+    },
+    {
       "word": "kruus",
       "count": 16
     },
     {
       "word": "ella",
-      "count": 16
-    },
-    {
-      "word": "raimond",
       "count": 16
     },
     {
@@ -31877,6 +31857,10 @@
       "count": 16
     },
     {
+      "word": "õigusteaduse",
+      "count": 16
+    },
+    {
       "word": "vabadusristi",
       "count": 16
     },
@@ -32070,6 +32054,10 @@
     },
     {
       "word": "suhtekorralduse",
+      "count": 16
+    },
+    {
+      "word": "public",
       "count": 16
     },
     {
@@ -32581,6 +32569,10 @@
       "count": 16
     },
     {
+      "word": "jupiter",
+      "count": 16
+    },
+    {
       "word": "luciani",
       "count": 16
     },
@@ -32889,10 +32881,6 @@
       "count": 15
     },
     {
-      "word": "energeetika",
-      "count": 15
-    },
-    {
       "word": "elanikele",
       "count": 15
     },
@@ -33186,10 +33174,6 @@
     },
     {
       "word": "edukaks",
-      "count": 15
-    },
-    {
-      "word": "täitmist",
       "count": 15
     },
     {
@@ -33809,10 +33793,6 @@
       "count": 15
     },
     {
-      "word": "iseennast",
-      "count": 15
-    },
-    {
       "word": "vanima",
       "count": 15
     },
@@ -33965,10 +33945,6 @@
       "count": 15
     },
     {
-      "word": "ks",
-      "count": 15
-    },
-    {
       "word": "piirangud",
       "count": 15
     },
@@ -33978,10 +33954,6 @@
     },
     {
       "word": "ea",
-      "count": 15
-    },
-    {
-      "word": "õigusteaduse",
       "count": 15
     },
     {
@@ -34577,6 +34549,10 @@
       "count": 15
     },
     {
+      "word": "jälgida",
+      "count": 15
+    },
+    {
       "word": "mitmekesisus",
       "count": 15
     },
@@ -34622,6 +34598,10 @@
     },
     {
       "word": "imavere",
+      "count": 15
+    },
+    {
+      "word": "hindu",
       "count": 15
     },
     {
@@ -34813,10 +34793,6 @@
       "count": 15
     },
     {
-      "word": "kuldsed",
-      "count": 15
-    },
-    {
       "word": "võistlused",
       "count": 15
     },
@@ -34930,10 +34906,6 @@
     },
     {
       "word": "loodu",
-      "count": 14
-    },
-    {
-      "word": "esmane",
       "count": 14
     },
     {
@@ -35277,6 +35249,10 @@
       "count": 14
     },
     {
+      "word": "erakondade",
+      "count": 14
+    },
+    {
       "word": "osakonna",
       "count": 14
     },
@@ -35437,10 +35413,6 @@
       "count": 14
     },
     {
-      "word": "teated",
-      "count": 14
-    },
-    {
       "word": "kalapüük",
       "count": 14
     },
@@ -35597,6 +35569,10 @@
       "count": 14
     },
     {
+      "word": "täitmise",
+      "count": 14
+    },
+    {
       "word": "küsimusele",
       "count": 14
     },
@@ -35718,6 +35694,10 @@
     },
     {
       "word": "kangelane",
+      "count": 14
+    },
+    {
+      "word": "raimond",
       "count": 14
     },
     {
@@ -36038,6 +36018,10 @@
     },
     {
       "word": "mehest",
+      "count": 14
+    },
+    {
+      "word": "iseennast",
       "count": 14
     },
     {
@@ -36509,10 +36493,6 @@
       "count": 14
     },
     {
-      "word": "levivad",
-      "count": 14
-    },
-    {
       "word": "valdavaks",
       "count": 14
     },
@@ -36650,14 +36630,6 @@
     },
     {
       "word": "tuntumaid",
-      "count": 14
-    },
-    {
-      "word": "uuendatud",
-      "count": 14
-    },
-    {
-      "word": "noort",
       "count": 14
     },
     {
@@ -36953,10 +36925,6 @@
       "count": 14
     },
     {
-      "word": "jälgida",
-      "count": 14
-    },
-    {
       "word": "staabiga",
       "count": 14
     },
@@ -37165,6 +37133,10 @@
       "count": 14
     },
     {
+      "word": "kuldsed",
+      "count": 14
+    },
+    {
       "word": "vapiga",
       "count": 14
     },
@@ -37321,15 +37293,11 @@
       "count": 13
     },
     {
+      "word": "esmane",
+      "count": 13
+    },
+    {
       "word": "kogumine",
-      "count": 13
-    },
-    {
-      "word": "perno",
-      "count": 13
-    },
-    {
-      "word": "ajakirjanike",
       "count": 13
     },
     {
@@ -37745,10 +37713,6 @@
       "count": 13
     },
     {
-      "word": "erakondade",
-      "count": 13
-    },
-    {
       "word": "övp",
       "count": 13
     },
@@ -37958,6 +37922,10 @@
     },
     {
       "word": "asuvast",
+      "count": 13
+    },
+    {
+      "word": "teated",
       "count": 13
     },
     {
@@ -38262,6 +38230,10 @@
     },
     {
       "word": "sügava",
+      "count": 13
+    },
+    {
+      "word": "lehte",
       "count": 13
     },
     {
@@ -38837,6 +38809,10 @@
       "count": 13
     },
     {
+      "word": "ks",
+      "count": 13
+    },
+    {
       "word": "piirsalu",
       "count": 13
     },
@@ -39101,10 +39077,6 @@
       "count": 13
     },
     {
-      "word": "olulisemaid",
-      "count": 13
-    },
-    {
       "word": "logo",
       "count": 13
     },
@@ -39257,10 +39229,6 @@
       "count": 13
     },
     {
-      "word": "eduka",
-      "count": 13
-    },
-    {
       "word": "kuldmedali",
       "count": 13
     },
@@ -39342,6 +39310,10 @@
     },
     {
       "word": "blanche",
+      "count": 13
+    },
+    {
+      "word": "noort",
       "count": 13
     },
     {
@@ -40006,6 +39978,34 @@
     },
     {
       "word": "jaapanisse",
+      "count": 13
+    },
+    {
+      "word": "tunde",
+      "count": 13
+    },
+    {
+      "word": "pontius",
+      "count": 13
+    },
+    {
+      "word": "reaktsioonide",
+      "count": 13
+    },
+    {
+      "word": "hapnik",
+      "count": 13
+    },
+    {
+      "word": "nõrgem",
+      "count": 13
+    },
+    {
+      "word": "kovalentse",
+      "count": 13
+    },
+    {
+      "word": "maitse",
       "count": 13
     }
   ]

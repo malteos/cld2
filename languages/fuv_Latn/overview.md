@@ -20,11 +20,11 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 ### Contributed content
 
 - `https://www.voafulfulde.com/` — Voice of America Fulfulde — _live WebFetch_
-- `https://www.rfi.fr/ha/` — RFI Hausa (West-African lingua franca close to Fulfulde) — _live WebFetch_
 
 ### Catalogued source candidates
 
 - `https://www.voafulfulde.com/` — Voice of America Fulfulde (news)
-- `https://www.rfi.fr/ha/` — RFI Hausa (West-African lingua franca close to Fulfulde) (news)
-- `https://kaceendafr.info/` — Kaceendafr — Senegalese Pulaar portal (news)
-- `https://www.bbc.com/fulah` — BBC Fulah Mandingo services (news)
+- `https://www.voafulfulde.com/p/5819.html` — VOA Fulfulde — news section (news)
+- `https://www.dw.com/fuv/` — Deutsche Welle Fulfulde (tentative) (news)
+- `https://pulaagu.com/` — Pulaagu — Pulaar cultural portal (cultural)
+- `https://www.sil.org/resources/publications/fub` — SIL Fulfulde publications (education)

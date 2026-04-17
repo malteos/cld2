@@ -40,7 +40,10 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 ### Catalogued source candidates
 
-- `https://www.salanguages.com/sesotho/` — SA Languages — Sesotho sa Leboa resources (education)
 - `https://www.capricornfm.co.za/` — Capricorn FM (Sepedi / English) (news)
 - `https://www.sabc.co.za/sabc/thobela-fm/` — SABC Thobela FM — Sepedi radio (news)
-- `https://www.dac.gov.za/` — SA Department of Arts and Culture (gov)
+- `https://www.jw.org/nso/` — jw.org Northern Sotho (religious)
+- `https://www.gov.za/` — South African Government (multi-language) (gov)
+- `https://www.limpopo.gov.za/` — Limpopo Provincial Government (Sepedi-speaking region) (gov)
+- `https://www.pedilanguage.co.za/` — Pedi Language — Sepedi resources (education)
+- `https://www.iol.co.za/` — IOL — South African news (mixed languages) (news)

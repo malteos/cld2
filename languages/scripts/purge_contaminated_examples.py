@@ -136,9 +136,12 @@ def passage_contaminated(passage: str, bench_lines: set[str]) -> bool:
 
 
 def safe_wiki_passages(sub: str, target: int, min_chars: int,
-                      bench_lines: set[str], max_articles: int = 5000) -> list[tuple[str, str]]:
+                      bench_lines: set[str], max_articles: int = 5000,
+                      per_article: int = 2) -> list[tuple[str, str]]:
     """Stream Wikipedia articles and return up to `target` (title, passage)
-    pairs whose passages do NOT overlap with bench_lines."""
+    pairs whose passages do NOT overlap with bench_lines. Cap passages per
+    article so we spread across the corpus rather than drawing many chunks
+    from the first long article."""
     out: list[tuple[str, str]] = []
     parquet = download_wiki_parquet(sub)
     if parquet is None:
@@ -146,12 +149,14 @@ def safe_wiki_passages(sub: str, target: int, min_chars: int,
     for title, body in iter_wiki_articles(parquet, max_articles=max_articles):
         if len(out) >= target:
             break
+        from_this_article = 0
         for p in split_into_passages(body, min_chars):
-            if len(out) >= target:
+            if len(out) >= target or from_this_article >= per_article:
                 break
             if passage_contaminated(p, bench_lines):
                 continue
             out.append((title, p))
+            from_this_article += 1
     return out
 
 
@@ -166,12 +171,16 @@ def safe_web_passages(urls: list[dict], target: int, min_chars: int,
         if html is None:
             continue
         candidates = extract_paragraphs(html, min_chars=min_chars)
-        if len(candidates) < 3:
-            for link in extract_article_links(html, url, max_links=5):
+        # News homepages have little paragraph text. Crawl deeper.
+        if len(candidates) < 5:
+            relaxed_min = max(200, min_chars // 2)
+            for link in extract_article_links(html, url, max_links=12):
+                if len(candidates) >= target * 2:
+                    break
                 sub_html = fetch_url(link)
                 if sub_html is None:
                     continue
-                candidates.extend(extract_paragraphs(sub_html, min_chars=max(200, min_chars // 2)))
+                candidates.extend(extract_paragraphs(sub_html, min_chars=relaxed_min))
                 time.sleep(0.3)
         for p in candidates:
             if len(out) >= target:
@@ -198,7 +207,12 @@ def refresh_language(entry: dict, bench_lines: set[str], target: int,
     non_wiki = [s for s in cat.get("sources", [])
                 if not (wp_sub and s["url"].startswith(f"https://{wp_sub}.wikipedia.org"))]
 
-    wiki_quota = target // 2 if non_wiki else target
+    if wp_sub and non_wiki:
+        wiki_quota = target // 2
+    elif wp_sub:
+        wiki_quota = target
+    else:
+        wiki_quota = 0
     web_quota = target - wiki_quota
 
     used: list[dict] = []
@@ -231,19 +245,26 @@ def refresh_language(entry: dict, bench_lines: set[str], target: int,
             "description": src.get("description", ""),
         })
 
-    # Top up from Wikipedia if short
+    # Top up from Wikipedia if short. Dedup by passage body (not header),
+    # because a single long Wikipedia article can supply several distinct
+    # paragraphs sharing the same source line.
     if len(passages) < target and wp_sub:
         remaining = target - len(passages)
-        taken_titles = {pp.splitlines()[0] for pp in passages}
-        more = safe_wiki_passages(wp_sub, remaining * 3, min_chars, bench_lines,
-                                  max_articles=8000)
+        existing_bodies = set()
+        for pp in passages:
+            lines = pp.split("\n\n", 1)
+            if len(lines) == 2:
+                existing_bodies.add(lines[1][:200])
+        more = safe_wiki_passages(wp_sub, remaining * 4, min_chars, bench_lines,
+                                  max_articles=15000)
         added = 0
         for title, p in more:
             if added >= remaining:
                 break
-            hdr = f'# Source: Wikipedia article "{title}" (https://{wp_sub}.wikipedia.org/)'
-            if hdr in taken_titles:
+            if p[:200] in existing_bodies:
                 continue
+            existing_bodies.add(p[:200])
+            hdr = f'# Source: Wikipedia article "{title}" (https://{wp_sub}.wikipedia.org/)'
             passages.append(f"{hdr}\n\n{p}")
             added += 1
 

@@ -5,195 +5,399 @@
   "tier": "low",
   "tier_target": 1000,
   "source": "examples/*.txt (live WebFetch of curated non-benchmark URLs)",
-  "total_tokens": 1123,
-  "unique_tokens": 388,
+  "total_tokens": 1039,
+  "unique_tokens": 303,
   "words": [
     {
       "word": "de",
-      "count": 62
-    },
-    {
-      "word": "en",
-      "count": 61
-    },
-    {
-      "word": "des",
-      "count": 35
+      "count": 45
     },
     {
       "word": "la",
-      "count": 31
-    },
-    {
-      "word": "lire",
-      "count": 31
-    },
-    {
-      "word": "agriculture",
-      "count": 30
-    },
-    {
-      "word": "savoir",
-      "count": 30
-    },
-    {
-      "word": "plus",
-      "count": 30
-    },
-    {
-      "word": "l'article",
-      "count": 29
-    },
-    {
-      "word": "cours",
-      "count": 26
-    },
-    {
-      "word": "et",
-      "count": 23
-    },
-    {
-      "word": "du",
-      "count": 19
-    },
-    {
-      "word": "développement",
-      "count": 19
-    },
-    {
-      "word": "pour",
-      "count": 18
-    },
-    {
-      "word": "milliards",
-      "count": 16
-    },
-    {
-      "word": "les",
-      "count": 16
-    },
-    {
-      "word": "bénin",
-      "count": 14
+      "count": 34
     },
     {
       "word": "le",
+      "count": 22
+    },
+    {
+      "word": "et",
+      "count": 21
+    },
+    {
+      "word": "quotidien",
+      "count": 21
+    },
+    {
+      "word": "nation",
+      "count": 20
+    },
+    {
+      "word": "to",
+      "count": 20
+    },
+    {
+      "word": "domain",
+      "count": 19
+    },
+    {
+      "word": "bénin",
+      "count": 17
+    },
+    {
+      "word": "the",
+      "count": 17
+    },
+    {
+      "word": "for",
+      "count": 15
+    },
+    {
+      "word": "service",
       "count": 14
     },
     {
-      "word": "coût",
-      "count": 13
-    },
-    {
-      "word": "cfa",
-      "count": 13
-    },
-    {
-      "word": "au",
+      "word": "source",
       "count": 12
     },
     {
-      "word": "programme",
-      "count": 10
-    },
-    {
-      "word": "agricole",
-      "count": 10
-    },
-    {
-      "word": "appui",
-      "count": 9
-    },
-    {
-      "word": "filières",
-      "count": 9
-    },
-    {
-      "word": "projet",
-      "count": 6
-    },
-    {
-      "word": "dans",
-      "count": 6
-    },
-    {
-      "word": "une",
-      "count": 6
-    },
-    {
-      "word": "réformes",
-      "count": 5
-    },
-    {
-      "word": "actualités",
-      "count": 5
-    },
-    {
-      "word": "agricoles",
-      "count": 5
-    },
-    {
-      "word": "filière",
-      "count": 5
-    },
-    {
-      "word": "production",
-      "count": 5
-    },
-    {
-      "word": "pag",
-      "count": 5
-    },
-    {
       "word": "https",
-      "count": 4
-    },
-    {
-      "word": "gouvernement",
-      "count": 4
-    },
-    {
-      "word": "projets",
-      "count": 4
+      "count": 12
     },
     {
       "word": "national",
-      "count": 4
-    },
-    {
-      "word": "aux",
-      "count": 4
-    },
-    {
-      "word": "valeur",
-      "count": 4
+      "count": 11
     },
     {
       "word": "un",
-      "count": 4
+      "count": 11
     },
     {
-      "word": "par",
-      "count": 4
+      "word": "you",
+      "count": 11
     },
     {
-      "word": "populations",
-      "count": 4
+      "word": "est",
+      "count": 10
+    },
+    {
+      "word": "du",
+      "count": 10
+    },
+    {
+      "word": "information",
+      "count": 10
     },
     {
       "word": "will",
-      "count": 4
+      "count": 10
     },
     {
-      "word": "source",
-      "count": 3
-    },
-    {
-      "word": "beninrevele",
-      "count": 3
+      "word": "lanation",
+      "count": 9
     },
     {
       "word": "bj",
+      "count": 9
+    },
+    {
+      "word": "official",
+      "count": 9
+    },
+    {
+      "word": "daily",
+      "count": 9
+    },
+    {
+      "word": "your",
+      "count": 9
+    },
+    {
+      "word": "au",
+      "count": 8
+    },
+    {
+      "word": "plus",
+      "count": 8
+    },
+    {
+      "word": "une",
+      "count": 7
+    },
+    {
+      "word": "public",
+      "count": 7
+    },
+    {
+      "word": "tous",
+      "count": 7
+    },
+    {
+      "word": "audience",
+      "count": 7
+    },
+    {
+      "word": "com",
+      "count": 7
+    },
+    {
+      "word": "see",
+      "count": 7
+    },
+    {
+      "word": "d'information",
+      "count": 6
+    },
+    {
+      "word": "pertinence",
+      "count": 6
+    },
+    {
+      "word": "son",
+      "count": 6
+    },
+    {
+      "word": "contenu",
+      "count": 6
+    },
+    {
+      "word": "professionnalisme",
+      "count": 6
+    },
+    {
+      "word": "ses",
+      "count": 6
+    },
+    {
+      "word": "animateurs",
+      "count": 6
+    },
+    {
+      "word": "sa",
+      "count": 6
+    },
+    {
+      "word": "grande",
+      "count": 6
+    },
+    {
+      "word": "font",
+      "count": 6
+    },
+    {
+      "word": "lui",
+      "count": 6
+    },
+    {
+      "word": "crédible",
+      "count": 6
+    },
+    {
+      "word": "payment",
+      "count": 6
+    },
+    {
+      "word": "avr",
+      "count": 6
+    },
+    {
+      "word": "purchase",
+      "count": 6
+    },
+    {
+      "word": "registrar",
+      "count": 6
+    },
+    {
+      "word": "namebright",
+      "count": 6
+    },
+    {
+      "word": "be",
+      "count": 6
+    },
+    {
+      "word": "within",
+      "count": 6
+    },
+    {
+      "word": "is",
+      "count": 5
+    },
+    {
+      "word": "start",
+      "count": 5
+    },
+    {
+      "word": "we",
+      "count": 5
+    },
+    {
+      "word": "it",
+      "count": 5
+    },
+    {
+      "word": "with",
+      "count": 5
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "hours",
+      "count": 5
+    },
+    {
+      "word": "do",
+      "count": 5
+    },
+    {
+      "word": "transfer",
+      "count": 5
+    },
+    {
+      "word": "whois",
+      "count": 5
+    },
+    {
+      "word": "onip",
+      "count": 4
+    },
+    {
+      "word": "imprimerie",
+      "count": 4
+    },
+    {
+      "word": "qui",
+      "count": 4
+    },
+    {
+      "word": "benindiaspora",
+      "count": 4
+    },
+    {
+      "word": "buy",
+      "count": 4
+    },
+    {
+      "word": "now",
+      "count": 4
+    },
+    {
+      "word": "or",
+      "count": 4
+    },
+    {
+      "word": "processing",
+      "count": 4
+    },
+    {
+      "word": "details",
+      "count": 4
+    },
+    {
+      "word": "des",
+      "count": 4
+    },
+    {
+      "word": "once",
+      "count": 4
+    },
+    {
+      "word": "an",
+      "count": 4
+    },
+    {
+      "word": "our",
+      "count": 4
+    },
+    {
+      "word": "access",
+      "count": 4
+    },
+    {
+      "word": "available",
+      "count": 4
+    },
+    {
+      "word": "purchased",
+      "count": 4
+    },
+    {
+      "word": "business",
+      "count": 4
+    },
+    {
+      "word": "faqs",
+      "count": 4
+    },
+    {
+      "word": "social",
+      "count": 3
+    },
+    {
+      "word": "impressions",
+      "count": 3
+    },
+    {
+      "word": "www",
+      "count": 3
+    },
+    {
+      "word": "béninoise",
+      "count": 3
+    },
+    {
+      "word": "cultural",
+      "count": 3
+    },
+    {
+      "word": "education",
+      "count": 3
+    },
+    {
+      "word": "portal",
+      "count": 3
+    },
+    {
+      "word": "this",
+      "count": 3
+    },
+    {
+      "word": "pay",
+      "count": 3
+    },
+    {
+      "word": "months",
+      "count": 3
+    },
+    {
+      "word": "plan",
+      "count": 3
+    },
+    {
+      "word": "payments",
+      "count": 3
+    },
+    {
+      "word": "politiques",
+      "count": 3
+    },
+    {
+      "word": "account",
+      "count": 3
+    },
+    {
+      "word": "then",
+      "count": 3
+    },
+    {
+      "word": "email",
+      "count": 3
+    },
+    {
+      "word": "two",
       "count": 3
     },
     {
@@ -201,183 +405,111 @@
       "count": 3
     },
     {
-      "word": "documents",
+      "word": "however",
       "count": 3
     },
     {
-      "word": "marchés",
+      "word": "domains",
       "count": 3
     },
     {
-      "word": "haute",
+      "word": "after",
       "count": 3
     },
     {
-      "word": "ajoutée",
+      "word": "day",
       "count": 3
     },
     {
-      "word": "anacarde",
+      "word": "more",
       "count": 3
     },
     {
-      "word": "conventionnelles",
+      "word": "how",
       "count": 3
     },
     {
-      "word": "renforcement",
+      "word": "are",
       "count": 3
     },
     {
-      "word": "secteur",
+      "word": "plans",
       "count": 3
     },
     {
-      "word": "améliorer",
+      "word": "offer",
       "count": 3
     },
     {
-      "word": "sécurité",
+      "word": "privacy",
       "count": 3
-    },
-    {
-      "word": "structures",
-      "count": 3
-    },
-    {
-      "word": "you",
-      "count": 3
-    },
-    {
-      "word": "the",
-      "count": 3
-    },
-    {
-      "word": "to",
-      "count": 3
-    },
-    {
-      "word": "révélé",
-      "count": 2
-    },
-    {
-      "word": "government",
-      "count": 2
-    },
-    {
-      "word": "benin",
-      "count": 2
-    },
-    {
-      "word": "action",
-      "count": 2
-    },
-    {
-      "word": "république",
-      "count": 2
-    },
-    {
-      "word": "plantations",
-      "count": 2
-    },
-    {
-      "word": "grandes",
-      "count": 2
-    },
-    {
-      "word": "cultures",
-      "count": 2
-    },
-    {
-      "word": "nouveau",
-      "count": 2
-    },
-    {
-      "word": "mécanisation",
-      "count": 2
-    },
-    {
-      "word": "accès",
-      "count": 2
-    },
-    {
-      "word": "palmier",
-      "count": 2
-    },
-    {
-      "word": "huile",
-      "count": 2
-    },
-    {
-      "word": "maraîchères",
-      "count": 2
-    },
-    {
-      "word": "œufs",
-      "count": 2
-    },
-    {
-      "word": "table",
-      "count": 2
-    },
-    {
-      "word": "sédentarisation",
-      "count": 2
-    },
-    {
-      "word": "amélioration",
-      "count": 2
-    },
-    {
-      "word": "productivité",
-      "count": 2
-    },
-    {
-      "word": "résilience",
-      "count": 2
-    },
-    {
-      "word": "collines",
-      "count": 2
-    },
-    {
-      "word": "zones",
-      "count": 2
-    },
-    {
-      "word": "économique",
-      "count": 2
     },
     {
       "word": "protection",
+      "count": 3
+    },
+    {
+      "word": "office",
       "count": 2
     },
     {
-      "word": "réhabilitation",
+      "word": "presse",
       "count": 2
     },
     {
-      "word": "alimentaire",
+      "word": "structure",
       "count": 2
     },
     {
-      "word": "promotion",
+      "word": "étatique",
       "count": 2
     },
     {
-      "word": "mesures",
+      "word": "caractère",
       "count": 2
     },
     {
-      "word": "intrants",
+      "word": "culturel",
       "count": 2
     },
     {
-      "word": "fiscales",
+      "word": "scientifique",
       "count": 2
     },
     {
-      "word": "exportation",
+      "word": "placée",
+      "count": 2
+    },
+    {
+      "word": "sous",
+      "count": 2
+    },
+    {
+      "word": "tutelle",
+      "count": 2
+    },
+    {
+      "word": "ministère",
+      "count": 2
+    },
+    {
+      "word": "communication",
+      "count": 2
+    },
+    {
+      "word": "poste",
+      "count": 2
+    },
+    {
+      "word": "elle",
+      "count": 2
+    },
+    {
+      "word": "jouit",
+      "count": 2
+    },
+    {
+      "word": "autonomie",
       "count": 2
     },
     {
@@ -385,943 +517,235 @@
       "count": 2
     },
     {
-      "word": "lancement",
+      "word": "dispose",
       "count": 2
     },
     {
-      "word": "construction",
+      "word": "journal",
       "count": 2
     },
     {
-      "word": "rurales",
+      "word": "république",
       "count": 2
     },
     {
-      "word": "francs",
+      "word": "sale",
       "count": 2
     },
     {
-      "word": "fcfa",
+      "word": "make",
       "count": 2
     },
     {
-      "word": "tonnes",
+      "word": "monthly",
       "count": 2
     },
     {
-      "word": "campagne",
+      "word": "interest",
       "count": 2
     },
     {
-      "word": "profit",
+      "word": "using",
       "count": 2
     },
     {
-      "word": "accroitre",
+      "word": "today",
       "count": 2
     },
     {
-      "word": "promoteurs",
+      "word": "sommes-nous",
       "count": 2
     },
     {
-      "word": "travaux",
+      "word": "les",
       "count": 2
     },
     {
-      "word": "ouémé",
+      "word": "publiques",
       "count": 2
     },
     {
-      "word": "service",
+      "word": "pour",
       "count": 2
     },
     {
-      "word": "marre",
+      "word": "présidentielle",
       "count": 2
     },
     {
-      "word": "bandarou",
+      "word": "push",
       "count": 2
     },
     {
-      "word": "gogounou",
+      "word": "into",
       "count": 2
     },
     {
-      "word": "infrastructure",
+      "word": "at",
       "count": 2
     },
     {
-      "word": "bonheur",
+      "word": "send",
       "count": 2
     },
     {
-      "word": "sur",
+      "word": "username",
       "count": 2
     },
     {
-      "word": "mis",
+      "word": "password",
       "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "most",
+      "count": 2
+    },
+    {
+      "word": "cases",
+      "count": 2
+    },
+    {
+      "word": "one",
+      "count": 2
+    },
+    {
+      "word": "next",
+      "count": 2
+    },
+    {
+      "word": "godaddy",
+      "count": 2
+    },
+    {
+      "word": "yes",
+      "count": 2
+    },
+    {
+      "word": "can",
+      "count": 2
+    },
+    {
+      "word": "hosting",
+      "count": 2
+    },
+    {
+      "word": "have",
+      "count": 2
+    },
+    {
+      "word": "up",
+      "count": 2
+    },
+    {
+      "word": "days",
+      "count": 2
+    },
+    {
+      "word": "not",
+      "count": 2
+    },
+    {
+      "word": "been",
+      "count": 2
+    },
+    {
+      "word": "please",
+      "count": 2
+    },
+    {
+      "word": "name",
+      "count": 2
+    },
+    {
+      "word": "fee",
+      "count": 2
+    },
+    {
+      "word": "personal",
+      "count": 2
+    },
+    {
+      "word": "private",
+      "count": 2
+    },
+    {
+      "word": "add",
+      "count": 2
+    },
+    {
+      "word": "updated",
+      "count": 2
+    },
+    {
+      "word": "per",
+      "count": 1
+    },
+    {
+      "word": "month",
+      "count": 1
+    },
+    {
+      "word": "only",
+      "count": 1
     },
     {
       "word": "mo",
-      "count": 2
-    },
-    {
-      "word": "télécharger",
-      "count": 2
-    },
-    {
-      "word": "faire",
-      "count": 2
-    },
-    {
-      "word": "recherche",
-      "count": 2
-    },
-    {
-      "word": "etc",
-      "count": 2
-    },
-    {
-      "word": "synthèse",
-      "count": 2
-    },
-    {
-      "word": "nous",
-      "count": 2
-    },
-    {
-      "word": "années",
-      "count": 2
-    },
-    {
-      "word": "services",
-      "count": 2
-    },
-    {
-      "word": "béninoise",
-      "count": 2
-    },
-    {
-      "word": "eau",
-      "count": 2
-    },
-    {
-      "word": "com",
-      "count": 2
-    },
-    {
-      "word": "purchase",
-      "count": 2
-    },
-    {
-      "word": "domain",
-      "count": 2
-    },
-    {
-      "word": "we",
-      "count": 2
-    },
-    {
-      "word": "an",
-      "count": 2
-    },
-    {
-      "word": "namebright",
-      "count": 2
-    },
-    {
-      "word": "access",
-      "count": 2
-    },
-    {
-      "word": "be",
-      "count": 2
-    },
-    {
-      "word": "available",
-      "count": 2
-    },
-    {
-      "word": "within",
-      "count": 2
-    },
-    {
-      "word": "hours",
-      "count": 2
-    },
-    {
-      "word": "business",
-      "count": 2
-    },
-    {
-      "word": "pndpgc",
-      "count": 1
-    },
-    {
-      "word": "régionaux",
-      "count": 1
-    },
-    {
-      "word": "compétitivité",
-      "count": 1
-    },
-    {
-      "word": "diversification",
-      "count": 1
-    },
-    {
-      "word": "exportations",
-      "count": 1
-    },
-    {
-      "word": "pacofide",
-      "count": 1
-    },
-    {
-      "word": "aménagements",
-      "count": 1
-    },
-    {
-      "word": "hydro-agricoles",
-      "count": 1
-    },
-    {
-      "word": "vallées",
-      "count": 1
-    },
-    {
-      "word": "ananas",
-      "count": 1
-    },
-    {
-      "word": "riz",
-      "count": 1
-    },
-    {
-      "word": "lait",
-      "count": 1
-    },
-    {
-      "word": "viande",
-      "count": 1
-    },
-    {
-      "word": "troupeaux",
-      "count": 1
-    },
-    {
-      "word": "ruminants",
-      "count": 1
-    },
-    {
-      "word": "proser",
-      "count": 1
-    },
-    {
-      "word": "aquaculture",
-      "count": 1
-    },
-    {
-      "word": "petits",
-      "count": 1
-    },
-    {
-      "word": "exploitants",
-      "count": 1
-    },
-    {
-      "word": "vivrière",
-      "count": 1
-    },
-    {
-      "word": "départements",
-      "count": 1
-    },
-    {
-      "word": "alibori",
-      "count": 1
-    },
-    {
-      "word": "borgou",
-      "count": 1
-    },
-    {
-      "word": "centres",
-      "count": 1
-    },
-    {
-      "word": "innovations",
-      "count": 1
-    },
-    {
-      "word": "vertes",
-      "count": 1
-    },
-    {
-      "word": "agroalimentaire",
-      "count": 1
-    },
-    {
-      "word": "protéiniques",
-      "count": 1
-    },
-    {
-      "word": "irrigation",
-      "count": 1
-    },
-    {
-      "word": "transition",
-      "count": 1
-    },
-    {
-      "word": "agroécologique",
-      "count": 1
-    },
-    {
-      "word": "cotonnières",
-      "count": 1
-    },
-    {
-      "word": "phase",
-      "count": 1
-    },
-    {
-      "word": "croissance",
-      "count": 1
-    },
-    {
-      "word": "rurale",
-      "count": 1
-    },
-    {
-      "word": "sols",
-      "count": 1
-    },
-    {
-      "word": "proagri",
-      "count": 1
-    },
-    {
-      "word": "pêche",
-      "count": 1
-    },
-    {
-      "word": "maritime",
-      "count": 1
-    },
-    {
-      "word": "maïs",
-      "count": 1
-    },
-    {
-      "word": "manioc",
-      "count": 1
-    },
-    {
-      "word": "facilitation",
-      "count": 1
-    },
-    {
-      "word": "semences",
-      "count": 1
-    },
-    {
-      "word": "non",
-      "count": 1
-    },
-    {
-      "word": "incitatives",
-      "count": 1
-    },
-    {
-      "word": "faveur",
-      "count": 1
-    },
-    {
-      "word": "importation",
-      "count": 1
-    },
-    {
-      "word": "produits",
-      "count": 1
-    },
-    {
-      "word": "création",
-      "count": 1
-    },
-    {
-      "word": "agence",
-      "count": 1
-    },
-    {
-      "word": "office",
-      "count": 1
-    },
-    {
-      "word": "fermes",
-      "count": 1
-    },
-    {
-      "word": "élevage",
-      "count": 1
-    },
-    {
-      "word": "relance",
-      "count": 1
-    },
-    {
-      "word": "crevettes",
-      "count": 1
-    },
-    {
-      "word": "restaurer",
-      "count": 1
-    },
-    {
-      "word": "label",
-      "count": 1
-    },
-    {
-      "word": "officiel",
-      "count": 1
-    },
-    {
-      "word": "barrages",
-      "count": 1
-    },
-    {
-      "word": "pistes",
-      "count": 1
-    },
-    {
-      "word": "atacora",
-      "count": 1
-    },
-    {
-      "word": "donga",
-      "count": 1
-    },
-    {
-      "word": "chaine",
-      "count": 1
-    },
-    {
-      "word": "mille",
-      "count": 1
-    },
-    {
-      "word": "engrais",
-      "count": 1
-    },
-    {
-      "word": "urée",
-      "count": 1
-    },
-    {
-      "word": "disponibles",
-      "count": 1
-    },
-    {
-      "word": "réception",
-      "count": 1
-    },
-    {
-      "word": "poussins",
-      "count": 1
-    },
-    {
-      "word": "pontes",
-      "count": 1
-    },
-    {
-      "word": "aviculteurs",
-      "count": 1
-    },
-    {
-      "word": "développer",
-      "count": 1
-    },
-    {
-      "word": "veut",
-      "count": 1
-    },
-    {
-      "word": "ici",
-      "count": 1
-    },
-    {
-      "word": "recensement",
-      "count": 1
-    },
-    {
-      "word": "rna",
-      "count": 1
-    },
-    {
-      "word": "est",
-      "count": 1
-    },
-    {
-      "word": "bouclé",
-      "count": 1
-    },
-    {
-      "word": "première",
-      "count": 1
-    },
-    {
-      "word": "fois",
-      "count": 1
-    },
-    {
-      "word": "tractoristes",
-      "count": 1
-    },
-    {
-      "word": "formés",
-      "count": 1
-    },
-    {
-      "word": "société",
-      "count": 1
-    },
-    {
-      "word": "nationale",
-      "count": 1
-    },
-    {
-      "word": "sonama",
-      "count": 1
-    },
-    {
-      "word": "subvention",
-      "count": 1
-    },
-    {
-      "word": "tracteurs",
-      "count": 1
-    },
-    {
-      "word": "producteurs",
-      "count": 1
-    },
-    {
-      "word": "privés",
-      "count": 1
-    },
-    {
-      "word": "appuyés",
-      "count": 1
-    },
-    {
-      "word": "fnda",
-      "count": 1
-    },
-    {
-      "word": "conflits",
-      "count": 1
-    },
-    {
-      "word": "éleveurs",
-      "count": 1
-    },
-    {
-      "word": "agriculteurs",
-      "count": 1
-    },
-    {
-      "word": "haut",
-      "count": 1
-    },
-    {
-      "word": "commissaire",
-      "count": 1
-    },
-    {
-      "word": "pèlerin",
-      "count": 1
-    },
-    {
-      "word": "paix",
-      "count": 1
-    },
-    {
-      "word": "coton",
-      "count": 1
-    },
-    {
-      "word": "record",
-      "count": 1
-    },
-    {
-      "word": "aménagement",
-      "count": 1
-    },
-    {
-      "word": "sites",
-      "count": 1
-    },
-    {
-      "word": "achevés",
-      "count": 1
-    },
-    {
-      "word": "vallée",
-      "count": 1
-    },
-    {
-      "word": "e-agriculture",
-      "count": 1
-    },
-    {
-      "word": "deux",
-      "count": 1
-    },
-    {
-      "word": "plateformes",
-      "count": 1
-    },
-    {
-      "word": "numériques",
-      "count": 1
-    },
-    {
-      "word": "béninois",
-      "count": 1
-    },
-    {
-      "word": "commercialisation",
-      "count": 1
-    },
-    {
-      "word": "fixe",
-      "count": 1
-    },
-    {
-      "word": "prix",
-      "count": 1
-    },
-    {
-      "word": "plancher",
-      "count": 1
-    },
-    {
-      "word": "kg",
-      "count": 1
-    },
-    {
-      "word": "entrepreneuriat",
-      "count": 1
-    },
-    {
-      "word": "karité",
-      "count": 1
-    },
-    {
-      "word": "transformatrices",
-      "count": 1
-    },
-    {
-      "word": "atacora-donga",
-      "count": 1
-    },
-    {
-      "word": "désormais",
-      "count": 1
-    },
-    {
-      "word": "équipées",
-      "count": 1
-    },
-    {
-      "word": "bétails",
-      "count": 1
-    },
-    {
-      "word": "transfrontaliers",
-      "count": 1
-    },
-    {
-      "word": "iwoyé",
-      "count": 1
-    },
-    {
-      "word": "matéri",
-      "count": 1
-    },
-    {
-      "word": "réhabilités",
-      "count": 1
-    },
-    {
-      "word": "mission",
-      "count": 1
-    },
-    {
-      "word": "maep",
-      "count": 1
-    },
-    {
-      "word": "constate",
-      "count": 1
-    },
-    {
-      "word": "avancement",
-      "count": 1
-    },
-    {
-      "word": "barrage",
-      "count": 1
-    },
-    {
-      "word": "tchakparou",
-      "count": 1
-    },
-    {
-      "word": "informés",
-      "count": 1
-    },
-    {
-      "word": "prêts",
-      "count": 1
-    },
-    {
-      "word": "disposition",
-      "count": 1
-    },
-    {
-      "word": "etat",
-      "count": 1
-    },
-    {
-      "word": "trois",
-      "count": 1
-    },
-    {
-      "word": "entreprises",
-      "count": 1
-    },
-    {
-      "word": "récompensées",
-      "count": 1
-    },
-    {
-      "word": "certification",
-      "count": 1
-    },
-    {
-      "word": "haccp",
-      "count": 1
-    },
-    {
-      "word": "pdf",
-      "count": 1
-    },
-    {
-      "word": "partager",
-      "count": 1
-    },
-    {
-      "word": "cette",
-      "count": 1
-    },
-    {
-      "word": "page",
-      "count": 1
-    },
-    {
-      "word": "d'actions",
-      "count": 1
-    },
-    {
-      "word": "pérénnisation",
-      "count": 1
-    },
-    {
-      "word": "acquis",
-      "count": 1
-    },
-    {
-      "word": "capital",
-      "count": 1
-    },
-    {
-      "word": "humain",
-      "count": 1
-    },
-    {
-      "word": "qui",
-      "count": 1
-    },
-    {
-      "word": "se",
-      "count": 1
-    },
-    {
-      "word": "décline",
-      "count": 1
-    },
-    {
-      "word": "travers",
-      "count": 1
-    },
-    {
-      "word": "structurants",
-      "count": 1
-    },
-    {
-      "word": "mot",
-      "count": 1
-    },
-    {
-      "word": "président",
-      "count": 1
-    },
-    {
-      "word": "séance",
-      "count": 1
-    },
-    {
-      "word": "présentation",
-      "count": 1
-    },
-    {
-      "word": "français",
-      "count": 1
-    },
-    {
-      "word": "anglais",
-      "count": 1
-    },
-    {
-      "word": "présent",
-      "count": 1
-    },
-    {
-      "word": "il",
-      "count": 1
-    },
-    {
-      "word": "agit",
-      "count": 1
-    },
-    {
-      "word": "cinq",
-      "count": 1
-    },
-    {
-      "word": "venir",
-      "count": 1
-    },
-    {
-      "word": "transformer",
-      "count": 1
-    },
-    {
-      "word": "essai",
-      "count": 1
-    },
-    {
-      "word": "que",
-      "count": 1
-    },
-    {
-      "word": "constituent",
-      "count": 1
-    },
-    {
-      "word": "avancées",
-      "count": 1
-    },
-    {
-      "word": "voire",
-      "count": 1
-    },
-    {
-      "word": "ose",
-      "count": 1
-    },
-    {
-      "word": "dire",
-      "count": 1
-    },
-    {
-      "word": "prouesses",
-      "count": 1
-    },
-    {
-      "word": "qu",
-      "count": 1
-    },
-    {
-      "word": "ensemble",
-      "count": 1
-    },
-    {
-      "word": "avons",
-      "count": 1
-    },
-    {
-      "word": "réalisées",
-      "count": 1
-    },
-    {
-      "word": "patrice",
       "count": 1
     },
     {
-      "word": "talon",
+      "word": "favorite",
       "count": 1
     },
     {
-      "word": "accélérer",
+      "word": "questions",
       "count": 1
     },
     {
-      "word": "social",
+      "word": "talk",
       "count": 1
     },
     {
-      "word": "toutes",
+      "word": "expert",
       "count": 1
     },
     {
-      "word": "électricité",
+      "word": "nations",
       "count": 1
     },
     {
-      "word": "quatre",
+      "word": "mentions",
       "count": 1
     },
     {
-      "word": "postes",
+      "word": "légales",
       "count": 1
     },
     {
-      "word": "électriques",
+      "word": "confidentialité",
       "count": 1
     },
     {
-      "word": "fourniture",
+      "word": "notre",
       "count": 1
     },
     {
-      "word": "énergie",
+      "word": "vision",
       "count": 1
     },
     {
-      "word": "sociale",
+      "word": "assurer",
       "count": 1
     },
     {
-      "word": "gbessoke",
+      "word": "édition",
       "count": 1
     },
     {
-      "word": "diversifier",
+      "word": "acteurs",
       "count": 1
     },
     {
@@ -1329,235 +753,471 @@
       "count": 1
     },
     {
-      "word": "économie",
+      "word": "économiques",
       "count": 1
     },
     {
-      "word": "finance",
+      "word": "entreprises",
       "count": 1
     },
     {
-      "word": "administration",
+      "word": "privées",
       "count": 1
     },
     {
-      "word": "recettes",
+      "word": "santé",
       "count": 1
     },
     {
-      "word": "douanières",
+      "word": "dignité",
       "count": 1
     },
     {
-      "word": "hausse",
+      "word": "justice",
       "count": 1
     },
     {
-      "word": "potable",
+      "word": "menstruelle",
       "count": 1
     },
     {
-      "word": "prochaines",
+      "word": "appel",
       "count": 1
     },
     {
-      "word": "sports",
+      "word": "contributions",
       "count": 1
     },
     {
-      "word": "coopération",
+      "word": "scientifiques",
       "count": 1
     },
     {
-      "word": "russie",
+      "word": "renforcer",
       "count": 1
     },
     {
-      "word": "mémorandum",
+      "word": "gouvernance",
       "count": 1
     },
     {
-      "word": "éducation",
+      "word": "performante",
       "count": 1
     },
     {
-      "word": "physique",
+      "word": "commande",
       "count": 1
     },
     {
-      "word": "sportive",
+      "word": "publique",
       "count": 1
     },
     {
-      "word": "numérique",
+      "word": "expertise",
       "count": 1
     },
     {
-      "word": "nouveaux",
+      "word": "cabinets",
       "count": 1
     },
     {
-      "word": "dématérialisés",
+      "word": "audit",
       "count": 1
     },
     {
-      "word": "accessibles",
+      "word": "renforcée",
       "count": 1
     },
     {
-      "word": "ligne",
+      "word": "loin",
       "count": 1
     },
     {
-      "word": "plateforme",
+      "word": "ensemble",
       "count": 1
     },
     {
-      "word": "budget",
+      "word": "monsieur",
       "count": 1
     },
     {
-      "word": "cadre",
+      "word": "président",
       "count": 1
     },
     {
-      "word": "institutionnel",
+      "word": "oubliez",
       "count": 1
     },
     {
-      "word": "d'exécution",
+      "word": "pas",
       "count": 1
     },
     {
-      "word": "www",
+      "word": "ce",
       "count": 1
     },
     {
-      "word": "benindiaspora",
+      "word": "que",
       "count": 1
     },
     {
-      "word": "cultural",
+      "word": "vous",
       "count": 1
     },
     {
-      "word": "education",
+      "word": "avez",
       "count": 1
     },
     {
-      "word": "portal",
+      "word": "vu",
       "count": 1
     },
     {
-      "word": "once",
+      "word": "cour",
       "count": 1
     },
     {
-      "word": "push",
+      "word": "constitutionnelle",
       "count": 1
     },
     {
-      "word": "it",
+      "word": "lance",
       "count": 1
     },
     {
-      "word": "into",
+      "word": "dépouillement",
       "count": 1
     },
     {
-      "word": "account",
+      "word": "premières",
       "count": 1
     },
     {
-      "word": "for",
+      "word": "cantines",
       "count": 1
     },
     {
-      "word": "at",
+      "word": "électorales",
       "count": 1
     },
     {
-      "word": "our",
+      "word": "anatomie",
       "count": 1
     },
     {
-      "word": "registrar",
+      "word": "scrutin",
       "count": 1
     },
     {
-      "word": "then",
+      "word": "conseil",
       "count": 1
     },
     {
-      "word": "send",
+      "word": "économique",
       "count": 1
     },
     {
-      "word": "email",
+      "word": "engagement",
       "count": 1
     },
     {
-      "word": "with",
+      "word": "en",
       "count": 1
     },
     {
-      "word": "your",
+      "word": "faveur",
       "count": 1
     },
     {
-      "word": "username",
+      "word": "couches",
       "count": 1
     },
     {
-      "word": "and",
+      "word": "vulnérables",
       "count": 1
     },
     {
-      "word": "password",
+      "word": "réaffirmé",
       "count": 1
     },
     {
-      "word": "in",
+      "word": "another",
       "count": 1
     },
     {
-      "word": "most",
+      "word": "such",
       "count": 1
     },
     {
-      "word": "cases",
+      "word": "as",
       "count": 1
     },
     {
-      "word": "one",
+      "word": "any",
       "count": 1
     },
     {
-      "word": "two",
+      "word": "company",
       "count": 1
     },
     {
-      "word": "however",
+      "word": "since",
       "count": 1
     },
     {
-      "word": "domains",
+      "word": "transfers",
       "count": 1
     },
     {
-      "word": "purchased",
+      "word": "manual",
       "count": 1
     },
     {
-      "word": "after",
+      "word": "process",
       "count": 1
     },
     {
-      "word": "next",
+      "word": "take",
       "count": 1
     },
     {
-      "word": "day",
+      "word": "eligible",
+      "count": 1
+    },
+    {
+      "word": "until",
+      "count": 1
+    },
+    {
+      "word": "all",
+      "count": 1
+    },
+    {
+      "word": "made",
+      "count": 1
+    },
+    {
+      "word": "remember",
+      "count": 1
+    },
+    {
+      "word": "that",
+      "count": 1
+    },
+    {
+      "word": "money",
+      "count": 1
+    },
+    {
+      "word": "back",
+      "count": 1
+    },
+    {
+      "word": "guarantee",
+      "count": 1
+    },
+    {
+      "word": "void",
+      "count": 1
+    },
+    {
+      "word": "has",
+      "count": 1
+    },
+    {
+      "word": "transferred",
+      "count": 1
+    },
+    {
+      "word": "instructions",
+      "count": 1
+    },
+    {
+      "word": "click",
+      "count": 1
+    },
+    {
+      "word": "here",
+      "count": 1
+    },
+    {
+      "word": "get",
+      "count": 1
+    },
+    {
+      "word": "what",
+      "count": 1
+    },
+    {
+      "word": "comes",
+      "count": 1
+    },
+    {
+      "word": "nothing",
+      "count": 1
+    },
+    {
+      "word": "else",
+      "count": 1
+    },
+    {
+      "word": "included",
+      "count": 1
+    },
+    {
+      "word": "does",
+      "count": 1
+    },
+    {
+      "word": "packages",
+      "count": 1
+    },
+    {
+      "word": "yearly",
+      "count": 1
+    },
+    {
+      "word": "need",
+      "count": 1
+    },
+    {
+      "word": "find",
+      "count": 1
+    },
+    {
+      "word": "web",
+      "count": 1
+    },
+    {
+      "word": "design",
+      "count": 1
+    },
+    {
+      "word": "services",
+      "count": 1
+    },
+    {
+      "word": "on",
+      "count": 1
+    },
+    {
+      "word": "own",
+      "count": 1
+    },
+    {
+      "word": "keep",
+      "count": 1
+    },
+    {
+      "word": "my",
+      "count": 1
+    },
+    {
+      "word": "if",
+      "count": 1
+    },
+    {
+      "word": "wish",
+      "count": 1
+    },
+    {
+      "word": "ownership",
+      "count": 1
+    },
+    {
+      "word": "hides",
+      "count": 1
+    },
+    {
+      "word": "from",
+      "count": 1
+    },
+    {
+      "word": "general",
+      "count": 1
+    },
+    {
+      "word": "so",
+      "count": 1
+    },
+    {
+      "word": "offers",
+      "count": 1
+    },
+    {
+      "word": "free",
+      "count": 1
+    },
+    {
+      "word": "first",
+      "count": 1
+    },
+    {
+      "word": "year",
+      "count": 1
+    },
+    {
+      "word": "small",
+      "count": 1
+    },
+    {
+      "word": "subsequent",
+      "count": 1
+    },
+    {
+      "word": "years",
+      "count": 1
+    },
+    {
+      "word": "immediately",
+      "count": 1
+    },
+    {
+      "word": "typically",
+      "count": 1
+    },
+    {
+      "word": "takes",
+      "count": 1
+    },
+    {
+      "word": "several",
+      "count": 1
+    },
+    {
+      "word": "data",
+      "count": 1
+    },
+    {
+      "word": "update",
+      "count": 1
+    },
+    {
+      "word": "different",
+      "count": 1
+    },
+    {
+      "word": "registrars",
+      "count": 1
+    },
+    {
+      "word": "faster",
+      "count": 1
+    },
+    {
+      "word": "than",
+      "count": 1
+    },
+    {
+      "word": "others",
+      "count": 1
+    },
+    {
+      "word": "usually",
+      "count": 1
+    },
+    {
+      "word": "fully",
       "count": 1
     }
   ]

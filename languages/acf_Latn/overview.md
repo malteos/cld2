@@ -30,13 +30,15 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 ### Contributed content
 
 - `https://www.stlucianewsonline.com/` — St. Lucia News Online — _live WebFetch_
-- `https://www.govt.lc/` — Government of Saint Lucia (Kwéyòl-language cultural items) — _live WebFetch_
 - `https://www.potomitan.info/` — Potomitan — Caribbean-creole literature / education portal — _live WebFetch_
 
 ### Catalogued source candidates
 
-- `https://stlucia.loopnews.com/` — Loop News Saint Lucia (English + Kwéyòl items) (news)
 - `https://www.stlucianewsonline.com/` — St. Lucia News Online (news)
-- `https://www.govt.lc/` — Government of Saint Lucia (Kwéyòl-language cultural items) (gov)
+- `https://www.govt.lc/` — Government of Saint Lucia (gov)
 - `https://www.potomitan.info/` — Potomitan — Caribbean-creole literature / education portal (education)
-- `https://www.jw.org/lcf/` — jw.org Saint Lucian Creole (as 'lcf') (religious)
+- `https://www.potomitan.info/atelier/kweyol/index.php` — Potomitan — Kwéyòl texts (Kreyol section) (education)
+- `https://www.potomitan.info/bible/` — Potomitan — Kwéyòl Bible translations (religious)
+- `https://stluciatimes.com/` — St. Lucia Times (news)
+- `https://www.visitsaintlucia.org/` — Saint Lucia Tourism Authority (commercial)
+- `https://www.thevoiceslu.com/` — The Voice St. Lucia (news)

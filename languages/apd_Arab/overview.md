@@ -38,7 +38,10 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 ### Catalogued source candidates
 
-- `https://www.sudantribune.net/` — Sudan Tribune — Sudanese news (news)
 - `https://www.alrakoba.net/` — Al Rakoba — Sudanese news portal (news)
-- `https://sudanakhbar.com/` — Sudan Akhbar (news)
-- `https://www.sudaress.com/` — Sudaress — Sudanese press aggregator (news)
+- `https://www.altaghyeer.info/` — Al Taghyeer — Sudanese news (news)
+- `https://www.sudaniaa.com/` — Sudaniaa — Sudanese portal (news)
+- `https://www.aljareeda.com/` — Al Jareeda — Sudanese daily (news)
+- `https://alayam.com/` — Al Ayam newspaper (news)
+- `https://www.sudafax.com/` — Sudafax news (news)
+- `https://darfur24.com/` — Darfur 24 — Sudanese regional news (news)

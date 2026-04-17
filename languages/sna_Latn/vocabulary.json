@@ -5,24 +5,24 @@
   "tier": "low",
   "tier_target": 1000,
   "source": "Wikipedia (sn.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
-  "total_tokens": 177354,
+  "total_tokens": 177265,
   "unique_tokens": 43082,
   "words": [
     {
       "word": "kana",
-      "count": 3861
+      "count": 3858
     },
     {
       "word": "vanoti",
-      "count": 3506
+      "count": 3505
     },
     {
       "word": "kureva",
-      "count": 2829
+      "count": 2831
     },
     {
       "word": "kuti",
-      "count": 1712
+      "count": 1709
     },
     {
       "word": "to",
@@ -30,7 +30,7 @@
     },
     {
       "word": "of",
-      "count": 1322
+      "count": 1321
     },
     {
       "word": "the",
@@ -62,7 +62,7 @@
     },
     {
       "word": "mamwe",
-      "count": 647
+      "count": 646
     },
     {
       "word": "vachireva",
@@ -78,7 +78,7 @@
     },
     {
       "word": "zvinoreva",
-      "count": 567
+      "count": 566
     },
     {
       "word": "rokuti",
@@ -86,7 +86,7 @@
     },
     {
       "word": "munhu",
-      "count": 500
+      "count": 499
     },
     {
       "word": "kubva",
@@ -110,11 +110,11 @@
     },
     {
       "word": "kune",
-      "count": 384
+      "count": 383
     },
     {
       "word": "ari",
-      "count": 383
+      "count": 382
     },
     {
       "word": "tsika",
@@ -146,7 +146,7 @@
     },
     {
       "word": "mapisarema",
-      "count": 306
+      "count": 308
     },
     {
       "word": "zita",
@@ -177,10 +177,6 @@
       "count": 264
     },
     {
-      "word": "vamwe",
-      "count": 258
-    },
-    {
       "word": "nzvimbo",
       "count": 258
     },
@@ -193,16 +189,20 @@
       "count": 256
     },
     {
+      "word": "vamwe",
+      "count": 256
+    },
+    {
       "word": "for",
       "count": 254
     },
     {
       "word": "pasi",
-      "count": 246
+      "count": 245
     },
     {
       "word": "nguva",
-      "count": 242
+      "count": 241
     },
     {
       "word": "zvichireva",
@@ -221,12 +221,12 @@
       "count": 229
     },
     {
-      "word": "ne",
-      "count": 222
-    },
-    {
       "word": "izvi",
       "count": 221
+    },
+    {
+      "word": "ne",
+      "count": 220
     },
     {
       "word": "mhuka",
@@ -242,7 +242,7 @@
     },
     {
       "word": "kusvika",
-      "count": 205
+      "count": 204
     },
     {
       "word": "ye",
@@ -342,7 +342,7 @@
     },
     {
       "word": "anenge",
-      "count": 152
+      "count": 151
     },
     {
       "word": "kuenda",
@@ -354,7 +354,7 @@
     },
     {
       "word": "sokuti",
-      "count": 146
+      "count": 147
     },
     {
       "word": "maviri",
@@ -366,7 +366,7 @@
     },
     {
       "word": "basa",
-      "count": 142
+      "count": 141
     },
     {
       "word": "mwana",
@@ -381,15 +381,15 @@
       "count": 139
     },
     {
-      "word": "panguva",
-      "count": 136
-    },
-    {
       "word": "yeafrika",
       "count": 136
     },
     {
       "word": "vari",
+      "count": 135
+    },
+    {
+      "word": "panguva",
       "count": 135
     },
     {
@@ -422,7 +422,7 @@
     },
     {
       "word": "uyu",
-      "count": 127
+      "count": 126
     },
     {
       "word": "tsumo",
@@ -466,7 +466,7 @@
     },
     {
       "word": "panzvimbo",
-      "count": 118
+      "count": 117
     },
     {
       "word": "up",
@@ -482,7 +482,7 @@
     },
     {
       "word": "mashoko",
-      "count": 113
+      "count": 114
     },
     {
       "word": "anonzi",
@@ -497,7 +497,7 @@
       "count": 110
     },
     {
-      "word": "nenzira",
+      "word": "chikamu",
       "count": 110
     },
     {
@@ -509,20 +509,20 @@
       "count": 110
     },
     {
+      "word": "nenzira",
+      "count": 109
+    },
+    {
       "word": "rinonzi",
-      "count": 109
-    },
-    {
-      "word": "nhengo",
-      "count": 109
-    },
-    {
-      "word": "chikamu",
       "count": 109
     },
     {
       "word": "makumi",
       "count": 109
+    },
+    {
+      "word": "nhengo",
+      "count": 108
     },
     {
       "word": "person",
@@ -621,16 +621,16 @@
       "count": 95
     },
     {
-      "word": "apo",
-      "count": 95
-    },
-    {
       "word": "saka",
       "count": 95
     },
     {
       "word": "chimwe",
       "count": 95
+    },
+    {
+      "word": "apo",
+      "count": 94
     },
     {
       "word": "we",
@@ -709,16 +709,16 @@
       "count": 89
     },
     {
+      "word": "ra",
+      "count": 88
+    },
+    {
       "word": "vana",
       "count": 88
     },
     {
       "word": "zhinji",
       "count": 88
-    },
-    {
-      "word": "ra",
-      "count": 87
     },
     {
       "word": "kutaurwa",
@@ -749,16 +749,16 @@
       "count": 85
     },
     {
-      "word": "dzose",
-      "count": 84
-    },
-    {
       "word": "ndiwo",
       "count": 84
     },
     {
       "word": "mushure",
       "count": 84
+    },
+    {
+      "word": "dzose",
+      "count": 83
     },
     {
       "word": "rinoshandiswa",
@@ -813,10 +813,6 @@
       "count": 78
     },
     {
-      "word": "mukadzi",
-      "count": 77
-    },
-    {
       "word": "izita",
       "count": 77
     },
@@ -827,6 +823,10 @@
     {
       "word": "chiumbwa",
       "count": 77
+    },
+    {
+      "word": "mukadzi",
+      "count": 76
     },
     {
       "word": "mukati",
@@ -1033,10 +1033,6 @@
       "count": 64
     },
     {
-      "word": "rudzi",
-      "count": 63
-    },
-    {
       "word": "zviviri",
       "count": 63
     },
@@ -1066,6 +1062,10 @@
     },
     {
       "word": "kwe",
+      "count": 62
+    },
+    {
+      "word": "rudzi",
       "count": 62
     },
     {
@@ -1153,10 +1153,6 @@
       "count": 59
     },
     {
-      "word": "chiitiko",
-      "count": 59
-    },
-    {
       "word": "imhuka",
       "count": 59
     },
@@ -1174,6 +1170,10 @@
     },
     {
       "word": "zvichienderana",
+      "count": 58
+    },
+    {
+      "word": "chiitiko",
       "count": 58
     },
     {
@@ -1517,6 +1517,10 @@
       "count": 46
     },
     {
+      "word": "zvakazarurwa",
+      "count": 46
+    },
+    {
       "word": "zviperengo",
       "count": 46
     },
@@ -1581,10 +1585,6 @@
       "count": 45
     },
     {
-      "word": "off",
-      "count": 45
-    },
-    {
       "word": "makore",
       "count": 45
     },
@@ -1617,7 +1617,7 @@
       "count": 45
     },
     {
-      "word": "chino",
+      "word": "off",
       "count": 44
     },
     {
@@ -1669,11 +1669,7 @@
       "count": 43
     },
     {
-      "word": "varume",
-      "count": 43
-    },
-    {
-      "word": "vanenge",
+      "word": "chino",
       "count": 43
     },
     {
@@ -1718,6 +1714,10 @@
     },
     {
       "word": "field",
+      "count": 42
+    },
+    {
+      "word": "vanenge",
       "count": 42
     },
     {
@@ -1825,6 +1825,10 @@
       "count": 41
     },
     {
+      "word": "varume",
+      "count": 41
+    },
+    {
       "word": "zvikuru",
       "count": 41
     },
@@ -1887,10 +1891,6 @@
     {
       "word": "kuitwa",
       "count": 41
-    },
-    {
-      "word": "zvinonzi",
-      "count": 40
     },
     {
       "word": "boka",
@@ -2013,15 +2013,15 @@
       "count": 38
     },
     {
+      "word": "zvinonzi",
+      "count": 38
+    },
+    {
       "word": "kare",
       "count": 38
     },
     {
       "word": "unonzi",
-      "count": 38
-    },
-    {
-      "word": "mubhaibheri",
       "count": 38
     },
     {
@@ -2078,6 +2078,10 @@
     },
     {
       "word": "mutemo",
+      "count": 37
+    },
+    {
+      "word": "mubhaibheri",
       "count": 37
     },
     {
@@ -2185,14 +2189,6 @@
       "count": 36
     },
     {
-      "word": "plant",
-      "count": 35
-    },
-    {
-      "word": "ino",
-      "count": 35
-    },
-    {
       "word": "pakuti",
       "count": 35
     },
@@ -2255,6 +2251,14 @@
     {
       "word": "hwevanhu",
       "count": 35
+    },
+    {
+      "word": "plant",
+      "count": 34
+    },
+    {
+      "word": "ino",
+      "count": 34
     },
     {
       "word": "akaita",
@@ -2441,10 +2445,6 @@
       "count": 32
     },
     {
-      "word": "but",
-      "count": 32
-    },
-    {
       "word": "big",
       "count": 32
     },
@@ -2533,10 +2533,6 @@
       "count": 31
     },
     {
-      "word": "vakadzi",
-      "count": 31
-    },
-    {
       "word": "zvese",
       "count": 31
     },
@@ -2549,7 +2545,7 @@
       "count": 31
     },
     {
-      "word": "izvo",
+      "word": "but",
       "count": 31
     },
     {
@@ -2673,7 +2669,7 @@
       "count": 31
     },
     {
-      "word": "rino",
+      "word": "vakadzi",
       "count": 30
     },
     {
@@ -2682,6 +2678,10 @@
     },
     {
       "word": "munda",
+      "count": 30
+    },
+    {
+      "word": "izvo",
       "count": 30
     },
     {
@@ -2913,11 +2913,7 @@
       "count": 29
     },
     {
-      "word": "pabonde",
-      "count": 28
-    },
-    {
-      "word": "ini",
+      "word": "zvinyorwa",
       "count": 28
     },
     {
@@ -3053,11 +3049,7 @@
       "count": 28
     },
     {
-      "word": "zvinyorwa",
-      "count": 27
-    },
-    {
-      "word": "system",
+      "word": "rino",
       "count": 27
     },
     {
@@ -3069,7 +3061,11 @@
       "count": 27
     },
     {
-      "word": "nemunhu",
+      "word": "pabonde",
+      "count": 27
+    },
+    {
+      "word": "ini",
       "count": 27
     },
     {
@@ -3209,10 +3205,6 @@
       "count": 27
     },
     {
-      "word": "ma",
-      "count": 26
-    },
-    {
       "word": "ainzi",
       "count": 26
     },
@@ -3229,7 +3221,7 @@
       "count": 26
     },
     {
-      "word": "munhukadzi",
+      "word": "nemunhu",
       "count": 26
     },
     {
@@ -3357,11 +3349,23 @@
       "count": 26
     },
     {
+      "word": "ma",
+      "count": 25
+    },
+    {
+      "word": "system",
+      "count": 25
+    },
+    {
       "word": "wavo",
       "count": 25
     },
     {
       "word": "mazuvano",
+      "count": 25
+    },
+    {
+      "word": "munhukadzi",
       "count": 25
     },
     {
@@ -3681,14 +3685,6 @@
       "count": 23
     },
     {
-      "word": "zvakazarurwa",
-      "count": 23
-    },
-    {
-      "word": "imwechete",
-      "count": 23
-    },
-    {
       "word": "pemvura",
       "count": 23
     },
@@ -3854,6 +3850,10 @@
     },
     {
       "word": "chindau",
+      "count": 22
+    },
+    {
+      "word": "imwechete",
       "count": 22
     },
     {

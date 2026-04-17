@@ -20,7 +20,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 ### Contributed content
 
 - `https://es.wikipedia.org/` — _wikimedia/wikipedia 20231101_
-- `https://www.lamoncloa.gob.es/` — La Moncloa — Spanish government — _live WebFetch_
 - `https://elpais.com/` — El País — _live WebFetch_
 
 ### Catalogued source candidates

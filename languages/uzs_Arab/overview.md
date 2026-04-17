@@ -19,11 +19,13 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 ### Contributed content
 
-- `https://da.azadiradio.com/` — Radio Azadi — RFE/RL Afghanistan (Dari + Southern Uzbek reports) — _live WebFetch_
-- `https://www.pajhwok.com/` — Pajhwok Afghan News — _live WebFetch_
+- `https://da.azadiradio.com/` — Radio Azadi (Afghanistan) — _live WebFetch_
 
 ### Catalogued source candidates
 
-- `https://da.azadiradio.com/` — Radio Azadi — RFE/RL Afghanistan (Dari + Southern Uzbek reports) (news)
-- `https://www.rta.org.af/` — Radio Television Afghanistan (news)
 - `https://www.pajhwok.com/` — Pajhwok Afghan News (news)
+- `https://da.azadiradio.com/` — Radio Azadi (Afghanistan) (news)
+- `https://www.bbc.com/uzbek` — BBC Uzbek (Latin + Cyrillic; occasional Arabic-script) (news)
+- `https://www.voanews.com/` — Voice of America (Uzbek service) (news)
+- `https://kabulnow.com/` — Kabul Now — Afghan news (news)
+- `https://8am.media/` — Hasht-e Subh — Afghan daily (multi-lang) (news)

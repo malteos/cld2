@@ -26,7 +26,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 ### Contributed content
 
 - `https://ml.wikipedia.org/` — _wikimedia/wikipedia 20231101_
-- `https://www.mathrubhumi.com/` — Mathrubhumi — _live WebFetch_
 
 ### Catalogued source candidates
 

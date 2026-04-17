@@ -37,7 +37,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 ### Contributed content
 
 - `https://st.wikipedia.org/` — _wikimedia/wikipedia 20231101_
-- `https://www.jw.org/st/` — jw.org Southern Sotho edition — _live WebFetch_
 
 ### Catalogued source candidates
 

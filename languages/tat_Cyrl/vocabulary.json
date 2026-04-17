@@ -5,8 +5,8 @@
   "tier": "low",
   "tier_target": 1000,
   "source": "Wikipedia (tt.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
-  "total_tokens": 55824,
-  "unique_tokens": 19494,
+  "total_tokens": 55761,
+  "unique_tokens": 19495,
   "words": [
     {
       "word": "еллар",
@@ -30,7 +30,7 @@
     },
     {
       "word": "häm",
-      "count": 594
+      "count": 588
     },
     {
       "word": "ğär",
@@ -38,7 +38,7 @@
     },
     {
       "word": "belän",
-      "count": 282
+      "count": 281
     },
     {
       "word": "yılda",
@@ -46,11 +46,11 @@
     },
     {
       "word": "tatar",
-      "count": 224
+      "count": 227
     },
     {
       "word": "һәм",
-      "count": 200
+      "count": 206
     },
     {
       "word": "ul",
@@ -70,7 +70,7 @@
     },
     {
       "word": "da",
-      "count": 159
+      "count": 157
     },
     {
       "word": "öçen",
@@ -78,11 +78,11 @@
     },
     {
       "word": "bu",
-      "count": 128
+      "count": 127
     },
     {
       "word": "татар",
-      "count": 117
+      "count": 123
     },
     {
       "word": "soñ",
@@ -98,7 +98,7 @@
     },
     {
       "word": "anıñ",
-      "count": 109
+      "count": 108
     },
     {
       "word": "bula",
@@ -113,11 +113,11 @@
       "count": 100
     },
     {
-      "word": "berençe",
-      "count": 92
+      "word": "белән",
+      "count": 94
     },
     {
-      "word": "белән",
+      "word": "berençe",
       "count": 92
     },
     {
@@ -133,20 +133,16 @@
       "count": 87
     },
     {
-      "word": "torğan",
-      "count": 80
+      "word": "казан",
+      "count": 81
     },
     {
-      "word": "казан",
+      "word": "torğan",
       "count": 80
     },
     {
       "word": "tele",
       "count": 79
-    },
-    {
-      "word": "zur",
-      "count": 78
     },
     {
       "word": "yıllarda",
@@ -155,6 +151,10 @@
     {
       "word": "i̇",
       "count": 77
+    },
+    {
+      "word": "zur",
+      "count": 76
     },
     {
       "word": "iso",
@@ -177,20 +177,16 @@
       "count": 71
     },
     {
-      "word": "buyınça",
-      "count": 69
+      "word": "татарстан",
+      "count": 71
     },
     {
-      "word": "татарстан",
+      "word": "buyınça",
       "count": 69
     },
     {
       "word": "елда",
       "count": 66
-    },
-    {
-      "word": "bulıp",
-      "count": 65
     },
     {
       "word": "far",
@@ -202,6 +198,10 @@
     },
     {
       "word": "üz",
+      "count": 64
+    },
+    {
+      "word": "bulıp",
       "count": 64
     },
     {
@@ -217,16 +217,16 @@
       "count": 62
     },
     {
-      "word": "itä",
-      "count": 60
-    },
-    {
       "word": "şul",
       "count": 60
     },
     {
       "word": "keşe",
       "count": 60
+    },
+    {
+      "word": "itä",
+      "count": 59
     },
     {
       "word": "yaña",
@@ -237,16 +237,16 @@
       "count": 58
     },
     {
-      "word": "itep",
-      "count": 57
-    },
-    {
       "word": "ala",
       "count": 57
     },
     {
       "word": "bar",
       "count": 56
+    },
+    {
+      "word": "itep",
+      "count": 55
     },
     {
       "word": "ğäräp",
@@ -289,11 +289,11 @@
       "count": 47
     },
     {
-      "word": "alıp",
-      "count": 47
+      "word": "yıl",
+      "count": 46
     },
     {
-      "word": "yıl",
+      "word": "alıp",
       "count": 46
     },
     {
@@ -345,28 +345,20 @@
       "count": 42
     },
     {
+      "word": "бу",
+      "count": 42
+    },
+    {
       "word": "baqçasaray",
       "count": 42
     },
     {
-      "word": "бу",
+      "word": "ул",
       "count": 41
     },
     {
       "word": "апрель",
       "count": 41
-    },
-    {
-      "word": "törle",
-      "count": 40
-    },
-    {
-      "word": "küp",
-      "count": 40
-    },
-    {
-      "word": "ул",
-      "count": 40
     },
     {
       "word": "telendä",
@@ -377,12 +369,20 @@
       "count": 40
     },
     {
+      "word": "törle",
+      "count": 39
+    },
+    {
+      "word": "küp",
+      "count": 39
+    },
+    {
       "word": "ike",
       "count": 39
     },
     {
       "word": "http",
-      "count": 38
+      "count": 37
     },
     {
       "word": "şulay",
@@ -425,14 +425,6 @@
       "count": 36
     },
     {
-      "word": "alar",
-      "count": 35
-    },
-    {
-      "word": "xäzerge",
-      "count": 35
-    },
-    {
       "word": "arasında",
       "count": 35
     },
@@ -449,11 +441,15 @@
       "count": 34
     },
     {
-      "word": "isä",
+      "word": "alar",
       "count": 34
     },
     {
-      "word": "була",
+      "word": "xäzerge",
+      "count": 34
+    },
+    {
+      "word": "isä",
       "count": 34
     },
     {
@@ -477,10 +473,6 @@
       "count": 33
     },
     {
-      "word": "the",
-      "count": 33
-    },
-    {
       "word": "dini",
       "count": 33
     },
@@ -498,6 +490,10 @@
     },
     {
       "word": "çığa",
+      "count": 32
+    },
+    {
+      "word": "була",
       "count": 32
     },
     {
@@ -537,16 +533,16 @@
       "count": 31
     },
     {
+      "word": "өчен",
+      "count": 31
+    },
+    {
       "word": "tel",
       "count": 31
     },
     {
       "word": "urta",
       "count": 31
-    },
-    {
-      "word": "itelä",
-      "count": 30
     },
     {
       "word": "ämma",
@@ -566,6 +562,14 @@
     },
     {
       "word": "www",
+      "count": 29
+    },
+    {
+      "word": "itelä",
+      "count": 29
+    },
+    {
+      "word": "the",
       "count": 29
     },
     {
@@ -589,15 +593,7 @@
       "count": 29
     },
     {
-      "word": "май",
-      "count": 29
-    },
-    {
       "word": "xalqı",
-      "count": 28
-    },
-    {
-      "word": "химия",
       "count": 28
     },
     {
@@ -614,10 +610,6 @@
     },
     {
       "word": "qarşı",
-      "count": 28
-    },
-    {
-      "word": "өчен",
       "count": 28
     },
     {
@@ -649,10 +641,6 @@
       "count": 27
     },
     {
-      "word": "alarnıñ",
-      "count": 27
-    },
-    {
       "word": "möselman",
       "count": 27
     },
@@ -677,6 +665,10 @@
       "count": 27
     },
     {
+      "word": "май",
+      "count": 27
+    },
+    {
       "word": "июнь",
       "count": 27
     },
@@ -689,15 +681,11 @@
       "count": 26
     },
     {
-      "word": "däwam",
-      "count": 26
-    },
-    {
       "word": "itkän",
       "count": 26
     },
     {
-      "word": "isbn",
+      "word": "alarnıñ",
       "count": 26
     },
     {
@@ -753,14 +741,6 @@
       "count": 25
     },
     {
-      "word": "аның",
-      "count": 25
-    },
-    {
-      "word": "дә",
-      "count": 25
-    },
-    {
       "word": "lat",
       "count": 25
     },
@@ -801,7 +781,7 @@
       "count": 24
     },
     {
-      "word": "wikipedia",
+      "word": "däwam",
       "count": 24
     },
     {
@@ -809,11 +789,15 @@
       "count": 24
     },
     {
-      "word": "zakonı",
+      "word": "berse",
       "count": 24
     },
     {
-      "word": "berse",
+      "word": "аның",
+      "count": 24
+    },
+    {
+      "word": "дә",
       "count": 24
     },
     {
@@ -826,6 +810,10 @@
     },
     {
       "word": "äsärläre",
+      "count": 24
+    },
+    {
+      "word": "тел",
       "count": 24
     },
     {
@@ -869,7 +857,7 @@
       "count": 23
     },
     {
-      "word": "тел",
+      "word": "дәүләт",
       "count": 23
     },
     {
@@ -897,15 +885,15 @@
       "count": 23
     },
     {
-      "word": "org",
-      "count": 22
-    },
-    {
       "word": "başlap",
       "count": 22
     },
     {
       "word": "fänni",
+      "count": 22
+    },
+    {
+      "word": "isbn",
       "count": 22
     },
     {
@@ -946,14 +934,6 @@
     },
     {
       "word": "милли",
-      "count": 22
-    },
-    {
-      "word": "турында",
-      "count": 22
-    },
-    {
-      "word": "дәүләт",
       "count": 22
     },
     {
@@ -998,6 +978,10 @@
     },
     {
       "word": "hicri",
+      "count": 21
+    },
+    {
+      "word": "турында",
       "count": 21
     },
     {
@@ -1121,6 +1105,14 @@
       "count": 19
     },
     {
+      "word": "org",
+      "count": 19
+    },
+    {
+      "word": "intertat",
+      "count": 19
+    },
+    {
       "word": "xalıqara",
       "count": 19
     },
@@ -1133,6 +1125,10 @@
       "count": 19
     },
     {
+      "word": "химия",
+      "count": 19
+    },
+    {
       "word": "här",
       "count": 19
     },
@@ -1142,10 +1138,6 @@
     },
     {
       "word": "ikençe",
-      "count": 19
-    },
-    {
-      "word": "иң",
       "count": 19
     },
     {
@@ -1197,7 +1189,7 @@
       "count": 18
     },
     {
-      "word": "uqu",
+      "word": "wikipedia",
       "count": 18
     },
     {
@@ -1206,6 +1198,10 @@
     },
     {
       "word": "eş",
+      "count": 18
+    },
+    {
+      "word": "иң",
       "count": 18
     },
     {
@@ -1245,6 +1241,14 @@
       "count": 18
     },
     {
+      "word": "алып",
+      "count": 18
+    },
+    {
+      "word": "бөек",
+      "count": 18
+    },
+    {
       "word": "алман",
       "count": 18
     },
@@ -1277,7 +1281,7 @@
       "count": 17
     },
     {
-      "word": "eçendä",
+      "word": "uqu",
       "count": 17
     },
     {
@@ -1290,6 +1294,10 @@
     },
     {
       "word": "barlıq",
+      "count": 17
+    },
+    {
+      "word": "ислам",
       "count": 17
     },
     {
@@ -1321,11 +1329,11 @@
       "count": 17
     },
     {
-      "word": "елдан",
+      "word": "тарих",
       "count": 17
     },
     {
-      "word": "алып",
+      "word": "елдан",
       "count": 17
     },
     {
@@ -1373,15 +1381,11 @@
       "count": 16
     },
     {
-      "word": "ximiä",
-      "count": 16
-    },
-    {
-      "word": "maxsus",
-      "count": 16
-    },
-    {
       "word": "tarixı",
+      "count": 16
+    },
+    {
+      "word": "eçendä",
       "count": 16
     },
     {
@@ -1409,15 +1413,15 @@
       "count": 16
     },
     {
+      "word": "торган",
+      "count": 16
+    },
+    {
       "word": "килә",
       "count": 16
     },
     {
       "word": "üzeneñ",
-      "count": 16
-    },
-    {
-      "word": "ислам",
       "count": 16
     },
     {
@@ -1466,10 +1470,6 @@
     },
     {
       "word": "xalqınıñ",
-      "count": 16
-    },
-    {
-      "word": "бөек",
       "count": 16
     },
     {
@@ -1525,7 +1525,7 @@
       "count": 15
     },
     {
-      "word": "mömkin",
+      "word": "maxsus",
       "count": 15
     },
     {
@@ -1550,10 +1550,6 @@
     },
     {
       "word": "вә",
-      "count": 15
-    },
-    {
-      "word": "торган",
       "count": 15
     },
     {
@@ -1601,7 +1597,7 @@
       "count": 15
     },
     {
-      "word": "тарих",
+      "word": "челтәр",
       "count": 15
     },
     {
@@ -1645,6 +1641,10 @@
       "count": 15
     },
     {
+      "word": "казанда",
+      "count": 15
+    },
+    {
       "word": "täşkil",
       "count": 15
     },
@@ -1673,15 +1673,7 @@
       "count": 14
     },
     {
-      "word": "tt",
-      "count": 14
-    },
-    {
-      "word": "bilgele",
-      "count": 14
-    },
-    {
-      "word": "and",
+      "word": "mömkin",
       "count": 14
     },
     {
@@ -1805,7 +1797,7 @@
       "count": 13
     },
     {
-      "word": "kiterä",
+      "word": "and",
       "count": 13
     },
     {
@@ -1865,6 +1857,10 @@
       "count": 13
     },
     {
+      "word": "елга",
+      "count": 13
+    },
+    {
       "word": "башка",
       "count": 13
     },
@@ -1885,7 +1881,11 @@
       "count": 13
     },
     {
-      "word": "челтәр",
+      "word": "бөтендөнья",
+      "count": 13
+    },
+    {
+      "word": "фән",
       "count": 13
     },
     {
@@ -1922,14 +1922,6 @@
     },
     {
       "word": "oyışa",
-      "count": 13
-    },
-    {
-      "word": "казанда",
-      "count": 13
-    },
-    {
-      "word": "каршы",
       "count": 13
     },
     {
@@ -1982,6 +1974,18 @@
     },
     {
       "word": "telen",
+      "count": 12
+    },
+    {
+      "word": "ximiä",
+      "count": 12
+    },
+    {
+      "word": "bilgele",
+      "count": 12
+    },
+    {
+      "word": "zakonı",
       "count": 12
     },
     {
@@ -2097,14 +2101,6 @@
       "count": 12
     },
     {
-      "word": "бөтендөнья",
-      "count": 12
-    },
-    {
-      "word": "иде",
-      "count": 12
-    },
-    {
       "word": "халкының",
       "count": 12
     },
@@ -2138,6 +2134,10 @@
     },
     {
       "word": "империясе",
+      "count": 12
+    },
+    {
+      "word": "каршы",
       "count": 12
     },
     {
@@ -2205,6 +2205,10 @@
       "count": 11
     },
     {
+      "word": "tt",
+      "count": 11
+    },
+    {
       "word": "eşkärtü",
       "count": 11
     },
@@ -2213,7 +2217,7 @@
       "count": 11
     },
     {
-      "word": "idarä",
+      "word": "kiterä",
       "count": 11
     },
     {
@@ -2277,10 +2281,6 @@
       "count": 11
     },
     {
-      "word": "елга",
-      "count": 11
-    },
-    {
       "word": "су",
       "count": 11
     },
@@ -2322,6 +2322,10 @@
     },
     {
       "word": "төрле",
+      "count": 11
+    },
+    {
+      "word": "иде",
       "count": 11
     },
     {
@@ -2433,10 +2437,6 @@
       "count": 10
     },
     {
-      "word": "intertat",
-      "count": 10
-    },
-    {
       "word": "sayt",
       "count": 10
     },
@@ -2453,11 +2453,7 @@
       "count": 10
     },
     {
-      "word": "uqırğa",
-      "count": 10
-    },
-    {
-      "word": "atkins",
+      "word": "idarä",
       "count": 10
     },
     {
@@ -2605,14 +2601,6 @@
       "count": 10
     },
     {
-      "word": "фән",
-      "count": 10
-    },
-    {
-      "word": "булды",
-      "count": 10
-    },
-    {
       "word": "mln",
       "count": 10
     },
@@ -2698,6 +2686,10 @@
     },
     {
       "word": "алтын",
+      "count": 10
+    },
+    {
+      "word": "авыл",
       "count": 10
     },
     {
@@ -2793,15 +2785,7 @@
       "count": 9
     },
     {
-      "word": "tigez",
-      "count": 9
-    },
-    {
-      "word": "university",
-      "count": 9
-    },
-    {
-      "word": "press",
+      "word": "uqırğa",
       "count": 9
     },
     {
@@ -2917,6 +2901,10 @@
       "count": 9
     },
     {
+      "word": "аңа",
+      "count": 9
+    },
+    {
       "word": "түгел",
       "count": 9
     },
@@ -2989,7 +2977,11 @@
       "count": 9
     },
     {
-      "word": "махсус",
+      "word": "булды",
+      "count": 9
+    },
+    {
+      "word": "туган",
       "count": 9
     },
     {
@@ -3101,6 +3093,10 @@
       "count": 9
     },
     {
+      "word": "дин",
+      "count": 9
+    },
+    {
       "word": "kük",
       "count": 9
     },
@@ -3185,10 +3181,6 @@
       "count": 9
     },
     {
-      "word": "article",
-      "count": 9
-    },
-    {
       "word": "tiräsendä",
       "count": 8
     },
@@ -3217,19 +3209,11 @@
       "count": 8
     },
     {
-      "word": "kitkän",
-      "count": 8
-    },
-    {
-      "word": "energijä",
+      "word": "tigez",
       "count": 8
     },
     {
       "word": "на",
-      "count": 8
-    },
-    {
-      "word": "ил",
       "count": 8
     },
     {
@@ -3353,14 +3337,6 @@
       "count": 8
     },
     {
-      "word": "аңа",
-      "count": 8
-    },
-    {
-      "word": "чыккан",
-      "count": 8
-    },
-    {
       "word": "идел-урал",
       "count": 8
     },
@@ -3434,6 +3410,10 @@
     },
     {
       "word": "университеты",
+      "count": 8
+    },
+    {
+      "word": "махсус",
       "count": 8
     },
     {
@@ -3533,15 +3513,11 @@
       "count": 8
     },
     {
-      "word": "уку",
-      "count": 8
-    },
-    {
       "word": "чыга",
       "count": 8
     },
     {
-      "word": "соңгы",
+      "word": "мәдәнияте",
       "count": 8
     },
     {
@@ -3621,10 +3597,6 @@
       "count": 8
     },
     {
-      "word": "авыл",
-      "count": 8
-    },
-    {
       "word": "хәрби",
       "count": 8
     },
@@ -3693,6 +3665,10 @@
       "count": 8
     },
     {
+      "word": "news",
+      "count": 8
+    },
+    {
       "word": "kiçese",
       "count": 8
     },
@@ -3718,6 +3694,14 @@
     },
     {
       "word": "milädi",
+      "count": 8
+    },
+    {
+      "word": "йолдызлары",
+      "count": 8
+    },
+    {
+      "word": "спорт",
       "count": 8
     },
     {
@@ -3757,7 +3741,23 @@
       "count": 7
     },
     {
-      "word": "oxford",
+      "word": "kitkän",
+      "count": 7
+    },
+    {
+      "word": "ил",
+      "count": 7
+    },
+    {
+      "word": "atkins",
+      "count": 7
+    },
+    {
+      "word": "university",
+      "count": 7
+    },
+    {
+      "word": "press",
       "count": 7
     },
     {
@@ -3981,7 +3981,15 @@
       "count": 7
     },
     {
+      "word": "башлана",
+      "count": 7
+    },
+    {
       "word": "дөнья",
+      "count": 7
+    },
+    {
+      "word": "чыккан",
       "count": 7
     },
     {
@@ -3998,14 +4006,6 @@
     },
     {
       "word": "kirov",
-      "count": 7
-    },
-    {
-      "word": "mäktäbenä",
-      "count": 7
-    },
-    {
-      "word": "sovetlar",
       "count": 7
     }
   ]

@@ -24,7 +24,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 ### Contributed content
 
 - `https://ext.wikipedia.org/` — _wikimedia/wikipedia 20231101_
-- `https://elhabrahla.wordpress.com/` — El Habrahla — Extremaduran blog — _live WebFetch_
 
 ### Catalogued source candidates
 

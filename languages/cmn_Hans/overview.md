@@ -20,8 +20,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 ### Contributed content
 
 - `https://zh.wikipedia.org/` — _wikimedia/wikipedia 20231101_
-- `https://www.gov.cn/` — 中国政府网 — Central People's Government (PRC) — _live WebFetch_
-- `https://www.xinhuanet.com/` — Xinhua (Simplified Chinese) — _live WebFetch_
 
 ### Catalogued source candidates
 

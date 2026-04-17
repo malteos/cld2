@@ -20,7 +20,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 ### Contributed content
 
 - `https://an.wikipedia.org/` — _wikimedia/wikipedia 20231101_
-- `https://www.academiadelaragones.org/` — Academia de l'Aragonés — _live WebFetch_
 
 ### Catalogued source candidates
 

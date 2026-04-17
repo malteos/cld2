@@ -34,13 +34,16 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 ### Contributed content
 
-- `https://www.babnet.net/` — BabNet — Tunisian news with frequent Tunisian-Arabic — _live WebFetch_
+- `https://www.babnet.net/` — BabNet — Tunisian news — _live WebFetch_
 - `https://www.tunisienumerique.com/` — Tunisie Numérique — _live WebFetch_
-- `https://www.turess.com/` — Turess — Tunisian press aggregator — _live WebFetch_
 
 ### Catalogued source candidates
 
-- `https://www.babnet.net/` — BabNet — Tunisian news with frequent Tunisian-Arabic (news)
+- `https://www.babnet.net/` — BabNet — Tunisian news (news)
 - `https://www.tunisienumerique.com/` — Tunisie Numérique (news)
-- `https://www.jamaity.org/` — Jamaity — Tunisian civil-society portal (civil)
 - `https://www.turess.com/` — Turess — Tunisian press aggregator (news)
+- `https://nawaat.org/` — Nawaat — Tunisian independent news (news)
+- `https://www.leaders.com.tn/` — Leaders — Tunisian magazine (news)
+- `https://www.kapitalis.com/tunisie/` — Kapitalis — Tunisian economic news (news)
+- `https://www.tap.info.tn/` — TAP — Tunisian news agency (news)
+- `https://www.shemsfm.net/` — Shems FM — Tunisian radio (news)

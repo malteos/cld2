@@ -5,19 +5,59 @@
   "tier": "low",
   "tier_target": 1000,
   "source": "examples/*.txt (live WebFetch of curated non-benchmark URLs)",
-  "total_tokens": 229,
-  "unique_tokens": 137,
+  "total_tokens": 505,
+  "unique_tokens": 305,
   "words": [
     {
       "word": "de",
-      "count": 18
+      "count": 30
+    },
+    {
+      "word": "le",
+      "count": 14
+    },
+    {
+      "word": "la",
+      "count": 12
     },
     {
       "word": "arlima",
-      "count": 10
+      "count": 12
     },
     {
       "word": "du",
+      "count": 9
+    },
+    {
+      "word": "en",
+      "count": 9
+    },
+    {
+      "word": "the",
+      "count": 8
+    },
+    {
+      "word": "of",
+      "count": 7
+    },
+    {
+      "word": "https",
+      "count": 6
+    },
+    {
+      "word": "et",
+      "count": 6
+    },
+    {
+      "word": "source",
+      "count": 5
+    },
+    {
+      "word": "pour",
+      "count": 5
+    },
+    {
+      "word": "ou",
       "count": 5
     },
     {
@@ -25,51 +65,63 @@
       "count": 5
     },
     {
-      "word": "le",
+      "word": "âge",
       "count": 5
     },
     {
-      "word": "la",
-      "count": 5
-    },
-    {
-      "word": "dã",
+      "word": "les",
       "count": 4
     },
     {
-      "word": "un",
+      "word": "net",
       "count": 4
+    },
+    {
+      "word": "littérature",
+      "count": 4
+    },
+    {
+      "word": "français",
+      "count": 3
+    },
+    {
+      "word": "si",
+      "count": 3
     },
     {
       "word": "plus",
-      "count": 4
+      "count": 3
     },
     {
-      "word": "en",
-      "count": 4
+      "word": "sur",
+      "count": 3
     },
     {
-      "word": "et",
-      "count": 4
+      "word": "votre",
+      "count": 3
+    },
+    {
+      "word": "page",
+      "count": 3
+    },
+    {
+      "word": "bfm",
+      "count": 3
+    },
+    {
+      "word": "www",
+      "count": 3
     },
     {
       "word": "archives",
       "count": 3
     },
     {
-      "word": "maintenant",
+      "word": "qui",
       "count": 3
     },
     {
-      "word": "les",
-      "count": 3
-    },
-    {
-      "word": "gation",
-      "count": 3
-    },
-    {
-      "word": "ge",
+      "word": "un",
       "count": 3
     },
     {
@@ -77,35 +129,99 @@
       "count": 3
     },
     {
-      "word": "source",
+      "word": "to",
+      "count": 3
+    },
+    {
+      "word": "maintenant",
+      "count": 3
+    },
+    {
+      "word": "une",
+      "count": 3
+    },
+    {
+      "word": "mise",
+      "count": 3
+    },
+    {
+      "word": "org",
       "count": 2
     },
     {
-      "word": "https",
+      "word": "médiéval",
       "count": 2
     },
     {
-      "word": "www",
+      "word": "ens",
       "count": 2
     },
     {
-      "word": "net",
+      "word": "lyon",
       "count": 2
     },
     {
-      "word": "littérature",
+      "word": "veuillez",
       "count": 2
     },
     {
-      "word": "âge",
+      "word": "s'affiche",
+      "count": 2
+    },
+    {
+      "word": "actualiser",
+      "count": 2
+    },
+    {
+      "word": "consulter",
+      "count": 2
+    },
+    {
+      "word": "aux",
+      "count": 2
+    },
+    {
+      "word": "cette",
+      "count": 2
+    },
+    {
+      "word": "périodiques",
+      "count": 2
+    },
+    {
+      "word": "sont",
+      "count": 2
+    },
+    {
+      "word": "langue",
+      "count": 2
+    },
+    {
+      "word": "toutes",
+      "count": 2
+    },
+    {
+      "word": "on",
+      "count": 2
+    },
+    {
+      "word": "site",
+      "count": 2
+    },
+    {
+      "word": "dicfro",
+      "count": 2
+    },
+    {
+      "word": "record",
+      "count": 2
+    },
+    {
+      "word": "and",
       "count": 2
     },
     {
       "word": "est",
-      "count": 2
-    },
-    {
-      "word": "sur",
       "count": 2
     },
     {
@@ -125,7 +241,7 @@
       "count": 2
     },
     {
-      "word": "annã",
+      "word": "année",
       "count": 2
     },
     {
@@ -133,19 +249,15 @@
       "count": 2
     },
     {
-      "word": "votre",
+      "word": "que",
       "count": 2
     },
     {
-      "word": "une",
+      "word": "avril",
       "count": 2
     },
     {
-      "word": "l'agrã",
-      "count": 2
-    },
-    {
-      "word": "pour",
+      "word": "l'agrégation",
       "count": 2
     },
     {
@@ -153,43 +265,427 @@
       "count": 2
     },
     {
-      "word": "ou",
-      "count": 2
-    },
-    {
-      "word": "qui",
-      "count": 2
-    },
-    {
       "word": "bibliographie",
       "count": 2
     },
     {
-      "word": "tã",
+      "word": "ligne",
       "count": 2
+    },
+    {
+      "word": "par",
+      "count": 2
+    },
+    {
+      "word": "bibliothèque",
+      "count": 2
+    },
+    {
+      "word": "manuscrits",
+      "count": 2
+    },
+    {
+      "word": "catalogue",
+      "count": 2
+    },
+    {
+      "word": "txm",
+      "count": 1
+    },
+    {
+      "word": "bfm-corpus",
+      "count": 1
+    },
+    {
+      "word": "base",
+      "count": 1
+    },
+    {
+      "word": "corpus",
+      "count": 1
+    },
+    {
+      "word": "attendre",
+      "count": 1
+    },
+    {
+      "word": "fin",
+      "count": 1
+    },
+    {
+      "word": "chargement",
+      "count": 1
+    },
+    {
+      "word": "portail",
+      "count": 1
+    },
+    {
+      "word": "cet",
+      "count": 1
+    },
+    {
+      "word": "eacute",
+      "count": 1
+    },
+    {
+      "word": "cran",
+      "count": 1
+    },
+    {
+      "word": "pendant",
+      "count": 1
+    },
+    {
+      "word": "minutes",
+      "count": 1
+    },
+    {
+      "word": "cliquez",
+      "count": 1
+    },
+    {
+      "word": "bouton",
+      "count": 1
+    },
+    {
+      "word": "navigateur",
+      "count": 1
+    },
+    {
+      "word": "message",
+      "count": 1
+    },
+    {
+      "word": "session",
+      "count": 1
+    },
+    {
+      "word": "n'a",
+      "count": 1
+    },
+    {
+      "word": "pu",
+      "count": 1
+    },
+    {
+      "word": "être",
+      "count": 1
+    },
+    {
+      "word": "démarrée",
+      "count": 1
+    },
+    {
+      "word": "appuyez",
+      "count": 1
+    },
+    {
+      "word": "simultanément",
+      "count": 1
+    },
+    {
+      "word": "touches",
+      "count": 1
+    },
+    {
+      "word": "ctrl",
+      "count": 1
+    },
+    {
+      "word": "purger",
+      "count": 1
+    },
+    {
+      "word": "cache",
+      "count": 1
+    },
+    {
+      "word": "probl",
+      "count": 1
+    },
+    {
+      "word": "egrave",
+      "count": 1
+    },
+    {
+      "word": "me",
+      "count": 1
+    },
+    {
+      "word": "persiste",
+      "count": 1
+    },
+    {
+      "word": "foire",
+      "count": 1
+    },
+    {
+      "word": "questions",
+      "count": 1
+    },
+    {
+      "word": "contacter",
+      "count": 1
+    },
+    {
+      "word": "l'administrateur",
+      "count": 1
+    },
+    {
+      "word": "at",
+      "count": 1
+    },
+    {
+      "word": "tiret",
+      "count": 1
+    },
+    {
+      "word": "point",
+      "count": 1
+    },
+    {
+      "word": "fr",
+      "count": 1
+    },
+    {
+      "word": "liste",
+      "count": 1
+    },
+    {
+      "word": "répertorie",
+      "count": 1
+    },
+    {
+      "word": "consultation",
+      "count": 1
+    },
+    {
+      "word": "libre",
+      "count": 1
+    },
+    {
+      "word": "tout",
+      "count": 1
+    },
+    {
+      "word": "partie",
+      "count": 1
+    },
+    {
+      "word": "traitent",
+      "count": 1
+    },
+    {
+      "word": "répertoire",
+      "count": 1
+    },
+    {
+      "word": "allemande",
+      "count": 1
+    },
+    {
+      "word": "disciplines",
+      "count": 1
+    },
+    {
+      "word": "confondues",
+      "count": 1
+    },
+    {
+      "word": "peut",
+      "count": 1
+    },
+    {
+      "word": "également",
+      "count": 1
+    },
+    {
+      "word": "allemand",
+      "count": 1
+    },
+    {
+      "word": "wikisource",
+      "count": 1
+    },
+    {
+      "word": "micmap",
+      "count": 1
+    },
+    {
+      "word": "dictionnaire",
+      "count": 1
+    },
+    {
+      "word": "century",
+      "count": 1
+    },
+    {
+      "word": "dictionary",
+      "count": 1
+    },
+    {
+      "word": "is",
+      "count": 1
+    },
+    {
+      "word": "designed",
+      "count": 1
+    },
+    {
+      "word": "be",
+      "count": 1
+    },
+    {
+      "word": "practically",
+      "count": 1
+    },
+    {
+      "word": "complete",
+      "count": 1
+    },
+    {
+      "word": "main",
+      "count": 1
+    },
+    {
+      "word": "body",
+      "count": 1
+    },
+    {
+      "word": "english",
+      "count": 1
+    },
+    {
+      "word": "speech",
+      "count": 1
+    },
+    {
+      "word": "from",
+      "count": 1
+    },
+    {
+      "word": "time",
+      "count": 1
+    },
+    {
+      "word": "mingling",
+      "count": 1
+    },
+    {
+      "word": "old",
+      "count": 1
+    },
+    {
+      "word": "french",
+      "count": 1
+    },
+    {
+      "word": "anglo-saxon",
+      "count": 1
+    },
+    {
+      "word": "present",
+      "count": 1
+    },
+    {
+      "word": "day",
+      "count": 1
+    },
+    {
+      "word": "including",
+      "count": 1
+    },
+    {
+      "word": "technical",
+      "count": 1
+    },
+    {
+      "word": "terms",
+      "count": 1
+    },
+    {
+      "word": "various",
+      "count": 1
+    },
+    {
+      "word": "sciences",
+      "count": 1
+    },
+    {
+      "word": "arts",
+      "count": 1
+    },
+    {
+      "word": "trades",
+      "count": 1
+    },
+    {
+      "word": "professions",
+      "count": 1
+    },
+    {
+      "word": "it",
+      "count": 1
+    },
+    {
+      "word": "offers",
+      "count": 1
+    },
+    {
+      "word": "definitions",
+      "count": 1
+    },
+    {
+      "word": "proper",
+      "count": 1
+    },
+    {
+      "word": "such",
+      "count": 1
+    },
+    {
+      "word": "related",
+      "count": 1
+    },
+    {
+      "word": "encyclopedic",
+      "count": 1
+    },
+    {
+      "word": "matter",
+      "count": 1
+    },
+    {
+      "word": "with",
+      "count": 1
+    },
+    {
+      "word": "addition",
+      "count": 1
+    },
+    {
+      "word": "pictorial",
+      "count": 1
+    },
+    {
+      "word": "illustrations",
+      "count": 1
     },
     {
       "word": "novembre",
       "count": 1
     },
     {
-      "word": "sormais",
+      "word": "désormais",
       "count": 1
     },
     {
-      "word": "prã",
+      "word": "présent",
       "count": 1
     },
     {
-      "word": "sent",
-      "count": 1
-    },
-    {
-      "word": "rã",
-      "count": 1
-    },
-    {
-      "word": "seau",
+      "word": "réseau",
       "count": 1
     },
     {
@@ -209,15 +705,7 @@
       "count": 1
     },
     {
-      "word": "to",
-      "count": 1
-    },
-    {
-      "word": "cembre",
-      "count": 1
-    },
-    {
-      "word": "site",
+      "word": "décembre",
       "count": 1
     },
     {
@@ -233,15 +721,7 @@
       "count": 1
     },
     {
-      "word": "record",
-      "count": 1
-    },
-    {
-      "word": "frã",
-      "count": 1
-    },
-    {
-      "word": "quentation",
+      "word": "fréquentation",
       "count": 1
     },
     {
@@ -261,11 +741,7 @@
       "count": 1
     },
     {
-      "word": "jã",
-      "count": 1
-    },
-    {
-      "word": "que",
+      "word": "déjà",
       "count": 1
     },
     {
@@ -273,11 +749,11 @@
       "count": 1
     },
     {
-      "word": "dernierâ",
+      "word": "dernier",
       "count": 1
     },
     {
-      "word": "l'annã",
+      "word": "l'année",
       "count": 1
     },
     {
@@ -293,7 +769,7 @@
       "count": 1
     },
     {
-      "word": "terminã",
+      "word": "terminée",
       "count": 1
     },
     {
@@ -317,19 +793,11 @@
       "count": 1
     },
     {
-      "word": "cennie",
-      "count": 1
-    },
-    {
-      "word": "avril",
+      "word": "décennie",
       "count": 1
     },
     {
       "word": "programmes",
-      "count": 1
-    },
-    {
-      "word": "sont",
       "count": 1
     },
     {
@@ -373,23 +841,15 @@
       "count": 1
     },
     {
-      "word": "l'ã",
+      "word": "l'étude",
       "count": 1
     },
     {
-      "word": "tude",
+      "word": "février",
       "count": 1
     },
     {
-      "word": "fã",
-      "count": 1
-    },
-    {
-      "word": "vrier",
-      "count": 1
-    },
-    {
-      "word": "agrã",
+      "word": "agrégation",
       "count": 1
     },
     {
@@ -405,10 +865,6 @@
       "count": 1
     },
     {
-      "word": "ligne",
-      "count": 1
-    },
-    {
       "word": "d'eneas",
       "count": 1
     },
@@ -421,127 +877,295 @@
       "count": 1
     },
     {
-      "word": "toutes",
+      "word": "actualités",
       "count": 1
     },
     {
-      "word": "actualitã",
+      "word": "gallica",
       "count": 1
     },
     {
-      "word": "littã",
+      "word": "contenu",
       "count": 1
     },
     {
-      "word": "rature",
+      "word": "blason",
       "count": 1
     },
     {
-      "word": "ont",
+      "word": "guerre",
       "count": 1
     },
     {
-      "word": "fondã",
+      "word": "pape",
       "count": 1
     },
     {
-      "word": "es",
+      "word": "contre",
       "count": 1
     },
     {
-      "word": "l'intention",
+      "word": "roy",
       "count": 1
     },
     {
-      "word": "tudiants",
+      "word": "tres",
       "count": 1
     },
     {
-      "word": "chercheurs",
+      "word": "crestien",
       "count": 1
     },
     {
-      "word": "spã",
+      "word": "andré",
       "count": 1
     },
     {
-      "word": "cialistes",
+      "word": "vigne",
       "count": 1
     },
     {
-      "word": "constitution",
+      "word": "incipit",
       "count": 1
     },
     {
-      "word": "d'une",
+      "word": "ce",
       "count": 1
     },
     {
-      "word": "auteur",
+      "word": "qu'on",
       "count": 1
     },
     {
-      "word": "texte",
+      "word": "voit",
       "count": 1
     },
     {
-      "word": "devenue",
+      "word": "l'estat",
       "count": 1
     },
     {
-      "word": "che",
+      "word": "l'esglise",
       "count": 1
     },
     {
-      "word": "ardue",
+      "word": "guerroyer",
       "count": 1
     },
     {
-      "word": "raison",
+      "word": "trop",
       "count": 1
     },
     {
-      "word": "multiplication",
+      "word": "se",
       "count": 1
     },
     {
-      "word": "non",
+      "word": "deguise",
       "count": 1
     },
     {
-      "word": "seulement",
+      "word": "explicit",
       "count": 1
     },
     {
-      "word": "publications",
+      "word": "quant",
       "count": 1
     },
     {
-      "word": "mais",
+      "word": "mort",
       "count": 1
     },
     {
-      "word": "galement",
+      "word": "taulpes",
       "count": 1
     },
     {
-      "word": "outils",
+      "word": "vont",
       "count": 1
     },
     {
-      "word": "bibliographiques",
+      "word": "foillans",
       "count": 1
     },
     {
-      "word": "imprimã",
+      "word": "l'ame",
       "count": 1
     },
     {
-      "word": "lectroniques",
+      "word": "corps",
       "count": 1
     },
     {
-      "word": "leur",
+      "word": "biens",
+      "count": 1
+    },
+    {
+      "word": "comparent",
+      "count": 1
+    },
+    {
+      "word": "description",
+      "count": 1
+    },
+    {
+      "word": "matérielle",
+      "count": 1
+    },
+    {
+      "word": "copiste",
+      "count": 1
+    },
+    {
+      "word": "inconnu",
+      "count": 1
+    },
+    {
+      "word": "lieu",
+      "count": 1
+    },
+    {
+      "word": "date",
+      "count": 1
+    },
+    {
+      "word": "xvi",
+      "count": 1
+    },
+    {
+      "word": "siècle",
+      "count": 1
+    },
+    {
+      "word": "nombre",
+      "count": 1
+    },
+    {
+      "word": "feuillets",
+      "count": 1
+    },
+    {
+      "word": "foliotation",
+      "count": 1
+    },
+    {
+      "word": "format",
+      "count": 1
+    },
+    {
+      "word": "justification",
+      "count": 1
+    },
+    {
+      "word": "support",
+      "count": 1
+    },
+    {
+      "word": "parchemin",
+      "count": 1
+    },
+    {
+      "word": "décoration",
+      "count": 1
+    },
+    {
+      "word": "reliure",
+      "count": 1
+    },
+    {
+      "word": "possesseurs",
+      "count": 1
+    },
+    {
+      "word": "étienne",
+      "count": 1
+    },
+    {
+      "word": "baluze",
+      "count": 1
+    },
+    {
+      "word": "impériale",
+      "count": 1
+    },
+    {
+      "word": "département",
+      "count": 1
+    },
+    {
+      "word": "tome",
+      "count": 1
+    },
+    {
+      "word": "premier",
+      "count": 1
+    },
+    {
+      "word": "ancien",
+      "count": 1
+    },
+    {
+      "word": "fonds",
+      "count": 1
+    },
+    {
+      "word": "paris",
+      "count": 1
+    },
+    {
+      "word": "firmin",
+      "count": 1
+    },
+    {
+      "word": "didot",
+      "count": 1
+    },
+    {
+      "word": "ix",
+      "count": 1
+    },
+    {
+      "word": "ici",
+      "count": 1
+    },
+    {
+      "word": "gb",
+      "count": 1
+    },
+    {
+      "word": "ia",
+      "count": 1
+    },
+    {
+      "word": "permalien",
+      "count": 1
+    },
+    {
+      "word": "no",
+      "count": 1
+    },
+    {
+      "word": "voir",
+      "count": 1
+    },
+    {
+      "word": "aussi",
+      "count": 1
+    },
+    {
+      "word": "biblissima",
+      "count": 1
+    },
+    {
+      "word": "irht",
+      "count": 1
+    },
+    {
+      "word": "arca",
+      "count": 1
+    },
+    {
+      "word": "md72b8518t9w",
       "count": 1
     },
     {
@@ -549,11 +1173,59 @@
       "count": 1
     },
     {
-      "word": "lire",
+      "word": "vertu",
       "count": 1
     },
     {
-      "word": "suite",
+      "word": "d'un",
+      "count": 1
+    },
+    {
+      "word": "contrat",
+      "count": 1
+    },
+    {
+      "word": "creative",
+      "count": 1
+    },
+    {
+      "word": "commons",
+      "count": 1
+    },
+    {
+      "word": "rédaction",
+      "count": 1
+    },
+    {
+      "word": "laurent",
+      "count": 1
+    },
+    {
+      "word": "brun",
+      "count": 1
+    },
+    {
+      "word": "dernière",
+      "count": 1
+    },
+    {
+      "word": "jour",
+      "count": 1
+    },
+    {
+      "word": "signaler",
+      "count": 1
+    },
+    {
+      "word": "erreur",
+      "count": 1
+    },
+    {
+      "word": "omission",
+      "count": 1
+    },
+    {
+      "word": "courriel",
       "count": 1
     }
   ]

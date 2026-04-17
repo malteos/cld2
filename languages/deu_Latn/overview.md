@@ -21,7 +21,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 - `https://de.wikipedia.org/` — _wikimedia/wikipedia 20231101_
 - `https://www.bundesregierung.de/` — Bundesregierung (Federal Government of Germany) — _live WebFetch_
-- `https://www.tagesschau.de/` — Tagesschau — _live WebFetch_
 
 ### Catalogued source candidates
 

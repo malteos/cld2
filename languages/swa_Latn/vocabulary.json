@@ -5,44 +5,44 @@
   "tier": "mid",
   "tier_target": 5000,
   "source": "Wikipedia (sw.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
-  "total_tokens": 526579,
-  "unique_tokens": 50945,
+  "total_tokens": 525868,
+  "unique_tokens": 50818,
   "words": [
     {
       "word": "ya",
-      "count": 34391
+      "count": 34343
     },
     {
       "word": "wa",
-      "count": 22368
+      "count": 22352
     },
     {
       "word": "na",
-      "count": 21927
+      "count": 21904
     },
     {
       "word": "kwa",
-      "count": 8459
+      "count": 8442
     },
     {
       "word": "ni",
-      "count": 6310
+      "count": 6307
     },
     {
       "word": "za",
-      "count": 6119
+      "count": 6114
     },
     {
       "word": "katika",
-      "count": 5872
+      "count": 5870
     },
     {
       "word": "mwaka",
-      "count": 4956
+      "count": 4954
     },
     {
       "word": "la",
-      "count": 4931
+      "count": 4930
     },
     {
       "word": "kutoka",
@@ -50,11 +50,11 @@
     },
     {
       "word": "nchi",
-      "count": 2722
+      "count": 2724
     },
     {
       "word": "cha",
-      "count": 2631
+      "count": 2627
     },
     {
       "word": "kama",
@@ -62,7 +62,7 @@
     },
     {
       "word": "afrika",
-      "count": 2230
+      "count": 2219
     },
     {
       "word": "tuzo",
@@ -70,7 +70,7 @@
     },
     {
       "word": "kuwa",
-      "count": 2083
+      "count": 2078
     },
     {
       "word": "nobel",
@@ -78,7 +78,11 @@
     },
     {
       "word": "vya",
-      "count": 1990
+      "count": 1989
+    },
+    {
+      "word": "marekani",
+      "count": 1925
     },
     {
       "word": "mshindi",
@@ -86,31 +90,27 @@
     },
     {
       "word": "pia",
-      "count": 1913
-    },
-    {
-      "word": "marekani",
-      "count": 1913
+      "count": 1914
     },
     {
       "word": "au",
-      "count": 1730
+      "count": 1727
     },
     {
       "word": "yake",
-      "count": 1665
+      "count": 1662
     },
     {
       "word": "watu",
       "count": 1599
     },
     {
-      "word": "lugha",
-      "count": 1582
+      "word": "kati",
+      "count": 1580
     },
     {
-      "word": "kati",
-      "count": 1579
+      "word": "lugha",
+      "count": 1570
     },
     {
       "word": "the",
@@ -118,19 +118,19 @@
     },
     {
       "word": "mji",
-      "count": 1379
+      "count": 1380
     },
     {
       "word": "of",
-      "count": 1358
+      "count": 1357
     },
     {
       "word": "lakini",
-      "count": 1288
+      "count": 1284
     },
     {
       "word": "baada",
-      "count": 1275
+      "count": 1276
     },
     {
       "word": "mto",
@@ -138,47 +138,47 @@
     },
     {
       "word": "hadi",
-      "count": 1238
+      "count": 1239
     },
     {
       "word": "kwenye",
-      "count": 1205
+      "count": 1203
     },
     {
       "word": "sehemu",
-      "count": 1174
+      "count": 1170
     },
     {
       "word": "wakati",
-      "count": 1163
+      "count": 1164
     },
     {
       "word": "kusini",
-      "count": 1158
+      "count": 1155
     },
     {
       "word": "pamoja",
-      "count": 1150
+      "count": 1151
     },
     {
       "word": "tanzania",
-      "count": 1141
+      "count": 1134
     },
     {
       "word": "zaidi",
-      "count": 1108
+      "count": 1104
     },
     {
       "word": "miaka",
-      "count": 1103
+      "count": 1102
     },
     {
       "word": "hii",
-      "count": 1047
+      "count": 1046
     },
     {
       "word": "hasa",
-      "count": 1039
+      "count": 1038
     },
     {
       "word": "eneo",
@@ -186,15 +186,15 @@
     },
     {
       "word": "kwanza",
-      "count": 1023
+      "count": 1025
     },
     {
       "word": "wake",
-      "count": 984
+      "count": 981
     },
     {
       "word": "nje",
-      "count": 969
+      "count": 970
     },
     {
       "word": "jina",
@@ -202,7 +202,7 @@
     },
     {
       "word": "kuna",
-      "count": 910
+      "count": 909
     },
     {
       "word": "karne",
@@ -210,27 +210,27 @@
     },
     {
       "word": "alikuwa",
-      "count": 893
+      "count": 894
     },
     {
       "word": "mkuu",
-      "count": 889
+      "count": 884
+    },
+    {
+      "word": "wengi",
+      "count": 880
     },
     {
       "word": "wakazi",
       "count": 879
     },
     {
-      "word": "wengi",
-      "count": 879
-    },
-    {
       "word": "siku",
-      "count": 863
+      "count": 860
     },
     {
       "word": "kubwa",
-      "count": 839
+      "count": 842
     },
     {
       "word": "juu",
@@ -238,7 +238,7 @@
     },
     {
       "word": "hivyo",
-      "count": 812
+      "count": 814
     },
     {
       "word": "sana",
@@ -246,7 +246,7 @@
     },
     {
       "word": "and",
-      "count": 791
+      "count": 793
     },
     {
       "word": "nyingi",
@@ -254,15 +254,15 @@
     },
     {
       "word": "mara",
-      "count": 743
+      "count": 742
     },
     {
       "word": "kwamba",
-      "count": 741
+      "count": 742
     },
     {
       "word": "vita",
-      "count": 735
+      "count": 738
     },
     {
       "word": "viungo",
@@ -270,15 +270,15 @@
     },
     {
       "word": "historia",
-      "count": 730
+      "count": 728
     },
     {
       "word": "mashariki",
-      "count": 723
+      "count": 718
     },
     {
       "word": "kenya",
-      "count": 716
+      "count": 715
     },
     {
       "word": "orodha",
@@ -286,7 +286,7 @@
     },
     {
       "word": "chini",
-      "count": 712
+      "count": 710
     },
     {
       "word": "kaskazini",
@@ -294,7 +294,7 @@
     },
     {
       "word": "nchini",
-      "count": 699
+      "count": 698
     },
     {
       "word": "tarehe",
@@ -302,39 +302,39 @@
     },
     {
       "word": "uingereza",
-      "count": 683
+      "count": 684
     },
     {
       "word": "upande",
       "count": 682
     },
     {
-      "word": "moja",
-      "count": 680
-    },
-    {
-      "word": "serikali",
+      "word": "bahari",
       "count": 679
     },
     {
-      "word": "bahari",
-      "count": 677
+      "word": "moja",
+      "count": 678
     },
     {
       "word": "mwandishi",
-      "count": 675
+      "count": 677
+    },
+    {
+      "word": "tangu",
+      "count": 676
     },
     {
       "word": "waliozaliwa",
       "count": 674
     },
     {
-      "word": "tangu",
-      "count": 673
+      "word": "serikali",
+      "count": 672
     },
     {
       "word": "sababu",
-      "count": 661
+      "count": 662
     },
     {
       "word": "hiyo",
@@ -342,7 +342,7 @@
     },
     {
       "word": "hata",
-      "count": 654
+      "count": 656
     },
     {
       "word": "waliofariki",
@@ -350,7 +350,7 @@
     },
     {
       "word": "mbalimbali",
-      "count": 651
+      "count": 650
     },
     {
       "word": "ujerumani",
@@ -362,15 +362,15 @@
     },
     {
       "word": "rais",
-      "count": 627
+      "count": 624
     },
     {
       "word": "dunia",
-      "count": 611
+      "count": 612
     },
     {
       "word": "ilikuwa",
-      "count": 602
+      "count": 600
     },
     {
       "word": "tiba",
@@ -378,15 +378,15 @@
     },
     {
       "word": "ambayo",
-      "count": 591
+      "count": 592
     },
     {
       "word": "yao",
-      "count": 573
+      "count": 572
     },
     {
       "word": "filamu",
-      "count": 569
+      "count": 568
     },
     {
       "word": "mkoa",
@@ -394,35 +394,31 @@
     },
     {
       "word": "sheria",
-      "count": 550
+      "count": 551
+    },
+    {
+      "word": "in",
+      "count": 546
+    },
+    {
+      "word": "maeneo",
+      "count": 545
     },
     {
       "word": "mungu",
       "count": 545
     },
     {
-      "word": "maeneo",
+      "word": "kutokana",
       "count": 544
     },
     {
-      "word": "kutokana",
-      "count": 543
+      "word": "kazi",
+      "count": 542
     },
     {
       "word": "magharibi",
-      "count": 543
-    },
-    {
-      "word": "in",
-      "count": 543
-    },
-    {
-      "word": "kazi",
-      "count": 540
-    },
-    {
-      "word": "uhuru",
-      "count": 533
+      "count": 541
     },
     {
       "word": "ulaya",
@@ -430,19 +426,23 @@
     },
     {
       "word": "miji",
-      "count": 533
+      "count": 532
     },
     {
       "word": "tu",
-      "count": 531
+      "count": 529
+    },
+    {
+      "word": "uhuru",
+      "count": 528
     },
     {
       "word": "kila",
-      "count": 525
+      "count": 524
     },
     {
       "word": "karibu",
-      "count": 524
+      "count": 523
     },
     {
       "word": "fizikia",
@@ -454,7 +454,7 @@
     },
     {
       "word": "ufaransa",
-      "count": 511
+      "count": 510
     },
     {
       "word": "januari",
@@ -462,42 +462,42 @@
     },
     {
       "word": "hali",
-      "count": 505
+      "count": 504
     },
     {
-      "word": "ndani",
-      "count": 499
+      "word": "aprili",
+      "count": 504
+    },
+    {
+      "word": "leo",
+      "count": 497
     },
     {
       "word": "huko",
-      "count": 497
+      "count": 496
+    },
+    {
+      "word": "ndani",
+      "count": 496
     },
     {
       "word": "mwigizaji",
       "count": 496
     },
     {
-      "word": "leo",
-      "count": 495
-    },
-    {
-      "word": "aprili",
-      "count": 494
-    },
-    {
       "word": "roma",
       "count": 489
     },
     {
-      "word": "machi",
-      "count": 488
+      "word": "mwa",
+      "count": 487
     },
     {
       "word": "fasihi",
       "count": 486
     },
     {
-      "word": "mwa",
+      "word": "machi",
       "count": 486
     },
     {
@@ -514,10 +514,14 @@
     },
     {
       "word": "utawala",
-      "count": 460
+      "count": 459
     },
     {
       "word": "wakristo",
+      "count": 459
+    },
+    {
+      "word": "mei",
       "count": 459
     },
     {
@@ -525,16 +529,12 @@
       "count": 458
     },
     {
-      "word": "mei",
-      "count": 458
-    },
-    {
-      "word": "njia",
+      "word": "matukio",
       "count": 455
     },
     {
-      "word": "matukio",
-      "count": 453
+      "word": "njia",
+      "count": 452
     },
     {
       "word": "vile",
@@ -542,30 +542,26 @@
     },
     {
       "word": "idadi",
-      "count": 449
+      "count": 450
     },
     {
       "word": "mpaka",
-      "count": 444
+      "count": 442
     },
     {
       "word": "julai",
-      "count": 441
-    },
-    {
-      "word": "ili",
       "count": 440
     },
     {
-      "word": "elimu",
-      "count": 439
-    },
-    {
-      "word": "on",
-      "count": 439
+      "word": "ili",
+      "count": 438
     },
     {
       "word": "oktoba",
+      "count": 438
+    },
+    {
+      "word": "on",
       "count": 438
     },
     {
@@ -573,23 +569,27 @@
       "count": 438
     },
     {
+      "word": "dini",
+      "count": 436
+    },
+    {
       "word": "kiswahili",
       "count": 435
     },
     {
-      "word": "dini",
-      "count": 435
-    },
-    {
-      "word": "umoja",
-      "count": 433
-    },
-    {
       "word": "ambao",
-      "count": 433
+      "count": 434
     },
     {
       "word": "tena",
+      "count": 432
+    },
+    {
+      "word": "elimu",
+      "count": 432
+    },
+    {
+      "word": "umoja",
       "count": 432
     },
     {
@@ -606,11 +606,11 @@
     },
     {
       "word": "bk",
-      "count": 421
+      "count": 422
     },
     {
       "word": "biashara",
-      "count": 413
+      "count": 411
     },
     {
       "word": "kawaida",
@@ -625,23 +625,23 @@
       "count": 405
     },
     {
-      "word": "kiingereza",
+      "word": "pwani",
       "count": 405
     },
     {
-      "word": "pwani",
-      "count": 405
+      "word": "kiingereza",
+      "count": 403
     },
     {
       "word": "nyingine",
       "count": 403
     },
     {
-      "word": "jamhuri",
+      "word": "kale",
       "count": 402
     },
     {
-      "word": "kale",
+      "word": "jamhuri",
       "count": 400
     },
     {
@@ -650,7 +650,7 @@
     },
     {
       "word": "tofauti",
-      "count": 396
+      "count": 395
     },
     {
       "word": "italia",
@@ -658,14 +658,10 @@
     },
     {
       "word": "visiwa",
-      "count": 391
+      "count": 390
     },
     {
       "word": "kuhusu",
-      "count": 389
-    },
-    {
-      "word": "duniani",
       "count": 389
     },
     {
@@ -674,15 +670,19 @@
     },
     {
       "word": "papa",
+      "count": 388
+    },
+    {
+      "word": "duniani",
       "count": 387
     },
     {
       "word": "huo",
-      "count": 385
+      "count": 386
     },
     {
       "word": "yenye",
-      "count": 384
+      "count": 383
     },
     {
       "word": "septemba",
@@ -701,20 +701,20 @@
       "count": 377
     },
     {
-      "word": "maisha",
-      "count": 375
-    },
-    {
-      "word": "rasmi",
-      "count": 375
-    },
-    {
       "word": "mfano",
       "count": 374
     },
     {
+      "word": "rasmi",
+      "count": 374
+    },
+    {
+      "word": "maisha",
+      "count": 373
+    },
+    {
       "word": "wao",
-      "count": 372
+      "count": 370
     },
     {
       "word": "jamii",
@@ -754,15 +754,15 @@
     },
     {
       "word": "wilaya",
-      "count": 364
+      "count": 363
+    },
+    {
+      "word": "ajili",
+      "count": 362
     },
     {
       "word": "muda",
       "count": 362
-    },
-    {
-      "word": "ajili",
-      "count": 361
     },
     {
       "word": "aina",
@@ -774,55 +774,55 @@
     },
     {
       "word": "kongo",
-      "count": 360
-    },
-    {
-      "word": "bara",
       "count": 359
     },
     {
+      "word": "bara",
+      "count": 355
+    },
+    {
       "word": "mkubwa",
-      "count": 352
+      "count": 354
     },
     {
       "word": "pekee",
       "count": 351
     },
     {
-      "word": "hizi",
+      "word": "muhimu",
       "count": 350
     },
     {
-      "word": "muhimu",
-      "count": 349
+      "word": "sasa",
+      "count": 348
     },
     {
       "word": "mito",
       "count": 348
     },
     {
-      "word": "sasa",
-      "count": 347
-    },
-    {
       "word": "mnamo",
       "count": 347
     },
     {
-      "word": "mpya",
-      "count": 347
+      "word": "hizi",
+      "count": 346
     },
     {
-      "word": "taifa",
+      "word": "mpya",
       "count": 344
     },
     {
-      "word": "mtu",
-      "count": 336
+      "word": "taifa",
+      "count": 342
     },
     {
       "word": "huu",
-      "count": 336
+      "count": 335
+    },
+    {
+      "word": "mtu",
+      "count": 334
     },
     {
       "word": "makabila",
@@ -834,27 +834,19 @@
     },
     {
       "word": "ethiopia",
-      "count": 326
+      "count": 327
     },
     {
       "word": "walikuwa",
-      "count": 324
-    },
-    {
-      "word": "wengine",
-      "count": 322
+      "count": 325
     },
     {
       "word": "jeshi",
-      "count": 322
+      "count": 323
     },
     {
       "word": "dhidi",
-      "count": 322
-    },
-    {
-      "word": "amani",
-      "count": 321
+      "count": 323
     },
     {
       "word": "john",
@@ -862,11 +854,15 @@
     },
     {
       "word": "kabla",
-      "count": 319
+      "count": 320
     },
     {
-      "word": "mbili",
-      "count": 317
+      "word": "wengine",
+      "count": 320
+    },
+    {
+      "word": "amani",
+      "count": 319
     },
     {
       "word": "kimataifa",
@@ -881,12 +877,12 @@
       "count": 317
     },
     {
-      "word": "mwisho",
+      "word": "mbili",
       "count": 316
     },
     {
-      "word": "zanzibar",
-      "count": 314
+      "word": "mwisho",
+      "count": 315
     },
     {
       "word": "tazama",
@@ -905,11 +901,11 @@
       "count": 312
     },
     {
-      "word": "neno",
+      "word": "kuanzia",
       "count": 309
     },
     {
-      "word": "kuanzia",
+      "word": "neno",
       "count": 308
     },
     {
@@ -917,31 +913,39 @@
       "count": 308
     },
     {
+      "word": "kabisa",
+      "count": 307
+    },
+    {
       "word": "kisiwa",
       "count": 307
     },
     {
-      "word": "kabisa",
-      "count": 305
+      "word": "kutumia",
+      "count": 304
     },
     {
       "word": "pili",
       "count": 304
     },
     {
-      "word": "kutumia",
+      "word": "zanzibar",
       "count": 303
     },
     {
       "word": "hili",
-      "count": 300
-    },
-    {
-      "word": "muziki",
-      "count": 298
+      "count": 299
     },
     {
       "word": "yaani",
+      "count": 297
+    },
+    {
+      "word": "bbc",
+      "count": 297
+    },
+    {
+      "word": "muziki",
       "count": 297
     },
     {
@@ -950,31 +954,27 @@
     },
     {
       "word": "mfumo",
-      "count": 291
+      "count": 290
     },
     {
       "word": "sikukuu",
       "count": 290
     },
     {
+      "word": "zake",
+      "count": 289
+    },
+    {
       "word": "de",
       "count": 289
     },
     {
-      "word": "zake",
-      "count": 288
-    },
-    {
-      "word": "bbc",
-      "count": 287
-    },
-    {
       "word": "rangi",
-      "count": 285
+      "count": 286
     },
     {
       "word": "hivi",
-      "count": 284
+      "count": 285
     },
     {
       "word": "milioni",
@@ -982,35 +982,43 @@
     },
     {
       "word": "kulingana",
-      "count": 279
-    },
-    {
-      "word": "mjini",
-      "count": 275
-    },
-    {
-      "word": "mwezi",
-      "count": 272
+      "count": 280
     },
     {
       "word": "mataifa",
-      "count": 271
+      "count": 273
     },
     {
-      "word": "kifaransa",
-      "count": 271
+      "word": "mjini",
+      "count": 273
     },
     {
-      "word": "uchumi",
-      "count": 271
+      "word": "mwezi",
+      "count": 273
     },
     {
       "word": "hilo",
       "count": 270
     },
     {
+      "word": "kifaransa",
+      "count": 270
+    },
+    {
+      "word": "uchumi",
+      "count": 268
+    },
+    {
       "word": "mengine",
       "count": 267
+    },
+    {
+      "word": "mmoja",
+      "count": 266
+    },
+    {
+      "word": "from",
+      "count": 264
     },
     {
       "word": "hapo",
@@ -1021,52 +1029,40 @@
       "count": 263
     },
     {
-      "word": "from",
-      "count": 263
-    },
-    {
       "word": "ingawa",
       "count": 262
     },
     {
-      "word": "mmoja",
-      "count": 262
+      "word": "mahali",
+      "count": 258
     },
     {
-      "word": "mahali",
+      "word": "chama",
       "count": 257
+    },
+    {
+      "word": "zamani",
+      "count": 256
     },
     {
       "word": "misri",
       "count": 256
     },
     {
-      "word": "zamani",
-      "count": 255
-    },
-    {
       "word": "inahusu",
       "count": 255
     },
     {
-      "word": "chama",
-      "count": 255
+      "word": "hayo",
+      "count": 252
     },
     {
       "word": "milima",
       "count": 251
     },
     {
-      "word": "watoto",
-      "count": 251
-    },
-    {
-      "word": "hayo",
+      "word": "uchaguzi",
       "count": 250
-    },
-    {
-      "word": "uganda",
-      "count": 249
     },
     {
       "word": "msingi",
@@ -1077,20 +1073,24 @@
       "count": 249
     },
     {
-      "word": "uchaguzi",
-      "count": 249
+      "word": "uganda",
+      "count": 248
+    },
+    {
+      "word": "watoto",
+      "count": 248
     },
     {
       "word": "chuo",
-      "count": 246
-    },
-    {
-      "word": "mengi",
-      "count": 245
+      "count": 247
     },
     {
       "word": "asilimia",
       "count": 245
+    },
+    {
+      "word": "mengi",
+      "count": 243
     },
     {
       "word": "kumbukumbu",
@@ -1117,10 +1117,6 @@
       "count": 240
     },
     {
-      "word": "kitabu",
-      "count": 238
-    },
-    {
       "word": "tatu",
       "count": 238
     },
@@ -1137,16 +1133,20 @@
       "count": 237
     },
     {
-      "word": "hispania",
-      "count": 237
-    },
-    {
-      "word": "jua",
+      "word": "kitabu",
       "count": 237
     },
     {
       "word": "spishi",
       "count": 237
+    },
+    {
+      "word": "hispania",
+      "count": 236
+    },
+    {
+      "word": "jua",
+      "count": 236
     },
     {
       "word": "chake",
@@ -1161,14 +1161,6 @@
       "count": 234
     },
     {
-      "word": "nguvu",
-      "count": 233
-    },
-    {
-      "word": "familia",
-      "count": 233
-    },
-    {
       "word": "mirefu",
       "count": 232
     },
@@ -1177,7 +1169,15 @@
       "count": 231
     },
     {
+      "word": "nguvu",
+      "count": 231
+    },
+    {
       "word": "amerika",
+      "count": 230
+    },
+    {
+      "word": "familia",
       "count": 230
     },
     {
@@ -1186,11 +1186,15 @@
     },
     {
       "word": "kufanya",
-      "count": 228
+      "count": 229
     },
     {
       "word": "km",
       "count": 227
+    },
+    {
+      "word": "makubwa",
+      "count": 226
     },
     {
       "word": "wenyewe",
@@ -1205,31 +1209,23 @@
       "count": 224
     },
     {
-      "word": "watumwa",
-      "count": 223
-    },
-    {
-      "word": "kalenda",
-      "count": 223
-    },
-    {
       "word": "yesu",
       "count": 223
     },
     {
+      "word": "kalenda",
+      "count": 222
+    },
+    {
       "word": "mambo",
-      "count": 220
+      "count": 221
     },
     {
-      "word": "makubwa",
-      "count": 220
+      "word": "watumwa",
+      "count": 221
     },
     {
-      "word": "ghana",
-      "count": 220
-    },
-    {
-      "word": "kijerumani",
+      "word": "kikuu",
       "count": 220
     },
     {
@@ -1245,16 +1241,24 @@
       "count": 219
     },
     {
+      "word": "kijerumani",
+      "count": 219
+    },
+    {
       "word": "halafu",
       "count": 219
     },
     {
-      "word": "kikuu",
+      "word": "ghana",
       "count": 218
     },
     {
-      "word": "utamaduni",
+      "word": "hizo",
       "count": 217
+    },
+    {
+      "word": "utamaduni",
+      "count": 216
     },
     {
       "word": "mapokeo",
@@ -1265,8 +1269,8 @@
       "count": 216
     },
     {
-      "word": "hizo",
-      "count": 216
+      "word": "ikiwa",
+      "count": 215
     },
     {
       "word": "jumla",
@@ -1274,26 +1278,18 @@
     },
     {
       "word": "baadhi",
-      "count": 213
-    },
-    {
-      "word": "mali",
-      "count": 213
-    },
-    {
-      "word": "ikiwa",
-      "count": 213
+      "count": 214
     },
     {
       "word": "waislamu",
       "count": 213
     },
     {
-      "word": "kilimo",
-      "count": 213
+      "word": "vitabu",
+      "count": 212
     },
     {
-      "word": "vitabu",
+      "word": "mali",
       "count": 212
     },
     {
@@ -1305,8 +1301,8 @@
       "count": 212
     },
     {
-      "word": "maneno",
-      "count": 211
+      "word": "kilimo",
+      "count": 212
     },
     {
       "word": "mwanzo",
@@ -1318,10 +1314,10 @@
     },
     {
       "word": "kwenda",
-      "count": 210
+      "count": 211
     },
     {
-      "word": "mbunge",
+      "word": "jinsi",
       "count": 209
     },
     {
@@ -1329,44 +1325,48 @@
       "count": 208
     },
     {
-      "word": "haki",
+      "word": "iko",
       "count": 208
     },
     {
-      "word": "iko",
+      "word": "mbunge",
       "count": 208
+    },
+    {
+      "word": "haki",
+      "count": 207
     },
     {
       "word": "imani",
       "count": 207
     },
     {
-      "word": "jinsi",
+      "word": "maneno",
       "count": 206
     },
     {
-      "word": "kipindi",
+      "word": "vvu",
       "count": 205
     },
     {
-      "word": "kupata",
+      "word": "ukoloni",
       "count": 204
     },
     {
-      "word": "waingereza",
+      "word": "kipindi",
       "count": 204
+    },
+    {
+      "word": "kupata",
+      "count": 203
     },
     {
       "word": "for",
-      "count": 204
+      "count": 203
     },
     {
-      "word": "vvu",
-      "count": 204
-    },
-    {
-      "word": "ukoloni",
-      "count": 201
+      "word": "waingereza",
+      "count": 202
     },
     {
       "word": "mbali",
@@ -1374,14 +1374,14 @@
     },
     {
       "word": "siasa",
-      "count": 200
-    },
-    {
-      "word": "ambako",
-      "count": 200
+      "count": 201
     },
     {
       "word": "ufalme",
+      "count": 199
+    },
+    {
+      "word": "ambako",
       "count": 199
     },
     {
@@ -1409,6 +1409,10 @@
       "count": 193
     },
     {
+      "word": "waarabu",
+      "count": 192
+    },
+    {
       "word": "makao",
       "count": 192
     },
@@ -1425,19 +1429,19 @@
       "count": 191
     },
     {
-      "word": "bado",
-      "count": 190
-    },
-    {
-      "word": "waarabu",
-      "count": 190
-    },
-    {
       "word": "mikoa",
       "count": 190
     },
     {
+      "word": "picha",
+      "count": 189
+    },
+    {
       "word": "asia",
+      "count": 189
+    },
+    {
+      "word": "bado",
       "count": 189
     },
     {
@@ -1449,16 +1453,12 @@
       "count": 188
     },
     {
+      "word": "ndege",
+      "count": 188
+    },
+    {
       "word": "kufuatana",
       "count": 187
-    },
-    {
-      "word": "ndege",
-      "count": 187
-    },
-    {
-      "word": "picha",
-      "count": 186
     },
     {
       "word": "by",
@@ -1473,14 +1473,6 @@
       "count": 185
     },
     {
-      "word": "askofu",
-      "count": 184
-    },
-    {
-      "word": "wanyama",
-      "count": 182
-    },
-    {
       "word": "mwingine",
       "count": 182
     },
@@ -1489,8 +1481,12 @@
       "count": 181
     },
     {
-      "word": "to",
-      "count": 180
+      "word": "wanyama",
+      "count": 181
+    },
+    {
+      "word": "askofu",
+      "count": 181
     },
     {
       "word": "hakuna",
@@ -1513,7 +1509,11 @@
       "count": 176
     },
     {
-      "word": "africa",
+      "word": "to",
+      "count": 174
+    },
+    {
+      "word": "sudan",
       "count": 173
     },
     {
@@ -1521,16 +1521,16 @@
       "count": 172
     },
     {
-      "word": "sudan",
+      "word": "africa",
       "count": 171
     },
     {
       "word": "guinea",
-      "count": 170
+      "count": 169
     },
     {
       "word": "mama",
-      "count": 170
+      "count": 169
     },
     {
       "word": "zinabaki",
@@ -1541,7 +1541,7 @@
       "count": 169
     },
     {
-      "word": "uwezo",
+      "word": "chakula",
       "count": 168
     },
     {
@@ -1549,16 +1549,8 @@
       "count": 168
     },
     {
-      "word": "chakula",
+      "word": "uwezo",
       "count": 167
-    },
-    {
-      "word": "waziri",
-      "count": 166
-    },
-    {
-      "word": "kifo",
-      "count": 165
     },
     {
       "word": "ardhi",
@@ -1573,15 +1565,11 @@
       "count": 164
     },
     {
-      "word": "urusi",
-      "count": 163
-    },
-    {
       "word": "es",
       "count": 163
     },
     {
-      "word": "matumizi",
+      "word": "kifo",
       "count": 163
     },
     {
@@ -1597,15 +1585,15 @@
       "count": 163
     },
     {
-      "word": "kk",
+      "word": "ndio",
       "count": 162
     },
     {
-      "word": "tanganyika",
+      "word": "urusi",
       "count": 162
     },
     {
-      "word": "hapa",
+      "word": "matumizi",
       "count": 162
     },
     {
@@ -1621,11 +1609,19 @@
       "count": 162
     },
     {
-      "word": "ndio",
+      "word": "kisasa",
       "count": 161
     },
     {
-      "word": "maarufu",
+      "word": "kk",
+      "count": 161
+    },
+    {
+      "word": "tanganyika",
+      "count": 161
+    },
+    {
+      "word": "waziri",
       "count": 161
     },
     {
@@ -1637,7 +1633,7 @@
       "count": 161
     },
     {
-      "word": "kisasa",
+      "word": "uislamu",
       "count": 160
     },
     {
@@ -1649,11 +1645,15 @@
       "count": 160
     },
     {
-      "word": "kiwango",
+      "word": "maarufu",
       "count": 160
     },
     {
-      "word": "uislamu",
+      "word": "hapa",
+      "count": 160
+    },
+    {
+      "word": "kiwango",
       "count": 159
     },
     {
@@ -1662,30 +1662,18 @@
     },
     {
       "word": "mwenye",
+      "count": 158
+    },
+    {
+      "word": "haya",
       "count": 157
     },
     {
       "word": "mawasiliano",
-      "count": 156
-    },
-    {
-      "word": "haya",
-      "count": 156
+      "count": 155
     },
     {
       "word": "jimbo",
-      "count": 156
-    },
-    {
-      "word": "kufikia",
-      "count": 155
-    },
-    {
-      "word": "sahara",
-      "count": 155
-    },
-    {
-      "word": "mazingira",
       "count": 155
     },
     {
@@ -1693,7 +1681,23 @@
       "count": 154
     },
     {
-      "word": "sayansi",
+      "word": "kufikia",
+      "count": 154
+    },
+    {
+      "word": "mazingira",
+      "count": 154
+    },
+    {
+      "word": "robert",
+      "count": 154
+    },
+    {
+      "word": "bandari",
+      "count": 154
+    },
+    {
+      "word": "sahara",
       "count": 153
     },
     {
@@ -1705,35 +1709,23 @@
       "count": 153
     },
     {
-      "word": "kampuni",
-      "count": 153
-    },
-    {
-      "word": "robert",
-      "count": 153
-    },
-    {
-      "word": "bandari",
-      "count": 153
+      "word": "sayansi",
+      "count": 152
     },
     {
       "word": "kilomita",
       "count": 152
     },
     {
-      "word": "wananchi",
-      "count": 151
-    },
-    {
       "word": "ule",
       "count": 151
     },
     {
-      "word": "kiongozi",
+      "word": "mchezaji",
       "count": 151
     },
     {
-      "word": "maendeleo",
+      "word": "kiongozi",
       "count": 150
     },
     {
@@ -1741,12 +1733,16 @@
       "count": 150
     },
     {
-      "word": "mchezaji",
-      "count": 150
+      "word": "wananchi",
+      "count": 149
     },
     {
       "word": "george",
       "count": 149
+    },
+    {
+      "word": "maendeleo",
+      "count": 148
     },
     {
       "word": "miezi",
@@ -1765,6 +1761,10 @@
       "count": 147
     },
     {
+      "word": "kampuni",
+      "count": 147
+    },
+    {
       "word": "hao",
       "count": 147
     },
@@ -1773,8 +1773,8 @@
       "count": 147
     },
     {
-      "word": "mpira",
-      "count": 146
+      "word": "ambaye",
+      "count": 147
     },
     {
       "word": "biblia",
@@ -1785,11 +1785,7 @@
       "count": 145
     },
     {
-      "word": "ambalo",
-      "count": 145
-    },
-    {
-      "word": "ambaye",
+      "word": "mpira",
       "count": 145
     },
     {
@@ -1797,7 +1793,7 @@
       "count": 145
     },
     {
-      "word": "burundi",
+      "word": "ambalo",
       "count": 144
     },
     {
@@ -1813,6 +1809,10 @@
       "count": 143
     },
     {
+      "word": "burundi",
+      "count": 143
+    },
+    {
       "word": "st",
       "count": 143
     },
@@ -1821,19 +1821,11 @@
       "count": 143
     },
     {
-      "word": "huduma",
-      "count": 143
-    },
-    {
-      "word": "kanda",
-      "count": 143
-    },
-    {
       "word": "hewa",
       "count": 143
     },
     {
-      "word": "nigeria",
+      "word": "huduma",
       "count": 142
     },
     {
@@ -1841,12 +1833,8 @@
       "count": 142
     },
     {
-      "word": "chanzo",
-      "count": 141
-    },
-    {
-      "word": "kidemokrasia",
-      "count": 141
+      "word": "kanda",
+      "count": 142
     },
     {
       "word": "wajerumani",
@@ -1865,20 +1853,28 @@
       "count": 141
     },
     {
+      "word": "chanzo",
+      "count": 140
+    },
+    {
+      "word": "nyumba",
+      "count": 140
+    },
+    {
+      "word": "nigeria",
+      "count": 140
+    },
+    {
+      "word": "kidemokrasia",
+      "count": 140
+    },
+    {
       "word": "kamusi",
       "count": 140
     },
     {
       "word": "agano",
       "count": 140
-    },
-    {
-      "word": "nyumba",
-      "count": 139
-    },
-    {
-      "word": "kilatini",
-      "count": 138
     },
     {
       "word": "tabia",
@@ -1893,15 +1889,23 @@
       "count": 138
     },
     {
+      "word": "ukimwi",
+      "count": 138
+    },
+    {
+      "word": "kilatini",
+      "count": 137
+    },
+    {
       "word": "urefu",
       "count": 137
     },
     {
-      "word": "ukimwi",
-      "count": 137
+      "word": "kikubwa",
+      "count": 136
     },
     {
-      "word": "kikubwa",
+      "word": "world",
       "count": 136
     },
     {
@@ -1937,14 +1941,6 @@
       "count": 135
     },
     {
-      "word": "world",
-      "count": 134
-    },
-    {
-      "word": "angola",
-      "count": 134
-    },
-    {
       "word": "inaweza",
       "count": 134
     },
@@ -1957,6 +1953,10 @@
       "count": 134
     },
     {
+      "word": "angola",
+      "count": 133
+    },
+    {
       "word": "nairobi",
       "count": 133
     },
@@ -1965,19 +1965,19 @@
       "count": 133
     },
     {
+      "word": "meli",
+      "count": 133
+    },
+    {
       "word": "thrush",
       "count": 133
     },
     {
       "word": "zimbabwe",
-      "count": 132
-    },
-    {
-      "word": "hadithi",
       "count": 131
     },
     {
-      "word": "naye",
+      "word": "hadithi",
       "count": 131
     },
     {
@@ -1985,15 +1985,15 @@
       "count": 131
     },
     {
+      "word": "naye",
+      "count": 130
+    },
+    {
       "word": "seli",
       "count": 130
     },
     {
       "word": "jumuiya",
-      "count": 129
-    },
-    {
-      "word": "mabadiliko",
       "count": 129
     },
     {
@@ -2009,6 +2009,10 @@
       "count": 128
     },
     {
+      "word": "mabadiliko",
+      "count": 128
+    },
+    {
       "word": "asilia",
       "count": 127
     },
@@ -2017,16 +2021,12 @@
       "count": 127
     },
     {
-      "word": "meli",
+      "word": "umri",
       "count": 127
     },
     {
       "word": "kituo",
       "count": 127
-    },
-    {
-      "word": "umri",
-      "count": 126
     },
     {
       "word": "mwenyewe",
@@ -2045,11 +2045,7 @@
       "count": 124
     },
     {
-      "word": "kote",
-      "count": 124
-    },
-    {
-      "word": "mapinduzi",
+      "word": "safari",
       "count": 124
     },
     {
@@ -2057,11 +2053,15 @@
       "count": 123
     },
     {
+      "word": "kote",
+      "count": 123
+    },
+    {
       "word": "mbinu",
       "count": 123
     },
     {
-      "word": "katiba",
+      "word": "mapinduzi",
       "count": 123
     },
     {
@@ -2069,7 +2069,11 @@
       "count": 122
     },
     {
-      "word": "safari",
+      "word": "kura",
+      "count": 122
+    },
+    {
+      "word": "news",
       "count": 122
     },
     {
@@ -2078,22 +2082,10 @@
     },
     {
       "word": "rwanda",
-      "count": 121
-    },
-    {
-      "word": "sifa",
-      "count": 121
-    },
-    {
-      "word": "kura",
-      "count": 121
-    },
-    {
-      "word": "katoliki",
       "count": 120
     },
     {
-      "word": "namna",
+      "word": "katiba",
       "count": 120
     },
     {
@@ -2101,11 +2093,15 @@
       "count": 120
     },
     {
-      "word": "somalia",
+      "word": "moroko",
       "count": 119
     },
     {
-      "word": "moroko",
+      "word": "sifa",
+      "count": 119
+    },
+    {
+      "word": "namna",
       "count": 119
     },
     {
@@ -2117,12 +2113,16 @@
       "count": 119
     },
     {
-      "word": "news",
+      "word": "barafu",
       "count": 119
     },
     {
-      "word": "barafu",
-      "count": 119
+      "word": "katoliki",
+      "count": 118
+    },
+    {
+      "word": "somalia",
+      "count": 118
     },
     {
       "word": "shughuli",
@@ -2165,7 +2165,15 @@
       "count": 116
     },
     {
+      "word": "hifadhi",
+      "count": 115
+    },
+    {
       "word": "utaratibu",
+      "count": 115
+    },
+    {
+      "word": "kijeshi",
       "count": 115
     },
     {
@@ -2181,19 +2189,11 @@
       "count": 114
     },
     {
-      "word": "kijeshi",
-      "count": 114
-    },
-    {
       "word": "york",
       "count": 114
     },
     {
       "word": "bwana",
-      "count": 114
-    },
-    {
-      "word": "wanawake",
       "count": 114
     },
     {
@@ -2205,10 +2205,6 @@
       "count": 114
     },
     {
-      "word": "hifadhi",
-      "count": 113
-    },
-    {
       "word": "zambia",
       "count": 113
     },
@@ -2217,23 +2213,15 @@
       "count": 113
     },
     {
-      "word": "bora",
-      "count": 112
-    },
-    {
-      "word": "makundi",
-      "count": 112
-    },
-    {
-      "word": "wazungu",
-      "count": 112
-    },
-    {
       "word": "nadharia",
       "count": 112
     },
     {
       "word": "von",
+      "count": 112
+    },
+    {
+      "word": "kihistoria",
       "count": 112
     },
     {
@@ -2245,7 +2233,27 @@
       "count": 112
     },
     {
+      "word": "bora",
+      "count": 111
+    },
+    {
+      "word": "pa",
+      "count": 111
+    },
+    {
+      "word": "vingi",
+      "count": 111
+    },
+    {
       "word": "zilikuwa",
+      "count": 111
+    },
+    {
+      "word": "makundi",
+      "count": 111
+    },
+    {
+      "word": "wazungu",
       "count": 111
     },
     {
@@ -2257,7 +2265,7 @@
       "count": 111
     },
     {
-      "word": "kihistoria",
+      "word": "wanawake",
       "count": 111
     },
     {
@@ -2279,14 +2287,6 @@
     {
       "word": "kilimanjaro",
       "count": 111
-    },
-    {
-      "word": "pa",
-      "count": 110
-    },
-    {
-      "word": "vingi",
-      "count": 110
     },
     {
       "word": "kali",
@@ -2313,15 +2313,11 @@
       "count": 109
     },
     {
-      "word": "mahakama",
-      "count": 109
-    },
-    {
       "word": "mimea",
       "count": 109
     },
     {
-      "word": "baina",
+      "word": "zenye",
       "count": 108
     },
     {
@@ -2333,15 +2329,11 @@
       "count": 108
     },
     {
-      "word": "matokeo",
+      "word": "viongozi",
       "count": 107
     },
     {
-      "word": "zenye",
-      "count": 107
-    },
-    {
-      "word": "mbele",
+      "word": "mahakama",
       "count": 107
     },
     {
@@ -2353,7 +2345,11 @@
       "count": 107
     },
     {
-      "word": "viongozi",
+      "word": "matokeo",
+      "count": 106
+    },
+    {
+      "word": "baina",
       "count": 106
     },
     {
@@ -2365,11 +2361,15 @@
       "count": 106
     },
     {
+      "word": "mbele",
+      "count": 106
+    },
+    {
       "word": "nne",
       "count": 106
     },
     {
-      "word": "huku",
+      "word": "kuanzisha",
       "count": 105
     },
     {
@@ -2377,19 +2377,11 @@
       "count": 105
     },
     {
-      "word": "dawa",
-      "count": 105
-    },
-    {
       "word": "taarifa",
       "count": 105
     },
     {
-      "word": "kuanzisha",
-      "count": 104
-    },
-    {
-      "word": "wareno",
+      "word": "huku",
       "count": 104
     },
     {
@@ -2409,6 +2401,10 @@
       "count": 104
     },
     {
+      "word": "wareno",
+      "count": 103
+    },
+    {
       "word": "halisi",
       "count": 103
     },
@@ -2417,8 +2413,16 @@
       "count": 103
     },
     {
+      "word": "dawa",
+      "count": 103
+    },
+    {
       "word": "mikuu",
       "count": 103
+    },
+    {
+      "word": "madola",
+      "count": 102
     },
     {
       "word": "ureno",
@@ -2441,10 +2445,6 @@
       "count": 102
     },
     {
-      "word": "madola",
-      "count": 101
-    },
-    {
       "word": "eritrea",
       "count": 101
     },
@@ -2455,6 +2455,10 @@
     {
       "word": "muundo",
       "count": 101
+    },
+    {
+      "word": "damu",
+      "count": 100
     },
     {
       "word": "isipokuwa",
@@ -2489,8 +2493,12 @@
       "count": 100
     },
     {
-      "word": "damu",
-      "count": 99
+      "word": "kulikuwa",
+      "count": 100
+    },
+    {
+      "word": "angani",
+      "count": 100
     },
     {
       "word": "uhindi",
@@ -2498,10 +2506,6 @@
     },
     {
       "word": "as",
-      "count": 99
-    },
-    {
-      "word": "london",
       "count": 99
     },
     {
@@ -2533,20 +2537,12 @@
       "count": 99
     },
     {
-      "word": "barabara",
-      "count": 99
-    },
-    {
       "word": "muhammad",
       "count": 99
     },
     {
-      "word": "kulikuwa",
-      "count": 99
-    },
-    {
-      "word": "angani",
-      "count": 99
+      "word": "london",
+      "count": 98
     },
     {
       "word": "kuelekea",
@@ -2566,10 +2562,6 @@
     },
     {
       "word": "sensa",
-      "count": 98
-    },
-    {
-      "word": "kitovu",
       "count": 98
     },
     {
@@ -2601,6 +2593,10 @@
       "count": 97
     },
     {
+      "word": "kitovu",
+      "count": 97
+    },
+    {
       "word": "sultani",
       "count": 97
     },
@@ -2613,7 +2609,11 @@
       "count": 96
     },
     {
-      "word": "sita",
+      "word": "barabara",
+      "count": 96
+    },
+    {
+      "word": "international",
       "count": 96
     },
     {
@@ -2625,19 +2625,11 @@
       "count": 96
     },
     {
-      "word": "yoyote",
-      "count": 95
-    },
-    {
       "word": "kisha",
       "count": 95
     },
     {
       "word": "wale",
-      "count": 95
-    },
-    {
-      "word": "international",
       "count": 95
     },
     {
@@ -2651,6 +2643,10 @@
     {
       "word": "official",
       "count": 95
+    },
+    {
+      "word": "yoyote",
+      "count": 94
     },
     {
       "word": "miti",
@@ -2677,19 +2673,15 @@
       "count": 94
     },
     {
-      "word": "iliyokuwa",
-      "count": 93
-    },
-    {
-      "word": "vilevile",
-      "count": 93
-    },
-    {
       "word": "sauti",
       "count": 93
     },
     {
       "word": "alama",
+      "count": 93
+    },
+    {
+      "word": "sita",
       "count": 93
     },
     {
@@ -2699,6 +2691,22 @@
     {
       "word": "uko",
       "count": 93
+    },
+    {
+      "word": "iliyokuwa",
+      "count": 92
+    },
+    {
+      "word": "vilevile",
+      "count": 92
+    },
+    {
+      "word": "com",
+      "count": 92
+    },
+    {
+      "word": "kumi",
+      "count": 92
     },
     {
       "word": "michael",
@@ -2725,10 +2733,6 @@
       "count": 91
     },
     {
-      "word": "kumi",
-      "count": 91
-    },
-    {
       "word": "kadiri",
       "count": 91
     },
@@ -2743,10 +2747,6 @@
     {
       "word": "nile",
       "count": 91
-    },
-    {
-      "word": "kuingia",
-      "count": 90
     },
     {
       "word": "algeria",
@@ -2789,19 +2789,7 @@
       "count": 89
     },
     {
-      "word": "waliokuwa",
-      "count": 89
-    },
-    {
-      "word": "kireno",
-      "count": 89
-    },
-    {
-      "word": "com",
-      "count": 89
-    },
-    {
-      "word": "poland",
+      "word": "kuingia",
       "count": 89
     },
     {
@@ -2821,10 +2809,6 @@
       "count": 89
     },
     {
-      "word": "mwili",
-      "count": 89
-    },
-    {
       "word": "ndiye",
       "count": 89
     },
@@ -2841,15 +2825,27 @@
       "count": 89
     },
     {
+      "word": "maalumu",
+      "count": 88
+    },
+    {
+      "word": "kikristo",
+      "count": 88
+    },
+    {
       "word": "niger",
       "count": 88
     },
     {
-      "word": "kwani",
+      "word": "kireno",
       "count": 88
     },
     {
-      "word": "nusu",
+      "word": "poland",
+      "count": 88
+    },
+    {
+      "word": "mwili",
       "count": 88
     },
     {
@@ -2861,10 +2857,6 @@
       "count": 88
     },
     {
-      "word": "tayari",
-      "count": 88
-    },
-    {
       "word": "saba",
       "count": 88
     },
@@ -2873,19 +2865,27 @@
       "count": 88
     },
     {
-      "word": "maalumu",
+      "word": "waliokuwa",
       "count": 87
     },
     {
-      "word": "kikristo",
+      "word": "ila",
       "count": 87
     },
     {
-      "word": "mashamba",
+      "word": "kwani",
       "count": 87
     },
     {
       "word": "kamili",
+      "count": 87
+    },
+    {
+      "word": "nusu",
+      "count": 87
+    },
+    {
+      "word": "tayari",
       "count": 87
     },
     {
@@ -2905,19 +2905,15 @@
       "count": 86
     },
     {
-      "word": "rasi",
-      "count": 86
-    },
-    {
-      "word": "miwili",
-      "count": 86
-    },
-    {
-      "word": "ila",
+      "word": "mashamba",
       "count": 86
     },
     {
       "word": "kitu",
+      "count": 86
+    },
+    {
+      "word": "desturi",
       "count": 86
     },
     {
@@ -2929,6 +2925,18 @@
       "count": 86
     },
     {
+      "word": "vitu",
+      "count": 85
+    },
+    {
+      "word": "rasi",
+      "count": 85
+    },
+    {
+      "word": "miwili",
+      "count": 85
+    },
+    {
       "word": "zile",
       "count": 85
     },
@@ -2938,10 +2946,6 @@
     },
     {
       "word": "jiji",
-      "count": 85
-    },
-    {
-      "word": "desturi",
       "count": 85
     },
     {
@@ -2965,10 +2969,6 @@
       "count": 84
     },
     {
-      "word": "wanafunzi",
-      "count": 84
-    },
-    {
       "word": "mingine",
       "count": 84
     },
@@ -2981,14 +2981,6 @@
       "count": 84
     },
     {
-      "word": "vitu",
-      "count": 83
-    },
-    {
-      "word": "nao",
-      "count": 83
-    },
-    {
       "word": "congo",
       "count": 83
     },
@@ -2998,6 +2990,10 @@
     },
     {
       "word": "falsafa",
+      "count": 83
+    },
+    {
+      "word": "wanafunzi",
       "count": 83
     },
     {
@@ -3017,11 +3013,7 @@
       "count": 83
     },
     {
-      "word": "dhahabu",
-      "count": 82
-    },
-    {
-      "word": "cape",
+      "word": "kwao",
       "count": 82
     },
     {
@@ -3037,15 +3029,15 @@
       "count": 82
     },
     {
+      "word": "pande",
+      "count": 82
+    },
+    {
       "word": "hawa",
       "count": 82
     },
     {
       "word": "huyo",
-      "count": 82
-    },
-    {
-      "word": "hatimaye",
       "count": 82
     },
     {
@@ -3061,7 +3053,7 @@
       "count": 82
     },
     {
-      "word": "kwao",
+      "word": "dhahabu",
       "count": 81
     },
     {
@@ -3093,19 +3085,15 @@
       "count": 81
     },
     {
-      "word": "mmarekani",
-      "count": 81
-    },
-    {
       "word": "hutumia",
       "count": 80
     },
     {
-      "word": "nyuma",
+      "word": "daktari",
       "count": 80
     },
     {
-      "word": "org",
+      "word": "nao",
       "count": 80
     },
     {
@@ -3113,11 +3101,7 @@
       "count": 80
     },
     {
-      "word": "kijamii",
-      "count": 80
-    },
-    {
-      "word": "pande",
+      "word": "hatimaye",
       "count": 80
     },
     {
@@ -3141,19 +3125,23 @@
       "count": 80
     },
     {
-      "word": "vyombo",
-      "count": 79
+      "word": "mmarekani",
+      "count": 80
     },
     {
       "word": "walianza",
       "count": 79
     },
     {
-      "word": "maelezo",
+      "word": "nyuma",
       "count": 79
     },
     {
-      "word": "an",
+      "word": "cape",
+      "count": 79
+    },
+    {
+      "word": "maelezo",
       "count": 79
     },
     {
@@ -3165,15 +3153,39 @@
       "count": 79
     },
     {
+      "word": "mafuta",
+      "count": 79
+    },
+    {
+      "word": "mapigano",
+      "count": 79
+    },
+    {
       "word": "vijijini",
       "count": 79
     },
     {
-      "word": "roho",
+      "word": "upinzani",
+      "count": 79
+    },
+    {
+      "word": "vyombo",
+      "count": 78
+    },
+    {
+      "word": "org",
+      "count": 78
+    },
+    {
+      "word": "kijamii",
       "count": 78
     },
     {
       "word": "mwanahistoria",
+      "count": 78
+    },
+    {
+      "word": "an",
       "count": 78
     },
     {
@@ -3189,11 +3201,11 @@
       "count": 78
     },
     {
-      "word": "profile",
+      "word": "united",
       "count": 78
     },
     {
-      "word": "upinzani",
+      "word": "profile",
       "count": 78
     },
     {
@@ -3205,6 +3217,10 @@
       "count": 77
     },
     {
+      "word": "roho",
+      "count": 77
+    },
+    {
       "word": "aliandika",
       "count": 77
     },
@@ -3213,23 +3229,7 @@
       "count": 77
     },
     {
-      "word": "united",
-      "count": 77
-    },
-    {
-      "word": "mafuta",
-      "count": 77
-    },
-    {
       "word": "ngoma",
-      "count": 77
-    },
-    {
-      "word": "mapigano",
-      "count": 77
-    },
-    {
-      "word": "simu",
       "count": 77
     },
     {
@@ -3237,19 +3237,7 @@
       "count": 77
     },
     {
-      "word": "daktari",
-      "count": 76
-    },
-    {
-      "word": "wakiwa",
-      "count": 76
-    },
-    {
       "word": "mdomo",
-      "count": 76
-    },
-    {
-      "word": "afya",
       "count": 76
     },
     {
@@ -3265,6 +3253,10 @@
       "count": 76
     },
     {
+      "word": "simu",
+      "count": 76
+    },
+    {
       "word": "sherehe",
       "count": 76
     },
@@ -3273,11 +3265,11 @@
       "count": 76
     },
     {
-      "word": "mabara",
+      "word": "ambavyo",
       "count": 75
     },
     {
-      "word": "matibabu",
+      "word": "mabara",
       "count": 75
     },
     {
@@ -3286,10 +3278,6 @@
     },
     {
       "word": "baharini",
-      "count": 75
-    },
-    {
-      "word": "wafanyabiashara",
       "count": 75
     },
     {
@@ -3309,11 +3297,7 @@
       "count": 75
     },
     {
-      "word": "ambavyo",
-      "count": 74
-    },
-    {
-      "word": "gambia",
+      "word": "wakiwa",
       "count": 74
     },
     {
@@ -3321,15 +3305,15 @@
       "count": 74
     },
     {
-      "word": "sanaa",
-      "count": 74
-    },
-    {
       "word": "sura",
       "count": 74
     },
     {
-      "word": "polisi",
+      "word": "matibabu",
+      "count": 74
+    },
+    {
+      "word": "wafanyabiashara",
       "count": 74
     },
     {
@@ -3353,15 +3337,7 @@
       "count": 74
     },
     {
-      "word": "bidhaa",
-      "count": 73
-    },
-    {
-      "word": "india",
-      "count": 73
-    },
-    {
-      "word": "kasi",
+      "word": "gambia",
       "count": 73
     },
     {
@@ -3373,15 +3349,15 @@
       "count": 73
     },
     {
-      "word": "kijiji",
+      "word": "sanaa",
+      "count": 73
+    },
+    {
+      "word": "afya",
       "count": 73
     },
     {
       "word": "bamba",
-      "count": 73
-    },
-    {
-      "word": "wadogo",
       "count": 73
     },
     {
@@ -3393,15 +3369,15 @@
       "count": 73
     },
     {
+      "word": "ghuba",
+      "count": 73
+    },
+    {
+      "word": "bidhaa",
+      "count": 72
+    },
+    {
       "word": "wafaransa",
-      "count": 72
-    },
-    {
-      "word": "kushinda",
-      "count": 72
-    },
-    {
-      "word": "vijana",
       "count": 72
     },
     {
@@ -3421,15 +3397,15 @@
       "count": 72
     },
     {
-      "word": "yako",
-      "count": 72
-    },
-    {
       "word": "askari",
       "count": 72
     },
     {
       "word": "nyimbo",
+      "count": 72
+    },
+    {
+      "word": "with",
       "count": 72
     },
     {
@@ -3445,7 +3421,19 @@
       "count": 72
     },
     {
+      "word": "kasi",
+      "count": 71
+    },
+    {
+      "word": "kushinda",
+      "count": 71
+    },
+    {
       "word": "gabon",
+      "count": 71
+    },
+    {
+      "word": "vijana",
       "count": 71
     },
     {
@@ -3461,19 +3449,15 @@
       "count": 71
     },
     {
-      "word": "ukubwa",
-      "count": 71
-    },
-    {
       "word": "oxford",
       "count": 71
     },
     {
-      "word": "bikira",
+      "word": "kijiji",
       "count": 71
     },
     {
-      "word": "moto",
+      "word": "bikira",
       "count": 71
     },
     {
@@ -3485,6 +3469,10 @@
       "count": 71
     },
     {
+      "word": "wadogo",
+      "count": 71
+    },
+    {
       "word": "inapata",
       "count": 71
     },
@@ -3493,19 +3481,11 @@
       "count": 71
     },
     {
-      "word": "ghuba",
-      "count": 71
-    },
-    {
       "word": "corvus",
       "count": 71
     },
     {
-      "word": "kibantu",
-      "count": 70
-    },
-    {
-      "word": "pembe",
+      "word": "india",
       "count": 70
     },
     {
@@ -3517,11 +3497,7 @@
       "count": 70
     },
     {
-      "word": "gesi",
-      "count": 70
-    },
-    {
-      "word": "ujenzi",
+      "word": "yako",
       "count": 70
     },
     {
@@ -3529,7 +3505,7 @@
       "count": 70
     },
     {
-      "word": "with",
+      "word": "ukubwa",
       "count": 70
     },
     {
@@ -3538,6 +3514,10 @@
     },
     {
       "word": "jipya",
+      "count": 70
+    },
+    {
+      "word": "moto",
       "count": 70
     },
     {
@@ -3553,7 +3533,19 @@
       "count": 70
     },
     {
+      "word": "moyo",
+      "count": 69
+    },
+    {
       "word": "ujumla",
+      "count": 69
+    },
+    {
+      "word": "kibantu",
+      "count": 69
+    },
+    {
+      "word": "pembe",
       "count": 69
     },
     {
@@ -3577,6 +3569,14 @@
       "count": 69
     },
     {
+      "word": "polisi",
+      "count": 69
+    },
+    {
+      "word": "mwanamke",
+      "count": 69
+    },
+    {
       "word": "mchanganyiko",
       "count": 69
     },
@@ -3585,11 +3585,11 @@
       "count": 69
     },
     {
-      "word": "maalum",
+      "word": "vizuri",
       "count": 68
     },
     {
-      "word": "moyo",
+      "word": "maalum",
       "count": 68
     },
     {
@@ -3605,11 +3605,7 @@
       "count": 68
     },
     {
-      "word": "uwanja",
-      "count": 68
-    },
-    {
-      "word": "fedha",
+      "word": "ujenzi",
       "count": 68
     },
     {
@@ -3629,14 +3625,6 @@
       "count": 68
     },
     {
-      "word": "michezo",
-      "count": 68
-    },
-    {
-      "word": "vizuri",
-      "count": 67
-    },
-    {
       "word": "kukua",
       "count": 67
     },
@@ -3650,6 +3638,10 @@
     },
     {
       "word": "mawe",
+      "count": 67
+    },
+    {
+      "word": "gesi",
       "count": 67
     },
     {
@@ -3689,6 +3681,10 @@
       "count": 66
     },
     {
+      "word": "uwanja",
+      "count": 66
+    },
+    {
       "word": "ilianzishwa",
       "count": 66
     },
@@ -3705,15 +3701,15 @@
       "count": 66
     },
     {
-      "word": "mwanamke",
-      "count": 66
-    },
-    {
       "word": "gregori",
       "count": 66
     },
     {
       "word": "mediteranea",
+      "count": 66
+    },
+    {
+      "word": "michezo",
       "count": 66
     },
     {
@@ -3725,11 +3721,23 @@
       "count": 66
     },
     {
-      "word": "state",
+      "word": "nzuri",
+      "count": 65
+    },
+    {
+      "word": "upya",
+      "count": 65
+    },
+    {
+      "word": "chache",
       "count": 65
     },
     {
       "word": "viumbe",
+      "count": 65
+    },
+    {
+      "word": "fedha",
       "count": 65
     },
     {
@@ -3753,15 +3761,15 @@
       "count": 65
     },
     {
-      "word": "nzuri",
+      "word": "state",
       "count": 64
     },
     {
-      "word": "upya",
+      "word": "www",
       "count": 64
     },
     {
-      "word": "chache",
+      "word": "uajemi",
       "count": 64
     },
     {
@@ -3770,6 +3778,10 @@
     },
     {
       "word": "hatua",
+      "count": 64
+    },
+    {
+      "word": "kuzuia",
       "count": 64
     },
     {
@@ -3786,10 +3798,6 @@
     },
     {
       "word": "alianza",
-      "count": 64
-    },
-    {
-      "word": "vipindi",
       "count": 64
     },
     {
@@ -3810,10 +3818,6 @@
     },
     {
       "word": "wanaweza",
-      "count": 63
-    },
-    {
-      "word": "ndipo",
       "count": 63
     },
     {
@@ -3845,6 +3849,10 @@
       "count": 63
     },
     {
+      "word": "vipindi",
+      "count": 63
+    },
+    {
       "word": "chifu",
       "count": 63
     },
@@ -3865,7 +3873,7 @@
       "count": 62
     },
     {
-      "word": "kuhamia",
+      "word": "ndipo",
       "count": 62
     },
     {
@@ -3873,19 +3881,11 @@
       "count": 62
     },
     {
-      "word": "www",
-      "count": 62
-    },
-    {
       "word": "kuandika",
       "count": 62
     },
     {
-      "word": "uajemi",
-      "count": 62
-    },
-    {
-      "word": "jambo",
+      "word": "nuru",
       "count": 62
     },
     {
@@ -3909,15 +3909,7 @@
       "count": 62
     },
     {
-      "word": "simulizi",
-      "count": 61
-    },
-    {
-      "word": "athari",
-      "count": 61
-    },
-    {
-      "word": "kuchukua",
+      "word": "kuhamia",
       "count": 61
     },
     {
@@ -3925,11 +3917,7 @@
       "count": 61
     },
     {
-      "word": "kuzuia",
-      "count": 61
-    },
-    {
-      "word": "nuru",
+      "word": "jambo",
       "count": 61
     },
     {
@@ -3953,12 +3941,32 @@
       "count": 61
     },
     {
+      "word": "mitatu",
+      "count": 61
+    },
+    {
       "word": "henry",
+      "count": 61
+    },
+    {
+      "word": "iii",
       "count": 61
     },
     {
       "word": "hitler",
       "count": 61
+    },
+    {
+      "word": "udongo",
+      "count": 60
+    },
+    {
+      "word": "simulizi",
+      "count": 60
+    },
+    {
+      "word": "athari",
+      "count": 60
     },
     {
       "word": "kanada",
@@ -3973,11 +3981,19 @@
       "count": 60
     },
     {
+      "word": "kuchukua",
+      "count": 60
+    },
+    {
       "word": "berlin",
       "count": 60
     },
     {
       "word": "demokrasia",
+      "count": 60
+    },
+    {
+      "word": "raia",
       "count": 60
     },
     {
@@ -3997,15 +4013,7 @@
       "count": 60
     },
     {
-      "word": "mitatu",
-      "count": 60
-    },
-    {
       "word": "pasaka",
-      "count": 60
-    },
-    {
-      "word": "iii",
       "count": 60
     },
     {
@@ -4021,10 +4029,6 @@
       "count": 60
     },
     {
-      "word": "moi",
-      "count": 60
-    },
-    {
       "word": "delta",
       "count": 60
     },
@@ -4033,7 +4037,7 @@
       "count": 60
     },
     {
-      "word": "mradi",
+      "word": "ujuzi",
       "count": 59
     },
     {
@@ -4045,23 +4049,11 @@
       "count": 59
     },
     {
-      "word": "kutengeneza",
-      "count": 59
-    },
-    {
       "word": "vikuu",
       "count": 59
     },
     {
-      "word": "raia",
-      "count": 59
-    },
-    {
       "word": "carl",
-      "count": 59
-    },
-    {
-      "word": "ndoa",
       "count": 59
     },
     {
@@ -4085,15 +4077,15 @@
       "count": 59
     },
     {
-      "word": "udongo",
-      "count": 58
-    },
-    {
-      "word": "ujuzi",
-      "count": 58
+      "word": "moi",
+      "count": 59
     },
     {
       "word": "kuendelea",
+      "count": 58
+    },
+    {
+      "word": "kutengeneza",
       "count": 58
     },
     {
@@ -4117,10 +4109,6 @@
       "count": 58
     },
     {
-      "word": "wanaume",
-      "count": 58
-    },
-    {
       "word": "zingine",
       "count": 58
     },
@@ -4141,10 +4129,6 @@
       "count": 58
     },
     {
-      "word": "dalili",
-      "count": 58
-    },
-    {
       "word": "halijoto",
       "count": 58
     },
@@ -4155,6 +4139,10 @@
     {
       "word": "heron",
       "count": 58
+    },
+    {
+      "word": "mradi",
+      "count": 57
     },
     {
       "word": "vyake",
@@ -4169,15 +4157,19 @@
       "count": 57
     },
     {
+      "word": "kupatikana",
+      "count": 57
+    },
+    {
+      "word": "wanaume",
+      "count": 57
+    },
+    {
       "word": "kidini",
       "count": 57
     },
     {
       "word": "kuenea",
-      "count": 57
-    },
-    {
-      "word": "uongozi",
       "count": 57
     },
     {
@@ -4193,6 +4185,10 @@
       "count": 57
     },
     {
+      "word": "dalili",
+      "count": 57
+    },
+    {
       "word": "arusha",
       "count": 57
     },
@@ -4202,10 +4198,6 @@
     },
     {
       "word": "demografia",
-      "count": 57
-    },
-    {
-      "word": "black",
       "count": 57
     },
     {
@@ -4225,11 +4217,7 @@
       "count": 56
     },
     {
-      "word": "kupatikana",
-      "count": 56
-    },
-    {
-      "word": "gharama",
+      "word": "ndoa",
       "count": 56
     },
     {
@@ -4237,7 +4225,7 @@
       "count": 56
     },
     {
-      "word": "wikipedia",
+      "word": "uongozi",
       "count": 56
     },
     {
@@ -4257,6 +4245,10 @@
       "count": 56
     },
     {
+      "word": "kumaliza",
+      "count": 56
+    },
+    {
       "word": "kukaa",
       "count": 56
     },
@@ -4265,11 +4257,19 @@
       "count": 56
     },
     {
+      "word": "black",
+      "count": 56
+    },
+    {
       "word": "kambi",
       "count": 56
     },
     {
       "word": "vituo",
+      "count": 55
+    },
+    {
+      "word": "kuwepo",
       "count": 55
     },
     {
@@ -4293,23 +4293,11 @@
       "count": 55
     },
     {
-      "word": "nishati",
-      "count": 55
-    },
-    {
-      "word": "mipango",
-      "count": 55
-    },
-    {
-      "word": "baraza",
+      "word": "wawili",
       "count": 55
     },
     {
       "word": "msaada",
-      "count": 55
-    },
-    {
-      "word": "vyuo",
       "count": 55
     },
     {
@@ -4361,7 +4349,7 @@
       "count": 55
     },
     {
-      "word": "haina",
+      "word": "mtaalamu",
       "count": 54
     },
     {
@@ -4370,10 +4358,6 @@
     },
     {
       "word": "chombo",
-      "count": 54
-    },
-    {
-      "word": "kuwepo",
       "count": 54
     },
     {
@@ -4393,15 +4377,19 @@
       "count": 54
     },
     {
-      "word": "kesi",
-      "count": 54
-    },
-    {
-      "word": "kijana",
-      "count": 54
-    },
-    {
       "word": "lao",
+      "count": 54
+    },
+    {
+      "word": "gharama",
+      "count": 54
+    },
+    {
+      "word": "baraza",
+      "count": 54
+    },
+    {
+      "word": "vyuo",
       "count": 54
     },
     {
@@ -4414,10 +4402,6 @@
     },
     {
       "word": "kule",
-      "count": 54
-    },
-    {
-      "word": "kumaliza",
       "count": 54
     },
     {
@@ -4449,19 +4433,11 @@
       "count": 54
     },
     {
-      "word": "kutafuta",
+      "word": "haina",
       "count": 53
     },
     {
-      "word": "mtaalamu",
-      "count": 53
-    },
-    {
-      "word": "vijiji",
-      "count": 53
-    },
-    {
-      "word": "leone",
+      "word": "kuonekana",
       "count": 53
     },
     {
@@ -4469,7 +4445,15 @@
       "count": 53
     },
     {
+      "word": "shamu",
+      "count": 53
+    },
+    {
       "word": "mashirika",
+      "count": 53
+    },
+    {
+      "word": "kesi",
       "count": 53
     },
     {
@@ -4478,6 +4462,10 @@
     },
     {
       "word": "shaka",
+      "count": 53
+    },
+    {
+      "word": "kijana",
       "count": 53
     },
     {
@@ -4497,6 +4485,10 @@
       "count": 53
     },
     {
+      "word": "mipango",
+      "count": 53
+    },
+    {
       "word": "malkia",
       "count": 53
     },
@@ -4505,19 +4497,11 @@
       "count": 53
     },
     {
-      "word": "alipokuwa",
-      "count": 53
-    },
-    {
       "word": "uvamizi",
       "count": 53
     },
     {
       "word": "huyu",
-      "count": 53
-    },
-    {
-      "word": "timu",
       "count": 53
     },
     {
@@ -4541,7 +4525,19 @@
       "count": 53
     },
     {
-      "word": "kuonekana",
+      "word": "kutafuta",
+      "count": 52
+    },
+    {
+      "word": "harakati",
+      "count": 52
+    },
+    {
+      "word": "vijiji",
+      "count": 52
+    },
+    {
+      "word": "leone",
       "count": 52
     },
     {
@@ -4557,10 +4553,6 @@
       "count": 52
     },
     {
-      "word": "wawili",
-      "count": 52
-    },
-    {
       "word": "kiyahudi",
       "count": 52
     },
@@ -4569,7 +4561,15 @@
       "count": 52
     },
     {
+      "word": "wikipedia",
+      "count": 52
+    },
+    {
       "word": "wagiriki",
+      "count": 52
+    },
+    {
+      "word": "alipokuwa",
       "count": 52
     },
     {
@@ -4585,6 +4585,10 @@
       "count": 52
     },
     {
+      "word": "kiini",
+      "count": 52
+    },
+    {
       "word": "wanaishi",
       "count": 52
     },
@@ -4597,15 +4601,7 @@
       "count": 52
     },
     {
-      "word": "harakati",
-      "count": 51
-    },
-    {
       "word": "libya",
-      "count": 51
-    },
-    {
-      "word": "shamu",
       "count": 51
     },
     {
@@ -4629,6 +4625,10 @@
       "count": 51
     },
     {
+      "word": "uchunguzi",
+      "count": 51
+    },
+    {
       "word": "kukubali",
       "count": 51
     },
@@ -4641,6 +4641,10 @@
       "count": 51
     },
     {
+      "word": "mwishoni",
+      "count": 51
+    },
+    {
       "word": "wewe",
       "count": 51
     },
@@ -4649,11 +4653,11 @@
       "count": 51
     },
     {
-      "word": "kiini",
+      "word": "zinazotumia",
       "count": 51
     },
     {
-      "word": "zinazotumia",
+      "word": "timu",
       "count": 51
     },
     {
@@ -4666,6 +4670,10 @@
     },
     {
       "word": "wazazi",
+      "count": 51
+    },
+    {
+      "word": "urais",
       "count": 51
     },
     {
@@ -4693,19 +4701,19 @@
       "count": 50
     },
     {
-      "word": "uchunguzi",
-      "count": 50
-    },
-    {
       "word": "soko",
       "count": 50
     },
     {
-      "word": "mashindano",
+      "word": "nishati",
       "count": 50
     },
     {
       "word": "ushindi",
+      "count": 50
+    },
+    {
+      "word": "pengine",
       "count": 50
     },
     {
@@ -4717,15 +4725,15 @@
       "count": 50
     },
     {
+      "word": "swahili",
+      "count": 50
+    },
+    {
       "word": "aliendelea",
       "count": 50
     },
     {
       "word": "alifanya",
-      "count": 50
-    },
-    {
-      "word": "mwishoni",
       "count": 50
     },
     {
@@ -4745,23 +4753,11 @@
       "count": 50
     },
     {
-      "word": "urais",
-      "count": 50
-    },
-    {
-      "word": "wabantu",
-      "count": 49
-    },
-    {
       "word": "d'ivoire",
       "count": 49
     },
     {
       "word": "karibi",
-      "count": 49
-    },
-    {
-      "word": "rahisi",
       "count": 49
     },
     {
@@ -4781,15 +4777,11 @@
       "count": 49
     },
     {
-      "word": "mawazo",
+      "word": "mashindano",
       "count": 49
     },
     {
       "word": "labda",
-      "count": 49
-    },
-    {
-      "word": "pengine",
       "count": 49
     },
     {
@@ -4817,10 +4809,6 @@
       "count": 49
     },
     {
-      "word": "mitandao",
-      "count": 49
-    },
-    {
       "word": "data",
       "count": 49
     },
@@ -4841,6 +4829,14 @@
       "count": 49
     },
     {
+      "word": "mabaki",
+      "count": 48
+    },
+    {
+      "word": "wabantu",
+      "count": 48
+    },
+    {
       "word": "faso",
       "count": 48
     },
@@ -4853,15 +4849,15 @@
       "count": 48
     },
     {
-      "word": "kusababisha",
-      "count": 48
-    },
-    {
       "word": "shida",
       "count": 48
     },
     {
-      "word": "viwango",
+      "word": "mawazo",
+      "count": 48
+    },
+    {
+      "word": "mwanga",
       "count": 48
     },
     {
@@ -4917,6 +4913,10 @@
       "count": 48
     },
     {
+      "word": "tamaduni",
+      "count": 47
+    },
+    {
       "word": "yanaweza",
       "count": 47
     },
@@ -4933,10 +4933,6 @@
       "count": 47
     },
     {
-      "word": "sierra",
-      "count": 47
-    },
-    {
       "word": "wahispania",
       "count": 47
     },
@@ -4946,6 +4942,10 @@
     },
     {
       "word": "upepo",
+      "count": 47
+    },
+    {
+      "word": "rahisi",
       "count": 47
     },
     {
@@ -4961,7 +4961,11 @@
       "count": 47
     },
     {
-      "word": "mwanga",
+      "word": "kusababisha",
+      "count": 47
+    },
+    {
+      "word": "viwango",
       "count": 47
     },
     {
@@ -4982,10 +4986,6 @@
     },
     {
       "word": "krapf",
-      "count": 47
-    },
-    {
-      "word": "simba",
       "count": 47
     },
     {
@@ -5013,6 +5013,10 @@
       "count": 47
     },
     {
+      "word": "mitandao",
+      "count": 47
+    },
+    {
       "word": "kupiga",
       "count": 47
     },
@@ -5025,6 +5029,10 @@
       "count": 47
     },
     {
+      "word": "iwapo",
+      "count": 47
+    },
+    {
       "word": "lindi",
       "count": 47
     },
@@ -5033,11 +5041,7 @@
       "count": 47
     },
     {
-      "word": "mabaki",
-      "count": 46
-    },
-    {
-      "word": "coast",
+      "word": "sierra",
       "count": 46
     },
     {
@@ -5053,15 +5057,11 @@
       "count": 46
     },
     {
-      "word": "nia",
+      "word": "iran",
       "count": 46
     },
     {
       "word": "wageni",
-      "count": 46
-    },
-    {
-      "word": "kusema",
       "count": 46
     },
     {
@@ -5077,15 +5077,11 @@
       "count": 46
     },
     {
-      "word": "kupunguza",
-      "count": 46
-    },
-    {
       "word": "wakubwa",
       "count": 46
     },
     {
-      "word": "redio",
+      "word": "mohamed",
       "count": 46
     },
     {
@@ -5125,7 +5121,7 @@
       "count": 46
     },
     {
-      "word": "tamaduni",
+      "word": "nyakati",
       "count": 45
     },
     {
@@ -5133,11 +5129,19 @@
       "count": 45
     },
     {
-      "word": "kinyume",
+      "word": "huohuo",
+      "count": 45
+    },
+    {
+      "word": "coast",
       "count": 45
     },
     {
       "word": "uhabeshi",
+      "count": 45
+    },
+    {
+      "word": "kusema",
       "count": 45
     },
     {
@@ -5161,6 +5165,10 @@
       "count": 45
     },
     {
+      "word": "lengo",
+      "count": 45
+    },
+    {
       "word": "taratibu",
       "count": 45
     },
@@ -5173,11 +5181,7 @@
       "count": 45
     },
     {
-      "word": "mohamed",
-      "count": 45
-    },
-    {
-      "word": "swahili",
+      "word": "redio",
       "count": 45
     },
     {
@@ -5190,10 +5194,6 @@
     },
     {
       "word": "shingo",
-      "count": 45
-    },
-    {
-      "word": "soka",
       "count": 45
     },
     {
@@ -5213,10 +5213,6 @@
       "count": 45
     },
     {
-      "word": "iwapo",
-      "count": 45
-    },
-    {
       "word": "frederick",
       "count": 45
     },
@@ -5225,11 +5221,7 @@
       "count": 45
     },
     {
-      "word": "nyakati",
-      "count": 44
-    },
-    {
-      "word": "huohuo",
+      "word": "kinyume",
       "count": 44
     },
     {
@@ -5249,15 +5241,19 @@
       "count": 44
     },
     {
-      "word": "city",
-      "count": 44
-    },
-    {
       "word": "kusudi",
       "count": 44
     },
     {
+      "word": "kupunguza",
+      "count": 44
+    },
+    {
       "word": "azimio",
+      "count": 44
+    },
+    {
+      "word": "kudhibiti",
       "count": 44
     },
     {
@@ -5266,10 +5262,6 @@
     },
     {
       "word": "ukiwa",
-      "count": 44
-    },
-    {
-      "word": "lengo",
       "count": 44
     },
     {
@@ -5309,11 +5301,11 @@
       "count": 44
     },
     {
-      "word": "enzi",
+      "word": "masi",
       "count": 44
     },
     {
-      "word": "masi",
+      "word": "soka",
       "count": 44
     },
     {
@@ -5345,7 +5337,7 @@
       "count": 43
     },
     {
-      "word": "buganda",
+      "word": "nia",
       "count": 43
     },
     {
@@ -5353,23 +5345,15 @@
       "count": 43
     },
     {
-      "word": "kodi",
-      "count": 43
-    },
-    {
-      "word": "mapato",
-      "count": 43
-    },
-    {
-      "word": "kudhibiti",
-      "count": 43
-    },
-    {
-      "word": "daraja",
+      "word": "city",
       "count": 43
     },
     {
       "word": "polepole",
+      "count": 43
+    },
+    {
+      "word": "simba",
       "count": 43
     },
     {
@@ -5381,11 +5365,15 @@
       "count": 43
     },
     {
-      "word": "great",
+      "word": "en",
       "count": 43
     },
     {
-      "word": "en",
+      "word": "enzi",
+      "count": 43
+    },
+    {
+      "word": "alichaguliwa",
       "count": 43
     },
     {
@@ -5403,6 +5391,10 @@
     {
       "word": "emberiza",
       "count": 43
+    },
+    {
+      "word": "buganda",
+      "count": 42
     },
     {
       "word": "tunisia",
@@ -5433,7 +5425,23 @@
       "count": 42
     },
     {
+      "word": "kodi",
+      "count": 42
+    },
+    {
+      "word": "mapato",
+      "count": 42
+    },
+    {
+      "word": "daraja",
+      "count": 42
+    },
+    {
       "word": "iliendelea",
+      "count": 42
+    },
+    {
+      "word": "alitumia",
       "count": 42
     },
     {
@@ -5457,15 +5465,15 @@
       "count": 42
     },
     {
+      "word": "great",
+      "count": 42
+    },
+    {
       "word": "oda",
       "count": 42
     },
     {
       "word": "union",
-      "count": 42
-    },
-    {
-      "word": "alichaguliwa",
       "count": 42
     },
     {
@@ -5505,15 +5513,15 @@
       "count": 42
     },
     {
+      "word": "kiroma",
+      "count": 41
+    },
+    {
       "word": "teolojia",
       "count": 41
     },
     {
       "word": "vyanzo",
-      "count": 41
-    },
-    {
-      "word": "kuunganisha",
       "count": 41
     },
     {
@@ -5529,6 +5537,10 @@
       "count": 41
     },
     {
+      "word": "kile",
+      "count": 41
+    },
+    {
       "word": "mkusanyiko",
       "count": 41
     },
@@ -5537,15 +5549,11 @@
       "count": 41
     },
     {
-      "word": "alitumia",
-      "count": 41
-    },
-    {
-      "word": "kikosi",
-      "count": 41
-    },
-    {
       "word": "british",
+      "count": 41
+    },
+    {
+      "word": "mtindo",
       "count": 41
     },
     {
@@ -5617,10 +5625,6 @@
       "count": 41
     },
     {
-      "word": "kiroma",
-      "count": 40
-    },
-    {
       "word": "kuitwa",
       "count": 40
     },
@@ -5630,10 +5634,6 @@
     },
     {
       "word": "kuundwa",
-      "count": 40
-    },
-    {
-      "word": "ishara",
       "count": 40
     },
     {
@@ -5657,11 +5657,15 @@
       "count": 40
     },
     {
+      "word": "nini",
+      "count": 40
+    },
+    {
       "word": "masuala",
       "count": 40
     },
     {
-      "word": "hati",
+      "word": "matatu",
       "count": 40
     },
     {
@@ -5669,11 +5673,11 @@
       "count": 40
     },
     {
-      "word": "kile",
+      "word": "mchezo",
       "count": 40
     },
     {
-      "word": "mchezo",
+      "word": "kuweka",
       "count": 40
     },
     {
@@ -5685,6 +5689,10 @@
       "count": 40
     },
     {
+      "word": "kikosi",
+      "count": 40
+    },
+    {
       "word": "ulio",
       "count": 40
     },
@@ -5693,15 +5701,7 @@
       "count": 40
     },
     {
-      "word": "mtindo",
-      "count": 40
-    },
-    {
       "word": "takribani",
-      "count": 40
-    },
-    {
-      "word": "watumiaji",
       "count": 40
     },
     {
@@ -5733,7 +5733,7 @@
       "count": 40
     },
     {
-      "word": "mbio",
+      "word": "mlipuko",
       "count": 40
     },
     {
@@ -5781,19 +5781,19 @@
       "count": 40
     },
     {
-      "word": "tatizo",
-      "count": 39
-    },
-    {
-      "word": "mafanikio",
-      "count": 39
-    },
-    {
       "word": "mayotte",
       "count": 39
     },
     {
       "word": "kiutamaduni",
+      "count": 39
+    },
+    {
+      "word": "kuunganisha",
+      "count": 39
+    },
+    {
+      "word": "ishara",
       "count": 39
     },
     {
@@ -5817,19 +5817,11 @@
       "count": 39
     },
     {
-      "word": "nini",
-      "count": 39
-    },
-    {
-      "word": "matatu",
-      "count": 39
-    },
-    {
       "word": "kushindwa",
       "count": 39
     },
     {
-      "word": "benki",
+      "word": "hati",
       "count": 39
     },
     {
@@ -5849,11 +5841,11 @@
       "count": 39
     },
     {
-      "word": "swala",
+      "word": "watumiaji",
       "count": 39
     },
     {
-      "word": "wasio",
+      "word": "swala",
       "count": 39
     },
     {
@@ -5873,11 +5865,11 @@
       "count": 39
     },
     {
-      "word": "ucb",
+      "word": "mbio",
       "count": 39
     },
     {
-      "word": "mlipuko",
+      "word": "ucb",
       "count": 39
     },
     {
@@ -5901,6 +5893,18 @@
       "count": 38
     },
     {
+      "word": "tatizo",
+      "count": 38
+    },
+    {
+      "word": "jukumu",
+      "count": 38
+    },
+    {
+      "word": "mafanikio",
+      "count": 38
+    },
+    {
       "word": "angalia",
       "count": 38
     },
@@ -5909,19 +5913,11 @@
       "count": 38
     },
     {
-      "word": "kujifunza",
-      "count": 38
-    },
-    {
       "word": "kufa",
       "count": 38
     },
     {
       "word": "republic",
-      "count": 38
-    },
-    {
-      "word": "iliyo",
       "count": 38
     },
     {
@@ -5937,7 +5933,7 @@
       "count": 38
     },
     {
-      "word": "kuweka",
+      "word": "benki",
       "count": 38
     },
     {
@@ -5977,7 +5973,7 @@
       "count": 38
     },
     {
-      "word": "ilivyo",
+      "word": "wasio",
       "count": 38
     },
     {
@@ -6021,10 +6017,6 @@
       "count": 38
     },
     {
-      "word": "jukumu",
-      "count": 37
-    },
-    {
       "word": "shahada",
       "count": 37
     },
@@ -6033,11 +6025,15 @@
       "count": 37
     },
     {
-      "word": "mauritania",
+      "word": "kutangaza",
       "count": 37
     },
     {
-      "word": "kirumi",
+      "word": "kujifunza",
+      "count": 37
+    },
+    {
+      "word": "mazungumzo",
       "count": 37
     },
     {
@@ -6050,6 +6046,10 @@
     },
     {
       "word": "kutekeleza",
+      "count": 37
+    },
+    {
+      "word": "iliyo",
       "count": 37
     },
     {
@@ -6082,6 +6082,10 @@
     },
     {
       "word": "bin",
+      "count": 37
+    },
+    {
+      "word": "ilivyo",
       "count": 37
     },
     {
@@ -6145,11 +6149,15 @@
       "count": 37
     },
     {
+      "word": "akiolojia",
+      "count": 36
+    },
+    {
       "word": "wokovu",
       "count": 36
     },
     {
-      "word": "kutangaza",
+      "word": "kuimarisha",
       "count": 36
     },
     {
@@ -6158,6 +6166,10 @@
     },
     {
       "word": "kusini-mashariki",
+      "count": 36
+    },
+    {
+      "word": "kirumi",
       "count": 36
     },
     {
@@ -6210,14 +6222,6 @@
     },
     {
       "word": "first",
-      "count": 36
-    },
-    {
-      "word": "article",
-      "count": 36
-    },
-    {
-      "word": "walimu",
       "count": 36
     },
     {
@@ -6345,23 +6349,15 @@
       "count": 36
     },
     {
+      "word": "wetu",
+      "count": 35
+    },
+    {
       "word": "maarifa",
       "count": 35
     },
     {
-      "word": "kuimarisha",
-      "count": 35
-    },
-    {
-      "word": "da",
-      "count": 35
-    },
-    {
-      "word": "iran",
-      "count": 35
-    },
-    {
-      "word": "mazungumzo",
+      "word": "mauritania",
       "count": 35
     },
     {
@@ -6402,10 +6398,6 @@
     },
     {
       "word": "misafara",
-      "count": 35
-    },
-    {
-      "word": "mapya",
       "count": 35
     },
     {
@@ -6477,19 +6469,15 @@
       "count": 35
     },
     {
-      "word": "wetu",
-      "count": 34
-    },
-    {
       "word": "utajiri",
       "count": 34
     },
     {
-      "word": "dahomey",
+      "word": "da",
       "count": 34
     },
     {
-      "word": "verde",
+      "word": "dahomey",
       "count": 34
     },
     {
@@ -6501,19 +6489,11 @@
       "count": 34
     },
     {
-      "word": "gari",
-      "count": 34
-    },
-    {
       "word": "tisa",
       "count": 34
     },
     {
       "word": "mapema",
-      "count": 34
-    },
-    {
-      "word": "suala",
       "count": 34
     },
     {
@@ -6525,11 +6505,23 @@
       "count": 34
     },
     {
+      "word": "article",
+      "count": 34
+    },
+    {
+      "word": "walimu",
+      "count": 34
+    },
+    {
       "word": "kupewa",
       "count": 34
     },
     {
       "word": "kucheza",
+      "count": 34
+    },
+    {
+      "word": "mapya",
       "count": 34
     },
     {
@@ -6609,6 +6601,10 @@
       "count": 34
     },
     {
+      "word": "uzalishaji",
+      "count": 34
+    },
+    {
       "word": "party",
       "count": 34
     },
@@ -6649,7 +6645,7 @@
       "count": 34
     },
     {
-      "word": "kuweza",
+      "word": "verde",
       "count": 33
     },
     {
@@ -6665,7 +6661,7 @@
       "count": 33
     },
     {
-      "word": "kubadilisha",
+      "word": "gari",
       "count": 33
     },
     {
@@ -6673,7 +6669,19 @@
       "count": 33
     },
     {
+      "word": "suala",
+      "count": 33
+    },
+    {
       "word": "mvulana",
+      "count": 33
+    },
+    {
+      "word": "uarabuni",
+      "count": 33
+    },
+    {
+      "word": "juhudi",
       "count": 33
     },
     {
@@ -6721,6 +6729,18 @@
       "count": 33
     },
     {
+      "word": "hufanya",
+      "count": 32
+    },
+    {
+      "word": "minne",
+      "count": 32
+    },
+    {
+      "word": "kuweza",
+      "count": 32
+    },
+    {
       "word": "huhesabiwa",
       "count": 32
     },
@@ -6733,11 +6753,15 @@
       "count": 32
     },
     {
-      "word": "alisema",
+      "word": "zinapatikana",
       "count": 32
     },
     {
-      "word": "zinapatikana",
+      "word": "mauaji",
+      "count": 32
+    },
+    {
+      "word": "kubadilisha",
       "count": 32
     },
     {
@@ -6770,10 +6794,6 @@
     },
     {
       "word": "wakimbizi",
-      "count": 32
-    },
-    {
-      "word": "juhudi",
       "count": 32
     },
     {
@@ -6825,11 +6845,11 @@
       "count": 32
     },
     {
-      "word": "inaanza",
+      "word": "mwenyekiti",
       "count": 32
     },
     {
-      "word": "uzalishaji",
+      "word": "inaanza",
       "count": 32
     },
     {
@@ -6849,6 +6869,10 @@
       "count": 32
     },
     {
+      "word": "mlango",
+      "count": 32
+    },
+    {
       "word": "klorini",
       "count": 32
     },
@@ -6865,23 +6889,15 @@
       "count": 32
     },
     {
-      "word": "minne",
+      "word": "ustaarabu",
       "count": 31
     },
     {
-      "word": "shelisheli",
-      "count": 31
-    },
-    {
-      "word": "inawezekana",
+      "word": "alisema",
       "count": 31
     },
     {
       "word": "adhabu",
-      "count": 31
-    },
-    {
-      "word": "toleo",
       "count": 31
     },
     {
@@ -6909,15 +6925,7 @@
       "count": 31
     },
     {
-      "word": "safi",
-      "count": 31
-    },
-    {
       "word": "kutunga",
-      "count": 31
-    },
-    {
-      "word": "uarabuni",
       "count": 31
     },
     {
@@ -6953,18 +6961,6 @@
       "count": 31
     },
     {
-      "word": "makadirio",
-      "count": 31
-    },
-    {
-      "word": "tabianchi",
-      "count": 31
-    },
-    {
-      "word": "ukuaji",
-      "count": 31
-    },
-    {
       "word": "kiume",
       "count": 31
     },
@@ -6993,10 +6989,6 @@
       "count": 31
     },
     {
-      "word": "mwenyekiti",
-      "count": 31
-    },
-    {
       "word": "uliokuwa",
       "count": 31
     },
@@ -7017,10 +7009,6 @@
       "count": 31
     },
     {
-      "word": "mlango",
-      "count": 31
-    },
-    {
       "word": "tana",
       "count": 31
     },
@@ -7037,11 +7025,7 @@
       "count": 31
     },
     {
-      "word": "akiolojia",
-      "count": 30
-    },
-    {
-      "word": "hufanya",
+      "word": "ushahidi",
       "count": 30
     },
     {
@@ -7049,11 +7033,19 @@
       "count": 30
     },
     {
-      "word": "ustaarabu",
+      "word": "shelisheli",
+      "count": 30
+    },
+    {
+      "word": "kizazi",
       "count": 30
     },
     {
       "word": "mpangilio",
+      "count": 30
+    },
+    {
+      "word": "huenda",
       "count": 30
     },
     {
@@ -7073,14 +7065,6 @@
       "count": 30
     },
     {
-      "word": "kusaidia",
-      "count": 30
-    },
-    {
-      "word": "halmashauri",
-      "count": 30
-    },
-    {
       "word": "kitendo",
       "count": 30
     },
@@ -7089,7 +7073,7 @@
       "count": 30
     },
     {
-      "word": "mauaji",
+      "word": "toleo",
       "count": 30
     },
     {
@@ -7098,10 +7082,6 @@
     },
     {
       "word": "vyao",
-      "count": 30
-    },
-    {
-      "word": "magari",
       "count": 30
     },
     {
@@ -7165,7 +7145,19 @@
       "count": 30
     },
     {
+      "word": "makadirio",
+      "count": 30
+    },
+    {
       "word": "ireland",
+      "count": 30
+    },
+    {
+      "word": "tabianchi",
+      "count": 30
+    },
+    {
+      "word": "ukuaji",
       "count": 30
     },
     {
@@ -7178,10 +7170,6 @@
     },
     {
       "word": "mavuno",
-      "count": 30
-    },
-    {
-      "word": "mwelekeo",
       "count": 30
     },
     {
@@ -7218,10 +7206,6 @@
     },
     {
       "word": "jean",
-      "count": 30
-    },
-    {
-      "word": "ngono",
       "count": 30
     },
     {
@@ -7269,19 +7253,7 @@
       "count": 29
     },
     {
-      "word": "iwe",
-      "count": 29
-    },
-    {
       "word": "sanifu",
-      "count": 29
-    },
-    {
-      "word": "kizazi",
-      "count": 29
-    },
-    {
-      "word": "kukuza",
       "count": 29
     },
     {
@@ -7293,7 +7265,11 @@
       "count": 29
     },
     {
-      "word": "huenda",
+      "word": "karibuni",
+      "count": 29
+    },
+    {
+      "word": "halmashauri",
       "count": 29
     },
     {
@@ -7301,7 +7277,7 @@
       "count": 29
     },
     {
-      "word": "ahadi",
+      "word": "magari",
       "count": 29
     },
     {
@@ -7314,6 +7290,10 @@
     },
     {
       "word": "kisovyeti",
+      "count": 29
+    },
+    {
+      "word": "safi",
       "count": 29
     },
     {
@@ -7409,6 +7389,10 @@
       "count": 29
     },
     {
+      "word": "mwelekeo",
+      "count": 29
+    },
+    {
       "word": "futures",
       "count": 29
     },
@@ -7426,6 +7410,10 @@
     },
     {
       "word": "pelé",
+      "count": 29
+    },
+    {
+      "word": "ngono",
       "count": 29
     },
     {
@@ -7489,14 +7477,6 @@
       "count": 28
     },
     {
-      "word": "ushahidi",
-      "count": 28
-    },
-    {
-      "word": "rhodesia",
-      "count": 28
-    },
-    {
       "word": "jibuti",
       "count": 28
     },
@@ -7513,11 +7493,23 @@
       "count": 28
     },
     {
+      "word": "pakistan",
+      "count": 28
+    },
+    {
+      "word": "iwe",
+      "count": 28
+    },
+    {
       "word": "maelfu",
       "count": 28
     },
     {
       "word": "kuwasiliana",
+      "count": 28
+    },
+    {
+      "word": "inawezekana",
       "count": 28
     },
     {
@@ -7537,7 +7529,7 @@
       "count": 28
     },
     {
-      "word": "karibuni",
+      "word": "kukuza",
       "count": 28
     },
     {
@@ -7565,11 +7557,15 @@
       "count": 28
     },
     {
-      "word": "hotuba",
+      "word": "wasiwasi",
       "count": 28
     },
     {
       "word": "mitano",
+      "count": 28
+    },
+    {
+      "word": "ronald",
       "count": 28
     },
     {
@@ -7589,15 +7585,7 @@
       "count": 28
     },
     {
-      "word": "mfanyabiashara",
-      "count": 28
-    },
-    {
       "word": "dogo",
-      "count": 28
-    },
-    {
-      "word": "mafuriko",
       "count": 28
     },
     {
@@ -7649,10 +7637,6 @@
       "count": 28
     },
     {
-      "word": "visiwani",
-      "count": 28
-    },
-    {
       "word": "tajiri",
       "count": 28
     },
@@ -7678,6 +7662,10 @@
     },
     {
       "word": "kahawa",
+      "count": 28
+    },
+    {
+      "word": "marais",
       "count": 28
     },
     {
@@ -7749,15 +7737,7 @@
       "count": 27
     },
     {
-      "word": "cameroon",
-      "count": 27
-    },
-    {
-      "word": "sao",
-      "count": 27
-    },
-    {
-      "word": "tome",
+      "word": "rhodesia",
       "count": 27
     },
     {
@@ -7793,6 +7773,10 @@
       "count": 27
     },
     {
+      "word": "kusaidia",
+      "count": 27
+    },
+    {
       "word": "inapatikana",
       "count": 27
     },
@@ -7809,7 +7793,7 @@
       "count": 27
     },
     {
-      "word": "ngumu",
+      "word": "ahadi",
       "count": 27
     },
     {
@@ -7817,19 +7801,11 @@
       "count": 27
     },
     {
-      "word": "wasiwasi",
-      "count": 27
-    },
-    {
-      "word": "wakuu",
-      "count": 27
-    },
-    {
       "word": "nguzo",
       "count": 27
     },
     {
-      "word": "ronald",
+      "word": "hotuba",
       "count": 27
     },
     {
@@ -7845,7 +7821,15 @@
       "count": 27
     },
     {
+      "word": "mfanyabiashara",
+      "count": 27
+    },
+    {
       "word": "mola",
+      "count": 27
+    },
+    {
+      "word": "mafuriko",
       "count": 27
     },
     {
@@ -7921,14 +7905,6 @@
       "count": 27
     },
     {
-      "word": "marais",
-      "count": 27
-    },
-    {
-      "word": "baraka",
-      "count": 27
-    },
-    {
       "word": "zawadi",
       "count": 27
     },
@@ -7993,6 +7969,10 @@
       "count": 26
     },
     {
+      "word": "cameroon",
+      "count": 26
+    },
+    {
       "word": "cote",
       "count": 26
     },
@@ -8001,7 +7981,11 @@
       "count": 26
     },
     {
-      "word": "free",
+      "word": "sao",
+      "count": 26
+    },
+    {
+      "word": "tome",
       "count": 26
     },
     {
@@ -8057,6 +8041,14 @@
       "count": 26
     },
     {
+      "word": "ngumu",
+      "count": 26
+    },
+    {
+      "word": "wakuu",
+      "count": 26
+    },
+    {
       "word": "yaliyokuwa",
       "count": 26
     },
@@ -8109,19 +8101,11 @@
       "count": 26
     },
     {
-      "word": "kushirikiana",
-      "count": 26
-    },
-    {
       "word": "waliingia",
       "count": 26
     },
     {
       "word": "linatokana",
-      "count": 26
-    },
-    {
-      "word": "maudhui",
       "count": 26
     },
     {
@@ -8134,6 +8118,10 @@
     },
     {
       "word": "upo",
+      "count": 26
+    },
+    {
+      "word": "visiwani",
       "count": 26
     },
     {
@@ -8197,10 +8185,6 @@
       "count": 26
     },
     {
-      "word": "wanamgambo",
-      "count": 26
-    },
-    {
       "word": "music",
       "count": 26
     },
@@ -8253,7 +8237,11 @@
       "count": 25
     },
     {
-      "word": "morocco",
+      "word": "iitwayo",
+      "count": 25
+    },
+    {
+      "word": "free",
       "count": 25
     },
     {
@@ -8266,14 +8254,6 @@
     },
     {
       "word": "guatemala",
-      "count": 25
-    },
-    {
-      "word": "kiesperanto",
-      "count": 25
-    },
-    {
-      "word": "vitendo",
       "count": 25
     },
     {
@@ -8290,6 +8270,10 @@
     },
     {
       "word": "kuuza",
+      "count": 25
+    },
+    {
+      "word": "jaribio",
       "count": 25
     },
     {
@@ -8361,11 +8345,15 @@
       "count": 25
     },
     {
-      "word": "bilioni",
+      "word": "mweupe",
       "count": 25
     },
     {
-      "word": "mweupe",
+      "word": "kushirikiana",
+      "count": 25
+    },
+    {
+      "word": "global",
       "count": 25
     },
     {
@@ -8381,7 +8369,15 @@
       "count": 25
     },
     {
+      "word": "tawala",
+      "count": 25
+    },
+    {
       "word": "wadudu",
+      "count": 25
+    },
+    {
+      "word": "vinaweza",
       "count": 25
     },
     {
@@ -8390,6 +8386,10 @@
     },
     {
       "word": "kuzaa",
+      "count": 25
+    },
+    {
+      "word": "maudhui",
       "count": 25
     },
     {
@@ -8402,10 +8402,6 @@
     },
     {
       "word": "hekima",
-      "count": 25
-    },
-    {
-      "word": "mwinyi",
       "count": 25
     },
     {
@@ -8425,10 +8421,6 @@
       "count": 25
     },
     {
-      "word": "matumaini",
-      "count": 25
-    },
-    {
       "word": "inaonyesha",
       "count": 25
     },
@@ -8437,11 +8429,19 @@
       "count": 25
     },
     {
+      "word": "vikosi",
+      "count": 25
+    },
+    {
       "word": "wafungwa",
       "count": 25
     },
     {
       "word": "human",
+      "count": 25
+    },
+    {
+      "word": "wanamgambo",
       "count": 25
     },
     {
@@ -8493,15 +8493,11 @@
       "count": 24
     },
     {
-      "word": "iitwayo",
+      "word": "ma",
       "count": 24
     },
     {
       "word": "kupigania",
-      "count": 24
-    },
-    {
-      "word": "pakistan",
       "count": 24
     },
     {
@@ -8530,10 +8526,6 @@
     },
     {
       "word": "salama",
-      "count": 24
-    },
-    {
-      "word": "jaribio",
       "count": 24
     },
     {
@@ -8601,6 +8593,10 @@
       "count": 24
     },
     {
+      "word": "bilioni",
+      "count": 24
+    },
+    {
       "word": "mateso",
       "count": 24
     },
@@ -8625,10 +8621,6 @@
       "count": 24
     },
     {
-      "word": "lewis",
-      "count": 24
-    },
-    {
       "word": "stephen",
       "count": 24
     },
@@ -8637,15 +8629,7 @@
       "count": 24
     },
     {
-      "word": "tawala",
-      "count": 24
-    },
-    {
       "word": "kupanuka",
-      "count": 24
-    },
-    {
-      "word": "vinaweza",
       "count": 24
     },
     {
@@ -8669,10 +8653,6 @@
       "count": 24
     },
     {
-      "word": "uzito",
-      "count": 24
-    },
-    {
       "word": "mtemi",
       "count": 24
     },
@@ -8686,6 +8666,14 @@
     },
     {
       "word": "samuel",
+      "count": 24
+    },
+    {
+      "word": "matumaini",
+      "count": 24
+    },
+    {
+      "word": "baraka",
       "count": 24
     },
     {
@@ -8718,10 +8706,6 @@
     },
     {
       "word": "per",
-      "count": 24
-    },
-    {
-      "word": "vikosi",
       "count": 24
     },
     {
@@ -8801,23 +8785,11 @@
       "count": 24
     },
     {
-      "word": "ma",
-      "count": 23
-    },
-    {
-      "word": "kukutana",
-      "count": 23
-    },
-    {
       "word": "maungano",
       "count": 23
     },
     {
       "word": "mshtarii",
-      "count": 23
-    },
-    {
-      "word": "ubora",
       "count": 23
     },
     {
@@ -8829,11 +8801,11 @@
       "count": 23
     },
     {
-      "word": "mada",
+      "word": "vitendo",
       "count": 23
     },
     {
-      "word": "kununua",
+      "word": "mada",
       "count": 23
     },
     {
@@ -8842,10 +8814,6 @@
     },
     {
       "word": "kushambulia",
-      "count": 23
-    },
-    {
-      "word": "kukataa",
       "count": 23
     },
     {
@@ -8890,6 +8858,10 @@
     },
     {
       "word": "miundo",
+      "count": 23
+    },
+    {
+      "word": "all",
       "count": 23
     },
     {
@@ -8945,15 +8917,15 @@
       "count": 23
     },
     {
-      "word": "global",
-      "count": 23
-    },
-    {
       "word": "literature",
       "count": 23
     },
     {
       "word": "historical",
+      "count": 23
+    },
+    {
+      "word": "lewis",
       "count": 23
     },
     {
@@ -8977,19 +8949,11 @@
       "count": 23
     },
     {
-      "word": "benjamin",
-      "count": 23
-    },
-    {
-      "word": "mkapa",
-      "count": 23
-    },
-    {
       "word": "zipo",
       "count": 23
     },
     {
-      "word": "sekta",
+      "word": "uzito",
       "count": 23
     },
     {
@@ -9081,15 +9045,19 @@
       "count": 23
     },
     {
-      "word": "gold",
+      "word": "maradhi",
+      "count": 22
+    },
+    {
+      "word": "kukutana",
+      "count": 22
+    },
+    {
+      "word": "morocco",
       "count": 22
     },
     {
       "word": "mi",
-      "count": 22
-    },
-    {
-      "word": "kutaka",
       "count": 22
     },
     {
@@ -9114,6 +9082,14 @@
     },
     {
       "word": "law",
+      "count": 22
+    },
+    {
+      "word": "kununua",
+      "count": 22
+    },
+    {
+      "word": "kukataa",
       "count": 22
     },
     {
@@ -9142,10 +9118,6 @@
     },
     {
       "word": "duni",
-      "count": 22
-    },
-    {
-      "word": "all",
       "count": 22
     },
     {
@@ -9217,10 +9189,6 @@
       "count": 22
     },
     {
-      "word": "nation",
-      "count": 22
-    },
-    {
       "word": "kiafrikaans",
       "count": 22
     },
@@ -9238,6 +9206,18 @@
     },
     {
       "word": "malipo",
+      "count": 22
+    },
+    {
+      "word": "mwinyi",
+      "count": 22
+    },
+    {
+      "word": "benjamin",
+      "count": 22
+    },
+    {
+      "word": "mkapa",
       "count": 22
     },
     {
@@ -9329,10 +9309,6 @@
       "count": 22
     },
     {
-      "word": "maswali",
-      "count": 22
-    },
-    {
       "word": "nyembamba",
       "count": 22
     },
@@ -9385,15 +9361,11 @@
       "count": 22
     },
     {
-      "word": "maradhi",
-      "count": 21
-    },
-    {
       "word": "kurasa",
       "count": 21
     },
     {
-      "word": "kuandikwa",
+      "word": "gold",
       "count": 21
     },
     {
@@ -9405,7 +9377,15 @@
       "count": 21
     },
     {
-      "word": "alitoa",
+      "word": "vipengele",
+      "count": 21
+    },
+    {
+      "word": "kiesperanto",
+      "count": 21
+    },
+    {
+      "word": "kutaka",
       "count": 21
     },
     {
@@ -9414,6 +9394,10 @@
     },
     {
       "word": "kubadilika",
+      "count": 21
+    },
+    {
+      "word": "zimekuwa",
       "count": 21
     },
     {
@@ -9429,19 +9413,15 @@
       "count": 21
     },
     {
-      "word": "mchango",
-      "count": 21
-    },
-    {
       "word": "uamuzi",
       "count": 21
     },
     {
-      "word": "kuamua",
+      "word": "gerezani",
       "count": 21
     },
     {
-      "word": "kulipa",
+      "word": "kuamua",
       "count": 21
     },
     {
@@ -9497,10 +9477,6 @@
       "count": 21
     },
     {
-      "word": "asubuhi",
-      "count": 21
-    },
-    {
       "word": "fumbo",
       "count": 21
     },
@@ -9510,10 +9486,6 @@
     },
     {
       "word": "uzima",
-      "count": 21
-    },
-    {
-      "word": "uzazi",
       "count": 21
     },
     {
@@ -9569,10 +9541,6 @@
       "count": 21
     },
     {
-      "word": "kufuatia",
-      "count": 21
-    },
-    {
       "word": "nasa",
       "count": 21
     },
@@ -9609,6 +9577,10 @@
       "count": 21
     },
     {
+      "word": "rekodi",
+      "count": 21
+    },
+    {
       "word": "réunion",
       "count": 21
     },
@@ -9618,10 +9590,6 @@
     },
     {
       "word": "japo",
-      "count": 21
-    },
-    {
-      "word": "don",
       "count": 21
     },
     {
@@ -9665,7 +9633,7 @@
       "count": 21
     },
     {
-      "word": "madarakani",
+      "word": "chadema",
       "count": 21
     },
     {
@@ -9709,7 +9677,7 @@
       "count": 21
     },
     {
-      "word": "dk",
+      "word": "maswali",
       "count": 21
     },
     {
@@ -9765,6 +9733,10 @@
       "count": 20
     },
     {
+      "word": "kuandikwa",
+      "count": 20
+    },
+    {
       "word": "waturuki",
       "count": 20
     },
@@ -9774,18 +9746,6 @@
     },
     {
       "word": "brazzaville",
-      "count": 20
-    },
-    {
-      "word": "principe",
-      "count": 20
-    },
-    {
-      "word": "kutatua",
-      "count": 20
-    },
-    {
-      "word": "vipengele",
       "count": 20
     },
     {
@@ -9809,7 +9769,7 @@
       "count": 20
     },
     {
-      "word": "us",
+      "word": "alitoa",
       "count": 20
     },
     {
@@ -9817,11 +9777,11 @@
       "count": 20
     },
     {
-      "word": "walau",
+      "word": "ubora",
       "count": 20
     },
     {
-      "word": "zimekuwa",
+      "word": "walau",
       "count": 20
     },
     {
@@ -9837,7 +9797,19 @@
       "count": 20
     },
     {
+      "word": "magumu",
+      "count": 20
+    },
+    {
       "word": "bidii",
+      "count": 20
+    },
+    {
+      "word": "swali",
+      "count": 20
+    },
+    {
+      "word": "kulipa",
       "count": 20
     },
     {
@@ -9913,6 +9885,10 @@
       "count": 20
     },
     {
+      "word": "asubuhi",
+      "count": 20
+    },
+    {
       "word": "jioni",
       "count": 20
     },
@@ -9929,7 +9905,7 @@
       "count": 20
     },
     {
-      "word": "maaskofu",
+      "word": "uzazi",
       "count": 20
     },
     {
@@ -9957,6 +9933,10 @@
       "count": 20
     },
     {
+      "word": "nation",
+      "count": 20
+    },
+    {
       "word": "gandunia",
       "count": 20
     },
@@ -9966,6 +9946,10 @@
     },
     {
       "word": "akarudi",
+      "count": 20
+    },
+    {
+      "word": "kufuatia",
       "count": 20
     },
     {
@@ -9981,15 +9965,15 @@
       "count": 20
     },
     {
+      "word": "sekta",
+      "count": 20
+    },
+    {
       "word": "kipya",
       "count": 20
     },
     {
       "word": "kikamilifu",
-      "count": 20
-    },
-    {
-      "word": "rekodi",
       "count": 20
     },
     {
@@ -10010,6 +9994,10 @@
     },
     {
       "word": "wakenya",
+      "count": 20
+    },
+    {
+      "word": "don",
       "count": 20
     },
     {
@@ -10049,6 +10037,10 @@
       "count": 20
     },
     {
+      "word": "madarakani",
+      "count": 20
+    },
+    {
       "word": "hidrojeni",
       "count": 20
     },
@@ -10066,10 +10058,6 @@
     },
     {
       "word": "kikomunisti",
-      "count": 20
-    },
-    {
-      "word": "anthony",
       "count": 20
     },
     {
@@ -10157,15 +10145,15 @@
       "count": 20
     },
     {
+      "word": "zilizopita",
+      "count": 19
+    },
+    {
       "word": "mengineyo",
       "count": 19
     },
     {
       "word": "hekaya",
-      "count": 19
-    },
-    {
-      "word": "alifika",
       "count": 19
     },
     {
@@ -10177,7 +10165,7 @@
       "count": 19
     },
     {
-      "word": "guinea-bissau",
+      "word": "principe",
       "count": 19
     },
     {
@@ -10197,7 +10185,7 @@
       "count": 19
     },
     {
-      "word": "machache",
+      "word": "us",
       "count": 19
     },
     {
@@ -10210,6 +10198,10 @@
     },
     {
       "word": "washington",
+      "count": 19
+    },
+    {
+      "word": "mchango",
       "count": 19
     },
     {
@@ -10238,10 +10230,6 @@
     },
     {
       "word": "manufaa",
-      "count": 19
-    },
-    {
-      "word": "gerezani",
       "count": 19
     },
     {
@@ -10274,6 +10262,18 @@
     },
     {
       "word": "sharia",
+      "count": 19
+    },
+    {
+      "word": "kusafiri",
+      "count": 19
+    },
+    {
+      "word": "xiv",
+      "count": 19
+    },
+    {
+      "word": "vurugu",
       "count": 19
     },
     {
@@ -10326,6 +10326,10 @@
     },
     {
       "word": "uwepo",
+      "count": 19
+    },
+    {
+      "word": "maaskofu",
       "count": 19
     },
     {
@@ -10493,15 +10497,15 @@
       "count": 19
     },
     {
+      "word": "people",
+      "count": 19
+    },
+    {
       "word": "pepe",
       "count": 19
     },
     {
       "word": "kadi",
-      "count": 19
-    },
-    {
-      "word": "risasi",
       "count": 19
     },
     {
@@ -10521,11 +10525,11 @@
       "count": 19
     },
     {
-      "word": "chadema",
+      "word": "alishindwa",
       "count": 19
     },
     {
-      "word": "alishindwa",
+      "word": "anthony",
       "count": 19
     },
     {
@@ -10617,6 +10621,14 @@
       "count": 18
     },
     {
+      "word": "majivu",
+      "count": 18
+    },
+    {
+      "word": "kutibu",
+      "count": 18
+    },
+    {
       "word": "wamisri",
       "count": 18
     },
@@ -10625,11 +10637,19 @@
       "count": 18
     },
     {
-      "word": "gama",
+      "word": "kugundua",
       "count": 18
     },
     {
-      "word": "mozambique",
+      "word": "alifika",
+      "count": 18
+    },
+    {
+      "word": "guinea-bissau",
+      "count": 18
+    },
+    {
+      "word": "kutatua",
       "count": 18
     },
     {
@@ -10642,6 +10662,10 @@
     },
     {
       "word": "kuba",
+      "count": 18
+    },
+    {
+      "word": "machache",
       "count": 18
     },
     {
@@ -10661,23 +10685,7 @@
       "count": 18
     },
     {
-      "word": "kuboresha",
-      "count": 18
-    },
-    {
-      "word": "swali",
-      "count": 18
-    },
-    {
       "word": "kutolewa",
-      "count": 18
-    },
-    {
-      "word": "uharibifu",
-      "count": 18
-    },
-    {
-      "word": "usimamizi",
       "count": 18
     },
     {
@@ -10697,19 +10705,11 @@
       "count": 18
     },
     {
-      "word": "hasara",
-      "count": 18
-    },
-    {
       "word": "alikubali",
       "count": 18
     },
     {
       "word": "uhamiaji",
-      "count": 18
-    },
-    {
-      "word": "ushawishi",
       "count": 18
     },
     {
@@ -10729,31 +10729,11 @@
       "count": 18
     },
     {
-      "word": "kusafiri",
-      "count": 18
-    },
-    {
-      "word": "xiv",
-      "count": 18
-    },
-    {
-      "word": "vurugu",
-      "count": 18
-    },
-    {
-      "word": "watumishi",
-      "count": 18
-    },
-    {
       "word": "mwao",
       "count": 18
     },
     {
       "word": "https",
-      "count": 18
-    },
-    {
-      "word": "kuchangia",
       "count": 18
     },
     {
@@ -10829,10 +10809,6 @@
       "count": 18
     },
     {
-      "word": "man",
-      "count": 18
-    },
-    {
       "word": "kandokando",
       "count": 18
     },
@@ -10865,6 +10841,10 @@
       "count": 18
     },
     {
+      "word": "majini",
+      "count": 18
+    },
+    {
       "word": "gimba",
       "count": 18
     },
@@ -10890,10 +10870,6 @@
     },
     {
       "word": "mijini",
-      "count": 18
-    },
-    {
-      "word": "kondoa",
       "count": 18
     },
     {
@@ -10961,10 +10937,6 @@
       "count": 18
     },
     {
-      "word": "jinsia",
-      "count": 18
-    },
-    {
       "word": "kanari",
       "count": 18
     },
@@ -11013,11 +10985,15 @@
       "count": 18
     },
     {
+      "word": "risasi",
+      "count": 18
+    },
+    {
       "word": "no",
       "count": 18
     },
     {
-      "word": "uhaba",
+      "word": "shinikizo",
       "count": 18
     },
     {
@@ -11161,31 +11137,19 @@
       "count": 18
     },
     {
-      "word": "zilizopita",
-      "count": 17
-    },
-    {
-      "word": "majivu",
-      "count": 17
-    },
-    {
       "word": "andishi",
       "count": 17
     },
     {
-      "word": "kugundua",
-      "count": 17
-    },
-    {
-      "word": "tumaini",
-      "count": 17
-    },
-    {
-      "word": "walitawala",
+      "word": "gama",
       "count": 17
     },
     {
       "word": "madagascar",
+      "count": 17
+    },
+    {
+      "word": "mozambique",
       "count": 17
     },
     {
@@ -11213,19 +11177,11 @@
       "count": 17
     },
     {
-      "word": "kuzalisha",
-      "count": 17
-    },
-    {
       "word": "zikiwa",
       "count": 17
     },
     {
       "word": "sa",
-      "count": 17
-    },
-    {
-      "word": "lebanon",
       "count": 17
     },
     {
@@ -11245,11 +11201,11 @@
       "count": 17
     },
     {
-      "word": "kikatiba",
+      "word": "kuboresha",
       "count": 17
     },
     {
-      "word": "magumu",
+      "word": "kikatiba",
       "count": 17
     },
     {
@@ -11269,11 +11225,23 @@
       "count": 17
     },
     {
+      "word": "uharibifu",
+      "count": 17
+    },
+    {
+      "word": "usimamizi",
+      "count": 17
+    },
+    {
       "word": "ikiwemo",
       "count": 17
     },
     {
       "word": "kuvunja",
+      "count": 17
+    },
+    {
+      "word": "hasara",
       "count": 17
     },
     {
@@ -11285,7 +11253,7 @@
       "count": 17
     },
     {
-      "word": "mazoezi",
+      "word": "ushawishi",
       "count": 17
     },
     {
@@ -11309,10 +11277,6 @@
       "count": 17
     },
     {
-      "word": "kauli",
-      "count": 17
-    },
-    {
       "word": "kipekee",
       "count": 17
     },
@@ -11321,7 +11285,15 @@
       "count": 17
     },
     {
+      "word": "kuchangia",
+      "count": 17
+    },
+    {
       "word": "hupewa",
+      "count": 17
+    },
+    {
+      "word": "languages",
       "count": 17
     },
     {
@@ -11389,10 +11361,6 @@
       "count": 17
     },
     {
-      "word": "kipaumbele",
-      "count": 17
-    },
-    {
       "word": "mapadri",
       "count": 17
     },
@@ -11446,10 +11414,6 @@
     },
     {
       "word": "ilijulikana",
-      "count": 17
-    },
-    {
-      "word": "majini",
       "count": 17
     },
     {
@@ -11513,7 +11477,15 @@
       "count": 17
     },
     {
+      "word": "kondoa",
+      "count": 17
+    },
+    {
       "word": "ngano",
+      "count": 17
+    },
+    {
+      "word": "kivita",
       "count": 17
     },
     {
@@ -11589,6 +11561,10 @@
       "count": 17
     },
     {
+      "word": "jinsia",
+      "count": 17
+    },
+    {
       "word": "maduka",
       "count": 17
     },
@@ -11629,15 +11605,11 @@
       "count": 17
     },
     {
-      "word": "people",
-      "count": 17
-    },
-    {
       "word": "dakika",
       "count": 17
     },
     {
-      "word": "shinikizo",
+      "word": "uhaba",
       "count": 17
     },
     {
@@ -11694,6 +11666,10 @@
     },
     {
       "word": "amezaliwa",
+      "count": 17
+    },
+    {
+      "word": "dk",
       "count": 17
     },
     {
@@ -11797,10 +11773,6 @@
       "count": 16
     },
     {
-      "word": "kutibu",
-      "count": 16
-    },
-    {
       "word": "wanahistoria",
       "count": 16
     },
@@ -11809,15 +11781,11 @@
       "count": 16
     },
     {
-      "word": "vasco",
+      "word": "tumaini",
       "count": 16
     },
     {
       "word": "oceania",
-      "count": 16
-    },
-    {
-      "word": "kirusi",
       "count": 16
     },
     {
@@ -11830,6 +11798,10 @@
     },
     {
       "word": "huanza",
+      "count": 16
+    },
+    {
+      "word": "lebanon",
       "count": 16
     },
     {
@@ -11885,6 +11857,10 @@
       "count": 16
     },
     {
+      "word": "mazoezi",
+      "count": 16
+    },
+    {
       "word": "giza",
       "count": 16
     },
@@ -11910,6 +11886,10 @@
     },
     {
       "word": "inaelekea",
+      "count": 16
+    },
+    {
+      "word": "watumishi",
       "count": 16
     },
     {
@@ -11941,10 +11921,6 @@
       "count": 16
     },
     {
-      "word": "mimba",
-      "count": 16
-    },
-    {
       "word": "kiajemi",
       "count": 16
     },
@@ -11969,10 +11945,6 @@
       "count": 16
     },
     {
-      "word": "udhaifu",
-      "count": 16
-    },
-    {
       "word": "kielelezo",
       "count": 16
     },
@@ -11982,6 +11954,10 @@
     },
     {
       "word": "aliyezaliwa",
+      "count": 16
+    },
+    {
+      "word": "kipaumbele",
       "count": 16
     },
     {
@@ -12045,10 +12021,6 @@
       "count": 16
     },
     {
-      "word": "ltd",
-      "count": 16
-    },
-    {
       "word": "tafiti",
       "count": 16
     },
@@ -12081,10 +12053,6 @@
       "count": 16
     },
     {
-      "word": "karume",
-      "count": 16
-    },
-    {
       "word": "hupata",
       "count": 16
     },
@@ -12105,7 +12073,7 @@
       "count": 16
     },
     {
-      "word": "wasanii",
+      "word": "wachezaji",
       "count": 16
     },
     {
@@ -12114,10 +12082,6 @@
     },
     {
       "word": "ligi",
-      "count": 16
-    },
-    {
-      "word": "kivita",
       "count": 16
     },
     {
@@ -12137,10 +12101,6 @@
       "count": 16
     },
     {
-      "word": "mbadala",
-      "count": 16
-    },
-    {
       "word": "wasafiri",
       "count": 16
     },
@@ -12150,6 +12110,10 @@
     },
     {
       "word": "ngome",
+      "count": 16
+    },
+    {
+      "word": "makubaliano",
       "count": 16
     },
     {
@@ -12229,10 +12193,6 @@
       "count": 16
     },
     {
-      "word": "wazalendo",
-      "count": 16
-    },
-    {
       "word": "msaidizi",
       "count": 16
     },
@@ -12294,14 +12254,6 @@
     },
     {
       "word": "yoshua",
-      "count": 16
-    },
-    {
-      "word": "daily",
-      "count": 16
-    },
-    {
-      "word": "ziara",
       "count": 16
     },
     {
@@ -12373,6 +12325,14 @@
       "count": 15
     },
     {
+      "word": "vasco",
+      "count": 15
+    },
+    {
+      "word": "walitawala",
+      "count": 15
+    },
+    {
       "word": "melilla",
       "count": 15
     },
@@ -12381,11 +12341,7 @@
       "count": 15
     },
     {
-      "word": "israel",
-      "count": 15
-    },
-    {
-      "word": "mizizi",
+      "word": "kirusi",
       "count": 15
     },
     {
@@ -12398,6 +12354,10 @@
     },
     {
       "word": "utata",
+      "count": 15
+    },
+    {
+      "word": "kuzalisha",
       "count": 15
     },
     {
@@ -12433,14 +12393,6 @@
       "count": 15
     },
     {
-      "word": "mahakamani",
-      "count": 15
-    },
-    {
-      "word": "kuwasaidia",
-      "count": 15
-    },
-    {
       "word": "kuruhusu",
       "count": 15
     },
@@ -12473,10 +12425,6 @@
       "count": 15
     },
     {
-      "word": "watano",
-      "count": 15
-    },
-    {
       "word": "anglikana",
       "count": 15
     },
@@ -12485,7 +12433,15 @@
       "count": 15
     },
     {
+      "word": "kauli",
+      "count": 15
+    },
+    {
       "word": "zikiwemo",
+      "count": 15
+    },
+    {
+      "word": "kuwekwa",
       "count": 15
     },
     {
@@ -12506,10 +12462,6 @@
     },
     {
       "word": "kupitisha",
-      "count": 15
-    },
-    {
-      "word": "mtendaji",
       "count": 15
     },
     {
@@ -12541,7 +12493,7 @@
       "count": 15
     },
     {
-      "word": "languages",
+      "word": "mimba",
       "count": 15
     },
     {
@@ -12625,10 +12577,6 @@
       "count": 15
     },
     {
-      "word": "england",
-      "count": 15
-    },
-    {
       "word": "wright",
       "count": 15
     },
@@ -12637,15 +12585,11 @@
       "count": 15
     },
     {
-      "word": "co",
+      "word": "man",
       "count": 15
     },
     {
       "word": "series",
-      "count": 15
-    },
-    {
-      "word": "wapya",
       "count": 15
     },
     {
@@ -12657,7 +12601,7 @@
       "count": 15
     },
     {
-      "word": "kuolewa",
+      "word": "ltd",
       "count": 15
     },
     {
@@ -12681,7 +12625,15 @@
       "count": 15
     },
     {
+      "word": "mwenyeji",
+      "count": 15
+    },
+    {
       "word": "masultani",
+      "count": 15
+    },
+    {
+      "word": "karume",
       "count": 15
     },
     {
@@ -12690,10 +12642,6 @@
     },
     {
       "word": "huaminiwa",
-      "count": 15
-    },
-    {
-      "word": "ajali",
       "count": 15
     },
     {
@@ -12713,11 +12661,11 @@
       "count": 15
     },
     {
-      "word": "inakadiriwa",
+      "word": "wasanii",
       "count": 15
     },
     {
-      "word": "je",
+      "word": "inakadiriwa",
       "count": 15
     },
     {
@@ -12753,19 +12701,11 @@
       "count": 15
     },
     {
-      "word": "makubaliano",
-      "count": 15
-    },
-    {
       "word": "aliteuliwa",
       "count": 15
     },
     {
       "word": "maandamano",
-      "count": 15
-    },
-    {
-      "word": "bungeni",
       "count": 15
     },
     {
@@ -12794,6 +12734,10 @@
     },
     {
       "word": "sekunde",
+      "count": 15
+    },
+    {
+      "word": "maiti",
       "count": 15
     },
     {
@@ -12830,6 +12774,10 @@
     },
     {
       "word": "mwinuko",
+      "count": 15
+    },
+    {
+      "word": "wazalendo",
       "count": 15
     },
     {
@@ -12954,6 +12902,14 @@
     },
     {
       "word": "mifereji",
+      "count": 15
+    },
+    {
+      "word": "daily",
+      "count": 15
+    },
+    {
+      "word": "ziara",
       "count": 15
     },
     {
@@ -13129,7 +13085,7 @@
       "count": 14
     },
     {
-      "word": "aidha",
+      "word": "wagonjwa",
       "count": 14
     },
     {
@@ -13157,15 +13113,11 @@
       "count": 14
     },
     {
-      "word": "kupangwa",
+      "word": "israel",
       "count": 14
     },
     {
-      "word": "inayozungumzwa",
-      "count": 14
-    },
-    {
-      "word": "myahudi",
+      "word": "mizizi",
       "count": 14
     },
     {
@@ -13205,7 +13157,11 @@
       "count": 14
     },
     {
-      "word": "rufaa",
+      "word": "mahakamani",
+      "count": 14
+    },
+    {
+      "word": "kuwasaidia",
       "count": 14
     },
     {
@@ -13225,6 +13181,10 @@
       "count": 14
     },
     {
+      "word": "watano",
+      "count": 14
+    },
+    {
       "word": "haukuwa",
       "count": 14
     },
@@ -13234,10 +13194,6 @@
     },
     {
       "word": "ilipungua",
-      "count": 14
-    },
-    {
-      "word": "kuwekwa",
       "count": 14
     },
     {
@@ -13298,6 +13254,10 @@
     },
     {
       "word": "writings",
+      "count": 14
+    },
+    {
+      "word": "its",
       "count": 14
     },
     {
@@ -13369,6 +13329,10 @@
       "count": 14
     },
     {
+      "word": "udhaifu",
+      "count": 14
+    },
+    {
       "word": "ufufuko",
       "count": 14
     },
@@ -13390,10 +13354,6 @@
     },
     {
       "word": "nyaraka",
-      "count": 14
-    },
-    {
-      "word": "njema",
       "count": 14
     },
     {
@@ -13425,7 +13385,7 @@
       "count": 14
     },
     {
-      "word": "robinson",
+      "word": "england",
       "count": 14
     },
     {
@@ -13437,7 +13397,15 @@
       "count": 14
     },
     {
+      "word": "co",
+      "count": 14
+    },
+    {
       "word": "waliteka",
+      "count": 14
+    },
+    {
+      "word": "wapya",
       "count": 14
     },
     {
@@ -13501,6 +13469,10 @@
       "count": 14
     },
     {
+      "word": "kuolewa",
+      "count": 14
+    },
+    {
       "word": "nyuklia",
       "count": 14
     },
@@ -13533,19 +13505,11 @@
       "count": 14
     },
     {
-      "word": "mwenyeji",
-      "count": 14
-    },
-    {
       "word": "masika",
       "count": 14
     },
     {
-      "word": "mageuzi",
-      "count": 14
-    },
-    {
-      "word": "wachezaji",
+      "word": "ajali",
       "count": 14
     },
     {
@@ -13558,6 +13522,14 @@
     },
     {
       "word": "kieneo",
+      "count": 14
+    },
+    {
+      "word": "je",
+      "count": 14
+    },
+    {
+      "word": "chumba",
       "count": 14
     },
     {
@@ -13633,10 +13605,6 @@
       "count": 14
     },
     {
-      "word": "mkurugenzi",
-      "count": 14
-    },
-    {
       "word": "ashanti",
       "count": 14
     },
@@ -13681,15 +13649,7 @@
       "count": 14
     },
     {
-      "word": "ukerewe",
-      "count": 14
-    },
-    {
       "word": "published",
-      "count": 14
-    },
-    {
-      "word": "hiv",
       "count": 14
     },
     {
@@ -13714,6 +13674,10 @@
     },
     {
       "word": "allan",
+      "count": 14
+    },
+    {
+      "word": "kuanguka",
       "count": 14
     },
     {
@@ -13742,10 +13706,6 @@
     },
     {
       "word": "lambo",
-      "count": 14
-    },
-    {
-      "word": "malezi",
       "count": 14
     },
     {
@@ -13853,7 +13813,15 @@
       "count": 14
     },
     {
+      "word": "rubani",
+      "count": 14
+    },
+    {
       "word": "kiyunani",
+      "count": 13
+    },
+    {
+      "word": "kuchimba",
       "count": 13
     },
     {
@@ -13861,7 +13829,7 @@
       "count": 13
     },
     {
-      "word": "wagonjwa",
+      "word": "mgonjwa",
       "count": 13
     },
     {
@@ -13870,6 +13838,14 @@
     },
     {
       "word": "tunis",
+      "count": 13
+    },
+    {
+      "word": "ziliweza",
+      "count": 13
+    },
+    {
+      "word": "aidha",
       "count": 13
     },
     {
@@ -13882,6 +13858,18 @@
     },
     {
       "word": "sri",
+      "count": 13
+    },
+    {
+      "word": "oman",
+      "count": 13
+    },
+    {
+      "word": "inayozungumzwa",
+      "count": 13
+    },
+    {
+      "word": "myahudi",
       "count": 13
     },
     {
@@ -13997,11 +13985,11 @@
       "count": 13
     },
     {
-      "word": "jibu",
+      "word": "rufaa",
       "count": 13
     },
     {
-      "word": "umiliki",
+      "word": "jibu",
       "count": 13
     },
     {
@@ -14030,6 +14018,10 @@
     },
     {
       "word": "mwingiliano",
+      "count": 13
+    },
+    {
+      "word": "mtendaji",
       "count": 13
     },
     {
@@ -14066,10 +14058,6 @@
     },
     {
       "word": "atlas",
-      "count": 13
-    },
-    {
-      "word": "its",
       "count": 13
     },
     {
@@ -14126,6 +14114,10 @@
     },
     {
       "word": "kuiga",
+      "count": 13
+    },
+    {
+      "word": "njema",
       "count": 13
     },
     {
@@ -14190,10 +14182,6 @@
     },
     {
       "word": "sanamu",
-      "count": 13
-    },
-    {
-      "word": "utotoni",
       "count": 13
     },
     {
@@ -14297,10 +14285,6 @@
       "count": 13
     },
     {
-      "word": "chumba",
-      "count": 13
-    },
-    {
       "word": "tani",
       "count": 13
     },
@@ -14313,11 +14297,23 @@
       "count": 13
     },
     {
+      "word": "mbadala",
+      "count": 13
+    },
+    {
       "word": "unyevu",
       "count": 13
     },
     {
       "word": "imepungua",
+      "count": 13
+    },
+    {
+      "word": "mzozo",
+      "count": 13
+    },
+    {
+      "word": "bungeni",
       "count": 13
     },
     {
@@ -14333,15 +14329,7 @@
       "count": 13
     },
     {
-      "word": "maiti",
-      "count": 13
-    },
-    {
       "word": "bunduki",
-      "count": 13
-    },
-    {
-      "word": "wasichana",
       "count": 13
     },
     {
@@ -14405,10 +14393,6 @@
       "count": 13
     },
     {
-      "word": "pole",
-      "count": 13
-    },
-    {
       "word": "hoteli",
       "count": 13
     },
@@ -14422,6 +14406,10 @@
     },
     {
       "word": "shambani",
+      "count": 13
+    },
+    {
+      "word": "mkurugenzi",
       "count": 13
     },
     {
@@ -14497,6 +14485,14 @@
       "count": 13
     },
     {
+      "word": "ukerewe",
+      "count": 13
+    },
+    {
+      "word": "hiv",
+      "count": 13
+    },
+    {
       "word": "saratani",
       "count": 13
     },
@@ -14553,10 +14549,6 @@
       "count": 13
     },
     {
-      "word": "kuanguka",
-      "count": 13
-    },
-    {
       "word": "ref",
       "count": 13
     },
@@ -14578,6 +14570,10 @@
     },
     {
       "word": "kim",
+      "count": 13
+    },
+    {
+      "word": "munich",
       "count": 13
     },
     {
@@ -14618,6 +14614,10 @@
     },
     {
       "word": "venus",
+      "count": 13
+    },
+    {
+      "word": "malezi",
       "count": 13
     },
     {
@@ -14737,18 +14737,6 @@
       "count": 13
     },
     {
-      "word": "kuchimba",
-      "count": 12
-    },
-    {
-      "word": "mgonjwa",
-      "count": 12
-    },
-    {
-      "word": "ziliweza",
-      "count": 12
-    },
-    {
       "word": "reunion",
       "count": 12
     },
@@ -14761,6 +14749,10 @@
       "count": 12
     },
     {
+      "word": "kupangwa",
+      "count": 12
+    },
+    {
       "word": "popote",
       "count": 12
     },
@@ -14770,6 +14762,10 @@
     },
     {
       "word": "glottolog",
+      "count": 12
+    },
+    {
+      "word": "matakwa",
       "count": 12
     },
     {
@@ -14822,6 +14818,10 @@
     },
     {
       "word": "ulisababisha",
+      "count": 12
+    },
+    {
+      "word": "dhaifu",
       "count": 12
     },
     {
@@ -14957,6 +14957,10 @@
       "count": 12
     },
     {
+      "word": "kufuta",
+      "count": 12
+    },
+    {
       "word": "mtiririko",
       "count": 12
     },
@@ -14966,6 +14970,10 @@
     },
     {
       "word": "holy",
+      "count": 12
+    },
+    {
+      "word": "robinson",
       "count": 12
     },
     {
@@ -15018,6 +15026,10 @@
     },
     {
       "word": "abdul",
+      "count": 12
+    },
+    {
+      "word": "utotoni",
       "count": 12
     },
     {
@@ -15141,6 +15153,10 @@
       "count": 12
     },
     {
+      "word": "wanaendelea",
+      "count": 12
+    },
+    {
       "word": "kubuni",
       "count": 12
     },
@@ -15165,10 +15181,6 @@
       "count": 12
     },
     {
-      "word": "usafirishaji",
-      "count": 12
-    },
-    {
       "word": "mazishi",
       "count": 12
     },
@@ -15178,6 +15190,10 @@
     },
     {
       "word": "paa",
+      "count": 12
+    },
+    {
+      "word": "wasichana",
       "count": 12
     },
     {
@@ -15221,7 +15237,15 @@
       "count": 12
     },
     {
+      "word": "pole",
+      "count": 12
+    },
+    {
       "word": "kuhusiana",
+      "count": 12
+    },
+    {
+      "word": "jumbe",
       "count": 12
     },
     {
@@ -15266,10 +15290,6 @@
     },
     {
       "word": "agency",
-      "count": 12
-    },
-    {
-      "word": "yakiwemo",
       "count": 12
     },
     {
@@ -15413,10 +15433,6 @@
       "count": 12
     },
     {
-      "word": "hall",
-      "count": 12
-    },
-    {
       "word": "koikoi",
       "count": 12
     },
@@ -15426,10 +15442,6 @@
     },
     {
       "word": "heart",
-      "count": 12
-    },
-    {
-      "word": "munich",
       "count": 12
     },
     {
@@ -15521,6 +15533,10 @@
       "count": 12
     },
     {
+      "word": "harry",
+      "count": 12
+    },
+    {
       "word": "standard",
       "count": 12
     },
@@ -15534,6 +15550,10 @@
     },
     {
       "word": "ralph",
+      "count": 12
+    },
+    {
+      "word": "jimmy",
       "count": 12
     },
     {
@@ -15685,15 +15705,15 @@
       "count": 12
     },
     {
-      "word": "rubani",
-      "count": 12
-    },
-    {
-      "word": "utawa",
+      "word": "anaitwa",
       "count": 11
     },
     {
-      "word": "nyepesi",
+      "word": "mapigo",
+      "count": 11
+    },
+    {
+      "word": "utawa",
       "count": 11
     },
     {
@@ -15717,10 +15737,6 @@
       "count": 11
     },
     {
-      "word": "oman",
-      "count": 11
-    },
-    {
       "word": "yemen",
       "count": 11
     },
@@ -15733,15 +15749,7 @@
       "count": 11
     },
     {
-      "word": "saidizi",
-      "count": 11
-    },
-    {
       "word": "kinaweza",
-      "count": 11
-    },
-    {
-      "word": "matakwa",
       "count": 11
     },
     {
@@ -15793,19 +15801,11 @@
       "count": 11
     },
     {
-      "word": "kifedha",
-      "count": 11
-    },
-    {
       "word": "inatoa",
       "count": 11
     },
     {
       "word": "hakukuwa",
-      "count": 11
-    },
-    {
-      "word": "hakimu",
       "count": 11
     },
     {
@@ -15821,10 +15821,6 @@
       "count": 11
     },
     {
-      "word": "soma",
-      "count": 11
-    },
-    {
       "word": "inamaanisha",
       "count": 11
     },
@@ -15834,6 +15830,10 @@
     },
     {
       "word": "majeraha",
+      "count": 11
+    },
+    {
+      "word": "umiliki",
       "count": 11
     },
     {
@@ -15865,10 +15865,6 @@
       "count": 11
     },
     {
-      "word": "dhaifu",
-      "count": 11
-    },
-    {
       "word": "kufunza",
       "count": 11
     },
@@ -15890,10 +15886,6 @@
     },
     {
       "word": "kilicho",
-      "count": 11
-    },
-    {
-      "word": "kusimamia",
       "count": 11
     },
     {
@@ -16045,10 +16037,6 @@
       "count": 11
     },
     {
-      "word": "mwandamizi",
-      "count": 11
-    },
-    {
       "word": "waliowahi",
       "count": 11
     },
@@ -16062,10 +16050,6 @@
     },
     {
       "word": "kurudia",
-      "count": 11
-    },
-    {
-      "word": "kufuta",
       "count": 11
     },
     {
@@ -16121,6 +16105,10 @@
       "count": 11
     },
     {
+      "word": "service",
+      "count": 11
+    },
+    {
       "word": "kahawia",
       "count": 11
     },
@@ -16134,6 +16122,10 @@
     },
     {
       "word": "wanaastronomia",
+      "count": 11
+    },
+    {
+      "word": "mvutano",
       "count": 11
     },
     {
@@ -16190,6 +16182,10 @@
     },
     {
       "word": "flava",
+      "count": 11
+    },
+    {
+      "word": "mageuzi",
       "count": 11
     },
     {
@@ -16257,10 +16253,6 @@
       "count": 11
     },
     {
-      "word": "mzozo",
-      "count": 11
-    },
-    {
       "word": "aliyechaguliwa",
       "count": 11
     },
@@ -16285,7 +16277,7 @@
       "count": 11
     },
     {
-      "word": "wanaendelea",
+      "word": "matarajio",
       "count": 11
     },
     {
@@ -16306,6 +16298,10 @@
     },
     {
       "word": "zur",
+      "count": 11
+    },
+    {
+      "word": "usafirishaji",
       "count": 11
     },
     {
@@ -16389,11 +16385,11 @@
       "count": 11
     },
     {
-      "word": "jumbe",
+      "word": "wanablogu",
       "count": 11
     },
     {
-      "word": "wanablogu",
+      "word": "jitu",
       "count": 11
     },
     {
@@ -16425,11 +16421,19 @@
       "count": 11
     },
     {
+      "word": "manchester",
+      "count": 11
+    },
+    {
       "word": "kugombea",
       "count": 11
     },
     {
       "word": "political",
+      "count": 11
+    },
+    {
+      "word": "yakiwemo",
       "count": 11
     },
     {
@@ -16449,10 +16453,6 @@
       "count": 11
     },
     {
-      "word": "journey",
-      "count": 11
-    },
-    {
       "word": "kukamata",
       "count": 11
     },
@@ -16461,11 +16461,19 @@
       "count": 11
     },
     {
+      "word": "misheni",
+      "count": 11
+    },
+    {
       "word": "igor",
       "count": 11
     },
     {
       "word": "marcel",
+      "count": 11
+    },
+    {
+      "word": "bill",
       "count": 11
     },
     {
@@ -16561,11 +16569,11 @@
       "count": 11
     },
     {
-      "word": "gazella",
+      "word": "hall",
       "count": 11
     },
     {
-      "word": "full",
+      "word": "gazella",
       "count": 11
     },
     {
@@ -16633,6 +16641,10 @@
       "count": 11
     },
     {
+      "word": "mwezini",
+      "count": 11
+    },
+    {
       "word": "waliondoka",
       "count": 11
     },
@@ -16649,15 +16661,7 @@
       "count": 11
     },
     {
-      "word": "harry",
-      "count": 11
-    },
-    {
       "word": "mahuluku",
-      "count": 11
-    },
-    {
-      "word": "jimmy",
       "count": 11
     },
     {
@@ -16797,15 +16801,11 @@
       "count": 10
     },
     {
+      "word": "kuta",
+      "count": 10
+    },
+    {
       "word": "web",
-      "count": 10
-    },
-    {
-      "word": "anaitwa",
-      "count": 10
-    },
-    {
-      "word": "mapigo",
       "count": 10
     },
     {
@@ -16821,11 +16821,11 @@
       "count": 10
     },
     {
-      "word": "nyasaland",
+      "word": "warumi",
       "count": 10
     },
     {
-      "word": "ikapata",
+      "word": "nyepesi",
       "count": 10
     },
     {
@@ -16857,15 +16857,11 @@
       "count": 10
     },
     {
-      "word": "wanataka",
+      "word": "saidizi",
       "count": 10
     },
     {
       "word": "kitaalamu",
-      "count": 10
-    },
-    {
-      "word": "inayoonyesha",
       "count": 10
     },
     {
@@ -16933,10 +16929,6 @@
       "count": 10
     },
     {
-      "word": "mitazamo",
-      "count": 10
-    },
-    {
       "word": "dutu",
       "count": 10
     },
@@ -16961,15 +16953,15 @@
       "count": 10
     },
     {
-      "word": "uwekezaji",
-      "count": 10
-    },
-    {
       "word": "france",
       "count": 10
     },
     {
       "word": "barabarani",
+      "count": 10
+    },
+    {
+      "word": "hakimu",
       "count": 10
     },
     {
@@ -16982,6 +16974,10 @@
     },
     {
       "word": "ilitangaza",
+      "count": 10
+    },
+    {
+      "word": "soma",
       "count": 10
     },
     {
@@ -17037,6 +17033,10 @@
       "count": 10
     },
     {
+      "word": "miongo",
+      "count": 10
+    },
+    {
       "word": "iliundwa",
       "count": 10
     },
@@ -17065,15 +17065,15 @@
       "count": 10
     },
     {
+      "word": "kusimamia",
+      "count": 10
+    },
+    {
       "word": "mzigo",
       "count": 10
     },
     {
       "word": "brazili",
-      "count": 10
-    },
-    {
-      "word": "kupindua",
       "count": 10
     },
     {
@@ -17089,7 +17089,7 @@
       "count": 10
     },
     {
-      "word": "sw",
+      "word": "majibu",
       "count": 10
     },
     {
@@ -17122,10 +17122,6 @@
     },
     {
       "word": "mabasi",
-      "count": 10
-    },
-    {
-      "word": "kuamini",
       "count": 10
     },
     {
@@ -17237,6 +17233,10 @@
       "count": 10
     },
     {
+      "word": "mwandamizi",
+      "count": 10
+    },
+    {
       "word": "mema",
       "count": 10
     },
@@ -17297,10 +17297,6 @@
       "count": 10
     },
     {
-      "word": "service",
-      "count": 10
-    },
-    {
       "word": "huliwa",
       "count": 10
     },
@@ -17334,10 +17330,6 @@
     },
     {
       "word": "maumbo",
-      "count": 10
-    },
-    {
-      "word": "mvutano",
       "count": 10
     },
     {
@@ -17461,6 +17453,10 @@
       "count": 10
     },
     {
+      "word": "oparesheni",
+      "count": 10
+    },
+    {
       "word": "winston",
       "count": 10
     },
@@ -17494,10 +17490,6 @@
     },
     {
       "word": "mtihani",
-      "count": 10
-    },
-    {
-      "word": "matarajio",
       "count": 10
     },
     {
@@ -17537,10 +17529,6 @@
       "count": 10
     },
     {
-      "word": "huonekana",
-      "count": 10
-    },
-    {
       "word": "tohara",
       "count": 10
     },
@@ -17565,7 +17553,7 @@
       "count": 10
     },
     {
-      "word": "kujitolea",
+      "word": "utunzaji",
       "count": 10
     },
     {
@@ -17633,10 +17621,6 @@
       "count": 10
     },
     {
-      "word": "jitu",
-      "count": 10
-    },
-    {
       "word": "kinyuklia",
       "count": 10
     },
@@ -17681,7 +17665,15 @@
       "count": 10
     },
     {
+      "word": "organisation",
+      "count": 10
+    },
+    {
       "word": "kupinduliwa",
+      "count": 10
+    },
+    {
+      "word": "independent",
       "count": 10
     },
     {
@@ -17745,6 +17737,10 @@
       "count": 10
     },
     {
+      "word": "journey",
+      "count": 10
+    },
+    {
       "word": "waosmani",
       "count": 10
     },
@@ -17770,10 +17766,6 @@
     },
     {
       "word": "alipinduliwa",
-      "count": 10
-    },
-    {
-      "word": "bill",
       "count": 10
     },
     {
@@ -17806,6 +17798,10 @@
     },
     {
       "word": "jerome",
+      "count": 10
+    },
+    {
+      "word": "kizuizi",
       "count": 10
     },
     {
@@ -17925,14 +17921,6 @@
       "count": 10
     },
     {
-      "word": "korogwe",
-      "count": 10
-    },
-    {
-      "word": "mechi",
-      "count": 10
-    },
-    {
       "word": "yugoslavia",
       "count": 10
     },
@@ -17942,10 +17930,6 @@
     },
     {
       "word": "long",
-      "count": 10
-    },
-    {
-      "word": "end",
       "count": 10
     },
     {
@@ -17974,10 +17958,6 @@
     },
     {
       "word": "watongwe",
-      "count": 10
-    },
-    {
-      "word": "your",
       "count": 10
     },
     {
@@ -18217,10 +18197,6 @@
       "count": 9
     },
     {
-      "word": "kuta",
-      "count": 9
-    },
-    {
       "word": "aliyepata",
       "count": 9
     },
@@ -18229,15 +18205,15 @@
       "count": 9
     },
     {
-      "word": "warumi",
-      "count": 9
-    },
-    {
       "word": "zilitawaliwa",
       "count": 9
     },
     {
-      "word": "orange",
+      "word": "nyasaland",
+      "count": 9
+    },
+    {
+      "word": "ikapata",
       "count": 9
     },
     {
@@ -18253,15 +18229,15 @@
       "count": 9
     },
     {
-      "word": "wanapenda",
+      "word": "wanataka",
+      "count": 9
+    },
+    {
+      "word": "inayoonyesha",
       "count": 9
     },
     {
       "word": "ch",
-      "count": 9
-    },
-    {
-      "word": "kuunga",
       "count": 9
     },
     {
@@ -18305,15 +18281,23 @@
       "count": 9
     },
     {
+      "word": "mitazamo",
+      "count": 9
+    },
+    {
       "word": "halina",
       "count": 9
     },
     {
-      "word": "changamoto",
+      "word": "seti",
       "count": 9
     },
     {
-      "word": "seti",
+      "word": "uwekezaji",
+      "count": 9
+    },
+    {
+      "word": "kifedha",
       "count": 9
     },
     {
@@ -18353,19 +18337,11 @@
       "count": 9
     },
     {
-      "word": "wizi",
-      "count": 9
-    },
-    {
       "word": "wafanyikazi",
       "count": 9
     },
     {
       "word": "waamuzi",
-      "count": 9
-    },
-    {
-      "word": "wapate",
       "count": 9
     },
     {
@@ -18429,10 +18405,6 @@
       "count": 9
     },
     {
-      "word": "miongo",
-      "count": 9
-    },
-    {
       "word": "kufahamika",
       "count": 9
     },
@@ -18469,6 +18441,14 @@
       "count": 9
     },
     {
+      "word": "alipiga",
+      "count": 9
+    },
+    {
+      "word": "kupindua",
+      "count": 9
+    },
+    {
       "word": "ilitumia",
       "count": 9
     },
@@ -18482,10 +18462,6 @@
     },
     {
       "word": "kiserikali",
-      "count": 9
-    },
-    {
-      "word": "majibu",
       "count": 9
     },
     {
@@ -18526,6 +18502,10 @@
     },
     {
       "word": "mit",
+      "count": 9
+    },
+    {
+      "word": "kuamini",
       "count": 9
     },
     {
@@ -18570,6 +18550,10 @@
     },
     {
       "word": "mwema",
+      "count": 9
+    },
+    {
+      "word": "kumchagua",
       "count": 9
     },
     {
@@ -18618,6 +18602,10 @@
     },
     {
       "word": "inayopatikana",
+      "count": 9
+    },
+    {
+      "word": "mzaliwa",
       "count": 9
     },
     {
@@ -18805,10 +18793,6 @@
       "count": 9
     },
     {
-      "word": "samia",
-      "count": 9
-    },
-    {
       "word": "ilitoa",
       "count": 9
     },
@@ -18821,11 +18805,11 @@
       "count": 9
     },
     {
-      "word": "songo",
+      "word": "mnara",
       "count": 9
     },
     {
-      "word": "mnara",
+      "word": "suleiman",
       "count": 9
     },
     {
@@ -18905,10 +18889,6 @@
       "count": 9
     },
     {
-      "word": "tumbo",
-      "count": 9
-    },
-    {
       "word": "kiazi",
       "count": 9
     },
@@ -18953,7 +18933,7 @@
       "count": 9
     },
     {
-      "word": "oparesheni",
+      "word": "kukamatwa",
       "count": 9
     },
     {
@@ -19025,7 +19005,15 @@
       "count": 9
     },
     {
+      "word": "huonekana",
+      "count": 9
+    },
+    {
       "word": "malaria",
+      "count": 9
+    },
+    {
+      "word": "maumivu",
       "count": 9
     },
     {
@@ -19046,14 +19034,6 @@
     },
     {
       "word": "parliament",
-      "count": 9
-    },
-    {
-      "word": "mpenzi",
-      "count": 9
-    },
-    {
-      "word": "mawenzi",
       "count": 9
     },
     {
@@ -19161,10 +19141,6 @@
       "count": 9
     },
     {
-      "word": "organisation",
-      "count": 9
-    },
-    {
       "word": "kakao",
       "count": 9
     },
@@ -19174,10 +19150,6 @@
     },
     {
       "word": "walikamatwa",
-      "count": 9
-    },
-    {
-      "word": "independent",
       "count": 9
     },
     {
@@ -19229,18 +19201,6 @@
       "count": 9
     },
     {
-      "word": "madeni",
-      "count": 9
-    },
-    {
-      "word": "misheni",
-      "count": 9
-    },
-    {
-      "word": "gordon",
-      "count": 9
-    },
-    {
       "word": "labor",
       "count": 9
     },
@@ -19250,10 +19210,6 @@
     },
     {
       "word": "ac",
-      "count": 9
-    },
-    {
-      "word": "rushwa",
       "count": 9
     },
     {
@@ -19322,10 +19278,6 @@
     },
     {
       "word": "vidonda",
-      "count": 9
-    },
-    {
-      "word": "kizuizi",
       "count": 9
     },
     {
@@ -19461,6 +19413,10 @@
       "count": 9
     },
     {
+      "word": "full",
+      "count": 9
+    },
+    {
       "word": "texts",
       "count": 9
     },
@@ -19505,6 +19461,10 @@
       "count": 9
     },
     {
+      "word": "korogwe",
+      "count": 9
+    },
+    {
       "word": "basin",
       "count": 9
     },
@@ -19514,6 +19474,10 @@
     },
     {
       "word": "magoli",
+      "count": 9
+    },
+    {
+      "word": "mechi",
       "count": 9
     },
     {
@@ -19538,6 +19502,10 @@
     },
     {
       "word": "barbara",
+      "count": 9
+    },
+    {
+      "word": "end",
       "count": 9
     },
     {
@@ -19574,6 +19542,10 @@
     },
     {
       "word": "zinaanza",
+      "count": 9
+    },
+    {
+      "word": "wanaanga",
       "count": 9
     },
     {
@@ -19901,15 +19873,7 @@
       "count": 9
     },
     {
-      "word": "hope",
-      "count": 8
-    },
-    {
-      "word": "basutoland",
-      "count": 8
-    },
-    {
-      "word": "swaziland",
+      "word": "orange",
       "count": 8
     },
     {
@@ -19937,7 +19901,7 @@
       "count": 8
     },
     {
-      "word": "kiambishi",
+      "word": "wanapenda",
       "count": 8
     },
     {
@@ -19946,6 +19910,10 @@
     },
     {
       "word": "yanafanana",
+      "count": 8
+    },
+    {
+      "word": "kuunga",
       "count": 8
     },
     {
@@ -20006,6 +19974,38 @@
     },
     {
       "word": "niamey",
+      "count": 8
+    },
+    {
+      "word": "slovakia",
+      "count": 8
+    },
+    {
+      "word": "galilei",
+      "count": 8
+    },
+    {
+      "word": "zoolojia",
+      "count": 8
+    },
+    {
+      "word": "mwenendo",
+      "count": 8
+    },
+    {
+      "word": "kujitenga",
+      "count": 8
+    },
+    {
+      "word": "ingawaje",
+      "count": 8
+    },
+    {
+      "word": "kubadili",
+      "count": 8
+    },
+    {
+      "word": "utungaji",
       "count": 8
     }
   ]

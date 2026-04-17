@@ -5,439 +5,279 @@
   "tier": "low",
   "tier_target": 1000,
   "source": "examples/*.txt (live WebFetch of curated non-benchmark URLs)",
-  "total_tokens": 3215,
-  "unique_tokens": 1081,
+  "total_tokens": 1154,
+  "unique_tokens": 334,
   "words": [
     {
       "word": "the",
-      "count": 210
+      "count": 90
     },
     {
       "word": "of",
-      "count": 167
-    },
-    {
-      "word": "on",
-      "count": 127
-    },
-    {
-      "word": "and",
-      "count": 118
-    },
-    {
-      "word": "commentary",
-      "count": 98
-    },
-    {
-      "word": "th-century",
-      "count": 85
-    },
-    {
-      "word": "by",
-      "count": 71
-    },
-    {
-      "word": "torah",
-      "count": 71
-    },
-    {
-      "word": "in",
-      "count": 56
-    },
-    {
-      "word": "to",
-      "count": 38
-    },
-    {
-      "word": "rabbi",
-      "count": 28
-    },
-    {
-      "word": "with",
-      "count": 24
-    },
-    {
-      "word": "as",
-      "count": 16
-    },
-    {
-      "word": "from",
-      "count": 16
-    },
-    {
-      "word": "book",
-      "count": 16
+      "count": 30
     },
     {
       "word": "hebrew",
-      "count": 15
+      "count": 28
     },
     {
-      "word": "text",
-      "count": 15
+      "word": "in",
+      "count": 27
     },
     {
-      "word": "for",
-      "count": 15
-    },
-    {
-      "word": "that",
-      "count": 15
-    },
-    {
-      "word": "rashi",
-      "count": 15
-    },
-    {
-      "word": "biblical",
-      "count": 14
-    },
-    {
-      "word": "esther",
-      "count": 14
-    },
-    {
-      "word": "english",
-      "count": 13
-    },
-    {
-      "word": "david",
-      "count": 13
+      "word": "and",
+      "count": 25
     },
     {
       "word": "bible",
+      "count": 23
+    },
+    {
+      "word": "pt",
+      "count": 22
+    },
+    {
+      "word": "to",
+      "count": 22
+    },
+    {
+      "word": "we",
+      "count": 20
+    },
+    {
+      "word": "is",
+      "count": 20
+    },
+    {
+      "word": "on",
+      "count": 17
+    },
+    {
+      "word": "torah",
+      "count": 15
+    },
+    {
+      "word": "as",
+      "count": 14
+    },
+    {
+      "word": "you",
+      "count": 14
+    },
+    {
+      "word": "source",
       "count": 12
     },
     {
-      "word": "his",
+      "word": "https",
       "count": 12
     },
     {
-      "word": "incorporating",
+      "word": "org",
       "count": 12
     },
     {
-      "word": "supercommentary",
+      "word": "english",
       "count": 12
     },
     {
-      "word": "tanakh",
+      "word": "mechon-mamre",
       "count": 11
     },
     {
-      "word": "god",
+      "word": "htm",
       "count": 11
     },
     {
-      "word": "targum",
+      "word": "mechon",
       "count": 11
     },
     {
-      "word": "work",
+      "word": "mamre",
       "count": 11
     },
     {
-      "word": "th",
+      "word": "from",
       "count": 11
     },
     {
-      "word": "st-century",
-      "count": 11
-    },
-    {
-      "word": "based",
+      "word": "for",
       "count": 10
     },
     {
-      "word": "israel",
+      "word": "are",
       "count": 10
     },
     {
-      "word": "ezra",
+      "word": "line",
       "count": 10
     },
     {
-      "word": "author",
-      "count": 10
+      "word": "that",
+      "count": 9
+    },
+    {
+      "word": "portion",
+      "count": 9
     },
     {
       "word": "new",
       "count": 9
     },
     {
-      "word": "prophets",
-      "count": 9
-    },
-    {
-      "word": "rav",
-      "count": 9
-    },
-    {
-      "word": "century",
-      "count": 9
-    },
-    {
-      "word": "yosef",
-      "count": 9
-    },
-    {
-      "word": "you",
-      "count": 8
-    },
-    {
-      "word": "we",
-      "count": 8
-    },
-    {
-      "word": "books",
-      "count": 8
-    },
-    {
-      "word": "early",
-      "count": 8
-    },
-    {
-      "word": "interpretations",
-      "count": 8
-    },
-    {
-      "word": "chaim",
-      "count": 8
-    },
-    {
-      "word": "exodus",
-      "count": 7
-    },
-    {
-      "word": "at",
-      "count": 7
-    },
-    {
-      "word": "writings",
-      "count": 7
-    },
-    {
-      "word": "ruth",
-      "count": 7
-    },
-    {
-      "word": "explanations",
-      "count": 7
-    },
-    {
-      "word": "meaning",
-      "count": 7
-    },
-    {
-      "word": "focusing",
-      "count": 7
-    },
-    {
-      "word": "first",
-      "count": 7
-    },
-    {
-      "word": "simple",
-      "count": 7
-    },
-    {
-      "word": "ibn",
-      "count": 7
-    },
-    {
-      "word": "ben",
-      "count": 7
-    },
-    {
-      "word": "essays",
-      "count": 7
-    },
-    {
-      "word": "pt",
-      "count": 6
-    },
-    {
-      "word": "proverbs",
-      "count": 6
-    },
-    {
-      "word": "moses",
-      "count": 6
-    },
-    {
-      "word": "samuel",
-      "count": 6
-    },
-    {
-      "word": "its",
-      "count": 6
-    },
-    {
-      "word": "kings",
-      "count": 6
-    },
-    {
-      "word": "temple",
-      "count": 6
-    },
-    {
-      "word": "destruction",
-      "count": 6
-    },
-    {
-      "word": "an",
-      "count": 6
-    },
-    {
-      "word": "compiled",
-      "count": 6
-    },
-    {
-      "word": "philosophical",
-      "count": 6
-    },
-    {
-      "word": "commentaries",
-      "count": 6
-    },
-    {
-      "word": "collection",
-      "count": 6
-    },
-    {
       "word": "if",
-      "count": 5
+      "count": 9
     },
     {
       "word": "know",
-      "count": 5
+      "count": 9
     },
     {
-      "word": "one",
-      "count": 5
+      "word": "our",
+      "count": 8
     },
     {
-      "word": "job",
-      "count": 5
+      "word": "not",
+      "count": 8
+    },
+    {
+      "word": "text",
+      "count": 8
+    },
+    {
+      "word": "added",
+      "count": 8
+    },
+    {
+      "word": "this",
+      "count": 7
+    },
+    {
+      "word": "there",
+      "count": 7
+    },
+    {
+      "word": "haftarah",
+      "count": 7
+    },
+    {
+      "word": "than",
+      "count": 7
+    },
+    {
+      "word": "books",
+      "count": 7
+    },
+    {
+      "word": "which",
+      "count": 6
+    },
+    {
+      "word": "based",
+      "count": 6
+    },
+    {
+      "word": "found",
+      "count": 6
+    },
+    {
+      "word": "better",
+      "count": 6
     },
     {
       "word": "each",
       "count": 5
     },
     {
-      "word": "line",
+      "word": "referred",
       "count": 5
     },
     {
-      "word": "genesis",
+      "word": "paragraph",
       "count": 5
     },
     {
-      "word": "events",
+      "word": "readings",
       "count": 5
     },
     {
-      "word": "through",
+      "word": "reading",
       "count": 5
     },
     {
-      "word": "he",
+      "word": "have",
       "count": 5
     },
     {
-      "word": "jerusalem",
+      "word": "prefer",
       "count": 5
     },
     {
       "word": "or",
-      "count": 5
-    },
-    {
-      "word": "jonah",
-      "count": 5
-    },
-    {
-      "word": "lamentations",
-      "count": 5
-    },
-    {
-      "word": "translation",
-      "count": 5
-    },
-    {
-      "word": "jonathan",
-      "count": 5
-    },
-    {
-      "word": "explaining",
-      "count": 5
-    },
-    {
-      "word": "linguistic",
-      "count": 5
-    },
-    {
-      "word": "literal",
-      "count": 5
-    },
-    {
-      "word": "mystical",
-      "count": 5
-    },
-    {
-      "word": "teachings",
-      "count": 5
-    },
-    {
-      "word": "haftarot",
-      "count": 5
-    },
-    {
-      "word": "source",
       "count": 4
     },
     {
-      "word": "https",
+      "word": "it",
       "count": 4
     },
     {
-      "word": "org",
+      "word": "parashah",
       "count": 4
     },
     {
-      "word": "not",
+      "word": "one",
       "count": 4
     },
     {
-      "word": "our",
+      "word": "last",
       "count": 4
     },
     {
-      "word": "is",
+      "word": "weekly",
       "count": 4
     },
     {
-      "word": "added",
+      "word": "where",
       "count": 4
     },
     {
-      "word": "psalms",
+      "word": "by",
       "count": 4
     },
     {
-      "word": "beginning",
+      "word": "word",
       "count": 4
     },
     {
-      "word": "songs",
+      "word": "html",
       "count": 4
     },
     {
-      "word": "sefaria",
+      "word": "original",
       "count": 4
     },
     {
-      "word": "language",
+      "word": "verse",
+      "count": 4
+    },
+    {
+      "word": "within",
+      "count": 4
+    },
+    {
+      "word": "try",
+      "count": 4
+    },
+    {
+      "word": "will",
+      "count": 4
+    },
+    {
+      "word": "probably",
+      "count": 4
+    },
+    {
+      "word": "chumash",
       "count": 4
     },
     {
@@ -445,235 +285,7 @@
       "count": 4
     },
     {
-      "word": "redemption",
-      "count": 4
-    },
-    {
-      "word": "religious",
-      "count": 4
-    },
-    {
-      "word": "calls",
-      "count": 4
-    },
-    {
-      "word": "descriptions",
-      "count": 4
-    },
-    {
-      "word": "future",
-      "count": 4
-    },
-    {
-      "word": "verses",
-      "count": 4
-    },
-    {
-      "word": "life",
-      "count": 4
-    },
-    {
-      "word": "daniel",
-      "count": 4
-    },
-    {
-      "word": "chronicles",
-      "count": 4
-    },
-    {
-      "word": "onkelos",
-      "count": 4
-    },
-    {
-      "word": "gaon",
-      "count": 4
-    },
-    {
-      "word": "passages",
-      "count": 4
-    },
-    {
-      "word": "ba",
-      "count": 4
-    },
-    {
-      "word": "kabbalistic",
-      "count": 4
-    },
-    {
-      "word": "shlomo",
-      "count": 4
-    },
-    {
-      "word": "late",
-      "count": 4
-    },
-    {
-      "word": "scholar",
-      "count": 4
-    },
-    {
-      "word": "published",
-      "count": 4
-    },
-    {
-      "word": "delivered",
-      "count": 4
-    },
-    {
-      "word": "traditional",
-      "count": 4
-    },
-    {
-      "word": "written",
-      "count": 4
-    },
-    {
-      "word": "halevi",
-      "count": 4
-    },
-    {
-      "word": "leading",
-      "count": 4
-    },
-    {
-      "word": "hoffmann",
-      "count": 4
-    },
-    {
-      "word": "jachter",
-      "count": 4
-    },
-    {
-      "word": "mechon-mamre",
-      "count": 3
-    },
-    {
-      "word": "htm",
-      "count": 3
-    },
-    {
-      "word": "mechon",
-      "count": 3
-    },
-    {
-      "word": "mamre",
-      "count": 3
-    },
-    {
-      "word": "well",
-      "count": 3
-    },
-    {
-      "word": "prefer",
-      "count": 3
-    },
-    {
-      "word": "all",
-      "count": 3
-    },
-    {
-      "word": "french",
-      "count": 3
-    },
-    {
-      "word": "better",
-      "count": 3
-    },
-    {
-      "word": "than",
-      "count": 3
-    },
-    {
-      "word": "will",
-      "count": 3
-    },
-    {
-      "word": "found",
-      "count": 3
-    },
-    {
-      "word": "mostly",
-      "count": 3
-    },
-    {
-      "word": "comparing",
-      "count": 3
-    },
-    {
-      "word": "original",
-      "count": 3
-    },
-    {
-      "word": "verse",
-      "count": 3
-    },
-    {
-      "word": "deuteronomy",
-      "count": 3
-    },
-    {
-      "word": "israelites",
-      "count": 3
-    },
-    {
-      "word": "leviticus",
-      "count": 3
-    },
-    {
-      "word": "laws",
-      "count": 3
-    },
-    {
-      "word": "worship",
-      "count": 3
-    },
-    {
-      "word": "ritual",
-      "count": 3
-    },
-    {
-      "word": "topics",
-      "count": 3
-    },
-    {
-      "word": "joshua",
-      "count": 3
-    },
-    {
-      "word": "prophet",
-      "count": 3
-    },
-    {
-      "word": "ii",
-      "count": 3
-    },
-    {
-      "word": "kingdom",
-      "count": 3
-    },
-    {
-      "word": "solomon",
-      "count": 3
-    },
-    {
-      "word": "reform",
-      "count": 3
-    },
-    {
-      "word": "second",
-      "count": 3
-    },
-    {
-      "word": "attributed",
-      "count": 3
-    },
-    {
-      "word": "short",
-      "count": 3
-    },
-    {
-      "word": "song",
+      "word": "week",
       "count": 3
     },
     {
@@ -681,439 +293,127 @@
       "count": 3
     },
     {
-      "word": "jews",
+      "word": "passage",
       "count": 3
     },
     {
-      "word": "jewish",
+      "word": "first",
       "count": 3
     },
     {
-      "word": "into",
+      "word": "beginning",
       "count": 3
     },
     {
-      "word": "aramaic",
+      "word": "genesis",
       "count": 3
     },
     {
-      "word": "centuries",
+      "word": "year",
       "count": 3
     },
     {
-      "word": "talmudic",
+      "word": "deuteronomy",
       "count": 3
     },
     {
-      "word": "times",
+      "word": "some",
       "count": 3
     },
     {
-      "word": "ramban",
+      "word": "up",
       "count": 3
     },
     {
-      "word": "together",
+      "word": "few",
       "count": 3
     },
     {
-      "word": "philosophy",
+      "word": "blessings",
       "count": 3
     },
     {
-      "word": "abarbanel",
+      "word": "honor",
       "count": 3
     },
     {
-      "word": "questions",
+      "word": "maftir",
       "count": 3
     },
     {
-      "word": "composed",
+      "word": "meaning",
       "count": 3
     },
     {
-      "word": "haturim",
+      "word": "comes",
       "count": 3
     },
     {
-      "word": "tur",
+      "word": "end",
       "count": 3
     },
     {
-      "word": "presenting",
+      "word": "various",
       "count": 3
     },
     {
-      "word": "tosafists",
+      "word": "all",
       "count": 3
     },
     {
-      "word": "analysis",
+      "word": "rest",
       "count": 3
     },
     {
-      "word": "student",
-      "count": 3
-    },
-    {
-      "word": "textual",
-      "count": 3
-    },
-    {
-      "word": "later",
-      "count": 3
-    },
-    {
-      "word": "commentators",
-      "count": 3
-    },
-    {
-      "word": "popular",
-      "count": 3
-    },
-    {
-      "word": "ralbag",
-      "count": 3
-    },
-    {
-      "word": "legal",
-      "count": 3
-    },
-    {
-      "word": "italian",
-      "count": 3
-    },
-    {
-      "word": "sermons",
-      "count": 3
-    },
-    {
-      "word": "eybeschutz",
-      "count": 3
-    },
-    {
-      "word": "known",
-      "count": 3
-    },
-    {
-      "word": "highlighting",
-      "count": 3
-    },
-    {
-      "word": "part",
-      "count": 3
-    },
-    {
-      "word": "rabbinic",
-      "count": 3
-    },
-    {
-      "word": "arukh",
-      "count": 3
-    },
-    {
-      "word": "meir",
-      "count": 3
-    },
-    {
-      "word": "davar",
-      "count": 3
-    },
-    {
-      "word": "weekly",
-      "count": 3
-    },
-    {
-      "word": "upon",
-      "count": 3
-    },
-    {
-      "word": "yehuda",
-      "count": 3
-    },
-    {
-      "word": "metzudat",
-      "count": 3
-    },
-    {
-      "word": "sources",
-      "count": 3
-    },
-    {
-      "word": "focus",
-      "count": 3
-    },
-    {
-      "word": "everett",
-      "count": 3
-    },
-    {
-      "word": "fox",
+      "word": "special",
       "count": 3
     },
     {
       "word": "do",
-      "count": 2
-    },
-    {
-      "word": "try",
-      "count": 2
-    },
-    {
-      "word": "probably",
-      "count": 2
-    },
-    {
-      "word": "html",
-      "count": 2
-    },
-    {
-      "word": "paragraph",
-      "count": 2
-    },
-    {
-      "word": "marks",
-      "count": 2
-    },
-    {
-      "word": "which",
-      "count": 2
-    },
-    {
-      "word": "have",
-      "count": 2
-    },
-    {
-      "word": "end",
-      "count": 2
-    },
-    {
-      "word": "there",
-      "count": 2
-    },
-    {
-      "word": "within",
-      "count": 2
-    },
-    {
-      "word": "when",
-      "count": 2
-    },
-    {
-      "word": "complex",
-      "count": 2
-    },
-    {
-      "word": "library",
-      "count": 2
-    },
-    {
-      "word": "sign",
-      "count": 2
-    },
-    {
-      "word": "up",
-      "count": 2
-    },
-    {
-      "word": "site",
-      "count": 2
-    },
-    {
-      "word": "עברית",
-      "count": 2
-    },
-    {
-      "word": "stories",
-      "count": 2
-    },
-    {
-      "word": "miraculous",
-      "count": 2
-    },
-    {
-      "word": "mishkan",
-      "count": 2
-    },
-    {
-      "word": "tabernacle",
-      "count": 2
-    },
-    {
-      "word": "like",
-      "count": 2
-    },
-    {
-      "word": "numbers",
-      "count": 2
-    },
-    {
-      "word": "desert",
-      "count": 2
-    },
-    {
-      "word": "ones",
-      "count": 2
-    },
-    {
-      "word": "leadership",
-      "count": 2
-    },
-    {
-      "word": "judges",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "oppression",
-      "count": 2
-    },
-    {
-      "word": "repentance",
-      "count": 2
-    },
-    {
-      "word": "king",
-      "count": 2
-    },
-    {
-      "word": "kingship",
-      "count": 2
-    },
-    {
-      "word": "elijah",
-      "count": 2
-    },
-    {
-      "word": "isaiah",
-      "count": 2
-    },
-    {
-      "word": "criticism",
-      "count": 2
-    },
-    {
-      "word": "jeremiah",
-      "count": 2
-    },
-    {
-      "word": "warnings",
-      "count": 2
-    },
-    {
-      "word": "ezekiel",
-      "count": 2
-    },
-    {
-      "word": "rebuke",
-      "count": 2
-    },
-    {
-      "word": "hope",
-      "count": 2
-    },
-    {
-      "word": "visions",
-      "count": 2
-    },
-    {
-      "word": "hosea",
-      "count": 2
-    },
-    {
-      "word": "unfaithful",
-      "count": 2
-    },
-    {
-      "word": "lovers",
-      "count": 2
-    },
-    {
-      "word": "joel",
-      "count": 2
-    },
-    {
-      "word": "call",
-      "count": 2
-    },
-    {
-      "word": "amos",
-      "count": 2
-    },
-    {
-      "word": "obadiah",
-      "count": 2
-    },
-    {
-      "word": "downfall",
-      "count": 2
-    },
-    {
-      "word": "prophecy",
-      "count": 2
-    },
-    {
-      "word": "micah",
-      "count": 2
-    },
-    {
-      "word": "justice",
-      "count": 2
-    },
-    {
-      "word": "nahum",
-      "count": 2
-    },
-    {
-      "word": "about",
-      "count": 2
-    },
-    {
-      "word": "habakkuk",
-      "count": 2
-    },
-    {
-      "word": "zephaniah",
-      "count": 2
+      "word": "פרויקט",
+      "count": 3
     },
     {
-      "word": "haggai",
-      "count": 2
+      "word": "של",
+      "count": 3
     },
     {
-      "word": "zechariah",
+      "word": "synagogue",
       "count": 2
     },
     {
-      "word": "malachi",
+      "word": "parashiyot",
       "count": 2
     },
     {
-      "word": "poems",
+      "word": "so",
       "count": 2
     },
     {
-      "word": "moral",
+      "word": "entire",
       "count": 2
     },
     {
-      "word": "righteous",
+      "word": "weeks",
       "count": 2
     },
     {
-      "word": "conversations",
+      "word": "portions",
       "count": 2
     },
     {
-      "word": "ecclesiastes",
+      "word": "around",
       "count": 2
     },
     {
-      "word": "plot",
+      "word": "holiday",
       "count": 2
     },
     {
-      "word": "rebuilding",
+      "word": "simchat",
       "count": 2
     },
     {
@@ -1121,428 +421,868 @@
       "count": 2
     },
     {
-      "word": "exile",
+      "word": "jewish",
       "count": 2
     },
     {
-      "word": "nehemiah",
+      "word": "below",
       "count": 2
     },
     {
-      "word": "recounts",
+      "word": "haftarot",
       "count": 2
     },
     {
-      "word": "originally",
+      "word": "parentheses",
       "count": 2
     },
     {
-      "word": "writing",
+      "word": "indicate",
       "count": 2
     },
     {
-      "word": "between",
+      "word": "sephardic",
       "count": 2
     },
     {
-      "word": "primary",
+      "word": "ritual",
       "count": 2
     },
     {
-      "word": "talmud",
+      "word": "differs",
       "count": 2
     },
     {
-      "word": "publicly",
+      "word": "ashkenazic",
       "count": 2
     },
     {
-      "word": "synagogues",
+      "word": "but",
       "count": 2
     },
     {
-      "word": "still",
+      "word": "given",
       "count": 2
     },
     {
-      "word": "today",
+      "word": "aliyah",
       "count": 2
     },
     {
-      "word": "yemenite",
+      "word": "well",
       "count": 2
     },
     {
-      "word": "saadia",
+      "word": "root",
       "count": 2
     },
     {
-      "word": "influential",
+      "word": "usually",
       "count": 2
     },
     {
-      "word": "throughout",
+      "word": "edition",
       "count": 2
     },
     {
-      "word": "elaborations",
+      "word": "electronic",
       "count": 2
     },
     {
-      "word": "grammar",
+      "word": "larry",
       "count": 2
     },
     {
-      "word": "weaving",
+      "word": "nelson",
       "count": 2
     },
     {
-      "word": "interpretation",
+      "word": "box",
       "count": 2
     },
     {
-      "word": "law",
+      "word": "cathedral",
       "count": 2
     },
     {
-      "word": "mysticism",
+      "word": "city",
       "count": 2
     },
     {
-      "word": "al",
+      "word": "ca",
       "count": 2
     },
     {
-      "word": "often",
+      "word": "usa",
       "count": 2
     },
     {
-      "word": "gematria",
+      "word": "email",
       "count": 2
     },
     {
-      "word": "bartenura",
+      "word": "protected",
       "count": 2
     },
     {
-      "word": "da",
+      "word": "internet",
       "count": 2
     },
     {
-      "word": "zekenim",
+      "word": "differing",
       "count": 2
     },
     {
-      "word": "primarily",
+      "word": "copies",
       "count": 2
     },
     {
-      "word": "alei",
+      "word": "addition",
       "count": 2
     },
     {
-      "word": "immanuel",
+      "word": "converting",
       "count": 2
     },
     {
-      "word": "rome",
+      "word": "his",
       "count": 2
     },
     {
-      "word": "offers",
+      "word": "did",
       "count": 2
     },
     {
-      "word": "grammatical",
+      "word": "correct",
       "count": 2
     },
     {
-      "word": "perspectives",
+      "word": "typographical",
       "count": 2
     },
     {
-      "word": "imrei",
+      "word": "errors",
       "count": 2
     },
     {
-      "word": "zerahiah",
+      "word": "mostly",
       "count": 2
     },
     {
-      "word": "shealtiel",
+      "word": "comparing",
       "count": 2
     },
     {
-      "word": "ḥen",
+      "word": "versions",
       "count": 2
     },
     {
-      "word": "examining",
+      "word": "took",
       "count": 2
     },
     {
-      "word": "meiri",
+      "word": "out",
       "count": 2
     },
     {
-      "word": "minchat",
+      "word": "marks",
       "count": 2
     },
     {
-      "word": "variants",
+      "word": "para",
       "count": 2
     },
     {
-      "word": "word",
+      "word": "were",
       "count": 2
     },
     {
-      "word": "rabbeinu",
+      "word": "signs",
       "count": 2
     },
     {
-      "word": "allegorical",
+      "word": "paragraphs",
       "count": 2
     },
     {
-      "word": "radak",
+      "word": "poetical",
       "count": 2
     },
     {
-      "word": "words",
+      "word": "psalms",
       "count": 2
     },
     {
-      "word": "sections",
+      "word": "job",
       "count": 2
     },
     {
-      "word": "grandson",
+      "word": "aside",
       "count": 2
     },
     {
-      "word": "asher",
+      "word": "proverbs",
       "count": 2
     },
     {
-      "word": "those",
+      "word": "normally",
       "count": 2
     },
     {
-      "word": "yitzchak",
+      "word": "starts",
       "count": 2
     },
     {
-      "word": "mordechai",
+      "word": "when",
       "count": 2
     },
     {
-      "word": "aderet",
+      "word": "blank",
       "count": 2
     },
     {
-      "word": "eliyahu",
+      "word": "setumah",
       "count": 2
     },
     {
-      "word": "chai",
+      "word": "open",
       "count": 2
     },
     {
-      "word": "yehonatan",
+      "word": "space",
       "count": 2
     },
     {
-      "word": "alshekh",
+      "word": "petuhah",
       "count": 2
     },
     {
-      "word": "every",
+      "word": "according",
       "count": 2
     },
     {
-      "word": "avraham",
+      "word": "tried",
       "count": 2
     },
     {
-      "word": "chatam",
+      "word": "reproduce",
       "count": 2
     },
     {
-      "word": "sofer",
+      "word": "complex",
       "count": 2
     },
     {
-      "word": "series",
+      "word": "structure",
       "count": 2
     },
     {
-      "word": "shulchan",
+      "word": "songs",
       "count": 2
     },
     {
-      "word": "chemdah",
+      "word": "such",
       "count": 2
     },
     {
-      "word": "malbim",
+      "word": "exodus",
       "count": 2
     },
     {
-      "word": "maharal",
+      "word": "think",
       "count": 2
     },
     {
-      "word": "judaism",
+      "word": "would",
       "count": 2
     },
     {
-      "word": "haamek",
+      "word": "make",
       "count": 2
     },
     {
-      "word": "netziv",
+      "word": "sense",
       "count": 2
     },
     {
-      "word": "portion",
+      "word": "holidays",
       "count": 2
     },
     {
-      "word": "megillot",
+      "word": "with",
       "count": 2
     },
     {
-      "word": "authored",
+      "word": "divided",
       "count": 2
     },
     {
-      "word": "yaakov",
+      "word": "into",
       "count": 2
     },
     {
-      "word": "german",
+      "word": "wikisource",
       "count": 2
     },
     {
-      "word": "expanding",
+      "word": "העברית",
       "count": 2
     },
     {
-      "word": "mizrachi",
+      "word": "טקסטים",
       "count": 2
     },
     {
-      "word": "ya",
+      "word": "french",
       "count": 2
     },
     {
-      "word": "akov",
+      "word": "hebrew-french",
       "count": 2
     },
     {
-      "word": "compilation",
+      "word": "portuguese",
       "count": 2
     },
     {
-      "word": "draws",
+      "word": "hebrew-portuguese",
       "count": 2
     },
     {
-      "word": "homiletical",
+      "word": "spanish",
       "count": 2
     },
     {
-      "word": "shadal",
+      "word": "hebrew-spanish",
       "count": 2
     },
     {
-      "word": "hirsch",
+      "word": "scriptures",
       "count": 2
     },
     {
-      "word": "figure",
+      "word": "sometimes",
       "count": 2
     },
     {
-      "word": "siftei",
+      "word": "bound",
       "count": 2
     },
     {
-      "word": "kohen",
+      "word": "refers",
       "count": 2
     },
     {
-      "word": "enah",
-      "count": 2
+      "word": "more",
+      "count": 1
     },
     {
-      "word": "relevance",
-      "count": 2
+      "word": "accurately",
+      "count": 1
     },
     {
-      "word": "cassuto",
-      "count": 2
+      "word": "chant",
+      "count": 1
     },
     {
-      "word": "archeology",
-      "count": 2
+      "word": "because",
+      "count": 1
     },
     {
-      "word": "ancient",
-      "count": 2
+      "word": "sung",
+      "count": 1
     },
     {
-      "word": "semitic",
-      "count": 2
+      "word": "example",
+      "count": 1
     },
     {
-      "word": "languages",
-      "count": 2
+      "word": "parashat",
+      "count": 1
     },
     {
-      "word": "literary",
-      "count": 2
+      "word": "bereishit",
+      "count": 1
     },
     {
-      "word": "tools",
-      "count": 2
+      "word": "covers",
+      "count": 1
     },
     {
-      "word": "zvi",
-      "count": 2
+      "word": "story",
+      "count": 1
     },
     {
-      "word": "lectures",
-      "count": 2
+      "word": "noah",
+      "count": 1
     },
     {
-      "word": "rabbinical",
-      "count": 2
+      "word": "parashahs",
+      "count": 1
     },
     {
-      "word": "seminary",
-      "count": 2
+      "word": "leap",
+      "count": 1
     },
     {
-      "word": "berlin",
-      "count": 2
+      "word": "course",
+      "count": 1
+    },
+    {
+      "word": "services",
+      "count": 1
     },
     {
       "word": "during",
-      "count": 2
+      "count": 1
     },
     {
-      "word": "sacks",
-      "count": 2
+      "word": "non-leap",
+      "count": 1
     },
     {
-      "word": "world",
-      "count": 2
+      "word": "years",
+      "count": 1
     },
     {
-      "word": "women",
-      "count": 2
+      "word": "shorter",
+      "count": 1
+    },
+    {
+      "word": "doubled",
+      "count": 1
+    },
+    {
+      "word": "reach",
+      "count": 1
+    },
+    {
+      "word": "called",
+      "count": 1
+    },
+    {
+      "word": "rejoicing",
+      "count": 1
+    },
+    {
+      "word": "law",
+      "count": 1
+    },
+    {
+      "word": "occurs",
+      "count": 1
+    },
+    {
+      "word": "september",
+      "count": 1
+    },
+    {
+      "word": "october",
+      "count": 1
+    },
+    {
+      "word": "rosh",
+      "count": 1
+    },
+    {
+      "word": "hashanah",
+      "count": 1
+    },
+    {
+      "word": "proceed",
+      "count": 1
+    },
+    {
+      "word": "immediately",
+      "count": 1
+    },
+    {
+      "word": "showing",
+      "count": 1
+    },
+    {
+      "word": "circle",
+      "count": 1
+    },
+    {
+      "word": "never",
+      "count": 1
+    },
+    {
+      "word": "ends",
+      "count": 1
+    },
+    {
+      "word": "table",
+      "count": 1
+    },
+    {
+      "word": "regular",
+      "count": 1
+    },
+    {
+      "word": "scriptural",
+      "count": 1
+    },
+    {
+      "word": "other",
+      "count": 1
+    },
+    {
+      "word": "variations",
+      "count": 1
+    },
+    {
+      "word": "yemenites",
+      "count": 1
+    },
+    {
+      "word": "others",
+      "count": 1
+    },
+    {
+      "word": "these",
+      "count": 1
+    },
+    {
+      "word": "most",
+      "count": 1
+    },
+    {
+      "word": "commonly",
+      "count": 1
+    },
+    {
+      "word": "used",
+      "count": 1
+    },
+    {
+      "word": "ones",
+      "count": 1
+    },
+    {
+      "word": "celebrants",
+      "count": 1
+    },
+    {
+      "word": "life",
+      "count": 1
+    },
+    {
+      "word": "events",
+      "count": 1
+    },
+    {
+      "word": "customarily",
+      "count": 1
+    },
+    {
+      "word": "includes",
+      "count": 1
+    },
+    {
+      "word": "part",
+      "count": 1
+    },
+    {
+      "word": "several",
+      "count": 1
+    },
+    {
+      "word": "person",
+      "count": 1
+    },
+    {
+      "word": "same",
+      "count": 1
+    },
+    {
+      "word": "who",
+      "count": 1
+    },
+    {
+      "word": "concludes",
+      "count": 1
+    },
+    {
+      "word": "service",
+      "count": 1
+    },
+    {
+      "word": "followed",
+      "count": 1
+    },
+    {
+      "word": "prophets",
+      "count": 1
+    },
+    {
+      "word": "contrary",
+      "count": 1
+    },
+    {
+      "word": "common",
+      "count": 1
+    },
+    {
+      "word": "misconception",
+      "count": 1
+    },
+    {
+      "word": "does",
+      "count": 1
+    },
+    {
+      "word": "mean",
+      "count": 1
+    },
+    {
+      "word": "half-torah",
+      "count": 1
+    },
+    {
+      "word": "conclusion",
+      "count": 1
+    },
+    {
+      "word": "no",
+      "count": 1
+    },
+    {
+      "word": "longer",
+      "count": 1
+    },
+    {
+      "word": "chapter",
+      "count": 1
+    },
+    {
+      "word": "has",
+      "count": 1
+    },
+    {
+      "word": "relation",
+      "count": 1
+    },
+    {
+      "word": "additional",
+      "count": 1
+    },
+    {
+      "word": "sabbaths",
+      "count": 1
+    },
+    {
+      "word": "note",
+      "count": 1
+    },
+    {
+      "word": "ordinarily",
+      "count": 1
+    },
+    {
+      "word": "different",
+      "count": 1
+    },
+    {
+      "word": "scroll",
+      "count": 1
+    },
+    {
+      "word": "institutes",
+      "count": 1
+    },
+    {
+      "word": "specifies",
+      "count": 1
+    },
+    {
+      "word": "holiday's",
+      "count": 1
+    },
+    {
+      "word": "offerings",
+      "count": 1
+    },
+    {
+      "word": "performed",
+      "count": 1
+    },
+    {
+      "word": "great",
+      "count": 1
+    },
+    {
+      "word": "ceremony",
+      "count": 1
+    },
+    {
+      "word": "paraded",
+      "count": 1
+    },
+    {
+      "word": "room",
+      "count": 1
+    },
+    {
+      "word": "before",
+      "count": 1
+    },
+    {
+      "word": "brought",
+      "count": 1
+    },
+    {
+      "word": "bimah",
+      "count": 1
+    },
+    {
+      "word": "podium",
+      "count": 1
+    },
+    {
+      "word": "members",
+      "count": 1
+    },
+    {
+      "word": "congregation",
+      "count": 1
+    },
+    {
+      "word": "reciting",
+      "count": 1
+    },
+    {
+      "word": "over",
+      "count": 1
+    },
+    {
+      "word": "doing",
+      "count": 1
+    },
+    {
+      "word": "an",
+      "count": 1
+    },
+    {
+      "word": "literally",
+      "count": 1
+    },
+    {
+      "word": "ascension",
+      "count": 1
+    },
+    {
+      "word": "he",
+      "count": 1
+    },
+    {
+      "word": "wiki",
+      "count": 1
+    },
+    {
+      "word": "biblical",
+      "count": 1
+    },
+    {
+      "word": "texts",
+      "count": 1
+    },
+    {
+      "word": "בן",
+      "count": 1
+    },
+    {
+      "word": "יהודה",
+      "count": 1
+    },
+    {
+      "word": "מהדורות",
+      "count": 1
+    },
+    {
+      "word": "אלקטרוניות",
+      "count": 1
+    },
+    {
+      "word": "נכסי",
+      "count": 1
+    },
+    {
+      "word": "הספרות",
+      "count": 1
+    },
+    {
+      "word": "sefaria",
+      "count": 1
+    },
+    {
+      "word": "דו",
+      "count": 1
+    },
+    {
+      "word": "לשוני",
+      "count": 1
+    },
+    {
+      "word": "מארון",
+      "count": 1
+    },
+    {
+      "word": "הספרים",
+      "count": 1
+    },
+    {
+      "word": "היהודי",
+      "count": 1
+    },
+    {
+      "word": "מאגרי",
+      "count": 1
+    },
+    {
+      "word": "המידע",
+      "count": 1
+    },
+    {
+      "word": "האקדמיה",
+      "count": 1
+    },
+    {
+      "word": "ללשון",
+      "count": 1
+    },
+    {
+      "word": "המכיל",
+      "count": 1
+    },
+    {
+      "word": "רבים",
+      "count": 1
+    },
+    {
+      "word": "מתקופות",
+      "count": 1
+    },
+    {
+      "word": "רבות",
+      "count": 1
+    },
+    {
+      "word": "ומאפשר",
+      "count": 1
+    },
+    {
+      "word": "גם",
+      "count": 1
+    },
+    {
+      "word": "חיפושים",
+      "count": 1
+    },
+    {
+      "word": "בהם",
+      "count": 1
     },
     {
       "word": "any",
@@ -1561,1863 +1301,15 @@
       "count": 1
     },
     {
-      "word": "hebrew-french",
-      "count": 1
-    },
-    {
-      "word": "portuguese",
-      "count": 1
-    },
-    {
-      "word": "hebrew-portuguese",
-      "count": 1
-    },
-    {
-      "word": "spanish",
-      "count": 1
-    },
-    {
-      "word": "hebrew-spanish",
-      "count": 1
-    },
-    {
-      "word": "this",
-      "count": 1
-    },
-    {
-      "word": "edition",
-      "count": 1
-    },
-    {
-      "word": "electronic",
-      "count": 1
-    },
-    {
-      "word": "larry",
-      "count": 1
-    },
-    {
-      "word": "nelson",
-      "count": 1
-    },
-    {
-      "word": "box",
-      "count": 1
-    },
-    {
-      "word": "cathedral",
-      "count": 1
-    },
-    {
-      "word": "city",
-      "count": 1
-    },
-    {
-      "word": "ca",
-      "count": 1
-    },
-    {
-      "word": "usa",
-      "count": 1
-    },
-    {
-      "word": "email",
-      "count": 1
-    },
-    {
-      "word": "protected",
-      "count": 1
-    },
-    {
-      "word": "internet",
-      "count": 1
-    },
-    {
-      "word": "differing",
-      "count": 1
-    },
-    {
-      "word": "copies",
-      "count": 1
-    },
-    {
-      "word": "addition",
-      "count": 1
-    },
-    {
-      "word": "converting",
-      "count": 1
-    },
-    {
-      "word": "did",
-      "count": 1
-    },
-    {
-      "word": "correct",
-      "count": 1
-    },
-    {
-      "word": "few",
-      "count": 1
-    },
-    {
-      "word": "typographical",
-      "count": 1
-    },
-    {
-      "word": "errors",
-      "count": 1
-    },
-    {
-      "word": "various",
-      "count": 1
-    },
-    {
-      "word": "versions",
-      "count": 1
-    },
-    {
-      "word": "took",
-      "count": 1
-    },
-    {
-      "word": "out",
-      "count": 1
-    },
-    {
-      "word": "para",
-      "count": 1
-    },
-    {
-      "word": "were",
-      "count": 1
-    },
-    {
-      "word": "signs",
-      "count": 1
-    },
-    {
-      "word": "paragraphs",
-      "count": 1
-    },
-    {
-      "word": "poetical",
-      "count": 1
-    },
-    {
-      "word": "aside",
-      "count": 1
-    },
-    {
-      "word": "normally",
-      "count": 1
-    },
-    {
-      "word": "starts",
-      "count": 1
-    },
-    {
-      "word": "where",
-      "count": 1
-    },
-    {
-      "word": "blank",
-      "count": 1
-    },
-    {
-      "word": "rest",
-      "count": 1
-    },
-    {
-      "word": "setumah",
-      "count": 1
-    },
-    {
-      "word": "open",
-      "count": 1
-    },
-    {
-      "word": "space",
-      "count": 1
-    },
-    {
-      "word": "petuhah",
-      "count": 1
-    },
-    {
-      "word": "according",
-      "count": 1
-    },
-    {
-      "word": "tried",
-      "count": 1
-    },
-    {
-      "word": "reproduce",
-      "count": 1
-    },
-    {
-      "word": "structure",
-      "count": 1
-    },
-    {
-      "word": "special",
-      "count": 1
-    },
-    {
-      "word": "such",
-      "count": 1
-    },
-    {
-      "word": "think",
-      "count": 1
-    },
-    {
-      "word": "would",
-      "count": 1
-    },
-    {
-      "word": "make",
-      "count": 1
-    },
-    {
-      "word": "sense",
-      "count": 1
-    },
-    {
-      "word": "www",
-      "count": 1
-    },
-    {
-      "word": "texts",
-      "count": 1
-    },
-    {
-      "word": "skip",
-      "count": 1
-    },
-    {
-      "word": "main",
-      "count": 1
-    },
-    {
-      "word": "content",
-      "count": 1
-    },
-    {
-      "word": "voices",
-      "count": 1
-    },
-    {
-      "word": "developers",
-      "count": 1
-    },
-    {
-      "word": "more",
-      "count": 1
-    },
-    {
-      "word": "log",
-      "count": 1
-    },
-    {
-      "word": "additions",
-      "count": 1
-    },
-    {
-      "word": "help",
-      "count": 1
-    },
-    {
-      "word": "creation",
-      "count": 1
-    },
-    {
-      "word": "mankind",
-      "count": 1
-    },
-    {
-      "word": "patriarchs",
-      "count": 1
-    },
-    {
-      "word": "matriarchs",
-      "count": 1
-    },
-    {
-      "word": "enslavement",
-      "count": 1
-    },
-    {
-      "word": "egypt",
-      "count": 1
-    },
-    {
-      "word": "giving",
-      "count": 1
-    },
-    {
-      "word": "building",
-      "count": 1
-    },
-    {
-      "word": "sacrificial",
-      "count": 1
-    },
-    {
-      "word": "purity",
-      "count": 1
-    },
-    {
-      "word": "other",
-      "count": 1
-    },
-    {
-      "word": "agriculture",
-      "count": 1
-    },
-    {
-      "word": "ethics",
-      "count": 1
-    },
-    {
-      "word": "holidays",
-      "count": 1
-    },
-    {
-      "word": "wanderings",
-      "count": 1
-    },
-    {
-      "word": "census",
-      "count": 1
-    },
-    {
-      "word": "rebellion",
-      "count": 1
-    },
-    {
-      "word": "spies",
-      "count": 1
-    },
-    {
-      "word": "war",
-      "count": 1
-    },
-    {
-      "word": "interspersed",
-      "count": 1
-    },
-    {
-      "word": "final",
-      "count": 1
-    },
-    {
-      "word": "speeches",
-      "count": 1
-    },
-    {
-      "word": "recalling",
-      "count": 1
-    },
-    {
-      "word": "reviewing",
-      "count": 1
-    },
-    {
-      "word": "old",
-      "count": 1
-    },
-    {
-      "word": "introducing",
-      "count": 1
-    },
-    {
-      "word": "calling",
-      "count": 1
-    },
-    {
-      "word": "faithfulness",
-      "count": 1
-    },
-    {
-      "word": "enter",
-      "count": 1
-    },
-    {
-      "word": "conquer",
-      "count": 1
-    },
-    {
-      "word": "settle",
-      "count": 1
-    },
-    {
-      "word": "under",
-      "count": 1
-    },
-    {
-      "word": "cycles",
-      "count": 1
-    },
-    {
-      "word": "sin",
-      "count": 1
-    },
-    {
-      "word": "foreign",
-      "count": 1
-    },
-    {
-      "word": "leaders",
-      "count": 1
-    },
-    {
-      "word": "appointed",
-      "count": 1
-    },
-    {
-      "word": "advent",
-      "count": 1
-    },
-    {
-      "word": "monarchy",
-      "count": 1
-    },
-    {
-      "word": "reign",
-      "count": 1
-    },
-    {
-      "word": "saul",
-      "count": 1
-    },
-    {
-      "word": "rise",
-      "count": 1
-    },
-    {
-      "word": "young",
-      "count": 1
-    },
-    {
-      "word": "triumphs",
-      "count": 1
-    },
-    {
-      "word": "challenges",
-      "count": 1
-    },
-    {
-      "word": "establishes",
-      "count": 1
-    },
-    {
-      "word": "united",
-      "count": 1
-    },
-    {
-      "word": "capital",
-      "count": 1
-    },
-    {
-      "word": "construction",
-      "count": 1
-    },
-    {
-      "word": "schism",
-      "count": 1
-    },
-    {
-      "word": "miracles",
-      "count": 1
-    },
-    {
-      "word": "elisha",
-      "count": 1
-    },
-    {
-      "word": "decline",
-      "count": 1
-    },
-    {
-      "word": "kingdoms",
-      "count": 1
-    },
-    {
-      "word": "corruption",
-      "count": 1
-    },
-    {
-      "word": "change",
-      "count": 1
-    },
-    {
-      "word": "utopian",
-      "count": 1
-    },
-    {
-      "word": "demands",
-      "count": 1
-    },
-    {
-      "word": "largely",
-      "count": 1
-    },
-    {
-      "word": "rejected",
-      "count": 1
-    },
-    {
-      "word": "people",
-      "count": 1
-    },
-    {
-      "word": "some",
-      "count": 1
-    },
-    {
-      "word": "whom",
-      "count": 1
-    },
-    {
-      "word": "torture",
-      "count": 1
-    },
-    {
-      "word": "persecute",
-      "count": 1
-    },
-    {
-      "word": "him",
-      "count": 1
-    },
-    {
-      "word": "dramatic",
-      "count": 1
-    },
-    {
-      "word": "symbolism",
-      "count": 1
-    },
-    {
-      "word": "conveying",
-      "count": 1
-    },
-    {
-      "word": "abandoning",
-      "count": 1
-    },
-    {
-      "word": "their",
-      "count": 1
-    },
-    {
-      "word": "relationship",
-      "count": 1
-    },
-    {
-      "word": "locust",
-      "count": 1
-    },
-    {
-      "word": "plague",
-      "count": 1
-    },
-    {
-      "word": "repent",
-      "count": 1
-    },
-    {
-      "word": "promise",
-      "count": 1
-    },
-    {
-      "word": "judgement",
-      "count": 1
-    },
-    {
-      "word": "oppressors",
-      "count": 1
-    },
-    {
-      "word": "condemnation",
-      "count": 1
-    },
-    {
-      "word": "arrogance",
-      "count": 1
-    },
-    {
-      "word": "nations",
-      "count": 1
-    },
-    {
-      "word": "shortest",
-      "count": 1
-    },
-    {
-      "word": "just",
-      "count": 1
-    },
-    {
-      "word": "predicting",
-      "count": 1
-    },
-    {
-      "word": "edom",
-      "count": 1
-    },
-    {
-      "word": "great",
-      "count": 1
-    },
-    {
-      "word": "fish",
-      "count": 1
-    },
-    {
-      "word": "swallows",
-      "count": 1
-    },
-    {
-      "word": "tries",
-      "count": 1
-    },
-    {
-      "word": "escape",
-      "count": 1
-    },
-    {
-      "word": "mission",
-      "count": 1
-    },
-    {
-      "word": "repents",
-      "count": 1
-    },
-    {
-      "word": "berating",
-      "count": 1
-    },
-    {
-      "word": "insincere",
-      "count": 1
-    },
-    {
-      "word": "kindness",
-      "count": 1
-    },
-    {
-      "word": "celebratory",
-      "count": 1
-    },
-    {
-      "word": "assyrian",
-      "count": 1
-    },
-    {
-      "word": "empire",
-      "count": 1
-    },
-    {
-      "word": "oppressor",
-      "count": 1
-    },
-    {
-      "word": "charging",
-      "count": 1
-    },
-    {
-      "word": "explain",
-      "count": 1
-    },
-    {
-      "word": "unjust",
-      "count": 1
-    },
-    {
-      "word": "success",
-      "count": 1
-    },
-    {
-      "word": "babylonians",
-      "count": 1
-    },
-    {
-      "word": "response",
-      "count": 1
-    },
-    {
-      "word": "prayer",
-      "count": 1
-    },
-    {
-      "word": "wreck",
-      "count": 1
-    },
-    {
-      "word": "humility",
-      "count": 1
-    },
-    {
-      "word": "urgent",
-      "count": 1
-    },
-    {
-      "word": "build",
-      "count": 1
-    },
-    {
-      "word": "glory",
-      "count": 1
-    },
-    {
-      "word": "symbolic",
-      "count": 1
-    },
-    {
-      "word": "explained",
-      "count": 1
-    },
-    {
-      "word": "angels",
-      "count": 1
-    },
-    {
-      "word": "days",
-      "count": 1
-    },
-    {
-      "word": "disingenuous",
-      "count": 1
-    },
-    {
-      "word": "blessings",
-      "count": 1
-    },
-    {
-      "word": "despair",
-      "count": 1
-    },
-    {
-      "word": "gratitude",
-      "count": 1
-    },
-    {
-      "word": "supplication",
-      "count": 1
-    },
-    {
-      "word": "others",
-      "count": 1
-    },
-    {
-      "word": "guidance",
-      "count": 1
-    },
-    {
-      "word": "living",
-      "count": 1
-    },
-    {
-      "word": "wise",
-      "count": 1
-    },
-    {
       "word": "form",
       "count": 1
     },
     {
-      "word": "statements",
+      "word": "corresponds",
       "count": 1
     },
     {
-      "word": "satan",
-      "count": 1
-    },
-    {
-      "word": "convinces",
-      "count": 1
-    },
-    {
-      "word": "strike",
-      "count": 1
-    },
-    {
-      "word": "man",
-      "count": 1
-    },
-    {
-      "word": "tragedy",
-      "count": 1
-    },
-    {
-      "word": "spurring",
-      "count": 1
-    },
-    {
-      "word": "suffering",
-      "count": 1
-    },
-    {
-      "word": "poetic",
-      "count": 1
-    },
-    {
-      "word": "two",
-      "count": 1
-    },
-    {
-      "word": "traditionally",
-      "count": 1
-    },
-    {
-      "word": "metaphor",
-      "count": 1
-    },
-    {
-      "word": "moabite",
-      "count": 1
-    },
-    {
-      "word": "widow",
-      "count": 1
-    },
-    {
-      "word": "remains",
-      "count": 1
-    },
-    {
-      "word": "loyal",
-      "count": 1
-    },
-    {
-      "word": "her",
-      "count": 1
-    },
-    {
-      "word": "mother-in-law",
-      "count": 1
-    },
-    {
-      "word": "embarking",
-      "count": 1
-    },
-    {
-      "word": "laments",
-      "count": 1
-    },
-    {
-      "word": "grappling",
-      "count": 1
-    },
-    {
-      "word": "theological",
-      "count": 1
-    },
-    {
-      "word": "exploration",
-      "count": 1
-    },
-    {
-      "word": "reckoning",
-      "count": 1
-    },
-    {
-      "word": "death",
-      "count": 1
-    },
-    {
-      "word": "futility",
-      "count": 1
-    },
-    {
-      "word": "purpose",
-      "count": 1
-    },
-    {
-      "word": "becomes",
-      "count": 1
-    },
-    {
-      "word": "queen",
-      "count": 1
-    },
-    {
-      "word": "persia",
-      "count": 1
-    },
-    {
-      "word": "foils",
-      "count": 1
-    },
-    {
-      "word": "destroy",
-      "count": 1
-    },
-    {
-      "word": "establishing",
-      "count": 1
-    },
-    {
-      "word": "purim",
-      "count": 1
-    },
-    {
-      "word": "holiday",
-      "count": 1
-    },
-    {
-      "word": "advisor",
-      "count": 1
-    },
-    {
-      "word": "babylonian",
-      "count": 1
-    },
-    {
-      "word": "interprets",
-      "count": 1
-    },
-    {
-      "word": "dreams",
-      "count": 1
-    },
-    {
-      "word": "miraculously",
-      "count": 1
-    },
-    {
-      "word": "escapes",
-      "count": 1
-    },
-    {
-      "word": "danger",
-      "count": 1
-    },
-    {
-      "word": "decades",
-      "count": 1
-    },
-    {
-      "word": "revival",
-      "count": 1
-    },
-    {
-      "word": "led",
-      "count": 1
-    },
-    {
-      "word": "scribe",
-      "count": 1
-    },
-    {
-      "word": "walls",
-      "count": 1
-    },
-    {
-      "word": "nation",
-      "count": 1
-    },
-    {
-      "word": "commitment",
-      "count": 1
-    },
-    {
-      "word": "observe",
-      "count": 1
-    },
-    {
-      "word": "commandments",
-      "count": 1
-    },
-    {
-      "word": "translations",
-      "count": 1
-    },
-    {
-      "word": "transmitted",
-      "count": 1
-    },
-    {
-      "word": "orally",
-      "count": 1
-    },
-    {
-      "word": "committed",
-      "count": 1
-    },
-    {
-      "word": "eighth",
-      "count": 1
-    },
-    {
-      "word": "ce",
-      "count": 1
-    },
-    {
-      "word": "targumim",
-      "count": 1
-    },
-    {
-      "word": "ranging",
-      "count": 1
-    },
-    {
-      "word": "style",
-      "count": 1
-    },
-    {
-      "word": "date",
-      "count": 1
-    },
-    {
-      "word": "composition",
-      "count": 1
-    },
-    {
-      "word": "accepted",
-      "count": 1
-    },
-    {
-      "word": "authoritative",
-      "count": 1
-    },
-    {
-      "word": "tafsir",
-      "count": 1
-    },
-    {
-      "word": "rasag",
-      "count": 1
-    },
-    {
-      "word": "arabic",
-      "count": 1
-    },
-    {
-      "word": "using",
-      "count": 1
-    },
-    {
-      "word": "characters",
-      "count": 1
-    },
-    {
-      "word": "pieces",
-      "count": 1
-    },
-    {
-      "word": "scattered",
-      "count": 1
-    },
-    {
-      "word": "phrases",
-      "count": 1
-    },
-    {
-      "word": "neofiti",
-      "count": 1
-    },
-    {
-      "word": "incorporates",
-      "count": 1
-    },
-    {
-      "word": "expansions",
-      "count": 1
-    },
-    {
-      "word": "rishonim",
-      "count": 1
-    },
-    {
-      "word": "most",
-      "count": 1
-    },
-    {
-      "word": "widely-read",
-      "count": 1
-    },
-    {
-      "word": "interpretive",
-      "count": 1
-    },
-    {
-      "word": "linguistics",
-      "count": 1
-    },
-    {
-      "word": "opening",
-      "count": 1
-    },
-    {
-      "word": "section",
-      "count": 1
-    },
-    {
-      "word": "list",
-      "count": 1
-    },
-    {
-      "word": "ateret",
-      "count": 1
-    },
-    {
-      "word": "zekeinim",
-      "count": 1
-    },
-    {
-      "word": "completed",
-      "count": 1
-    },
-    {
-      "word": "around",
-      "count": 1
-    },
-    {
-      "word": "commenting",
-      "count": 1
-    },
-    {
-      "word": "chapters",
-      "count": 1
-    },
-    {
-      "word": "introductions",
-      "count": 1
-    },
-    {
-      "word": "containing",
-      "count": 1
-    },
-    {
-      "word": "devices",
-      "count": 1
-    },
-    {
-      "word": "mishnah",
-      "count": 1
-    },
-    {
-      "word": "commentator",
-      "count": 1
-    },
-    {
-      "word": "ovadiah",
-      "count": 1
-    },
-    {
-      "word": "bekhor",
-      "count": 1
-    },
-    {
-      "word": "shor",
-      "count": 1
-    },
-    {
-      "word": "tosafist",
-      "count": 1
-    },
-    {
-      "word": "offering",
-      "count": 1
-    },
-    {
-      "word": "rational",
-      "count": 1
-    },
-    {
-      "word": "chizkuni",
-      "count": 1
-    },
-    {
-      "word": "predecessors",
-      "count": 1
-    },
-    {
-      "word": "ideas",
-      "count": 1
-    },
-    {
-      "word": "france",
-      "count": 1
-    },
-    {
-      "word": "germany",
-      "count": 1
-    },
-    {
-      "word": "eshkol",
-      "count": 1
-    },
-    {
-      "word": "hakofer",
-      "count": 1
-    },
-    {
-      "word": "abraham",
-      "count": 1
-    },
-    {
-      "word": "saba",
-      "count": 1
-    },
-    {
-      "word": "rewritten",
-      "count": 1
-    },
-    {
-      "word": "memory",
-      "count": 1
-    },
-    {
-      "word": "was",
-      "count": 1
-    },
-    {
-      "word": "forced",
-      "count": 1
-    },
-    {
-      "word": "abandon",
-      "count": 1
-    },
-    {
-      "word": "before",
-      "count": 1
-    },
-    {
-      "word": "fleeing",
-      "count": 1
-    },
-    {
-      "word": "portugal",
-      "count": 1
-    },
-    {
-      "word": "gerona",
-      "count": 1
-    },
-    {
-      "word": "selected",
-      "count": 1
-    },
-    {
-      "word": "translated",
-      "count": 1
-    },
-    {
-      "word": "annotated",
-      "count": 1
-    },
-    {
-      "word": "seth",
-      "count": 1
-    },
-    {
-      "word": "brody",
-      "count": 1
-    },
-    {
-      "word": "gevia",
-      "count": 1
-    },
-    {
-      "word": "kesef",
-      "count": 1
-    },
-    {
-      "word": "exegetical",
-      "count": 1
-    },
-    {
-      "word": "kaspi",
-      "count": 1
-    },
-    {
-      "word": "related",
-      "count": 1
-    },
-    {
-      "word": "hadar",
-      "count": 1
-    },
-    {
-      "word": "anonymously",
-      "count": 1
-    },
-    {
-      "word": "franco-german",
-      "count": 1
-    },
-    {
-      "word": "scholars",
-      "count": 1
-    },
-    {
-      "word": "th-13th",
-      "count": 1
-    },
-    {
-      "word": "hatosafot",
-      "count": 1
-    },
-    {
-      "word": "joseph",
-      "count": 1
-    },
-    {
-      "word": "yahya",
-      "count": 1
-    },
-    {
-      "word": "rashba",
-      "count": 1
-    },
-    {
-      "word": "kitzur",
-      "count": 1
-    },
-    {
-      "word": "abridgement",
-      "count": 1
-    },
-    {
-      "word": "baal",
-      "count": 1
-    },
-    {
-      "word": "mashmia",
-      "count": 1
-    },
-    {
-      "word": "yeshuah",
-      "count": 1
-    },
-    {
-      "word": "treatise",
-      "count": 1
-    },
-    {
-      "word": "prophecies",
-      "count": 1
-    },
-    {
-      "word": "speak",
-      "count": 1
-    },
-    {
-      "word": "menachem",
-      "count": 1
-    },
-    {
-      "word": "early-20th",
-      "count": 1
-    },
-    {
-      "word": "shai",
-      "count": 1
-    },
-    {
-      "word": "cantillation",
-      "count": 1
-    },
-    {
-      "word": "vowelization",
-      "count": 1
-    },
-    {
-      "word": "paaneach",
-      "count": 1
-    },
-    {
-      "word": "raza",
-      "count": 1
-    },
-    {
-      "word": "while",
-      "count": 1
-    },
-    {
-      "word": "schemes",
-      "count": 1
-    },
-    {
-      "word": "bahya",
-      "count": 1
-    },
-    {
-      "word": "fourteenth-century",
-      "count": 1
-    },
-    {
-      "word": "along",
-      "count": 1
-    },
-    {
-      "word": "chananel",
-      "count": 1
-    },
-    {
-      "word": "reconstructed",
-      "count": 1
-    },
-    {
-      "word": "citations",
-      "count": 1
-    },
-    {
-      "word": "fragments",
-      "count": 1
-    },
-    {
-      "word": "manuscripts",
-      "count": 1
-    },
-    {
-      "word": "discovered",
-      "count": 1
-    },
-    {
-      "word": "cairo",
-      "count": 1
-    },
-    {
-      "word": "genizah",
-      "count": 1
-    },
-    {
-      "word": "defining",
-      "count": 1
-    },
-    {
-      "word": "demonstrating",
-      "count": 1
-    },
-    {
-      "word": "morals",
-      "count": 1
-    },
-    {
-      "word": "math",
-      "count": 1
-    },
-    {
-      "word": "astronomy",
-      "count": 1
-    },
-    {
-      "word": "beur",
-      "count": 1
-    },
-    {
-      "word": "hamilot",
-      "count": 1
-    },
-    {
-      "word": "three",
-      "count": 1
-    },
-    {
-      "word": "definitions",
-      "count": 1
-    },
-    {
-      "word": "rashbam",
-      "count": 1
-    },
-    {
-      "word": "riva",
-      "count": 1
-    },
-    {
-      "word": "rosh",
-      "count": 1
-    },
-    {
-      "word": "codifier",
-      "count": 1
-    },
-    {
-      "word": "yechiel",
-      "count": 1
-    },
-    {
-      "word": "loosely",
-      "count": 1
-    },
-    {
-      "word": "connected",
-      "count": 1
-    },
-    {
-      "word": "version",
-      "count": 1
-    },
-    {
-      "word": "overlapping",
-      "count": 1
-    },
-    {
-      "word": "themes",
-      "count": 1
-    },
-    {
-      "word": "but",
-      "count": 1
-    },
-    {
-      "word": "many",
-      "count": 1
-    },
-    {
-      "word": "sforno",
-      "count": 1
-    },
-    {
-      "word": "physician",
-      "count": 1
-    },
-    {
-      "word": "shelom",
-      "count": 1
-    },
-    {
-      "word": "gershon",
-      "count": 1
-    },
-    {
-      "word": "tikvat",
-      "count": 1
-    },
-    {
-      "word": "enosh",
-      "count": 1
-    },
-    {
-      "word": "emphasizing",
-      "count": 1
-    },
-    {
-      "word": "metaphorical",
-      "count": 1
-    },
-    {
-      "word": "toledot",
-      "count": 1
-    },
-    {
-      "word": "combining",
-      "count": 1
-    },
-    {
-      "word": "uncle",
-      "count": 1
-    },
-    {
-      "word": "karo",
-      "count": 1
-    },
-    {
-      "word": "haarokh",
-      "count": 1
-    },
-    {
-      "word": "summaries",
-      "count": 1
-    },
-    {
-      "word": "particularly",
-      "count": 1
-    },
-    {
-      "word": "tzror",
-      "count": 1
-    },
-    {
-      "word": "hamor",
-      "count": 1
-    },
-    {
-      "word": "zohar",
-      "count": 1
-    },
-    {
-      "word": "acharonim",
-      "count": 1
-    },
-    {
-      "word": "vilna",
-      "count": 1
-    },
-    {
-      "word": "select",
-      "count": 1
-    },
-    {
-      "word": "ish",
-      "count": 1
-    },
-    {
-      "word": "elaborative",
-      "count": 1
-    },
-    {
-      "word": "ahavat",
-      "count": 1
-    },
-    {
-      "word": "alon",
-      "count": 1
-    },
-    {
-      "word": "bakhut",
-      "count": 1
-    },
-    {
-      "word": "also",
-      "count": 1
-    },
-    {
-      "word": "torat",
-      "count": 1
-    },
-    {
-      "word": "moshe",
-      "count": 1
-    },
-    {
-      "word": "alshich",
-      "count": 1
-    },
-    {
-      "word": "lessons",
-      "count": 1
-    },
-    {
-      "word": "embedded",
-      "count": 1
-    },
-    {
-      "word": "phrase",
-      "count": 1
-    },
-    {
-      "word": "avi",
-      "count": 1
-    },
-    {
-      "word": "ezer",
-      "count": 1
-    },
-    {
-      "word": "brit",
-      "count": 1
-    },
-    {
-      "word": "avram",
-      "count": 1
-    },
-    {
-      "word": "vital",
-      "count": 1
-    },
-    {
-      "word": "beit",
-      "count": 1
-    },
-    {
-      "word": "analytical",
-      "count": 1
-    },
-    {
-      "word": "dov",
-      "count": 1
-    },
-    {
-      "word": "soloveitchik",
-      "count": 1
-    },
-    {
-      "word": "chanukat",
-      "count": 1
-    },
-    {
-      "word": "hatorah",
-      "count": 1
-    },
-    {
-      "word": "yehoshua",
-      "count": 1
-    },
-    {
-      "word": "heschel",
-      "count": 1
-    },
-    {
-      "word": "polish",
-      "count": 1
-    },
-    {
-      "word": "chida",
-      "count": 1
-    },
-    {
-      "word": "azulai",
-      "count": 1
-    },
-    {
-      "word": "divrei",
-      "count": 1
-    },
-    {
-      "word": "segal",
-      "count": 1
-    },
-    {
-      "word": "turei",
-      "count": 1
-    },
-    {
-      "word": "zahav",
-      "count": 1
-    },
-    {
-      "word": "taz",
-      "count": 1
-    },
-    {
-      "word": "em",
-      "count": 1
-    },
-    {
-      "word": "lamikra",
-      "count": 1
-    },
-    {
-      "word": "benamozegh",
-      "count": 1
-    },
-    {
-      "word": "philology",
-      "count": 1
-    },
-    {
-      "word": "archaeology",
-      "count": 1
-    },
-    {
-      "word": "history",
-      "count": 1
-    },
-    {
-      "word": "eretz",
-      "count": 1
-    },
-    {
-      "word": "readings",
-      "count": 1
-    },
-    {
-      "word": "leibush",
-      "count": 1
-    },
-    {
-      "word": "weisser",
-      "count": 1
-    },
-    {
-      "word": "acronym",
-      "count": 1
-    },
-    {
-      "word": "gur",
-      "count": 1
-    },
-    {
-      "word": "aryeh",
-      "count": 1
-    },
-    {
-      "word": "prague",
-      "count": 1
-    },
-    {
-      "word": "haktav",
-      "count": 1
-    },
-    {
-      "word": "vehakabalah",
-      "count": 1
-    },
-    {
-      "word": "opponent",
-      "count": 1
-    },
-    {
-      "word": "meant",
-      "count": 1
-    },
-    {
-      "word": "demonstrate",
-      "count": 1
-    },
-    {
-      "word": "how",
-      "count": 1
-    },
-    {
-      "word": "oral",
-      "count": 1
-    },
-    {
-      "word": "tradition",
-      "count": 1
-    },
-    {
-      "word": "derived",
-      "count": 1
-    },
-    {
-      "word": "classes",
-      "count": 1
-    },
-    {
-      "word": "gave",
-      "count": 1
-    },
-    {
-      "word": "volozhin",
-      "count": 1
-    },
-    {
-      "word": "yeshiva",
-      "count": 1
-    },
-    {
-      "word": "harchev",
-      "count": 1
-    },
-    {
-      "word": "iggeret",
-      "count": 1
-    },
-    {
-      "word": "shmuel",
-      "count": 1
-    },
-    {
-      "word": "de",
-      "count": 1
-    },
-    {
-      "word": "uçeda",
-      "count": 1
-    },
-    {
-      "word": "includes",
+      "word": "division",
       "count": 1
     },
     {
@@ -3425,587 +1317,31 @@
       "count": 1
     },
     {
-      "word": "contemporaries",
+      "word": "generally",
       "count": 1
     },
     {
-      "word": "yosher",
+      "word": "simply",
       "count": 1
     },
     {
-      "word": "netivot",
+      "word": "collection",
       "count": 1
     },
     {
-      "word": "mishpat",
+      "word": "often",
       "count": 1
     },
     {
-      "word": "keli",
+      "word": "contains",
       "count": 1
     },
     {
-      "word": "early-20th-century",
+      "word": "inserted",
       "count": 1
     },
     {
-      "word": "dan",
-      "count": 1
-    },
-    {
-      "word": "plotsky",
-      "count": 1
-    },
-    {
-      "word": "lengthy",
-      "count": 1
-    },
-    {
-      "word": "discussions",
-      "count": 1
-    },
-    {
-      "word": "halakhic",
-      "count": 1
-    },
-    {
-      "word": "kli",
-      "count": 1
-    },
-    {
-      "word": "yakar",
-      "count": 1
-    },
-    {
-      "word": "ephraim",
-      "count": 1
-    },
-    {
-      "word": "luntshits",
-      "count": 1
-    },
-    {
-      "word": "lechem",
-      "count": 1
-    },
-    {
-      "word": "dim",
-      "count": 1
-    },
-    {
-      "word": "ah",
-      "count": 1
-    },
-    {
-      "word": "eikhah",
-      "count": 1
-    },
-    {
-      "word": "levush",
-      "count": 1
-    },
-    {
-      "word": "haorah",
-      "count": 1
-    },
-    {
-      "word": "assumption",
-      "count": 1
-    },
-    {
-      "word": "carries",
-      "count": 1
-    },
-    {
-      "word": "unique",
-      "count": 1
-    },
-    {
-      "word": "no",
-      "count": 1
-    },
-    {
-      "word": "synonyms",
-      "count": 1
-    },
-    {
-      "word": "repetitions",
-      "count": 1
-    },
-    {
-      "word": "maskil",
-      "count": 1
-    },
-    {
-      "word": "ledavid",
-      "count": 1
-    },
-    {
-      "word": "super-commentary",
-      "count": 1
-    },
-    {
-      "word": "pardo",
-      "count": 1
-    },
-    {
-      "word": "poet",
-      "count": 1
-    },
-    {
-      "word": "mechokekei",
-      "count": 1
-    },
-    {
-      "word": "yehudah",
-      "count": 1
-    },
-    {
-      "word": "leib",
-      "count": 1
-    },
-    {
-      "word": "krinsky",
-      "count": 1
-    },
-    {
-      "word": "two-part",
-      "count": 1
-    },
-    {
-      "word": "megalleh",
-      "count": 1
-    },
-    {
-      "word": "amukkot",
-      "count": 1
-    },
-    {
-      "word": "kabbalist",
-      "count": 1
-    },
-    {
-      "word": "natan",
-      "count": 1
-    },
-    {
-      "word": "nota",
-      "count": 1
-    },
-    {
-      "word": "spira",
-      "count": 1
-    },
-    {
-      "word": "mekhir",
-      "count": 1
-    },
-    {
-      "word": "yayin",
-      "count": 1
-    },
-    {
-      "word": "rema",
-      "count": 1
-    },
-    {
-      "word": "person",
-      "count": 1
-    },
-    {
-      "word": "journey",
-      "count": 1
-    },
-    {
-      "word": "menot",
-      "count": 1
-    },
-    {
-      "word": "alkabetz",
-      "count": 1
-    },
-    {
-      "word": "meshekh",
-      "count": 1
-    },
-    {
-      "word": "chokhmah",
-      "count": 1
-    },
-    {
-      "word": "simcha",
-      "count": 1
-    },
-    {
-      "word": "dvinsk",
-      "count": 1
-    },
-    {
-      "word": "started",
-      "count": 1
-    },
-    {
-      "word": "teenager",
-      "count": 1
-    },
-    {
-      "word": "classic",
-      "count": 1
-    },
-    {
-      "word": "clear",
-      "count": 1
-    },
-    {
-      "word": "zion",
-      "count": 1
-    },
-    {
-      "word": "individual",
-      "count": 1
-    },
-    {
-      "word": "ani",
-      "count": 1
-    },
-    {
-      "word": "homilies",
-      "count": 1
-    },
-    {
-      "word": "ettlinger",
-      "count": 1
-    },
-    {
-      "word": "laner",
-      "count": 1
-    },
-    {
-      "word": "minei",
-      "count": 1
-    },
-    {
-      "word": "targuma",
-      "count": 1
-    },
-    {
-      "word": "interpreting",
-      "count": 1
-    },
-    {
-      "word": "defending",
-      "count": 1
-    },
-    {
-      "word": "critiques",
-      "count": 1
-    },
-    {
-      "word": "nachalat",
-      "count": 1
-    },
-    {
-      "word": "lorberbaum",
-      "count": 1
-    },
-    {
-      "word": "netinah",
-      "count": 1
-    },
-    {
-      "word": "lager",
-      "count": 1
-    },
-    {
-      "word": "od",
-      "count": 1
-    },
-    {
-      "word": "derashot",
-      "count": 1
-    },
-    {
-      "word": "ohel",
-      "count": 1
-    },
-    {
-      "word": "dubner",
-      "count": 1
-    },
-    {
-      "word": "maggid",
-      "count": 1
-    },
-    {
-      "word": "ohev",
-      "count": 1
-    },
-    {
-      "word": "ger",
-      "count": 1
-    },
-    {
-      "word": "academic",
-      "count": 1
-    },
-    {
-      "word": "analyzing",
-      "count": 1
-    },
-    {
-      "word": "methods",
-      "count": 1
-    },
-    {
-      "word": "ohr",
-      "count": 1
-    },
-    {
-      "word": "chadash",
-      "count": 1
-    },
-    {
-      "word": "hachaim",
-      "count": 1
-    },
-    {
-      "word": "originating",
-      "count": 1
-    },
-    {
-      "word": "morocco",
-      "count": 1
-    },
-    {
-      "word": "seen",
-      "count": 1
-    },
-    {
-      "word": "essential",
-      "count": 1
-    },
-    {
-      "word": "european",
-      "count": 1
-    },
-    {
-      "word": "founders",
-      "count": 1
-    },
-    {
-      "word": "chasidism",
-      "count": 1
-    },
-    {
-      "word": "pardes",
-      "count": 1
-    },
-    {
-      "word": "patzanovski",
-      "count": 1
-    },
-    {
-      "word": "seminal",
-      "count": 1
-    },
-    {
-      "word": "samson",
-      "count": 1
-    },
-    {
-      "word": "raphael",
-      "count": 1
-    },
-    {
-      "word": "expressing",
-      "count": 1
-    },
-    {
-      "word": "belief",
-      "count": 1
-    },
-    {
-      "word": "interconnectedness",
-      "count": 1
-    },
-    {
-      "word": "civilization",
-      "count": 1
-    },
-    {
-      "word": "reggio",
-      "count": 1
-    },
-    {
-      "word": "scientifically",
-      "count": 1
-    },
-    {
-      "word": "oriented",
-      "count": 1
-    },
-    {
-      "word": "enlightenment",
-      "count": 1
-    },
-    {
-      "word": "chakhamim",
-      "count": 1
-    },
-    {
-      "word": "identifying",
-      "count": 1
-    },
-    {
-      "word": "difficulties",
-      "count": 1
-    },
-    {
-      "word": "made",
-      "count": 1
-    },
-    {
-      "word": "comments",
-      "count": 1
-    },
-    {
-      "word": "necessary",
-      "count": 1
-    },
-    {
-      "word": "early-17th-century",
-      "count": 1
-    },
-    {
-      "word": "tevat",
-      "count": 1
-    },
-    {
-      "word": "gome",
-      "count": 1
-    },
-    {
-      "word": "pri",
-      "count": 1
-    },
-    {
-      "word": "megadim",
-      "count": 1
-    },
-    {
-      "word": "major",
-      "count": 1
-    },
-    {
-      "word": "tiferet",
-      "count": 1
-    },
-    {
-      "word": "consisting",
-      "count": 1
-    },
-    {
-      "word": "discourses",
-      "count": 1
-    },
-    {
-      "word": "temimah",
-      "count": 1
-    },
-    {
-      "word": "h-century",
-      "count": 1
-    },
-    {
-      "word": "encyclopedia",
-      "count": 1
-    },
-    {
-      "word": "literature",
-      "count": 1
-    },
-    {
-      "word": "relevant",
-      "count": 1
-    },
-    {
-      "word": "accompanied",
-      "count": 1
-    },
-    {
-      "word": "brief",
-      "count": 1
-    },
-    {
-      "word": "tzafnat",
-      "count": 1
-    },
-    {
-      "word": "pa",
-      "count": 1
-    },
-    {
-      "word": "neach",
-      "count": 1
-    },
-    {
-      "word": "rogatchover",
-      "count": 1
-    },
-    {
-      "word": "lens",
-      "count": 1
-    },
-    {
-      "word": "tze",
-      "count": 1
-    },
-    {
-      "word": "ure",
-      "count": 1
-    },
-    {
-      "word": "yiddish",
-      "count": 1
-    },
-    {
-      "word": "portions",
-      "count": 1
-    },
-    {
-      "word": "yeriot",
-      "count": 1
-    },
-    {
-      "word": "yesha",
-      "count": 1
-    },
-    {
-      "word": "elohim",
-      "count": 1
-    },
-    {
-      "word": "role",
-      "count": 1
-    },
-    {
-      "word": "story",
-      "count": 1
-    },
-    {
-      "word": "modern",
-      "count": 1
-    },
-    {
-      "word": "remer",
-      "count": 1
-    },
-    {
-      "word": "tzvi",
-      "count": 1
-    },
-    {
-      "word": "kook",
+      "word": "week's",
       "count": 1
     }
   ]

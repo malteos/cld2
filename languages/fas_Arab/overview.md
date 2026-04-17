@@ -21,7 +21,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 - `https://fa.wikipedia.org/` — _wikimedia/wikipedia 20231101_
 - `https://president.ir/fa` — Office of the President (Iran) — _live WebFetch_
-- `https://www.bbc.com/persian` — BBC Persian — _live WebFetch_
 
 ### Catalogued source candidates
 

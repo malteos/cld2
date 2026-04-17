@@ -5,12 +5,12 @@
   "tier": "low",
   "tier_target": 1000,
   "source": "Wikipedia (ltg.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
-  "total_tokens": 92036,
-  "unique_tokens": 25801,
+  "total_tokens": 91459,
+  "unique_tokens": 25714,
   "words": [
     {
       "word": "nu",
-      "count": 1165
+      "count": 1159
     },
     {
       "word": "irā",
@@ -18,11 +18,11 @@
     },
     {
       "word": "ar",
-      "count": 734
+      "count": 733
     },
     {
       "word": "godā",
-      "count": 718
+      "count": 716
     },
     {
       "word": "td",
@@ -37,28 +37,28 @@
       "count": 471
     },
     {
-      "word": "kai",
-      "count": 447
-    },
-    {
       "word": "nūruodis",
       "count": 445
     },
     {
+      "word": "kai",
+      "count": 445
+    },
+    {
       "word": "latgolys",
-      "count": 424
+      "count": 420
     },
     {
       "word": "beja",
-      "count": 406
-    },
-    {
-      "word": "iz",
       "count": 403
     },
     {
+      "word": "iz",
+      "count": 402
+    },
+    {
       "word": "latgaļu",
-      "count": 391
+      "count": 392
     },
     {
       "word": "pogosts",
@@ -70,7 +70,7 @@
     },
     {
       "word": "par",
-      "count": 348
+      "count": 346
     },
     {
       "word": "pa",
@@ -78,11 +78,11 @@
     },
     {
       "word": "latvejis",
-      "count": 298
+      "count": 295
     },
     {
       "word": "da",
-      "count": 277
+      "count": 276
     },
     {
       "word": "pogostā",
@@ -98,7 +98,7 @@
     },
     {
       "word": "latgolā",
-      "count": 229
+      "count": 228
     },
     {
       "word": "ļauds",
@@ -110,19 +110,19 @@
     },
     {
       "word": "pi",
-      "count": 214
+      "count": 216
     },
     {
       "word": "taipoš",
       "count": 213
     },
     {
-      "word": "goda",
+      "word": "centrys",
       "count": 210
     },
     {
-      "word": "centrys",
-      "count": 210
+      "word": "goda",
+      "count": 209
     },
     {
       "word": "volūda",
@@ -133,11 +133,11 @@
       "count": 199
     },
     {
-      "word": "piec",
-      "count": 196
+      "word": "latvīšu",
+      "count": 194
     },
     {
-      "word": "latvīšu",
+      "word": "piec",
       "count": 193
     },
     {
@@ -145,15 +145,7 @@
       "count": 192
     },
     {
-      "word": "ir",
-      "count": 189
-    },
-    {
       "word": "dzeivoj",
-      "count": 189
-    },
-    {
-      "word": "latgalīšu",
       "count": 188
     },
     {
@@ -161,24 +153,32 @@
       "count": 187
     },
     {
+      "word": "latgalīšu",
+      "count": 187
+    },
+    {
+      "word": "ir",
+      "count": 180
+    },
+    {
       "word": "republika",
       "count": 178
     },
     {
       "word": "godu",
-      "count": 174
-    },
-    {
-      "word": "ka",
-      "count": 168
+      "count": 175
     },
     {
       "word": "viesture",
       "count": 168
     },
     {
+      "word": "ka",
+      "count": 166
+    },
+    {
       "word": "volūdys",
-      "count": 159
+      "count": 158
     },
     {
       "word": "padalīņs",
@@ -194,11 +194,11 @@
     },
     {
       "word": "voi",
-      "count": 148
+      "count": 147
     },
     {
       "word": "pasauļa",
-      "count": 145
+      "count": 144
     },
     {
       "word": "kod",
@@ -209,15 +209,15 @@
       "count": 142
     },
     {
+      "word": "var",
+      "count": 142
+    },
+    {
       "word": "katuoļu",
       "count": 141
     },
     {
       "word": "ci",
-      "count": 141
-    },
-    {
-      "word": "var",
       "count": 141
     },
     {
@@ -230,10 +230,6 @@
     },
     {
       "word": "teritoreju",
-      "count": 133
-    },
-    {
-      "word": "the",
       "count": 133
     },
     {
@@ -258,7 +254,7 @@
     },
     {
       "word": "krīvu",
-      "count": 126
+      "count": 127
     },
     {
       "word": "km",
@@ -266,7 +262,11 @@
     },
     {
       "word": "jis",
-      "count": 124
+      "count": 125
+    },
+    {
+      "word": "the",
+      "count": 125
     },
     {
       "word": "solu",
@@ -289,15 +289,11 @@
       "count": 112
     },
     {
-      "word": "tyka",
-      "count": 110
-    },
-    {
       "word": "azars",
       "count": 110
     },
     {
-      "word": "juo",
+      "word": "tyka",
       "count": 109
     },
     {
@@ -309,12 +305,16 @@
       "count": 109
     },
     {
-      "word": "volūdā",
+      "word": "juo",
       "count": 108
     },
     {
       "word": "mīsta",
       "count": 107
+    },
+    {
+      "word": "volūdā",
+      "count": 105
     },
     {
       "word": "anglīšu",
@@ -345,28 +345,32 @@
       "count": 101
     },
     {
+      "word": "jū",
+      "count": 100
+    },
+    {
       "word": "bazneica",
       "count": 99
     },
     {
-      "word": "jū",
-      "count": 99
-    },
-    {
-      "word": "tautys",
-      "count": 99
-    },
-    {
       "word": "latvejā",
-      "count": 98
+      "count": 97
     },
     {
       "word": "zeimeigi",
       "count": 97
     },
     {
+      "word": "tautys",
+      "count": 97
+    },
+    {
       "word": "dora",
       "count": 97
+    },
+    {
+      "word": "volūdu",
+      "count": 96
     },
     {
       "word": "ludzys",
@@ -377,23 +381,15 @@
       "count": 95
     },
     {
-      "word": "vīns",
-      "count": 93
-    },
-    {
-      "word": "volūdu",
-      "count": 92
-    },
-    {
       "word": "iraid",
       "count": 92
     },
     {
-      "word": "vaira",
-      "count": 90
+      "word": "vīns",
+      "count": 91
     },
     {
-      "word": "kulturys",
+      "word": "vaira",
       "count": 89
     },
     {
@@ -401,15 +397,15 @@
       "count": 89
     },
     {
-      "word": "tys",
+      "word": "kulturys",
       "count": 87
+    },
+    {
+      "word": "tys",
+      "count": 86
     },
     {
       "word": "tok",
-      "count": 87
-    },
-    {
-      "word": "of",
       "count": 86
     },
     {
@@ -433,16 +429,16 @@
       "count": 80
     },
     {
+      "word": "of",
+      "count": 79
+    },
+    {
       "word": "por",
       "count": 79
     },
     {
       "word": "pūstumu",
       "count": 78
-    },
-    {
-      "word": "lv",
-      "count": 77
     },
     {
       "word": "giņts",
@@ -454,6 +450,10 @@
     },
     {
       "word": "leidz",
+      "count": 76
+    },
+    {
+      "word": "lv",
       "count": 76
     },
     {
@@ -469,12 +469,12 @@
       "count": 76
     },
     {
-      "word": "zemis",
+      "word": "sovu",
       "count": 75
     },
     {
-      "word": "sovu",
-      "count": 74
+      "word": "zemis",
+      "count": 75
     },
     {
       "word": "nūvodā",
@@ -505,10 +505,6 @@
       "count": 72
     },
     {
-      "word": "kab",
-      "count": 71
-    },
-    {
       "word": "leopardus",
       "count": 71
     },
@@ -521,12 +517,12 @@
       "count": 70
     },
     {
-      "word": "kur",
+      "word": "golvysmīsts",
       "count": 70
     },
     {
-      "word": "golvysmīsts",
-      "count": 70
+      "word": "kab",
+      "count": 69
     },
     {
       "word": "solā",
@@ -565,7 +561,7 @@
       "count": 68
     },
     {
-      "word": "ari",
+      "word": "kur",
       "count": 68
     },
     {
@@ -589,7 +585,7 @@
       "count": 67
     },
     {
-      "word": "tū",
+      "word": "ari",
       "count": 66
     },
     {
@@ -605,6 +601,10 @@
       "count": 64
     },
     {
+      "word": "tū",
+      "count": 63
+    },
+    {
       "word": "tei",
       "count": 63
     },
@@ -615,14 +615,6 @@
     {
       "word": "dīnavydu",
       "count": 63
-    },
-    {
-      "word": "dīnys",
-      "count": 63
-    },
-    {
-      "word": "vydā",
-      "count": 62
     },
     {
       "word": "cīši",
@@ -637,20 +629,28 @@
       "count": 62
     },
     {
-      "word": "jau",
-      "count": 61
-    },
-    {
-      "word": "ite",
-      "count": 61
-    },
-    {
       "word": "tai",
       "count": 61
     },
     {
       "word": "lelumam",
       "count": 61
+    },
+    {
+      "word": "dīnys",
+      "count": 61
+    },
+    {
+      "word": "vydā",
+      "count": 60
+    },
+    {
+      "word": "jau",
+      "count": 60
+    },
+    {
+      "word": "ite",
+      "count": 60
     },
     {
       "word": "noms",
@@ -681,11 +681,11 @@
       "count": 58
     },
     {
-      "word": "aglyunys",
+      "word": "un",
       "count": 56
     },
     {
-      "word": "cytu",
+      "word": "aglyunys",
       "count": 56
     },
     {
@@ -701,11 +701,7 @@
       "count": 56
     },
     {
-      "word": "un",
-      "count": 55
-    },
-    {
-      "word": "bet",
+      "word": "cytu",
       "count": 55
     },
     {
@@ -719,6 +715,10 @@
     {
       "word": "dīna",
       "count": 55
+    },
+    {
+      "word": "bet",
+      "count": 54
     },
     {
       "word": "ii",
@@ -797,10 +797,6 @@
       "count": 50
     },
     {
-      "word": "dzims",
-      "count": 50
-    },
-    {
       "word": "bejuse",
       "count": 50
     },
@@ -825,6 +821,10 @@
       "count": 49
     },
     {
+      "word": "dzims",
+      "count": 49
+    },
+    {
       "word": "nūv",
       "count": 49
     },
@@ -834,10 +834,6 @@
     },
     {
       "word": "dīnā",
-      "count": 48
-    },
-    {
-      "word": "to",
       "count": 48
     },
     {
@@ -901,10 +897,6 @@
       "count": 47
     },
     {
-      "word": "gruomotys",
-      "count": 46
-    },
-    {
       "word": "pluots",
       "count": 46
     },
@@ -917,11 +909,11 @@
       "count": 46
     },
     {
-      "word": "laika",
-      "count": 44
+      "word": "gruomotys",
+      "count": 45
     },
     {
-      "word": "volūduos",
+      "word": "laika",
       "count": 44
     },
     {
@@ -953,6 +945,10 @@
       "count": 44
     },
     {
+      "word": "pats",
+      "count": 43
+    },
+    {
       "word": "baļtejis",
       "count": 43
     },
@@ -981,11 +977,11 @@
       "count": 42
     },
     {
-      "word": "tūlaik",
+      "word": "volūduos",
       "count": 42
     },
     {
-      "word": "pats",
+      "word": "tūlaik",
       "count": 42
     },
     {
@@ -1013,11 +1009,11 @@
       "count": 42
     },
     {
-      "word": "lelums",
+      "word": "lītoj",
       "count": 41
     },
     {
-      "word": "lītoj",
+      "word": "to",
       "count": 41
     },
     {
@@ -1026,6 +1022,10 @@
     },
     {
       "word": "bez",
+      "count": 40
+    },
+    {
+      "word": "lelums",
       "count": 40
     },
     {
@@ -1081,16 +1081,16 @@
       "count": 39
     },
     {
-      "word": "vuordu",
-      "count": 38
-    },
-    {
       "word": "vokoru",
       "count": 38
     },
     {
       "word": "sielejā",
       "count": 38
+    },
+    {
+      "word": "vuordu",
+      "count": 37
     },
     {
       "word": "cytys",
@@ -1169,10 +1169,6 @@
       "count": 35
     },
     {
-      "word": "tī",
-      "count": 35
-    },
-    {
       "word": "skaits",
       "count": 35
     },
@@ -1190,10 +1186,6 @@
     },
     {
       "word": "ailis",
-      "count": 35
-    },
-    {
-      "word": "and",
       "count": 35
     },
     {
@@ -1317,7 +1309,15 @@
       "count": 33
     },
     {
-      "word": "rokstu",
+      "word": "gruomotu",
+      "count": 32
+    },
+    {
+      "word": "nūteik",
+      "count": 32
+    },
+    {
+      "word": "tī",
       "count": 32
     },
     {
@@ -1330,6 +1330,10 @@
     },
     {
       "word": "viņ",
+      "count": 32
+    },
+    {
+      "word": "and",
       "count": 32
     },
     {
@@ -1361,19 +1365,11 @@
       "count": 32
     },
     {
-      "word": "gruomotu",
-      "count": 31
-    },
-    {
       "word": "kuramā",
       "count": 31
     },
     {
-      "word": "nūteik",
-      "count": 31
-    },
-    {
-      "word": "škiru",
+      "word": "rokstu",
       "count": 31
     },
     {
@@ -1449,23 +1445,15 @@
       "count": 31
     },
     {
-      "word": "tod",
-      "count": 30
-    },
-    {
-      "word": "ira",
-      "count": 30
-    },
-    {
       "word": "roksta",
       "count": 30
     },
     {
-      "word": "saime",
+      "word": "škiru",
       "count": 30
     },
     {
-      "word": "piečuok",
+      "word": "saime",
       "count": 30
     },
     {
@@ -1513,6 +1501,14 @@
       "count": 29
     },
     {
+      "word": "tod",
+      "count": 29
+    },
+    {
+      "word": "ira",
+      "count": 29
+    },
+    {
       "word": "lela",
       "count": 29
     },
@@ -1522,6 +1518,10 @@
     },
     {
       "word": "pret",
+      "count": 29
+    },
+    {
+      "word": "piečuok",
       "count": 29
     },
     {
@@ -1569,23 +1569,11 @@
       "count": 29
     },
     {
-      "word": "no",
-      "count": 28
-    },
-    {
-      "word": "īt",
-      "count": 28
-    },
-    {
       "word": "varakļuonu",
       "count": 28
     },
     {
       "word": "oficialai",
-      "count": 28
-    },
-    {
-      "word": "padūmu",
       "count": 28
     },
     {
@@ -1641,7 +1629,7 @@
       "count": 27
     },
     {
-      "word": "pīmāram",
+      "word": "tūs",
       "count": 27
     },
     {
@@ -1650,10 +1638,6 @@
     },
     {
       "word": "reiga",
-      "count": 27
-    },
-    {
-      "word": "reigā",
       "count": 27
     },
     {
@@ -1674,10 +1658,6 @@
     },
     {
       "word": "īstateits",
-      "count": 27
-    },
-    {
-      "word": "in",
       "count": 27
     },
     {
@@ -1721,11 +1701,19 @@
       "count": 27
     },
     {
+      "word": "no",
+      "count": 26
+    },
+    {
+      "word": "īt",
+      "count": 26
+    },
+    {
       "word": "kū",
       "count": 26
     },
     {
-      "word": "tūs",
+      "word": "padūmu",
       "count": 26
     },
     {
@@ -1734,6 +1722,10 @@
     },
     {
       "word": "muzejs",
+      "count": 26
+    },
+    {
+      "word": "reigā",
       "count": 26
     },
     {
@@ -1754,6 +1746,10 @@
     },
     {
       "word": "sīnuojis",
+      "count": 26
+    },
+    {
+      "word": "in",
       "count": 26
     },
     {
@@ -1817,6 +1813,10 @@
       "count": 25
     },
     {
+      "word": "vajag",
+      "count": 25
+    },
+    {
       "word": "baltu",
       "count": 25
     },
@@ -1849,10 +1849,6 @@
       "count": 25
     },
     {
-      "word": "muzykys",
-      "count": 25
-    },
-    {
       "word": "buļbis",
       "count": 25
     },
@@ -1877,15 +1873,15 @@
       "count": 24
     },
     {
+      "word": "kam",
+      "count": 24
+    },
+    {
       "word": "rakstinīks",
       "count": 24
     },
     {
       "word": "taisa",
-      "count": 24
-    },
-    {
-      "word": "dreiži",
       "count": 24
     },
     {
@@ -1917,15 +1913,7 @@
       "count": 24
     },
     {
-      "word": "vajag",
-      "count": 24
-    },
-    {
       "word": "vysuvaira",
-      "count": 24
-    },
-    {
-      "word": "wikipedia",
       "count": 24
     },
     {
@@ -1949,6 +1937,10 @@
       "count": 24
     },
     {
+      "word": "muzykys",
+      "count": 24
+    },
+    {
       "word": "lynu",
       "count": 24
     },
@@ -1965,11 +1957,11 @@
       "count": 23
     },
     {
-      "word": "kam",
+      "word": "viesturis",
       "count": 23
     },
     {
-      "word": "viesturis",
+      "word": "pīmāram",
       "count": 23
     },
     {
@@ -1981,19 +1973,15 @@
       "count": 23
     },
     {
-      "word": "byutu",
-      "count": 23
-    },
-    {
-      "word": "sauc",
-      "count": 23
-    },
-    {
       "word": "bibliotekys",
       "count": 23
     },
     {
       "word": "latgale",
+      "count": 23
+    },
+    {
+      "word": "dreiži",
       "count": 23
     },
     {
@@ -2077,10 +2065,6 @@
       "count": 23
     },
     {
-      "word": "gruomota",
-      "count": 22
-    },
-    {
       "word": "sova",
       "count": 22
     },
@@ -2097,15 +2081,7 @@
       "count": 22
     },
     {
-      "word": "vuocu",
-      "count": 22
-    },
-    {
-      "word": "formys",
-      "count": 22
-    },
-    {
-      "word": "tuos",
+      "word": "sauc",
       "count": 22
     },
     {
@@ -2241,15 +2217,31 @@
       "count": 22
     },
     {
+      "word": "gruomota",
+      "count": 21
+    },
+    {
       "word": "cytur",
       "count": 21
     },
     {
-      "word": "vuordi",
+      "word": "lītuot",
       "count": 21
     },
     {
-      "word": "lītuot",
+      "word": "byutu",
+      "count": 21
+    },
+    {
+      "word": "formys",
+      "count": 21
+    },
+    {
+      "word": "tuos",
+      "count": 21
+    },
+    {
+      "word": "nav",
       "count": 21
     },
     {
@@ -2262,10 +2254,6 @@
     },
     {
       "word": "rēzne",
-      "count": 21
-    },
-    {
-      "word": "kara",
       "count": 21
     },
     {
@@ -2349,31 +2337,19 @@
       "count": 20
     },
     {
-      "word": "nakai",
-      "count": 20
-    },
-    {
-      "word": "der",
-      "count": 20
-    },
-    {
-      "word": "nav",
-      "count": 20
-    },
-    {
       "word": "krystus",
       "count": 20
     },
     {
+      "word": "kara",
+      "count": 20
+    },
+    {
+      "word": "jūrdžs",
+      "count": 20
+    },
+    {
       "word": "pīdzims",
-      "count": 20
-    },
-    {
-      "word": "laiku",
-      "count": 20
-    },
-    {
-      "word": "itys",
       "count": 20
     },
     {
@@ -2397,7 +2373,7 @@
       "count": 20
     },
     {
-      "word": "article",
+      "word": "wikipedia",
       "count": 20
     },
     {
@@ -2406,10 +2382,6 @@
     },
     {
       "word": "https",
-      "count": 20
-    },
-    {
-      "word": "org",
       "count": 20
     },
     {
@@ -2473,11 +2445,23 @@
       "count": 19
     },
     {
-      "word": "zineibu",
+      "word": "nakai",
+      "count": 19
+    },
+    {
+      "word": "vuocu",
+      "count": 19
+    },
+    {
+      "word": "der",
       "count": 19
     },
     {
       "word": "arī",
+      "count": 19
+    },
+    {
+      "word": "laiku",
       "count": 19
     },
     {
@@ -2490,6 +2474,10 @@
     },
     {
       "word": "pošā",
+      "count": 19
+    },
+    {
+      "word": "itys",
       "count": 19
     },
     {
@@ -2569,7 +2557,7 @@
       "count": 19
     },
     {
-      "word": "myusu",
+      "word": "cylvāki",
       "count": 18
     },
     {
@@ -2577,7 +2565,7 @@
       "count": 18
     },
     {
-      "word": "bīži",
+      "word": "vuordi",
       "count": 18
     },
     {
@@ -2586,10 +2574,6 @@
     },
     {
       "word": "lels",
-      "count": 18
-    },
-    {
-      "word": "baļtīšu",
       "count": 18
     },
     {
@@ -2605,11 +2589,7 @@
       "count": 18
     },
     {
-      "word": "literatura",
-      "count": 18
-    },
-    {
-      "word": "jūrdžs",
+      "word": "zineibu",
       "count": 18
     },
     {
@@ -2665,11 +2645,19 @@
       "count": 18
     },
     {
+      "word": "article",
+      "count": 18
+    },
+    {
       "word": "pastateja",
       "count": 18
     },
     {
       "word": "sporta",
+      "count": 18
+    },
+    {
+      "word": "org",
       "count": 18
     },
     {
@@ -2682,14 +2670,6 @@
     },
     {
       "word": "cierkvys",
-      "count": 18
-    },
-    {
-      "word": "for",
-      "count": 18
-    },
-    {
-      "word": "you",
       "count": 18
     },
     {
@@ -2717,6 +2697,10 @@
       "count": 18
     },
     {
+      "word": "myusu",
+      "count": 17
+    },
+    {
       "word": "izīt",
       "count": 17
     },
@@ -2726,10 +2710,6 @@
     },
     {
       "word": "škeļtovys",
-      "count": 17
-    },
-    {
-      "word": "byus",
       "count": 17
     },
     {
@@ -2749,7 +2729,11 @@
       "count": 17
     },
     {
-      "word": "psrs",
+      "word": "literatura",
+      "count": 17
+    },
+    {
+      "word": "andryvs",
       "count": 17
     },
     {
@@ -2925,15 +2909,19 @@
       "count": 17
     },
     {
-      "word": "cylvāki",
-      "count": 16
-    },
-    {
       "word": "dīnavydreitūs",
       "count": 16
     },
     {
-      "word": "vīn",
+      "word": "bīži",
+      "count": 16
+    },
+    {
+      "word": "baļtīšu",
+      "count": 16
+    },
+    {
+      "word": "byus",
       "count": 16
     },
     {
@@ -2950,10 +2938,6 @@
     },
     {
       "word": "datim",
-      "count": 16
-    },
-    {
-      "word": "juoņa",
       "count": 16
     },
     {
@@ -3157,6 +3141,10 @@
       "count": 15
     },
     {
+      "word": "vaļsts",
+      "count": 15
+    },
+    {
       "word": "sasadorūšs",
       "count": 15
     },
@@ -3165,31 +3153,7 @@
       "count": 15
     },
     {
-      "word": "burtu",
-      "count": 15
-    },
-    {
-      "word": "atškireibys",
-      "count": 15
-    },
-    {
-      "word": "ābele",
-      "count": 15
-    },
-    {
-      "word": "vai",
-      "count": 15
-    },
-    {
-      "word": "pīsadaleja",
-      "count": 15
-    },
-    {
-      "word": "dorbs",
-      "count": 15
-    },
-    {
-      "word": "andryvs",
+      "word": "uz",
       "count": 15
     },
     {
@@ -3206,10 +3170,6 @@
     },
     {
       "word": "filologejis",
-      "count": 15
-    },
-    {
-      "word": "as",
       "count": 15
     },
     {
@@ -3305,10 +3265,6 @@
       "count": 15
     },
     {
-      "word": "ituo",
-      "count": 15
-    },
-    {
       "word": "peisi",
       "count": 15
     },
@@ -3330,6 +3286,10 @@
     },
     {
       "word": "reitulatvejis",
+      "count": 15
+    },
+    {
+      "word": "for",
       "count": 15
     },
     {
@@ -3377,6 +3337,10 @@
       "count": 15
     },
     {
+      "word": "you",
+      "count": 15
+    },
+    {
       "word": "norvegeja",
       "count": 15
     },
@@ -3390,10 +3354,6 @@
     },
     {
       "word": "medņovys",
-      "count": 15
-    },
-    {
-      "word": "on",
       "count": 15
     },
     {
@@ -3421,23 +3381,27 @@
       "count": 15
     },
     {
-      "word": "cookies",
-      "count": 15
-    },
-    {
       "word": "lasejums",
       "count": 14
     },
     {
-      "word": "vaļsts",
+      "word": "ūtrys",
       "count": 14
     },
     {
-      "word": "uz",
+      "word": "burtu",
+      "count": 14
+    },
+    {
+      "word": "vīn",
       "count": 14
     },
     {
       "word": "putnu",
+      "count": 14
+    },
+    {
+      "word": "vai",
       "count": 14
     },
     {
@@ -3457,7 +3421,11 @@
       "count": 14
     },
     {
-      "word": "juņa",
+      "word": "pīsadaleja",
+      "count": 14
+    },
+    {
+      "word": "dorbs",
       "count": 14
     },
     {
@@ -3477,19 +3445,11 @@
       "count": 14
     },
     {
-      "word": "tradicejis",
-      "count": 14
-    },
-    {
       "word": "tān",
       "count": 14
     },
     {
       "word": "myusdīnu",
-      "count": 14
-    },
-    {
-      "word": "itymā",
       "count": 14
     },
     {
@@ -3569,15 +3529,7 @@
       "count": 14
     },
     {
-      "word": "ltg",
-      "count": 14
-    },
-    {
       "word": "chaus",
-      "count": 14
-    },
-    {
-      "word": "cik",
       "count": 14
     },
     {
@@ -3586,6 +3538,10 @@
     },
     {
       "word": "zemu",
+      "count": 14
+    },
+    {
+      "word": "ituo",
       "count": 14
     },
     {
@@ -3669,19 +3625,15 @@
       "count": 13
     },
     {
-      "word": "lelūs",
-      "count": 13
-    },
-    {
       "word": "daudz",
       "count": 13
     },
     {
-      "word": "burtim",
+      "word": "tāvs",
       "count": 13
     },
     {
-      "word": "tāvs",
+      "word": "juņa",
       "count": 13
     },
     {
@@ -3690,6 +3642,10 @@
     },
     {
       "word": "tāvu",
+      "count": 13
+    },
+    {
+      "word": "juoņa",
       "count": 13
     },
     {
@@ -3713,15 +3669,19 @@
       "count": 13
     },
     {
+      "word": "tradicejis",
+      "count": 13
+    },
+    {
       "word": "dīnuos",
       "count": 13
     },
     {
-      "word": "reižu",
+      "word": "itymā",
       "count": 13
     },
     {
-      "word": "it",
+      "word": "reižu",
       "count": 13
     },
     {
@@ -3758,10 +3718,6 @@
     },
     {
       "word": "itamā",
-      "count": 13
-    },
-    {
-      "word": "dzeivuojs",
       "count": 13
     },
     {
@@ -3838,6 +3794,10 @@
     },
     {
       "word": "grupys",
+      "count": 13
+    },
+    {
+      "word": "cik",
       "count": 13
     },
     {
@@ -3953,6 +3913,10 @@
       "count": 13
     },
     {
+      "word": "nūtikšonys",
+      "count": 12
+    },
+    {
       "word": "dareja",
       "count": 12
     },
@@ -3961,27 +3925,15 @@
       "count": 12
     },
     {
-      "word": "ūtrys",
-      "count": 12
-    },
-    {
       "word": "jūrdža",
       "count": 12
     },
     {
-      "word": "parādavuošona",
+      "word": "lelūs",
       "count": 12
     },
     {
       "word": "lelī",
-      "count": 12
-    },
-    {
-      "word": "formu",
-      "count": 12
-    },
-    {
-      "word": "mozuok",
       "count": 12
     },
     {
@@ -3993,19 +3945,67 @@
       "count": 12
     },
     {
-      "word": "padūmis",
-      "count": 12
-    },
-    {
-      "word": "akademejis",
-      "count": 12
-    },
-    {
-      "word": "tīseibu",
+      "word": "psrs",
       "count": 12
     },
     {
       "word": "biografeja",
+      "count": 12
+    },
+    {
+      "word": "publicists",
+      "count": 12
+    },
+    {
+      "word": "institutā",
+      "count": 12
+    },
+    {
+      "word": "laikrokstā",
+      "count": 12
+    },
+    {
+      "word": "vysim",
+      "count": 12
+    },
+    {
+      "word": "dīvam",
+      "count": 12
+    },
+    {
+      "word": "ni",
+      "count": 12
+    },
+    {
+      "word": "as",
+      "count": 12
+    },
+    {
+      "word": "sirds",
+      "count": 12
+    },
+    {
+      "word": "it",
+      "count": 12
+    },
+    {
+      "word": "godim",
+      "count": 12
+    },
+    {
+      "word": "svātki",
+      "count": 12
+    },
+    {
+      "word": "dzymtuo",
+      "count": 12
+    },
+    {
+      "word": "rupaiņa",
+      "count": 12
+    },
+    {
+      "word": "austrejis",
       "count": 12
     }
   ]

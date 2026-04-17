@@ -38,7 +38,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 - `https://pl.wikipedia.org/` — _wikimedia/wikipedia 20231101_
 - `https://www.gov.pl/` — Gov.pl — _live WebFetch_
-- `https://www.rp.pl/` — Rzeczpospolita — _live WebFetch_
 
 ### Catalogued source candidates
 

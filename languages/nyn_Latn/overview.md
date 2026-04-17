@@ -30,12 +30,13 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 ### Contributed content
 
 - `https://www.newvision.co.ug/` — New Vision — Uganda news — _live WebFetch_
-- `https://orumuri.co.ug/` — Orumuri — Runyankore/Rukiga newspaper — _live WebFetch_
-- `https://www.mak.ac.ug/` — Makerere University — Runyankore-Rukiga department — _live WebFetch_
 
 ### Catalogued source candidates
 
 - `https://www.newvision.co.ug/` — New Vision — Uganda news (news)
 - `https://orumuri.co.ug/` — Orumuri — Runyankore/Rukiga newspaper (news)
-- `https://www.radioperformanceug.com/` — Radio Performance Uganda (Runyankore / English) (news)
-- `https://www.mak.ac.ug/` — Makerere University — Runyankore-Rukiga department (education)
+- `https://www.mak.ac.ug/` — Makerere University (education)
+- `https://www.jw.org/nyn/` — jw.org Runyankore (religious)
+- `https://ugandaradionetwork.net/` — Uganda Radio Network (news)
+- `https://www.monitor.co.ug/` — Daily Monitor — Uganda (news)
+- `https://www.kanguka.org/` — Kanguka — Runyankore language resources (education)

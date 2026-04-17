@@ -140,7 +140,7 @@ def strip_html(html: str) -> str:
     return _WHITESPACE.sub(" ", text).strip()
 
 
-def fetch_url(url: str, timeout: int = 20) -> str | None:
+def fetch_url(url: str, timeout: int = 8) -> str | None:
     try:
         r = requests.get(url, headers=HEADERS, timeout=timeout, allow_redirects=True)
         if r.status_code != 200:
@@ -188,22 +188,130 @@ def extract_article_links(html: str, base_url: str, max_links: int = 8) -> list[
     return out
 
 
+_NAV_MARKERS = re.compile(
+    r"\b(?:accueil|menu|rubriques|plus d[ae']?\s*infos?|abonnement|"
+    r"suivez[\- ]nous|tous droits r[eé]serv|mentions l[eé]gales|"
+    r"cookies?|newsletter|home|subscribe|newsletter|privacy policy|"
+    r"terms of (?:service|use)|login|sign\s?up|search|archives?|"
+    r"directory|footer)\b", re.I)
+
+
+def _is_cjk_or_thai_dominant(text: str) -> bool:
+    """True if the text is mostly CJK, Thai, Lao, or Khmer — scripts that
+    don't use spaces between words. Different heuristics apply."""
+    n = sum(1 for c in text
+            if 0x3040 <= ord(c) <= 0x9FFF
+            or 0xAC00 <= ord(c) <= 0xD7AF
+            or 0x0E00 <= ord(c) <= 0x0EFF
+            or 0x1780 <= ord(c) <= 0x17FF)
+    return n > 0.4 * max(1, len(text))
+
+
+_SCRIPT_RANGES = [
+    ("Latin",  (0x0041, 0x024F)),
+    ("Cyrl",   (0x0400, 0x04FF)),
+    ("Grek",   (0x0370, 0x03FF)),
+    ("Arab",   (0x0600, 0x06FF)),
+    ("Hebr",   (0x0590, 0x05FF)),
+    ("Deva",   (0x0900, 0x097F)),
+    ("Beng",   (0x0980, 0x09FF)),
+    ("Guru",   (0x0A00, 0x0A7F)),
+    ("Gujr",   (0x0A80, 0x0AFF)),
+    ("Orya",   (0x0B00, 0x0B7F)),
+    ("Taml",   (0x0B80, 0x0BFF)),
+    ("Telu",   (0x0C00, 0x0C7F)),
+    ("Knda",   (0x0C80, 0x0CFF)),
+    ("Mlym",   (0x0D00, 0x0D7F)),
+    ("Thai",   (0x0E00, 0x0E7F)),
+    ("CJK",    (0x3040, 0x9FFF)),
+    ("Hang",   (0xAC00, 0xD7AF)),
+]
+
+_DIGEST_SMELL = re.compile(
+    r"\b(?:\d+ (?:hrs?|mins?|hours?|minutes?|days?|weeks?|months?) ago|"
+    r"read more|click here|see more|full story|continue reading|"
+    r"copyright \d{4}|all rights reserved|privacy policy|terms of use)\b",
+    re.I)
+
+
+def _count_scripts(text: str) -> int:
+    present = set()
+    for c in text:
+        cp = ord(c)
+        for name, (lo, hi) in _SCRIPT_RANGES:
+            if lo <= cp <= hi:
+                present.add(name)
+                break
+    return len(present)
+
+
+def _looks_like_prose(text: str) -> bool:
+    """Reject nav/menu strings, site chrome, and multi-script language
+    menus. Real article paragraphs have:
+      - sentence-ending punctuation at a reasonable density
+      - one dominant script (with limited loan-script tokens)
+      - no overt UI / digest markers
+    """
+    # CJK / Thai / Lao / Khmer: skip the Latin word-boundary heuristics.
+    if _is_cjk_or_thai_dominant(text):
+        if len(text) < 120:
+            return False
+        if _NAV_MARKERS.search(text) or _DIGEST_SMELL.search(text):
+            return False
+        # Still reject if text mixes >3 scripts (typical of language menus).
+        if _count_scripts(text) > 3:
+            return False
+        return True
+
+    # Sentence-ending punctuation: real prose has several per paragraph.
+    words = text.split()
+    if len(words) < 10:
+        return False
+    n_end = sum(text.count(p) for p in (".", "!", "?", "…", "。", "！", "？", "؟"))
+    if n_end / len(words) < 0.02:
+        return False
+    # Word-length heuristic for space-separated scripts.
+    avg = sum(len(w) for w in words) / len(words)
+    if avg < 3.2:
+        return False
+    # UI-copy smell: lots of short Title Case tokens concatenated.
+    title_short = sum(1 for w in words if w[:1].isupper() and len(w) < 8)
+    if title_short > 0.55 * len(words) and len(words) > 8:
+        return False
+    # Cross-script contamination: language menus list dozens of languages.
+    if _count_scripts(text) > 3:
+        return False
+    # News-digest smell (timestamps, "read more", copyright).
+    if len(text) < 1200 and _DIGEST_SMELL.search(text):
+        return False
+    # Common navigation marker presence in a short string is disqualifying.
+    if len(text) < 600 and _NAV_MARKERS.search(text):
+        return False
+    return True
+
+
 def extract_paragraphs(html: str, min_chars: int = 300) -> list[str]:
-    """Pull out `<p>...</p>` chunks and strip HTML. Falls back to plain text
-    if no paragraph tags are present."""
+    """Pull `<p>` / `<article>` text chunks and strip HTML. Filters out
+    navigation boilerplate, cookie notices, and UI menus."""
     paras = re.findall(r"<p[^>]*>(.*?)</p>", html, flags=re.I | re.S)
+    # Also consider <article> and <div class=...content...> blocks when
+    # the site ships dense article bodies that aren't wrapped in <p>.
+    paras += re.findall(r"<(?:article|section)[^>]*>(.*?)</(?:article|section)>",
+                        html, flags=re.I | re.S)
     out: list[str] = []
+    seen: set[str] = set()
     for p in paras:
         text = strip_html(p).strip()
-        if len(text) >= min_chars and " " in text:
-            out.append(text)
-    if not out:
-        # Sites without <p> — take the body text chunk by chunk.
-        whole = strip_html(html)
-        for piece in whole.split(" . "):
-            piece = piece.strip()
-            if len(piece) >= min_chars:
-                out.append(piece)
+        if len(text) < min_chars or " " not in text:
+            continue
+        if not _looks_like_prose(text):
+            continue
+        # Dedupe — nav/header text repeats on every sub-page.
+        key = text[:120]
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(text)
     return out
 
 
@@ -250,9 +358,14 @@ def build_examples(entry: dict, target_count: int, min_chars: int) -> tuple[list
     non_wiki_sources = [s for s in (cat.get("sources", []) if cat else [])
                         if not (wp_sub and s["url"].startswith(f"https://{wp_sub}.wikipedia.org"))]
 
-    # Rough quota: half to Wikipedia, half to live web. Fall back to whichever
-    # source has material if the other yields nothing.
-    wiki_quota = target_count // 2 if non_wiki_sources else target_count
+    # Rough quota: half to Wikipedia, half to live web. When one side is
+    # absent, give its share to the other.
+    if wp_sub and non_wiki_sources:
+        wiki_quota = target_count // 2
+    elif wp_sub:
+        wiki_quota = target_count
+    else:
+        wiki_quota = 0
     web_quota = target_count - wiki_quota
 
     # --- 1. Pull from Wikipedia up to its quota ---------------------------

@@ -39,10 +39,14 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 ### Contributed content
 
-- `https://www.sefaria.org/texts/Tanakh` — Sefaria — Tanakh (biblical Hebrew) — _live WebFetch_
 - `https://mechon-mamre.org/p/pt/pt0.htm` — Mechon Mamre — Hebrew Bible — _live WebFetch_
+- `https://he.wikisource.org/wiki/` — Hebrew Wikisource (Biblical texts) — _live WebFetch_
 
 ### Catalogued source candidates
 
 - `https://www.sefaria.org/texts/Tanakh` — Sefaria — Tanakh (biblical Hebrew) (cultural)
-- `https://mechon-mamre.org/p/pt/pt0.htm` — Mechon Mamre — Hebrew Bible (cultural)
+- `https://mechon-mamre.org/p/pt/pt0.htm` — Mechon Mamre — Hebrew Bible (education)
+- `https://he.wikisource.org/wiki/` — Hebrew Wikisource (Biblical texts) (cultural)
+- `https://www.sefaria.org/texts/Mishnah` — Sefaria — Mishnah (cultural)
+- `https://www.biblehub.com/hebrew/` — Bible Hub — Hebrew texts (education)
+- `https://biblehub.com/interlinear/genesis/1.htm` — Bible Hub Interlinear Hebrew (education)

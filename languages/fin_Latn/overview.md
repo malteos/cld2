@@ -29,7 +29,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 - `https://fi.wikipedia.org/` — _wikimedia/wikipedia 20231101_
 - `https://valtioneuvosto.fi/etusivu` — Finnish Government — _live WebFetch_
-- `https://yle.fi/uutiset` — Yle Uutiset — _live WebFetch_
 
 ### Catalogued source candidates
 

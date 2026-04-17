@@ -5,96 +5,96 @@
   "tier": "low",
   "tier_target": 1000,
   "source": "Wikipedia (br.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
-  "total_tokens": 450373,
-  "unique_tokens": 53149,
+  "total_tokens": 450629,
+  "unique_tokens": 53403,
   "words": [
     {
       "word": "ar",
-      "count": 23083
+      "count": 23039
     },
     {
       "word": "an",
-      "count": 13670
+      "count": 13640
     },
     {
       "word": "ha",
-      "count": 7342
+      "count": 7328
     },
     {
       "word": "gant",
-      "count": 7026
+      "count": 7022
     },
     {
       "word": "da",
-      "count": 6518
+      "count": 6502
     },
     {
       "word": "ur",
-      "count": 5566
+      "count": 5563
     },
     {
       "word": "eo",
-      "count": 5399
+      "count": 5395
     },
     {
       "word": "hag",
-      "count": 5321
-    },
-    {
-      "word": "eus",
-      "count": 4845
+      "count": 5324
     },
     {
       "word": "en",
-      "count": 4833
+      "count": 4848
+    },
+    {
+      "word": "eus",
+      "count": 4836
     },
     {
       "word": "yezhoù",
-      "count": 3906
+      "count": 3903
     },
     {
       "word": "un",
-      "count": 3302
+      "count": 3307
     },
     {
       "word": "evit",
-      "count": 3253
+      "count": 3251
     },
     {
       "word": "vez",
-      "count": 3114
+      "count": 3110
     },
     {
       "word": "zo",
-      "count": 3045
+      "count": 3041
     },
     {
       "word": "bet",
-      "count": 2962
+      "count": 2954
     },
     {
       "word": "oa",
-      "count": 2698
+      "count": 2693
     },
     {
       "word": "pe",
-      "count": 2660
+      "count": 2659
     },
     {
       "word": "er",
-      "count": 2301
+      "count": 2297
     },
     {
       "word": "war",
-      "count": 2294
+      "count": 2285
     },
     {
       "word": "yezh",
-      "count": 2208
+      "count": 2198
     },
     {
       "word": "al",
-      "count": 2146
+      "count": 2137
     },
     {
       "word": "ivez",
@@ -102,15 +102,15 @@
     },
     {
       "word": "voe",
-      "count": 1630
+      "count": 1631
     },
     {
       "word": "ma",
-      "count": 1582
+      "count": 1581
     },
     {
       "word": "dre",
-      "count": 1529
+      "count": 1530
     },
     {
       "word": "evel",
@@ -118,51 +118,55 @@
     },
     {
       "word": "ket",
-      "count": 1472
+      "count": 1469
     },
     {
       "word": "all",
-      "count": 1431
+      "count": 1428
     },
     {
       "word": "d'ar",
-      "count": 1325
+      "count": 1324
     },
     {
       "word": "viz",
-      "count": 1293
+      "count": 1292
     },
     {
       "word": "ez",
-      "count": 1280
+      "count": 1276
     },
     {
       "word": "ra",
-      "count": 1226
+      "count": 1225
     },
     {
       "word": "breizh",
-      "count": 1192
+      "count": 1189
     },
     {
       "word": "etre",
-      "count": 1166
+      "count": 1165
     },
     {
       "word": "komzet",
-      "count": 1000
+      "count": 1001
     },
     {
       "word": "pa",
-      "count": 994
-    },
-    {
-      "word": "gwelet",
       "count": 992
     },
     {
+      "word": "gwelet",
+      "count": 991
+    },
+    {
       "word": "ne",
-      "count": 969
+      "count": 970
+    },
+    {
+      "word": "de",
+      "count": 941
     },
     {
       "word": "kentañ",
@@ -173,20 +177,16 @@
       "count": 910
     },
     {
-      "word": "de",
-      "count": 895
+      "word": "d'an",
+      "count": 875
     },
     {
       "word": "dud",
-      "count": 877
-    },
-    {
-      "word": "d'an",
-      "count": 876
+      "count": 870
     },
     {
       "word": "deus",
-      "count": 815
+      "count": 814
     },
     {
       "word": "ouzh",
@@ -198,19 +198,19 @@
     },
     {
       "word": "hini",
-      "count": 803
-    },
-    {
-      "word": "brezhoneg",
-      "count": 803
-    },
-    {
-      "word": "met",
       "count": 802
     },
     {
+      "word": "met",
+      "count": 801
+    },
+    {
       "word": "meur",
-      "count": 793
+      "count": 792
+    },
+    {
+      "word": "brezhoneg",
+      "count": 786
     },
     {
       "word": "den",
@@ -218,11 +218,11 @@
     },
     {
       "word": "the",
-      "count": 782
+      "count": 783
     },
     {
       "word": "graet",
-      "count": 748
+      "count": 746
     },
     {
       "word": "strollad",
@@ -230,7 +230,7 @@
     },
     {
       "word": "anv",
-      "count": 732
+      "count": 733
     },
     {
       "word": "re",
@@ -242,7 +242,7 @@
     },
     {
       "word": "he",
-      "count": 677
+      "count": 676
     },
     {
       "word": "bezañ",
@@ -258,31 +258,31 @@
     },
     {
       "word": "skouer",
-      "count": 598
-    },
-    {
-      "word": "betek",
-      "count": 598
+      "count": 597
     },
     {
       "word": "savet",
       "count": 597
     },
     {
-      "word": "vezañ",
-      "count": 585
+      "word": "betek",
+      "count": 596
     },
     {
-      "word": "lenn",
-      "count": 582
+      "word": "vezañ",
+      "count": 584
     },
     {
       "word": "holl",
-      "count": 582
+      "count": 578
+    },
+    {
+      "word": "lenn",
+      "count": 575
     },
     {
       "word": "diouzh",
-      "count": 575
+      "count": 574
     },
     {
       "word": "liammoù",
@@ -298,35 +298,35 @@
     },
     {
       "word": "ul",
-      "count": 562
+      "count": 561
     },
     {
       "word": "diavaez",
       "count": 555
     },
     {
-      "word": "gall",
-      "count": 545
+      "word": "du",
+      "count": 553
     },
     {
       "word": "eil",
-      "count": 544
+      "count": 545
     },
     {
-      "word": "du",
-      "count": 529
+      "word": "gall",
+      "count": 541
     },
     {
       "word": "get",
-      "count": 522
+      "count": 523
     },
     {
       "word": "doare",
-      "count": 520
+      "count": 519
     },
     {
       "word": "unan",
-      "count": 517
+      "count": 516
     },
     {
       "word": "ober",
@@ -334,7 +334,7 @@
     },
     {
       "word": "bloavezhioù",
-      "count": 480
+      "count": 479
     },
     {
       "word": "miz",
@@ -350,15 +350,15 @@
     },
     {
       "word": "tud",
-      "count": 468
+      "count": 469
     },
     {
       "word": "veze",
-      "count": 465
+      "count": 463
     },
     {
       "word": "lakaet",
-      "count": 463
+      "count": 460
     },
     {
       "word": "ger",
@@ -385,12 +385,12 @@
       "count": 434
     },
     {
-      "word": "istor",
-      "count": 429
+      "word": "ofisiel",
+      "count": 426
     },
     {
-      "word": "ofisiel",
-      "count": 427
+      "word": "istor",
+      "count": 424
     },
     {
       "word": "roue",
@@ -405,20 +405,20 @@
       "count": 415
     },
     {
-      "word": "sant",
-      "count": 413
-    },
-    {
       "word": "saozneg",
       "count": 412
     },
     {
+      "word": "sant",
+      "count": 411
+    },
+    {
       "word": "nevez",
-      "count": 406
+      "count": 405
     },
     {
       "word": "em",
-      "count": 406
+      "count": 405
     },
     {
       "word": "skrivet",
@@ -430,7 +430,7 @@
     },
     {
       "word": "kavet",
-      "count": 393
+      "count": 391
     },
     {
       "word": "kantved",
@@ -445,12 +445,12 @@
       "count": 387
     },
     {
-      "word": "niver",
-      "count": 383
-    },
-    {
       "word": "e-barzh",
       "count": 382
+    },
+    {
+      "word": "niver",
+      "count": 381
     },
     {
       "word": "sonerezh",
@@ -458,19 +458,23 @@
     },
     {
       "word": "seurt",
-      "count": 367
-    },
-    {
-      "word": "bep",
       "count": 366
     },
     {
-      "word": "lakaat",
+      "word": "bep",
       "count": 365
     },
     {
       "word": "emañ",
-      "count": 363
+      "count": 364
+    },
+    {
+      "word": "lakaat",
+      "count": 364
+    },
+    {
+      "word": "la",
+      "count": 362
     },
     {
       "word": "norzh",
@@ -489,19 +493,19 @@
       "count": 355
     },
     {
-      "word": "deuet",
-      "count": 352
-    },
-    {
-      "word": "abaoe",
-      "count": 352
-    },
-    {
       "word": "ken",
       "count": 351
     },
     {
+      "word": "deuet",
+      "count": 351
+    },
+    {
       "word": "lizherenneg",
+      "count": 351
+    },
+    {
+      "word": "abaoe",
       "count": 351
     },
     {
@@ -514,19 +518,19 @@
     },
     {
       "word": "nemet",
-      "count": 343
-    },
-    {
-      "word": "pennañ",
-      "count": 342
+      "count": 340
     },
     {
       "word": "div",
-      "count": 341
+      "count": 340
+    },
+    {
+      "word": "pennañ",
+      "count": 340
     },
     {
       "word": "genver",
-      "count": 338
+      "count": 337
     },
     {
       "word": "penn",
@@ -558,26 +562,22 @@
     },
     {
       "word": "here",
-      "count": 326
-    },
-    {
-      "word": "stad",
       "count": 325
     },
     {
-      "word": "bloaz",
-      "count": 325
-    },
-    {
-      "word": "neuze",
+      "word": "le",
       "count": 324
     },
     {
       "word": "republik",
-      "count": 324
+      "count": 323
     },
     {
-      "word": "la",
+      "word": "neuze",
+      "count": 322
+    },
+    {
+      "word": "stad",
       "count": 322
     },
     {
@@ -585,24 +585,28 @@
       "count": 322
     },
     {
-      "word": "anezho",
-      "count": 321
-    },
-    {
       "word": "ebet",
       "count": 321
     },
     {
-      "word": "krouet",
-      "count": 321
+      "word": "anezho",
+      "count": 320
     },
     {
-      "word": "amzer",
+      "word": "krouet",
       "count": 320
     },
     {
       "word": "hep",
       "count": 319
+    },
+    {
+      "word": "amzer",
+      "count": 319
+    },
+    {
+      "word": "bloaz",
+      "count": 316
     },
     {
       "word": "aet",
@@ -613,24 +617,20 @@
       "count": 314
     },
     {
-      "word": "galleg",
-      "count": 313
-    },
-    {
       "word": "dindan",
       "count": 313
     },
     {
+      "word": "galleg",
+      "count": 311
+    },
+    {
       "word": "c'hoazh",
-      "count": 312
+      "count": 311
     },
     {
       "word": "skrivañ",
       "count": 311
-    },
-    {
-      "word": "mont",
-      "count": 309
     },
     {
       "word": "gerioù",
@@ -642,6 +642,10 @@
     },
     {
       "word": "kerzu",
+      "count": 307
+    },
+    {
+      "word": "mont",
       "count": 307
     },
     {
@@ -689,32 +693,28 @@
       "count": 288
     },
     {
-      "word": "kalz",
-      "count": 284
-    },
-    {
       "word": "gantañ",
       "count": 283
     },
     {
+      "word": "kalz",
+      "count": 283
+    },
+    {
       "word": "a-raok",
-      "count": 283
-    },
-    {
-      "word": "le",
-      "count": 283
-    },
-    {
-      "word": "vo",
       "count": 282
     },
     {
-      "word": "anezhañ",
-      "count": 279
+      "word": "vo",
+      "count": 281
     },
     {
       "word": "gwengolo",
       "count": 279
+    },
+    {
+      "word": "anezhañ",
+      "count": 278
     },
     {
       "word": "c'hall",
@@ -722,27 +722,27 @@
     },
     {
       "word": "stumm",
-      "count": 274
-    },
-    {
-      "word": "meurzh",
-      "count": 274
+      "count": 275
     },
     {
       "word": "azia",
       "count": 273
     },
     {
-      "word": "deiz",
-      "count": 271
+      "word": "meurzh",
+      "count": 272
     },
     {
-      "word": "na",
-      "count": 269
+      "word": "deiz",
+      "count": 270
     },
     {
       "word": "embannet",
       "count": 269
+    },
+    {
+      "word": "na",
+      "count": 268
     },
     {
       "word": "lennegezh",
@@ -754,15 +754,15 @@
     },
     {
       "word": "skol",
-      "count": 267
+      "count": 266
     },
     {
       "word": "disheñvel",
-      "count": 265
+      "count": 264
     },
     {
       "word": "roet",
-      "count": 264
+      "count": 262
     },
     {
       "word": "dezhañ",
@@ -770,18 +770,14 @@
     },
     {
       "word": "darn",
-      "count": 259
+      "count": 260
     },
     {
       "word": "abalamour",
-      "count": 258
+      "count": 257
     },
     {
       "word": "reer",
-      "count": 258
-    },
-    {
-      "word": "lavaret",
       "count": 257
     },
     {
@@ -789,12 +785,16 @@
       "count": 257
     },
     {
-      "word": "nebeud",
+      "word": "lavaret",
       "count": 256
     },
     {
       "word": "milion",
       "count": 256
+    },
+    {
+      "word": "nebeud",
+      "count": 255
     },
     {
       "word": "hiziv",
@@ -813,16 +813,16 @@
       "count": 249
     },
     {
-      "word": "lod",
-      "count": 248
-    },
-    {
       "word": "skourr",
       "count": 248
     },
     {
       "word": "roazhon",
       "count": 248
+    },
+    {
+      "word": "lod",
+      "count": 247
     },
     {
       "word": "alies",
@@ -834,15 +834,11 @@
     },
     {
       "word": "vije",
-      "count": 242
+      "count": 241
     },
     {
       "word": "vrasañ",
       "count": 239
-    },
-    {
-      "word": "ya",
-      "count": 238
     },
     {
       "word": "n'eus",
@@ -853,15 +849,19 @@
       "count": 237
     },
     {
+      "word": "ya",
+      "count": 236
+    },
+    {
       "word": "rock",
       "count": 236
     },
     {
-      "word": "mor",
-      "count": 235
+      "word": "ret",
+      "count": 234
     },
     {
-      "word": "ret",
+      "word": "mor",
       "count": 234
     },
     {
@@ -869,31 +869,31 @@
       "count": 233
     },
     {
-      "word": "vefe",
-      "count": 231
-    },
-    {
-      "word": "politikerezh",
-      "count": 231
-    },
-    {
       "word": "skiantoù",
       "count": 230
     },
     {
-      "word": "a-benn",
+      "word": "vefe",
+      "count": 230
+    },
+    {
+      "word": "politikerezh",
       "count": 229
     },
     {
-      "word": "vloaz",
+      "word": "a-benn",
       "count": 228
     },
     {
-      "word": "lec'hienn",
-      "count": 224
+      "word": "vloaz",
+      "count": 227
     },
     {
       "word": "iliz",
+      "count": 222
+    },
+    {
+      "word": "mae",
       "count": 222
     },
     {
@@ -901,16 +901,16 @@
       "count": 221
     },
     {
-      "word": "mae",
-      "count": 221
+      "word": "gouere",
+      "count": 220
     },
     {
       "word": "darvoudoù",
-      "count": 220
+      "count": 219
     },
     {
-      "word": "gouere",
-      "count": 220
+      "word": "lec'hienn",
+      "count": 219
     },
     {
       "word": "levr",
@@ -921,12 +921,12 @@
       "count": 218
     },
     {
-      "word": "rusia",
+      "word": "vras",
       "count": 216
     },
     {
-      "word": "vras",
-      "count": 215
+      "word": "rusia",
+      "count": 216
     },
     {
       "word": "eget",
@@ -954,14 +954,14 @@
     },
     {
       "word": "strolladoù",
-      "count": 212
-    },
-    {
-      "word": "rak",
-      "count": 209
+      "count": 211
     },
     {
       "word": "adalek",
+      "count": 210
+    },
+    {
+      "word": "rak",
       "count": 209
     },
     {
@@ -977,10 +977,6 @@
       "count": 208
     },
     {
-      "word": "lodenn",
-      "count": 208
-    },
-    {
       "word": "stadoù",
       "count": 207
     },
@@ -989,15 +985,23 @@
       "count": 207
     },
     {
+      "word": "lodenn",
+      "count": 207
+    },
+    {
       "word": "marv",
       "count": 207
     },
     {
-      "word": "mat",
-      "count": 205
+      "word": "notennoù",
+      "count": 204
     },
     {
-      "word": "notennoù",
+      "word": "mat",
+      "count": 204
+    },
+    {
+      "word": "et",
       "count": 204
     },
     {
@@ -1005,19 +1009,15 @@
       "count": 203
     },
     {
-      "word": "a-enep",
-      "count": 202
-    },
-    {
       "word": "el",
       "count": 202
     },
     {
-      "word": "traoù",
+      "word": "brezhonek",
       "count": 200
     },
     {
-      "word": "brezhonek",
+      "word": "a-enep",
       "count": 200
     },
     {
@@ -1041,12 +1041,16 @@
       "count": 199
     },
     {
-      "word": "enez",
+      "word": "bloavezh",
       "count": 198
     },
     {
-      "word": "bloavezh",
-      "count": 198
+      "word": "traoù",
+      "count": 197
+    },
+    {
+      "word": "enez",
+      "count": 197
     },
     {
       "word": "vont",
@@ -1062,19 +1066,15 @@
     },
     {
       "word": "hepken",
-      "count": 194
+      "count": 193
     },
     {
       "word": "gouarnamant",
-      "count": 194
+      "count": 193
     },
     {
       "word": "kement",
       "count": 192
-    },
-    {
-      "word": "labour",
-      "count": 191
     },
     {
       "word": "bihan",
@@ -1093,7 +1093,7 @@
       "count": 189
     },
     {
-      "word": "bremañ",
+      "word": "labour",
       "count": 188
     },
     {
@@ -1109,7 +1109,7 @@
       "count": 188
     },
     {
-      "word": "war-dro",
+      "word": "bremañ",
       "count": 187
     },
     {
@@ -1133,6 +1133,10 @@
       "count": 182
     },
     {
+      "word": "war-dro",
+      "count": 182
+    },
+    {
       "word": "dezho",
       "count": 181
     },
@@ -1143,10 +1147,6 @@
     {
       "word": "e-touez",
       "count": 181
-    },
-    {
-      "word": "et",
-      "count": 180
     },
     {
       "word": "emgann",
@@ -1166,7 +1166,7 @@
     },
     {
       "word": "deroù",
-      "count": 173
+      "count": 175
     },
     {
       "word": "stêr",
@@ -1177,16 +1177,12 @@
       "count": 173
     },
     {
-      "word": "tost",
+      "word": "se",
       "count": 172
     },
     {
-      "word": "amañ",
-      "count": 171
-    },
-    {
-      "word": "anavezet",
-      "count": 171
+      "word": "tost",
+      "count": 172
     },
     {
       "word": "rouantelezh",
@@ -1197,7 +1193,15 @@
       "count": 171
     },
     {
-      "word": "anezhi",
+      "word": "amañ",
+      "count": 170
+    },
+    {
+      "word": "anavezet",
+      "count": 170
+    },
+    {
+      "word": "fin",
       "count": 170
     },
     {
@@ -1209,11 +1213,15 @@
       "count": 169
     },
     {
-      "word": "fin",
+      "word": "anezhi",
       "count": 169
     },
     {
       "word": "distaget",
+      "count": 169
+    },
+    {
+      "word": "des",
       "count": 169
     },
     {
@@ -1222,23 +1230,19 @@
     },
     {
       "word": "implij",
-      "count": 168
-    },
-    {
-      "word": "rannvro",
-      "count": 168
-    },
-    {
-      "word": "se",
-      "count": 168
-    },
-    {
-      "word": "a-bezh",
       "count": 167
     },
     {
       "word": "ganet",
       "count": 167
+    },
+    {
+      "word": "a-bezh",
+      "count": 166
+    },
+    {
+      "word": "rannvro",
+      "count": 165
     },
     {
       "word": "d'ober",
@@ -1253,19 +1257,11 @@
       "count": 164
     },
     {
-      "word": "skolioù",
-      "count": 163
+      "word": "orin",
+      "count": 161
     },
     {
       "word": "varv",
-      "count": 162
-    },
-    {
-      "word": "geriadur",
-      "count": 162
-    },
-    {
-      "word": "orin",
       "count": 161
     },
     {
@@ -1273,7 +1269,11 @@
       "count": 161
     },
     {
-      "word": "enni",
+      "word": "geriadur",
+      "count": 161
+    },
+    {
+      "word": "skolioù",
       "count": 160
     },
     {
@@ -1282,6 +1282,10 @@
     },
     {
       "word": "kaver",
+      "count": 159
+    },
+    {
+      "word": "brest",
       "count": 159
     },
     {
@@ -1297,7 +1301,7 @@
       "count": 159
     },
     {
-      "word": "kent",
+      "word": "enni",
       "count": 158
     },
     {
@@ -1337,7 +1341,7 @@
       "count": 155
     },
     {
-      "word": "brest",
+      "word": "bro",
       "count": 154
     },
     {
@@ -1361,12 +1365,12 @@
       "count": 152
     },
     {
-      "word": "bro",
+      "word": "kêr",
       "count": 152
     },
     {
-      "word": "kêr",
-      "count": 152
+      "word": "kent",
+      "count": 151
     },
     {
       "word": "tamm",
@@ -1394,7 +1398,7 @@
     },
     {
       "word": "m'eo",
-      "count": 148
+      "count": 147
     },
     {
       "word": "lâret",
@@ -1405,15 +1409,7 @@
       "count": 144
     },
     {
-      "word": "heul",
-      "count": 143
-    },
-    {
       "word": "a-wechoù",
-      "count": 143
-    },
-    {
-      "word": "naoned",
       "count": 143
     },
     {
@@ -1429,6 +1425,14 @@
       "count": 143
     },
     {
+      "word": "heul",
+      "count": 142
+    },
+    {
+      "word": "naoned",
+      "count": 142
+    },
+    {
       "word": "li",
       "count": 142
     },
@@ -1437,12 +1441,12 @@
       "count": 142
     },
     {
-      "word": "dibenn",
+      "word": "skrivagnerien",
       "count": 141
     },
     {
-      "word": "skrivagnerien",
-      "count": 141
+      "word": "dibenn",
+      "count": 140
     },
     {
       "word": "inizi",
@@ -1450,10 +1454,6 @@
     },
     {
       "word": "izili",
-      "count": 140
-    },
-    {
-      "word": "des",
       "count": 140
     },
     {
@@ -1469,14 +1469,6 @@
       "count": 139
     },
     {
-      "word": "e-lec'h",
-      "count": 139
-    },
-    {
-      "word": "diwezhañ",
-      "count": 139
-    },
-    {
       "word": "sevenadur",
       "count": 138
     },
@@ -1485,19 +1477,15 @@
       "count": 138
     },
     {
-      "word": "komz",
-      "count": 138
-    },
-    {
-      "word": "live",
-      "count": 138
-    },
-    {
       "word": "muioc'h",
       "count": 138
     },
     {
-      "word": "reiñ",
+      "word": "e-lec'h",
+      "count": 138
+    },
+    {
+      "word": "diwezhañ",
       "count": 138
     },
     {
@@ -1509,24 +1497,32 @@
       "count": 137
     },
     {
-      "word": "departamant",
+      "word": "komz",
       "count": 137
     },
     {
-      "word": "embann",
-      "count": 135
+      "word": "live",
+      "count": 137
     },
     {
-      "word": "dispac'h",
-      "count": 135
+      "word": "reiñ",
+      "count": 136
     },
     {
       "word": "anvioù",
       "count": 135
     },
     {
+      "word": "departamant",
+      "count": 135
+    },
+    {
       "word": "zouez",
       "count": 135
+    },
+    {
+      "word": "embann",
+      "count": 134
     },
     {
       "word": "bro-saoz",
@@ -1545,12 +1541,20 @@
       "count": 133
     },
     {
-      "word": "dro",
+      "word": "les",
       "count": 133
     },
     {
       "word": "john",
       "count": 133
+    },
+    {
+      "word": "dro",
+      "count": 132
+    },
+    {
+      "word": "dispac'h",
+      "count": 132
     },
     {
       "word": "diabarzh",
@@ -1569,12 +1573,12 @@
       "count": 131
     },
     {
-      "word": "relijion",
+      "word": "pobl",
       "count": 131
     },
     {
-      "word": "pobl",
-      "count": 131
+      "word": "relijion",
+      "count": 130
     },
     {
       "word": "norzhamerika",
@@ -1601,12 +1605,12 @@
       "count": 128
     },
     {
-      "word": "italia",
+      "word": "eas",
       "count": 127
     },
     {
-      "word": "eas",
-      "count": 126
+      "word": "italia",
+      "count": 127
     },
     {
       "word": "rannyezhoù",
@@ -1626,6 +1630,10 @@
     },
     {
       "word": "pemp",
+      "count": 124
+    },
+    {
+      "word": "tro",
       "count": 124
     },
     {
@@ -1653,14 +1661,6 @@
       "count": 123
     },
     {
-      "word": "tro",
-      "count": 123
-    },
-    {
-      "word": "mare",
-      "count": 122
-    },
-    {
       "word": "kumunioù",
       "count": 122
     },
@@ -1669,7 +1669,15 @@
       "count": 122
     },
     {
-      "word": "buhez",
+      "word": "klask",
+      "count": 121
+    },
+    {
+      "word": "mare",
+      "count": 121
+    },
+    {
+      "word": "breton",
       "count": 121
     },
     {
@@ -1677,23 +1685,15 @@
       "count": 121
     },
     {
-      "word": "klask",
-      "count": 120
-    },
-    {
       "word": "gwened",
       "count": 120
     },
     {
-      "word": "diorroet",
+      "word": "buhez",
       "count": 120
     },
     {
       "word": "levezonet",
-      "count": 119
-    },
-    {
-      "word": "dra",
       "count": 119
     },
     {
@@ -1705,7 +1705,11 @@
       "count": 119
     },
     {
-      "word": "mare-se",
+      "word": "diorroet",
+      "count": 119
+    },
+    {
+      "word": "dra",
       "count": 118
     },
     {
@@ -1717,8 +1721,20 @@
       "count": 118
     },
     {
+      "word": "izel",
+      "count": 118
+    },
+    {
       "word": "stag",
       "count": 118
+    },
+    {
+      "word": "hent",
+      "count": 117
+    },
+    {
+      "word": "mare-se",
+      "count": 117
     },
     {
       "word": "skol-veur",
@@ -1743,14 +1759,6 @@
     {
       "word": "soviedel",
       "count": 117
-    },
-    {
-      "word": "hent",
-      "count": 116
-    },
-    {
-      "word": "breton",
-      "count": 116
     },
     {
       "word": "ijinet",
@@ -1785,10 +1793,6 @@
       "count": 115
     },
     {
-      "word": "vuhez",
-      "count": 115
-    },
-    {
       "word": "gwechall",
       "count": 115
     },
@@ -1797,15 +1801,19 @@
       "count": 115
     },
     {
+      "word": "c'hoari",
+      "count": 115
+    },
+    {
+      "word": "vuhez",
+      "count": 114
+    },
+    {
       "word": "gante",
       "count": 114
     },
     {
       "word": "er-maez",
-      "count": 114
-    },
-    {
-      "word": "c'hoari",
       "count": 114
     },
     {
@@ -1837,6 +1845,10 @@
       "count": 112
     },
     {
+      "word": "ster",
+      "count": 112
+    },
+    {
       "word": "studi",
       "count": 112
     },
@@ -1859,14 +1871,6 @@
     {
       "word": "bl",
       "count": 112
-    },
-    {
-      "word": "ster",
-      "count": 111
-    },
-    {
-      "word": "divyezhek",
-      "count": 111
     },
     {
       "word": "doare-skrivañ",
@@ -1893,10 +1897,6 @@
       "count": 110
     },
     {
-      "word": "hir",
-      "count": 110
-    },
-    {
       "word": "impalaer",
       "count": 110
     },
@@ -1917,15 +1917,15 @@
       "count": 109
     },
     {
-      "word": "izel",
-      "count": 109
-    },
-    {
       "word": "reter-kreiz",
       "count": 109
     },
     {
       "word": "berzh",
+      "count": 108
+    },
+    {
+      "word": "hir",
       "count": 108
     },
     {
@@ -1971,6 +1971,10 @@
     {
       "word": "devezh",
       "count": 106
+    },
+    {
+      "word": "divyezhek",
+      "count": 105
     },
     {
       "word": "spagn",
@@ -2025,10 +2029,6 @@
       "count": 103
     },
     {
-      "word": "vet",
-      "count": 103
-    },
-    {
       "word": "luskad",
       "count": 103
     },
@@ -2042,6 +2042,10 @@
     },
     {
       "word": "deskadurezh",
+      "count": 102
+    },
+    {
+      "word": "vet",
       "count": 102
     },
     {
@@ -2065,14 +2069,6 @@
       "count": 101
     },
     {
-      "word": "les",
-      "count": 101
-    },
-    {
-      "word": "mui",
-      "count": 100
-    },
-    {
       "word": "sevenadurel",
       "count": 100
     },
@@ -2089,11 +2085,19 @@
       "count": 100
     },
     {
+      "word": "mui",
+      "count": 99
+    },
+    {
       "word": "dezhi",
       "count": 99
     },
     {
       "word": "a-du",
+      "count": 99
+    },
+    {
+      "word": "bretagne",
       "count": 99
     },
     {
@@ -2189,10 +2193,6 @@
       "count": 95
     },
     {
-      "word": "penn-kentañ",
-      "count": 95
-    },
-    {
       "word": "kanada",
       "count": 95
     },
@@ -2201,11 +2201,11 @@
       "count": 95
     },
     {
-      "word": "anezhe",
+      "word": "penn-kentañ",
       "count": 94
     },
     {
-      "word": "darempredoù",
+      "word": "anezhe",
       "count": 94
     },
     {
@@ -2218,10 +2218,6 @@
     },
     {
       "word": "kas",
-      "count": 93
-    },
-    {
-      "word": "bretagne",
       "count": 93
     },
     {
@@ -2238,6 +2234,10 @@
     },
     {
       "word": "yezhadur",
+      "count": 92
+    },
+    {
+      "word": "son",
       "count": 92
     },
     {
@@ -2290,6 +2290,10 @@
     },
     {
       "word": "oant",
+      "count": 90
+    },
+    {
+      "word": "darempredoù",
       "count": 90
     },
     {
@@ -2409,19 +2413,15 @@
       "count": 87
     },
     {
-      "word": "emglev",
-      "count": 87
-    },
-    {
       "word": "atav",
       "count": 87
     },
     {
-      "word": "son",
+      "word": "ec'h",
       "count": 87
     },
     {
-      "word": "ec'h",
+      "word": "charles",
       "count": 87
     },
     {
@@ -2446,6 +2446,10 @@
     },
     {
       "word": "mor-bihan",
+      "count": 86
+    },
+    {
+      "word": "emglev",
       "count": 86
     },
     {
@@ -2489,19 +2493,7 @@
       "count": 85
     },
     {
-      "word": "charles",
-      "count": 85
-    },
-    {
       "word": "niverenn",
-      "count": 85
-    },
-    {
-      "word": "eeun",
-      "count": 85
-    },
-    {
-      "word": "skipailh",
       "count": 85
     },
     {
@@ -2533,7 +2525,15 @@
       "count": 84
     },
     {
+      "word": "eeun",
+      "count": 84
+    },
+    {
       "word": "paul",
+      "count": 84
+    },
+    {
+      "word": "skipailh",
       "count": 84
     },
     {
@@ -2566,10 +2566,6 @@
     },
     {
       "word": "evel-se",
-      "count": 82
-    },
-    {
-      "word": "marc",
       "count": 82
     },
     {
@@ -2617,10 +2613,6 @@
       "count": 81
     },
     {
-      "word": "publik",
-      "count": 81
-    },
-    {
       "word": "renk",
       "count": 81
     },
@@ -2629,7 +2621,7 @@
       "count": 80
     },
     {
-      "word": "kavout",
+      "word": "linenn",
       "count": 80
     },
     {
@@ -2641,15 +2633,11 @@
       "count": 80
     },
     {
-      "word": "frank",
-      "count": 80
-    },
-    {
       "word": "weler",
       "count": 80
     },
     {
-      "word": "linenn",
+      "word": "kavout",
       "count": 79
     },
     {
@@ -2657,11 +2645,11 @@
       "count": 79
     },
     {
-      "word": "tost-tre",
+      "word": "frank",
       "count": 79
     },
     {
-      "word": "ho",
+      "word": "tost-tre",
       "count": 79
     },
     {
@@ -2673,11 +2661,15 @@
       "count": 79
     },
     {
+      "word": "style",
+      "count": 79
+    },
+    {
       "word": "mab-den",
       "count": 78
     },
     {
-      "word": "ro",
+      "word": "marc",
       "count": 78
     },
     {
@@ -2701,6 +2693,10 @@
       "count": 78
     },
     {
+      "word": "ho",
+      "count": 78
+    },
+    {
       "word": "pakistan",
       "count": 78
     },
@@ -2709,19 +2705,15 @@
       "count": 78
     },
     {
-      "word": "style",
-      "count": 78
-    },
-    {
       "word": "kregiñ",
       "count": 77
     },
     {
-      "word": "e-tro",
+      "word": "chomet",
       "count": 77
     },
     {
-      "word": "chomet",
+      "word": "ro",
       "count": 77
     },
     {
@@ -2737,15 +2729,15 @@
       "count": 77
     },
     {
-      "word": "kinniget",
-      "count": 77
-    },
-    {
       "word": "vugale",
       "count": 77
     },
     {
       "word": "petra",
+      "count": 76
+    },
+    {
+      "word": "e-tro",
       "count": 76
     },
     {
@@ -2765,7 +2757,11 @@
       "count": 76
     },
     {
-      "word": "lennegel",
+      "word": "kinniget",
+      "count": 76
+    },
+    {
+      "word": "publik",
       "count": 76
     },
     {
@@ -2829,23 +2825,11 @@
       "count": 74
     },
     {
-      "word": "sifroù",
-      "count": 74
-    },
-    {
       "word": "gensonenn",
       "count": 74
     },
     {
-      "word": "skinwel",
-      "count": 74
-    },
-    {
       "word": "kemer",
-      "count": 73
-    },
-    {
-      "word": "lec",
       "count": 73
     },
     {
@@ -2857,11 +2841,23 @@
       "count": 73
     },
     {
+      "word": "lennegel",
+      "count": 73
+    },
+    {
       "word": "nam",
       "count": 73
     },
     {
+      "word": "sifroù",
+      "count": 73
+    },
+    {
       "word": "for",
+      "count": 73
+    },
+    {
+      "word": "skinwel",
       "count": 73
     },
     {
@@ -2878,14 +2874,6 @@
     },
     {
       "word": "hor",
-      "count": 72
-    },
-    {
-      "word": "menez",
-      "count": 72
-    },
-    {
-      "word": "gouzout",
       "count": 72
     },
     {
@@ -2913,14 +2901,6 @@
       "count": 71
     },
     {
-      "word": "kaoz",
-      "count": 71
-    },
-    {
-      "word": "e-kichen",
-      "count": 71
-    },
-    {
       "word": "belgia",
       "count": 71
     },
@@ -2937,11 +2917,7 @@
       "count": 71
     },
     {
-      "word": "a-drugarez",
-      "count": 70
-    },
-    {
-      "word": "kentelioù",
+      "word": "menez",
       "count": 70
     },
     {
@@ -3001,7 +2977,15 @@
       "count": 69
     },
     {
-      "word": "loened",
+      "word": "a-drugarez",
+      "count": 69
+    },
+    {
+      "word": "kentelioù",
+      "count": 69
+    },
+    {
+      "word": "kaoz",
       "count": 69
     },
     {
@@ -3045,7 +3029,7 @@
       "count": 69
     },
     {
-      "word": "istorel",
+      "word": "zeuas",
       "count": 68
     },
     {
@@ -3053,7 +3037,11 @@
       "count": 68
     },
     {
-      "word": "ofis",
+      "word": "lec",
+      "count": 68
+    },
+    {
+      "word": "loened",
       "count": 68
     },
     {
@@ -3083,14 +3071,6 @@
     {
       "word": "breizhveuriat",
       "count": 68
-    },
-    {
-      "word": "zeuas",
-      "count": 67
-    },
-    {
-      "word": "frazenn",
-      "count": 67
     },
     {
       "word": "distagadur",
@@ -3137,6 +3117,18 @@
       "count": 67
     },
     {
+      "word": "istorel",
+      "count": 66
+    },
+    {
+      "word": "frazenn",
+      "count": 66
+    },
+    {
+      "word": "e-kichen",
+      "count": 66
+    },
+    {
       "word": "daveoù",
       "count": 66
     },
@@ -3153,6 +3145,10 @@
       "count": 66
     },
     {
+      "word": "sur",
+      "count": 66
+    },
+    {
       "word": "nemetken",
       "count": 66
     },
@@ -3165,7 +3161,7 @@
       "count": 65
     },
     {
-      "word": "dalc'het",
+      "word": "tamm-ha-tamm",
       "count": 65
     },
     {
@@ -3189,15 +3185,19 @@
       "count": 64
     },
     {
-      "word": "tamm-ha-tamm",
+      "word": "dalc'het",
       "count": 64
     },
     {
-      "word": "liger-atlantel",
+      "word": "ofis",
       "count": 64
     },
     {
       "word": "diwezh",
+      "count": 64
+    },
+    {
+      "word": "gouzout",
       "count": 64
     },
     {
@@ -3249,11 +3249,15 @@
       "count": 63
     },
     {
-      "word": "e-kerzh",
+      "word": "par",
       "count": 63
     },
     {
-      "word": "fall",
+      "word": "liger-atlantel",
+      "count": 63
+    },
+    {
+      "word": "e-kerzh",
       "count": 63
     },
     {
@@ -3271,10 +3275,6 @@
     {
       "word": "distagañ",
       "count": 63
-    },
-    {
-      "word": "marteze",
-      "count": 62
     },
     {
       "word": "goulenn",
@@ -3317,7 +3317,7 @@
       "count": 62
     },
     {
-      "word": "foran",
+      "word": "marteze",
       "count": 61
     },
     {
@@ -3329,15 +3329,15 @@
       "count": 61
     },
     {
+      "word": "fall",
+      "count": 61
+    },
+    {
       "word": "ezhomm",
       "count": 61
     },
     {
       "word": "arc'hant",
-      "count": 61
-    },
-    {
-      "word": "d'al",
       "count": 61
     },
     {
@@ -3362,10 +3362,6 @@
     },
     {
       "word": "henamzer",
-      "count": 60
-    },
-    {
-      "word": "hanter",
       "count": 60
     },
     {
@@ -3401,6 +3397,10 @@
       "count": 60
     },
     {
+      "word": "d'al",
+      "count": 60
+    },
+    {
       "word": "egile",
       "count": 60
     },
@@ -3425,15 +3425,7 @@
       "count": 59
     },
     {
-      "word": "lavar",
-      "count": 59
-    },
-    {
       "word": "fonetik",
-      "count": 59
-    },
-    {
-      "word": "kumun",
       "count": 59
     },
     {
@@ -3469,10 +3461,6 @@
       "count": 59
     },
     {
-      "word": "kelenn",
-      "count": 59
-    },
-    {
       "word": "londrez",
       "count": 59
     },
@@ -3501,11 +3489,23 @@
       "count": 58
     },
     {
+      "word": "lavar",
+      "count": 58
+    },
+    {
+      "word": "hanter",
+      "count": 58
+    },
+    {
       "word": "vretoned",
       "count": 58
     },
     {
-      "word": "bennaket",
+      "word": "foran",
+      "count": 58
+    },
+    {
+      "word": "kumun",
       "count": 58
     },
     {
@@ -3529,11 +3529,19 @@
       "count": 58
     },
     {
+      "word": "saver",
+      "count": 57
+    },
+    {
       "word": "cheñch",
       "count": 57
     },
     {
       "word": "parlamant",
+      "count": 57
+    },
+    {
+      "word": "bennaket",
       "count": 57
     },
     {
@@ -3557,24 +3565,8 @@
       "count": 57
     },
     {
-      "word": "diorren",
-      "count": 57
-    },
-    {
       "word": "devanagari",
       "count": 57
-    },
-    {
-      "word": "saver",
-      "count": 56
-    },
-    {
-      "word": "par",
-      "count": 56
-    },
-    {
-      "word": "eur",
-      "count": 56
     },
     {
       "word": "skouerioù",
@@ -3617,11 +3609,11 @@
       "count": 56
     },
     {
-      "word": "wel",
+      "word": "takad",
       "count": 56
     },
     {
-      "word": "takad",
+      "word": "diorren",
       "count": 56
     },
     {
@@ -3649,7 +3641,15 @@
       "count": 55
     },
     {
-      "word": "jezuz-krist",
+      "word": "eur",
+      "count": 55
+    },
+    {
+      "word": "me",
+      "count": 55
+    },
+    {
+      "word": "prantad",
       "count": 55
     },
     {
@@ -3661,15 +3661,15 @@
       "count": 55
     },
     {
-      "word": "sur",
-      "count": 55
-    },
-    {
       "word": "dastumad",
       "count": 55
     },
     {
       "word": "william",
+      "count": 55
+    },
+    {
+      "word": "wel",
       "count": 55
     },
     {
@@ -3686,10 +3686,6 @@
     },
     {
       "word": "stêrioù",
-      "count": 55
-    },
-    {
-      "word": "skingomz",
       "count": 55
     },
     {
@@ -3713,19 +3709,11 @@
       "count": 54
     },
     {
-      "word": "me",
-      "count": 54
-    },
-    {
-      "word": "prantad",
+      "word": "jezuz-krist",
       "count": 54
     },
     {
       "word": "karl",
-      "count": 54
-    },
-    {
-      "word": "dazont",
       "count": 54
     },
     {
@@ -3745,7 +3733,7 @@
       "count": 54
     },
     {
-      "word": "deskiñ",
+      "word": "kelenn",
       "count": 54
     },
     {
@@ -3761,11 +3749,11 @@
       "count": 54
     },
     {
-      "word": "albania",
+      "word": "skingomz",
       "count": 54
     },
     {
-      "word": "heol",
+      "word": "albania",
       "count": 54
     },
     {
@@ -3774,10 +3762,6 @@
     },
     {
       "word": "feiz",
-      "count": 53
-    },
-    {
-      "word": "hoazh",
       "count": 53
     },
     {
@@ -3813,6 +3797,10 @@
       "count": 53
     },
     {
+      "word": "france",
+      "count": 53
+    },
+    {
       "word": "si",
       "count": 53
     },
@@ -3837,6 +3825,10 @@
       "count": 53
     },
     {
+      "word": "heol",
+      "count": 53
+    },
+    {
       "word": "bantouek",
       "count": 53
     },
@@ -3845,19 +3837,15 @@
       "count": 52
     },
     {
-      "word": "endro",
-      "count": 52
-    },
-    {
       "word": "kuzul",
       "count": 52
     },
     {
-      "word": "vevañ",
+      "word": "hoazh",
       "count": 52
     },
     {
-      "word": "krog",
+      "word": "vevañ",
       "count": 52
     },
     {
@@ -3870,6 +3858,10 @@
     },
     {
       "word": "peurunvan",
+      "count": 52
+    },
+    {
+      "word": "dazont",
       "count": 52
     },
     {
@@ -3898,10 +3890,6 @@
     },
     {
       "word": "von",
-      "count": 52
-    },
-    {
-      "word": "framm",
       "count": 52
     },
     {
@@ -3937,7 +3925,11 @@
       "count": 51
     },
     {
-      "word": "kroget",
+      "word": "endro",
+      "count": 51
+    },
+    {
+      "word": "krog",
       "count": 51
     },
     {
@@ -3969,7 +3961,15 @@
       "count": 51
     },
     {
+      "word": "deskiñ",
+      "count": 51
+    },
+    {
       "word": "testamant",
+      "count": 51
+    },
+    {
+      "word": "framm",
       "count": 51
     },
     {

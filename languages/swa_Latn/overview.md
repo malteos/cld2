@@ -37,7 +37,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 - `https://sw.wikipedia.org/` — _wikimedia/wikipedia 20231101_
 - `https://www.bbc.com/swahili` — BBC Swahili — _live WebFetch_
-- `https://www.mwananchi.co.tz/` — Mwananchi — Tanzanian Swahili daily — _live WebFetch_
 
 ### Catalogued source candidates
 

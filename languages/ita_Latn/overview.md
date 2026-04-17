@@ -21,7 +21,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 - `https://it.wikipedia.org/` — _wikimedia/wikipedia 20231101_
 - `https://www.governo.it/` — Governo Italiano — _live WebFetch_
-- `https://www.ansa.it/` — ANSA — _live WebFetch_
 
 ### Catalogued source candidates
 

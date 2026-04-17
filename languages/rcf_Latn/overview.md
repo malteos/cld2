@@ -29,12 +29,17 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 ### Contributed content
 
-- `https://la1ere.francetvinfo.fr/reunion/` — Réunion La 1ère (French + Kréol Rénioné) — _live WebFetch_
-- `https://www.zinfos974.com/` — Zinfos 974 — Réunion news — _live WebFetch_
+- `https://la1ere.francetvinfo.fr/reunion/` — Réunion La 1ère — _live WebFetch_
+- `https://www.temoignages.re/` — Témoignages — quotidien (PCR) — _live WebFetch_
 
 ### Catalogued source candidates
 
-- `https://la1ere.francetvinfo.fr/reunion/` — Réunion La 1ère (French + Kréol Rénioné) (news)
+- `https://la1ere.francetvinfo.fr/reunion/` — Réunion La 1ère (news)
 - `https://www.zinfos974.com/` — Zinfos 974 — Réunion news (news)
-- `https://www.clicanoo.re/` — Clicanoo / Journal de l'Île de La Réunion (news)
+- `https://www.clicanoo.re/` — Clicanoo / JIR (news)
+- `https://www.ipreunion.com/` — IP Réunion (news)
+- `https://www.temoignages.re/` — Témoignages — quotidien (PCR) (news)
+- `https://www.runweb.re/` — Runweb — Réunion news (news)
 - `https://www.regionreunion.com/` — Région Réunion (gov)
+- `https://www.cg974.fr/` — Conseil Départemental de La Réunion (gov)
+- `https://www.linfo.re/` — L'Info — Réunion news portal (news)

@@ -26,7 +26,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 ### Contributed content
 
 - `https://ja.wikipedia.org/` — _wikimedia/wikipedia 20231101_
-- `https://www.asahi.com/` — Asahi Shimbun — _live WebFetch_
 
 ### Catalogued source candidates
 

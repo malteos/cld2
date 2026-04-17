@@ -5,36 +5,36 @@
   "tier": "low",
   "tier_target": 1000,
   "source": "Wikipedia (vec.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
-  "total_tokens": 101708,
-  "unique_tokens": 18174,
+  "total_tokens": 101509,
+  "unique_tokens": 18175,
   "words": [
     {
       "word": "el",
-      "count": 6710
+      "count": 6684
     },
     {
       "word": "de",
-      "count": 5356
+      "count": 5329
     },
     {
       "word": "ła",
-      "count": 3437
+      "count": 3456
     },
     {
       "word": "del",
-      "count": 3204
+      "count": 3185
     },
     {
       "word": "xe",
-      "count": 2390
+      "count": 2394
     },
     {
       "word": "sècoło",
-      "count": 1703
+      "count": 1701
     },
     {
       "word": "ani",
-      "count": 1490
+      "count": 1488
     },
     {
       "word": "in",
@@ -49,12 +49,12 @@
       "count": 1390
     },
     {
-      "word": "morti",
+      "word": "avegnimenti",
       "count": 1377
     },
     {
-      "word": "avegnimenti",
-      "count": 1377
+      "word": "morti",
+      "count": 1376
     },
     {
       "word": "nasesti",
@@ -66,11 +66,11 @@
     },
     {
       "word": "che",
-      "count": 1121
+      "count": 1126
     },
     {
       "word": "łe",
-      "count": 1077
+      "count": 1086
     },
     {
       "word": "on",
@@ -78,7 +78,7 @@
     },
     {
       "word": "la",
-      "count": 1047
+      "count": 1040
     },
     {
       "word": "numari",
@@ -86,19 +86,19 @@
     },
     {
       "word": "par",
-      "count": 948
-    },
-    {
-      "word": "inte",
-      "count": 900
+      "count": 944
     },
     {
       "word": "un",
-      "count": 898
+      "count": 893
+    },
+    {
+      "word": "inte",
+      "count": 890
     },
     {
       "word": "da",
-      "count": 797
+      "count": 802
     },
     {
       "word": "en",
@@ -106,23 +106,23 @@
     },
     {
       "word": "se",
-      "count": 602
+      "count": 598
     },
     {
       "word": "ze",
-      "count": 593
+      "count": 590
     },
     {
       "word": "ga",
-      "count": 573
+      "count": 567
     },
     {
       "word": "na",
-      "count": 557
+      "count": 551
     },
     {
       "word": "dei",
-      "count": 513
+      "count": 509
     },
     {
       "word": "ii",
@@ -130,11 +130,11 @@
     },
     {
       "word": "co",
-      "count": 487
+      "count": 493
     },
     {
       "word": "iii",
-      "count": 418
+      "count": 417
     },
     {
       "word": "numeri",
@@ -150,27 +150,27 @@
     },
     {
       "word": "anca",
-      "count": 345
-    },
-    {
-      "word": "so",
       "count": 340
     },
     {
+      "word": "so",
+      "count": 338
+    },
+    {
       "word": "dal",
-      "count": 316
+      "count": 312
     },
     {
       "word": "pì",
-      "count": 313
+      "count": 312
     },
     {
       "word": "le",
-      "count": 276
+      "count": 278
     },
     {
       "word": "ghe",
-      "count": 275
+      "count": 273
     },
     {
       "word": "vi",
@@ -181,8 +181,12 @@
       "count": 211
     },
     {
+      "word": "sità",
+      "count": 210
+    },
+    {
       "word": "vii",
-      "count": 209
+      "count": 208
     },
     {
       "word": "viii",
@@ -190,43 +194,39 @@
     },
     {
       "word": "parte",
-      "count": 204
-    },
-    {
-      "word": "sità",
-      "count": 203
+      "count": 202
     },
     {
       "word": "dopo",
-      "count": 201
+      "count": 198
     },
     {
       "word": "stà",
-      "count": 193
+      "count": 196
     },
     {
       "word": "de'l",
-      "count": 187
+      "count": 192
     },
     {
       "word": "sta",
-      "count": 186
-    },
-    {
-      "word": "fin",
-      "count": 159
-    },
-    {
-      "word": "no",
-      "count": 157
-    },
-    {
-      "word": "stato",
-      "count": 154
+      "count": 184
     },
     {
       "word": "venesia",
-      "count": 153
+      "count": 161
+    },
+    {
+      "word": "no",
+      "count": 158
+    },
+    {
+      "word": "fin",
+      "count": 156
+    },
+    {
+      "word": "stato",
+      "count": 150
     },
     {
       "word": "l'è",
@@ -234,7 +234,7 @@
     },
     {
       "word": "come",
-      "count": 144
+      "count": 145
     },
     {
       "word": "san",
@@ -249,15 +249,11 @@
       "count": 124
     },
     {
-      "word": "cofà",
-      "count": 119
-    },
-    {
       "word": "su",
-      "count": 119
+      "count": 121
     },
     {
-      "word": "altri",
+      "word": "cofà",
       "count": 117
     },
     {
@@ -269,71 +265,75 @@
       "count": 116
     },
     {
-      "word": "intrà",
-      "count": 114
+      "word": "altri",
+      "count": 115
     },
     {
       "word": "col",
       "count": 113
     },
     {
-      "word": "stati",
-      "count": 111
+      "word": "nord",
+      "count": 112
     },
     {
-      "word": "nord",
-      "count": 111
+      "word": "stati",
+      "count": 110
     },
     {
       "word": "prima",
-      "count": 109
+      "count": 108
+    },
+    {
+      "word": "intrà",
+      "count": 107
     },
     {
       "word": "pi",
       "count": 103
     },
     {
-      "word": "fa",
-      "count": 99
+      "word": "rejon",
+      "count": 102
     },
     {
-      "word": "ke",
+      "word": "intel",
+      "count": 97
+    },
+    {
+      "word": "fa",
       "count": 97
     },
     {
       "word": "guera",
-      "count": 96
-    },
-    {
-      "word": "intel",
       "count": 95
     },
     {
-      "word": "rejon",
-      "count": 94
+      "word": "ke",
+      "count": 92
     },
     {
       "word": "dai",
       "count": 90
     },
     {
-      "word": "repùblega",
-      "count": 87
-    },
-    {
-      "word": "vèneto",
-      "count": 86
-    },
-    {
       "word": "mondo",
-      "count": 86
+      "count": 89
     },
     {
-      "word": "do",
-      "count": 86
+      "word": "repùblega",
+      "count": 89
     },
     {
       "word": "jera",
+      "count": 84
+    },
+    {
+      "word": "vèneto",
+      "count": 83
+    },
+    {
+      "word": "do",
       "count": 83
     },
     {
@@ -342,55 +342,55 @@
     },
     {
       "word": "ai",
-      "count": 82
-    },
-    {
-      "word": "łéngua",
-      "count": 80
+      "count": 81
     },
     {
       "word": "mar",
-      "count": 77
+      "count": 78
     },
     {
-      "word": "sia",
-      "count": 77
+      "word": "fato",
+      "count": 78
     },
     {
       "word": "nome",
       "count": 77
     },
     {
-      "word": "fato",
-      "count": 77
+      "word": "tra",
+      "count": 76
     },
     {
-      "word": "altre",
-      "count": 76
+      "word": "sia",
+      "count": 75
     },
     {
       "word": "provincia",
       "count": 75
     },
     {
-      "word": "tra",
+      "word": "altre",
       "count": 74
     },
     {
       "word": "drio",
-      "count": 73
-    },
-    {
-      "word": "tuti",
-      "count": 72
-    },
-    {
-      "word": "abitanti",
       "count": 72
     },
     {
       "word": "popołasion",
+      "count": 72
+    },
+    {
+      "word": "abitanti",
       "count": 71
+    },
+    {
+      "word": "łéngua",
+      "count": 70
+    },
+    {
+      "word": "tuti",
+      "count": 70
     },
     {
       "word": "di",
@@ -402,7 +402,11 @@
     },
     {
       "word": "primo",
-      "count": 67
+      "count": 68
+    },
+    {
+      "word": "l'itałia",
+      "count": 63
     },
     {
       "word": "ne",
@@ -413,23 +417,15 @@
       "count": 62
     },
     {
-      "word": "sto",
+      "word": "teritorio",
       "count": 62
     },
     {
       "word": "granda",
-      "count": 61
-    },
-    {
-      "word": "l'itałia",
-      "count": 61
-    },
-    {
-      "word": "via",
       "count": 60
     },
     {
-      "word": "teritorio",
+      "word": "sto",
       "count": 60
     },
     {
@@ -445,16 +441,20 @@
       "count": 59
     },
     {
+      "word": "tute",
+      "count": 57
+    },
+    {
       "word": "verso",
-      "count": 58
+      "count": 57
+    },
+    {
+      "word": "via",
+      "count": 57
     },
     {
       "word": "padova",
       "count": 57
-    },
-    {
-      "word": "tute",
-      "count": 56
     },
     {
       "word": "veneto",
@@ -466,10 +466,10 @@
     },
     {
       "word": "ko",
-      "count": 55
+      "count": 54
     },
     {
-      "word": "ghea",
+      "word": "soto",
       "count": 54
     },
     {
@@ -477,15 +477,27 @@
       "count": 53
     },
     {
+      "word": "ghea",
+      "count": 53
+    },
+    {
       "word": "tel",
       "count": 53
     },
     {
-      "word": "soto",
+      "word": "fransa",
       "count": 53
     },
     {
+      "word": "foresti",
+      "count": 52
+    },
+    {
       "word": "tanto",
+      "count": 52
+    },
+    {
+      "word": "una",
       "count": 52
     },
     {
@@ -493,11 +505,11 @@
       "count": 52
     },
     {
-      "word": "verona",
+      "word": "tuto",
       "count": 51
     },
     {
-      "word": "foresti",
+      "word": "verona",
       "count": 51
     },
     {
@@ -505,27 +517,11 @@
       "count": 51
     },
     {
-      "word": "una",
-      "count": 51
-    },
-    {
-      "word": "fransa",
-      "count": 51
-    },
-    {
       "word": "po",
-      "count": 50
-    },
-    {
-      "word": "secolo",
-      "count": 50
-    },
-    {
-      "word": "tuto",
       "count": 49
     },
     {
-      "word": "mèsego",
+      "word": "secolo",
       "count": 49
     },
     {
@@ -545,10 +541,6 @@
       "count": 47
     },
     {
-      "word": "zona",
-      "count": 47
-    },
-    {
       "word": "tenpo",
       "count": 47
     },
@@ -557,15 +549,19 @@
       "count": 47
     },
     {
-      "word": "paeze",
+      "word": "spagna",
       "count": 47
     },
     {
-      "word": "spagna",
+      "word": "est",
+      "count": 47
+    },
+    {
+      "word": "zona",
       "count": 46
     },
     {
-      "word": "est",
+      "word": "sti",
       "count": 46
     },
     {
@@ -581,6 +577,10 @@
       "count": 45
     },
     {
+      "word": "itałiana",
+      "count": 45
+    },
+    {
       "word": "połe",
       "count": 45
     },
@@ -589,23 +589,31 @@
       "count": 45
     },
     {
-      "word": "sti",
-      "count": 45
-    },
-    {
       "word": "ceza",
       "count": 45
     },
     {
       "word": "durante",
-      "count": 43
+      "count": 44
     },
     {
-      "word": "itałiana",
+      "word": "paeze",
+      "count": 44
+    },
+    {
+      "word": "ovest",
+      "count": 44
+    },
+    {
+      "word": "tuta",
       "count": 43
     },
     {
       "word": "projeti",
+      "count": 43
+    },
+    {
+      "word": "mèsego",
       "count": 43
     },
     {
@@ -617,16 +625,8 @@
       "count": 43
     },
     {
-      "word": "ovest",
-      "count": 43
-    },
-    {
       "word": "wikipedia",
       "count": 43
-    },
-    {
-      "word": "tuta",
-      "count": 42
     },
     {
       "word": "inportanti",
@@ -637,31 +637,19 @@
       "count": 42
     },
     {
-      "word": "unii",
-      "count": 42
-    },
-    {
       "word": "vicensa",
       "count": 42
-    },
-    {
-      "word": "oncora",
-      "count": 41
-    },
-    {
-      "word": "vita",
-      "count": 41
     },
     {
       "word": "td",
       "count": 41
     },
     {
-      "word": "dì",
+      "word": "oncora",
       "count": 40
     },
     {
-      "word": "senpre",
+      "word": "unii",
       "count": 40
     },
     {
@@ -669,7 +657,7 @@
       "count": 40
     },
     {
-      "word": "drento",
+      "word": "dì",
       "count": 39
     },
     {
@@ -677,7 +665,7 @@
       "count": 39
     },
     {
-      "word": "parò",
+      "word": "vita",
       "count": 39
     },
     {
@@ -685,11 +673,23 @@
       "count": 39
     },
     {
-      "word": "mondiałe",
+      "word": "comun",
+      "count": 38
+    },
+    {
+      "word": "drento",
+      "count": 38
+    },
+    {
+      "word": "parò",
       "count": 38
     },
     {
       "word": "cità",
+      "count": 38
+    },
+    {
+      "word": "łi",
       "count": 38
     },
     {
@@ -699,10 +699,6 @@
     {
       "word": "johr",
       "count": 38
-    },
-    {
-      "word": "vèneta",
-      "count": 37
     },
     {
       "word": "riva",
@@ -717,12 +713,16 @@
       "count": 37
     },
     {
+      "word": "mondiałe",
+      "count": 37
+    },
+    {
       "word": "grande",
       "count": 37
     },
     {
-      "word": "łi",
-      "count": 37
+      "word": "senpre",
+      "count": 36
     },
     {
       "word": "chel",
@@ -734,6 +734,10 @@
     },
     {
       "word": "km²",
+      "count": 36
+    },
+    {
+      "word": "sentro",
       "count": 36
     },
     {
@@ -757,19 +761,15 @@
       "count": 35
     },
     {
-      "word": "comun",
-      "count": 35
-    },
-    {
       "word": "va",
       "count": 35
     },
     {
-      "word": "trieste",
+      "word": "parché",
       "count": 35
     },
     {
-      "word": "parché",
+      "word": "mentre",
       "count": 35
     },
     {
@@ -785,7 +785,7 @@
       "count": 35
     },
     {
-      "word": "mentre",
+      "word": "ciapa",
       "count": 34
     },
     {
@@ -801,23 +801,11 @@
       "count": 34
     },
     {
-      "word": "portà",
-      "count": 33
-    },
-    {
-      "word": "ciapa",
+      "word": "trieste",
       "count": 33
     },
     {
       "word": "notasion",
-      "count": 33
-    },
-    {
-      "word": "nasion",
-      "count": 33
-    },
-    {
-      "word": "sentro",
       "count": 33
     },
     {
@@ -837,11 +825,7 @@
       "count": 33
     },
     {
-      "word": "secondo",
-      "count": 32
-    },
-    {
-      "word": "porta",
+      "word": "vèneta",
       "count": 32
     },
     {
@@ -849,7 +833,15 @@
       "count": 32
     },
     {
+      "word": "marin",
+      "count": 32
+    },
+    {
       "word": "far",
+      "count": 32
+    },
+    {
+      "word": "val",
       "count": 32
     },
     {
@@ -861,11 +853,23 @@
       "count": 32
     },
     {
+      "word": "l'inpero",
+      "count": 32
+    },
+    {
       "word": "presidente",
       "count": 32
     },
     {
-      "word": "grando",
+      "word": "portà",
+      "count": 31
+    },
+    {
+      "word": "secondo",
+      "count": 31
+    },
+    {
+      "word": "porta",
       "count": 31
     },
     {
@@ -877,15 +881,11 @@
       "count": 31
     },
     {
-      "word": "marin",
+      "word": "periodo",
       "count": 31
     },
     {
-      "word": "val",
-      "count": 31
-    },
-    {
-      "word": "l'inpero",
+      "word": "nasion",
       "count": 31
     },
     {
@@ -897,19 +897,23 @@
       "count": 31
     },
     {
-      "word": "zone",
+      "word": "roman",
+      "count": 31
+    },
+    {
+      "word": "costitusion",
+      "count": 31
+    },
+    {
+      "word": "grando",
       "count": 30
     },
     {
-      "word": "ste",
+      "word": "ìzołe",
       "count": 30
     },
     {
-      "word": "periodo",
-      "count": 30
-    },
-    {
-      "word": "vari",
+      "word": "invese",
       "count": 30
     },
     {
@@ -929,7 +933,7 @@
       "count": 29
     },
     {
-      "word": "invese",
+      "word": "ste",
       "count": 29
     },
     {
@@ -941,11 +945,11 @@
       "count": 29
     },
     {
-      "word": "roman",
+      "word": "ben",
       "count": 29
     },
     {
-      "word": "ben",
+      "word": "sol",
       "count": 29
     },
     {
@@ -953,15 +957,15 @@
       "count": 29
     },
     {
-      "word": "ìzołe",
-      "count": 28
-    },
-    {
       "word": "itałian",
       "count": 28
     },
     {
-      "word": "perìodo",
+      "word": "vari",
+      "count": 28
+    },
+    {
+      "word": "fata",
       "count": 28
     },
     {
@@ -969,11 +973,7 @@
       "count": 28
     },
     {
-      "word": "costitusion",
-      "count": 28
-    },
-    {
-      "word": "sol",
+      "word": "siciłia",
       "count": 28
     },
     {
@@ -989,19 +989,11 @@
       "count": 27
     },
     {
-      "word": "contro",
-      "count": 27
-    },
-    {
-      "word": "forte",
-      "count": 27
-    },
-    {
-      "word": "łéngue",
-      "count": 27
-    },
-    {
       "word": "primi",
+      "count": 27
+    },
+    {
+      "word": "perìodo",
       "count": 27
     },
     {
@@ -1010,6 +1002,14 @@
     },
     {
       "word": "novo",
+      "count": 27
+    },
+    {
+      "word": "confina",
+      "count": 27
+    },
+    {
+      "word": "co'l",
       "count": 27
     },
     {
@@ -1025,11 +1025,11 @@
       "count": 26
     },
     {
-      "word": "inportante",
+      "word": "contro",
       "count": 26
     },
     {
-      "word": "fata",
+      "word": "łéngue",
       "count": 26
     },
     {
@@ -1041,18 +1041,6 @@
       "count": 26
     },
     {
-      "word": "confina",
-      "count": 26
-    },
-    {
-      "word": "siciłia",
-      "count": 26
-    },
-    {
-      "word": "co'l",
-      "count": 26
-    },
-    {
       "word": "cao",
       "count": 26
     },
@@ -1061,15 +1049,19 @@
       "count": 26
     },
     {
+      "word": "àneme",
+      "count": 26
+    },
+    {
       "word": "cusì",
       "count": 26
     },
     {
-      "word": "porto",
-      "count": 25
+      "word": "vin",
+      "count": 26
     },
     {
-      "word": "tacà",
+      "word": "inportante",
       "count": 25
     },
     {
@@ -1101,6 +1093,10 @@
       "count": 25
     },
     {
+      "word": "d'itałia",
+      "count": 25
+    },
+    {
       "word": "bataja",
       "count": 25
     },
@@ -1121,7 +1117,23 @@
       "count": 25
     },
     {
-      "word": "çità",
+      "word": "zone",
+      "count": 24
+    },
+    {
+      "word": "porto",
+      "count": 24
+    },
+    {
+      "word": "forte",
+      "count": 24
+    },
+    {
+      "word": "tacà",
+      "count": 24
+    },
+    {
+      "word": "andrea",
       "count": 24
     },
     {
@@ -1129,15 +1141,11 @@
       "count": 24
     },
     {
-      "word": "deriva",
-      "count": 24
-    },
-    {
       "word": "èsar",
       "count": 24
     },
     {
-      "word": "otobre",
+      "word": "nase",
       "count": 24
     },
     {
@@ -1145,27 +1153,7 @@
       "count": 24
     },
     {
-      "word": "àneme",
-      "count": 24
-    },
-    {
-      "word": "parlà",
-      "count": 23
-    },
-    {
-      "word": "persone",
-      "count": 23
-    },
-    {
-      "word": "parla",
-      "count": 23
-    },
-    {
-      "word": "xix",
-      "count": 23
-    },
-    {
-      "word": "doparà",
+      "word": "çità",
       "count": 23
     },
     {
@@ -1173,11 +1161,15 @@
       "count": 23
     },
     {
-      "word": "produsion",
+      "word": "man",
       "count": 23
     },
     {
-      "word": "andrea",
+      "word": "nova",
+      "count": 23
+    },
+    {
+      "word": "produsion",
       "count": 23
     },
     {
@@ -1185,15 +1177,11 @@
       "count": 23
     },
     {
-      "word": "ano",
+      "word": "deriva",
       "count": 23
     },
     {
       "word": "someje",
-      "count": 23
-    },
-    {
-      "word": "d'itałia",
       "count": 23
     },
     {
@@ -1205,11 +1193,19 @@
       "count": 23
     },
     {
-      "word": "venèsia",
+      "word": "persone",
       "count": 22
     },
     {
-      "word": "diałeto",
+      "word": "l'eoropa",
+      "count": 22
+    },
+    {
+      "word": "parla",
+      "count": 22
+    },
+    {
+      "word": "xix",
       "count": 22
     },
     {
@@ -1217,19 +1213,23 @@
       "count": 22
     },
     {
-      "word": "meridionałe",
+      "word": "doparà",
       "count": 22
     },
     {
-      "word": "man",
+      "word": "tradision",
       "count": 22
     },
     {
-      "word": "nova",
+      "word": "otobre",
       "count": 22
     },
     {
-      "word": "partio",
+      "word": "ano",
+      "count": 22
+    },
+    {
+      "word": "grandi",
       "count": 22
     },
     {
@@ -1241,7 +1241,7 @@
       "count": 22
     },
     {
-      "word": "nase",
+      "word": "sardegna",
       "count": 22
     },
     {
@@ -1273,6 +1273,10 @@
       "count": 22
     },
     {
+      "word": "sò",
+      "count": 22
+    },
+    {
       "word": "tr",
       "count": 22
     },
@@ -1281,15 +1285,15 @@
       "count": 22
     },
     {
+      "word": "venèsia",
+      "count": 21
+    },
+    {
       "word": "consejo",
       "count": 21
     },
     {
-      "word": "l'eoropa",
-      "count": 21
-    },
-    {
-      "word": "nùmaro",
+      "word": "meridionałe",
       "count": 21
     },
     {
@@ -1297,23 +1301,15 @@
       "count": 21
     },
     {
-      "word": "tradision",
-      "count": 21
-    },
-    {
       "word": "vecia",
       "count": 21
     },
     {
-      "word": "latina",
-      "count": 21
-    },
-    {
-      "word": "xx",
-      "count": 21
-    },
-    {
       "word": "metà",
+      "count": 21
+    },
+    {
+      "word": "partio",
       "count": 21
     },
     {
@@ -1325,7 +1321,7 @@
       "count": 21
     },
     {
-      "word": "grandi",
+      "word": "rento",
       "count": 21
     },
     {
@@ -1345,10 +1341,6 @@
       "count": 21
     },
     {
-      "word": "vin",
-      "count": 21
-    },
-    {
       "word": "quando",
       "count": 21
     },
@@ -1365,7 +1357,11 @@
       "count": 21
     },
     {
-      "word": "grupo",
+      "word": "parlà",
+      "count": 20
+    },
+    {
+      "word": "nùmaro",
       "count": 20
     },
     {
@@ -1377,23 +1373,7 @@
       "count": 20
     },
     {
-      "word": "veneta",
-      "count": 20
-    },
-    {
-      "word": "teritòrio",
-      "count": 20
-    },
-    {
       "word": "poder",
-      "count": 20
-    },
-    {
-      "word": "rento",
-      "count": 20
-    },
-    {
-      "word": "sardegna",
       "count": 20
     },
     {
@@ -1417,7 +1397,11 @@
       "count": 20
     },
     {
-      "word": "latin",
+      "word": "grupo",
+      "count": 19
+    },
+    {
+      "word": "penìzoła",
       "count": 19
     },
     {
@@ -1433,11 +1417,27 @@
       "count": 19
     },
     {
+      "word": "veneta",
+      "count": 19
+    },
+    {
       "word": "varie",
       "count": 19
     },
     {
       "word": "itałiani",
+      "count": 19
+    },
+    {
+      "word": "latina",
+      "count": 19
+    },
+    {
+      "word": "teritòrio",
+      "count": 19
+    },
+    {
+      "word": "xx",
       "count": 19
     },
     {
@@ -1465,7 +1465,7 @@
       "count": 19
     },
     {
-      "word": "sò",
+      "word": "venezia",
       "count": 19
     },
     {
@@ -1482,6 +1482,10 @@
     },
     {
       "word": "gravo",
+      "count": 19
+    },
+    {
+      "word": "deso",
       "count": 19
     },
     {
@@ -1521,7 +1525,7 @@
       "count": 19
     },
     {
-      "word": "vèneti",
+      "word": "bełun",
       "count": 18
     },
     {
@@ -1530,10 +1534,6 @@
     },
     {
       "word": "esare",
-      "count": 18
-    },
-    {
-      "word": "penìzoła",
       "count": 18
     },
     {
@@ -1554,10 +1554,6 @@
     },
     {
       "word": "xera",
-      "count": 18
-    },
-    {
-      "word": "spagnoła",
       "count": 18
     },
     {
@@ -1593,15 +1589,15 @@
       "count": 18
     },
     {
-      "word": "venezia",
-      "count": 18
-    },
-    {
       "word": "economia",
       "count": 18
     },
     {
-      "word": "deso",
+      "word": "dó",
+      "count": 18
+    },
+    {
+      "word": "łaguna",
       "count": 18
     },
     {
@@ -1621,11 +1617,11 @@
       "count": 18
     },
     {
-      "word": "bełun",
+      "word": "vèneti",
       "count": 17
     },
     {
-      "word": "longo",
+      "word": "latin",
       "count": 17
     },
     {
@@ -1653,7 +1649,7 @@
       "count": 17
     },
     {
-      "word": "popolasion",
+      "word": "altro",
       "count": 17
     },
     {
@@ -1665,15 +1661,15 @@
       "count": 17
     },
     {
+      "word": "inte'l",
+      "count": 17
+    },
+    {
       "word": "l'àustria",
       "count": 17
     },
     {
       "word": "sito",
-      "count": 17
-    },
-    {
-      "word": "dó",
       "count": 17
     },
     {
@@ -1713,11 +1709,23 @@
       "count": 16
     },
     {
+      "word": "diałeto",
+      "count": 16
+    },
+    {
+      "word": "longo",
+      "count": 16
+    },
+    {
       "word": "francesco",
       "count": 16
     },
     {
       "word": "tratà",
+      "count": 16
+    },
+    {
+      "word": "julia",
       "count": 16
     },
     {
@@ -1729,15 +1737,15 @@
       "count": 16
     },
     {
-      "word": "prinsipalmente",
-      "count": 16
-    },
-    {
-      "word": "fati",
+      "word": "spagnoła",
       "count": 16
     },
     {
       "word": "capital",
+      "count": 16
+    },
+    {
+      "word": "segondo",
       "count": 16
     },
     {
@@ -1746,10 +1754,6 @@
     },
     {
       "word": "vałe",
-      "count": 16
-    },
-    {
-      "word": "altro",
       "count": 16
     },
     {
@@ -1773,7 +1777,15 @@
       "count": 16
     },
     {
+      "word": "dominio",
+      "count": 16
+    },
+    {
       "word": "monti",
+      "count": 16
+    },
+    {
+      "word": "considerà",
       "count": 16
     },
     {
@@ -1825,15 +1837,7 @@
       "count": 15
     },
     {
-      "word": "grado",
-      "count": 15
-    },
-    {
       "word": "xv",
-      "count": 15
-    },
-    {
-      "word": "ndar",
       "count": 15
     },
     {
@@ -1849,6 +1853,14 @@
       "count": 15
     },
     {
+      "word": "leje",
+      "count": 15
+    },
+    {
+      "word": "treviso",
+      "count": 15
+    },
+    {
       "word": "masa",
       "count": 15
     },
@@ -1861,15 +1873,15 @@
       "count": 15
     },
     {
-      "word": "anka",
+      "word": "prinsipalmente",
       "count": 15
     },
     {
-      "word": "interno",
+      "word": "popolasion",
       "count": 15
     },
     {
-      "word": "paezi",
+      "word": "fati",
       "count": 15
     },
     {
@@ -1877,7 +1889,7 @@
       "count": 15
     },
     {
-      "word": "segondo",
+      "word": "osidentałe",
       "count": 15
     },
     {
@@ -1889,7 +1901,15 @@
       "count": 15
     },
     {
-      "word": "inte'l",
+      "word": "adriàtego",
+      "count": 15
+    },
+    {
+      "word": "mediteraneo",
+      "count": 15
+    },
+    {
+      "word": "econòmego",
       "count": 15
     },
     {
@@ -1909,7 +1929,7 @@
       "count": 15
     },
     {
-      "word": "dominio",
+      "word": "parlamento",
       "count": 15
     },
     {
@@ -1921,6 +1941,10 @@
       "count": 15
     },
     {
+      "word": "base",
+      "count": 15
+    },
+    {
       "word": "połitega",
       "count": 15
     },
@@ -1929,15 +1953,19 @@
       "count": 15
     },
     {
-      "word": "łaguna",
-      "count": 15
-    },
-    {
-      "word": "considerà",
+      "word": "teraferma",
       "count": 15
     },
     {
       "word": "pasà",
+      "count": 15
+    },
+    {
+      "word": "spris",
+      "count": 15
+    },
+    {
+      "word": "quindi",
       "count": 15
     },
     {
@@ -1977,11 +2005,15 @@
       "count": 14
     },
     {
-      "word": "ancùo",
+      "word": "grado",
       "count": 14
     },
     {
       "word": "resto",
+      "count": 14
+    },
+    {
+      "word": "ndar",
       "count": 14
     },
     {
@@ -1990,10 +2022,6 @@
     },
     {
       "word": "siensa",
-      "count": 14
-    },
-    {
-      "word": "major",
       "count": 14
     },
     {
@@ -2013,14 +2041,6 @@
       "count": 14
     },
     {
-      "word": "leje",
-      "count": 14
-    },
-    {
-      "word": "julia",
-      "count": 14
-    },
-    {
       "word": "bon",
       "count": 14
     },
@@ -2033,11 +2053,15 @@
       "count": 14
     },
     {
-      "word": "mesego",
+      "word": "anka",
       "count": 14
     },
     {
-      "word": "momento",
+      "word": "interno",
+      "count": 14
+    },
+    {
+      "word": "paezi",
       "count": 14
     },
     {
@@ -2057,23 +2081,11 @@
       "count": 14
     },
     {
-      "word": "osidentałe",
-      "count": 14
-    },
-    {
       "word": "xente",
       "count": 14
     },
     {
-      "word": "adriàtego",
-      "count": 14
-    },
-    {
-      "word": "mediteraneo",
-      "count": 14
-    },
-    {
-      "word": "econòmego",
+      "word": "unità",
       "count": 14
     },
     {
@@ -2101,10 +2113,6 @@
       "count": 14
     },
     {
-      "word": "parlamento",
-      "count": 14
-    },
-    {
       "word": "drita",
       "count": 14
     },
@@ -2125,19 +2133,7 @@
       "count": 14
     },
     {
-      "word": "base",
-      "count": 14
-    },
-    {
-      "word": "teraferma",
-      "count": 14
-    },
-    {
       "word": "abità",
-      "count": 14
-    },
-    {
-      "word": "quindi",
       "count": 14
     },
     {
@@ -2193,7 +2189,7 @@
       "count": 13
     },
     {
-      "word": "etc",
+      "word": "ancùo",
       "count": 13
     },
     {
@@ -2201,15 +2197,11 @@
       "count": 13
     },
     {
-      "word": "taca",
+      "word": "xvi",
       "count": 13
     },
     {
-      "word": "torno",
-      "count": 13
-    },
-    {
-      "word": "bona",
+      "word": "major",
       "count": 13
     },
     {
@@ -2229,11 +2221,11 @@
       "count": 13
     },
     {
-      "word": "treviso",
+      "word": "cua",
       "count": 13
     },
     {
-      "word": "cua",
+      "word": "itàlia",
       "count": 13
     },
     {
@@ -2245,11 +2237,7 @@
       "count": 13
     },
     {
-      "word": "zugno",
-      "count": 13
-    },
-    {
-      "word": "kofà",
+      "word": "momento",
       "count": 13
     },
     {
@@ -2266,10 +2254,6 @@
     },
     {
       "word": "situà",
-      "count": 13
-    },
-    {
-      "word": "unità",
       "count": 13
     },
     {
@@ -2293,6 +2277,10 @@
       "count": 13
     },
     {
+      "word": "trentin-alto",
+      "count": 13
+    },
+    {
       "word": "novenbre",
       "count": 13
     },
@@ -2313,6 +2301,18 @@
       "count": 13
     },
     {
+      "word": "cavedałe",
+      "count": 13
+    },
+    {
+      "word": "partir",
+      "count": 13
+    },
+    {
+      "word": "creà",
+      "count": 13
+    },
+    {
       "word": "conquista",
       "count": 13
     },
@@ -2322,10 +2322,6 @@
     },
     {
       "word": "xviii",
-      "count": 13
-    },
-    {
-      "word": "spris",
       "count": 13
     },
     {
@@ -2401,7 +2397,7 @@
       "count": 12
     },
     {
-      "word": "milioni",
+      "word": "rezion",
       "count": 12
     },
     {
@@ -2421,27 +2417,19 @@
       "count": 12
     },
     {
-      "word": "venesian",
+      "word": "etc",
       "count": 12
     },
     {
-      "word": "desviłupo",
+      "word": "taca",
       "count": 12
     },
     {
-      "word": "influensa",
+      "word": "torno",
       "count": 12
     },
     {
-      "word": "costa",
-      "count": 12
-    },
-    {
-      "word": "concuista",
-      "count": 12
-    },
-    {
-      "word": "łengua",
+      "word": "bona",
       "count": 12
     },
     {
@@ -2453,10 +2441,6 @@
       "count": 12
     },
     {
-      "word": "xvi",
-      "count": 12
-    },
-    {
       "word": "inportansa",
       "count": 12
     },
@@ -2465,11 +2449,11 @@
       "count": 12
     },
     {
-      "word": "lota",
+      "word": "mesego",
       "count": 12
     },
     {
-      "word": "pil",
+      "word": "zugno",
       "count": 12
     },
     {
@@ -2477,7 +2461,7 @@
       "count": 12
     },
     {
-      "word": "demografia",
+      "word": "kofà",
       "count": 12
     },
     {
@@ -2513,7 +2497,7 @@
       "count": 12
     },
     {
-      "word": "trentin-alto",
+      "word": "leji",
       "count": 12
     },
     {
@@ -2522,6 +2506,10 @@
     },
     {
       "word": "corsi",
+      "count": 12
+    },
+    {
+      "word": "alte",
       "count": 12
     },
     {
@@ -2541,14 +2529,6 @@
       "count": 12
     },
     {
-      "word": "partir",
-      "count": 12
-    },
-    {
-      "word": "creà",
-      "count": 12
-    },
-    {
       "word": "non",
       "count": 12
     },
@@ -2561,11 +2541,19 @@
       "count": 12
     },
     {
+      "word": "serie",
+      "count": 12
+    },
+    {
       "word": "costrusion",
       "count": 12
     },
     {
       "word": "maniera",
+      "count": 12
+    },
+    {
+      "word": "storico",
       "count": 12
     },
     {
@@ -2649,15 +2637,27 @@
       "count": 12
     },
     {
+      "word": "milioni",
+      "count": 11
+    },
+    {
       "word": "baso",
       "count": 11
     },
     {
-      "word": "sentri",
+      "word": "desviłupo",
       "count": 11
     },
     {
-      "word": "magnera",
+      "word": "costa",
+      "count": 11
+    },
+    {
+      "word": "concuista",
+      "count": 11
+    },
+    {
+      "word": "łengua",
       "count": 11
     },
     {
@@ -2677,7 +2677,7 @@
       "count": 11
     },
     {
-      "word": "itàlia",
+      "word": "statudo",
       "count": 11
     },
     {
@@ -2685,15 +2685,15 @@
       "count": 11
     },
     {
-      "word": "vie",
-      "count": 11
-    },
-    {
-      "word": "vera",
+      "word": "poderi",
       "count": 11
     },
     {
       "word": "menbro",
+      "count": 11
+    },
+    {
+      "word": "demografia",
       "count": 11
     },
     {
@@ -2706,6 +2706,14 @@
     },
     {
       "word": "pozision",
+      "count": 11
+    },
+    {
+      "word": "antiga",
+      "count": 11
+    },
+    {
+      "word": "problema",
       "count": 11
     },
     {
@@ -2769,7 +2777,7 @@
       "count": 11
     },
     {
-      "word": "leji",
+      "word": "calche",
       "count": 11
     },
     {
@@ -2805,10 +2813,6 @@
       "count": 11
     },
     {
-      "word": "alte",
-      "count": 11
-    },
-    {
       "word": "schei",
       "count": 11
     },
@@ -2825,11 +2829,15 @@
       "count": 11
     },
     {
-      "word": "cavedałe",
+      "word": "menbri",
       "count": 11
     },
     {
-      "word": "menbri",
+      "word": "propio",
+      "count": 11
+    },
+    {
+      "word": "àdexe",
       "count": 11
     },
     {
@@ -2841,7 +2849,7 @@
       "count": 11
     },
     {
-      "word": "serie",
+      "word": "defati",
       "count": 11
     },
     {
@@ -2857,7 +2865,7 @@
       "count": 11
     },
     {
-      "word": "storico",
+      "word": "austriaci",
       "count": 11
     },
     {
@@ -2933,10 +2941,6 @@
       "count": 10
     },
     {
-      "word": "rezion",
-      "count": 10
-    },
-    {
       "word": "roso",
       "count": 10
     },
@@ -2949,11 +2953,19 @@
       "count": 10
     },
     {
-      "word": "situasion",
+      "word": "sentri",
       "count": 10
     },
     {
-      "word": "veneti",
+      "word": "venesian",
+      "count": 10
+    },
+    {
+      "word": "magnera",
+      "count": 10
+    },
+    {
+      "word": "influensa",
       "count": 10
     },
     {
@@ -2985,10 +2997,6 @@
       "count": 10
     },
     {
-      "word": "traverso",
-      "count": 10
-    },
-    {
       "word": "febraro",
       "count": 10
     },
@@ -3001,7 +3009,15 @@
       "count": 10
     },
     {
+      "word": "particołare",
+      "count": 10
+    },
+    {
       "word": "giro",
+      "count": 10
+    },
+    {
+      "word": "italian",
       "count": 10
     },
     {
@@ -3009,19 +3025,19 @@
       "count": 10
     },
     {
-      "word": "mesegani",
+      "word": "lota",
       "count": 10
     },
     {
-      "word": "poderi",
+      "word": "pil",
       "count": 10
     },
     {
-      "word": "sèrie",
+      "word": "vie",
       "count": 10
     },
     {
-      "word": "prodoto",
+      "word": "vera",
       "count": 10
     },
     {
@@ -3037,15 +3053,7 @@
       "count": 10
     },
     {
-      "word": "antiga",
-      "count": 10
-    },
-    {
       "word": "fondo",
-      "count": 10
-    },
-    {
-      "word": "problema",
       "count": 10
     },
     {
@@ -3069,6 +3077,26 @@
       "count": 10
     },
     {
+      "word": "culturałe",
+      "count": 10
+    },
+    {
+      "word": "dominasion",
+      "count": 10
+    },
+    {
+      "word": "torna",
+      "count": 10
+    },
+    {
+      "word": "comando",
+      "count": 10
+    },
+    {
+      "word": "ze'l",
+      "count": 10
+    },
+    {
       "word": "senso",
       "count": 10
     },
@@ -3081,7 +3109,7 @@
       "count": 10
     },
     {
-      "word": "calche",
+      "word": "speciałe",
       "count": 10
     },
     {
@@ -3109,11 +3137,11 @@
       "count": 10
     },
     {
-      "word": "propio",
+      "word": "friul-venesia",
       "count": 10
     },
     {
-      "word": "àdexe",
+      "word": "laoro",
       "count": 10
     },
     {
@@ -3121,7 +3149,11 @@
       "count": 10
     },
     {
-      "word": "defati",
+      "word": "nata",
+      "count": 10
+    },
+    {
+      "word": "oltra",
       "count": 10
     },
     {
@@ -3174,10 +3206,6 @@
     },
     {
       "word": "bałon",
-      "count": 10
-    },
-    {
-      "word": "austriaci",
       "count": 10
     },
     {
@@ -3297,23 +3325,11 @@
       "count": 9
     },
     {
-      "word": "mejo",
+      "word": "situasion",
       "count": 9
     },
     {
-      "word": "almanco",
-      "count": 9
-    },
-    {
-      "word": "triestin",
-      "count": 9
-    },
-    {
-      "word": "estension",
-      "count": 9
-    },
-    {
-      "word": "vàrie",
+      "word": "veneti",
       "count": 9
     },
     {
@@ -3337,15 +3353,15 @@
       "count": 9
     },
     {
+      "word": "traverso",
+      "count": 9
+    },
+    {
       "word": "protesion",
       "count": 9
     },
     {
-      "word": "particołare",
-      "count": 9
-    },
-    {
-      "word": "italian",
+      "word": "boni",
       "count": 9
     },
     {
@@ -3361,27 +3377,15 @@
       "count": 9
     },
     {
-      "word": "ufisalmente",
-      "count": 9
-    },
-    {
       "word": "òvest",
       "count": 9
     },
     {
-      "word": "foreste",
+      "word": "sèrie",
       "count": 9
     },
     {
-      "word": "ekonomia",
-      "count": 9
-    },
-    {
-      "word": "fonte",
-      "count": 9
-    },
-    {
-      "word": "raprezenta",
+      "word": "prodoto",
       "count": 9
     },
     {
@@ -3409,11 +3413,11 @@
       "count": 9
     },
     {
-      "word": "dominasion",
+      "word": "slovenia",
       "count": 9
     },
     {
-      "word": "comando",
+      "word": "tiren",
       "count": 9
     },
     {
@@ -3429,7 +3433,7 @@
       "count": 9
     },
     {
-      "word": "ze'l",
+      "word": "patrimonio",
       "count": 9
     },
     {
@@ -3446,6 +3450,10 @@
     },
     {
       "word": "forsa",
+      "count": 9
+    },
+    {
+      "word": "miłitari",
       "count": 9
     },
     {
@@ -3493,6 +3501,10 @@
       "count": 9
     },
     {
+      "word": "formà",
+      "count": 9
+    },
+    {
       "word": "l'ìzoła",
       "count": 9
     },
@@ -3521,6 +3533,10 @@
       "count": 9
     },
     {
+      "word": "d'aosta",
+      "count": 9
+    },
+    {
       "word": "sołe",
       "count": 9
     },
@@ -3545,11 +3561,15 @@
       "count": 9
     },
     {
-      "word": "friul-venesia",
+      "word": "materie",
       "count": 9
     },
     {
-      "word": "laoro",
+      "word": "speciałi",
+      "count": 9
+    },
+    {
+      "word": "l'itàlia",
       "count": 9
     },
     {
@@ -3566,14 +3586,6 @@
     },
     {
       "word": "l'italia",
-      "count": 9
-    },
-    {
-      "word": "nata",
-      "count": 9
-    },
-    {
-      "word": "oltra",
       "count": 9
     },
     {
@@ -3713,7 +3725,7 @@
       "count": 9
     },
     {
-      "word": "inveçe",
+      "word": "l'unesco",
       "count": 8
     },
     {
@@ -3729,27 +3741,19 @@
       "count": 8
     },
     {
-      "word": "furlan",
-      "count": 8
-    },
-    {
-      "word": "venesiana",
-      "count": 8
-    },
-    {
       "word": "fameja",
       "count": 8
     },
     {
-      "word": "xiv",
+      "word": "mejo",
       "count": 8
     },
     {
-      "word": "friul",
+      "word": "almanco",
       "count": 8
     },
     {
-      "word": "vegner",
+      "word": "estension",
       "count": 8
     },
     {
@@ -3773,14 +3777,6 @@
       "count": 8
     },
     {
-      "word": "statudo",
-      "count": 8
-    },
-    {
-      "word": "boni",
-      "count": 8
-    },
-    {
       "word": "capire",
       "count": 8
     },
@@ -3793,7 +3789,15 @@
       "count": 8
     },
     {
+      "word": "conforme",
+      "count": 8
+    },
+    {
       "word": "doparada",
+      "count": 8
+    },
+    {
+      "word": "ufisalmente",
       "count": 8
     },
     {
@@ -3805,23 +3809,11 @@
       "count": 8
     },
     {
-      "word": "uman",
+      "word": "foreste",
       "count": 8
     },
     {
-      "word": "pułìtego",
-      "count": 8
-    },
-    {
-      "word": "orìzane",
-      "count": 8
-    },
-    {
-      "word": "fondada",
-      "count": 8
-    },
-    {
-      "word": "eoropei",
+      "word": "ekonomia",
       "count": 8
     },
     {
@@ -3837,27 +3829,19 @@
       "count": 8
     },
     {
+      "word": "aministrasion",
+      "count": 8
+    },
+    {
       "word": "dòpara",
       "count": 8
     },
     {
-      "word": "slovenia",
-      "count": 8
-    },
-    {
-      "word": "tiren",
-      "count": 8
-    },
-    {
-      "word": "torna",
+      "word": "totałe",
       "count": 8
     },
     {
       "word": "econòmega",
-      "count": 8
-    },
-    {
-      "word": "patrimonio",
       "count": 8
     },
     {
@@ -3882,10 +3866,6 @@
     },
     {
       "word": "divizion",
-      "count": 8
-    },
-    {
-      "word": "miłitari",
       "count": 8
     },
     {
@@ -3929,11 +3909,11 @@
       "count": 8
     },
     {
-      "word": "padana",
+      "word": "cuełe",
       "count": 8
     },
     {
-      "word": "formà",
+      "word": "padana",
       "count": 8
     },
     {
@@ -3950,10 +3930,6 @@
     },
     {
       "word": "raporto",
-      "count": 8
-    },
-    {
-      "word": "d'aosta",
       "count": 8
     },
     {
@@ -3977,6 +3953,10 @@
       "count": 8
     },
     {
+      "word": "statuto",
+      "count": 8
+    },
+    {
       "word": "durada",
       "count": 8
     },
@@ -3985,11 +3965,19 @@
       "count": 8
     },
     {
-      "word": "cuaxi",
+      "word": "derito",
       "count": 8
     },
     {
-      "word": "l'itàlia",
+      "word": "ordenario",
+      "count": 8
+    },
+    {
+      "word": "autonomìa",
+      "count": 8
+    },
+    {
+      "word": "cuaxi",
       "count": 8
     },
     {
@@ -4005,7 +3993,19 @@
       "count": 8
     },
     {
+      "word": "volley",
+      "count": 8
+    },
+    {
       "word": "tardi",
+      "count": 8
+    },
+    {
+      "word": "basa",
+      "count": 8
+    },
+    {
+      "word": "entra",
       "count": 8
     }
   ]

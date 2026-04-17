@@ -20,7 +20,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 ### Contributed content
 
 - `https://ur.wikipedia.org/` — _wikimedia/wikipedia 20231101_
-- `https://www.jang.com.pk/` — Jang — Urdu daily — _live WebFetch_
 - `https://www.bbc.com/urdu` — BBC Urdu — _live WebFetch_
 
 ### Catalogued source candidates

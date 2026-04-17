@@ -21,7 +21,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 - `https://ca.wikipedia.org/` — _wikimedia/wikipedia 20231101_
 - `https://www.ara.cat/` — Ara — Catalan daily — _live WebFetch_
-- `https://web.gencat.cat/ca/inici/` — Generalitat de Catalunya — _live WebFetch_
 
 ### Catalogued source candidates
 

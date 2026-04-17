@@ -37,7 +37,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 - `https://ar.wikipedia.org/` — _wikimedia/wikipedia 20231101_
 - `https://www.aljazeera.net/` — Al Jazeera Arabic — _live WebFetch_
-- `https://www.bbc.com/arabic` — BBC Arabic — _live WebFetch_
 
 ### Catalogued source candidates
 

@@ -30,7 +30,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 - `https://et.wikipedia.org/` — _wikimedia/wikipedia 20231101_
 - `https://www.valitsus.ee/` — Estonian Government — _live WebFetch_
-- `https://err.ee/` — ERR — Estonian Public Broadcasting — _live WebFetch_
 
 ### Catalogued source candidates
 

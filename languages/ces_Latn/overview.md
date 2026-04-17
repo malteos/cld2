@@ -38,7 +38,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 - `https://cs.wikipedia.org/` — _wikimedia/wikipedia 20231101_
 - `https://www.vlada.cz/cz/` — Government of the Czech Republic — _live WebFetch_
-- `https://www.idnes.cz/` — iDnes — Czech news — _live WebFetch_
 
 ### Catalogued source candidates
 

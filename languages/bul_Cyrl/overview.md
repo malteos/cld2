@@ -37,7 +37,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 - `https://bg.wikipedia.org/` — _wikimedia/wikipedia 20231101_
 - `https://www.government.bg/` — Council of Ministers of Bulgaria — _live WebFetch_
-- `https://dariknews.bg/` — Darik News — _live WebFetch_
 
 ### Catalogued source candidates
 

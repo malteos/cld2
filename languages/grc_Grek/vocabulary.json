@@ -5,143 +5,675 @@
   "tier": "low",
   "tier_target": 1000,
   "source": "examples/*.txt (live WebFetch of curated non-benchmark URLs)",
-  "total_tokens": 313,
-  "unique_tokens": 158,
+  "total_tokens": 1320,
+  "unique_tokens": 460,
   "words": [
     {
       "word": "the",
-      "count": 28
-    },
-    {
-      "word": "perseus",
-      "count": 11
-    },
-    {
-      "word": "of",
-      "count": 11
+      "count": 103
     },
     {
       "word": "and",
-      "count": 9
+      "count": 48
     },
     {
-      "word": "tufts",
-      "count": 6
+      "word": "of",
+      "count": 44
+    },
+    {
+      "word": "perseus",
+      "count": 35
     },
     {
       "word": "we",
-      "count": 6
+      "count": 25
     },
     {
       "word": "to",
-      "count": 6
-    },
-    {
-      "word": "work",
-      "count": 6
-    },
-    {
-      "word": "for",
-      "count": 6
-    },
-    {
-      "word": "digital",
-      "count": 5
-    },
-    {
-      "word": "on",
-      "count": 5
+      "count": 23
     },
     {
       "word": "in",
-      "count": 4
+      "count": 22
     },
     {
-      "word": "is",
-      "count": 4
+      "word": "digital",
+      "count": 19
     },
     {
-      "word": "now",
-      "count": 4
+      "word": "tufts",
+      "count": 17
     },
     {
-      "word": "with",
-      "count": 4
-    },
-    {
-      "word": "are",
-      "count": 4
-    },
-    {
-      "word": "beyond",
-      "count": 4
-    },
-    {
-      "word": "translation",
-      "count": 4
-    },
-    {
-      "word": "source",
-      "count": 3
-    },
-    {
-      "word": "https",
-      "count": 3
-    },
-    {
-      "word": "www",
-      "count": 3
-    },
-    {
-      "word": "edu",
-      "count": 3
-    },
-    {
-      "word": "hopper",
-      "count": 3
+      "word": "for",
+      "count": 17
     },
     {
       "word": "library",
-      "count": 3
+      "count": 16
     },
     {
-      "word": "this",
-      "count": 3
+      "word": "that",
+      "count": 15
     },
     {
-      "word": "phase",
-      "count": 3
+      "word": "source",
+      "count": 12
     },
     {
-      "word": "university",
-      "count": 3
+      "word": "https",
+      "count": 12
     },
     {
-      "word": "neh",
-      "count": 3
+      "word": "www",
+      "count": 12
     },
     {
-      "word": "support",
-      "count": 3
+      "word": "edu",
+      "count": 12
     },
     {
-      "word": "our",
-      "count": 2
+      "word": "hopper",
+      "count": 12
     },
     {
-      "word": "us",
-      "count": 2
+      "word": "on",
+      "count": 12
     },
     {
-      "word": "replace",
-      "count": 2
+      "word": "work",
+      "count": 12
+    },
+    {
+      "word": "as",
+      "count": 9
+    },
+    {
+      "word": "from",
+      "count": 9
+    },
+    {
+      "word": "information",
+      "count": 9
+    },
+    {
+      "word": "has",
+      "count": 8
+    },
+    {
+      "word": "been",
+      "count": 8
     },
     {
       "word": "which",
+      "count": 8
+    },
+    {
+      "word": "beyond",
+      "count": 8
+    },
+    {
+      "word": "have",
+      "count": 7
+    },
+    {
+      "word": "support",
+      "count": 7
+    },
+    {
+      "word": "with",
+      "count": 7
+    },
+    {
+      "word": "will",
+      "count": 7
+    },
+    {
+      "word": "this",
+      "count": 7
+    },
+    {
+      "word": "are",
+      "count": 7
+    },
+    {
+      "word": "translation",
+      "count": 7
+    },
+    {
+      "word": "humanities",
+      "count": 6
+    },
+    {
+      "word": "language",
+      "count": 6
+    },
+    {
+      "word": "us",
+      "count": 6
+    },
+    {
+      "word": "education",
+      "count": 6
+    },
+    {
+      "word": "century",
+      "count": 6
+    },
+    {
+      "word": "access",
+      "count": 6
+    },
+    {
+      "word": "physical",
+      "count": 6
+    },
+    {
+      "word": "now",
+      "count": 6
+    },
+    {
+      "word": "is",
+      "count": 6
+    },
+    {
+      "word": "scaife",
+      "count": 6
+    },
+    {
+      "word": "viewer",
+      "count": 6
+    },
+    {
+      "word": "neh",
+      "count": 6
+    },
+    {
+      "word": "by",
+      "count": 5
+    },
+    {
+      "word": "project",
+      "count": 5
+    },
+    {
+      "word": "endowment",
+      "count": 5
+    },
+    {
+      "word": "university",
+      "count": 5
+    },
+    {
+      "word": "classical",
+      "count": 5
+    },
+    {
+      "word": "greek",
+      "count": 5
+    },
+    {
+      "word": "but",
+      "count": 5
+    },
+    {
+      "word": "provides",
+      "count": 5
+    },
+    {
+      "word": "modern",
+      "count": 5
+    },
+    {
+      "word": "other",
+      "count": 5
+    },
+    {
+      "word": "at",
+      "count": 5
+    },
+    {
+      "word": "or",
+      "count": 5
+    },
+    {
+      "word": "about",
+      "count": 5
+    },
+    {
+      "word": "services",
+      "count": 4
+    },
+    {
+      "word": "national",
+      "count": 4
+    },
+    {
+      "word": "latin",
+      "count": 4
+    },
+    {
+      "word": "our",
+      "count": 4
+    },
+    {
+      "word": "technology",
+      "count": 4
+    },
+    {
+      "word": "phase",
+      "count": 4
+    },
+    {
+      "word": "part",
+      "count": 4
+    },
+    {
+      "word": "grant",
+      "count": 4
+    },
+    {
+      "word": "program",
+      "count": 4
+    },
+    {
+      "word": "arts",
+      "count": 4
+    },
+    {
+      "word": "sources",
+      "count": 4
+    },
+    {
+      "word": "than",
+      "count": 4
+    },
+    {
+      "word": "scholars",
+      "count": 4
+    },
+    {
+      "word": "th",
+      "count": 4
+    },
+    {
+      "word": "institute",
+      "count": 3
+    },
+    {
+      "word": "focus",
+      "count": 3
+    },
+    {
+      "word": "mission",
+      "count": 3
+    },
+    {
+      "word": "allow",
+      "count": 3
+    },
+    {
+      "word": "studies",
+      "count": 3
+    },
+    {
+      "word": "human",
+      "count": 3
+    },
+    {
+      "word": "images",
+      "count": 3
+    },
+    {
+      "word": "objects",
+      "count": 3
+    },
+    {
+      "word": "spaces",
+      "count": 3
+    },
+    {
+      "word": "such",
+      "count": 3
+    },
+    {
+      "word": "buildings",
+      "count": 3
+    },
+    {
+      "word": "each",
+      "count": 3
+    },
+    {
+      "word": "be",
+      "count": 3
+    },
+    {
+      "word": "update",
+      "count": 3
+    },
+    {
+      "word": "knowledge",
+      "count": 3
+    },
+    {
+      "word": "can",
+      "count": 3
+    },
+    {
+      "word": "what",
+      "count": 3
+    },
+    {
+      "word": "historical",
+      "count": 3
+    },
+    {
+      "word": "know",
+      "count": 3
+    },
+    {
+      "word": "background",
+      "count": 3
+    },
+    {
+      "word": "next",
+      "count": 3
+    },
+    {
+      "word": "most",
       "count": 2
     },
     {
-      "word": "using",
+      "word": "foundation",
+      "count": 2
+    },
+    {
+      "word": "museum",
+      "count": 2
+    },
+    {
+      "word": "particular",
+      "count": 2
+    },
+    {
+      "word": "world",
+      "count": 2
+    },
+    {
+      "word": "larger",
+      "count": 2
+    },
+    {
+      "word": "history",
+      "count": 2
+    },
+    {
+      "word": "projects",
+      "count": 2
+    },
+    {
+      "word": "make",
+      "count": 2
+    },
+    {
+      "word": "claim",
+      "count": 2
+    },
+    {
+      "word": "those",
+      "count": 2
+    },
+    {
+      "word": "skills",
+      "count": 2
+    },
+    {
+      "word": "who",
+      "count": 2
+    },
+    {
+      "word": "them",
+      "count": 2
+    },
+    {
+      "word": "italian",
+      "count": 2
+    },
+    {
+      "word": "produced",
+      "count": 2
+    },
+    {
+      "word": "italy",
+      "count": 2
+    },
+    {
+      "word": "cultural",
+      "count": 2
+    },
+    {
+      "word": "around",
+      "count": 2
+    },
+    {
+      "word": "first",
+      "count": 2
+    },
+    {
+      "word": "prior",
+      "count": 2
+    },
+    {
+      "word": "provided",
+      "count": 2
+    },
+    {
+      "word": "annenberg",
+      "count": 2
+    },
+    {
+      "word": "cpb",
+      "count": 2
+    },
+    {
+      "word": "apple",
+      "count": 2
+    },
+    {
+      "word": "computer",
+      "count": 2
+    },
+    {
+      "word": "berger",
+      "count": 2
+    },
+    {
+      "word": "family",
+      "count": 2
+    },
+    {
+      "word": "transfer",
+      "count": 2
+    },
+    {
+      "word": "libraries",
+      "count": 2
+    },
+    {
+      "word": "initiative",
+      "count": 2
+    },
+    {
+      "word": "fund",
+      "count": 2
+    },
+    {
+      "word": "improvement",
+      "count": 2
+    },
+    {
+      "word": "postsecondary",
+      "count": 2
+    },
+    {
+      "word": "department",
+      "count": 2
+    },
+    {
+      "word": "getty",
+      "count": 2
+    },
+    {
+      "word": "association",
+      "count": 2
+    },
+    {
+      "word": "packard",
+      "count": 2
+    },
+    {
+      "word": "xerox",
+      "count": 2
+    },
+    {
+      "word": "corporation",
+      "count": 2
+    },
+    {
+      "word": "boston",
+      "count": 2
+    },
+    {
+      "word": "harvard",
+      "count": 2
+    },
+    {
+      "word": "places",
+      "count": 2
+    },
+    {
+      "word": "printed",
+      "count": 2
+    },
+    {
+      "word": "representations",
+      "count": 2
+    },
+    {
+      "word": "allows",
+      "count": 2
+    },
+    {
+      "word": "call",
+      "count": 2
+    },
+    {
+      "word": "stage",
+      "count": 2
+    },
+    {
+      "word": "provide",
+      "count": 2
+    },
+    {
+      "word": "direct",
+      "count": 2
+    },
+    {
+      "word": "senses",
+      "count": 2
+    },
+    {
+      "word": "artifact",
+      "count": 2
+    },
+    {
+      "word": "art",
+      "count": 2
+    },
+    {
+      "word": "through",
+      "count": 2
+    },
+    {
+      "word": "sites",
+      "count": 2
+    },
+    {
+      "word": "catalog",
+      "count": 2
+    },
+    {
+      "word": "object",
+      "count": 2
+    },
+    {
+      "word": "entries",
+      "count": 2
+    },
+    {
+      "word": "visible",
+      "count": 2
+    },
+    {
+      "word": "documentation",
+      "count": 2
+    },
+    {
+      "word": "do",
+      "count": 2
+    },
+    {
+      "word": "not",
+      "count": 2
+    },
+    {
+      "word": "machine",
+      "count": 2
+    },
+    {
+      "word": "actionable",
+      "count": 2
+    },
+    {
+      "word": "site",
+      "count": 2
+    },
+    {
+      "word": "any",
+      "count": 2
+    },
+    {
+      "word": "retrieve",
+      "count": 2
+    },
+    {
+      "word": "if",
+      "count": 2
+    },
+    {
+      "word": "page",
+      "count": 2
+    },
+    {
+      "word": "manuscript",
+      "count": 2
+    },
+    {
+      "word": "could",
+      "count": 2
+    },
+    {
+      "word": "editions",
+      "count": 2
+    },
+    {
+      "word": "moved",
+      "count": 2
+    },
+    {
+      "word": "completed",
       "count": 2
     },
     {
@@ -149,7 +681,19 @@
       "count": 2
     },
     {
-      "word": "that",
+      "word": "white",
+      "count": 2
+    },
+    {
+      "word": "paper",
+      "count": 2
+    },
+    {
+      "word": "submitted",
+      "count": 2
+    },
+    {
+      "word": "office",
       "count": 2
     },
     {
@@ -161,147 +705,495 @@
       "count": 2
     },
     {
-      "word": "has",
+      "word": "focused",
       "count": 2
     },
     {
-      "word": "been",
+      "word": "using",
       "count": 2
     },
     {
-      "word": "humanities",
+      "word": "an",
       "count": 2
     },
     {
-      "word": "as",
+      "word": "resulting",
       "count": 2
     },
     {
-      "word": "part",
+      "word": "system",
       "count": 2
     },
     {
-      "word": "scaife",
+      "word": "finally",
       "count": 2
     },
     {
-      "word": "viewer",
+      "word": "replace",
       "count": 2
     },
     {
-      "word": "grant",
+      "word": "calling",
       "count": 2
     },
     {
-      "word": "from",
+      "word": "new",
       "count": 2
     },
     {
-      "word": "program",
+      "word": "version",
       "count": 2
     },
     {
-      "word": "arts",
+      "word": "rather",
       "count": 2
     },
     {
-      "word": "technology",
+      "word": "reflect",
       "count": 2
     },
     {
-      "word": "project",
+      "word": "amount",
       "count": 2
     },
     {
-      "word": "endowment",
+      "word": "embedded",
       "count": 2
     },
     {
-      "word": "education",
+      "word": "view",
       "count": 2
     },
     {
-      "word": "main",
+      "word": "collectively",
+      "count": 2
+    },
+    {
+      "word": "collections",
+      "count": 2
+    },
+    {
+      "word": "references",
+      "count": 2
+    },
+    {
+      "word": "division",
+      "count": 2
+    },
+    {
+      "word": "preservation",
+      "count": 2
+    },
+    {
+      "word": "web",
+      "count": 2
+    },
+    {
+      "word": "ndash",
+      "count": 2
+    },
+    {
+      "word": "preparing",
+      "count": 2
+    },
+    {
+      "word": "thirty",
+      "count": 2
+    },
+    {
+      "word": "years",
+      "count": 2
+    },
+    {
+      "word": "primary",
+      "count": 2
+    },
+    {
+      "word": "additional",
+      "count": 2
+    },
+    {
+      "word": "data",
+      "count": 2
+    },
+    {
+      "word": "intensive",
+      "count": 2
+    },
+    {
+      "word": "center",
+      "count": 2
+    },
+    {
+      "word": "school",
+      "count": 2
+    },
+    {
+      "word": "sciences",
+      "count": 2
+    },
+    {
+      "word": "google",
+      "count": 2
+    },
+    {
+      "word": "humanity",
+      "count": 2
+    },
+    {
+      "word": "linguistic",
+      "count": 2
+    },
+    {
+      "word": "artifacts",
+      "count": 2
+    },
+    {
+      "word": "course",
+      "count": 2
+    },
+    {
+      "word": "realized",
+      "count": 2
+    },
+    {
+      "word": "infrastructure",
+      "count": 2
+    },
+    {
+      "word": "vision",
+      "count": 2
+    },
+    {
+      "word": "recently",
       "count": 1
     },
     {
-      "word": "collaborator",
+      "word": "funded",
       "count": 1
     },
     {
-      "word": "development",
+      "word": "alpheios",
       "count": 1
     },
     {
-      "word": "james",
+      "word": "andrew",
       "count": 1
     },
     {
-      "word": "tauber",
+      "word": "mellon",
       "count": 1
     },
     {
-      "word": "who",
+      "word": "science",
       "count": 1
     },
     {
-      "word": "working",
+      "word": "private",
       "count": 1
     },
     {
-      "word": "signum",
+      "word": "donations",
       "count": 1
     },
     {
-      "word": "also",
+      "word": "upon",
       "count": 1
     },
     {
-      "word": "waiting",
+      "word": "greco-roman",
       "count": 1
     },
     {
-      "word": "administrative",
+      "word": "distant",
       "count": 1
     },
     {
-      "word": "paperwork",
+      "word": "fixed",
       "count": 1
     },
     {
-      "word": "finalize",
+      "word": "star",
       "count": 1
     },
     {
-      "word": "contract",
+      "word": "charted",
       "count": 1
     },
     {
-      "word": "another",
+      "word": "path",
       "count": 1
     },
     {
-      "word": "group",
+      "word": "over",
       "count": 1
     },
     {
-      "word": "help",
+      "word": "two",
       "count": 1
     },
     {
-      "word": "reorganize",
+      "word": "decades",
       "count": 1
     },
     {
-      "word": "home",
+      "word": "early",
       "count": 1
     },
     {
-      "word": "associated",
+      "word": "english",
       "count": 1
     },
     {
-      "word": "sub",
+      "word": "american",
+      "count": 1
+    },
+    {
+      "word": "civil",
+      "count": 1
+    },
+    {
+      "word": "war",
+      "count": 1
+    },
+    {
+      "word": "topography",
+      "count": 1
+    },
+    {
+      "word": "london",
+      "count": 1
+    },
+    {
+      "word": "mechanics",
+      "count": 1
+    },
+    {
+      "word": "automatic",
+      "count": 1
+    },
+    {
+      "word": "identification",
+      "count": 1
+    },
+    {
+      "word": "glossing",
+      "count": 1
+    },
+    {
+      "word": "technical",
+      "count": 1
+    },
+    {
+      "word": "scientific",
+      "count": 1
+    },
+    {
+      "word": "documents",
+      "count": 1
+    },
+    {
+      "word": "customized",
+      "count": 1
+    },
+    {
+      "word": "reading",
+      "count": 1
+    },
+    {
+      "word": "arabic",
+      "count": 1
+    },
+    {
+      "word": "undertaken",
+      "count": 1
+    },
+    {
+      "word": "maintain",
+      "count": 1
+    },
+    {
+      "word": "broader",
+      "count": 1
+    },
+    {
+      "word": "demonstrate",
+      "count": 1
+    },
+    {
+      "word": "commonalities",
+      "count": 1
+    },
+    {
+      "word": "between",
+      "count": 1
+    },
+    {
+      "word": "classics",
+      "count": 1
+    },
+    {
+      "word": "disciplines",
+      "count": 1
+    },
+    {
+      "word": "deeper",
+      "count": 1
+    },
+    {
+      "word": "level",
+      "count": 1
+    },
+    {
+      "word": "collaborations",
+      "count": 1
+    },
+    {
+      "word": "colleagues",
+      "count": 1
+    },
+    {
+      "word": "outside",
+      "count": 1
+    },
+    {
+      "word": "good",
+      "count": 1
+    },
+    {
+      "word": "generally",
+      "count": 1
+    },
+    {
+      "word": "critical",
+      "count": 1
+    },
+    {
+      "word": "intellectual",
+      "count": 1
+    },
+    {
+      "word": "adaptability",
+      "count": 1
+    },
+    {
+      "word": "instill",
+      "count": 1
+    },
+    {
+      "word": "students",
+      "count": 1
+    },
+    {
+      "word": "offer",
+      "count": 1
+    },
+    {
+      "word": "combination",
+      "count": 1
+    },
+    {
+      "word": "non-classical",
+      "count": 1
+    },
+    {
+      "word": "pursue",
+      "count": 1
+    },
+    {
+      "word": "one",
+      "count": 1
+    },
+    {
+      "word": "answer",
+      "count": 1
+    },
+    {
+      "word": "worry",
+      "count": 1
+    },
+    {
+      "word": "leave",
+      "count": 1
+    },
+    {
+      "word": "their",
+      "count": 1
+    },
+    {
+      "word": "children",
+      "count": 1
+    },
+    {
+      "word": "narrow",
+      "count": 1
+    },
+    {
+      "word": "idiosyncratic",
+      "count": 1
+    },
+    {
+      "word": "humanist",
+      "count": 1
+    },
+    {
+      "word": "renaissance",
+      "count": 1
+    },
+    {
+      "word": "poetry",
+      "count": 1
+    },
+    {
+      "word": "poems",
+      "count": 1
+    },
+    {
+      "word": "environments",
+      "count": 1
+    },
+    {
+      "word": "during",
+      "count": 1
+    },
+    {
+      "word": "period",
+      "count": 1
+    },
+    {
+      "word": "starting",
+      "count": 1
+    },
+    {
+      "word": "birth",
+      "count": 1
+    },
+    {
+      "word": "dante",
+      "count": 1
+    },
+    {
+      "word": "until",
+      "count": 1
+    },
+    {
+      "word": "half",
+      "count": 1
+    },
+    {
+      "word": "sixteenth",
+      "count": 1
+    },
+    {
+      "word": "readable",
+      "count": 1
+    },
+    {
+      "word": "digitized",
+      "count": 1
+    },
+    {
+      "word": "inscriptions",
       "count": 1
     },
     {
@@ -309,23 +1201,75 @@
       "count": 1
     },
     {
-      "word": "wordpress-based",
+      "word": "geographic",
       "count": 1
     },
     {
-      "word": "blog",
+      "word": "layer",
       "count": 1
     },
     {
-      "word": "pubpub",
+      "word": "functionality",
       "count": 1
     },
     {
-      "word": "publishing",
+      "word": "up",
       "count": 1
     },
     {
-      "word": "platform",
+      "word": "relevant",
+      "count": 1
+    },
+    {
+      "word": "longitude",
+      "count": 1
+    },
+    {
+      "word": "latitude",
+      "count": 1
+    },
+    {
+      "word": "coordinate",
+      "count": 1
+    },
+    {
+      "word": "number",
+      "count": 1
+    },
+    {
+      "word": "actual",
+      "count": 1
+    },
+    {
+      "word": "people",
+      "count": 1
+    },
+    {
+      "word": "times",
+      "count": 1
+    },
+    {
+      "word": "some",
+      "count": 1
+    },
+    {
+      "word": "cases",
+      "count": 1
+    },
+    {
+      "word": "high",
+      "count": 1
+    },
+    {
+      "word": "resolution",
+      "count": 1
+    },
+    {
+      "word": "multi-spectral",
+      "count": 1
+    },
+    {
+      "word": "imaging",
       "count": 1
     },
     {
@@ -333,311 +1277,575 @@
       "count": 1
     },
     {
-      "word": "began",
+      "word": "better",
       "count": 1
     },
     {
-      "word": "documenting",
+      "word": "ever",
       "count": 1
     },
     {
-      "word": "outline",
+      "word": "feasible",
       "count": 1
     },
     {
-      "word": "doing",
+      "word": "when",
       "count": 1
     },
     {
-      "word": "have",
+      "word": "beings",
       "count": 1
     },
     {
-      "word": "completed",
+      "word": "had",
       "count": 1
     },
     {
-      "word": "white",
+      "word": "contact",
       "count": 1
     },
     {
-      "word": "paper",
+      "word": "archaeology",
       "count": 1
     },
     {
-      "word": "submitted",
+      "word": "browser",
       "count": 1
     },
     {
-      "word": "office",
+      "word": "look",
       "count": 1
     },
     {
-      "word": "focused",
+      "word": "massive",
       "count": 1
     },
     {
-      "word": "an",
+      "word": "library's",
       "count": 1
     },
     {
-      "word": "update",
+      "word": "catalogs",
       "count": 1
     },
     {
-      "word": "resulting",
+      "word": "document",
       "count": 1
     },
     {
-      "word": "system",
+      "word": "coins",
       "count": 1
     },
     {
-      "word": "will",
+      "word": "vases",
       "count": 1
     },
     {
-      "word": "finally",
+      "word": "sculptures",
       "count": 1
     },
     {
-      "word": "allow",
+      "word": "gems",
       "count": 1
     },
     {
-      "word": "calling",
+      "word": "entry",
       "count": 1
     },
     {
-      "word": "new",
+      "word": "description",
       "count": 1
     },
     {
-      "word": "version",
+      "word": "its",
       "count": 1
     },
     {
-      "word": "rather",
+      "word": "context",
       "count": 1
     },
     {
-      "word": "than",
+      "word": "descriptions",
       "count": 1
     },
     {
-      "word": "reflect",
+      "word": "collaboration",
       "count": 1
     },
     {
-      "word": "amount",
+      "word": "many",
       "count": 1
     },
     {
-      "word": "embedded",
+      "word": "museums",
       "count": 1
     },
     {
-      "word": "view",
+      "word": "institutions",
       "count": 1
     },
     {
-      "word": "collectively",
+      "word": "keywords",
       "count": 1
     },
     {
-      "word": "collections",
+      "word": "taken",
       "count": 1
     },
     {
-      "word": "references",
+      "word": "standard",
       "count": 1
     },
     {
-      "word": "division",
+      "word": "cited",
       "count": 1
     },
     {
-      "word": "preservation",
+      "word": "fold",
       "count": 1
     },
     {
-      "word": "access",
+      "word": "into",
       "count": 1
     },
     {
-      "word": "web",
+      "word": "results",
       "count": 1
     },
     {
-      "word": "ndash",
+      "word": "probably",
       "count": 1
     },
     {
-      "word": "preparing",
+      "word": "changes",
       "count": 1
     },
     {
-      "word": "next",
+      "word": "following",
       "count": 1
     },
     {
-      "word": "thirty",
+      "word": "meantime",
       "count": 1
     },
     {
-      "word": "years",
+      "word": "expect",
       "count": 1
     },
     {
-      "word": "provides",
+      "word": "splashpage",
       "count": 1
     },
     {
-      "word": "primary",
+      "word": "again",
       "count": 1
     },
     {
-      "word": "additional",
+      "word": "catalogue",
       "count": 1
     },
     {
-      "word": "data",
+      "word": "records",
       "count": 1
     },
     {
-      "word": "intensive",
+      "word": "encyclopedia",
       "count": 1
     },
     {
-      "word": "studies",
+      "word": "articles",
       "count": 1
     },
     {
-      "word": "center",
+      "word": "lexicon",
       "count": 1
     },
     {
-      "word": "school",
+      "word": "structured",
       "count": 1
     },
     {
-      "word": "sciences",
+      "word": "serve",
       "count": 1
     },
     {
-      "word": "services",
+      "word": "no",
       "count": 1
     },
     {
-      "word": "google",
+      "word": "encountering",
       "count": 1
     },
     {
-      "word": "prior",
+      "word": "effect",
       "count": 1
     },
     {
-      "word": "provided",
+      "word": "like",
       "count": 1
     },
     {
-      "word": "by",
+      "word": "visiting",
       "count": 1
     },
     {
-      "word": "annenberg",
+      "word": "may",
       "count": 1
     },
     {
-      "word": "cpb",
+      "word": "nothing",
       "count": 1
     },
     {
-      "word": "apple",
+      "word": "where",
       "count": 1
     },
     {
-      "word": "computer",
+      "word": "cannot",
       "count": 1
     },
     {
-      "word": "berger",
+      "word": "understand",
       "count": 1
     },
     {
-      "word": "family",
+      "word": "viewing",
       "count": 1
     },
     {
-      "word": "transfer",
+      "word": "thus",
       "count": 1
     },
     {
-      "word": "libraries",
+      "word": "encounter",
       "count": 1
     },
     {
-      "word": "initiative",
+      "word": "homer",
       "count": 1
     },
     {
-      "word": "fund",
+      "word": "find",
       "count": 1
     },
     {
-      "word": "improvement",
+      "word": "cleanly",
       "count": 1
     },
     {
-      "word": "postsecondary",
+      "word": "translations",
       "count": 1
     },
     {
-      "word": "department",
+      "word": "commentaries",
       "count": 1
     },
     {
-      "word": "getty",
+      "word": "passage",
       "count": 1
     },
     {
-      "word": "modern",
+      "word": "virtual",
       "count": 1
     },
     {
-      "word": "language",
+      "word": "acropolis",
       "count": 1
     },
     {
-      "word": "association",
+      "word": "sculpture",
       "count": 1
     },
     {
-      "word": "national",
+      "word": "full",
       "count": 1
     },
     {
-      "word": "packard",
+      "word": "record",
       "count": 1
     },
     {
-      "word": "institute",
+      "word": "intellectually",
       "count": 1
     },
     {
-      "word": "xerox",
+      "word": "accessible",
       "count": 1
     },
     {
-      "word": "corporation",
+      "word": "possible",
       "count": 1
     },
     {
-      "word": "boston",
+      "word": "every",
       "count": 1
     },
     {
-      "word": "harvard",
+      "word": "being",
+      "count": 1
+    },
+    {
+      "word": "regardless",
+      "count": 1
+    },
+    {
+      "word": "never",
+      "count": 1
+    },
+    {
+      "word": "fully",
+      "count": 1
+    },
+    {
+      "word": "more",
+      "count": 1
+    },
+    {
+      "word": "reach",
+      "count": 1
+    },
+    {
+      "word": "stars",
+      "count": 1
+    },
+    {
+      "word": "guide",
+      "count": 1
+    },
+    {
+      "word": "twisting",
+      "count": 1
+    },
+    {
+      "word": "paths",
+      "count": 1
+    },
+    {
+      "word": "blind",
+      "count": 1
+    },
+    {
+      "word": "allies",
+      "count": 1
+    },
+    {
+      "word": "though",
+      "count": 1
+    },
+    {
+      "word": "similar",
+      "count": 1
+    },
+    {
+      "word": "instincts",
+      "count": 1
+    },
+    {
+      "word": "motivated",
+      "count": 1
+    },
+    {
+      "word": "alexandria",
+      "count": 1
+    },
+    {
+      "word": "rd",
+      "count": 1
+    },
+    {
+      "word": "bce",
+      "count": 1
+    },
+    {
+      "word": "arab",
+      "count": 1
+    },
+    {
+      "word": "translators",
+      "count": 1
+    },
+    {
+      "word": "baghdad",
+      "count": 1
+    },
+    {
+      "word": "ce",
+      "count": 1
+    },
+    {
+      "word": "entrepreneurial",
+      "count": 1
+    },
+    {
+      "word": "printers",
+      "count": 1
+    },
+    {
+      "word": "german",
+      "count": 1
+    },
+    {
+      "word": "built",
+      "count": 1
+    },
+    {
+      "word": "scholarship",
+      "count": 1
+    },
+    {
+      "word": "depended",
+      "count": 1
+    },
+    {
+      "word": "none",
+      "count": 1
+    },
+    {
+      "word": "these",
+      "count": 1
+    },
+    {
+      "word": "groups",
+      "count": 1
+    },
+    {
+      "word": "fullest",
+      "count": 1
+    },
+    {
+      "word": "universal",
+      "count": 1
+    },
+    {
+      "word": "idealized",
+      "count": 1
+    },
+    {
+      "word": "allowed",
+      "count": 1
+    },
+    {
+      "word": "change",
+      "count": 1
+    },
+    {
+      "word": "worlds",
+      "count": 1
+    },
+    {
+      "word": "they",
+      "count": 1
+    },
+    {
+      "word": "lived",
+      "count": 1
+    },
+    {
+      "word": "carry",
+      "count": 1
+    },
+    {
+      "word": "little",
+      "count": 1
+    },
+    {
+      "word": "farther",
+      "count": 1
+    },
+    {
+      "word": "form",
+      "count": 1
+    },
+    {
+      "word": "fundamental",
+      "count": 1
+    },
+    {
+      "word": "instruments",
+      "count": 1
+    },
+    {
+      "word": "lexica",
+      "count": 1
+    },
+    {
+      "word": "encyclopedias",
+      "count": 1
+    },
+    {
+      "word": "atlases",
+      "count": 1
+    },
+    {
+      "word": "diagrams",
+      "count": 1
+    },
+    {
+      "word": "catalogues",
+      "count": 1
+    },
+    {
+      "word": "archaeological",
+      "count": 1
+    },
+    {
+      "word": "reports",
+      "count": 1
+    },
+    {
+      "word": "assume",
+      "count": 1
+    },
+    {
+      "word": "design",
+      "count": 1
+    },
+    {
+      "word": "materially",
+      "count": 1
+    },
+    {
+      "word": "enable",
+      "count": 1
+    },
+    {
+      "word": "constrict",
+      "count": 1
+    },
+    {
+      "word": "how",
+      "count": 1
+    },
+    {
+      "word": "generation",
+      "count": 1
+    },
+    {
+      "word": "able",
+      "count": 1
+    },
+    {
+      "word": "read",
+      "count": 1
+    },
+    {
+      "word": "languages",
+      "count": 1
+    },
+    {
+      "word": "past",
+      "count": 1
+    },
+    {
+      "word": "scrutinize",
+      "count": 1
+    },
+    {
+      "word": "ancient",
+      "count": 1
+    },
+    {
+      "word": "explore",
       "count": 1
     }
   ]

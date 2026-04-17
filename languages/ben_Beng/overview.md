@@ -20,7 +20,7 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 ### Contributed content
 
 - `https://bn.wikipedia.org/` — _wikimedia/wikipedia 20231101_
-- `https://www.bbc.com/bengali` — BBC Bengali — _live WebFetch_
+- `https://www.prothomalo.com/` — Prothom Alo — Bangladesh's largest Bengali daily — _live WebFetch_
 
 ### Catalogued source candidates
 

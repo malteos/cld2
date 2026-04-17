@@ -28,14 +28,16 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 ### Contributed content
 
-- `https://la1ere.francetvinfo.fr/guadeloupe/` — Guadeloupe La 1ère (French + Kréol Gwadloupéyen) — _live WebFetch_
+- `https://la1ere.francetvinfo.fr/guadeloupe/` — Guadeloupe La 1ère — _live WebFetch_
 - `https://www.potomitan.info/` — Potomitan — Caribbean-creole literature / education portal — _live WebFetch_
-- `https://www.rci.fm/guadeloupe/` — Radio Caraïbes Internationale Guadeloupe — _live WebFetch_
-- `https://www.guadeloupe.fr/` — Région Guadeloupe — _live WebFetch_
 
 ### Catalogued source candidates
 
-- `https://la1ere.francetvinfo.fr/guadeloupe/` — Guadeloupe La 1ère (French + Kréol Gwadloupéyen) (news)
+- `https://la1ere.francetvinfo.fr/guadeloupe/` — Guadeloupe La 1ère (news)
 - `https://www.potomitan.info/` — Potomitan — Caribbean-creole literature / education portal (education)
+- `https://www.potomitan.info/atelier/index.php` — Potomitan — creole texts atelier (education)
 - `https://www.rci.fm/guadeloupe/` — Radio Caraïbes Internationale Guadeloupe (news)
 - `https://www.guadeloupe.fr/` — Région Guadeloupe (gov)
+- `https://www.france-antilles.fr/guadeloupe` — France-Antilles Guadeloupe (news)
+- `https://www.antillesmultimedia.com/` — Antilles Multimédia (commercial)
+- `https://www.karicom.org/` — CARICOM (civil)

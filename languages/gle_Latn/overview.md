@@ -32,10 +32,12 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 - `https://ga.wikipedia.org/` — _wikimedia/wikipedia 20231101_
 - `https://www.rte.ie/news/nuacht/` — Nuacht RTÉ (Irish) — _live WebFetch_
-- `https://www.gov.ie/ga/` — Gov.ie — Irish-language portal — _live WebFetch_
 
 ### Catalogued source candidates
 
 - `https://ga.wikipedia.org/` — Irish Wikipedia (cultural)
 - `https://www.rte.ie/news/nuacht/` — Nuacht RTÉ (Irish) (news)
 - `https://www.gov.ie/ga/` — Gov.ie — Irish-language portal (gov)
+- `https://tuairisc.ie/` — Tuairisc.ie — Irish-language news (news)
+- `https://comhar.ie/` — Comhar — Irish-language literary magazine (cultural)
+- `https://www.nuacht24.com/` — Nuacht24 — 24-hour Irish news (news)

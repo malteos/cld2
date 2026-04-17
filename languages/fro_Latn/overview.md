@@ -33,8 +33,13 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 ### Contributed content
 
 - `https://www.arlima.net/` — ARLIMA — Archives de littérature du Moyen Âge — _live WebFetch_
+- `https://micmap.org/dicfro/` — Dictionnaire du Français Médiéval (DicFro) — _live WebFetch_
+- `https://txm.bfm-corpus.org/` — Base de Français Médiéval — ENS Lyon corpus — _live WebFetch_
 
 ### Catalogued source candidates
 
-- `https://fro.wikipedia.org/` — Old French Wikipedia (cultural)
 - `https://www.arlima.net/` — ARLIMA — Archives de littérature du Moyen Âge (cultural)
+- `https://micmap.org/dicfro/` — Dictionnaire du Français Médiéval (DicFro) (education)
+- `https://txm.bfm-corpus.org/` — Base de Français Médiéval — ENS Lyon corpus (education)
+- `https://ebooks.adelaide.edu.au/c/chanson/roland/` — The Chanson de Roland — University of Adelaide ebook (cultural)
+- `https://www.gutenberg.org/browse/languages/fro` — Project Gutenberg — Old French texts (cultural)

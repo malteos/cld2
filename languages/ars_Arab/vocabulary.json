@@ -5,399 +5,1039 @@
   "tier": "low",
   "tier_target": 1000,
   "source": "examples/*.txt (live WebFetch of curated non-benchmark URLs)",
-  "total_tokens": 149,
-  "unique_tokens": 98,
+  "total_tokens": 712,
+  "unique_tokens": 258,
   "words": [
     {
-      "word": "الرياضات",
-      "count": 3
-    },
-    {
-      "word": "الإلكترونية",
-      "count": 3
-    },
-    {
-      "word": "سعوديات",
-      "count": 3
-    },
-    {
-      "word": "ازياء",
-      "count": 3
-    },
-    {
-      "word": "سياحة",
-      "count": 3
-    },
-    {
-      "word": "الناس",
-      "count": 3
-    },
-    {
-      "word": "تحقيقات",
-      "count": 3
-    },
-    {
-      "word": "تكنولوجيا",
-      "count": 3
-    },
-    {
-      "word": "صوت",
-      "count": 3
-    },
-    {
-      "word": "المواطن",
-      "count": 3
-    },
-    {
-      "word": "زوايا",
-      "count": 3
-    },
-    {
-      "word": "متخصصة",
-      "count": 3
-    },
-    {
-      "word": "مركز",
-      "count": 3
-    },
-    {
-      "word": "المعلومات",
-      "count": 3
-    },
-    {
-      "word": "source",
-      "count": 2
-    },
-    {
-      "word": "https",
-      "count": 2
-    },
-    {
-      "word": "okaz",
-      "count": 2
-    },
-    {
-      "word": "saudi",
-      "count": 2
-    },
-    {
-      "word": "news",
-      "count": 2
-    },
-    {
-      "word": "لوحة",
-      "count": 2
-    },
-    {
-      "word": "القيادة",
-      "count": 2
-    },
-    {
-      "word": "خروج",
-      "count": 2
-    },
-    {
-      "word": "الرئيسية",
-      "count": 2
-    },
-    {
-      "word": "محليات",
-      "count": 2
-    },
-    {
-      "word": "سياسة",
-      "count": 2
-    },
-    {
-      "word": "اقتصاد",
-      "count": 2
-    },
-    {
-      "word": "فيديو",
-      "count": 2
-    },
-    {
-      "word": "رياضة",
-      "count": 2
-    },
-    {
-      "word": "بودكاست",
-      "count": 2
-    },
-    {
-      "word": "ثقافة",
-      "count": 2
-    },
-    {
-      "word": "وفن",
-      "count": 2
-    },
-    {
-      "word": "منوعات",
-      "count": 2
-    },
-    {
-      "word": "مقالات",
-      "count": 2
-    },
-    {
-      "word": "ملتيميديا",
-      "count": 2
-    },
-    {
-      "word": "المزيد",
-      "count": 2
-    },
-    {
       "word": "sabq",
-      "count": 2
+      "count": 24
+    },
+    {
+      "word": "في",
+      "count": 21
     },
     {
       "word": "من",
-      "count": 2
+      "count": 17
     },
     {
-      "word": "www",
-      "count": 1
+      "word": "إلى",
+      "count": 14
     },
     {
-      "word": "com",
-      "count": 1
+      "word": "مع",
+      "count": 13
     },
     {
-      "word": "sa",
-      "count": 1
+      "word": "source",
+      "count": 12
     },
     {
-      "word": "تصفح",
-      "count": 1
-    },
-    {
-      "word": "عدد",
-      "count": 1
-    },
-    {
-      "word": "اليوم",
-      "count": 1
-    },
-    {
-      "word": "برئاسة",
-      "count": 1
-    },
-    {
-      "word": "ولي",
-      "count": 1
-    },
-    {
-      "word": "العهد",
-      "count": 1
-    },
-    {
-      "word": "مجلس",
-      "count": 1
-    },
-    {
-      "word": "الوزراء",
-      "count": 1
-    },
-    {
-      "word": "يوافق",
-      "count": 1
-    },
-    {
-      "word": "على",
-      "count": 1
-    },
-    {
-      "word": "نظام",
-      "count": 1
-    },
-    {
-      "word": "التنفيذ",
-      "count": 1
-    },
-    {
-      "word": "وتعديل",
-      "count": 1
-    },
-    {
-      "word": "مكافحة",
-      "count": 1
-    },
-    {
-      "word": "غسل",
-      "count": 1
-    },
-    {
-      "word": "الأموال",
-      "count": 1
+      "word": "https",
+      "count": 12
     },
     {
       "word": "org",
-      "count": 1
+      "count": 12
+    },
+    {
+      "word": "saudi",
+      "count": 12
     },
     {
       "word": "arabic",
-      "count": 1
+      "count": 12
     },
     {
-      "word": "المقال",
-      "count": 1
+      "word": "news",
+      "count": 12
     },
     {
-      "word": "يناقش",
-      "count": 1
+      "word": "على",
+      "count": 10
     },
     {
-      "word": "قرارات",
-      "count": 1
+      "word": "المملكة",
+      "count": 7
     },
     {
-      "word": "جامعة",
-      "count": 1
+      "word": "مباريات",
+      "count": 7
+    },
+    {
+      "word": "أن",
+      "count": 6
+    },
+    {
+      "word": "أعلنت",
+      "count": 6
+    },
+    {
+      "word": "المعلومات",
+      "count": 5
+    },
+    {
+      "word": "مركز",
+      "count": 5
+    },
+    {
+      "word": "إيران",
+      "count": 5
+    },
+    {
+      "word": "بل",
+      "count": 4
+    },
+    {
+      "word": "آلاف",
+      "count": 4
+    },
+    {
+      "word": "حصار",
+      "count": 4
+    },
+    {
+      "word": "نحو",
+      "count": 4
+    },
+    {
+      "word": "إس",
+      "count": 4
+    },
+    {
+      "word": "سلة",
+      "count": 4
+    },
+    {
+      "word": "إضافة",
+      "count": 4
+    },
+    {
+      "word": "دوري",
+      "count": 4
+    },
+    {
+      "word": "بين",
+      "count": 3
+    },
+    {
+      "word": "القيادة",
+      "count": 3
+    },
+    {
+      "word": "المركزية",
+      "count": 3
+    },
+    {
+      "word": "الأمريكية",
+      "count": 3
+    },
+    {
+      "word": "الموانئ",
+      "count": 3
+    },
+    {
+      "word": "الإيرانية",
+      "count": 3
+    },
+    {
+      "word": "أبراهام",
+      "count": 3
+    },
+    {
+      "word": "لينكولن",
+      "count": 3
+    },
+    {
+      "word": "أكثر",
+      "count": 3
+    },
+    {
+      "word": "مليون",
+      "count": 3
+    },
+    {
+      "word": "رحلة",
+      "count": 3
+    },
+    {
+      "word": "شاحنة",
+      "count": 3
+    },
+    {
+      "word": "سلاسل",
+      "count": 3
+    },
+    {
+      "word": "الإمداد",
+      "count": 3
+    },
+    {
+      "word": "وانسيابية",
+      "count": 3
+    },
+    {
+      "word": "النقل",
+      "count": 3
+    },
+    {
+      "word": "طرق",
+      "count": 3
     },
     {
       "word": "الملك",
+      "count": 3
+    },
+    {
+      "word": "سلمان",
+      "count": 3
+    },
+    {
+      "word": "غزة",
+      "count": 3
+    },
+    {
+      "word": "طن",
+      "count": 3
+    },
+    {
+      "word": "لمقدونيا",
+      "count": 3
+    },
+    {
+      "word": "رابطة",
+      "count": 3
+    },
+    {
+      "word": "الدوري",
+      "count": 3
+    },
+    {
+      "word": "الجولات",
+      "count": 3
+    },
+    {
+      "word": "مواعيد",
+      "count": 3
+    },
+    {
+      "word": "الهلال",
+      "count": 3
+    },
+    {
+      "word": "والأهلي",
+      "count": 3
+    },
+    {
+      "word": "والشباب",
+      "count": 3
+    },
+    {
+      "word": "والاتحاد",
+      "count": 3
+    },
+    {
+      "word": "البيت",
+      "count": 3
+    },
+    {
+      "word": "الأبيض",
+      "count": 3
+    },
+    {
+      "word": "الحرب",
+      "count": 3
+    },
+    {
+      "word": "يناقش",
+      "count": 2
+    },
+    {
+      "word": "المقال",
+      "count": 2
+    },
+    {
+      "word": "مفارقة",
+      "count": 2
+    },
+    {
+      "word": "عصر",
+      "count": 2
+    },
+    {
+      "word": "فالبشر",
+      "count": 2
+    },
+    {
+      "word": "اليوم",
+      "count": 2
+    },
+    {
+      "word": "غارقون",
+      "count": 2
+    },
+    {
+      "word": "كم",
+      "count": 2
+    },
+    {
+      "word": "هائل",
+      "count": 2
+    },
+    {
+      "word": "البيانات",
+      "count": 2
+    },
+    {
+      "word": "والمعارف",
+      "count": 2
+    },
+    {
+      "word": "لكن",
+      "count": 2
+    },
+    {
+      "word": "ذلك",
+      "count": 2
+    },
+    {
+      "word": "لم",
+      "count": 2
+    },
+    {
+      "word": "يتحول",
+      "count": 2
+    },
+    {
+      "word": "بالضرورة",
+      "count": 2
+    },
+    {
+      "word": "فهم",
+      "count": 2
+    },
+    {
+      "word": "عميق",
+      "count": 2
+    },
+    {
+      "word": "أدى",
+      "count": 2
+    },
+    {
+      "word": "امتلاء",
+      "count": 2
+    },
+    {
+      "word": "ذهني",
+      "count": 2
+    },
+    {
+      "word": "يقابله",
+      "count": 2
+    },
+    {
+      "word": "فراغ",
+      "count": 2
+    },
+    {
+      "word": "الإدراك",
+      "count": 2
+    },
+    {
+      "word": "وضعف",
+      "count": 2
+    },
+    {
+      "word": "القدرة",
+      "count": 2
+    },
+    {
+      "word": "التمييز",
+      "count": 2
+    },
+    {
+      "word": "الصحيح",
+      "count": 2
+    },
+    {
+      "word": "والزائف",
+      "count": 2
+    },
+    {
+      "word": "والعميق",
+      "count": 2
+    },
+    {
+      "word": "والسطحي",
+      "count": 2
+    },
+    {
+      "word": "ويؤكد",
+      "count": 2
+    },
+    {
+      "word": "الحاجة",
+      "count": 2
+    },
+    {
+      "word": "الملحة",
+      "count": 2
+    },
+    {
+      "word": "ليست",
+      "count": 2
+    },
+    {
+      "word": "مزيد",
+      "count": 2
+    },
+    {
+      "word": "منهج",
+      "count": 2
+    },
+    {
+      "word": "بدء",
+      "count": 2
+    },
+    {
+      "word": "عملية",
+      "count": 2
+    },
+    {
+      "word": "بحرية",
+      "count": 2
+    },
+    {
+      "word": "واسعة",
+      "count": 2
+    },
+    {
+      "word": "البحر",
+      "count": 2
+    },
+    {
+      "word": "العربي",
+      "count": 2
+    },
+    {
+      "word": "لفرض",
+      "count": 2
+    },
+    {
+      "word": "ومراقبة",
+      "count": 2
+    },
+    {
+      "word": "السفن",
+      "count": 2
+    },
+    {
+      "word": "المتجهة",
+      "count": 2
+    },
+    {
+      "word": "أو",
+      "count": 2
+    },
+    {
+      "word": "المغادرة",
+      "count": 2
+    },
+    {
+      "word": "منها",
+      "count": 2
+    },
+    {
+      "word": "بمشاركة",
+      "count": 2
+    },
+    {
+      "word": "البحارة",
+      "count": 2
+    },
+    {
+      "word": "ومشاة",
+      "count": 2
+    },
+    {
+      "word": "البحرية",
+      "count": 2
+    },
+    {
+      "word": "ضمن",
+      "count": 2
+    },
+    {
+      "word": "المجموعة",
+      "count": 2
+    },
+    {
+      "word": "الضاربة",
+      "count": 2
+    },
+    {
+      "word": "لحاملة",
+      "count": 2
+    },
+    {
+      "word": "الطائرات",
+      "count": 2
+    },
+    {
+      "word": "يو",
+      "count": 2
+    },
+    {
+      "word": "تنفيذ",
+      "count": 2
+    },
+    {
+      "word": "عمليات",
+      "count": 2
+    },
+    {
+      "word": "جوية",
+      "count": 2
+    },
+    {
+      "word": "مكثفة",
+      "count": 2
+    },
+    {
+      "word": "لتعزيز",
+      "count": 2
+    },
+    {
+      "word": "الجاهزية",
+      "count": 2
+    },
+    {
+      "word": "الهيئة",
+      "count": 2
+    },
+    {
+      "word": "العامة",
+      "count": 2
+    },
+    {
+      "word": "للطرق",
+      "count": 2
+    },
+    {
+      "word": "عبور",
+      "count": 2
+    },
+    {
+      "word": "شبكة",
+      "count": 2
+    },
+    {
+      "word": "خلال",
+      "count": 2
+    },
+    {
+      "word": "الربع",
+      "count": 2
+    },
+    {
+      "word": "الأول",
+      "count": 2
+    },
+    {
+      "word": "ما",
+      "count": 2
+    },
+    {
+      "word": "يعكس",
+      "count": 2
+    },
+    {
+      "word": "كفاءة",
+      "count": 2
+    },
+    {
+      "word": "البنية",
+      "count": 2
+    },
+    {
+      "word": "التحتية",
+      "count": 2
+    },
+    {
+      "word": "تعزيز",
+      "count": 2
+    },
+    {
+      "word": "محلي",
+      "count": 2
+    },
+    {
+      "word": "وخليجي",
+      "count": 2
+    },
+    {
+      "word": "ودعم",
+      "count": 2
+    },
+    {
+      "word": "مستهدفات",
+      "count": 2
+    },
+    {
+      "word": "الإستراتيجية",
+      "count": 2
+    },
+    {
+      "word": "الوطنية",
+      "count": 2
+    },
+    {
+      "word": "لتحويل",
+      "count": 2
+    },
+    {
+      "word": "لوجستي",
+      "count": 2
+    },
+    {
+      "word": "عالمي",
+      "count": 2
+    },
+    {
+      "word": "بحلول",
+      "count": 2
+    },
+    {
+      "word": "نفذ",
+      "count": 2
+    },
+    {
+      "word": "للإغاثة",
+      "count": 2
+    },
+    {
+      "word": "سلسلة",
+      "count": 2
+    },
+    {
+      "word": "مشاريع",
+      "count": 2
+    },
+    {
+      "word": "إنسانية",
+      "count": 2
+    },
+    {
+      "word": "شملت",
+      "count": 2
+    },
+    {
+      "word": "تسليم",
+      "count": 2
+    },
+    {
+      "word": "التمور",
+      "count": 2
+    },
+    {
+      "word": "كهدية",
+      "count": 2
+    },
+    {
+      "word": "الشمالية",
+      "count": 2
+    },
+    {
+      "word": "وتوزيع",
+      "count": 2
+    },
+    {
+      "word": "وجبة",
+      "count": 2
+    },
+    {
+      "word": "ساخنة",
+      "count": 2
+    },
+    {
+      "word": "غذائية",
+      "count": 2
+    },
+    {
+      "word": "قطاع",
+      "count": 2
+    },
+    {
+      "word": "كرتون",
+      "count": 2
+    },
+    {
+      "word": "تمر",
+      "count": 2
+    },
+    {
+      "word": "محافظتي",
+      "count": 2
+    },
+    {
+      "word": "حضرموت",
+      "count": 2
+    },
+    {
+      "word": "وشبوة",
+      "count": 2
+    },
+    {
+      "word": "باليمن",
+      "count": 2
+    },
+    {
+      "word": "دعم",
+      "count": 2
+    },
+    {
+      "word": "للفئات",
+      "count": 2
+    },
+    {
+      "word": "الأكثر",
+      "count": 2
+    },
+    {
+      "word": "احتياج",
+      "count": 2
+    },
+    {
+      "word": "السعودي",
+      "count": 2
+    },
+    {
+      "word": "للمحترفين",
+      "count": 2
+    },
+    {
+      "word": "جدول",
+      "count": 2
+    },
+    {
+      "word": "روشن",
+      "count": 2
+    },
+    {
+      "word": "تعديل",
+      "count": 2
+    },
+    {
+      "word": "عدة",
+      "count": 2
+    },
+    {
+      "word": "لقاءات",
+      "count": 2
+    },
+    {
+      "word": "تأثرت",
+      "count": 2
+    },
+    {
+      "word": "بإعادة",
+      "count": 2
+    },
+    {
+      "word": "جدولة",
+      "count": 2
+    },
+    {
+      "word": "بطولت",
+      "count": 2
+    },
+    {
+      "word": "أبطال",
+      "count": 2
+    },
+    {
+      "word": "آسيا",
+      "count": 2
+    },
+    {
+      "word": "للنخبة",
+      "count": 2
+    },
+    {
+      "word": "وآسيا",
+      "count": 2
+    },
+    {
+      "word": "وشملت",
+      "count": 2
+    },
+    {
+      "word": "التعديلات",
+      "count": 2
+    },
+    {
+      "word": "الخليج",
+      "count": 2
+    },
+    {
+      "word": "الفتح",
+      "count": 2
+    },
+    {
+      "word": "الاتحاد",
+      "count": 2
+    },
+    {
+      "word": "والنصر",
+      "count": 2
+    },
+    {
+      "word": "لنقل",
+      "count": 2
+    },
+    {
+      "word": "الأهلي",
+      "count": 2
+    },
+    {
+      "word": "جدة",
+      "count": 2
+    },
+    {
+      "word": "أعلن",
+      "count": 2
+    },
+    {
+      "word": "المحادثات",
+      "count": 2
+    },
+    {
+      "word": "مثمرة",
+      "count": 2
+    },
+    {
+      "word": "ومستمرة",
+      "count": 2
+    },
+    {
+      "word": "مرجحا",
+      "count": 2
+    },
+    {
+      "word": "عقد",
+      "count": 2
+    },
+    {
+      "word": "الجولة",
+      "count": 2
+    },
+    {
+      "word": "المقبلة",
+      "count": 2
+    },
+    {
+      "word": "إسلام",
+      "count": 2
+    },
+    {
+      "word": "آباد",
+      "count": 2
+    },
+    {
+      "word": "ومؤكدا",
+      "count": 2
+    },
+    {
+      "word": "باكستان",
+      "count": 2
+    },
+    {
+      "word": "هي",
+      "count": 2
+    },
+    {
+      "word": "الوسيط",
+      "count": 2
+    },
+    {
+      "word": "الوحيد",
+      "count": 2
+    },
+    {
+      "word": "مسؤولون",
+      "count": 2
+    },
+    {
+      "word": "أميركيون",
+      "count": 2
+    },
+    {
+      "word": "تحدثوا",
+      "count": 2
+    },
+    {
+      "word": "عن",
+      "count": 2
+    },
+    {
+      "word": "تقدم",
+      "count": 2
+    },
+    {
+      "word": "اتفاق",
+      "count": 2
+    },
+    {
+      "word": "إطاري",
+      "count": 2
+    },
+    {
+      "word": "لإنهاء",
+      "count": 2
+    },
+    {
+      "word": "قبل",
+      "count": 2
+    },
+    {
+      "word": "انتهاء",
+      "count": 2
+    },
+    {
+      "word": "وقف",
+      "count": 2
+    },
+    {
+      "word": "إطلاق",
+      "count": 2
+    },
+    {
+      "word": "النار",
+      "count": 2
+    },
+    {
+      "word": "أبريل",
+      "count": 2
+    },
+    {
+      "word": "وسط",
+      "count": 2
+    },
+    {
+      "word": "بحري",
+      "count": 2
+    },
+    {
+      "word": "كامل",
+      "count": 2
+    },
+    {
+      "word": "عسكري",
       "count": 1
     },
     {
-      "word": "سعود",
+      "word": "ينفذون",
       "count": 1
     },
     {
-      "word": "بإلغاء",
+      "word": "الحصار",
       "count": 1
     },
     {
-      "word": "السنة",
+      "word": "البحري",
       "count": 1
     },
     {
-      "word": "التحضيرية",
+      "word": "بقيادة",
       "count": 1
     },
     {
-      "word": "وبعض",
+      "word": "تعزز",
       "count": 1
     },
     {
-      "word": "البرامج",
+      "word": "الإنسان",
       "count": 1
     },
     {
-      "word": "والتخصصات",
+      "word": "وفرة",
       "count": 1
     },
     {
-      "word": "الإنسانية",
+      "word": "وندرة",
       "count": 1
     },
     {
-      "word": "كالعربية",
+      "word": "الفهم",
       "count": 1
     },
     {
-      "word": "والتاريخ",
+      "word": "يكث",
       "count": 1
     },
     {
-      "word": "والجغرافيا",
+      "word": "جهوده",
       "count": 1
     },
     {
-      "word": "باعتبارها",
+      "word": "الإغاثية",
       "count": 1
     },
     {
-      "word": "جزء",
+      "word": "بتوزيع",
       "count": 1
     },
     {
-      "word": "توجه",
+      "word": "الوجبات",
       "count": 1
     },
     {
-      "word": "استراتيجي",
+      "word": "والسلال",
       "count": 1
     },
     {
-      "word": "لربط",
+      "word": "واليمن",
       "count": 1
     },
     {
-      "word": "مخرجات",
+      "word": "وتقديم",
       "count": 1
     },
     {
-      "word": "التعليم",
+      "word": "تمور",
       "count": 1
     },
     {
-      "word": "بسوق",
+      "word": "يكشف",
       "count": 1
     },
     {
-      "word": "العمل",
+      "word": "تقدما",
       "count": 1
     },
     {
-      "word": "وتعزيز",
+      "word": "بمحادثات",
       "count": 1
     },
     {
-      "word": "التخصصات",
+      "word": "إنهاء",
       "count": 1
     },
     {
-      "word": "العلمية",
+      "word": "بوساطة",
       "count": 1
     },
     {
-      "word": "والتقنية",
+      "word": "باكستانية",
       "count": 1
     },
     {
-      "word": "لدعم",
+      "word": "تعلن",
       "count": 1
     },
     {
-      "word": "الاقتصاد",
-      "count": 1
-    },
-    {
-      "word": "المعرفي",
-      "count": 1
-    },
-    {
-      "word": "وخفض",
-      "count": 1
-    },
-    {
-      "word": "البطالة",
-      "count": 1
-    },
-    {
-      "word": "لكنه",
-      "count": 1
-    },
-    {
-      "word": "يحذر",
-      "count": 1
-    },
-    {
-      "word": "تقليص",
-      "count": 1
-    },
-    {
-      "word": "دور",
-      "count": 1
-    },
-    {
-      "word": "الجامعة",
-      "count": 1
-    },
-    {
-      "word": "الثقافي",
+      "word": "وتعد",
       "count": 1
     }
   ]

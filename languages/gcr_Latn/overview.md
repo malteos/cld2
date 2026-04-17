@@ -29,13 +29,16 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 ### Contributed content
 
-- `https://la1ere.francetvinfo.fr/guyane/` — Guyane La 1ère (French + Guianese Creole) — _live WebFetch_
+- `https://la1ere.francetvinfo.fr/guyane/` — Guyane La 1ère — _live WebFetch_
 - `https://www.potomitan.info/` — Potomitan — Caribbean-creole literature / education portal — _live WebFetch_
-- `https://www.ctguyane.fr/` — Collectivité territoriale de Guyane — _live WebFetch_
 
 ### Catalogued source candidates
 
-- `https://la1ere.francetvinfo.fr/guyane/` — Guyane La 1ère (French + Guianese Creole) (news)
+- `https://la1ere.francetvinfo.fr/guyane/` — Guyane La 1ère (news)
 - `https://www.potomitan.info/` — Potomitan — Caribbean-creole literature / education portal (education)
 - `https://www.guyaweb.com/` — Guyaweb — French Guiana news (news)
 - `https://www.ctguyane.fr/` — Collectivité territoriale de Guyane (gov)
+- `https://www.franceguyane.fr/` — France-Guyane (news)
+- `https://www.guyane.cci.fr/` — Chambre de Commerce et d'Industrie de Guyane (commercial)
+- `https://www.univ-guyane.fr/` — Université de Guyane (education)
+- `https://www.radiopeyi.com/` — Radio Peyi — Kreyol Guyanè radio (news)

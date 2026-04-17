@@ -31,7 +31,6 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 - `https://gd.wikipedia.org/` — _wikimedia/wikipedia 20231101_
 - `https://www.bbc.co.uk/naidheachdan` — BBC Naidheachdan (Scottish Gaelic news) — _live WebFetch_
-- `https://www.gaidhlig.scot/` — Bòrd na Gàidhlig — _live WebFetch_
 
 ### Catalogued source candidates
 

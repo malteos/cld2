@@ -35,5 +35,9 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 ### Catalogued source candidates
 
-- `https://grc.wikipedia.org/` — Ancient Greek Wikipedia (cultural)
 - `https://www.perseus.tufts.edu/hopper/` — Perseus Digital Library (cultural)
+- `https://www.hs-augsburg.de/~harsch/graeca/grae_ind.html` — Bibliotheca Augustana — Greek corpus (education)
+- `https://el.wikisource.org/wiki/Κύρια_Σελίδα` — Greek Wikisource (polytonic classical texts) (cultural)
+- `https://www.sacred-texts.com/cla/` — Sacred Texts — Classical archive (cultural)
+- `https://stephanus.tlg.uci.edu/` — Thesaurus Linguae Graecae (open pages) (education)
+- `https://dcc.dickinson.edu/` — Dickinson College Commentaries (education)

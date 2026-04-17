@@ -26,10 +26,12 @@ Examples and vocabulary for this language folder are drawn **only** from non-ben
 
 - `https://br.wikipedia.org/` — _wikimedia/wikipedia 20231101_
 - `https://www.francebleu.fr/breizh-izel` — France Bleu Breizh Izel — partial Breton content — _live WebFetch_
-- `https://opab.bzh/` — Ofis Publik ar Brezhoneg — _live WebFetch_
 
 ### Catalogued source candidates
 
 - `https://br.wikipedia.org/` — Breton Wikipedia (cultural)
 - `https://www.francebleu.fr/breizh-izel` — France Bleu Breizh Izel — partial Breton content (news)
 - `https://opab.bzh/` — Ofis Publik ar Brezhoneg (cultural)
+- `https://www.lepeuplebreton.bzh/` — Le Peuple breton (news)
+- `https://www.skolanemsav.bzh/breman.html` — Bremañ — Breton-language paper (news)
+- `https://bannouheol.com/` — Bannoù-Heol — Breton publisher (cultural)
