@@ -1,0 +1,4012 @@
+{
+  "code": "wuu",
+  "name": "Wu Chinese",
+  "script": "Hans",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (wuu.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 410511,
+  "unique_tokens": 5345,
+  "words": [
+    {
+      "word": "个",
+      "count": 14269
+    },
+    {
+      "word": "国",
+      "count": 5991
+    },
+    {
+      "word": "年",
+      "count": 4833
+    },
+    {
+      "word": "是",
+      "count": 4642
+    },
+    {
+      "word": "一",
+      "count": 3970
+    },
+    {
+      "word": "人",
+      "count": 3741
+    },
+    {
+      "word": "大",
+      "count": 3339
+    },
+    {
+      "word": "勒",
+      "count": 3243
+    },
+    {
+      "word": "中",
+      "count": 3216
+    },
+    {
+      "word": "有",
+      "count": 3018
+    },
+    {
+      "word": "搭",
+      "count": 2845
+    },
+    {
+      "word": "地",
+      "count": 2642
+    },
+    {
+      "word": "海",
+      "count": 2151
+    },
+    {
+      "word": "南",
+      "count": 2067
+    },
+    {
+      "word": "里",
+      "count": 1982
+    },
+    {
+      "word": "区",
+      "count": 1971
+    },
+    {
+      "word": "来",
+      "count": 1956
+    },
+    {
+      "word": "为",
+      "count": 1955
+    },
+    {
+      "word": "家",
+      "count": 1903
+    },
+    {
+      "word": "部",
+      "count": 1882
+    },
+    {
+      "word": "语",
+      "count": 1851
+    },
+    {
+      "word": "文",
+      "count": 1736
+    },
+    {
+      "word": "学",
+      "count": 1705
+    },
+    {
+      "word": "上",
+      "count": 1696
+    },
+    {
+      "word": "市",
+      "count": 1675
+    },
+    {
+      "word": "公",
+      "count": 1668
+    },
+    {
+      "word": "成",
+      "count": 1609
+    },
+    {
+      "word": "西",
+      "count": 1600
+    },
+    {
+      "word": "方",
+      "count": 1566
+    },
+    {
+      "word": "江",
+      "count": 1553
+    },
+    {
+      "word": "月",
+      "count": 1512
+    },
+    {
+      "word": "拉",
+      "count": 1459
+    },
+    {
+      "word": "到",
+      "count": 1450
+    },
+    {
+      "word": "东",
+      "count": 1430
+    },
+    {
+      "word": "名",
+      "count": 1403
+    },
+    {
+      "word": "伊",
+      "count": 1364
+    },
+    {
+      "word": "仔",
+      "count": 1324
+    },
+    {
+      "word": "州",
+      "count": 1321
+    },
+    {
+      "word": "教",
+      "count": 1311
+    },
+    {
+      "word": "外",
+      "count": 1292
+    },
+    {
+      "word": "亚",
+      "count": 1282
+    },
+    {
+      "word": "主",
+      "count": 1267
+    },
+    {
+      "word": "北",
+      "count": 1240
+    },
+    {
+      "word": "行",
+      "count": 1229
+    },
+    {
+      "word": "法",
+      "count": 1199
+    },
+    {
+      "word": "之",
+      "count": 1196
+    },
+    {
+      "word": "交",
+      "count": 1192
+    },
+    {
+      "word": "生",
+      "count": 1176
+    },
+    {
+      "word": "分",
+      "count": 1158
+    },
+    {
+      "word": "民",
+      "count": 1150
+    },
+    {
+      "word": "向",
+      "count": 1132
+    },
+    {
+      "word": "山",
+      "count": 1124
+    },
+    {
+      "word": "日",
+      "count": 1115
+    },
+    {
+      "word": "斯",
+      "count": 1107
+    },
+    {
+      "word": "后",
+      "count": 1091
+    },
+    {
+      "word": "弗",
+      "count": 1091
+    },
+    {
+      "word": "以",
+      "count": 1090
+    },
+    {
+      "word": "多",
+      "count": 1061
+    },
+    {
+      "word": "话",
+      "count": 1059
+    },
+    {
+      "word": "光",
+      "count": 1057
+    },
+    {
+      "word": "本",
+      "count": 1047
+    },
+    {
+      "word": "也",
+      "count": 1045
+    },
+    {
+      "word": "政",
+      "count": 1043
+    },
+    {
+      "word": "会",
+      "count": 1039
+    },
+    {
+      "word": "苏",
+      "count": 1038
+    },
+    {
+      "word": "出",
+      "count": 1026
+    },
+    {
+      "word": "面",
+      "count": 1026
+    },
+    {
+      "word": "用",
+      "count": 1015
+    },
+    {
+      "word": "通",
+      "count": 992
+    },
+    {
+      "word": "发",
+      "count": 967
+    },
+    {
+      "word": "化",
+      "count": 966
+    },
+    {
+      "word": "城",
+      "count": 964
+    },
+    {
+      "word": "世",
+      "count": 963
+    },
+    {
+      "word": "代",
+      "count": 949
+    },
+    {
+      "word": "过",
+      "count": 943
+    },
+    {
+      "word": "号",
+      "count": 941
+    },
+    {
+      "word": "关",
+      "count": 924
+    },
+    {
+      "word": "要",
+      "count": 923
+    },
+    {
+      "word": "头",
+      "count": 921
+    },
+    {
+      "word": "子",
+      "count": 919
+    },
+    {
+      "word": "高",
+      "count": 918
+    },
+    {
+      "word": "平",
+      "count": 916
+    },
+    {
+      "word": "音",
+      "count": 889
+    },
+    {
+      "word": "尔",
+      "count": 884
+    },
+    {
+      "word": "立",
+      "count": 876
+    },
+    {
+      "word": "新",
+      "count": 865
+    },
+    {
+      "word": "言",
+      "count": 860
+    },
+    {
+      "word": "长",
+      "count": 855
+    },
+    {
+      "word": "经",
+      "count": 855
+    },
+    {
+      "word": "接",
+      "count": 853
+    },
+    {
+      "word": "朝",
+      "count": 850
+    },
+    {
+      "word": "口",
+      "count": 847
+    },
+    {
+      "word": "得",
+      "count": 830
+    },
+    {
+      "word": "开",
+      "count": 824
+    },
+    {
+      "word": "洲",
+      "count": 824
+    },
+    {
+      "word": "府",
+      "count": 800
+    },
+    {
+      "word": "利",
+      "count": 797
+    },
+    {
+      "word": "辰",
+      "count": 791
+    },
+    {
+      "word": "作",
+      "count": 788
+    },
+    {
+      "word": "英",
+      "count": 783
+    },
+    {
+      "word": "第",
+      "count": 773
+    },
+    {
+      "word": "在",
+      "count": 773
+    },
+    {
+      "word": "路",
+      "count": 771
+    },
+    {
+      "word": "字",
+      "count": 769
+    },
+    {
+      "word": "美",
+      "count": 762
+    },
+    {
+      "word": "加",
+      "count": 761
+    },
+    {
+      "word": "三",
+      "count": 758
+    },
+    {
+      "word": "天",
+      "count": 751
+    },
+    {
+      "word": "县",
+      "count": 748
+    },
+    {
+      "word": "等",
+      "count": 742
+    },
+    {
+      "word": "道",
+      "count": 739
+    },
+    {
+      "word": "小",
+      "count": 734
+    },
+    {
+      "word": "自",
+      "count": 733
+    },
+    {
+      "word": "元",
+      "count": 731
+    },
+    {
+      "word": "当",
+      "count": 731
+    },
+    {
+      "word": "吴",
+      "count": 729
+    },
+    {
+      "word": "省",
+      "count": 728
+    },
+    {
+      "word": "古",
+      "count": 721
+    },
+    {
+      "word": "同",
+      "count": 703
+    },
+    {
+      "word": "度",
+      "count": 697
+    },
+    {
+      "word": "岛",
+      "count": 692
+    },
+    {
+      "word": "基",
+      "count": 679
+    },
+    {
+      "word": "物",
+      "count": 679
+    },
+    {
+      "word": "顶",
+      "count": 674
+    },
+    {
+      "word": "特",
+      "count": 672
+    },
+    {
+      "word": "界",
+      "count": 670
+    },
+    {
+      "word": "罗",
+      "count": 666
+    },
+    {
+      "word": "于",
+      "count": 657
+    },
+    {
+      "word": "电",
+      "count": 655
+    },
+    {
+      "word": "理",
+      "count": 649
+    },
+    {
+      "word": "泰",
+      "count": 648
+    },
+    {
+      "word": "业",
+      "count": 646
+    },
+    {
+      "word": "马",
+      "count": 645
+    },
+    {
+      "word": "前",
+      "count": 643
+    },
+    {
+      "word": "老",
+      "count": 640
+    },
+    {
+      "word": "全",
+      "count": 637
+    },
+    {
+      "word": "相",
+      "count": 631
+    },
+    {
+      "word": "明",
+      "count": 630
+    },
+    {
+      "word": "动",
+      "count": 630
+    },
+    {
+      "word": "和",
+      "count": 627
+    },
+    {
+      "word": "称",
+      "count": 626
+    },
+    {
+      "word": "镇",
+      "count": 625
+    },
+    {
+      "word": "下",
+      "count": 624
+    },
+    {
+      "word": "浪",
+      "count": 624
+    },
+    {
+      "word": "建",
+      "count": 622
+    },
+    {
+      "word": "时",
+      "count": 617
+    },
+    {
+      "word": "合",
+      "count": 616
+    },
+    {
+      "word": "就",
+      "count": 611
+    },
+    {
+      "word": "港",
+      "count": 610
+    },
+    {
+      "word": "比",
+      "count": 600
+    },
+    {
+      "word": "金",
+      "count": 598
+    },
+    {
+      "word": "体",
+      "count": 597
+    },
+    {
+      "word": "好",
+      "count": 592
+    },
+    {
+      "word": "历",
+      "count": 586
+    },
+    {
+      "word": "对",
+      "count": 579
+    },
+    {
+      "word": "共",
+      "count": 577
+    },
+    {
+      "word": "克",
+      "count": 576
+    },
+    {
+      "word": "事",
+      "count": 570
+    },
+    {
+      "word": "科",
+      "count": 565
+    },
+    {
+      "word": "欧",
+      "count": 565
+    },
+    {
+      "word": "水",
+      "count": 563
+    },
+    {
+      "word": "总",
+      "count": 562
+    },
+    {
+      "word": "员",
+      "count": 561
+    },
+    {
+      "word": "演",
+      "count": 559
+    },
+    {
+      "word": "影",
+      "count": 559
+    },
+    {
+      "word": "链",
+      "count": 556
+    },
+    {
+      "word": "现",
+      "count": 556
+    },
+    {
+      "word": "王",
+      "count": 556
+    },
+    {
+      "word": "万",
+      "count": 556
+    },
+    {
+      "word": "位",
+      "count": 551
+    },
+    {
+      "word": "统",
+      "count": 549
+    },
+    {
+      "word": "内",
+      "count": 549
+    },
+    {
+      "word": "原",
+      "count": 545
+    },
+    {
+      "word": "京",
+      "count": 545
+    },
+    {
+      "word": "数",
+      "count": 543
+    },
+    {
+      "word": "清",
+      "count": 540
+    },
+    {
+      "word": "史",
+      "count": 539
+    },
+    {
+      "word": "军",
+      "count": 534
+    },
+    {
+      "word": "场",
+      "count": 533
+    },
+    {
+      "word": "工",
+      "count": 525
+    },
+    {
+      "word": "十",
+      "count": 525
+    },
+    {
+      "word": "台",
+      "count": 524
+    },
+    {
+      "word": "安",
+      "count": 520
+    },
+    {
+      "word": "拨",
+      "count": 519
+    },
+    {
+      "word": "的",
+      "count": 518
+    },
+    {
+      "word": "重",
+      "count": 516
+    },
+    {
+      "word": "种",
+      "count": 514
+    },
+    {
+      "word": "两",
+      "count": 513
+    },
+    {
+      "word": "表",
+      "count": 512
+    },
+    {
+      "word": "气",
+      "count": 512
+    },
+    {
+      "word": "阿",
+      "count": 508
+    },
+    {
+      "word": "球",
+      "count": 505
+    },
+    {
+      "word": "始",
+      "count": 503
+    },
+    {
+      "word": "了",
+      "count": 503
+    },
+    {
+      "word": "站",
+      "count": 503
+    },
+    {
+      "word": "华",
+      "count": 499
+    },
+    {
+      "word": "其",
+      "count": 499
+    },
+    {
+      "word": "德",
+      "count": 498
+    },
+    {
+      "word": "由",
+      "count": 497
+    },
+    {
+      "word": "所",
+      "count": 495
+    },
+    {
+      "word": "运",
+      "count": 495
+    },
+    {
+      "word": "讲",
+      "count": 492
+    },
+    {
+      "word": "定",
+      "count": 492
+    },
+    {
+      "word": "机",
+      "count": 492
+    },
+    {
+      "word": "可",
+      "count": 490
+    },
+    {
+      "word": "渠",
+      "count": 489
+    },
+    {
+      "word": "首",
+      "count": 488
+    },
+    {
+      "word": "星",
+      "count": 487
+    },
+    {
+      "word": "侪",
+      "count": 485
+    },
+    {
+      "word": "只",
+      "count": 482
+    },
+    {
+      "word": "者",
+      "count": 480
+    },
+    {
+      "word": "联",
+      "count": 475
+    },
+    {
+      "word": "常",
+      "count": 472
+    },
+    {
+      "word": "进",
+      "count": 467
+    },
+    {
+      "word": "治",
+      "count": 465
+    },
+    {
+      "word": "别",
+      "count": 464
+    },
+    {
+      "word": "湖",
+      "count": 462
+    },
+    {
+      "word": "太",
+      "count": 453
+    },
+    {
+      "word": "因",
+      "count": 452
+    },
+    {
+      "word": "该",
+      "count": 452
+    },
+    {
+      "word": "巴",
+      "count": 452
+    },
+    {
+      "word": "二",
+      "count": 451
+    },
+    {
+      "word": "点",
+      "count": 450
+    },
+    {
+      "word": "最",
+      "count": 450
+    },
+    {
+      "word": "性",
+      "count": 449
+    },
+    {
+      "word": "入",
+      "count": 443
+    },
+    {
+      "word": "官",
+      "count": 442
+    },
+    {
+      "word": "门",
+      "count": 442
+    },
+    {
+      "word": "意",
+      "count": 442
+    },
+    {
+      "word": "网",
+      "count": 441
+    },
+    {
+      "word": "院",
+      "count": 440
+    },
+    {
+      "word": "还",
+      "count": 439
+    },
+    {
+      "word": "四",
+      "count": 438
+    },
+    {
+      "word": "不",
+      "count": 436
+    },
+    {
+      "word": "乃",
+      "count": 435
+    },
+    {
+      "word": "参",
+      "count": 434
+    },
+    {
+      "word": "都",
+      "count": 432
+    },
+    {
+      "word": "正",
+      "count": 432
+    },
+    {
+      "word": "帝",
+      "count": 432
+    },
+    {
+      "word": "式",
+      "count": 430
+    },
+    {
+      "word": "尼",
+      "count": 422
+    },
+    {
+      "word": "布",
+      "count": 421
+    },
+    {
+      "word": "心",
+      "count": 418
+    },
+    {
+      "word": "兰",
+      "count": 417
+    },
+    {
+      "word": "如",
+      "count": 416
+    },
+    {
+      "word": "香",
+      "count": 414
+    },
+    {
+      "word": "从",
+      "count": 410
+    },
+    {
+      "word": "力",
+      "count": 407
+    },
+    {
+      "word": "叫",
+      "count": 405
+    },
+    {
+      "word": "百",
+      "count": 404
+    },
+    {
+      "word": "线",
+      "count": 403
+    },
+    {
+      "word": "士",
+      "count": 401
+    },
+    {
+      "word": "而",
+      "count": 399
+    },
+    {
+      "word": "际",
+      "count": 399
+    },
+    {
+      "word": "约",
+      "count": 397
+    },
+    {
+      "word": "纪",
+      "count": 394
+    },
+    {
+      "word": "或",
+      "count": 393
+    },
+    {
+      "word": "白",
+      "count": 389
+    },
+    {
+      "word": "起",
+      "count": 388
+    },
+    {
+      "word": "河",
+      "count": 386
+    },
+    {
+      "word": "印",
+      "count": 386
+    },
+    {
+      "word": "词",
+      "count": 385
+    },
+    {
+      "word": "维",
+      "count": 385
+    },
+    {
+      "word": "济",
+      "count": 384
+    },
+    {
+      "word": "产",
+      "count": 381
+    },
+    {
+      "word": "米",
+      "count": 379
+    },
+    {
+      "word": "期",
+      "count": 379
+    },
+    {
+      "word": "越",
+      "count": 377
+    },
+    {
+      "word": "制",
+      "count": 376
+    },
+    {
+      "word": "牙",
+      "count": 371
+    },
+    {
+      "word": "片",
+      "count": 367
+    },
+    {
+      "word": "拿",
+      "count": 363
+    },
+    {
+      "word": "样",
+      "count": 361
+    },
+    {
+      "word": "战",
+      "count": 358
+    },
+    {
+      "word": "达",
+      "count": 358
+    },
+    {
+      "word": "澳",
+      "count": 357
+    },
+    {
+      "word": "格",
+      "count": 356
+    },
+    {
+      "word": "传",
+      "count": 356
+    },
+    {
+      "word": "系",
+      "count": 355
+    },
+    {
+      "word": "歌",
+      "count": 350
+    },
+    {
+      "word": "女",
+      "count": 348
+    },
+    {
+      "word": "宁",
+      "count": 348
+    },
+    {
+      "word": "宗",
+      "count": 346
+    },
+    {
+      "word": "车",
+      "count": 344
+    },
+    {
+      "word": "任",
+      "count": 344
+    },
+    {
+      "word": "使",
+      "count": 343
+    },
+    {
+      "word": "居",
+      "count": 341
+    },
+    {
+      "word": "個",
+      "count": 341
+    },
+    {
+      "word": "浙",
+      "count": 338
+    },
+    {
+      "word": "族",
+      "count": 338
+    },
+    {
+      "word": "形",
+      "count": 337
+    },
+    {
+      "word": "义",
+      "count": 336
+    },
+    {
+      "word": "近",
+      "count": 336
+    },
+    {
+      "word": "兴",
+      "count": 333
+    },
+    {
+      "word": "林",
+      "count": 329
+    },
+    {
+      "word": "流",
+      "count": 329
+    },
+    {
+      "word": "能",
+      "count": 329
+    },
+    {
+      "word": "书",
+      "count": 328
+    },
+    {
+      "word": "考",
+      "count": 327
+    },
+    {
+      "word": "土",
+      "count": 327
+    },
+    {
+      "word": "搿",
+      "count": 327
+    },
+    {
+      "word": "去",
+      "count": 327
+    },
+    {
+      "word": "班",
+      "count": 326
+    },
+    {
+      "word": "改",
+      "count": 326
+    },
+    {
+      "word": "湾",
+      "count": 325
+    },
+    {
+      "word": "但",
+      "count": 324
+    },
+    {
+      "word": "列",
+      "count": 324
+    },
+    {
+      "word": "积",
+      "count": 322
+    },
+    {
+      "word": "组",
+      "count": 322
+    },
+    {
+      "word": "广",
+      "count": 321
+    },
+    {
+      "word": "调",
+      "count": 319
+    },
+    {
+      "word": "包",
+      "count": 318
+    },
+    {
+      "word": "蒙",
+      "count": 317
+    },
+    {
+      "word": "展",
+      "count": 316
+    },
+    {
+      "word": "沙",
+      "count": 316
+    },
+    {
+      "word": "各",
+      "count": 316
+    },
+    {
+      "word": "信",
+      "count": 312
+    },
+    {
+      "word": "间",
+      "count": 310
+    },
+    {
+      "word": "计",
+      "count": 309
+    },
+    {
+      "word": "商",
+      "count": 309
+    },
+    {
+      "word": "直",
+      "count": 307
+    },
+    {
+      "word": "國",
+      "count": 307
+    },
+    {
+      "word": "风",
+      "count": 306
+    },
+    {
+      "word": "程",
+      "count": 305
+    },
+    {
+      "word": "实",
+      "count": 305
+    },
+    {
+      "word": "品",
+      "count": 302
+    },
+    {
+      "word": "级",
+      "count": 301
+    },
+    {
+      "word": "波",
+      "count": 301
+    },
+    {
+      "word": "汉",
+      "count": 296
+    },
+    {
+      "word": "卡",
+      "count": 293
+    },
+    {
+      "word": "俄",
+      "count": 292
+    },
+    {
+      "word": "及",
+      "count": 291
+    },
+    {
+      "word": "普",
+      "count": 290
+    },
+    {
+      "word": "典",
+      "count": 288
+    },
+    {
+      "word": "属",
+      "count": 288
+    },
+    {
+      "word": "游",
+      "count": 287
+    },
+    {
+      "word": "韩",
+      "count": 287
+    },
+    {
+      "word": "剧",
+      "count": 285
+    },
+    {
+      "word": "社",
+      "count": 284
+    },
+    {
+      "word": "早",
+      "count": 281
+    },
+    {
+      "word": "航",
+      "count": 281
+    },
+    {
+      "word": "标",
+      "count": 280
+    },
+    {
+      "word": "色",
+      "count": 279
+    },
+    {
+      "word": "保",
+      "count": 279
+    },
+    {
+      "word": "赛",
+      "count": 279
+    },
+    {
+      "word": "园",
+      "count": 277
+    },
+    {
+      "word": "连",
+      "count": 274
+    },
+    {
+      "word": "歇",
+      "count": 273
+    },
+    {
+      "word": "已",
+      "count": 272
+    },
+    {
+      "word": "领",
+      "count": 272
+    },
+    {
+      "word": "奖",
+      "count": 272
+    },
+    {
+      "word": "陆",
+      "count": 271
+    },
+    {
+      "word": "银",
+      "count": 271
+    },
+    {
+      "word": "量",
+      "count": 270
+    },
+    {
+      "word": "设",
+      "count": 270
+    },
+    {
+      "word": "造",
+      "count": 270
+    },
+    {
+      "word": "五",
+      "count": 269
+    },
+    {
+      "word": "资",
+      "count": 268
+    },
+    {
+      "word": "并",
+      "count": 267
+    },
+    {
+      "word": "龙",
+      "count": 267
+    },
+    {
+      "word": "铁",
+      "count": 266
+    },
+    {
+      "word": "半",
+      "count": 265
+    },
+    {
+      "word": "奥",
+      "count": 263
+    },
+    {
+      "word": "看",
+      "count": 262
+    },
+    {
+      "word": "条",
+      "count": 262
+    },
+    {
+      "word": "鲁",
+      "count": 262
+    },
+    {
+      "word": "目",
+      "count": 261
+    },
+    {
+      "word": "著",
+      "count": 260
+    },
+    {
+      "word": "此",
+      "count": 259
+    },
+    {
+      "word": "回",
+      "count": 259
+    },
+    {
+      "word": "千",
+      "count": 256
+    },
+    {
+      "word": "权",
+      "count": 256
+    },
+    {
+      "word": "司",
+      "count": 256
+    },
+    {
+      "word": "少",
+      "count": 256
+    },
+    {
+      "word": "受",
+      "count": 255
+    },
+    {
+      "word": "管",
+      "count": 255
+    },
+    {
+      "word": "结",
+      "count": 254
+    },
+    {
+      "word": "写",
+      "count": 254
+    },
+    {
+      "word": "术",
+      "count": 254
+    },
+    {
+      "word": "洋",
+      "count": 253
+    },
+    {
+      "word": "箇",
+      "count": 252
+    },
+    {
+      "word": "空",
+      "count": 252
+    },
+    {
+      "word": "源",
+      "count": 251
+    },
+    {
+      "word": "脱",
+      "count": 251
+    },
+    {
+      "word": "周",
+      "count": 251
+    },
+    {
+      "word": "敎",
+      "count": 251
+    },
+    {
+      "word": "边",
+      "count": 250
+    },
+    {
+      "word": "又",
+      "count": 249
+    },
+    {
+      "word": "黄",
+      "count": 249
+    },
+    {
+      "word": "做",
+      "count": 248
+    },
+    {
+      "word": "变",
+      "count": 246
+    },
+    {
+      "word": "落",
+      "count": 246
+    },
+    {
+      "word": "划",
+      "count": 246
+    },
+    {
+      "word": "皇",
+      "count": 246
+    },
+    {
+      "word": "张",
+      "count": 244
+    },
+    {
+      "word": "单",
+      "count": 243
+    },
+    {
+      "word": "母",
+      "count": 243
+    },
+    {
+      "word": "议",
+      "count": 243
+    },
+    {
+      "word": "记",
+      "count": 242
+    },
+    {
+      "word": "俚",
+      "count": 242
+    },
+    {
+      "word": "据",
+      "count": 242
+    },
+    {
+      "word": "活",
+      "count": 241
+    },
+    {
+      "word": "节",
+      "count": 241
+    },
+    {
+      "word": "指",
+      "count": 241
+    },
+    {
+      "word": "乐",
+      "count": 240
+    },
+    {
+      "word": "至",
+      "count": 240
+    },
+    {
+      "word": "育",
+      "count": 240
+    },
+    {
+      "word": "阳",
+      "count": 239
+    },
+    {
+      "word": "然",
+      "count": 239
+    },
+    {
+      "word": "語",
+      "count": 239
+    },
+    {
+      "word": "畀",
+      "count": 237
+    },
+    {
+      "word": "杭",
+      "count": 236
+    },
+    {
+      "word": "武",
+      "count": 236
+    },
+    {
+      "word": "桥",
+      "count": 235
+    },
+    {
+      "word": "集",
+      "count": 235
+    },
+    {
+      "word": "思",
+      "count": 233
+    },
+    {
+      "word": "派",
+      "count": 232
+    },
+    {
+      "word": "景",
+      "count": 232
+    },
+    {
+      "word": "石",
+      "count": 231
+    },
+    {
+      "word": "放",
+      "count": 230
+    },
+    {
+      "word": "括",
+      "count": 228
+    },
+    {
+      "word": "版",
+      "count": 228
+    },
+    {
+      "word": "无",
+      "count": 226
+    },
+    {
+      "word": "伯",
+      "count": 225
+    },
+    {
+      "word": "质",
+      "count": 224
+    },
+    {
+      "word": "介",
+      "count": 224
+    },
+    {
+      "word": "功",
+      "count": 223
+    },
+    {
+      "word": "闲",
+      "count": 222
+    },
+    {
+      "word": "先",
+      "count": 221
+    },
+    {
+      "word": "堂",
+      "count": 221
+    },
+    {
+      "word": "声",
+      "count": 220
+    },
+    {
+      "word": "几",
+      "count": 218
+    },
+    {
+      "word": "着",
+      "count": 218
+    },
+    {
+      "word": "命",
+      "count": 217
+    },
+    {
+      "word": "佛",
+      "count": 217
+    },
+    {
+      "word": "街",
+      "count": 216
+    },
+    {
+      "word": "曼",
+      "count": 216
+    },
+    {
+      "word": "说",
+      "count": 215
+    },
+    {
+      "word": "花",
+      "count": 215
+    },
+    {
+      "word": "般",
+      "count": 214
+    },
+    {
+      "word": "次",
+      "count": 213
+    },
+    {
+      "word": "邦",
+      "count": 212
+    },
+    {
+      "word": "乡",
+      "count": 211
+    },
+    {
+      "word": "曲",
+      "count": 210
+    },
+    {
+      "word": "带",
+      "count": 210
+    },
+    {
+      "word": "情",
+      "count": 210
+    },
+    {
+      "word": "类",
+      "count": 210
+    },
+    {
+      "word": "反",
+      "count": 209
+    },
+    {
+      "word": "技",
+      "count": 209
+    },
+    {
+      "word": "浦",
+      "count": 208
+    },
+    {
+      "word": "哉",
+      "count": 208
+    },
+    {
+      "word": "角",
+      "count": 207
+    },
+    {
+      "word": "圣",
+      "count": 207
+    },
+    {
+      "word": "垃",
+      "count": 207
+    },
+    {
+      "word": "八",
+      "count": 206
+    },
+    {
+      "word": "解",
+      "count": 206
+    },
+    {
+      "word": "均",
+      "count": 206
+    },
+    {
+      "word": "争",
+      "count": 206
+    },
+    {
+      "word": "非",
+      "count": 205
+    },
+    {
+      "word": "像",
+      "count": 204
+    },
+    {
+      "word": "寺",
+      "count": 202
+    },
+    {
+      "word": "他",
+      "count": 202
+    },
+    {
+      "word": "督",
+      "count": 202
+    },
+    {
+      "word": "六",
+      "count": 201
+    },
+    {
+      "word": "足",
+      "count": 200
+    },
+    {
+      "word": "鲜",
+      "count": 199
+    },
+    {
+      "word": "手",
+      "count": 199
+    },
+    {
+      "word": "占",
+      "count": 199
+    },
+    {
+      "word": "认",
+      "count": 198
+    },
+    {
+      "word": "宋",
+      "count": 197
+    },
+    {
+      "word": "儿",
+      "count": 196
+    },
+    {
+      "word": "末",
+      "count": 195
+    },
+    {
+      "word": "今",
+      "count": 194
+    },
+    {
+      "word": "神",
+      "count": 193
+    },
+    {
+      "word": "示",
+      "count": 193
+    },
+    {
+      "word": "较",
+      "count": 192
+    },
+    {
+      "word": "邪",
+      "count": 192
+    },
+    {
+      "word": "转",
+      "count": 188
+    },
+    {
+      "word": "处",
+      "count": 188
+    },
+    {
+      "word": "根",
+      "count": 187
+    },
+    {
+      "word": "强",
+      "count": 187
+    },
+    {
+      "word": "提",
+      "count": 186
+    },
+    {
+      "word": "队",
+      "count": 186
+    },
+    {
+      "word": "域",
+      "count": 186
+    },
+    {
+      "word": "迭",
+      "count": 185
+    },
+    {
+      "word": "读",
+      "count": 185
+    },
+    {
+      "word": "來",
+      "count": 185
+    },
+    {
+      "word": "嘉",
+      "count": 184
+    },
+    {
+      "word": "九",
+      "count": 183
+    },
+    {
+      "word": "死",
+      "count": 183
+    },
+    {
+      "word": "會",
+      "count": 183
+    },
+    {
+      "word": "算",
+      "count": 182
+    },
+    {
+      "word": "境",
+      "count": 181
+    },
+    {
+      "word": "导",
+      "count": 181
+    },
+    {
+      "word": "简",
+      "count": 180
+    },
+    {
+      "word": "火",
+      "count": 179
+    },
+    {
+      "word": "旅",
+      "count": 179
+    },
+    {
+      "word": "纳",
+      "count": 179
+    },
+    {
+      "word": "报",
+      "count": 177
+    },
+    {
+      "word": "专",
+      "count": 177
+    },
+    {
+      "word": "构",
+      "count": 176
+    },
+    {
+      "word": "选",
+      "count": 176
+    },
+    {
+      "word": "图",
+      "count": 176
+    },
+    {
+      "word": "唐",
+      "count": 174
+    },
+    {
+      "word": "吉",
+      "count": 174
+    },
+    {
+      "word": "段",
+      "count": 173
+    },
+    {
+      "word": "持",
+      "count": 173
+    },
+    {
+      "word": "區",
+      "count": 173
+    },
+    {
+      "word": "支",
+      "count": 172
+    },
+    {
+      "word": "独",
+      "count": 172
+    },
+    {
+      "word": "与",
+      "count": 171
+    },
+    {
+      "word": "打",
+      "count": 171
+    },
+    {
+      "word": "春",
+      "count": 170
+    },
+    {
+      "word": "件",
+      "count": 170
+    },
+    {
+      "word": "见",
+      "count": 169
+    },
+    {
+      "word": "视",
+      "count": 169
+    },
+    {
+      "word": "办",
+      "count": 168
+    },
+    {
+      "word": "响",
+      "count": 167
+    },
+    {
+      "word": "规",
+      "count": 167
+    },
+    {
+      "word": "威",
+      "count": 167
+    },
+    {
+      "word": "啥",
+      "count": 166
+    },
+    {
+      "word": "底",
+      "count": 166
+    },
+    {
+      "word": "务",
+      "count": 166
+    },
+    {
+      "word": "婚",
+      "count": 166
+    },
+    {
+      "word": "观",
+      "count": 165
+    },
+    {
+      "word": "博",
+      "count": 164
+    },
+    {
+      "word": "富",
+      "count": 164
+    },
+    {
+      "word": "再",
+      "count": 164
+    },
+    {
+      "word": "应",
+      "count": 164
+    },
+    {
+      "word": "呒",
+      "count": 164
+    },
+    {
+      "word": "校",
+      "count": 164
+    },
+    {
+      "word": "党",
+      "count": 164
+    },
+    {
+      "word": "艺",
+      "count": 163
+    },
+    {
+      "word": "馆",
+      "count": 163
+    },
+    {
+      "word": "昂",
+      "count": 163
+    },
+    {
+      "word": "料",
+      "count": 162
+    },
+    {
+      "word": "塞",
+      "count": 162
+    },
+    {
+      "word": "辖",
+      "count": 162
+    },
+    {
+      "word": "速",
+      "count": 162
+    },
+    {
+      "word": "即",
+      "count": 162
+    },
+    {
+      "word": "話",
+      "count": 162
+    },
+    {
+      "word": "男",
+      "count": 161
+    },
+    {
+      "word": "准",
+      "count": 161
+    },
+    {
+      "word": "身",
+      "count": 160
+    },
+    {
+      "word": "型",
+      "count": 160
+    },
+    {
+      "word": "群",
+      "count": 160
+    },
+    {
+      "word": "徒",
+      "count": 160
+    },
+    {
+      "word": "板",
+      "count": 159
+    },
+    {
+      "word": "村",
+      "count": 159
+    },
+    {
+      "word": "俗",
+      "count": 159
+    },
+    {
+      "word": "师",
+      "count": 159
+    },
+    {
+      "word": "环",
+      "count": 157
+    },
+    {
+      "word": "咾",
+      "count": 157
+    },
+    {
+      "word": "秋",
+      "count": 156
+    },
+    {
+      "word": "复",
+      "count": 156
+    },
+    {
+      "word": "哈",
+      "count": 156
+    },
+    {
+      "word": "川",
+      "count": 155
+    },
+    {
+      "word": "问",
+      "count": 155
+    },
+    {
+      "word": "让",
+      "count": 154
+    },
+    {
+      "word": "革",
+      "count": 154
+    },
+    {
+      "word": "梅",
+      "count": 154
+    },
+    {
+      "word": "修",
+      "count": 154
+    },
+    {
+      "word": "创",
+      "count": 153
+    },
+    {
+      "word": "學",
+      "count": 153
+    },
+    {
+      "word": "推",
+      "count": 152
+    },
+    {
+      "word": "礼",
+      "count": 152
+    },
+    {
+      "word": "获",
+      "count": 152
+    },
+    {
+      "word": "福",
+      "count": 152
+    },
+    {
+      "word": "许",
+      "count": 151
+    },
+    {
+      "word": "收",
+      "count": 151
+    },
+    {
+      "word": "初",
+      "count": 151
+    },
+    {
+      "word": "举",
+      "count": 151
+    },
+    {
+      "word": "另",
+      "count": 150
+    },
+    {
+      "word": "冠",
+      "count": 150
+    },
+    {
+      "word": "除",
+      "count": 149
+    },
+    {
+      "word": "每",
+      "count": 149
+    },
+    {
+      "word": "题",
+      "count": 149
+    },
+    {
+      "word": "宣",
+      "count": 148
+    },
+    {
+      "word": "李",
+      "count": 148
+    },
+    {
+      "word": "夫",
+      "count": 148
+    },
+    {
+      "word": "份",
+      "count": 147
+    },
+    {
+      "word": "青",
+      "count": 147
+    },
+    {
+      "word": "真",
+      "count": 147
+    },
+    {
+      "word": "候",
+      "count": 146
+    },
+    {
+      "word": "被",
+      "count": 146
+    },
+    {
+      "word": "谷",
+      "count": 146
+    },
+    {
+      "word": "范",
+      "count": 145
+    },
+    {
+      "word": "唱",
+      "count": 145
+    },
+    {
+      "word": "农",
+      "count": 145
+    },
+    {
+      "word": "票",
+      "count": 145
+    },
+    {
+      "word": "爱",
+      "count": 145
+    },
+    {
+      "word": "满",
+      "count": 144
+    },
+    {
+      "word": "织",
+      "count": 144
+    },
+    {
+      "word": "曾",
+      "count": 144
+    },
+    {
+      "word": "爲",
+      "count": 144
+    },
+    {
+      "word": "乌",
+      "count": 144
+    },
+    {
+      "word": "超",
+      "count": 144
+    },
+    {
+      "word": "温",
+      "count": 142
+    },
+    {
+      "word": "职",
+      "count": 142
+    },
+    {
+      "word": "象",
+      "count": 142
+    },
+    {
+      "word": "卫",
+      "count": 142
+    },
+    {
+      "word": "丁",
+      "count": 142
+    },
+    {
+      "word": "密",
+      "count": 141
+    },
+    {
+      "word": "器",
+      "count": 141
+    },
+    {
+      "word": "岸",
+      "count": 141
+    },
+    {
+      "word": "论",
+      "count": 141
+    },
+    {
+      "word": "委",
+      "count": 140
+    },
+    {
+      "word": "取",
+      "count": 140
+    },
+    {
+      "word": "田",
+      "count": 140
+    },
+    {
+      "word": "眼",
+      "count": 139
+    },
+    {
+      "word": "排",
+      "count": 137
+    },
+    {
+      "word": "望",
+      "count": 136
+    },
+    {
+      "word": "季",
+      "count": 136
+    },
+    {
+      "word": "盟",
+      "count": 136
+    },
+    {
+      "word": "编",
+      "count": 135
+    },
+    {
+      "word": "哥",
+      "count": 133
+    },
+    {
+      "word": "团",
+      "count": 132
+    },
+    {
+      "word": "念",
+      "count": 132
+    },
+    {
+      "word": "勿",
+      "count": 132
+    },
+    {
+      "word": "朱",
+      "count": 132
+    },
+    {
+      "word": "於",
+      "count": 132
+    },
+    {
+      "word": "戏",
+      "count": 131
+    },
+    {
+      "word": "塔",
+      "count": 131
+    },
+    {
+      "word": "牌",
+      "count": 131
+    },
+    {
+      "word": "喜",
+      "count": 130
+    },
+    {
+      "word": "模",
+      "count": 130
+    },
+    {
+      "word": "故",
+      "count": 129
+    },
+    {
+      "word": "些",
+      "count": 129
+    },
+    {
+      "word": "七",
+      "count": 129
+    },
+    {
+      "word": "崇",
+      "count": 129
+    },
+    {
+      "word": "庆",
+      "count": 129
+    },
+    {
+      "word": "局",
+      "count": 129
+    },
+    {
+      "word": "徽",
+      "count": 129
+    },
+    {
+      "word": "决",
+      "count": 129
+    },
+    {
+      "word": "淮",
+      "count": 129
+    },
+    {
+      "word": "坦",
+      "count": 128
+    },
+    {
+      "word": "瓦",
+      "count": 128
+    },
+    {
+      "word": "必",
+      "count": 128
+    },
+    {
+      "word": "亿",
+      "count": 127
+    },
+    {
+      "word": "锡",
+      "count": 126
+    },
+    {
+      "word": "照",
+      "count": 126
+    },
+    {
+      "word": "射",
+      "count": 126
+    },
+    {
+      "word": "引",
+      "count": 125
+    },
+    {
+      "word": "志",
+      "count": 125
+    },
+    {
+      "word": "围",
+      "count": 124
+    },
+    {
+      "word": "增",
+      "count": 124
+    },
+    {
+      "word": "果",
+      "count": 124
+    },
+    {
+      "word": "移",
+      "count": 124
+    },
+    {
+      "word": "後",
+      "count": 124
+    },
+    {
+      "word": "氏",
+      "count": 123
+    },
+    {
+      "word": "莱",
+      "count": 123
+    },
+    {
+      "word": "协",
+      "count": 122
+    },
+    {
+      "word": "归",
+      "count": 122
+    },
+    {
+      "word": "且",
+      "count": 122
+    },
+    {
+      "word": "例",
+      "count": 122
+    },
+    {
+      "word": "我",
+      "count": 122
+    },
+    {
+      "word": "则",
+      "count": 121
+    },
+    {
+      "word": "离",
+      "count": 121
+    },
+    {
+      "word": "服",
+      "count": 120
+    },
+    {
+      "word": "木",
+      "count": 120
+    },
+    {
+      "word": "胜",
+      "count": 120
+    },
+    {
+      "word": "衢",
+      "count": 120
+    },
+    {
+      "word": "萨",
+      "count": 119
+    },
+    {
+      "word": "拜",
+      "count": 119
+    },
+    {
+      "word": "播",
+      "count": 119
+    },
+    {
+      "word": "欢",
+      "count": 118
+    },
+    {
+      "word": "陈",
+      "count": 118
+    },
+    {
+      "word": "友",
+      "count": 118
+    },
+    {
+      "word": "存",
+      "count": 118
+    },
+    {
+      "word": "趟",
+      "count": 118
+    },
+    {
+      "word": "阴",
+      "count": 118
+    },
+    {
+      "word": "研",
+      "count": 118
+    },
+    {
+      "word": "更",
+      "count": 116
+    },
+    {
+      "word": "素",
+      "count": 116
+    },
+    {
+      "word": "注",
+      "count": 115
+    },
+    {
+      "word": "帮",
+      "count": 115
+    },
+    {
+      "word": "置",
+      "count": 115
+    },
+    {
+      "word": "便",
+      "count": 113
+    },
+    {
+      "word": "红",
+      "count": 113
+    },
+    {
+      "word": "护",
+      "count": 113
+    },
+    {
+      "word": "侬",
+      "count": 113
+    },
+    {
+      "word": "油",
+      "count": 113
+    },
+    {
+      "word": "率",
+      "count": 113
+    },
+    {
+      "word": "藏",
+      "count": 113
+    },
+    {
+      "word": "想",
+      "count": 113
+    },
+    {
+      "word": "兵",
+      "count": 112
+    },
+    {
+      "word": "沿",
+      "count": 112
+    },
+    {
+      "word": "跟",
+      "count": 112
+    },
+    {
+      "word": "章",
+      "count": 112
+    },
+    {
+      "word": "發",
+      "count": 112
+    },
+    {
+      "word": "客",
+      "count": 112
+    },
+    {
+      "word": "慢",
+      "count": 111
+    },
+    {
+      "word": "干",
+      "count": 111
+    },
+    {
+      "word": "汇",
+      "count": 111
+    },
+    {
+      "word": "完",
+      "count": 111
+    },
+    {
+      "word": "旗",
+      "count": 111
+    },
+    {
+      "word": "卢",
+      "count": 111
+    },
+    {
+      "word": "启",
+      "count": 110
+    },
+    {
+      "word": "留",
+      "count": 110
+    },
+    {
+      "word": "项",
+      "count": 110
+    },
+    {
+      "word": "隆",
+      "count": 110
+    },
+    {
+      "word": "蛮",
+      "count": 110
+    },
+    {
+      "word": "譬",
+      "count": 109
+    },
+    {
+      "word": "临",
+      "count": 109
+    },
+    {
+      "word": "登",
+      "count": 109
+    },
+    {
+      "word": "徐",
+      "count": 109
+    },
+    {
+      "word": "希",
+      "count": 109
+    },
+    {
+      "word": "郡",
+      "count": 109
+    },
+    {
+      "word": "君",
+      "count": 108
+    },
+    {
+      "word": "值",
+      "count": 108
+    },
+    {
+      "word": "货",
+      "count": 108
+    },
+    {
+      "word": "往",
+      "count": 107
+    },
+    {
+      "word": "突",
+      "count": 107
+    },
+    {
+      "word": "送",
+      "count": 107
+    },
+    {
+      "word": "双",
+      "count": 106
+    },
+    {
+      "word": "拔",
+      "count": 106
+    },
+    {
+      "word": "筑",
+      "count": 106
+    },
+    {
+      "word": "录",
+      "count": 106
+    },
+    {
+      "word": "葡",
+      "count": 106
+    },
+    {
+      "word": "易",
+      "count": 106
+    },
+    {
+      "word": "逐",
+      "count": 106
+    },
+    {
+      "word": "究",
+      "count": 105
+    },
+    {
+      "word": "座",
+      "count": 105
+    },
+    {
+      "word": "食",
+      "count": 104
+    },
+    {
+      "word": "庙",
+      "count": 104
+    },
+    {
+      "word": "封",
+      "count": 104
+    },
+    {
+      "word": "替",
+      "count": 104
+    },
+    {
+      "word": "那",
+      "count": 104
+    },
+    {
+      "word": "鱼",
+      "count": 103
+    },
+    {
+      "word": "云",
+      "count": 103
+    },
+    {
+      "word": "终",
+      "count": 103
+    },
+    {
+      "word": "征",
+      "count": 103
+    },
+    {
+      "word": "秦",
+      "count": 103
+    },
+    {
+      "word": "坡",
+      "count": 103
+    },
+    {
+      "word": "父",
+      "count": 103
+    },
+    {
+      "word": "吳",
+      "count": 102
+    },
+    {
+      "word": "央",
+      "count": 102
+    },
+    {
+      "word": "消",
+      "count": 102
+    },
+    {
+      "word": "符",
+      "count": 102
+    },
+    {
+      "word": "将",
+      "count": 101
+    },
+    {
+      "word": "脚",
+      "count": 101
+    },
+    {
+      "word": "耶",
+      "count": 101
+    },
+    {
+      "word": "绍",
+      "count": 100
+    },
+    {
+      "word": "息",
+      "count": 100
+    },
+    {
+      "word": "续",
+      "count": 100
+    },
+    {
+      "word": "籍",
+      "count": 100
+    },
+    {
+      "word": "埃",
+      "count": 100
+    },
+    {
+      "word": "荣",
+      "count": 99
+    },
+    {
+      "word": "深",
+      "count": 99
+    },
+    {
+      "word": "岁",
+      "count": 99
+    },
+    {
+      "word": "船",
+      "count": 99
+    },
+    {
+      "word": "容",
+      "count": 99
+    },
+    {
+      "word": "诗",
+      "count": 99
+    },
+    {
+      "word": "遗",
+      "count": 98
+    },
+    {
+      "word": "严",
+      "count": 98
+    },
+    {
+      "word": "伦",
+      "count": 98
+    },
+    {
+      "word": "众",
+      "count": 97
+    },
+    {
+      "word": "具",
+      "count": 97
+    },
+    {
+      "word": "击",
+      "count": 97
+    },
+    {
+      "word": "丹",
+      "count": 97
+    },
+    {
+      "word": "热",
+      "count": 97
+    },
+    {
+      "word": "夏",
+      "count": 97
+    },
+    {
+      "word": "律",
+      "count": 96
+    },
+    {
+      "word": "势",
+      "count": 96
+    },
+    {
+      "word": "堡",
+      "count": 96
+    },
+    {
+      "word": "致",
+      "count": 96
+    },
+    {
+      "word": "祖",
+      "count": 96
+    },
+    {
+      "word": "抗",
+      "count": 96
+    },
+    {
+      "word": "远",
+      "count": 95
+    },
+    {
+      "word": "没",
+      "count": 95
+    },
+    {
+      "word": "码",
+      "count": 95
+    },
+    {
+      "word": "精",
+      "count": 95
+    },
+    {
+      "word": "昌",
+      "count": 95
+    },
+    {
+      "word": "酒",
+      "count": 95
+    },
+    {
+      "word": "么",
+      "count": 94
+    },
+    {
+      "word": "营",
+      "count": 94
+    },
+    {
+      "word": "車",
+      "count": 94
+    },
+    {
+      "word": "句",
+      "count": 93
+    },
+    {
+      "word": "瑞",
+      "count": 93
+    },
+    {
+      "word": "並",
+      "count": 93
+    },
+    {
+      "word": "极",
+      "count": 93
+    },
+    {
+      "word": "耳",
+      "count": 93
+    },
+    {
+      "word": "整",
+      "count": 92
+    },
+    {
+      "word": "松",
+      "count": 92
+    },
+    {
+      "word": "爆",
+      "count": 92
+    },
+    {
+      "word": "假",
+      "count": 92
+    },
+    {
+      "word": "快",
+      "count": 91
+    },
+    {
+      "word": "才",
+      "count": 91
+    },
+    {
+      "word": "昆",
+      "count": 91
+    },
+    {
+      "word": "韵",
+      "count": 90
+    },
+    {
+      "word": "评",
+      "count": 90
+    },
+    {
+      "word": "吃",
+      "count": 90
+    },
+    {
+      "word": "求",
+      "count": 90
+    },
+    {
+      "word": "經",
+      "count": 90
+    },
+    {
+      "word": "孟",
+      "count": 89
+    },
+    {
+      "word": "夜",
+      "count": 89
+    },
+    {
+      "word": "孙",
+      "count": 89
+    },
+    {
+      "word": "钱",
+      "count": 89
+    },
+    {
+      "word": "沪",
+      "count": 88
+    },
+    {
+      "word": "防",
+      "count": 88
+    },
+    {
+      "word": "知",
+      "count": 88
+    },
+    {
+      "word": "叶",
+      "count": 88
+    },
+    {
+      "word": "差",
+      "count": 88
+    },
+    {
+      "word": "靠",
+      "count": 88
+    },
+    {
+      "word": "承",
+      "count": 88
+    },
+    {
+      "word": "娘",
+      "count": 88
+    },
+    {
+      "word": "批",
+      "count": 87
+    },
+    {
+      "word": "丰",
+      "count": 87
+    },
+    {
+      "word": "届",
+      "count": 87
+    },
+    {
+      "word": "采",
+      "count": 86
+    },
+    {
+      "word": "宝",
+      "count": 86
+    },
+    {
+      "word": "余",
+      "count": 86
+    },
+    {
+      "word": "茶",
+      "count": 86
+    },
+    {
+      "word": "币",
+      "count": 86
+    },
+    {
+      "word": "摩",
+      "count": 86
+    },
+    {
+      "word": "控",
+      "count": 86
+    },
+    {
+      "word": "价",
+      "count": 86
+    },
+    {
+      "word": "献",
+      "count": 86
+    },
+    {
+      "word": "穆",
+      "count": 86
+    },
+    {
+      "word": "牛",
+      "count": 86
+    },
+    {
+      "word": "店",
+      "count": 85
+    },
+    {
+      "word": "萄",
+      "count": 85
+    },
+    {
+      "word": "核",
+      "count": 85
+    },
+    {
+      "word": "依",
+      "count": 85
+    },
+    {
+      "word": "洛",
+      "count": 85
+    },
+    {
+      "word": "拍",
+      "count": 85
+    },
+    {
+      "word": "繁",
+      "count": 84
+    },
+    {
+      "word": "失",
+      "count": 84
+    },
+    {
+      "word": "康",
+      "count": 84
+    },
+    {
+      "word": "库",
+      "count": 84
+    },
+    {
+      "word": "牢",
+      "count": 84
+    },
+    {
+      "word": "这",
+      "count": 84
+    },
+    {
+      "word": "姻",
+      "count": 84
+    },
+    {
+      "word": "開",
+      "count": 84
+    },
+    {
+      "word": "朗",
+      "count": 84
+    },
+    {
+      "word": "踏",
+      "count": 84
+    },
+    {
+      "word": "旧",
+      "count": 83
+    },
+    {
+      "word": "住",
+      "count": 83
+    },
+    {
+      "word": "养",
+      "count": 83
+    },
+    {
+      "word": "庭",
+      "count": 83
+    },
+    {
+      "word": "画",
+      "count": 83
+    },
+    {
+      "word": "含",
+      "count": 83
+    },
+    {
+      "word": "贝",
+      "count": 82
+    },
+    {
+      "word": "良",
+      "count": 82
+    },
+    {
+      "word": "席",
+      "count": 82
+    },
+    {
+      "word": "當",
+      "count": 82
+    },
+    {
+      "word": "過",
+      "count": 82
+    },
+    {
+      "word": "闻",
+      "count": 82
+    },
+    {
+      "word": "黎",
+      "count": 82
+    },
+    {
+      "word": "杀",
+      "count": 81
+    },
+    {
+      "word": "塘",
+      "count": 81
+    },
+    {
+      "word": "升",
+      "count": 81
+    },
+    {
+      "word": "灭",
+      "count": 81
+    },
+    {
+      "word": "费",
+      "count": 81
+    },
+    {
+      "word": "飞",
+      "count": 81
+    },
+    {
+      "word": "東",
+      "count": 81
+    },
+    {
+      "word": "案",
+      "count": 80
+    },
+    {
+      "word": "继",
+      "count": 80
+    },
+    {
+      "word": "译",
+      "count": 80
+    },
+    {
+      "word": "异",
+      "count": 80
+    },
+    {
+      "word": "亦",
+      "count": 80
+    },
+    {
+      "word": "姐",
+      "count": 80
+    },
+    {
+      "word": "轨",
+      "count": 80
+    },
+    {
+      "word": "概",
+      "count": 79
+    },
+    {
+      "word": "步",
+      "count": 79
+    },
+    {
+      "word": "把",
+      "count": 79
+    },
+    {
+      "word": "杨",
+      "count": 79
+    },
+    {
+      "word": "圆",
+      "count": 79
+    },
+    {
+      "word": "房",
+      "count": 79
+    },
+    {
+      "word": "附",
+      "count": 79
+    },
+    {
+      "word": "菲",
+      "count": 79
+    },
+    {
+      "word": "备",
+      "count": 79
+    },
+    {
+      "word": "朆",
+      "count": 79
+    },
+    {
+      "word": "索",
+      "count": 79
+    },
+    {
+      "word": "虎",
+      "count": 79
+    },
+    {
+      "word": "迪",
+      "count": 79
+    },
+    {
+      "word": "佳",
+      "count": 79
+    },
+    {
+      "word": "饼",
+      "count": 79
+    },
+    {
+      "word": "舟",
+      "count": 79
+    },
+    {
+      "word": "扬",
+      "count": 78
+    },
+    {
+      "word": "助",
+      "count": 78
+    },
+    {
+      "word": "需",
+      "count": 78
+    },
+    {
+      "word": "拥",
+      "count": 78
+    },
+    {
+      "word": "策",
+      "count": 78
+    },
+    {
+      "word": "森",
+      "count": 78
+    },
+    {
+      "word": "關",
+      "count": 78
+    },
+    {
+      "word": "傳",
+      "count": 78
+    },
+    {
+      "word": "诺",
+      "count": 78
+    },
+    {
+      "word": "拼",
+      "count": 78
+    },
+    {
+      "word": "低",
+      "count": 77
+    },
+    {
+      "word": "驻",
+      "count": 77
+    },
+    {
+      "word": "黑",
+      "count": 77
+    },
+    {
+      "word": "洪",
+      "count": 76
+    },
+    {
+      "word": "何",
+      "count": 76
+    },
+    {
+      "word": "况",
+      "count": 76
+    },
+    {
+      "word": "限",
+      "count": 76
+    },
+    {
+      "word": "病",
+      "count": 76
+    },
+    {
+      "word": "翻",
+      "count": 76
+    },
+    {
+      "word": "扩",
+      "count": 75
+    },
+    {
+      "word": "弹",
+      "count": 75
+    },
+    {
+      "word": "副",
+      "count": 75
+    },
+    {
+      "word": "显",
+      "count": 75
+    },
+    {
+      "word": "装",
+      "count": 75
+    },
+    {
+      "word": "证",
+      "count": 75
+    },
+    {
+      "word": "室",
+      "count": 75
+    },
+    {
+      "word": "破",
+      "count": 75
+    },
+    {
+      "word": "荷",
+      "count": 74
+    },
+    {
+      "word": "陵",
+      "count": 74
+    },
+    {
+      "word": "胡",
+      "count": 74
+    },
+    {
+      "word": "灵",
+      "count": 74
+    },
+    {
+      "word": "细",
+      "count": 74
+    },
+    {
+      "word": "降",
+      "count": 74
+    },
+    {
+      "word": "止",
+      "count": 74
+    },
+    {
+      "word": "玉",
+      "count": 73
+    },
+    {
+      "word": "冲",
+      "count": 73
+    },
+    {
+      "word": "医",
+      "count": 73
+    },
+    {
+      "word": "邻",
+      "count": 73
+    },
+    {
+      "word": "殖",
+      "count": 73
+    },
+    {
+      "word": "融",
+      "count": 73
+    },
+    {
+      "word": "端",
+      "count": 73
+    },
+    {
+      "word": "弟",
+      "count": 73
+    },
+    {
+      "word": "刚",
+      "count": 72
+    },
+    {
+      "word": "退",
+      "count": 72
+    },
+    {
+      "word": "峰",
+      "count": 72
+    },
+    {
+      "word": "溪",
+      "count": 72
+    },
+    {
+      "word": "址",
+      "count": 72
+    },
+    {
+      "word": "优",
+      "count": 71
+    },
+    {
+      "word": "晓",
+      "count": 71
+    },
+    {
+      "word": "略",
+      "count": 71
+    },
+    {
+      "word": "层",
+      "count": 71
+    },
+    {
+      "word": "庄",
+      "count": 70
+    },
+    {
+      "word": "败",
+      "count": 70
+    },
+    {
+      "word": "亲",
+      "count": 70
+    },
+    {
+      "word": "亡",
+      "count": 70
+    },
+    {
+      "word": "难",
+      "count": 70
+    },
+    {
+      "word": "永",
+      "count": 70
+    },
+    {
+      "word": "毛",
+      "count": 69
+    },
+    {
+      "word": "丽",
+      "count": 69
+    },
+    {
+      "word": "臣",
+      "count": 69
+    },
+    {
+      "word": "静",
+      "count": 69
+    },
+    {
+      "word": "寻",
+      "count": 69
+    },
+    {
+      "word": "仁",
+      "count": 69
+    },
+    {
+      "word": "投",
+      "count": 69
+    },
+    {
+      "word": "皮",
+      "count": 69
+    },
+    {
+      "word": "阶",
+      "count": 69
+    },
+    {
+      "word": "径",
+      "count": 69
+    },
+    {
+      "word": "钟",
+      "count": 69
+    },
+    {
+      "word": "頭",
+      "count": 69
+    },
+    {
+      "word": "查",
+      "count": 69
+    },
+    {
+      "word": "辅",
+      "count": 68
+    },
+    {
+      "word": "陀",
+      "count": 68
+    },
+    {
+      "word": "企",
+      "count": 68
+    },
+    {
+      "word": "态",
+      "count": 68
+    },
+    {
+      "word": "供",
+      "count": 68
+    },
+    {
+      "word": "宪",
+      "count": 68
+    },
+    {
+      "word": "麦",
+      "count": 68
+    },
+    {
+      "word": "财",
+      "count": 68
+    },
+    {
+      "word": "互",
+      "count": 68
+    },
+    {
+      "word": "坛",
+      "count": 68
+    },
+    {
+      "word": "辞",
+      "count": 68
+    },
+    {
+      "word": "仅",
+      "count": 67
+    },
+    {
+      "word": "秀",
+      "count": 67
+    },
+    {
+      "word": "莫",
+      "count": 67
+    },
+    {
+      "word": "盐",
+      "count": 67
+    },
+    {
+      "word": "宜",
+      "count": 67
+    },
+    {
+      "word": "脑",
+      "count": 67
+    },
+    {
+      "word": "跑",
+      "count": 67
+    },
+    {
+      "word": "孔",
+      "count": 67
+    },
+    {
+      "word": "习",
+      "count": 67
+    },
+    {
+      "word": "短",
+      "count": 66
+    },
+    {
+      "word": "楼",
+      "count": 66
+    },
+    {
+      "word": "廿",
+      "count": 66
+    },
+    {
+      "word": "潮",
+      "count": 66
+    },
+    {
+      "word": "疆",
+      "count": 66
+    },
+    {
+      "word": "令",
+      "count": 66
+    },
+    {
+      "word": "施",
+      "count": 66
+    },
+    {
+      "word": "恩",
+      "count": 66
+    },
+    {
+      "word": "竹",
+      "count": 65
+    },
+    {
+      "word": "压",
+      "count": 65
+    },
+    {
+      "word": "确",
+      "count": 65
+    },
+    {
+      "word": "腊",
+      "count": 65
+    },
+    {
+      "word": "乱",
+      "count": 64
+    },
+    {
+      "word": "敦",
+      "count": 64
+    },
+    {
+      "word": "告",
+      "count": 64
+    },
+    {
+      "word": "對",
+      "count": 64
+    },
+    {
+      "word": "奇",
+      "count": 64
+    },
+    {
+      "word": "蒂",
+      "count": 64
+    },
+    {
+      "word": "る",
+      "count": 64
+    },
+    {
+      "word": "梁",
+      "count": 63
+    },
+    {
+      "word": "轻",
+      "count": 63
+    },
+    {
+      "word": "请",
+      "count": 63
+    },
+    {
+      "word": "试",
+      "count": 63
+    },
+    {
+      "word": "仍",
+      "count": 63
+    },
+    {
+      "word": "震",
+      "count": 63
+    },
+    {
+      "word": "虽",
+      "count": 63
+    },
+    {
+      "word": "按",
+      "count": 63
+    },
+    {
+      "word": "走",
+      "count": 63
+    },
+    {
+      "word": "別",
+      "count": 63
+    },
+    {
+      "word": "洞",
+      "count": 63
+    },
+    {
+      "word": "久",
+      "count": 63
+    }
+  ]
+}

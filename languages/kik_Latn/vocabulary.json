@@ -1,0 +1,4012 @@
+{
+  "code": "kik",
+  "name": "Kikuyu",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (ki.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 39793,
+  "unique_tokens": 8690,
+  "words": [
+    {
+      "word": "ya",
+      "count": 2383
+    },
+    {
+      "word": "city",
+      "count": 1596
+    },
+    {
+      "word": "cia",
+      "count": 1570
+    },
+    {
+      "word": "china",
+      "count": 1336
+    },
+    {
+      "word": "na",
+      "count": 1203
+    },
+    {
+      "word": "wa",
+      "count": 1098
+    },
+    {
+      "word": "nene",
+      "count": 1091
+    },
+    {
+      "word": "irĩa",
+      "count": 1046
+    },
+    {
+      "word": "cĩtĩ",
+      "count": 1044
+    },
+    {
+      "word": "nĩ",
+      "count": 714
+    },
+    {
+      "word": "ta",
+      "count": 700
+    },
+    {
+      "word": "mũno",
+      "count": 632
+    },
+    {
+      "word": "irĩ",
+      "count": 570
+    },
+    {
+      "word": "igũrũ",
+      "count": 563
+    },
+    {
+      "word": "uzbekistan",
+      "count": 306
+    },
+    {
+      "word": "ni",
+      "count": 272
+    },
+    {
+      "word": "ma",
+      "count": 244
+    },
+    {
+      "word": "kenya",
+      "count": 166
+    },
+    {
+      "word": "bururi",
+      "count": 144
+    },
+    {
+      "word": "kana",
+      "count": 135
+    },
+    {
+      "word": "iria",
+      "count": 127
+    },
+    {
+      "word": "no",
+      "count": 123
+    },
+    {
+      "word": "abĩrika",
+      "count": 118
+    },
+    {
+      "word": "italy",
+      "count": 111
+    },
+    {
+      "word": "tekinoronjĩ",
+      "count": 104
+    },
+    {
+      "word": "thayathi",
+      "count": 101
+    },
+    {
+      "word": "mũnene",
+      "count": 97
+    },
+    {
+      "word": "kĩa",
+      "count": 91
+    },
+    {
+      "word": "asia",
+      "count": 89
+    },
+    {
+      "word": "thiomi",
+      "count": 86
+    },
+    {
+      "word": "thĩ",
+      "count": 82
+    },
+    {
+      "word": "wikipedia",
+      "count": 81
+    },
+    {
+      "word": "mũciĩ",
+      "count": 76
+    },
+    {
+      "word": "mbere",
+      "count": 69
+    },
+    {
+      "word": "rwa",
+      "count": 67
+    },
+    {
+      "word": "of",
+      "count": 67
+    },
+    {
+      "word": "ici",
+      "count": 66
+    },
+    {
+      "word": "the",
+      "count": 64
+    },
+    {
+      "word": "usa",
+      "count": 64
+    },
+    {
+      "word": "bũrũri",
+      "count": 61
+    },
+    {
+      "word": "andũ",
+      "count": 58
+    },
+    {
+      "word": "views",
+      "count": 58
+    },
+    {
+      "word": "gĩtabuto",
+      "count": 58
+    },
+    {
+      "word": "million",
+      "count": 57
+    },
+    {
+      "word": "kambuni",
+      "count": 57
+    },
+    {
+      "word": "thiori",
+      "count": 56
+    },
+    {
+      "word": "rĩa",
+      "count": 55
+    },
+    {
+      "word": "kia",
+      "count": 55
+    },
+    {
+      "word": "kwĩ",
+      "count": 55
+    },
+    {
+      "word": "indo",
+      "count": 55
+    },
+    {
+      "word": "gĩtaũro",
+      "count": 55
+    },
+    {
+      "word": "wĩ",
+      "count": 52
+    },
+    {
+      "word": "thithitemu",
+      "count": 52
+    },
+    {
+      "word": "japan",
+      "count": 50
+    },
+    {
+      "word": "andu",
+      "count": 49
+    },
+    {
+      "word": "ũyũ",
+      "count": 49
+    },
+    {
+      "word": "mũndũ",
+      "count": 48
+    },
+    {
+      "word": "komputa",
+      "count": 48
+    },
+    {
+      "word": "metha",
+      "count": 47
+    },
+    {
+      "word": "sofutiwea",
+      "count": 46
+    },
+    {
+      "word": "nyingĩ",
+      "count": 44
+    },
+    {
+      "word": "tv",
+      "count": 44
+    },
+    {
+      "word": "and",
+      "count": 44
+    },
+    {
+      "word": "cuma",
+      "count": 44
+    },
+    {
+      "word": "imwe",
+      "count": 43
+    },
+    {
+      "word": "thimu",
+      "count": 43
+    },
+    {
+      "word": "kwa",
+      "count": 42
+    },
+    {
+      "word": "mathomo",
+      "count": 42
+    },
+    {
+      "word": "rũthiomi",
+      "count": 41
+    },
+    {
+      "word": "ũrĩa",
+      "count": 41
+    },
+    {
+      "word": "ĩmwe",
+      "count": 40
+    },
+    {
+      "word": "kemu",
+      "count": 40
+    },
+    {
+      "word": "abirika",
+      "count": 39
+    },
+    {
+      "word": "rũraya",
+      "count": 39
+    },
+    {
+      "word": "ona",
+      "count": 38
+    },
+    {
+      "word": "ikoragwo",
+      "count": 38
+    },
+    {
+      "word": "nairobi",
+      "count": 37
+    },
+    {
+      "word": "ĩria",
+      "count": 37
+    },
+    {
+      "word": "kautĩ",
+      "count": 37
+    },
+    {
+      "word": "ciana",
+      "count": 36
+    },
+    {
+      "word": "ĩkoragwo",
+      "count": 35
+    },
+    {
+      "word": "wega",
+      "count": 34
+    },
+    {
+      "word": "gĩa",
+      "count": 34
+    },
+    {
+      "word": "ingĩ",
+      "count": 34
+    },
+    {
+      "word": "maũndũ",
+      "count": 34
+    },
+    {
+      "word": "njira",
+      "count": 34
+    },
+    {
+      "word": "spain",
+      "count": 34
+    },
+    {
+      "word": "ũũgĩ",
+      "count": 33
+    },
+    {
+      "word": "mwaka",
+      "count": 32
+    },
+    {
+      "word": "ũgĩ",
+      "count": 32
+    },
+    {
+      "word": "mundu",
+      "count": 32
+    },
+    {
+      "word": "macini",
+      "count": 32
+    },
+    {
+      "word": "erementi",
+      "count": 32
+    },
+    {
+      "word": "gũthondeka",
+      "count": 31
+    },
+    {
+      "word": "kuma",
+      "count": 31
+    },
+    {
+      "word": "ĩno",
+      "count": 31
+    },
+    {
+      "word": "mwena",
+      "count": 31
+    },
+    {
+      "word": "netiwaki",
+      "count": 31
+    },
+    {
+      "word": "kuthini",
+      "count": 31
+    },
+    {
+      "word": "muno",
+      "count": 30
+    },
+    {
+      "word": "kombuita",
+      "count": 30
+    },
+    {
+      "word": "kĩrĩnyaga",
+      "count": 29
+    },
+    {
+      "word": "ĩrĩa",
+      "count": 29
+    },
+    {
+      "word": "maria",
+      "count": 29
+    },
+    {
+      "word": "nyingi",
+      "count": 29
+    },
+    {
+      "word": "ũhoro",
+      "count": 29
+    },
+    {
+      "word": "amerika",
+      "count": 29
+    },
+    {
+      "word": "mabururi",
+      "count": 29
+    },
+    {
+      "word": "ria",
+      "count": 28
+    },
+    {
+      "word": "org",
+      "count": 28
+    },
+    {
+      "word": "http",
+      "count": 28
+    },
+    {
+      "word": "thutha",
+      "count": 27
+    },
+    {
+      "word": "injiniarini",
+      "count": 27
+    },
+    {
+      "word": "kĩheo",
+      "count": 27
+    },
+    {
+      "word": "arĩ",
+      "count": 26
+    },
+    {
+      "word": "in",
+      "count": 26
+    },
+    {
+      "word": "thimo",
+      "count": 26
+    },
+    {
+      "word": "uria",
+      "count": 26
+    },
+    {
+      "word": "ngari",
+      "count": 26
+    },
+    {
+      "word": "kĩ",
+      "count": 26
+    },
+    {
+      "word": "ngai",
+      "count": 25
+    },
+    {
+      "word": "mithemba",
+      "count": 25
+    },
+    {
+      "word": "ũria",
+      "count": 25
+    },
+    {
+      "word": "thitima",
+      "count": 25
+    },
+    {
+      "word": "atomu",
+      "count": 25
+    },
+    {
+      "word": "njokereri",
+      "count": 25
+    },
+    {
+      "word": "to",
+      "count": 24
+    },
+    {
+      "word": "makĩria",
+      "count": 24
+    },
+    {
+      "word": "wira",
+      "count": 24
+    },
+    {
+      "word": "kũrĩ",
+      "count": 23
+    },
+    {
+      "word": "maingĩ",
+      "count": 23
+    },
+    {
+      "word": "thiinĩ",
+      "count": 23
+    },
+    {
+      "word": "south",
+      "count": 23
+    },
+    {
+      "word": "guthondeka",
+      "count": 23
+    },
+    {
+      "word": "www",
+      "count": 23
+    },
+    {
+      "word": "nĩyo",
+      "count": 23
+    },
+    {
+      "word": "maritwa",
+      "count": 23
+    },
+    {
+      "word": "angĩ",
+      "count": 22
+    },
+    {
+      "word": "hamwe",
+      "count": 22
+    },
+    {
+      "word": "ng",
+      "count": 22
+    },
+    {
+      "word": "wiki",
+      "count": 22
+    },
+    {
+      "word": "mĩthemba",
+      "count": 22
+    },
+    {
+      "word": "nduire",
+      "count": 22
+    },
+    {
+      "word": "mexico",
+      "count": 22
+    },
+    {
+      "word": "poland",
+      "count": 22
+    },
+    {
+      "word": "maĩ",
+      "count": 21
+    },
+    {
+      "word": "twa",
+      "count": 21
+    },
+    {
+      "word": "wĩra",
+      "count": 21
+    },
+    {
+      "word": "links",
+      "count": 21
+    },
+    {
+      "word": "ugi",
+      "count": 21
+    },
+    {
+      "word": "namba",
+      "count": 21
+    },
+    {
+      "word": "sup",
+      "count": 21
+    },
+    {
+      "word": "gikuyu",
+      "count": 20
+    },
+    {
+      "word": "agĩkũyũ",
+      "count": 20
+    },
+    {
+      "word": "terebiceni",
+      "count": 20
+    },
+    {
+      "word": "kĩrĩa",
+      "count": 20
+    },
+    {
+      "word": "nginya",
+      "count": 20
+    },
+    {
+      "word": "riua",
+      "count": 20
+    },
+    {
+      "word": "iwanda",
+      "count": 20
+    },
+    {
+      "word": "thiini",
+      "count": 20
+    },
+    {
+      "word": "arĩa",
+      "count": 19
+    },
+    {
+      "word": "thirikari",
+      "count": 19
+    },
+    {
+      "word": "tondũ",
+      "count": 19
+    },
+    {
+      "word": "nyamũ",
+      "count": 19
+    },
+    {
+      "word": "ruthiomi",
+      "count": 19
+    },
+    {
+      "word": "ĩrĩ",
+      "count": 19
+    },
+    {
+      "word": "hinya",
+      "count": 19
+    },
+    {
+      "word": "ũndũ",
+      "count": 18
+    },
+    {
+      "word": "gĩkũyũ",
+      "count": 18
+    },
+    {
+      "word": "ngumo",
+      "count": 18
+    },
+    {
+      "word": "ciothe",
+      "count": 18
+    },
+    {
+      "word": "kahinda",
+      "count": 18
+    },
+    {
+      "word": "tene",
+      "count": 18
+    },
+    {
+      "word": "constituency",
+      "count": 18
+    },
+    {
+      "word": "ino",
+      "count": 18
+    },
+    {
+      "word": "ki",
+      "count": 18
+    },
+    {
+      "word": "ĩĩ",
+      "count": 18
+    },
+    {
+      "word": "matemo",
+      "count": 17
+    },
+    {
+      "word": "icio",
+      "count": 17
+    },
+    {
+      "word": "műno",
+      "count": 17
+    },
+    {
+      "word": "munene",
+      "count": 17
+    },
+    {
+      "word": "https",
+      "count": 17
+    },
+    {
+      "word": "muciĩ",
+      "count": 17
+    },
+    {
+      "word": "ucuumi",
+      "count": 17
+    },
+    {
+      "word": "irio",
+      "count": 16
+    },
+    {
+      "word": "ingi",
+      "count": 16
+    },
+    {
+      "word": "mweri",
+      "count": 16
+    },
+    {
+      "word": "ũmwe",
+      "count": 16
+    },
+    {
+      "word": "wake",
+      "count": 16
+    },
+    {
+      "word": "njeru",
+      "count": 16
+    },
+    {
+      "word": "ina",
+      "count": 16
+    },
+    {
+      "word": "cĩa",
+      "count": 16
+    },
+    {
+      "word": "gia",
+      "count": 16
+    },
+    {
+      "word": "mita",
+      "count": 16
+    },
+    {
+      "word": "san",
+      "count": 16
+    },
+    {
+      "word": "ũcuumi",
+      "count": 16
+    },
+    {
+      "word": "university",
+      "count": 16
+    },
+    {
+      "word": "itumagirwo",
+      "count": 16
+    },
+    {
+      "word": "githungu",
+      "count": 16
+    },
+    {
+      "word": "rora",
+      "count": 16
+    },
+    {
+      "word": "bűrűri",
+      "count": 16
+    },
+    {
+      "word": "obici",
+      "count": 16
+    },
+    {
+      "word": "robot",
+      "count": 16
+    },
+    {
+      "word": "for",
+      "count": 15
+    },
+    {
+      "word": "mĩaka",
+      "count": 15
+    },
+    {
+      "word": "ano",
+      "count": 15
+    },
+    {
+      "word": "ka",
+      "count": 15
+    },
+    {
+      "word": "itherero",
+      "count": 15
+    },
+    {
+      "word": "ndwari",
+      "count": 15
+    },
+    {
+      "word": "mĩtugo",
+      "count": 15
+    },
+    {
+      "word": "com",
+      "count": 15
+    },
+    {
+      "word": "thiteceni",
+      "count": 15
+    },
+    {
+      "word": "aria",
+      "count": 15
+    },
+    {
+      "word": "marĩa",
+      "count": 15
+    },
+    {
+      "word": "ũtuĩria",
+      "count": 15
+    },
+    {
+      "word": "biacara",
+      "count": 15
+    },
+    {
+      "word": "borandi",
+      "count": 15
+    },
+    {
+      "word": "erektroni",
+      "count": 15
+    },
+    {
+      "word": "vietnam",
+      "count": 15
+    },
+    {
+      "word": "microsoft",
+      "count": 15
+    },
+    {
+      "word": "patent",
+      "count": 15
+    },
+    {
+      "word": "de",
+      "count": 15
+    },
+    {
+      "word": "huko",
+      "count": 15
+    },
+    {
+      "word": "website",
+      "count": 14
+    },
+    {
+      "word": "kĩrĩma",
+      "count": 14
+    },
+    {
+      "word": "rĩrĩa",
+      "count": 14
+    },
+    {
+      "word": "bũrũri-inĩ",
+      "count": 14
+    },
+    {
+      "word": "nyĩmbo",
+      "count": 14
+    },
+    {
+      "word": "ngerekano",
+      "count": 14
+    },
+    {
+      "word": "mahinya",
+      "count": 14
+    },
+    {
+      "word": "mũthemba",
+      "count": 14
+    },
+    {
+      "word": "maingi",
+      "count": 14
+    },
+    {
+      "word": "maundu",
+      "count": 14
+    },
+    {
+      "word": "maya",
+      "count": 14
+    },
+    {
+      "word": "muthemba",
+      "count": 14
+    },
+    {
+      "word": "watho",
+      "count": 14
+    },
+    {
+      "word": "data",
+      "count": 14
+    },
+    {
+      "word": "sigino",
+      "count": 14
+    },
+    {
+      "word": "digito",
+      "count": 14
+    },
+    {
+      "word": "ritwa",
+      "count": 14
+    },
+    {
+      "word": "gűthondeka",
+      "count": 14
+    },
+    {
+      "word": "doh",
+      "count": 14
+    },
+    {
+      "word": "yuh",
+      "count": 14
+    },
+    {
+      "word": "mbuti",
+      "count": 14
+    },
+    {
+      "word": "hĩndĩ",
+      "count": 13
+    },
+    {
+      "word": "kauntĩ",
+      "count": 13
+    },
+    {
+      "word": "mĩrongo",
+      "count": 13
+    },
+    {
+      "word": "ti",
+      "count": 13
+    },
+    {
+      "word": "tanzania",
+      "count": 13
+    },
+    {
+      "word": "mangĩ",
+      "count": 13
+    },
+    {
+      "word": "gĩthũngũ",
+      "count": 13
+    },
+    {
+      "word": "atĩ",
+      "count": 13
+    },
+    {
+      "word": "rekondi",
+      "count": 13
+    },
+    {
+      "word": "itari",
+      "count": 13
+    },
+    {
+      "word": "source",
+      "count": 13
+    },
+    {
+      "word": "tekinorojĩ",
+      "count": 13
+    },
+    {
+      "word": "nĩgetha",
+      "count": 13
+    },
+    {
+      "word": "ũthuthuria",
+      "count": 13
+    },
+    {
+      "word": "kwi",
+      "count": 13
+    },
+    {
+      "word": "ngorithimu",
+      "count": 13
+    },
+    {
+      "word": "itagwo",
+      "count": 13
+    },
+    {
+      "word": "korea",
+      "count": 13
+    },
+    {
+      "word": "njaranda",
+      "count": 13
+    },
+    {
+      "word": "erektroniki",
+      "count": 13
+    },
+    {
+      "word": "nobero",
+      "count": 13
+    },
+    {
+      "word": "cipiyu",
+      "count": 13
+    },
+    {
+      "word": "makoragwo",
+      "count": 12
+    },
+    {
+      "word": "ngeretha",
+      "count": 12
+    },
+    {
+      "word": "harĩa",
+      "count": 12
+    },
+    {
+      "word": "ati",
+      "count": 12
+    },
+    {
+      "word": "official",
+      "count": 12
+    },
+    {
+      "word": "mbica",
+      "count": 12
+    },
+    {
+      "word": "english",
+      "count": 12
+    },
+    {
+      "word": "maita",
+      "count": 12
+    },
+    {
+      "word": "brazil",
+      "count": 12
+    },
+    {
+      "word": "maguta",
+      "count": 12
+    },
+    {
+      "word": "mathabu",
+      "count": 12
+    },
+    {
+      "word": "wayo",
+      "count": 12
+    },
+    {
+      "word": "andű",
+      "count": 12
+    },
+    {
+      "word": "nyina",
+      "count": 12
+    },
+    {
+      "word": "seti",
+      "count": 12
+    },
+    {
+      "word": "igoti",
+      "count": 12
+    },
+    {
+      "word": "haria",
+      "count": 12
+    },
+    {
+      "word": "mathangũ",
+      "count": 12
+    },
+    {
+      "word": "ngima",
+      "count": 12
+    },
+    {
+      "word": "article",
+      "count": 12
+    },
+    {
+      "word": "harĩ",
+      "count": 11
+    },
+    {
+      "word": "hau",
+      "count": 11
+    },
+    {
+      "word": "kerĩ",
+      "count": 11
+    },
+    {
+      "word": "ngiri",
+      "count": 11
+    },
+    {
+      "word": "igĩrĩ",
+      "count": 11
+    },
+    {
+      "word": "iganda",
+      "count": 11
+    },
+    {
+      "word": "kameme",
+      "count": 11
+    },
+    {
+      "word": "njata",
+      "count": 11
+    },
+    {
+      "word": "wĩna",
+      "count": 11
+    },
+    {
+      "word": "gp",
+      "count": 11
+    },
+    {
+      "word": "kĩmwe",
+      "count": 11
+    },
+    {
+      "word": "kaingĩ",
+      "count": 11
+    },
+    {
+      "word": "ningĩ",
+      "count": 11
+    },
+    {
+      "word": "ihenya",
+      "count": 11
+    },
+    {
+      "word": "kenda",
+      "count": 11
+    },
+    {
+      "word": "kũma",
+      "count": 11
+    },
+    {
+      "word": "mathĩna",
+      "count": 11
+    },
+    {
+      "word": "north",
+      "count": 11
+    },
+    {
+      "word": "kuuma",
+      "count": 11
+    },
+    {
+      "word": "ĩngĩ",
+      "count": 11
+    },
+    {
+      "word": "njĩra",
+      "count": 11
+    },
+    {
+      "word": "gũkorwo",
+      "count": 11
+    },
+    {
+      "word": "kũruta",
+      "count": 11
+    },
+    {
+      "word": "nĩkuo",
+      "count": 11
+    },
+    {
+      "word": "niguo",
+      "count": 11
+    },
+    {
+      "word": "űtuĩria",
+      "count": 11
+    },
+    {
+      "word": "references",
+      "count": 11
+    },
+    {
+      "word": "bengi",
+      "count": 11
+    },
+    {
+      "word": "computer",
+      "count": 11
+    },
+    {
+      "word": "ũkoragwo",
+      "count": 11
+    },
+    {
+      "word": "gutumira",
+      "count": 11
+    },
+    {
+      "word": "urusi",
+      "count": 11
+    },
+    {
+      "word": "handiwea",
+      "count": 11
+    },
+    {
+      "word": "hithitori",
+      "count": 11
+    },
+    {
+      "word": "mĩmera",
+      "count": 11
+    },
+    {
+      "word": "kũbucia",
+      "count": 11
+    },
+    {
+      "word": "thabuni",
+      "count": 11
+    },
+    {
+      "word": "thailand",
+      "count": 11
+    },
+    {
+      "word": "műciĩ",
+      "count": 11
+    },
+    {
+      "word": "methodi",
+      "count": 11
+    },
+    {
+      "word": "ithondekaga",
+      "count": 11
+    },
+    {
+      "word": "ndege",
+      "count": 11
+    },
+    {
+      "word": "paki",
+      "count": 11
+    },
+    {
+      "word": "tajikistan",
+      "count": 11
+    },
+    {
+      "word": "gĩikaro",
+      "count": 10
+    },
+    {
+      "word": "kiugo",
+      "count": 10
+    },
+    {
+      "word": "ĩna",
+      "count": 10
+    },
+    {
+      "word": "mũgwanja",
+      "count": 10
+    },
+    {
+      "word": "cirũ",
+      "count": 10
+    },
+    {
+      "word": "mũgithi",
+      "count": 10
+    },
+    {
+      "word": "cio",
+      "count": 10
+    },
+    {
+      "word": "maitho",
+      "count": 10
+    },
+    {
+      "word": "uganda",
+      "count": 10
+    },
+    {
+      "word": "mabũrũri",
+      "count": 10
+    },
+    {
+      "word": "google",
+      "count": 10
+    },
+    {
+      "word": "digital",
+      "count": 10
+    },
+    {
+      "word": "haha",
+      "count": 10
+    },
+    {
+      "word": "matano",
+      "count": 10
+    },
+    {
+      "word": "mathako-inĩ",
+      "count": 10
+    },
+    {
+      "word": "michael",
+      "count": 10
+    },
+    {
+      "word": "teknoroji",
+      "count": 10
+    },
+    {
+      "word": "ciambĩki",
+      "count": 10
+    },
+    {
+      "word": "nyamű",
+      "count": 10
+    },
+    {
+      "word": "cero",
+      "count": 10
+    },
+    {
+      "word": "nĩgwo",
+      "count": 10
+    },
+    {
+      "word": "caji",
+      "count": 10
+    },
+    {
+      "word": "igirĩ",
+      "count": 10
+    },
+    {
+      "word": "is",
+      "count": 10
+    },
+    {
+      "word": "gĩthűgű",
+      "count": 10
+    },
+    {
+      "word": "kindu",
+      "count": 10
+    },
+    {
+      "word": "rwaragio",
+      "count": 10
+    },
+    {
+      "word": "setiraiti",
+      "count": 10
+    },
+    {
+      "word": "tombo",
+      "count": 10
+    },
+    {
+      "word": "minũrũ",
+      "count": 10
+    },
+    {
+      "word": "nyarĩ",
+      "count": 10
+    },
+    {
+      "word": "gĩkĩ",
+      "count": 9
+    },
+    {
+      "word": "nyaga",
+      "count": 9
+    },
+    {
+      "word": "ira",
+      "count": 9
+    },
+    {
+      "word": "kĩmerera",
+      "count": 9
+    },
+    {
+      "word": "ũharũkia",
+      "count": 9
+    },
+    {
+      "word": "macio",
+      "count": 9
+    },
+    {
+      "word": "bata",
+      "count": 9
+    },
+    {
+      "word": "mũhaka",
+      "count": 9
+    },
+    {
+      "word": "system",
+      "count": 9
+    },
+    {
+      "word": "ngumbaco",
+      "count": 9
+    },
+    {
+      "word": "east",
+      "count": 9
+    },
+    {
+      "word": "we",
+      "count": 9
+    },
+    {
+      "word": "niwe",
+      "count": 9
+    },
+    {
+      "word": "thi",
+      "count": 9
+    },
+    {
+      "word": "nyũmba",
+      "count": 9
+    },
+    {
+      "word": "sekondi",
+      "count": 9
+    },
+    {
+      "word": "rĩtwa",
+      "count": 9
+    },
+    {
+      "word": "knowledge",
+      "count": 9
+    },
+    {
+      "word": "gwa",
+      "count": 9
+    },
+    {
+      "word": "bayorojĩ",
+      "count": 9
+    },
+    {
+      "word": "ũguũki",
+      "count": 9
+    },
+    {
+      "word": "iguru",
+      "count": 9
+    },
+    {
+      "word": "hithitorĩ",
+      "count": 9
+    },
+    {
+      "word": "mawatho",
+      "count": 9
+    },
+    {
+      "word": "thĩini",
+      "count": 9
+    },
+    {
+      "word": "ĩtwo",
+      "count": 9
+    },
+    {
+      "word": "newton",
+      "count": 9
+    },
+    {
+      "word": "caribbean",
+      "count": 9
+    },
+    {
+      "word": "ticuma",
+      "count": 9
+    },
+    {
+      "word": "karbon",
+      "count": 9
+    },
+    {
+      "word": "wikimedia",
+      "count": 9
+    },
+    {
+      "word": "mekaniko",
+      "count": 9
+    },
+    {
+      "word": "ithondekagwo",
+      "count": 9
+    },
+    {
+      "word": "hagwete",
+      "count": 9
+    },
+    {
+      "word": "patenti",
+      "count": 9
+    },
+    {
+      "word": "ndaĩmesoni",
+      "count": 9
+    },
+    {
+      "word": "igera",
+      "count": 9
+    },
+    {
+      "word": "ibm",
+      "count": 9
+    },
+    {
+      "word": "kũmaaka",
+      "count": 9
+    },
+    {
+      "word": "mũũkano",
+      "count": 9
+    },
+    {
+      "word": "waru",
+      "count": 9
+    },
+    {
+      "word": "turkey",
+      "count": 9
+    },
+    {
+      "word": "baranja",
+      "count": 9
+    },
+    {
+      "word": "information",
+      "count": 8
+    },
+    {
+      "word": "kĩna",
+      "count": 8
+    },
+    {
+      "word": "thĩinĩ",
+      "count": 8
+    },
+    {
+      "word": "mũgĩkũyũ",
+      "count": 8
+    },
+    {
+      "word": "youtube",
+      "count": 8
+    },
+    {
+      "word": "samidoh",
+      "count": 8
+    },
+    {
+      "word": "ithatũ",
+      "count": 8
+    },
+    {
+      "word": "afrika",
+      "count": 8
+    },
+    {
+      "word": "kĩambĩrĩria",
+      "count": 8
+    },
+    {
+      "word": "ii",
+      "count": 8
+    },
+    {
+      "word": "ũteti",
+      "count": 8
+    },
+    {
+      "word": "magana",
+      "count": 8
+    },
+    {
+      "word": "gatagati",
+      "count": 8
+    },
+    {
+      "word": "ũrĩ",
+      "count": 8
+    },
+    {
+      "word": "kanitha",
+      "count": 8
+    },
+    {
+      "word": "ikundi",
+      "count": 8
+    },
+    {
+      "word": "mĩri",
+      "count": 8
+    },
+    {
+      "word": "mwakaini",
+      "count": 8
+    },
+    {
+      "word": "world",
+      "count": 8
+    },
+    {
+      "word": "uhoro",
+      "count": 8
+    },
+    {
+      "word": "mĩega",
+      "count": 8
+    },
+    {
+      "word": "kumana",
+      "count": 8
+    },
+    {
+      "word": "ihinda",
+      "count": 8
+    },
+    {
+      "word": "uyu",
+      "count": 8
+    },
+    {
+      "word": "yothe",
+      "count": 8
+    },
+    {
+      "word": "web",
+      "count": 8
+    },
+    {
+      "word": "olympics",
+      "count": 8
+    },
+    {
+      "word": "piacentino",
+      "count": 8
+    },
+    {
+      "word": "cuindeni",
+      "count": 8
+    },
+    {
+      "word": "gwĩ",
+      "count": 8
+    },
+    {
+      "word": "miena",
+      "count": 8
+    },
+    {
+      "word": "philosophy",
+      "count": 8
+    },
+    {
+      "word": "miaka",
+      "count": 8
+    },
+    {
+      "word": "ngoro",
+      "count": 8
+    },
+    {
+      "word": "mbia",
+      "count": 8
+    },
+    {
+      "word": "ndemwa",
+      "count": 8
+    },
+    {
+      "word": "műkinyaniria",
+      "count": 8
+    },
+    {
+      "word": "kugwete",
+      "count": 8
+    },
+    {
+      "word": "ihana",
+      "count": 8
+    },
+    {
+      "word": "mangi",
+      "count": 8
+    },
+    {
+      "word": "ĩtagwo",
+      "count": 8
+    },
+    {
+      "word": "mũthingi",
+      "count": 8
+    },
+    {
+      "word": "itumbĩ",
+      "count": 8
+    },
+    {
+      "word": "you",
+      "count": 8
+    },
+    {
+      "word": "ari",
+      "count": 8
+    },
+    {
+      "word": "ga",
+      "count": 8
+    },
+    {
+      "word": "űhoro",
+      "count": 8
+    },
+    {
+      "word": "chaina",
+      "count": 8
+    },
+    {
+      "word": "guthoma",
+      "count": 8
+    },
+    {
+      "word": "mana",
+      "count": 8
+    },
+    {
+      "word": "iri",
+      "count": 8
+    },
+    {
+      "word": "nigeria",
+      "count": 8
+    },
+    {
+      "word": "gĩthungu",
+      "count": 8
+    },
+    {
+      "word": "ford",
+      "count": 8
+    },
+    {
+      "word": "edison",
+      "count": 8
+    },
+    {
+      "word": "thani",
+      "count": 8
+    },
+    {
+      "word": "meciria",
+      "count": 8
+    },
+    {
+      "word": "nī",
+      "count": 8
+    },
+    {
+      "word": "nigetha",
+      "count": 8
+    },
+    {
+      "word": "kũgwete",
+      "count": 8
+    },
+    {
+      "word": "gikundi",
+      "count": 8
+    },
+    {
+      "word": "pc",
+      "count": 8
+    },
+    {
+      "word": "umo",
+      "count": 8
+    },
+    {
+      "word": "silicon",
+      "count": 8
+    },
+    {
+      "word": "kĩbo",
+      "count": 8
+    },
+    {
+      "word": "kaunti",
+      "count": 8
+    },
+    {
+      "word": "betũrũ",
+      "count": 8
+    },
+    {
+      "word": "toyota",
+      "count": 8
+    },
+    {
+      "word": "witagwo",
+      "count": 8
+    },
+    {
+      "word": "gacui",
+      "count": 8
+    },
+    {
+      "word": "ninotekinoronjĩ",
+      "count": 8
+    },
+    {
+      "word": "karakita",
+      "count": 8
+    },
+    {
+      "word": "ngirobu",
+      "count": 8
+    },
+    {
+      "word": "mobairo",
+      "count": 8
+    },
+    {
+      "word": "he",
+      "count": 8
+    },
+    {
+      "word": "boolean",
+      "count": 8
+    },
+    {
+      "word": "ronjiki",
+      "count": 8
+    },
+    {
+      "word": "cenita",
+      "count": 8
+    },
+    {
+      "word": "socio",
+      "count": 8
+    },
+    {
+      "word": "on",
+      "count": 7
+    },
+    {
+      "word": "gĩgĩkũyũ",
+      "count": 7
+    },
+    {
+      "word": "mwega",
+      "count": 7
+    },
+    {
+      "word": "mathangu",
+      "count": 7
+    },
+    {
+      "word": "mothe",
+      "count": 7
+    },
+    {
+      "word": "other",
+      "count": 7
+    },
+    {
+      "word": "go",
+      "count": 7
+    },
+    {
+      "word": "africa",
+      "count": 7
+    },
+    {
+      "word": "kĩrĩ",
+      "count": 7
+    },
+    {
+      "word": "mwaka-inĩ",
+      "count": 7
+    },
+    {
+      "word": "kĩgooco",
+      "count": 7
+    },
+    {
+      "word": "inya",
+      "count": 7
+    },
+    {
+      "word": "ho",
+      "count": 7
+    },
+    {
+      "word": "ngũrani",
+      "count": 7
+    },
+    {
+      "word": "mwanya",
+      "count": 7
+    },
+    {
+      "word": "kwaga",
+      "count": 7
+    },
+    {
+      "word": "mao",
+      "count": 7
+    },
+    {
+      "word": "műnene",
+      "count": 7
+    },
+    {
+      "word": "makiria",
+      "count": 7
+    },
+    {
+      "word": "mari",
+      "count": 7
+    },
+    {
+      "word": "kenyatta",
+      "count": 7
+    },
+    {
+      "word": "ũtongoria",
+      "count": 7
+    },
+    {
+      "word": "marĩ",
+      "count": 7
+    },
+    {
+      "word": "itemi",
+      "count": 7
+    },
+    {
+      "word": "ciĩna",
+      "count": 7
+    },
+    {
+      "word": "jamaica",
+      "count": 7
+    },
+    {
+      "word": "aya",
+      "count": 7
+    },
+    {
+      "word": "mombasa",
+      "count": 7
+    },
+    {
+      "word": "wothe",
+      "count": 7
+    },
+    {
+      "word": "ena",
+      "count": 7
+    },
+    {
+      "word": "mũtũrĩre",
+      "count": 7
+    },
+    {
+      "word": "njega",
+      "count": 7
+    },
+    {
+      "word": "ci",
+      "count": 7
+    },
+    {
+      "word": "ibuku",
+      "count": 7
+    },
+    {
+      "word": "bolt",
+      "count": 7
+    },
+    {
+      "word": "new",
+      "count": 7
+    },
+    {
+      "word": "vol",
+      "count": 7
+    },
+    {
+      "word": "from",
+      "count": 7
+    },
+    {
+      "word": "th",
+      "count": 7
+    },
+    {
+      "word": "rwanda",
+      "count": 7
+    },
+    {
+      "word": "en",
+      "count": 7
+    },
+    {
+      "word": "űgĩ",
+      "count": 7
+    },
+    {
+      "word": "ĩri",
+      "count": 7
+    },
+    {
+      "word": "chile",
+      "count": 7
+    },
+    {
+      "word": "mũtaratara",
+      "count": 7
+    },
+    {
+      "word": "databasi",
+      "count": 7
+    },
+    {
+      "word": "rĩmwe",
+      "count": 7
+    },
+    {
+      "word": "republic",
+      "count": 7
+    },
+    {
+      "word": "mĩthaiga",
+      "count": 7
+    },
+    {
+      "word": "kũruga",
+      "count": 7
+    },
+    {
+      "word": "angi",
+      "count": 7
+    },
+    {
+      "word": "australia",
+      "count": 7
+    },
+    {
+      "word": "media",
+      "count": 7
+    },
+    {
+      "word": "thondekirwo",
+      "count": 7
+    },
+    {
+      "word": "rũrenda",
+      "count": 7
+    },
+    {
+      "word": "ĩyamű",
+      "count": 7
+    },
+    {
+      "word": "html",
+      "count": 7
+    },
+    {
+      "word": "mabuku",
+      "count": 7
+    },
+    {
+      "word": "tekinoronji",
+      "count": 7
+    },
+    {
+      "word": "műndű",
+      "count": 7
+    },
+    {
+      "word": "nguo",
+      "count": 7
+    },
+    {
+      "word": "thondekire",
+      "count": 7
+    },
+    {
+      "word": "atomiki",
+      "count": 7
+    },
+    {
+      "word": "kĩayo",
+      "count": 7
+    },
+    {
+      "word": "thomas",
+      "count": 7
+    },
+    {
+      "word": "kayo",
+      "count": 7
+    },
+    {
+      "word": "kiambu",
+      "count": 7
+    },
+    {
+      "word": "tũbiri",
+      "count": 7
+    },
+    {
+      "word": "riri",
+      "count": 7
+    },
+    {
+      "word": "mĩanga",
+      "count": 7
+    },
+    {
+      "word": "maragia",
+      "count": 7
+    },
+    {
+      "word": "kũgerithimithia",
+      "count": 7
+    },
+    {
+      "word": "kwotamu",
+      "count": 7
+    },
+    {
+      "word": "mekanik",
+      "count": 7
+    },
+    {
+      "word": "rogiki",
+      "count": 7
+    },
+    {
+      "word": "mũtego",
+      "count": 7
+    },
+    {
+      "word": "atomic",
+      "count": 7
+    },
+    {
+      "word": "mĩruki",
+      "count": 7
+    },
+    {
+      "word": "ĩgoka",
+      "count": 7
+    },
+    {
+      "word": "ibango",
+      "count": 6
+    },
+    {
+      "word": "aids",
+      "count": 6
+    },
+    {
+      "word": "kwina",
+      "count": 6
+    },
+    {
+      "word": "ngavana",
+      "count": 6
+    },
+    {
+      "word": "waigũrũ",
+      "count": 6
+    },
+    {
+      "word": "atumia",
+      "count": 6
+    },
+    {
+      "word": "mt",
+      "count": 6
+    },
+    {
+      "word": "aingĩ",
+      "count": 6
+    },
+    {
+      "word": "rĩu",
+      "count": 6
+    },
+    {
+      "word": "ngũgĩ",
+      "count": 6
+    },
+    {
+      "word": "thiong'o",
+      "count": 6
+    },
+    {
+      "word": "ciugo",
+      "count": 6
+    },
+    {
+      "word": "eni",
+      "count": 6
+    },
+    {
+      "word": "mĩingĩ",
+      "count": 6
+    },
+    {
+      "word": "maũgĩ",
+      "count": 6
+    },
+    {
+      "word": "gatagatĩ",
+      "count": 6
+    },
+    {
+      "word": "mirioni",
+      "count": 6
+    },
+    {
+      "word": "guo",
+      "count": 6
+    },
+    {
+      "word": "chemical",
+      "count": 6
+    },
+    {
+      "word": "maumaga",
+      "count": 6
+    },
+    {
+      "word": "ndari",
+      "count": 6
+    },
+    {
+      "word": "somalia",
+      "count": 6
+    },
+    {
+      "word": "nĩhakanĩte",
+      "count": 6
+    },
+    {
+      "word": "valley",
+      "count": 6
+    },
+    {
+      "word": "kĩnene",
+      "count": 6
+    },
+    {
+      "word": "nini",
+      "count": 6
+    },
+    {
+      "word": "embakasi",
+      "count": 6
+    },
+    {
+      "word": "news",
+      "count": 6
+    },
+    {
+      "word": "national",
+      "count": 6
+    },
+    {
+      "word": "mūtambo",
+      "count": 6
+    },
+    {
+      "word": "war",
+      "count": 6
+    },
+    {
+      "word": "thiku",
+      "count": 6
+    },
+    {
+      "word": "kuri",
+      "count": 6
+    },
+    {
+      "word": "gukorwo",
+      "count": 6
+    },
+    {
+      "word": "mwana",
+      "count": 6
+    },
+    {
+      "word": "me",
+      "count": 6
+    },
+    {
+      "word": "thimũ",
+      "count": 6
+    },
+    {
+      "word": "nĩcio",
+      "count": 6
+    },
+    {
+      "word": "igiri",
+      "count": 6
+    },
+    {
+      "word": "beijing",
+      "count": 6
+    },
+    {
+      "word": "make",
+      "count": 6
+    },
+    {
+      "word": "mũthenya",
+      "count": 6
+    },
+    {
+      "word": "gatatũ",
+      "count": 6
+    },
+    {
+      "word": "kihumo",
+      "count": 6
+    },
+    {
+      "word": "mbembe",
+      "count": 6
+    },
+    {
+      "word": "kũrĩa",
+      "count": 6
+    },
+    {
+      "word": "pathways",
+      "count": 6
+    },
+    {
+      "word": "val",
+      "count": 6
+    },
+    {
+      "word": "kwaragio",
+      "count": 6
+    },
+    {
+      "word": "thĩinia",
+      "count": 6
+    },
+    {
+      "word": "gwatanĩro",
+      "count": 6
+    },
+    {
+      "word": "ũtonga",
+      "count": 6
+    },
+    {
+      "word": "hiti",
+      "count": 6
+    },
+    {
+      "word": "nĩrĩ",
+      "count": 6
+    },
+    {
+      "word": "ciĩ",
+      "count": 6
+    },
+    {
+      "word": "handũ",
+      "count": 6
+    },
+    {
+      "word": "ũramati",
+      "count": 6
+    },
+    {
+      "word": "engineering",
+      "count": 6
+    },
+    {
+      "word": "kahora",
+      "count": 6
+    },
+    {
+      "word": "athondekire",
+      "count": 6
+    },
+    {
+      "word": "porter",
+      "count": 6
+    },
+    {
+      "word": "triz",
+      "count": 6
+    },
+    {
+      "word": "ithano",
+      "count": 6
+    },
+    {
+      "word": "united",
+      "count": 6
+    },
+    {
+      "word": "meri",
+      "count": 6
+    },
+    {
+      "word": "gwika",
+      "count": 6
+    },
+    {
+      "word": "technology",
+      "count": 6
+    },
+    {
+      "word": "electronic",
+      "count": 6
+    },
+    {
+      "word": "programu",
+      "count": 6
+    },
+    {
+      "word": "gũtũma",
+      "count": 6
+    },
+    {
+      "word": "anarogu",
+      "count": 6
+    },
+    {
+      "word": "kwo",
+      "count": 6
+    },
+    {
+      "word": "muoyo",
+      "count": 6
+    },
+    {
+      "word": "kĩndu",
+      "count": 6
+    },
+    {
+      "word": "oo",
+      "count": 6
+    },
+    {
+      "word": "elektroni",
+      "count": 6
+    },
+    {
+      "word": "gatheti",
+      "count": 6
+    },
+    {
+      "word": "rurenda",
+      "count": 6
+    },
+    {
+      "word": "wonjoria",
+      "count": 6
+    },
+    {
+      "word": "ũrĩmi",
+      "count": 6
+    },
+    {
+      "word": "it",
+      "count": 6
+    },
+    {
+      "word": "rurendaini",
+      "count": 6
+    },
+    {
+      "word": "muhaka",
+      "count": 6
+    },
+    {
+      "word": "ndũire",
+      "count": 6
+    },
+    {
+      "word": "social",
+      "count": 6
+    },
+    {
+      "word": "yayo",
+      "count": 6
+    },
+    {
+      "word": "noberi",
+      "count": 6
+    },
+    {
+      "word": "bill",
+      "count": 6
+    },
+    {
+      "word": "gates",
+      "count": 6
+    },
+    {
+      "word": "haiti",
+      "count": 6
+    },
+    {
+      "word": "gwaka",
+      "count": 6
+    },
+    {
+      "word": "radio",
+      "count": 6
+    },
+    {
+      "word": "koinĩ",
+      "count": 6
+    },
+    {
+      "word": "guotheharĩ",
+      "count": 6
+    },
+    {
+      "word": "kuona",
+      "count": 6
+    },
+    {
+      "word": "tubiri",
+      "count": 6
+    },
+    {
+      "word": "logic",
+      "count": 6
+    },
+    {
+      "word": "mathangű",
+      "count": 6
+    },
+    {
+      "word": "ngombe",
+      "count": 6
+    },
+    {
+      "word": "njara",
+      "count": 6
+    },
+    {
+      "word": "nema",
+      "count": 6
+    },
+    {
+      "word": "machani",
+      "count": 6
+    },
+    {
+      "word": "ngwacĩ",
+      "count": 6
+    },
+    {
+      "word": "kũhanda",
+      "count": 6
+    },
+    {
+      "word": "karati",
+      "count": 6
+    },
+    {
+      "word": "cocoa",
+      "count": 6
+    },
+    {
+      "word": "ebola",
+      "count": 6
+    },
+    {
+      "word": "komputiini",
+      "count": 6
+    },
+    {
+      "word": "kĩohari",
+      "count": 6
+    },
+    {
+      "word": "belize",
+      "count": 6
+    },
+    {
+      "word": "qo",
+      "count": 6
+    },
+    {
+      "word": "rg",
+      "count": 6
+    },
+    {
+      "word": "ndundu",
+      "count": 6
+    },
+    {
+      "word": "ndereti",
+      "count": 5
+    },
+    {
+      "word": "gĩthaka",
+      "count": 5
+    },
+    {
+      "word": "wikipedias",
+      "count": 5
+    },
+    {
+      "word": "mai",
+      "count": 5
+    },
+    {
+      "word": "gĩthwaĩri",
+      "count": 5
+    },
+    {
+      "word": "aikaraga",
+      "count": 5
+    },
+    {
+      "word": "embu",
+      "count": 5
+    },
+    {
+      "word": "erĩ",
+      "count": 5
+    },
+    {
+      "word": "inooro",
+      "count": 5
+    },
+    {
+      "word": "aini",
+      "count": 5
+    },
+    {
+      "word": "nyĩimbo",
+      "count": 5
+    },
+    {
+      "word": "mũigana",
+      "count": 5
+    },
+    {
+      "word": "gĩcunjĩ",
+      "count": 5
+    },
+    {
+      "word": "gũtirĩ",
+      "count": 5
+    },
+    {
+      "word": "mwene",
+      "count": 5
+    },
+    {
+      "word": "athamaki",
+      "count": 5
+    },
+    {
+      "word": "sũdana",
+      "count": 5
+    },
+    {
+      "word": "wĩathi",
+      "count": 5
+    },
+    {
+      "word": "jomo",
+      "count": 5
+    },
+    {
+      "word": "inyanya",
+      "count": 5
+    },
+    {
+      "word": "kĩama",
+      "count": 5
+    },
+    {
+      "word": "thĩĩ",
+      "count": 5
+    },
+    {
+      "word": "njogu",
+      "count": 5
+    },
+    {
+      "word": "nditi",
+      "count": 5
+    },
+    {
+      "word": "mĩhang'o",
+      "count": 5
+    },
+    {
+      "word": "itũũra",
+      "count": 5
+    },
+    {
+      "word": "arĩmi",
+      "count": 5
+    },
+    {
+      "word": "nacio",
+      "count": 5
+    },
+    {
+      "word": "mucii",
+      "count": 5
+    },
+    {
+      "word": "ũthamaki",
+      "count": 5
+    },
+    {
+      "word": "all",
+      "count": 5
+    },
+    {
+      "word": "ūrīa",
+      "count": 5
+    },
+    {
+      "word": "mūno",
+      "count": 5
+    },
+    {
+      "word": "states",
+      "count": 5
+    },
+    {
+      "word": "niundu",
+      "count": 5
+    },
+    {
+      "word": "riu",
+      "count": 5
+    },
+    {
+      "word": "kĩũmbe",
+      "count": 5
+    },
+    {
+      "word": "undu",
+      "count": 5
+    },
+    {
+      "word": "kĩrĩra",
+      "count": 5
+    },
+    {
+      "word": "hingo",
+      "count": 5
+    },
+    {
+      "word": "mamwe",
+      "count": 5
+    },
+    {
+      "word": "mahinda",
+      "count": 5
+    },
+    {
+      "word": "disney",
+      "count": 5
+    },
+    {
+      "word": "gaka",
+      "count": 5
+    },
+    {
+      "word": "ithondeketwo",
+      "count": 5
+    },
+    {
+      "word": "njerũ",
+      "count": 5
+    },
+    {
+      "word": "ũcio",
+      "count": 5
+    },
+    {
+      "word": "rũrĩa",
+      "count": 5
+    },
+    {
+      "word": "nowe",
+      "count": 5
+    },
+    {
+      "word": "kahua",
+      "count": 5
+    },
+    {
+      "word": "archive",
+      "count": 5
+    },
+    {
+      "word": "cukuru",
+      "count": 5
+    },
+    {
+      "word": "muteng'eri",
+      "count": 5
+    },
+    {
+      "word": "mahenya",
+      "count": 5
+    },
+    {
+      "word": "championships",
+      "count": 5
+    },
+    {
+      "word": "rĩngĩ",
+      "count": 5
+    },
+    {
+      "word": "yake",
+      "count": 5
+    },
+    {
+      "word": "john",
+      "count": 5
+    },
+    {
+      "word": "come",
+      "count": 5
+    },
+    {
+      "word": "worship",
+      "count": 5
+    },
+    {
+      "word": "mikoa",
+      "count": 5
+    },
+    {
+      "word": "ũnene",
+      "count": 5
+    },
+    {
+      "word": "drc",
+      "count": 5
+    },
+    {
+      "word": "memba",
+      "count": 5
+    },
+    {
+      "word": "ucumi",
+      "count": 5
+    },
+    {
+      "word": "madini",
+      "count": 5
+    },
+    {
+      "word": "esperanto",
+      "count": 5
+    },
+    {
+      "word": "kũgeria",
+      "count": 5
+    },
+    {
+      "word": "with",
+      "count": 5
+    },
+    {
+      "word": "ĩtumagirwo",
+      "count": 5
+    },
+    {
+      "word": "ĩrutaga",
+      "count": 5
+    },
+    {
+      "word": "ũthondeki",
+      "count": 5
+    },
+    {
+      "word": "ithatu",
+      "count": 5
+    },
+    {
+      "word": "moĩ",
+      "count": 5
+    },
+    {
+      "word": "mwerekere",
+      "count": 5
+    },
+    {
+      "word": "president",
+      "count": 5
+    },
+    {
+      "word": "america",
+      "count": 5
+    },
+    {
+      "word": "software",
+      "count": 5
+    },
+    {
+      "word": "ciumo",
+      "count": 5
+    },
+    {
+      "word": "stagi",
+      "count": 5
+    },
+    {
+      "word": "bayo-egekia",
+      "count": 5
+    },
+    {
+      "word": "kurigana",
+      "count": 5
+    },
+    {
+      "word": "marĩtwa",
+      "count": 5
+    },
+    {
+      "word": "ũri",
+      "count": 5
+    },
+    {
+      "word": "ũthomi",
+      "count": 5
+    },
+    {
+      "word": "chemistry",
+      "count": 5
+    },
+    {
+      "word": "githweri",
+      "count": 5
+    },
+    {
+      "word": "netwon",
+      "count": 5
+    },
+    {
+      "word": "mũtĩ",
+      "count": 5
+    },
+    {
+      "word": "gũtwĩka",
+      "count": 5
+    },
+    {
+      "word": "handu",
+      "count": 5
+    },
+    {
+      "word": "guthia",
+      "count": 5
+    },
+    {
+      "word": "portugese",
+      "count": 5
+    },
+    {
+      "word": "ghana",
+      "count": 5
+    },
+    {
+      "word": "mauuge",
+      "count": 5
+    },
+    {
+      "word": "trouble",
+      "count": 5
+    },
+    {
+      "word": "hatirĩ",
+      "count": 5
+    },
+    {
+      "word": "gũkĩra",
+      "count": 5
+    },
+    {
+      "word": "but",
+      "count": 5
+    },
+    {
+      "word": "mwisho",
+      "count": 5
+    },
+    {
+      "word": "mathĩ",
+      "count": 5
+    },
+    {
+      "word": "mbogo",
+      "count": 5
+    },
+    {
+      "word": "swot",
+      "count": 5
+    },
+    {
+      "word": "tűnini",
+      "count": 5
+    },
+    {
+      "word": "mamo",
+      "count": 5
+    },
+    {
+      "word": "taxonomy",
+      "count": 5
+    },
+    {
+      "word": "draft",
+      "count": 5
+    },
+    {
+      "word": "kiabirika",
+      "count": 5
+    },
+    {
+      "word": "carbon",
+      "count": 5
+    },
+    {
+      "word": "igana",
+      "count": 5
+    },
+    {
+      "word": "urimi",
+      "count": 5
+    },
+    {
+      "word": "physics",
+      "count": 5
+    },
+    {
+      "word": "gĩkaro",
+      "count": 5
+    },
+    {
+      "word": "kirdi",
+      "count": 5
+    },
+    {
+      "word": "liberia",
+      "count": 5
+    },
+    {
+      "word": "nicio",
+      "count": 5
+    },
+    {
+      "word": "rogers",
+      "count": 5
+    },
+    {
+      "word": "űthugundi",
+      "count": 5
+    },
+    {
+      "word": "jabaani",
+      "count": 5
+    },
+    {
+      "word": "panama",
+      "count": 5
+    },
+    {
+      "word": "itumagira",
+      "count": 5
+    },
+    {
+      "word": "iundu",
+      "count": 5
+    },
+    {
+      "word": "nyene",
+      "count": 5
+    },
+    {
+      "word": "kiohari",
+      "count": 5
+    },
+    {
+      "word": "kũhunja",
+      "count": 5
+    },
+    {
+      "word": "miangĩ",
+      "count": 5
+    },
+    {
+      "word": "kũrũ",
+      "count": 5
+    },
+    {
+      "word": "injini",
+      "count": 5
+    },
+    {
+      "word": "mbuguiro",
+      "count": 5
+    },
+    {
+      "word": "protoni",
+      "count": 5
+    },
+    {
+      "word": "thĩna",
+      "count": 5
+    },
+    {
+      "word": "nyoni",
+      "count": 5
+    },
+    {
+      "word": "cigino",
+      "count": 5
+    },
+    {
+      "word": "njĩrĩmani",
+      "count": 5
+    },
+    {
+      "word": "ngeremani",
+      "count": 5
+    },
+    {
+      "word": "kĩrimũ",
+      "count": 5
+    },
+    {
+      "word": "ibandĩ",
+      "count": 5
+    },
+    {
+      "word": "raini",
+      "count": 5
+    },
+    {
+      "word": "netherlands",
+      "count": 5
+    },
+    {
+      "word": "kĩndũ",
+      "count": 5
+    },
+    {
+      "word": "rfid",
+      "count": 5
+    },
+    {
+      "word": "kaingi",
+      "count": 5
+    },
+    {
+      "word": "ndũma",
+      "count": 5
+    },
+    {
+      "word": "nyamungumi",
+      "count": 5
+    },
+    {
+      "word": "studio",
+      "count": 5
+    },
+    {
+      "word": "vairasi",
+      "count": 5
+    },
+    {
+      "word": "kabiri",
+      "count": 5
+    },
+    {
+      "word": "iron",
+      "count": 5
+    },
+    {
+      "word": "ĩhothaga",
+      "count": 5
+    },
+    {
+      "word": "gutwika",
+      "count": 5
+    },
+    {
+      "word": "cation",
+      "count": 5
+    },
+    {
+      "word": "positive",
+      "count": 5
+    },
+    {
+      "word": "pakistan",
+      "count": 5
+    },
+    {
+      "word": "taũni",
+      "count": 5
+    },
+    {
+      "word": "łobez",
+      "count": 5
+    },
+    {
+      "word": "colombia",
+      "count": 5
+    },
+    {
+      "word": "mbocinia",
+      "count": 5
+    },
+    {
+      "word": "hecengobina",
+      "count": 5
+    },
+    {
+      "word": "aikari",
+      "count": 5
+    },
+    {
+      "word": "sammy",
+      "count": 5
+    },
+    {
+      "word": "mũtĩrũkia",
+      "count": 5
+    },
+    {
+      "word": "language",
+      "count": 4
+    },
+    {
+      "word": "page",
+      "count": 4
+    },
+    {
+      "word": "main",
+      "count": 4
+    },
+    {
+      "word": "kongo",
+      "count": 4
+    },
+    {
+      "word": "malagasy",
+      "count": 4
+    },
+    {
+      "word": "ĩthondeketwo",
+      "count": 4
+    },
+    {
+      "word": "politics",
+      "count": 4
+    },
+    {
+      "word": "nyaganyaga",
+      "count": 4
+    },
+    {
+      "word": "kĩu",
+      "count": 4
+    },
+    {
+      "word": "kĩrĩma-inĩ",
+      "count": 4
+    },
+    {
+      "word": "oro",
+      "count": 4
+    },
+    {
+      "word": "mangavana",
+      "count": 4
+    },
+    {
+      "word": "ndathi",
+      "count": 4
+    },
+    {
+      "word": "ann",
+      "count": 4
+    },
+    {
+      "word": "ikũmi",
+      "count": 4
+    },
+    {
+      "word": "kĩhumo",
+      "count": 4
+    },
+    {
+      "word": "rũrũ",
+      "count": 4
+    },
+    {
+      "word": "rũrĩrĩ",
+      "count": 4
+    },
+    {
+      "word": "ceceni",
+      "count": 4
+    },
+    {
+      "word": "miro",
+      "count": 4
+    },
+    {
+      "word": "ũkinyanĩria",
+      "count": 4
+    },
+    {
+      "word": "itara",
+      "count": 4
+    },
+    {
+      "word": "facebook",
+      "count": 4
+    },
+    {
+      "word": "tũmeme",
+      "count": 4
+    },
+    {
+      "word": "mũini",
+      "count": 4
+    },
+    {
+      "word": "ang'etia",
+      "count": 4
+    },
+    {
+      "word": "gatutura",
+      "count": 4
+    },
+    {
+      "word": "salim",
+      "count": 4
+    },
+    {
+      "word": "young",
+      "count": 4
+    },
+    {
+      "word": "kuuga",
+      "count": 4
+    },
+    {
+      "word": "ũkristiano",
+      "count": 4
+    },
+    {
+      "word": "ciaragio",
+      "count": 4
+    },
+    {
+      "word": "milioni",
+      "count": 4
+    },
+    {
+      "word": "iteanĩirio",
+      "count": 4
+    },
+    {
+      "word": "ageni",
+      "count": 4
+    },
+    {
+      "word": "mũtũũrĩre",
+      "count": 4
+    },
+    {
+      "word": "ũhũthĩri",
+      "count": 4
+    },
+    {
+      "word": "gũkoretwo",
+      "count": 4
+    },
+    {
+      "word": "ũkũria",
+      "count": 4
+    },
+    {
+      "word": "mũingĩ",
+      "count": 4
+    },
+    {
+      "word": "mwerũ",
+      "count": 4
+    },
+    {
+      "word": "gĩthomo",
+      "count": 4
+    },
+    {
+      "word": "gũkũria",
+      "count": 4
+    },
+    {
+      "word": "kikuyu",
+      "count": 4
+    },
+    {
+      "word": "internet",
+      "count": 4
+    },
+    {
+      "word": "maaĩ",
+      "count": 4
+    },
+    {
+      "word": "thama",
+      "count": 4
+    },
+    {
+      "word": "samueli",
+      "count": 4
+    },
+    {
+      "word": "matukũ",
+      "count": 4
+    },
+    {
+      "word": "johana",
+      "count": 4
+    },
+    {
+      "word": "rĩrĩ",
+      "count": 4
+    },
+    {
+      "word": "ngirĩ",
+      "count": 4
+    },
+    {
+      "word": "britain",
+      "count": 4
+    },
+    {
+      "word": "icigo",
+      "count": 4
+    },
+    {
+      "word": "gĩthweri",
+      "count": 4
+    },
+    {
+      "word": "rĩera",
+      "count": 4
+    },
+    {
+      "word": "mbura",
+      "count": 4
+    },
+    {
+      "word": "matarĩ",
+      "count": 4
+    },
+    {
+      "word": "ũndũire",
+      "count": 4
+    },
+    {
+      "word": "yao",
+      "count": 4
+    },
+    {
+      "word": "mathiko",
+      "count": 4
+    },
+    {
+      "word": "ngurani",
+      "count": 4
+    },
+    {
+      "word": "bara",
+      "count": 4
+    },
+    {
+      "word": "magũrũ",
+      "count": 4
+    },
+    {
+      "word": "wetagwo",
+      "count": 4
+    },
+    {
+      "word": "town",
+      "count": 4
+    },
+    {
+      "word": "rũĩ",
+      "count": 4
+    },
+    {
+      "word": "ft",
+      "count": 4
+    },
+    {
+      "word": "mathare",
+      "count": 4
+    },
+    {
+      "word": "īno",
+      "count": 4
+    },
+    {
+      "word": "mīaka-inī",
+      "count": 4
+    },
+    {
+      "word": "kūrī",
+      "count": 4
+    },
+    {
+      "word": "nikuri",
+      "count": 4
+    },
+    {
+      "word": "dvd",
+      "count": 4
+    },
+    {
+      "word": "mathako",
+      "count": 4
+    },
+    {
+      "word": "sport",
+      "count": 4
+    },
+    {
+      "word": "ktn",
+      "count": 4
+    },
+    {
+      "word": "kwandika",
+      "count": 4
+    },
+    {
+      "word": "gũthomithia",
+      "count": 4
+    },
+    {
+      "word": "mitugo",
+      "count": 4
+    },
+    {
+      "word": "mena",
+      "count": 4
+    },
+    {
+      "word": "kinya",
+      "count": 4
+    },
+    {
+      "word": "nao",
+      "count": 4
+    },
+    {
+      "word": "kũhota",
+      "count": 4
+    },
+    {
+      "word": "marika",
+      "count": 4
+    },
+    {
+      "word": "gakoragwo",
+      "count": 4
+    },
+    {
+      "word": "hindi",
+      "count": 4
+    },
+    {
+      "word": "ikumi",
+      "count": 4
+    },
+    {
+      "word": "jesũ",
+      "count": 4
+    },
+    {
+      "word": "ota",
+      "count": 4
+    },
+    {
+      "word": "roho",
+      "count": 4
+    },
+    {
+      "word": "nake",
+      "count": 4
+    },
+    {
+      "word": "mûndû",
+      "count": 4
+    },
+    {
+      "word": "mwĩrĩ",
+      "count": 4
+    },
+    {
+      "word": "mũmbi",
+      "count": 4
+    },
+    {
+      "word": "by",
+      "count": 4
+    },
+    {
+      "word": "uetersen",
+      "count": 4
+    },
+    {
+      "word": "wandĩki",
+      "count": 4
+    },
+    {
+      "word": "thakame",
+      "count": 4
+    },
+    {
+      "word": "not",
+      "count": 4
+    },
+    {
+      "word": "relay",
+      "count": 4
+    },
+    {
+      "word": "urĩa",
+      "count": 4
+    },
+    {
+      "word": "njorua",
+      "count": 4
+    },
+    {
+      "word": "kuonania",
+      "count": 4
+    },
+    {
+      "word": "rita",
+      "count": 4
+    },
+    {
+      "word": "talbot",
+      "count": 4
+    },
+    {
+      "word": "quiet",
+      "count": 4
+    },
+    {
+      "word": "god",
+      "count": 4
+    },
+    {
+      "word": "heart",
+      "count": 4
+    },
+    {
+      "word": "wisdom",
+      "count": 4
+    },
+    {
+      "word": "tidone",
+      "count": 4
+    },
+    {
+      "word": "d'arda",
+      "count": 4
+    },
+    {
+      "word": "copper",
+      "count": 4
+    },
+    {
+      "word": "űmwe",
+      "count": 4
+    },
+    {
+      "word": "űndű",
+      "count": 4
+    },
+    {
+      "word": "kumenya",
+      "count": 4
+    },
+    {
+      "word": "kwonania",
+      "count": 4
+    },
+    {
+      "word": "kithayathi",
+      "count": 4
+    },
+    {
+      "word": "management",
+      "count": 4
+    },
+    {
+      "word": "teknoloji",
+      "count": 4
+    },
+    {
+      "word": "heni",
+      "count": 4
+    },
+    {
+      "word": "macindano",
+      "count": 4
+    },
+    {
+      "word": "ĩtũmagirwo",
+      "count": 4
+    },
+    {
+      "word": "mobailo",
+      "count": 4
+    },
+    {
+      "word": "paradigm",
+      "count": 4
+    },
+    {
+      "word": "nja",
+      "count": 4
+    },
+    {
+      "word": "ĩtũmagĩrwo",
+      "count": 4
+    },
+    {
+      "word": "kũria",
+      "count": 4
+    },
+    {
+      "word": "ciũria",
+      "count": 4
+    },
+    {
+      "word": "inovacioni",
+      "count": 4
+    },
+    {
+      "word": "kuria",
+      "count": 4
+    },
+    {
+      "word": "nakuru",
+      "count": 4
+    },
+    {
+      "word": "ũtataũkanite",
+      "count": 4
+    },
+    {
+      "word": "mutaũkanu",
+      "count": 4
+    },
+    {
+      "word": "ũtwike",
+      "count": 4
+    },
+    {
+      "word": "manene",
+      "count": 4
+    },
+    {
+      "word": "thayathi_na_teknoloji",
+      "count": 4
+    },
+    {
+      "word": "science",
+      "count": 4
+    },
+    {
+      "word": "ūhoro",
+      "count": 4
+    },
+    {
+      "word": "yari",
+      "count": 4
+    },
+    {
+      "word": "electronics",
+      "count": 4
+    },
+    {
+      "word": "űtara",
+      "count": 4
+    },
+    {
+      "word": "cĩ",
+      "count": 4
+    },
+    {
+      "word": "magomano",
+      "count": 4
+    },
+    {
+      "word": "ruria",
+      "count": 4
+    },
+    {
+      "word": "kindũ",
+      "count": 4
+    },
+    {
+      "word": "thoma",
+      "count": 4
+    },
+    {
+      "word": "nyumba",
+      "count": 4
+    },
+    {
+      "word": "cerorũra",
+      "count": 4
+    },
+    {
+      "word": "mammal",
+      "count": 4
+    },
+    {
+      "word": "rĩerainĩ",
+      "count": 4
+    },
+    {
+      "word": "muhuro",
+      "count": 4
+    },
+    {
+      "word": "government",
+      "count": 4
+    },
+    {
+      "word": "thai",
+      "count": 4
+    },
+    {
+      "word": "tourism",
+      "count": 4
+    },
+    {
+      "word": "ciohi",
+      "count": 4
+    },
+    {
+      "word": "ionic",
+      "count": 4
+    },
+    {
+      "word": "ioni",
+      "count": 4
+    },
+    {
+      "word": "negativu",
+      "count": 4
+    },
+    {
+      "word": "kiohi",
+      "count": 4
+    },
+    {
+      "word": "sodium",
+      "count": 4
+    },
+    {
+      "word": "enia",
+      "count": 4
+    },
+    {
+      "word": "kawaida",
+      "count": 4
+    },
+    {
+      "word": "tu",
+      "count": 4
+    }
+  ]
+}

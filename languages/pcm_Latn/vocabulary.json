@@ -1,0 +1,4012 @@
+{
+  "code": "pcm",
+  "name": "Nigerian Pidgin",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (pcm.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 310279,
+  "unique_tokens": 25637,
+  "words": [
+    {
+      "word": "for",
+      "count": 12271
+    },
+    {
+      "word": "di",
+      "count": 12068
+    },
+    {
+      "word": "wey",
+      "count": 8583
+    },
+    {
+      "word": "dey",
+      "count": 7863
+    },
+    {
+      "word": "of",
+      "count": 7162
+    },
+    {
+      "word": "an",
+      "count": 6367
+    },
+    {
+      "word": "na",
+      "count": 6283
+    },
+    {
+      "word": "dem",
+      "count": 4993
+    },
+    {
+      "word": "to",
+      "count": 3030
+    },
+    {
+      "word": "in",
+      "count": 3011
+    },
+    {
+      "word": "bi",
+      "count": 2911
+    },
+    {
+      "word": "am",
+      "count": 2910
+    },
+    {
+      "word": "go",
+      "count": 2794
+    },
+    {
+      "word": "and",
+      "count": 2531
+    },
+    {
+      "word": "im",
+      "count": 2505
+    },
+    {
+      "word": "pipul",
+      "count": 2311
+    },
+    {
+      "word": "the",
+      "count": 1990
+    },
+    {
+      "word": "as",
+      "count": 1989
+    },
+    {
+      "word": "one",
+      "count": 1849
+    },
+    {
+      "word": "don",
+      "count": 1787
+    },
+    {
+      "word": "shi",
+      "count": 1781
+    },
+    {
+      "word": "naija",
+      "count": 1742
+    },
+    {
+      "word": "get",
+      "count": 1680
+    },
+    {
+      "word": "kom",
+      "count": 1546
+    },
+    {
+      "word": "no",
+      "count": 1533
+    },
+    {
+      "word": "tek",
+      "count": 1428
+    },
+    {
+      "word": "sey",
+      "count": 1428
+    },
+    {
+      "word": "bon",
+      "count": 1379
+    },
+    {
+      "word": "mek",
+      "count": 1327
+    },
+    {
+      "word": "wok",
+      "count": 1310
+    },
+    {
+      "word": "wen",
+      "count": 1287
+    },
+    {
+      "word": "du",
+      "count": 1257
+    },
+    {
+      "word": "stat",
+      "count": 1115
+    },
+    {
+      "word": "tok",
+      "count": 1113
+    },
+    {
+      "word": "fim",
+      "count": 1070
+    },
+    {
+      "word": "life",
+      "count": 1068
+    },
+    {
+      "word": "on",
+      "count": 1056
+    },
+    {
+      "word": "stet",
+      "count": 1034
+    },
+    {
+      "word": "how",
+      "count": 1011
+    },
+    {
+      "word": "from",
+      "count": 1007
+    },
+    {
+      "word": "wit",
+      "count": 998
+    },
+    {
+      "word": "skul",
+      "count": 963
+    },
+    {
+      "word": "tori",
+      "count": 949
+    },
+    {
+      "word": "wel",
+      "count": 942
+    },
+    {
+      "word": "pesin",
+      "count": 888
+    },
+    {
+      "word": "fo",
+      "count": 819
+    },
+    {
+      "word": "nem",
+      "count": 801
+    },
+    {
+      "word": "state",
+      "count": 774
+    },
+    {
+      "word": "de",
+      "count": 762
+    },
+    {
+      "word": "nigeria",
+      "count": 757
+    },
+    {
+      "word": "fom",
+      "count": 708
+    },
+    {
+      "word": "stil",
+      "count": 689
+    },
+    {
+      "word": "naijá",
+      "count": 687
+    },
+    {
+      "word": "fest",
+      "count": 677
+    },
+    {
+      "word": "win",
+      "count": 677
+    },
+    {
+      "word": "pipu",
+      "count": 668
+    },
+    {
+      "word": "do",
+      "count": 668
+    },
+    {
+      "word": "dia",
+      "count": 661
+    },
+    {
+      "word": "abaut",
+      "count": 657
+    },
+    {
+      "word": "inside",
+      "count": 630
+    },
+    {
+      "word": "afta",
+      "count": 624
+    },
+    {
+      "word": "bikos",
+      "count": 622
+    },
+    {
+      "word": "fit",
+      "count": 608
+    },
+    {
+      "word": "dat",
+      "count": 593
+    },
+    {
+      "word": "sabi",
+      "count": 589
+    },
+    {
+      "word": "dis",
+      "count": 576
+    },
+    {
+      "word": "bifor",
+      "count": 575
+    },
+    {
+      "word": "song",
+      "count": 529
+    },
+    {
+      "word": "akt",
+      "count": 528
+    },
+    {
+      "word": "university",
+      "count": 527
+    },
+    {
+      "word": "like",
+      "count": 506
+    },
+    {
+      "word": "insaid",
+      "count": 501
+    },
+    {
+      "word": "pikin",
+      "count": 480
+    },
+    {
+      "word": "plenti",
+      "count": 477
+    },
+    {
+      "word": "papa",
+      "count": 469
+    },
+    {
+      "word": "meni",
+      "count": 467
+    },
+    {
+      "word": "time",
+      "count": 463
+    },
+    {
+      "word": "kol",
+      "count": 462
+    },
+    {
+      "word": "wan",
+      "count": 453
+    },
+    {
+      "word": "year",
+      "count": 449
+    },
+    {
+      "word": "muzik",
+      "count": 429
+    },
+    {
+      "word": "tins",
+      "count": 425
+    },
+    {
+      "word": "join",
+      "count": 424
+    },
+    {
+      "word": "yunivasiti",
+      "count": 421
+    },
+    {
+      "word": "smol",
+      "count": 420
+    },
+    {
+      "word": "yuz",
+      "count": 418
+    },
+    {
+      "word": "som",
+      "count": 413
+    },
+    {
+      "word": "lagos",
+      "count": 412
+    },
+    {
+      "word": "years",
+      "count": 411
+    },
+    {
+      "word": "legos",
+      "count": 406
+    },
+    {
+      "word": "rait",
+      "count": 402
+    },
+    {
+      "word": "with",
+      "count": 400
+    },
+    {
+      "word": "mama",
+      "count": 384
+    },
+    {
+      "word": "ha",
+      "count": 382
+    },
+    {
+      "word": "two",
+      "count": 377
+    },
+    {
+      "word": "rish",
+      "count": 357
+    },
+    {
+      "word": "afrika",
+      "count": 355
+    },
+    {
+      "word": "oda",
+      "count": 354
+    },
+    {
+      "word": "kpai",
+      "count": 347
+    },
+    {
+      "word": "be",
+      "count": 343
+    },
+    {
+      "word": "school",
+      "count": 343
+    },
+    {
+      "word": "kolet",
+      "count": 339
+    },
+    {
+      "word": "enta",
+      "count": 335
+    },
+    {
+      "word": "at",
+      "count": 321
+    },
+    {
+      "word": "best",
+      "count": 320
+    },
+    {
+      "word": "all",
+      "count": 318
+    },
+    {
+      "word": "leta",
+      "count": 314
+    },
+    {
+      "word": "sing",
+      "count": 310
+    },
+    {
+      "word": "awod",
+      "count": 309
+    },
+    {
+      "word": "komot",
+      "count": 308
+    },
+    {
+      "word": "africa",
+      "count": 306
+    },
+    {
+      "word": "pley",
+      "count": 305
+    },
+    {
+      "word": "finish",
+      "count": 301
+    },
+    {
+      "word": "rilis",
+      "count": 300
+    },
+    {
+      "word": "big",
+      "count": 299
+    },
+    {
+      "word": "pipo",
+      "count": 297
+    },
+    {
+      "word": "pass",
+      "count": 296
+    },
+    {
+      "word": "kon",
+      "count": 295
+    },
+    {
+      "word": "or",
+      "count": 295
+    },
+    {
+      "word": "sho",
+      "count": 294
+    },
+    {
+      "word": "by",
+      "count": 283
+    },
+    {
+      "word": "but",
+      "count": 281
+    },
+    {
+      "word": "moni",
+      "count": 276
+    },
+    {
+      "word": "gada",
+      "count": 275
+    },
+    {
+      "word": "wie",
+      "count": 274
+    },
+    {
+      "word": "we",
+      "count": 274
+    },
+    {
+      "word": "langwej",
+      "count": 268
+    },
+    {
+      "word": "giv",
+      "count": 268
+    },
+    {
+      "word": "buk",
+      "count": 268
+    },
+    {
+      "word": "about",
+      "count": 263
+    },
+    {
+      "word": "wetin",
+      "count": 262
+    },
+    {
+      "word": "famili",
+      "count": 255
+    },
+    {
+      "word": "say",
+      "count": 254
+    },
+    {
+      "word": "may",
+      "count": 254
+    },
+    {
+      "word": "old",
+      "count": 253
+    },
+    {
+      "word": "october",
+      "count": 253
+    },
+    {
+      "word": "april",
+      "count": 251
+    },
+    {
+      "word": "rekod",
+      "count": 249
+    },
+    {
+      "word": "hau",
+      "count": 249
+    },
+    {
+      "word": "anoda",
+      "count": 246
+    },
+    {
+      "word": "kari",
+      "count": 243
+    },
+    {
+      "word": "chenj",
+      "count": 243
+    },
+    {
+      "word": "stodi",
+      "count": 237
+    },
+    {
+      "word": "november",
+      "count": 235
+    },
+    {
+      "word": "july",
+      "count": 234
+    },
+    {
+      "word": "june",
+      "count": 230
+    },
+    {
+      "word": "new",
+      "count": 229
+    },
+    {
+      "word": "oga",
+      "count": 226
+    },
+    {
+      "word": "bodi",
+      "count": 226
+    },
+    {
+      "word": "lokal",
+      "count": 224
+    },
+    {
+      "word": "august",
+      "count": 224
+    },
+    {
+      "word": "bin",
+      "count": 224
+    },
+    {
+      "word": "pat",
+      "count": 222
+    },
+    {
+      "word": "bot",
+      "count": 220
+    },
+    {
+      "word": "nigerian",
+      "count": 220
+    },
+    {
+      "word": "kontri",
+      "count": 219
+    },
+    {
+      "word": "september",
+      "count": 218
+    },
+    {
+      "word": "march",
+      "count": 218
+    },
+    {
+      "word": "january",
+      "count": 215
+    },
+    {
+      "word": "ples",
+      "count": 214
+    },
+    {
+      "word": "way",
+      "count": 212
+    },
+    {
+      "word": "government",
+      "count": 212
+    },
+    {
+      "word": "ibadan",
+      "count": 209
+    },
+    {
+      "word": "wuman",
+      "count": 209
+    },
+    {
+      "word": "awards",
+      "count": 209
+    },
+    {
+      "word": "man",
+      "count": 208
+    },
+    {
+      "word": "difren",
+      "count": 207
+    },
+    {
+      "word": "hep",
+      "count": 207
+    },
+    {
+      "word": "united",
+      "count": 204
+    },
+    {
+      "word": "folo",
+      "count": 203
+    },
+    {
+      "word": "play",
+      "count": 202
+    },
+    {
+      "word": "album",
+      "count": 201
+    },
+    {
+      "word": "yoruba",
+      "count": 200
+    },
+    {
+      "word": "area",
+      "count": 200
+    },
+    {
+      "word": "london",
+      "count": 200
+    },
+    {
+      "word": "th",
+      "count": 200
+    },
+    {
+      "word": "him",
+      "count": 200
+    },
+    {
+      "word": "december",
+      "count": 198
+    },
+    {
+      "word": "grup",
+      "count": 198
+    },
+    {
+      "word": "put",
+      "count": 198
+    },
+    {
+      "word": "rid",
+      "count": 197
+    },
+    {
+      "word": "three",
+      "count": 195
+    },
+    {
+      "word": "bikom",
+      "count": 193
+    },
+    {
+      "word": "february",
+      "count": 192
+    },
+    {
+      "word": "singa",
+      "count": 191
+    },
+    {
+      "word": "so",
+      "count": 186
+    },
+    {
+      "word": "she",
+      "count": 186
+    },
+    {
+      "word": "pas",
+      "count": 185
+    },
+    {
+      "word": "popula",
+      "count": 184
+    },
+    {
+      "word": "mari",
+      "count": 183
+    },
+    {
+      "word": "law",
+      "count": 182
+    },
+    {
+      "word": "college",
+      "count": 181
+    },
+    {
+      "word": "nomba",
+      "count": 181
+    },
+    {
+      "word": "up",
+      "count": 181
+    },
+    {
+      "word": "music",
+      "count": 180
+    },
+    {
+      "word": "wia",
+      "count": 180
+    },
+    {
+      "word": "show",
+      "count": 180
+    },
+    {
+      "word": "mata",
+      "count": 179
+    },
+    {
+      "word": "award",
+      "count": 179
+    },
+    {
+      "word": "folklore",
+      "count": 179
+    },
+    {
+      "word": "start",
+      "count": 177
+    },
+    {
+      "word": "wota",
+      "count": 176
+    },
+    {
+      "word": "house",
+      "count": 175
+    },
+    {
+      "word": "tu",
+      "count": 175
+    },
+    {
+      "word": "bak",
+      "count": 174
+    },
+    {
+      "word": "aria",
+      "count": 173
+    },
+    {
+      "word": "world",
+      "count": 173
+    },
+    {
+      "word": "give",
+      "count": 173
+    },
+    {
+      "word": "onda",
+      "count": 172
+    },
+    {
+      "word": "first",
+      "count": 171
+    },
+    {
+      "word": "local",
+      "count": 170
+    },
+    {
+      "word": "sef",
+      "count": 168
+    },
+    {
+      "word": "some",
+      "count": 167
+    },
+    {
+      "word": "national",
+      "count": 165
+    },
+    {
+      "word": "west",
+      "count": 165
+    },
+    {
+      "word": "memba",
+      "count": 165
+    },
+    {
+      "word": "also",
+      "count": 163
+    },
+    {
+      "word": "tradishonal",
+      "count": 161
+    },
+    {
+      "word": "hapun",
+      "count": 160
+    },
+    {
+      "word": "international",
+      "count": 160
+    },
+    {
+      "word": "benin",
+      "count": 160
+    },
+    {
+      "word": "see",
+      "count": 159
+    },
+    {
+      "word": "nollywood",
+      "count": 159
+    },
+    {
+      "word": "parti",
+      "count": 158
+    },
+    {
+      "word": "town",
+      "count": 158
+    },
+    {
+      "word": "if",
+      "count": 157
+    },
+    {
+      "word": "kompini",
+      "count": 155
+    },
+    {
+      "word": "million",
+      "count": 155
+    },
+    {
+      "word": "top",
+      "count": 155
+    },
+    {
+      "word": "ova",
+      "count": 154
+    },
+    {
+      "word": "science",
+      "count": 152
+    },
+    {
+      "word": "taim",
+      "count": 151
+    },
+    {
+      "word": "party",
+      "count": 151
+    },
+    {
+      "word": "delta",
+      "count": 151
+    },
+    {
+      "word": "president",
+      "count": 151
+    },
+    {
+      "word": "klub",
+      "count": 150
+    },
+    {
+      "word": "still",
+      "count": 150
+    },
+    {
+      "word": "lik",
+      "count": 149
+    },
+    {
+      "word": "city",
+      "count": 148
+    },
+    {
+      "word": "film",
+      "count": 145
+    },
+    {
+      "word": "african",
+      "count": 144
+    },
+    {
+      "word": "karia",
+      "count": 144
+    },
+    {
+      "word": "bank",
+      "count": 144
+    },
+    {
+      "word": "is",
+      "count": 144
+    },
+    {
+      "word": "he",
+      "count": 144
+    },
+    {
+      "word": "dai",
+      "count": 142
+    },
+    {
+      "word": "govament",
+      "count": 140
+    },
+    {
+      "word": "south",
+      "count": 139
+    },
+    {
+      "word": "produsa",
+      "count": 139
+    },
+    {
+      "word": "sekond",
+      "count": 139
+    },
+    {
+      "word": "fight",
+      "count": 139
+    },
+    {
+      "word": "tinubu",
+      "count": 139
+    },
+    {
+      "word": "aktres",
+      "count": 139
+    },
+    {
+      "word": "king",
+      "count": 139
+    },
+    {
+      "word": "aktor",
+      "count": 139
+    },
+    {
+      "word": "again",
+      "count": 138
+    },
+    {
+      "word": "come",
+      "count": 137
+    },
+    {
+      "word": "wold",
+      "count": 135
+    },
+    {
+      "word": "too",
+      "count": 135
+    },
+    {
+      "word": "die",
+      "count": 135
+    },
+    {
+      "word": "day",
+      "count": 134
+    },
+    {
+      "word": "laif",
+      "count": 133
+    },
+    {
+      "word": "chuz",
+      "count": 133
+    },
+    {
+      "word": "rol",
+      "count": 133
+    },
+    {
+      "word": "tin",
+      "count": 132
+    },
+    {
+      "word": "gro",
+      "count": 131
+    },
+    {
+      "word": "bizness",
+      "count": 130
+    },
+    {
+      "word": "forma",
+      "count": 129
+    },
+    {
+      "word": "eleshon",
+      "count": 129
+    },
+    {
+      "word": "make",
+      "count": 129
+    },
+    {
+      "word": "league",
+      "count": 129
+    },
+    {
+      "word": "even",
+      "count": 129
+    },
+    {
+      "word": "kolej",
+      "count": 128
+    },
+    {
+      "word": "four",
+      "count": 127
+    },
+    {
+      "word": "produs",
+      "count": 127
+    },
+    {
+      "word": "love",
+      "count": 127
+    },
+    {
+      "word": "tim",
+      "count": 127
+    },
+    {
+      "word": "you",
+      "count": 126
+    },
+    {
+      "word": "wod",
+      "count": 126
+    },
+    {
+      "word": "edo",
+      "count": 126
+    },
+    {
+      "word": "mr",
+      "count": 125
+    },
+    {
+      "word": "playa",
+      "count": 125
+    },
+    {
+      "word": "sins",
+      "count": 124
+    },
+    {
+      "word": "niu",
+      "count": 124
+    },
+    {
+      "word": "institute",
+      "count": 124
+    },
+    {
+      "word": "ogun",
+      "count": 124
+    },
+    {
+      "word": "univasiti",
+      "count": 123
+    },
+    {
+      "word": "out",
+      "count": 123
+    },
+    {
+      "word": "sopot",
+      "count": 123
+    },
+    {
+      "word": "where",
+      "count": 122
+    },
+    {
+      "word": "onli",
+      "count": 122
+    },
+    {
+      "word": "com",
+      "count": 122
+    },
+    {
+      "word": "game",
+      "count": 121
+    },
+    {
+      "word": "beta",
+      "count": 120
+    },
+    {
+      "word": "her",
+      "count": 120
+    },
+    {
+      "word": "group",
+      "count": 120
+    },
+    {
+      "word": "futbol",
+      "count": 120
+    },
+    {
+      "word": "live",
+      "count": 119
+    },
+    {
+      "word": "professor",
+      "count": 119
+    },
+    {
+      "word": "tv",
+      "count": 119
+    },
+    {
+      "word": "nashonal",
+      "count": 119
+    },
+    {
+      "word": "kingdom",
+      "count": 118
+    },
+    {
+      "word": "more",
+      "count": 118
+    },
+    {
+      "word": "aktress",
+      "count": 118
+    },
+    {
+      "word": "govamet",
+      "count": 117
+    },
+    {
+      "word": "laik",
+      "count": 116
+    },
+    {
+      "word": "kaduna",
+      "count": 116
+    },
+    {
+      "word": "broda",
+      "count": 115
+    },
+    {
+      "word": "abuja",
+      "count": 115
+    },
+    {
+      "word": "my",
+      "count": 115
+    },
+    {
+      "word": "oyo",
+      "count": 114
+    },
+    {
+      "word": "davido",
+      "count": 114
+    },
+    {
+      "word": "well",
+      "count": 114
+    },
+    {
+      "word": "digri",
+      "count": 112
+    },
+    {
+      "word": "presidor",
+      "count": 112
+    },
+    {
+      "word": "most",
+      "count": 112
+    },
+    {
+      "word": "movie",
+      "count": 112
+    },
+    {
+      "word": "village",
+      "count": 112
+    },
+    {
+      "word": "govno",
+      "count": 112
+    },
+    {
+      "word": "ibom",
+      "count": 111
+    },
+    {
+      "word": "people",
+      "count": 111
+    },
+    {
+      "word": "fela",
+      "count": 111
+    },
+    {
+      "word": "amerika",
+      "count": 110
+    },
+    {
+      "word": "north",
+      "count": 110
+    },
+    {
+      "word": "stey",
+      "count": 110
+    },
+    {
+      "word": "land",
+      "count": 110
+    },
+    {
+      "word": "work",
+      "count": 110
+    },
+    {
+      "word": "gofnor",
+      "count": 109
+    },
+    {
+      "word": "akwa",
+      "count": 109
+    },
+    {
+      "word": "hosband",
+      "count": 109
+    },
+    {
+      "word": "hausa",
+      "count": 109
+    },
+    {
+      "word": "skore",
+      "count": 109
+    },
+    {
+      "word": "match",
+      "count": 109
+    },
+    {
+      "word": "among",
+      "count": 108
+    },
+    {
+      "word": "esan",
+      "count": 107
+    },
+    {
+      "word": "five",
+      "count": 106
+    },
+    {
+      "word": "own",
+      "count": 106
+    },
+    {
+      "word": "now",
+      "count": 105
+    },
+    {
+      "word": "chief",
+      "count": 105
+    },
+    {
+      "word": "chairman",
+      "count": 105
+    },
+    {
+      "word": "wife",
+      "count": 104
+    },
+    {
+      "word": "church",
+      "count": 104
+    },
+    {
+      "word": "kolsho",
+      "count": 103
+    },
+    {
+      "word": "obi",
+      "count": 103
+    },
+    {
+      "word": "abiola",
+      "count": 102
+    },
+    {
+      "word": "academy",
+      "count": 102
+    },
+    {
+      "word": "albom",
+      "count": 102
+    },
+    {
+      "word": "take",
+      "count": 102
+    },
+    {
+      "word": "naijà",
+      "count": 101
+    },
+    {
+      "word": "raita",
+      "count": 101
+    },
+    {
+      "word": "abia",
+      "count": 100
+    },
+    {
+      "word": "st",
+      "count": 100
+    },
+    {
+      "word": "niger",
+      "count": 100
+    },
+    {
+      "word": "awods",
+      "count": 100
+    },
+    {
+      "word": "times",
+      "count": 100
+    },
+    {
+      "word": "cup",
+      "count": 98
+    },
+    {
+      "word": "arts",
+      "count": 98
+    },
+    {
+      "word": "ogbonge",
+      "count": 98
+    },
+    {
+      "word": "bello",
+      "count": 97
+    },
+    {
+      "word": "igbo",
+      "count": 97
+    },
+    {
+      "word": "inglish",
+      "count": 97
+    },
+    {
+      "word": "tel",
+      "count": 96
+    },
+    {
+      "word": "english",
+      "count": 96
+    },
+    {
+      "word": "high",
+      "count": 96
+    },
+    {
+      "word": "foh",
+      "count": 96
+    },
+    {
+      "word": "sign",
+      "count": 94
+    },
+    {
+      "word": "god",
+      "count": 94
+    },
+    {
+      "word": "pdp",
+      "count": 94
+    },
+    {
+      "word": "govnor",
+      "count": 94
+    },
+    {
+      "word": "govment",
+      "count": 93
+    },
+    {
+      "word": "war",
+      "count": 93
+    },
+    {
+      "word": "york",
+      "count": 93
+    },
+    {
+      "word": "hand",
+      "count": 93
+    },
+    {
+      "word": "plai",
+      "count": 93
+    },
+    {
+      "word": "british",
+      "count": 92
+    },
+    {
+      "word": "siti",
+      "count": 92
+    },
+    {
+      "word": "band",
+      "count": 92
+    },
+    {
+      "word": "togeda",
+      "count": 91
+    },
+    {
+      "word": "federal",
+      "count": 91
+    },
+    {
+      "word": "vidio",
+      "count": 91
+    },
+    {
+      "word": "sekondri",
+      "count": 90
+    },
+    {
+      "word": "tish",
+      "count": 90
+    },
+    {
+      "word": "goal",
+      "count": 90
+    },
+    {
+      "word": "fes",
+      "count": 90
+    },
+    {
+      "word": "sekod",
+      "count": 90
+    },
+    {
+      "word": "klimet",
+      "count": 90
+    },
+    {
+      "word": "business",
+      "count": 89
+    },
+    {
+      "word": "fifa",
+      "count": 89
+    },
+    {
+      "word": "fims",
+      "count": 88
+    },
+    {
+      "word": "musik",
+      "count": 88
+    },
+    {
+      "word": "congress",
+      "count": 87
+    },
+    {
+      "word": "waka",
+      "count": 87
+    },
+    {
+      "word": "bitwin",
+      "count": 87
+    },
+    {
+      "word": "festival",
+      "count": 86
+    },
+    {
+      "word": "politis",
+      "count": 86
+    },
+    {
+      "word": "liv",
+      "count": 86
+    },
+    {
+      "word": "songs",
+      "count": 86
+    },
+    {
+      "word": "kuti",
+      "count": 86
+    },
+    {
+      "word": "kano",
+      "count": 85
+    },
+    {
+      "word": "pawa",
+      "count": 85
+    },
+    {
+      "word": "education",
+      "count": 85
+    },
+    {
+      "word": "sel",
+      "count": 84
+    },
+    {
+      "word": "department",
+      "count": 84
+    },
+    {
+      "word": "art",
+      "count": 83
+    },
+    {
+      "word": "stop",
+      "count": 83
+    },
+    {
+      "word": "len",
+      "count": 83
+    },
+    {
+      "word": "satifiket",
+      "count": 83
+    },
+    {
+      "word": "ghana",
+      "count": 83
+    },
+    {
+      "word": "call",
+      "count": 83
+    },
+    {
+      "word": "last",
+      "count": 83
+    },
+    {
+      "word": "england",
+      "count": 82
+    },
+    {
+      "word": "association",
+      "count": 82
+    },
+    {
+      "word": "team",
+      "count": 82
+    },
+    {
+      "word": "akto",
+      "count": 82
+    },
+    {
+      "word": "their",
+      "count": 82
+    },
+    {
+      "word": "ogedegbe",
+      "count": 82
+    },
+    {
+      "word": "side",
+      "count": 81
+    },
+    {
+      "word": "born",
+      "count": 81
+    },
+    {
+      "word": "aktin",
+      "count": 81
+    },
+    {
+      "word": "development",
+      "count": 81
+    },
+    {
+      "word": "pasonal",
+      "count": 81
+    },
+    {
+      "word": "series",
+      "count": 80
+    },
+    {
+      "word": "dr",
+      "count": 80
+    },
+    {
+      "word": "si",
+      "count": 80
+    },
+    {
+      "word": "bad",
+      "count": 80
+    },
+    {
+      "word": "minista",
+      "count": 80
+    },
+    {
+      "word": "kip",
+      "count": 79
+    },
+    {
+      "word": "general",
+      "count": 79
+    },
+    {
+      "word": "spik",
+      "count": 79
+    },
+    {
+      "word": "season",
+      "count": 79
+    },
+    {
+      "word": "evri",
+      "count": 79
+    },
+    {
+      "word": "boy",
+      "count": 79
+    },
+    {
+      "word": "drama",
+      "count": 79
+    },
+    {
+      "word": "program",
+      "count": 79
+    },
+    {
+      "word": "primary",
+      "count": 78
+    },
+    {
+      "word": "society",
+      "count": 77
+    },
+    {
+      "word": "limited",
+      "count": 77
+    },
+    {
+      "word": "democratic",
+      "count": 77
+    },
+    {
+      "word": "police",
+      "count": 77
+    },
+    {
+      "word": "buhari",
+      "count": 76
+    },
+    {
+      "word": "apc",
+      "count": 76
+    },
+    {
+      "word": "pamari",
+      "count": 76
+    },
+    {
+      "word": "river",
+      "count": 76
+    },
+    {
+      "word": "gree",
+      "count": 75
+    },
+    {
+      "word": "ph",
+      "count": 75
+    },
+    {
+      "word": "part",
+      "count": 75
+    },
+    {
+      "word": "polis",
+      "count": 75
+    },
+    {
+      "word": "kot",
+      "count": 75
+    },
+    {
+      "word": "atiku",
+      "count": 75
+    },
+    {
+      "word": "peter",
+      "count": 75
+    },
+    {
+      "word": "kop",
+      "count": 75
+    },
+    {
+      "word": "jos",
+      "count": 74
+    },
+    {
+      "word": "edukeshon",
+      "count": 74
+    },
+    {
+      "word": "sem",
+      "count": 74
+    },
+    {
+      "word": "rich",
+      "count": 74
+    },
+    {
+      "word": "dareto",
+      "count": 73
+    },
+    {
+      "word": "states",
+      "count": 73
+    },
+    {
+      "word": "edukashon",
+      "count": 73
+    },
+    {
+      "word": "odas",
+      "count": 73
+    },
+    {
+      "word": "anambra",
+      "count": 73
+    },
+    {
+      "word": "george",
+      "count": 73
+    },
+    {
+      "word": "yunifasiti",
+      "count": 73
+    },
+    {
+      "word": "road",
+      "count": 72
+    },
+    {
+      "word": "engineering",
+      "count": 72
+    },
+    {
+      "word": "sekondiri",
+      "count": 72
+    },
+    {
+      "word": "luk",
+      "count": 72
+    },
+    {
+      "word": "hol",
+      "count": 72
+    },
+    {
+      "word": "vilej",
+      "count": 71
+    },
+    {
+      "word": "entertainment",
+      "count": 71
+    },
+    {
+      "word": "bifo",
+      "count": 71
+    },
+    {
+      "word": "use",
+      "count": 71
+    },
+    {
+      "word": "badagry",
+      "count": 71
+    },
+    {
+      "word": "isaiah",
+      "count": 71
+    },
+    {
+      "word": "enugu",
+      "count": 70
+    },
+    {
+      "word": "market",
+      "count": 70
+    },
+    {
+      "word": "council",
+      "count": 70
+    },
+    {
+      "word": "youth",
+      "count": 70
+    },
+    {
+      "word": "haus",
+      "count": 70
+    },
+    {
+      "word": "sahin",
+      "count": 70
+    },
+    {
+      "word": "rili",
+      "count": 69
+    },
+    {
+      "word": "after",
+      "count": 69
+    },
+    {
+      "word": "centre",
+      "count": 69
+    },
+    {
+      "word": "feature",
+      "count": 69
+    },
+    {
+      "word": "uze",
+      "count": 69
+    },
+    {
+      "word": "john",
+      "count": 68
+    },
+    {
+      "word": "post",
+      "count": 68
+    },
+    {
+      "word": "prince",
+      "count": 68
+    },
+    {
+      "word": "days",
+      "count": 68
+    },
+    {
+      "word": "bbc",
+      "count": 68
+    },
+    {
+      "word": "artist",
+      "count": 67
+    },
+    {
+      "word": "member",
+      "count": 67
+    },
+    {
+      "word": "kontrat",
+      "count": 66
+    },
+    {
+      "word": "american",
+      "count": 66
+    },
+    {
+      "word": "social",
+      "count": 66
+    },
+    {
+      "word": "osun",
+      "count": 66
+    },
+    {
+      "word": "abeokuta",
+      "count": 66
+    },
+    {
+      "word": "den",
+      "count": 66
+    },
+    {
+      "word": "mit",
+      "count": 65
+    },
+    {
+      "word": "james",
+      "count": 65
+    },
+    {
+      "word": "east",
+      "count": 65
+    },
+    {
+      "word": "small",
+      "count": 65
+    },
+    {
+      "word": "bola",
+      "count": 65
+    },
+    {
+      "word": "plan",
+      "count": 65
+    },
+    {
+      "word": "skata",
+      "count": 65
+    },
+    {
+      "word": "me",
+      "count": 65
+    },
+    {
+      "word": "model",
+      "count": 65
+    },
+    {
+      "word": "release",
+      "count": 65
+    },
+    {
+      "word": "nations",
+      "count": 64
+    },
+    {
+      "word": "france",
+      "count": 64
+    },
+    {
+      "word": "stori",
+      "count": 64
+    },
+    {
+      "word": "ikot",
+      "count": 64
+    },
+    {
+      "word": "habom",
+      "count": 64
+    },
+    {
+      "word": "wel-wel",
+      "count": 63
+    },
+    {
+      "word": "board",
+      "count": 63
+    },
+    {
+      "word": "girl",
+      "count": 63
+    },
+    {
+      "word": "america",
+      "count": 63
+    },
+    {
+      "word": "it",
+      "count": 63
+    },
+    {
+      "word": "uefa",
+      "count": 63
+    },
+    {
+      "word": "port",
+      "count": 63
+    },
+    {
+      "word": "television",
+      "count": 63
+    },
+    {
+      "word": "falkoti",
+      "count": 63
+    },
+    {
+      "word": "hafet",
+      "count": 63
+    },
+    {
+      "word": "degree",
+      "count": 62
+    },
+    {
+      "word": "into",
+      "count": 62
+    },
+    {
+      "word": "six",
+      "count": 62
+    },
+    {
+      "word": "mind",
+      "count": 62
+    },
+    {
+      "word": "stadium",
+      "count": 62
+    },
+    {
+      "word": "marej",
+      "count": 62
+    },
+    {
+      "word": "taitu",
+      "count": 62
+    },
+    {
+      "word": "hot",
+      "count": 62
+    },
+    {
+      "word": "governor",
+      "count": 61
+    },
+    {
+      "word": "histri",
+      "count": 61
+    },
+    {
+      "word": "sinior",
+      "count": 61
+    },
+    {
+      "word": "young",
+      "count": 61
+    },
+    {
+      "word": "usa",
+      "count": 61
+    },
+    {
+      "word": "french",
+      "count": 61
+    },
+    {
+      "word": "fuji",
+      "count": 60
+    },
+    {
+      "word": "his",
+      "count": 60
+    },
+    {
+      "word": "presido",
+      "count": 60
+    },
+    {
+      "word": "ife",
+      "count": 60
+    },
+    {
+      "word": "honor",
+      "count": 60
+    },
+    {
+      "word": "riva",
+      "count": 60
+    },
+    {
+      "word": "kontrol",
+      "count": 60
+    },
+    {
+      "word": "oyinbo",
+      "count": 60
+    },
+    {
+      "word": "chorch",
+      "count": 60
+    },
+    {
+      "word": "la",
+      "count": 60
+    },
+    {
+      "word": "helep",
+      "count": 60
+    },
+    {
+      "word": "kontro",
+      "count": 60
+    },
+    {
+      "word": "omo",
+      "count": 59
+    },
+    {
+      "word": "biliv",
+      "count": 59
+    },
+    {
+      "word": "wahala",
+      "count": 59
+    },
+    {
+      "word": "studies",
+      "count": 59
+    },
+    {
+      "word": "masta",
+      "count": 59
+    },
+    {
+      "word": "dans",
+      "count": 59
+    },
+    {
+      "word": "family",
+      "count": 59
+    },
+    {
+      "word": "final",
+      "count": 59
+    },
+    {
+      "word": "management",
+      "count": 58
+    },
+    {
+      "word": "end",
+      "count": 58
+    },
+    {
+      "word": "eleshion",
+      "count": 58
+    },
+    {
+      "word": "primari",
+      "count": 58
+    },
+    {
+      "word": "name",
+      "count": 58
+    },
+    {
+      "word": "foundation",
+      "count": 58
+    },
+    {
+      "word": "media",
+      "count": 58
+    },
+    {
+      "word": "black",
+      "count": 58
+    },
+    {
+      "word": "studio",
+      "count": 57
+    },
+    {
+      "word": "bring",
+      "count": 57
+    },
+    {
+      "word": "gold",
+      "count": 57
+    },
+    {
+      "word": "talk",
+      "count": 57
+    },
+    {
+      "word": "daret",
+      "count": 57
+    },
+    {
+      "word": "this",
+      "count": 57
+    },
+    {
+      "word": "poblish",
+      "count": 57
+    },
+    {
+      "word": "obasanjo",
+      "count": 57
+    },
+    {
+      "word": "pafom",
+      "count": 57
+    },
+    {
+      "word": "happun",
+      "count": 57
+    },
+    {
+      "word": "human",
+      "count": 57
+    },
+    {
+      "word": "persin",
+      "count": 57
+    },
+    {
+      "word": "pepa",
+      "count": 57
+    },
+    {
+      "word": "muvi",
+      "count": 57
+    },
+    {
+      "word": "pikin-dem",
+      "count": 56
+    },
+    {
+      "word": "oba",
+      "count": 56
+    },
+    {
+      "word": "muhammadu",
+      "count": 56
+    },
+    {
+      "word": "free",
+      "count": 56
+    },
+    {
+      "word": "health",
+      "count": 56
+    },
+    {
+      "word": "biznes",
+      "count": 56
+    },
+    {
+      "word": "graduate",
+      "count": 56
+    },
+    {
+      "word": "tisha",
+      "count": 56
+    },
+    {
+      "word": "akademi",
+      "count": 56
+    },
+    {
+      "word": "sciences",
+      "count": 56
+    },
+    {
+      "word": "fediral",
+      "count": 56
+    },
+    {
+      "word": "niuz",
+      "count": 55
+    },
+    {
+      "word": "technology",
+      "count": 55
+    },
+    {
+      "word": "kristen",
+      "count": 55
+    },
+    {
+      "word": "men",
+      "count": 55
+    },
+    {
+      "word": "form",
+      "count": 55
+    },
+    {
+      "word": "nid",
+      "count": 55
+    },
+    {
+      "word": "naira",
+      "count": 55
+    },
+    {
+      "word": "actress",
+      "count": 55
+    },
+    {
+      "word": "games",
+      "count": 55
+    },
+    {
+      "word": "know",
+      "count": 55
+    },
+    {
+      "word": "daretor",
+      "count": 55
+    },
+    {
+      "word": "ocean",
+      "count": 55
+    },
+    {
+      "word": "republic",
+      "count": 54
+    },
+    {
+      "word": "women",
+      "count": 54
+    },
+    {
+      "word": "sport",
+      "count": 54
+    },
+    {
+      "word": "before",
+      "count": 54
+    },
+    {
+      "word": "ondo",
+      "count": 54
+    },
+    {
+      "word": "seven",
+      "count": 54
+    },
+    {
+      "word": "pla",
+      "count": 54
+    },
+    {
+      "word": "championship",
+      "count": 54
+    },
+    {
+      "word": "rul",
+      "count": 53
+    },
+    {
+      "word": "ofis",
+      "count": 53
+    },
+    {
+      "word": "politishian",
+      "count": 53
+    },
+    {
+      "word": "main",
+      "count": 53
+    },
+    {
+      "word": "place",
+      "count": 53
+    },
+    {
+      "word": "posishon",
+      "count": 53
+    },
+    {
+      "word": "secondary",
+      "count": 53
+    },
+    {
+      "word": "western",
+      "count": 53
+    },
+    {
+      "word": "against",
+      "count": 53
+    },
+    {
+      "word": "onitsha",
+      "count": 53
+    },
+    {
+      "word": "joshua",
+      "count": 53
+    },
+    {
+      "word": "obafemi",
+      "count": 52
+    },
+    {
+      "word": "kind",
+      "count": 52
+    },
+    {
+      "word": "month",
+      "count": 52
+    },
+    {
+      "word": "eight",
+      "count": 52
+    },
+    {
+      "word": "later",
+      "count": 52
+    },
+    {
+      "word": "head",
+      "count": 52
+    },
+    {
+      "word": "director",
+      "count": 52
+    },
+    {
+      "word": "theatre",
+      "count": 52
+    },
+    {
+      "word": "femi",
+      "count": 52
+    },
+    {
+      "word": "power",
+      "count": 52
+    },
+    {
+      "word": "uk",
+      "count": 52
+    },
+    {
+      "word": "studet",
+      "count": 52
+    },
+    {
+      "word": "awolowo",
+      "count": 51
+    },
+    {
+      "word": "union",
+      "count": 51
+    },
+    {
+      "word": "wet",
+      "count": 51
+    },
+    {
+      "word": "fellow",
+      "count": 51
+    },
+    {
+      "word": "gud",
+      "count": 51
+    },
+    {
+      "word": "premier",
+      "count": 51
+    },
+    {
+      "word": "frend",
+      "count": 51
+    },
+    {
+      "word": "kup",
+      "count": 51
+    },
+    {
+      "word": "fall",
+      "count": 51
+    },
+    {
+      "word": "poblik",
+      "count": 51
+    },
+    {
+      "word": "video",
+      "count": 51
+    },
+    {
+      "word": "televishon",
+      "count": 51
+    },
+    {
+      "word": "simpson",
+      "count": 51
+    },
+    {
+      "word": "tey",
+      "count": 50
+    },
+    {
+      "word": "tich",
+      "count": 50
+    },
+    {
+      "word": "many",
+      "count": 50
+    },
+    {
+      "word": "diploma",
+      "count": 50
+    },
+    {
+      "word": "senate",
+      "count": 50
+    },
+    {
+      "word": "long",
+      "count": 50
+    },
+    {
+      "word": "good",
+      "count": 50
+    },
+    {
+      "word": "student",
+      "count": 50
+    },
+    {
+      "word": "waif",
+      "count": 50
+    },
+    {
+      "word": "daniel",
+      "count": 50
+    },
+    {
+      "word": "us",
+      "count": 50
+    },
+    {
+      "word": "harcourt",
+      "count": 50
+    },
+    {
+      "word": "age",
+      "count": 50
+    },
+    {
+      "word": "plus",
+      "count": 50
+    },
+    {
+      "word": "olusegun",
+      "count": 50
+    },
+    {
+      "word": "efcc",
+      "count": 50
+    },
+    {
+      "word": "miss",
+      "count": 50
+    },
+    {
+      "word": "slave",
+      "count": 50
+    },
+    {
+      "word": "mary",
+      "count": 50
+    },
+    {
+      "word": "prize",
+      "count": 49
+    },
+    {
+      "word": "gel",
+      "count": 49
+    },
+    {
+      "word": "company",
+      "count": 49
+    },
+    {
+      "word": "district",
+      "count": 49
+    },
+    {
+      "word": "find",
+      "count": 49
+    },
+    {
+      "word": "since",
+      "count": 49
+    },
+    {
+      "word": "opun",
+      "count": 49
+    },
+    {
+      "word": "komedi",
+      "count": 49
+    },
+    {
+      "word": "role",
+      "count": 49
+    },
+    {
+      "word": "kil",
+      "count": 49
+    },
+    {
+      "word": "global",
+      "count": 49
+    },
+    {
+      "word": "doktor",
+      "count": 49
+    },
+    {
+      "word": "eni",
+      "count": 49
+    },
+    {
+      "word": "risach",
+      "count": 49
+    },
+    {
+      "word": "people's",
+      "count": 48
+    },
+    {
+      "word": "women's",
+      "count": 48
+    },
+    {
+      "word": "bachelor",
+      "count": 48
+    },
+    {
+      "word": "vote",
+      "count": 48
+    },
+    {
+      "word": "ikeja",
+      "count": 48
+    },
+    {
+      "word": "editor",
+      "count": 48
+    },
+    {
+      "word": "youtube",
+      "count": 48
+    },
+    {
+      "word": "third",
+      "count": 48
+    },
+    {
+      "word": "https",
+      "count": 48
+    },
+    {
+      "word": "europe",
+      "count": 47
+    },
+    {
+      "word": "kontiniu",
+      "count": 47
+    },
+    {
+      "word": "try",
+      "count": 47
+    },
+    {
+      "word": "late",
+      "count": 47
+    },
+    {
+      "word": "faculty",
+      "count": 47
+    },
+    {
+      "word": "region",
+      "count": 47
+    },
+    {
+      "word": "fud",
+      "count": 47
+    },
+    {
+      "word": "araund",
+      "count": 47
+    },
+    {
+      "word": "ade",
+      "count": 47
+    },
+    {
+      "word": "futbola",
+      "count": 47
+    },
+    {
+      "word": "rivers",
+      "count": 47
+    },
+    {
+      "word": "son",
+      "count": 47
+    },
+    {
+      "word": "warri",
+      "count": 47
+    },
+    {
+      "word": "back",
+      "count": 47
+    },
+    {
+      "word": "folk",
+      "count": 47
+    },
+    {
+      "word": "tgaine",
+      "count": 47
+    },
+    {
+      "word": "pay",
+      "count": 46
+    },
+    {
+      "word": "con",
+      "count": 46
+    },
+    {
+      "word": "amog",
+      "count": 46
+    },
+    {
+      "word": "wumen",
+      "count": 46
+    },
+    {
+      "word": "sayens",
+      "count": 46
+    },
+    {
+      "word": "lida",
+      "count": 46
+    },
+    {
+      "word": "research",
+      "count": 46
+    },
+    {
+      "word": "popular",
+      "count": 46
+    },
+    {
+      "word": "money",
+      "count": 46
+    },
+    {
+      "word": "magazine",
+      "count": 46
+    },
+    {
+      "word": "when",
+      "count": 46
+    },
+    {
+      "word": "home",
+      "count": 46
+    },
+    {
+      "word": "plenty",
+      "count": 46
+    },
+    {
+      "word": "ten",
+      "count": 46
+    },
+    {
+      "word": "sell",
+      "count": 46
+    },
+    {
+      "word": "royal",
+      "count": 46
+    },
+    {
+      "word": "intanashonal",
+      "count": 46
+    },
+    {
+      "word": "single",
+      "count": 46
+    },
+    {
+      "word": "bishop",
+      "count": 46
+    },
+    {
+      "word": "was",
+      "count": 46
+    },
+    {
+      "word": "woman",
+      "count": 46
+    },
+    {
+      "word": "records",
+      "count": 46
+    },
+    {
+      "word": "edochie",
+      "count": 46
+    },
+    {
+      "word": "jacqueline",
+      "count": 46
+    },
+    {
+      "word": "baba",
+      "count": 45
+    },
+    {
+      "word": "pastor",
+      "count": 45
+    },
+    {
+      "word": "ontop",
+      "count": 45
+    },
+    {
+      "word": "gri",
+      "count": 45
+    },
+    {
+      "word": "abubakar",
+      "count": 45
+    },
+    {
+      "word": "korse",
+      "count": 45
+    },
+    {
+      "word": "committee",
+      "count": 45
+    },
+    {
+      "word": "commission",
+      "count": 45
+    },
+    {
+      "word": "digree",
+      "count": 45
+    },
+    {
+      "word": "set",
+      "count": 45
+    },
+    {
+      "word": "second",
+      "count": 45
+    },
+    {
+      "word": "sista",
+      "count": 45
+    },
+    {
+      "word": "buy",
+      "count": 45
+    },
+    {
+      "word": "ft",
+      "count": 45
+    },
+    {
+      "word": "service",
+      "count": 45
+    },
+    {
+      "word": "radio",
+      "count": 45
+    },
+    {
+      "word": "news",
+      "count": 45
+    },
+    {
+      "word": "produce",
+      "count": 45
+    },
+    {
+      "word": "klob",
+      "count": 45
+    },
+    {
+      "word": "goals",
+      "count": 45
+    },
+    {
+      "word": "nnaji",
+      "count": 45
+    },
+    {
+      "word": "kwankwaso",
+      "count": 45
+    },
+    {
+      "word": "akpabio",
+      "count": 45
+    },
+    {
+      "word": "arenj",
+      "count": 44
+    },
+    {
+      "word": "maket",
+      "count": 44
+    },
+    {
+      "word": "hospital",
+      "count": 44
+    },
+    {
+      "word": "adebayo",
+      "count": 44
+    },
+    {
+      "word": "oil",
+      "count": 44
+    },
+    {
+      "word": "ibrahim",
+      "count": 44
+    },
+    {
+      "word": "progressive",
+      "count": 44
+    },
+    {
+      "word": "executive",
+      "count": 44
+    },
+    {
+      "word": "sisin",
+      "count": 44
+    },
+    {
+      "word": "pasona",
+      "count": 44
+    },
+    {
+      "word": "kwara",
+      "count": 44
+    },
+    {
+      "word": "sound",
+      "count": 44
+    },
+    {
+      "word": "southern",
+      "count": 44
+    },
+    {
+      "word": "who",
+      "count": 44
+    },
+    {
+      "word": "travul",
+      "count": 44
+    },
+    {
+      "word": "record",
+      "count": 44
+    },
+    {
+      "word": "niuz-pepa",
+      "count": 44
+    },
+    {
+      "word": "kain",
+      "count": 43
+    },
+    {
+      "word": "shif",
+      "count": 43
+    },
+    {
+      "word": "pik",
+      "count": 43
+    },
+    {
+      "word": "reach",
+      "count": 43
+    },
+    {
+      "word": "afolayan",
+      "count": 43
+    },
+    {
+      "word": "agege",
+      "count": 43
+    },
+    {
+      "word": "real",
+      "count": 43
+    },
+    {
+      "word": "christian",
+      "count": 43
+    },
+    {
+      "word": "teem",
+      "count": 43
+    },
+    {
+      "word": "charles",
+      "count": 43
+    },
+    {
+      "word": "witch",
+      "count": 43
+    },
+    {
+      "word": "onti",
+      "count": 42
+    },
+    {
+      "word": "texas",
+      "count": 42
+    },
+    {
+      "word": "grammar",
+      "count": 42
+    },
+    {
+      "word": "other",
+      "count": 42
+    },
+    {
+      "word": "there",
+      "count": 42
+    },
+    {
+      "word": "lid",
+      "count": 42
+    },
+    {
+      "word": "baby",
+      "count": 42
+    },
+    {
+      "word": "ambassador",
+      "count": 42
+    },
+    {
+      "word": "justice",
+      "count": 42
+    },
+    {
+      "word": "olu",
+      "count": 42
+    },
+    {
+      "word": "court",
+      "count": 42
+    },
+    {
+      "word": "public",
+      "count": 42
+    },
+    {
+      "word": "title",
+      "count": 42
+    },
+    {
+      "word": "over",
+      "count": 42
+    },
+    {
+      "word": "bes",
+      "count": 42
+    },
+    {
+      "word": "osimhen",
+      "count": 42
+    },
+    {
+      "word": "presidet",
+      "count": 42
+    },
+    {
+      "word": "onana",
+      "count": 42
+    },
+    {
+      "word": "jeneral",
+      "count": 41
+    },
+    {
+      "word": "administration",
+      "count": 41
+    },
+    {
+      "word": "eye",
+      "count": 41
+    },
+    {
+      "word": "til",
+      "count": 41
+    },
+    {
+      "word": "magic",
+      "count": 41
+    },
+    {
+      "word": "football",
+      "count": 41
+    },
+    {
+      "word": "cross",
+      "count": 41
+    },
+    {
+      "word": "japan",
+      "count": 41
+    },
+    {
+      "word": "pruf",
+      "count": 41
+    },
+    {
+      "word": "host",
+      "count": 41
+    },
+    {
+      "word": "katigori",
+      "count": 41
+    },
+    {
+      "word": "redio",
+      "count": 41
+    },
+    {
+      "word": "draw",
+      "count": 40
+    },
+    {
+      "word": "stand",
+      "count": 40
+    },
+    {
+      "word": "covid",
+      "count": 40
+    },
+    {
+      "word": "park",
+      "count": 40
+    },
+    {
+      "word": "run",
+      "count": 40
+    },
+    {
+      "word": "club",
+      "count": 40
+    },
+    {
+      "word": "mercy",
+      "count": 40
+    },
+    {
+      "word": "neva",
+      "count": 40
+    },
+    {
+      "word": "choice",
+      "count": 40
+    },
+    {
+      "word": "kindom",
+      "count": 40
+    },
+    {
+      "word": "muv",
+      "count": 40
+    },
+    {
+      "word": "el-rufai",
+      "count": 40
+    },
+    {
+      "word": "sanwo-olu",
+      "count": 40
+    },
+    {
+      "word": "ci",
+      "count": 40
+    },
+    {
+      "word": "emem",
+      "count": 40
+    },
+    {
+      "word": "order",
+      "count": 39
+    },
+    {
+      "word": "imo",
+      "count": 39
+    },
+    {
+      "word": "senator",
+      "count": 39
+    },
+    {
+      "word": "koret",
+      "count": 39
+    },
+    {
+      "word": "water",
+      "count": 39
+    },
+    {
+      "word": "history",
+      "count": 39
+    },
+    {
+      "word": "different",
+      "count": 39
+    },
+    {
+      "word": "staff",
+      "count": 39
+    },
+    {
+      "word": "plant",
+      "count": 39
+    },
+    {
+      "word": "johnson",
+      "count": 39
+    },
+    {
+      "word": "train",
+      "count": 39
+    },
+    {
+      "word": "hi",
+      "count": 39
+    },
+    {
+      "word": "are",
+      "count": 39
+    },
+    {
+      "word": "actor",
+      "count": 39
+    },
+    {
+      "word": "mi",
+      "count": 39
+    },
+    {
+      "word": "down",
+      "count": 39
+    },
+    {
+      "word": "canada",
+      "count": 39
+    },
+    {
+      "word": "pak",
+      "count": 39
+    },
+    {
+      "word": "minister",
+      "count": 39
+    },
+    {
+      "word": "press",
+      "count": 39
+    },
+    {
+      "word": "act",
+      "count": 39
+    },
+    {
+      "word": "difrent",
+      "count": 39
+    },
+    {
+      "word": "dj",
+      "count": 39
+    },
+    {
+      "word": "messi",
+      "count": 39
+    },
+    {
+      "word": "isbn",
+      "count": 39
+    },
+    {
+      "word": "kanté",
+      "count": 39
+    },
+    {
+      "word": "star",
+      "count": 38
+    },
+    {
+      "word": "assistant",
+      "count": 38
+    },
+    {
+      "word": "community",
+      "count": 38
+    },
+    {
+      "word": "kannywood",
+      "count": 38
+    },
+    {
+      "word": "fish",
+      "count": 38
+    },
+    {
+      "word": "plateau",
+      "count": 38
+    },
+    {
+      "word": "elizabeth",
+      "count": 38
+    },
+    {
+      "word": "tell",
+      "count": 38
+    },
+    {
+      "word": "web",
+      "count": 38
+    },
+    {
+      "word": "ekiti",
+      "count": 38
+    },
+    {
+      "word": "paris",
+      "count": 38
+    },
+    {
+      "word": "grace",
+      "count": 38
+    },
+    {
+      "word": "adeboye",
+      "count": 38
+    },
+    {
+      "word": "hadiza",
+      "count": 38
+    },
+    {
+      "word": "patapata",
+      "count": 38
+    },
+    {
+      "word": "ice",
+      "count": 37
+    },
+    {
+      "word": "kpata-kpata",
+      "count": 37
+    },
+    {
+      "word": "muslim",
+      "count": 37
+    },
+    {
+      "word": "assembly",
+      "count": 37
+    },
+    {
+      "word": "certificate",
+      "count": 37
+    },
+    {
+      "word": "traditional",
+      "count": 37
+    },
+    {
+      "word": "joseph",
+      "count": 37
+    },
+    {
+      "word": "stay",
+      "count": 37
+    },
+    {
+      "word": "olamide",
+      "count": 37
+    },
+    {
+      "word": "pata-pata",
+      "count": 37
+    },
+    {
+      "word": "next",
+      "count": 37
+    },
+    {
+      "word": "balogun",
+      "count": 37
+    },
+    {
+      "word": "were",
+      "count": 37
+    },
+    {
+      "word": "brother",
+      "count": 37
+    },
+    {
+      "word": "hard",
+      "count": 37
+    },
+    {
+      "word": "not",
+      "count": 37
+    },
+    {
+      "word": "gospel",
+      "count": 37
+    },
+    {
+      "word": "mrs",
+      "count": 37
+    },
+    {
+      "word": "short",
+      "count": 37
+    },
+    {
+      "word": "dorin",
+      "count": 37
+    },
+    {
+      "word": "kach",
+      "count": 37
+    },
+    {
+      "word": "sarf",
+      "count": 37
+    },
+    {
+      "word": "konsan",
+      "count": 37
+    },
+    {
+      "word": "gas",
+      "count": 36
+    },
+    {
+      "word": "newspaper",
+      "count": 36
+    },
+    {
+      "word": "near",
+      "count": 36
+    },
+    {
+      "word": "fait",
+      "count": 36
+    },
+    {
+      "word": "nation",
+      "count": 36
+    },
+    {
+      "word": "election",
+      "count": 36
+    },
+    {
+      "word": "grow",
+      "count": 36
+    },
+    {
+      "word": "same",
+      "count": 36
+    },
+    {
+      "word": "direktor",
+      "count": 36
+    },
+    {
+      "word": "former",
+      "count": 36
+    },
+    {
+      "word": "ambode",
+      "count": 36
+    },
+    {
+      "word": "sports",
+      "count": 36
+    },
+    {
+      "word": "dipatmet",
+      "count": 36
+    },
+    {
+      "word": "ronaldo",
+      "count": 36
+    },
+    {
+      "word": "kyari",
+      "count": 36
+    },
+    {
+      "word": "gofment",
+      "count": 35
+    },
+    {
+      "word": "chelsea",
+      "count": 35
+    },
+    {
+      "word": "senior",
+      "count": 35
+    },
+    {
+      "word": "abimbola",
+      "count": 35
+    },
+    {
+      "word": "abraka",
+      "count": 35
+    },
+    {
+      "word": "david",
+      "count": 35
+    },
+    {
+      "word": "bai",
+      "count": 35
+    },
+    {
+      "word": "grand",
+      "count": 35
+    },
+    {
+      "word": "adekunle",
+      "count": 35
+    },
+    {
+      "word": "komuniti",
+      "count": 35
+    },
+    {
+      "word": "politishan",
+      "count": 35
+    },
+    {
+      "word": "politiks",
+      "count": 35
+    },
+    {
+      "word": "office",
+      "count": 35
+    },
+    {
+      "word": "segun",
+      "count": 35
+    },
+    {
+      "word": "bí",
+      "count": 35
+    },
+    {
+      "word": "dan",
+      "count": 35
+    },
+    {
+      "word": "strong",
+      "count": 35
+    },
+    {
+      "word": "difren-difren",
+      "count": 35
+    },
+    {
+      "word": "won",
+      "count": 35
+    },
+    {
+      "word": "medal",
+      "count": 35
+    },
+    {
+      "word": "sosaheti",
+      "count": 35
+    },
+    {
+      "word": "skool",
+      "count": 34
+    },
+    {
+      "word": "zaria",
+      "count": 34
+    },
+    {
+      "word": "ritaya",
+      "count": 34
+    },
+    {
+      "word": "beautiful",
+      "count": 34
+    },
+    {
+      "word": "wi",
+      "count": 34
+    },
+    {
+      "word": "headies",
+      "count": 34
+    },
+    {
+      "word": "ojo",
+      "count": 34
+    },
+    {
+      "word": "island",
+      "count": 34
+    },
+    {
+      "word": "story",
+      "count": 34
+    },
+    {
+      "word": "kansu",
+      "count": 34
+    },
+    {
+      "word": "senturi",
+      "count": 34
+    },
+    {
+      "word": "death",
+      "count": 34
+    },
+    {
+      "word": "chart",
+      "count": 34
+    },
+    {
+      "word": "jazzy",
+      "count": 34
+    },
+    {
+      "word": "beat",
+      "count": 34
+    },
+    {
+      "word": "sowore",
+      "count": 34
+    },
+    {
+      "word": "akande",
+      "count": 33
+    },
+    {
+      "word": "foma",
+      "count": 33
+    },
+    {
+      "word": "ii",
+      "count": 33
+    },
+    {
+      "word": "lead",
+      "count": 33
+    },
+    {
+      "word": "daily",
+      "count": 33
+    },
+    {
+      "word": "action",
+      "count": 33
+    },
+    {
+      "word": "deputy",
+      "count": 33
+    },
+    {
+      "word": "fine",
+      "count": 33
+    },
+    {
+      "word": "boys",
+      "count": 33
+    },
+    {
+      "word": "sc",
+      "count": 33
+    },
+    {
+      "word": "training",
+      "count": 33
+    },
+    {
+      "word": "boi",
+      "count": 33
+    },
+    {
+      "word": "ripot",
+      "count": 33
+    },
+    {
+      "word": "pain",
+      "count": 33
+    },
+    {
+      "word": "savage",
+      "count": 33
+    },
+    {
+      "word": "girls",
+      "count": 33
+    },
+    {
+      "word": "marri",
+      "count": 33
+    },
+    {
+      "word": "billion",
+      "count": 33
+    },
+    {
+      "word": "event",
+      "count": 33
+    },
+    {
+      "word": "karier",
+      "count": 33
+    },
+    {
+      "word": "adadevoh",
+      "count": 33
+    },
+    {
+      "word": "malaria",
+      "count": 33
+    },
+    {
+      "word": "disis",
+      "count": 33
+    },
+    {
+      "word": "medisine",
+      "count": 33
+    },
+    {
+      "word": "ngozi",
+      "count": 33
+    },
+    {
+      "word": "podusa",
+      "count": 32
+    },
+    {
+      "word": "hospitu",
+      "count": 32
+    },
+    {
+      "word": "red",
+      "count": 32
+    },
+    {
+      "word": "michael",
+      "count": 32
+    },
+    {
+      "word": "finance",
+      "count": 32
+    },
+    {
+      "word": "political",
+      "count": 32
+    },
+    {
+      "word": "force",
+      "count": 32
+    },
+    {
+      "word": "dance",
+      "count": 32
+    },
+    {
+      "word": "prof",
+      "count": 32
+    },
+    {
+      "word": "weyda",
+      "count": 32
+    },
+    {
+      "word": "sunny",
+      "count": 32
+    },
+    {
+      "word": "votes",
+      "count": 32
+    },
+    {
+      "word": "san",
+      "count": 32
+    },
+    {
+      "word": "lorya",
+      "count": 32
+    },
+    {
+      "word": "gif",
+      "count": 32
+    },
+    {
+      "word": "heart",
+      "count": 32
+    },
+    {
+      "word": "including",
+      "count": 32
+    },
+    {
+      "word": "juju",
+      "count": 32
+    },
+    {
+      "word": "include",
+      "count": 32
+    },
+    {
+      "word": "change",
+      "count": 32
+    },
+    {
+      "word": "ground",
+      "count": 32
+    },
+    {
+      "word": "during",
+      "count": 32
+    },
+    {
+      "word": "nor",
+      "count": 32
+    },
+    {
+      "word": "write",
+      "count": 32
+    },
+    {
+      "word": "stage",
+      "count": 32
+    },
+    {
+      "word": "dele",
+      "count": 32
+    },
+    {
+      "word": "ayo",
+      "count": 32
+    },
+    {
+      "word": "computer",
+      "count": 32
+    },
+    {
+      "word": "fire",
+      "count": 32
+    },
+    {
+      "word": "cynthia",
+      "count": 32
+    },
+    {
+      "word": "book",
+      "count": 32
+    },
+    {
+      "word": "guitar",
+      "count": 32
+    },
+    {
+      "word": "hushpuppi",
+      "count": 32
+    },
+    {
+      "word": "barber",
+      "count": 31
+    },
+    {
+      "word": "central",
+      "count": 31
+    },
+    {
+      "word": "musa",
+      "count": 31
+    }
+  ]
+}

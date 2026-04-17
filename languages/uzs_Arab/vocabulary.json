@@ -1,0 +1,2144 @@
+{
+  "code": "uzs",
+  "name": "Southern Uzbek",
+  "script": "Arab",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 1255,
+  "unique_tokens": 533,
+  "words": [
+    {
+      "word": "به",
+      "count": 41
+    },
+    {
+      "word": "در",
+      "count": 36
+    },
+    {
+      "word": "از",
+      "count": 34
+    },
+    {
+      "word": "می",
+      "count": 25
+    },
+    {
+      "word": "که",
+      "count": 20
+    },
+    {
+      "word": "افغان",
+      "count": 20
+    },
+    {
+      "word": "را",
+      "count": 19
+    },
+    {
+      "word": "است",
+      "count": 18
+    },
+    {
+      "word": "این",
+      "count": 17
+    },
+    {
+      "word": "ما",
+      "count": 17
+    },
+    {
+      "word": "با",
+      "count": 17
+    },
+    {
+      "word": "افغانستان",
+      "count": 16
+    },
+    {
+      "word": "برای",
+      "count": 15
+    },
+    {
+      "word": "source",
+      "count": 12
+    },
+    {
+      "word": "https",
+      "count": 12
+    },
+    {
+      "word": "da",
+      "count": 12
+    },
+    {
+      "word": "azadiradio",
+      "count": 12
+    },
+    {
+      "word": "com",
+      "count": 12
+    },
+    {
+      "word": "radio",
+      "count": 12
+    },
+    {
+      "word": "azadi",
+      "count": 12
+    },
+    {
+      "word": "afghanistan",
+      "count": 12
+    },
+    {
+      "word": "ها",
+      "count": 11
+    },
+    {
+      "word": "آزادی",
+      "count": 10
+    },
+    {
+      "word": "یک",
+      "count": 9
+    },
+    {
+      "word": "رادیو",
+      "count": 9
+    },
+    {
+      "word": "های",
+      "count": 8
+    },
+    {
+      "word": "پاکستان",
+      "count": 7
+    },
+    {
+      "word": "بسیار",
+      "count": 7
+    },
+    {
+      "word": "او",
+      "count": 7
+    },
+    {
+      "word": "آمده",
+      "count": 6
+    },
+    {
+      "word": "کند",
+      "count": 6
+    },
+    {
+      "word": "شیریخ",
+      "count": 6
+    },
+    {
+      "word": "بازار",
+      "count": 6
+    },
+    {
+      "word": "گفت",
+      "count": 6
+    },
+    {
+      "word": "هالند",
+      "count": 6
+    },
+    {
+      "word": "هم",
+      "count": 6
+    },
+    {
+      "word": "مهاجرین",
+      "count": 5
+    },
+    {
+      "word": "کرده",
+      "count": 5
+    },
+    {
+      "word": "زن",
+      "count": 5
+    },
+    {
+      "word": "جا",
+      "count": 5
+    },
+    {
+      "word": "ایم",
+      "count": 5
+    },
+    {
+      "word": "کنند",
+      "count": 5
+    },
+    {
+      "word": "حمل",
+      "count": 5
+    },
+    {
+      "word": "شده",
+      "count": 5
+    },
+    {
+      "word": "پولیس",
+      "count": 5
+    },
+    {
+      "word": "شد",
+      "count": 5
+    },
+    {
+      "word": "زنان",
+      "count": 5
+    },
+    {
+      "word": "ایران",
+      "count": 5
+    },
+    {
+      "word": "بیشتر",
+      "count": 5
+    },
+    {
+      "word": "اجباری",
+      "count": 4
+    },
+    {
+      "word": "خود",
+      "count": 4
+    },
+    {
+      "word": "خوردن",
+      "count": 4
+    },
+    {
+      "word": "ملل",
+      "count": 4
+    },
+    {
+      "word": "متحد",
+      "count": 4
+    },
+    {
+      "word": "میلیون",
+      "count": 4
+    },
+    {
+      "word": "اند",
+      "count": 4
+    },
+    {
+      "word": "دیگر",
+      "count": 4
+    },
+    {
+      "word": "گی",
+      "count": 4
+    },
+    {
+      "word": "سه",
+      "count": 4
+    },
+    {
+      "word": "سال",
+      "count": 4
+    },
+    {
+      "word": "جهان",
+      "count": 4
+    },
+    {
+      "word": "تیم",
+      "count": 4
+    },
+    {
+      "word": "دارند",
+      "count": 4
+    },
+    {
+      "word": "استفاده",
+      "count": 3
+    },
+    {
+      "word": "اخراج",
+      "count": 3
+    },
+    {
+      "word": "آنان",
+      "count": 3
+    },
+    {
+      "word": "جرمنی",
+      "count": 3
+    },
+    {
+      "word": "اش",
+      "count": 3
+    },
+    {
+      "word": "تا",
+      "count": 3
+    },
+    {
+      "word": "دو",
+      "count": 3
+    },
+    {
+      "word": "زنده",
+      "count": 3
+    },
+    {
+      "word": "گرفتند",
+      "count": 3
+    },
+    {
+      "word": "حاجی",
+      "count": 3
+    },
+    {
+      "word": "کمپ",
+      "count": 3
+    },
+    {
+      "word": "هستیم",
+      "count": 3
+    },
+    {
+      "word": "مردم",
+      "count": 3
+    },
+    {
+      "word": "نمی",
+      "count": 3
+    },
+    {
+      "word": "چهارشنبه",
+      "count": 3
+    },
+    {
+      "word": "حتی",
+      "count": 3
+    },
+    {
+      "word": "رستورانت",
+      "count": 3
+    },
+    {
+      "word": "ماما",
+      "count": 3
+    },
+    {
+      "word": "هیچ",
+      "count": 3
+    },
+    {
+      "word": "نه",
+      "count": 3
+    },
+    {
+      "word": "کرد",
+      "count": 3
+    },
+    {
+      "word": "نام",
+      "count": 3
+    },
+    {
+      "word": "هایلایت",
+      "count": 3
+    },
+    {
+      "word": "xa",
+      "count": 3
+    },
+    {
+      "word": "نخستین",
+      "count": 3
+    },
+    {
+      "word": "ادارۀ",
+      "count": 3
+    },
+    {
+      "word": "طالبان",
+      "count": 3
+    },
+    {
+      "word": "برابر",
+      "count": 3
+    },
+    {
+      "word": "دسترسی",
+      "count": 3
+    },
+    {
+      "word": "خدمات",
+      "count": 3
+    },
+    {
+      "word": "آن",
+      "count": 3
+    },
+    {
+      "word": "کشورهای",
+      "count": 3
+    },
+    {
+      "word": "اعلامیه",
+      "count": 2
+    },
+    {
+      "word": "فشار",
+      "count": 2
+    },
+    {
+      "word": "مورد",
+      "count": 2
+    },
+    {
+      "word": "قرار",
+      "count": 2
+    },
+    {
+      "word": "گیرند",
+      "count": 2
+    },
+    {
+      "word": "خواهیم",
+      "count": 2
+    },
+    {
+      "word": "تمدید",
+      "count": 2
+    },
+    {
+      "word": "دوباره",
+      "count": 2
+    },
+    {
+      "word": "شهر",
+      "count": 2
+    },
+    {
+      "word": "همراه",
+      "count": 2
+    },
+    {
+      "word": "خانواده",
+      "count": 2
+    },
+    {
+      "word": "دلیل",
+      "count": 2
+    },
+    {
+      "word": "آییم",
+      "count": 2
+    },
+    {
+      "word": "اینجا",
+      "count": 2
+    },
+    {
+      "word": "وقتی",
+      "count": 2
+    },
+    {
+      "word": "افغانی",
+      "count": 2
+    },
+    {
+      "word": "معلومات",
+      "count": 2
+    },
+    {
+      "word": "سازمان",
+      "count": 2
+    },
+    {
+      "word": "بیش",
+      "count": 2
+    },
+    {
+      "word": "مهاجر",
+      "count": 2
+    },
+    {
+      "word": "بازگشته",
+      "count": 2
+    },
+    {
+      "word": "کشور",
+      "count": 2
+    },
+    {
+      "word": "کردند",
+      "count": 2
+    },
+    {
+      "word": "روند",
+      "count": 2
+    },
+    {
+      "word": "بازداشت",
+      "count": 2
+    },
+    {
+      "word": "دیپورت",
+      "count": 2
+    },
+    {
+      "word": "دیروز",
+      "count": 2
+    },
+    {
+      "word": "ترس",
+      "count": 2
+    },
+    {
+      "word": "توانیم",
+      "count": 2
+    },
+    {
+      "word": "نان",
+      "count": 2
+    },
+    {
+      "word": "فضا",
+      "count": 2
+    },
+    {
+      "word": "گوید",
+      "count": 2
+    },
+    {
+      "word": "چپلی",
+      "count": 2
+    },
+    {
+      "word": "کباب",
+      "count": 2
+    },
+    {
+      "word": "بیفروایک",
+      "count": 2
+    },
+    {
+      "word": "روز",
+      "count": 2
+    },
+    {
+      "word": "کردیم",
+      "count": 2
+    },
+    {
+      "word": "خانه",
+      "count": 2
+    },
+    {
+      "word": "داریم",
+      "count": 2
+    },
+    {
+      "word": "شنبه",
+      "count": 2
+    },
+    {
+      "word": "حقوق",
+      "count": 2
+    },
+    {
+      "word": "همین",
+      "count": 2
+    },
+    {
+      "word": "تقریبا",
+      "count": 2
+    },
+    {
+      "word": "کار",
+      "count": 2
+    },
+    {
+      "word": "اپلیکیشن",
+      "count": 2
+    },
+    {
+      "word": "مجموعه",
+      "count": 2
+    },
+    {
+      "word": "slide",
+      "count": 2
+    },
+    {
+      "word": "فشردۀ",
+      "count": 2
+    },
+    {
+      "word": "ژکفر",
+      "count": 2
+    },
+    {
+      "word": "احمدی",
+      "count": 2
+    },
+    {
+      "word": "خبری",
+      "count": 2
+    },
+    {
+      "word": "خبرهای",
+      "count": 2
+    },
+    {
+      "word": "روبه",
+      "count": 2
+    },
+    {
+      "word": "رو",
+      "count": 2
+    },
+    {
+      "word": "بار",
+      "count": 2
+    },
+    {
+      "word": "گیرد",
+      "count": 2
+    },
+    {
+      "word": "هرات",
+      "count": 2
+    },
+    {
+      "word": "پوهنتون",
+      "count": 2
+    },
+    {
+      "word": "بخوانید",
+      "count": 2
+    },
+    {
+      "word": "برنامه",
+      "count": 2
+    },
+    {
+      "word": "بشنوید",
+      "count": 2
+    },
+    {
+      "word": "تکواندوکار",
+      "count": 2
+    },
+    {
+      "word": "شکست",
+      "count": 2
+    },
+    {
+      "word": "داد",
+      "count": 2
+    },
+    {
+      "word": "شان",
+      "count": 2
+    },
+    {
+      "word": "ملی",
+      "count": 2
+    },
+    {
+      "word": "بازی",
+      "count": 2
+    },
+    {
+      "word": "کاروان",
+      "count": 2
+    },
+    {
+      "word": "زهر",
+      "count": 2
+    },
+    {
+      "word": "مبتلا",
+      "count": 2
+    },
+    {
+      "word": "اختلالات",
+      "count": 2
+    },
+    {
+      "word": "سوء",
+      "count": 2
+    },
+    {
+      "word": "مصرف",
+      "count": 2
+    },
+    {
+      "word": "مواد",
+      "count": 2
+    },
+    {
+      "word": "مخدر",
+      "count": 2
+    },
+    {
+      "word": "محدودی",
+      "count": 2
+    },
+    {
+      "word": "درمانی",
+      "count": 2
+    },
+    {
+      "word": "ترکیه",
+      "count": 2
+    },
+    {
+      "word": "وجود",
+      "count": 2
+    },
+    {
+      "word": "ممنوعیت",
+      "count": 2
+    },
+    {
+      "word": "همچنان",
+      "count": 2
+    },
+    {
+      "word": "منبع",
+      "count": 2
+    },
+    {
+      "word": "اصلی",
+      "count": 2
+    },
+    {
+      "word": "هروئین",
+      "count": 2
+    },
+    {
+      "word": "جنگ",
+      "count": 2
+    },
+    {
+      "word": "باید",
+      "count": 2
+    },
+    {
+      "word": "اروپایی",
+      "count": 2
+    },
+    {
+      "word": "بارۀ",
+      "count": 2
+    },
+    {
+      "word": "آی",
+      "count": 2
+    },
+    {
+      "word": "کمک",
+      "count": 2
+    },
+    {
+      "word": "نیز",
+      "count": 2
+    },
+    {
+      "word": "وارد",
+      "count": 2
+    },
+    {
+      "word": "ساعت",
+      "count": 2
+    },
+    {
+      "word": "درسی",
+      "count": 2
+    },
+    {
+      "word": "همسایه",
+      "count": 2
+    },
+    {
+      "word": "دیدگاه",
+      "count": 2
+    },
+    {
+      "word": "سوی",
+      "count": 2
+    },
+    {
+      "word": "دروازه",
+      "count": 2
+    },
+    {
+      "word": "آیند",
+      "count": 2
+    },
+    {
+      "word": "نباید",
+      "count": 1
+    },
+    {
+      "word": "عنوان",
+      "count": 1
+    },
+    {
+      "word": "ابزار",
+      "count": 1
+    },
+    {
+      "word": "سیاسی",
+      "count": 1
+    },
+    {
+      "word": "فورا",
+      "count": 1
+    },
+    {
+      "word": "متوقف",
+      "count": 1
+    },
+    {
+      "word": "راه",
+      "count": 1
+    },
+    {
+      "word": "قانونی",
+      "count": 1
+    },
+    {
+      "word": "اقامت",
+      "count": 1
+    },
+    {
+      "word": "جمله",
+      "count": 1
+    },
+    {
+      "word": "ویزه",
+      "count": 1
+    },
+    {
+      "word": "کارت",
+      "count": 1
+    },
+    {
+      "word": "ثبت",
+      "count": 1
+    },
+    {
+      "word": "فعال",
+      "count": 1
+    },
+    {
+      "word": "سازد",
+      "count": 1
+    },
+    {
+      "word": "تخلص",
+      "count": 1
+    },
+    {
+      "word": "عزیزی",
+      "count": 1
+    },
+    {
+      "word": "معرفی",
+      "count": 1
+    },
+    {
+      "word": "کلن",
+      "count": 1
+    },
+    {
+      "word": "رفته",
+      "count": 1
+    },
+    {
+      "word": "دلتنگ",
+      "count": 1
+    },
+    {
+      "word": "وطن",
+      "count": 1
+    },
+    {
+      "word": "شویم",
+      "count": 1
+    },
+    {
+      "word": "هموطنان",
+      "count": 1
+    },
+    {
+      "word": "ببینیم",
+      "count": 1
+    },
+    {
+      "word": "میوه",
+      "count": 1
+    },
+    {
+      "word": "غذاهای",
+      "count": 1
+    },
+    {
+      "word": "وطنی",
+      "count": 1
+    },
+    {
+      "word": "کنیم",
+      "count": 1
+    },
+    {
+      "word": "بخوریم",
+      "count": 1
+    },
+    {
+      "word": "خوشمزه",
+      "count": 1
+    },
+    {
+      "word": "غذاهایش",
+      "count": 1
+    },
+    {
+      "word": "لذیذ",
+      "count": 1
+    },
+    {
+      "word": "براساس",
+      "count": 1
+    },
+    {
+      "word": "کمیشنری",
+      "count": 1
+    },
+    {
+      "word": "عالی",
+      "count": 1
+    },
+    {
+      "word": "امور",
+      "count": 1
+    },
+    {
+      "word": "پناهنده",
+      "count": 1
+    },
+    {
+      "word": "گان",
+      "count": 1
+    },
+    {
+      "word": "سپتمبر",
+      "count": 1
+    },
+    {
+      "word": "جنوری",
+      "count": 1
+    },
+    {
+      "word": "نزدیک",
+      "count": 1
+    },
+    {
+      "word": "هنوز",
+      "count": 1
+    },
+    {
+      "word": "حمیدالله",
+      "count": 1
+    },
+    {
+      "word": "شهروند",
+      "count": 1
+    },
+    {
+      "word": "تازه",
+      "count": 1
+    },
+    {
+      "word": "گونه",
+      "count": 1
+    },
+    {
+      "word": "من",
+      "count": 1
+    },
+    {
+      "word": "نفر",
+      "count": 1
+    },
+    {
+      "word": "بودند",
+      "count": 1
+    },
+    {
+      "word": "حوزه",
+      "count": 1
+    },
+    {
+      "word": "لت",
+      "count": 1
+    },
+    {
+      "word": "وکوب",
+      "count": 1
+    },
+    {
+      "word": "بعد",
+      "count": 1
+    },
+    {
+      "word": "موترهای",
+      "count": 1
+    },
+    {
+      "word": "شیشه",
+      "count": 1
+    },
+    {
+      "word": "سیاه",
+      "count": 1
+    },
+    {
+      "word": "سوار",
+      "count": 1
+    },
+    {
+      "word": "بردند",
+      "count": 1
+    },
+    {
+      "word": "طوری",
+      "count": 1
+    },
+    {
+      "word": "رفتار",
+      "count": 1
+    },
+    {
+      "word": "مثل",
+      "count": 1
+    },
+    {
+      "word": "مجرمان",
+      "count": 1
+    },
+    {
+      "word": "تروریست",
+      "count": 1
+    },
+    {
+      "word": "نبودیم",
+      "count": 1
+    },
+    {
+      "word": "خیر",
+      "count": 1
+    },
+    {
+      "word": "اما",
+      "count": 1
+    },
+    {
+      "word": "ظلمی",
+      "count": 1
+    },
+    {
+      "word": "کافر",
+      "count": 1
+    },
+    {
+      "word": "چنین",
+      "count": 1
+    },
+    {
+      "word": "سرعت",
+      "count": 1
+    },
+    {
+      "word": "بخشیده",
+      "count": 1
+    },
+    {
+      "word": "چون",
+      "count": 1
+    },
+    {
+      "word": "گذرگاه",
+      "count": 1
+    },
+    {
+      "word": "تورخم",
+      "count": 1
+    },
+    {
+      "word": "باز",
+      "count": 1
+    },
+    {
+      "word": "برند",
+      "count": 1
+    },
+    {
+      "word": "بعدا",
+      "count": 1
+    },
+    {
+      "word": "پسر",
+      "count": 1
+    },
+    {
+      "word": "کاکایم",
+      "count": 1
+    },
+    {
+      "word": "زندانی",
+      "count": 1
+    },
+    {
+      "word": "پس",
+      "count": 1
+    },
+    {
+      "word": "خواهد",
+      "count": 1
+    },
+    {
+      "word": "نانوایی",
+      "count": 1
+    },
+    {
+      "word": "بخریم",
+      "count": 1
+    },
+    {
+      "word": "تنگ",
+      "count": 1
+    },
+    {
+      "word": "دوستانش",
+      "count": 1
+    },
+    {
+      "word": "دورتموند",
+      "count": 1
+    },
+    {
+      "word": "دکان",
+      "count": 1
+    },
+    {
+      "word": "زیاد",
+      "count": 1
+    },
+    {
+      "word": "انسان",
+      "count": 1
+    },
+    {
+      "word": "آید",
+      "count": 1
+    },
+    {
+      "word": "احساس",
+      "count": 1
+    },
+    {
+      "word": "سختی",
+      "count": 1
+    },
+    {
+      "word": "زیادی",
+      "count": 1
+    },
+    {
+      "word": "تحمل",
+      "count": 1
+    },
+    {
+      "word": "مهاجرت",
+      "count": 1
+    },
+    {
+      "word": "گذراندیم",
+      "count": 1
+    },
+    {
+      "word": "حالا",
+      "count": 1
+    },
+    {
+      "word": "چیزی",
+      "count": 1
+    },
+    {
+      "word": "نداریم",
+      "count": 1
+    },
+    {
+      "word": "زمین",
+      "count": 1
+    },
+    {
+      "word": "حکومت",
+      "count": 1
+    },
+    {
+      "word": "زمینه",
+      "count": 1
+    },
+    {
+      "word": "سرپناه",
+      "count": 1
+    },
+    {
+      "word": "فراهم",
+      "count": 1
+    },
+    {
+      "word": "نهاد",
+      "count": 1
+    },
+    {
+      "word": "ریفیوجیز",
+      "count": 1
+    },
+    {
+      "word": "انترنشنل",
+      "count": 1
+    },
+    {
+      "word": "منتشر",
+      "count": 1
+    },
+    {
+      "word": "تأکید",
+      "count": 1
+    },
+    {
+      "word": "کنونی",
+      "count": 1
+    },
+    {
+      "word": "بازگرداندن",
+      "count": 1
+    },
+    {
+      "word": "اصل",
+      "count": 1
+    },
+    {
+      "word": "منع",
+      "count": 1
+    },
+    {
+      "word": "بازگشت",
+      "count": 1
+    },
+    {
+      "word": "بین",
+      "count": 1
+    },
+    {
+      "word": "الملل",
+      "count": 1
+    },
+    {
+      "word": "تصریح",
+      "count": 1
+    },
+    {
+      "word": "نقض",
+      "count": 1
+    },
+    {
+      "word": "انتخاب",
+      "count": 1
+    },
+    {
+      "word": "پدر",
+      "count": 1
+    },
+    {
+      "word": "گفتند",
+      "count": 1
+    },
+    {
+      "word": "ساخت",
+      "count": 1
+    },
+    {
+      "word": "آغاز",
+      "count": 1
+    },
+    {
+      "word": "نشرات",
+      "count": 1
+    },
+    {
+      "word": "مستقیم",
+      "count": 1
+    },
+    {
+      "word": "تصویری",
+      "count": 1
+    },
+    {
+      "word": "previous",
+      "count": 1
+    },
+    {
+      "word": "next",
+      "count": 1
+    },
+    {
+      "word": "چند",
+      "count": 1
+    },
+    {
+      "word": "خبر",
+      "count": 1
+    },
+    {
+      "word": "مجله",
+      "count": 1
+    },
+    {
+      "word": "صبح",
+      "count": 1
+    },
+    {
+      "word": "مهمان",
+      "count": 1
+    },
+    {
+      "word": "فشرده",
+      "count": 1
+    },
+    {
+      "word": "مجلۀ",
+      "count": 1
+    },
+    {
+      "word": "بامدادی",
+      "count": 1
+    },
+    {
+      "word": "مهم",
+      "count": 1
+    },
+    {
+      "word": "خطر",
+      "count": 1
+    },
+    {
+      "word": "فقر",
+      "count": 1
+    },
+    {
+      "word": "مسئولیت",
+      "count": 1
+    },
+    {
+      "word": "رهبری",
+      "count": 1
+    },
+    {
+      "word": "اردوی",
+      "count": 1
+    },
+    {
+      "word": "استرالیا",
+      "count": 1
+    },
+    {
+      "word": "عهده",
+      "count": 1
+    },
+    {
+      "word": "تجربۀ",
+      "count": 1
+    },
+    {
+      "word": "برخورد",
+      "count": 1
+    },
+    {
+      "word": "کارمندان",
+      "count": 1
+    },
+    {
+      "word": "امر",
+      "count": 1
+    },
+    {
+      "word": "معروف",
+      "count": 1
+    },
+    {
+      "word": "نهی",
+      "count": 1
+    },
+    {
+      "word": "منکر",
+      "count": 1
+    },
+    {
+      "word": "روایت",
+      "count": 1
+    },
+    {
+      "word": "محدودیت",
+      "count": 1
+    },
+    {
+      "word": "تفریحی",
+      "count": 1
+    },
+    {
+      "word": "گرفته",
+      "count": 1
+    },
+    {
+      "word": "کارگاه",
+      "count": 1
+    },
+    {
+      "word": "خیاطی",
+      "count": 1
+    },
+    {
+      "word": "رؤیای",
+      "count": 1
+    },
+    {
+      "word": "نیمه",
+      "count": 1
+    },
+    {
+      "word": "تمام",
+      "count": 1
+    },
+    {
+      "word": "اسراء",
+      "count": 1
+    },
+    {
+      "word": "منطقه",
+      "count": 1
+    },
+    {
+      "word": "کوریای",
+      "count": 1
+    },
+    {
+      "word": "جنوبی",
+      "count": 1
+    },
+    {
+      "word": "بشکه",
+      "count": 1
+    },
+    {
+      "word": "نفت",
+      "count": 1
+    },
+    {
+      "word": "خام",
+      "count": 1
+    },
+    {
+      "word": "مسیرهایی",
+      "count": 1
+    },
+    {
+      "word": "غیر",
+      "count": 1
+    },
+    {
+      "word": "تنگه",
+      "count": 1
+    },
+    {
+      "word": "هرمز",
+      "count": 1
+    },
+    {
+      "word": "تأمین",
+      "count": 1
+    },
+    {
+      "word": "خشک",
+      "count": 1
+    },
+    {
+      "word": "خریده",
+      "count": 1
+    },
+    {
+      "word": "پاپ",
+      "count": 1
+    },
+    {
+      "word": "لئو",
+      "count": 1
+    },
+    {
+      "word": "چهاردهم",
+      "count": 1
+    },
+    {
+      "word": "راهی",
+      "count": 1
+    },
+    {
+      "word": "کامرون",
+      "count": 1
+    },
+    {
+      "word": "پناهجویان",
+      "count": 1
+    },
+    {
+      "word": "پولند",
+      "count": 1
+    },
+    {
+      "word": "بلاتکلیفی",
+      "count": 1
+    },
+    {
+      "word": "روانی",
+      "count": 1
+    },
+    {
+      "word": "تهدید",
+      "count": 1
+    },
+    {
+      "word": "روبرو",
+      "count": 1
+    },
+    {
+      "word": "دونالد",
+      "count": 1
+    },
+    {
+      "word": "ترمپ",
+      "count": 1
+    },
+    {
+      "word": "ای",
+      "count": 1
+    },
+    {
+      "word": "آتش",
+      "count": 1
+    },
+    {
+      "word": "بس",
+      "count": 1
+    },
+    {
+      "word": "ندارم",
+      "count": 1
+    },
+    {
+      "word": "ورزش",
+      "count": 1
+    },
+    {
+      "word": "نور",
+      "count": 1
+    },
+    {
+      "word": "احمد",
+      "count": 1
+    },
+    {
+      "word": "لکنوال",
+      "count": 1
+    },
+    {
+      "word": "نقش",
+      "count": 1
+    },
+    {
+      "word": "مهمی",
+      "count": 1
+    },
+    {
+      "word": "پیروزی",
+      "count": 1
+    },
+    {
+      "word": "چینای",
+      "count": 1
+    },
+    {
+      "word": "سوپر",
+      "count": 1
+    },
+    {
+      "word": "کینگز",
+      "count": 1
+    },
+    {
+      "word": "ایفا",
+      "count": 1
+    },
+    {
+      "word": "حریف",
+      "count": 1
+    },
+    {
+      "word": "ارمنستانی",
+      "count": 1
+    },
+    {
+      "word": "مسابقات",
+      "count": 1
+    },
+    {
+      "word": "تاشکند",
+      "count": 1
+    },
+    {
+      "word": "حریفان",
+      "count": 1
+    },
+    {
+      "word": "خواهند",
+      "count": 1
+    },
+    {
+      "word": "کریکت",
+      "count": 1
+    },
+    {
+      "word": "تست",
+      "count": 1
+    },
+    {
+      "word": "روزه",
+      "count": 1
+    },
+    {
+      "word": "هند",
+      "count": 1
+    },
+    {
+      "word": "آمادگی",
+      "count": 1
+    },
+    {
+      "word": "فوتبال",
+      "count": 1
+    },
+    {
+      "word": "زیر",
+      "count": 1
+    },
+    {
+      "word": "تاجیکستان",
+      "count": 1
+    },
+    {
+      "word": "خورد",
+      "count": 1
+    },
+    {
+      "word": "مصاحبه",
+      "count": 1
+    },
+    {
+      "word": "هومن",
+      "count": 1
+    },
+    {
+      "word": "عسکری",
+      "count": 1
+    },
+    {
+      "word": "شهروندان",
+      "count": 1
+    },
+    {
+      "word": "پنجمین",
+      "count": 1
+    },
+    {
+      "word": "هفته",
+      "count": 1
+    },
+    {
+      "word": "میان",
+      "count": 1
+    },
+    {
+      "word": "تورم",
+      "count": 1
+    },
+    {
+      "word": "فزاینده",
+      "count": 1
+    },
+    {
+      "word": "حملات",
+      "count": 1
+    },
+    {
+      "word": "شدید",
+      "count": 1
+    },
+    {
+      "word": "داکتر",
+      "count": 1
+    },
+    {
+      "word": "عبدالمتین",
+      "count": 1
+    },
+    {
+      "word": "صافی",
+      "count": 1
+    },
+    {
+      "word": "مهار",
+      "count": 1
+    },
+    {
+      "word": "توبرکلوز",
+      "count": 1
+    },
+    {
+      "word": "تداوی",
+      "count": 1
+    },
+    {
+      "word": "فراتر",
+      "count": 1
+    },
+    {
+      "word": "مریض",
+      "count": 1
+    },
+    {
+      "word": "باشد",
+      "count": 1
+    },
+    {
+      "word": "پر",
+      "count": 1
+    },
+    {
+      "word": "مخاطب",
+      "count": 1
+    },
+    {
+      "word": "ترین",
+      "count": 1
+    },
+    {
+      "word": "روزانه",
+      "count": 1
+    },
+    {
+      "word": "هزاران",
+      "count": 1
+    },
+    {
+      "word": "کشوری",
+      "count": 1
+    },
+    {
+      "word": "برگشت",
+      "count": 1
+    },
+    {
+      "word": "اطمینانی",
+      "count": 1
+    },
+    {
+      "word": "آیندۀ",
+      "count": 1
+    },
+    {
+      "word": "ندارند",
+      "count": 1
+    },
+    {
+      "word": "ام",
+      "count": 1
+    },
+    {
+      "word": "حدود",
+      "count": 1
+    },
+    {
+      "word": "تن",
+      "count": 1
+    },
+    {
+      "word": "صحی",
+      "count": 1
+    },
+    {
+      "word": "نیاز",
+      "count": 1
+    },
+    {
+      "word": "مهاجران",
+      "count": 1
+    },
+    {
+      "word": "خبرها",
+      "count": 1
+    },
+    {
+      "word": "دیدیم",
+      "count": 1
+    },
+    {
+      "word": "کشته",
+      "count": 1
+    },
+    {
+      "word": "نگران",
+      "count": 1
+    },
+    {
+      "word": "محموله",
+      "count": 1
+    },
+    {
+      "word": "تجهیزات",
+      "count": 1
+    },
+    {
+      "word": "طبی",
+      "count": 1
+    },
+    {
+      "word": "حیاتی",
+      "count": 1
+    },
+    {
+      "word": "سایر",
+      "count": 1
+    },
+    {
+      "word": "نزدیکان",
+      "count": 1
+    },
+    {
+      "word": "قربانیان",
+      "count": 1
+    },
+    {
+      "word": "کس",
+      "count": 1
+    },
+    {
+      "word": "نرسیده",
+      "count": 1
+    },
+    {
+      "word": "نوردان",
+      "count": 1
+    },
+    {
+      "word": "کدام",
+      "count": 1
+    },
+    {
+      "word": "سطح",
+      "count": 1
+    },
+    {
+      "word": "مهتاب",
+      "count": 1
+    },
+    {
+      "word": "پایین",
+      "count": 1
+    },
+    {
+      "word": "شدند",
+      "count": 1
+    },
+    {
+      "word": "درس",
+      "count": 1
+    },
+    {
+      "word": "تاریخ",
+      "count": 1
+    },
+    {
+      "word": "مدنیت",
+      "count": 1
+    },
+    {
+      "word": "ویدی",
+      "count": 1
+    },
+    {
+      "word": "اوستایی",
+      "count": 1
+    },
+    {
+      "word": "کجا",
+      "count": 1
+    },
+    {
+      "word": "روابط",
+      "count": 1
+    },
+    {
+      "word": "قبل",
+      "count": 1
+    },
+    {
+      "word": "رستاخیز",
+      "count": 1
+    },
+    {
+      "word": "کندهار",
+      "count": 1
+    },
+    {
+      "word": "سیستم",
+      "count": 1
+    },
+    {
+      "word": "لمفاتیک",
+      "count": 1
+    },
+    {
+      "word": "چیست",
+      "count": 1
+    },
+    {
+      "word": "امید",
+      "count": 1
+    },
+    {
+      "word": "مقاومت",
+      "count": 1
+    },
+    {
+      "word": "دختران",
+      "count": 1
+    },
+    {
+      "word": "محرومیت",
+      "count": 1
+    },
+    {
+      "word": "تحصیل",
+      "count": 1
+    },
+    {
+      "word": "هستی",
+      "count": 1
+    },
+    {
+      "word": "دوست",
+      "count": 1
+    },
+    {
+      "word": "دارد",
+      "count": 1
+    },
+    {
+      "word": "برگردد",
+      "count": 1
+    },
+    {
+      "word": "ادامه",
+      "count": 1
+    },
+    {
+      "word": "بپیوندید",
+      "count": 1
+    },
+    {
+      "word": "ارتباط",
+      "count": 1
+    },
+    {
+      "word": "تماس",
+      "count": 1
+    },
+    {
+      "word": "اندراید",
+      "count": 1
+    },
+    {
+      "word": "اس",
+      "count": 1
+    },
+    {
+      "word": "همۀ",
+      "count": 1
+    },
+    {
+      "word": "چاپ",
+      "count": 1
+    },
+    {
+      "word": "کاپی",
+      "count": 1
+    },
+    {
+      "word": "رایت",
+      "count": 1
+    },
+    {
+      "word": "سایت",
+      "count": 1
+    },
+    {
+      "word": "محفوظ",
+      "count": 1
+    },
+    {
+      "word": "رحیم",
+      "count": 1
+    },
+    {
+      "word": "فروشی",
+      "count": 1
+    },
+    {
+      "word": "تنها",
+      "count": 1
+    },
+    {
+      "word": "مقیم",
+      "count": 1
+    },
+    {
+      "word": "بلکه",
+      "count": 1
+    },
+    {
+      "word": "شود",
+      "count": 1
+    },
+    {
+      "word": "بلجیم",
+      "count": 1
+    },
+    {
+      "word": "اتریش",
+      "count": 1
+    },
+    {
+      "word": "لندن",
+      "count": 1
+    },
+    {
+      "word": "بسیاری",
+      "count": 1
+    },
+    {
+      "word": "مشهور",
+      "count": 1
+    },
+    {
+      "word": "افزود",
+      "count": 1
+    },
+    {
+      "word": "فرصت",
+      "count": 1
+    },
+    {
+      "word": "ندادند",
+      "count": 1
+    },
+    {
+      "word": "وسایل",
+      "count": 1
+    },
+    {
+      "word": "جمع",
+      "count": 1
+    },
+    {
+      "word": "نهادهای",
+      "count": 1
+    },
+    {
+      "word": "مسئول",
+      "count": 1
+    },
+    {
+      "word": "بخش",
+      "count": 1
+    },
+    {
+      "word": "اقدامات",
+      "count": 1
+    },
+    {
+      "word": "لازم",
+      "count": 1
+    },
+    {
+      "word": "انجام",
+      "count": 1
+    },
+    {
+      "word": "دهند",
+      "count": 1
+    },
+    {
+      "word": "زیرا",
+      "count": 1
+    },
+    {
+      "word": "وضعیت",
+      "count": 1
+    },
+    {
+      "word": "چندان",
+      "count": 1
+    },
+    {
+      "word": "خوب",
+      "count": 1
+    },
+    {
+      "word": "نیست",
+      "count": 1
+    },
+    {
+      "word": "روی",
+      "count": 1
+    },
+    {
+      "word": "مجبوری",
+      "count": 1
+    },
+    {
+      "word": "مانده",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,1348 @@
+{
+  "code": "hbo",
+  "name": "Ancient Hebrew",
+  "script": "Hebr",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 1154,
+  "unique_tokens": 334,
+  "words": [
+    {
+      "word": "the",
+      "count": 90
+    },
+    {
+      "word": "of",
+      "count": 30
+    },
+    {
+      "word": "hebrew",
+      "count": 28
+    },
+    {
+      "word": "in",
+      "count": 27
+    },
+    {
+      "word": "and",
+      "count": 25
+    },
+    {
+      "word": "bible",
+      "count": 23
+    },
+    {
+      "word": "pt",
+      "count": 22
+    },
+    {
+      "word": "to",
+      "count": 22
+    },
+    {
+      "word": "we",
+      "count": 20
+    },
+    {
+      "word": "is",
+      "count": 20
+    },
+    {
+      "word": "on",
+      "count": 17
+    },
+    {
+      "word": "torah",
+      "count": 15
+    },
+    {
+      "word": "as",
+      "count": 14
+    },
+    {
+      "word": "you",
+      "count": 14
+    },
+    {
+      "word": "source",
+      "count": 12
+    },
+    {
+      "word": "https",
+      "count": 12
+    },
+    {
+      "word": "org",
+      "count": 12
+    },
+    {
+      "word": "english",
+      "count": 12
+    },
+    {
+      "word": "mechon-mamre",
+      "count": 11
+    },
+    {
+      "word": "htm",
+      "count": 11
+    },
+    {
+      "word": "mechon",
+      "count": 11
+    },
+    {
+      "word": "mamre",
+      "count": 11
+    },
+    {
+      "word": "from",
+      "count": 11
+    },
+    {
+      "word": "for",
+      "count": 10
+    },
+    {
+      "word": "are",
+      "count": 10
+    },
+    {
+      "word": "line",
+      "count": 10
+    },
+    {
+      "word": "that",
+      "count": 9
+    },
+    {
+      "word": "portion",
+      "count": 9
+    },
+    {
+      "word": "new",
+      "count": 9
+    },
+    {
+      "word": "if",
+      "count": 9
+    },
+    {
+      "word": "know",
+      "count": 9
+    },
+    {
+      "word": "our",
+      "count": 8
+    },
+    {
+      "word": "not",
+      "count": 8
+    },
+    {
+      "word": "text",
+      "count": 8
+    },
+    {
+      "word": "added",
+      "count": 8
+    },
+    {
+      "word": "this",
+      "count": 7
+    },
+    {
+      "word": "there",
+      "count": 7
+    },
+    {
+      "word": "haftarah",
+      "count": 7
+    },
+    {
+      "word": "than",
+      "count": 7
+    },
+    {
+      "word": "books",
+      "count": 7
+    },
+    {
+      "word": "which",
+      "count": 6
+    },
+    {
+      "word": "based",
+      "count": 6
+    },
+    {
+      "word": "found",
+      "count": 6
+    },
+    {
+      "word": "better",
+      "count": 6
+    },
+    {
+      "word": "each",
+      "count": 5
+    },
+    {
+      "word": "referred",
+      "count": 5
+    },
+    {
+      "word": "paragraph",
+      "count": 5
+    },
+    {
+      "word": "readings",
+      "count": 5
+    },
+    {
+      "word": "reading",
+      "count": 5
+    },
+    {
+      "word": "have",
+      "count": 5
+    },
+    {
+      "word": "prefer",
+      "count": 5
+    },
+    {
+      "word": "or",
+      "count": 4
+    },
+    {
+      "word": "it",
+      "count": 4
+    },
+    {
+      "word": "parashah",
+      "count": 4
+    },
+    {
+      "word": "one",
+      "count": 4
+    },
+    {
+      "word": "last",
+      "count": 4
+    },
+    {
+      "word": "weekly",
+      "count": 4
+    },
+    {
+      "word": "where",
+      "count": 4
+    },
+    {
+      "word": "by",
+      "count": 4
+    },
+    {
+      "word": "word",
+      "count": 4
+    },
+    {
+      "word": "html",
+      "count": 4
+    },
+    {
+      "word": "original",
+      "count": 4
+    },
+    {
+      "word": "verse",
+      "count": 4
+    },
+    {
+      "word": "within",
+      "count": 4
+    },
+    {
+      "word": "try",
+      "count": 4
+    },
+    {
+      "word": "will",
+      "count": 4
+    },
+    {
+      "word": "probably",
+      "count": 4
+    },
+    {
+      "word": "chumash",
+      "count": 4
+    },
+    {
+      "word": "five",
+      "count": 4
+    },
+    {
+      "word": "week",
+      "count": 3
+    },
+    {
+      "word": "read",
+      "count": 3
+    },
+    {
+      "word": "passage",
+      "count": 3
+    },
+    {
+      "word": "first",
+      "count": 3
+    },
+    {
+      "word": "beginning",
+      "count": 3
+    },
+    {
+      "word": "genesis",
+      "count": 3
+    },
+    {
+      "word": "year",
+      "count": 3
+    },
+    {
+      "word": "deuteronomy",
+      "count": 3
+    },
+    {
+      "word": "some",
+      "count": 3
+    },
+    {
+      "word": "up",
+      "count": 3
+    },
+    {
+      "word": "few",
+      "count": 3
+    },
+    {
+      "word": "blessings",
+      "count": 3
+    },
+    {
+      "word": "honor",
+      "count": 3
+    },
+    {
+      "word": "maftir",
+      "count": 3
+    },
+    {
+      "word": "meaning",
+      "count": 3
+    },
+    {
+      "word": "comes",
+      "count": 3
+    },
+    {
+      "word": "end",
+      "count": 3
+    },
+    {
+      "word": "various",
+      "count": 3
+    },
+    {
+      "word": "all",
+      "count": 3
+    },
+    {
+      "word": "rest",
+      "count": 3
+    },
+    {
+      "word": "special",
+      "count": 3
+    },
+    {
+      "word": "do",
+      "count": 3
+    },
+    {
+      "word": "פרויקט",
+      "count": 3
+    },
+    {
+      "word": "של",
+      "count": 3
+    },
+    {
+      "word": "synagogue",
+      "count": 2
+    },
+    {
+      "word": "parashiyot",
+      "count": 2
+    },
+    {
+      "word": "so",
+      "count": 2
+    },
+    {
+      "word": "entire",
+      "count": 2
+    },
+    {
+      "word": "weeks",
+      "count": 2
+    },
+    {
+      "word": "portions",
+      "count": 2
+    },
+    {
+      "word": "around",
+      "count": 2
+    },
+    {
+      "word": "holiday",
+      "count": 2
+    },
+    {
+      "word": "simchat",
+      "count": 2
+    },
+    {
+      "word": "after",
+      "count": 2
+    },
+    {
+      "word": "jewish",
+      "count": 2
+    },
+    {
+      "word": "below",
+      "count": 2
+    },
+    {
+      "word": "haftarot",
+      "count": 2
+    },
+    {
+      "word": "parentheses",
+      "count": 2
+    },
+    {
+      "word": "indicate",
+      "count": 2
+    },
+    {
+      "word": "sephardic",
+      "count": 2
+    },
+    {
+      "word": "ritual",
+      "count": 2
+    },
+    {
+      "word": "differs",
+      "count": 2
+    },
+    {
+      "word": "ashkenazic",
+      "count": 2
+    },
+    {
+      "word": "but",
+      "count": 2
+    },
+    {
+      "word": "given",
+      "count": 2
+    },
+    {
+      "word": "aliyah",
+      "count": 2
+    },
+    {
+      "word": "well",
+      "count": 2
+    },
+    {
+      "word": "root",
+      "count": 2
+    },
+    {
+      "word": "usually",
+      "count": 2
+    },
+    {
+      "word": "edition",
+      "count": 2
+    },
+    {
+      "word": "electronic",
+      "count": 2
+    },
+    {
+      "word": "larry",
+      "count": 2
+    },
+    {
+      "word": "nelson",
+      "count": 2
+    },
+    {
+      "word": "box",
+      "count": 2
+    },
+    {
+      "word": "cathedral",
+      "count": 2
+    },
+    {
+      "word": "city",
+      "count": 2
+    },
+    {
+      "word": "ca",
+      "count": 2
+    },
+    {
+      "word": "usa",
+      "count": 2
+    },
+    {
+      "word": "email",
+      "count": 2
+    },
+    {
+      "word": "protected",
+      "count": 2
+    },
+    {
+      "word": "internet",
+      "count": 2
+    },
+    {
+      "word": "differing",
+      "count": 2
+    },
+    {
+      "word": "copies",
+      "count": 2
+    },
+    {
+      "word": "addition",
+      "count": 2
+    },
+    {
+      "word": "converting",
+      "count": 2
+    },
+    {
+      "word": "his",
+      "count": 2
+    },
+    {
+      "word": "did",
+      "count": 2
+    },
+    {
+      "word": "correct",
+      "count": 2
+    },
+    {
+      "word": "typographical",
+      "count": 2
+    },
+    {
+      "word": "errors",
+      "count": 2
+    },
+    {
+      "word": "mostly",
+      "count": 2
+    },
+    {
+      "word": "comparing",
+      "count": 2
+    },
+    {
+      "word": "versions",
+      "count": 2
+    },
+    {
+      "word": "took",
+      "count": 2
+    },
+    {
+      "word": "out",
+      "count": 2
+    },
+    {
+      "word": "marks",
+      "count": 2
+    },
+    {
+      "word": "para",
+      "count": 2
+    },
+    {
+      "word": "were",
+      "count": 2
+    },
+    {
+      "word": "signs",
+      "count": 2
+    },
+    {
+      "word": "paragraphs",
+      "count": 2
+    },
+    {
+      "word": "poetical",
+      "count": 2
+    },
+    {
+      "word": "psalms",
+      "count": 2
+    },
+    {
+      "word": "job",
+      "count": 2
+    },
+    {
+      "word": "aside",
+      "count": 2
+    },
+    {
+      "word": "proverbs",
+      "count": 2
+    },
+    {
+      "word": "normally",
+      "count": 2
+    },
+    {
+      "word": "starts",
+      "count": 2
+    },
+    {
+      "word": "when",
+      "count": 2
+    },
+    {
+      "word": "blank",
+      "count": 2
+    },
+    {
+      "word": "setumah",
+      "count": 2
+    },
+    {
+      "word": "open",
+      "count": 2
+    },
+    {
+      "word": "space",
+      "count": 2
+    },
+    {
+      "word": "petuhah",
+      "count": 2
+    },
+    {
+      "word": "according",
+      "count": 2
+    },
+    {
+      "word": "tried",
+      "count": 2
+    },
+    {
+      "word": "reproduce",
+      "count": 2
+    },
+    {
+      "word": "complex",
+      "count": 2
+    },
+    {
+      "word": "structure",
+      "count": 2
+    },
+    {
+      "word": "songs",
+      "count": 2
+    },
+    {
+      "word": "such",
+      "count": 2
+    },
+    {
+      "word": "exodus",
+      "count": 2
+    },
+    {
+      "word": "think",
+      "count": 2
+    },
+    {
+      "word": "would",
+      "count": 2
+    },
+    {
+      "word": "make",
+      "count": 2
+    },
+    {
+      "word": "sense",
+      "count": 2
+    },
+    {
+      "word": "holidays",
+      "count": 2
+    },
+    {
+      "word": "with",
+      "count": 2
+    },
+    {
+      "word": "divided",
+      "count": 2
+    },
+    {
+      "word": "into",
+      "count": 2
+    },
+    {
+      "word": "wikisource",
+      "count": 2
+    },
+    {
+      "word": "העברית",
+      "count": 2
+    },
+    {
+      "word": "טקסטים",
+      "count": 2
+    },
+    {
+      "word": "french",
+      "count": 2
+    },
+    {
+      "word": "hebrew-french",
+      "count": 2
+    },
+    {
+      "word": "portuguese",
+      "count": 2
+    },
+    {
+      "word": "hebrew-portuguese",
+      "count": 2
+    },
+    {
+      "word": "spanish",
+      "count": 2
+    },
+    {
+      "word": "hebrew-spanish",
+      "count": 2
+    },
+    {
+      "word": "scriptures",
+      "count": 2
+    },
+    {
+      "word": "sometimes",
+      "count": 2
+    },
+    {
+      "word": "bound",
+      "count": 2
+    },
+    {
+      "word": "refers",
+      "count": 2
+    },
+    {
+      "word": "more",
+      "count": 1
+    },
+    {
+      "word": "accurately",
+      "count": 1
+    },
+    {
+      "word": "chant",
+      "count": 1
+    },
+    {
+      "word": "because",
+      "count": 1
+    },
+    {
+      "word": "sung",
+      "count": 1
+    },
+    {
+      "word": "example",
+      "count": 1
+    },
+    {
+      "word": "parashat",
+      "count": 1
+    },
+    {
+      "word": "bereishit",
+      "count": 1
+    },
+    {
+      "word": "covers",
+      "count": 1
+    },
+    {
+      "word": "story",
+      "count": 1
+    },
+    {
+      "word": "noah",
+      "count": 1
+    },
+    {
+      "word": "parashahs",
+      "count": 1
+    },
+    {
+      "word": "leap",
+      "count": 1
+    },
+    {
+      "word": "course",
+      "count": 1
+    },
+    {
+      "word": "services",
+      "count": 1
+    },
+    {
+      "word": "during",
+      "count": 1
+    },
+    {
+      "word": "non-leap",
+      "count": 1
+    },
+    {
+      "word": "years",
+      "count": 1
+    },
+    {
+      "word": "shorter",
+      "count": 1
+    },
+    {
+      "word": "doubled",
+      "count": 1
+    },
+    {
+      "word": "reach",
+      "count": 1
+    },
+    {
+      "word": "called",
+      "count": 1
+    },
+    {
+      "word": "rejoicing",
+      "count": 1
+    },
+    {
+      "word": "law",
+      "count": 1
+    },
+    {
+      "word": "occurs",
+      "count": 1
+    },
+    {
+      "word": "september",
+      "count": 1
+    },
+    {
+      "word": "october",
+      "count": 1
+    },
+    {
+      "word": "rosh",
+      "count": 1
+    },
+    {
+      "word": "hashanah",
+      "count": 1
+    },
+    {
+      "word": "proceed",
+      "count": 1
+    },
+    {
+      "word": "immediately",
+      "count": 1
+    },
+    {
+      "word": "showing",
+      "count": 1
+    },
+    {
+      "word": "circle",
+      "count": 1
+    },
+    {
+      "word": "never",
+      "count": 1
+    },
+    {
+      "word": "ends",
+      "count": 1
+    },
+    {
+      "word": "table",
+      "count": 1
+    },
+    {
+      "word": "regular",
+      "count": 1
+    },
+    {
+      "word": "scriptural",
+      "count": 1
+    },
+    {
+      "word": "other",
+      "count": 1
+    },
+    {
+      "word": "variations",
+      "count": 1
+    },
+    {
+      "word": "yemenites",
+      "count": 1
+    },
+    {
+      "word": "others",
+      "count": 1
+    },
+    {
+      "word": "these",
+      "count": 1
+    },
+    {
+      "word": "most",
+      "count": 1
+    },
+    {
+      "word": "commonly",
+      "count": 1
+    },
+    {
+      "word": "used",
+      "count": 1
+    },
+    {
+      "word": "ones",
+      "count": 1
+    },
+    {
+      "word": "celebrants",
+      "count": 1
+    },
+    {
+      "word": "life",
+      "count": 1
+    },
+    {
+      "word": "events",
+      "count": 1
+    },
+    {
+      "word": "customarily",
+      "count": 1
+    },
+    {
+      "word": "includes",
+      "count": 1
+    },
+    {
+      "word": "part",
+      "count": 1
+    },
+    {
+      "word": "several",
+      "count": 1
+    },
+    {
+      "word": "person",
+      "count": 1
+    },
+    {
+      "word": "same",
+      "count": 1
+    },
+    {
+      "word": "who",
+      "count": 1
+    },
+    {
+      "word": "concludes",
+      "count": 1
+    },
+    {
+      "word": "service",
+      "count": 1
+    },
+    {
+      "word": "followed",
+      "count": 1
+    },
+    {
+      "word": "prophets",
+      "count": 1
+    },
+    {
+      "word": "contrary",
+      "count": 1
+    },
+    {
+      "word": "common",
+      "count": 1
+    },
+    {
+      "word": "misconception",
+      "count": 1
+    },
+    {
+      "word": "does",
+      "count": 1
+    },
+    {
+      "word": "mean",
+      "count": 1
+    },
+    {
+      "word": "half-torah",
+      "count": 1
+    },
+    {
+      "word": "conclusion",
+      "count": 1
+    },
+    {
+      "word": "no",
+      "count": 1
+    },
+    {
+      "word": "longer",
+      "count": 1
+    },
+    {
+      "word": "chapter",
+      "count": 1
+    },
+    {
+      "word": "has",
+      "count": 1
+    },
+    {
+      "word": "relation",
+      "count": 1
+    },
+    {
+      "word": "additional",
+      "count": 1
+    },
+    {
+      "word": "sabbaths",
+      "count": 1
+    },
+    {
+      "word": "note",
+      "count": 1
+    },
+    {
+      "word": "ordinarily",
+      "count": 1
+    },
+    {
+      "word": "different",
+      "count": 1
+    },
+    {
+      "word": "scroll",
+      "count": 1
+    },
+    {
+      "word": "institutes",
+      "count": 1
+    },
+    {
+      "word": "specifies",
+      "count": 1
+    },
+    {
+      "word": "holiday's",
+      "count": 1
+    },
+    {
+      "word": "offerings",
+      "count": 1
+    },
+    {
+      "word": "performed",
+      "count": 1
+    },
+    {
+      "word": "great",
+      "count": 1
+    },
+    {
+      "word": "ceremony",
+      "count": 1
+    },
+    {
+      "word": "paraded",
+      "count": 1
+    },
+    {
+      "word": "room",
+      "count": 1
+    },
+    {
+      "word": "before",
+      "count": 1
+    },
+    {
+      "word": "brought",
+      "count": 1
+    },
+    {
+      "word": "bimah",
+      "count": 1
+    },
+    {
+      "word": "podium",
+      "count": 1
+    },
+    {
+      "word": "members",
+      "count": 1
+    },
+    {
+      "word": "congregation",
+      "count": 1
+    },
+    {
+      "word": "reciting",
+      "count": 1
+    },
+    {
+      "word": "over",
+      "count": 1
+    },
+    {
+      "word": "doing",
+      "count": 1
+    },
+    {
+      "word": "an",
+      "count": 1
+    },
+    {
+      "word": "literally",
+      "count": 1
+    },
+    {
+      "word": "ascension",
+      "count": 1
+    },
+    {
+      "word": "he",
+      "count": 1
+    },
+    {
+      "word": "wiki",
+      "count": 1
+    },
+    {
+      "word": "biblical",
+      "count": 1
+    },
+    {
+      "word": "texts",
+      "count": 1
+    },
+    {
+      "word": "בן",
+      "count": 1
+    },
+    {
+      "word": "יהודה",
+      "count": 1
+    },
+    {
+      "word": "מהדורות",
+      "count": 1
+    },
+    {
+      "word": "אלקטרוניות",
+      "count": 1
+    },
+    {
+      "word": "נכסי",
+      "count": 1
+    },
+    {
+      "word": "הספרות",
+      "count": 1
+    },
+    {
+      "word": "sefaria",
+      "count": 1
+    },
+    {
+      "word": "דו",
+      "count": 1
+    },
+    {
+      "word": "לשוני",
+      "count": 1
+    },
+    {
+      "word": "מארון",
+      "count": 1
+    },
+    {
+      "word": "הספרים",
+      "count": 1
+    },
+    {
+      "word": "היהודי",
+      "count": 1
+    },
+    {
+      "word": "מאגרי",
+      "count": 1
+    },
+    {
+      "word": "המידע",
+      "count": 1
+    },
+    {
+      "word": "האקדמיה",
+      "count": 1
+    },
+    {
+      "word": "ללשון",
+      "count": 1
+    },
+    {
+      "word": "המכיל",
+      "count": 1
+    },
+    {
+      "word": "רבים",
+      "count": 1
+    },
+    {
+      "word": "מתקופות",
+      "count": 1
+    },
+    {
+      "word": "רבות",
+      "count": 1
+    },
+    {
+      "word": "ומאפשר",
+      "count": 1
+    },
+    {
+      "word": "גם",
+      "count": 1
+    },
+    {
+      "word": "חיפושים",
+      "count": 1
+    },
+    {
+      "word": "בהם",
+      "count": 1
+    },
+    {
+      "word": "any",
+      "count": 1
+    },
+    {
+      "word": "may",
+      "count": 1
+    },
+    {
+      "word": "four",
+      "count": 1
+    },
+    {
+      "word": "bibles",
+      "count": 1
+    },
+    {
+      "word": "form",
+      "count": 1
+    },
+    {
+      "word": "corresponds",
+      "count": 1
+    },
+    {
+      "word": "division",
+      "count": 1
+    },
+    {
+      "word": "way",
+      "count": 1
+    },
+    {
+      "word": "generally",
+      "count": 1
+    },
+    {
+      "word": "simply",
+      "count": 1
+    },
+    {
+      "word": "collection",
+      "count": 1
+    },
+    {
+      "word": "often",
+      "count": 1
+    },
+    {
+      "word": "contains",
+      "count": 1
+    },
+    {
+      "word": "inserted",
+      "count": 1
+    },
+    {
+      "word": "week's",
+      "count": 1
+    }
+  ]
+}

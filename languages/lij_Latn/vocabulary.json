@@ -1,0 +1,4012 @@
+{
+  "code": "lij",
+  "name": "Ligurian",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (lij.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 270070,
+  "unique_tokens": 50726,
+  "words": [
+    {
+      "word": "de",
+      "count": 15388
+    },
+    {
+      "word": "da",
+      "count": 5928
+    },
+    {
+      "word": "in",
+      "count": 4886
+    },
+    {
+      "word": "do",
+      "count": 3629
+    },
+    {
+      "word": "l'è",
+      "count": 2568
+    },
+    {
+      "word": "l'é",
+      "count": 2446
+    },
+    {
+      "word": "di",
+      "count": 2311
+    },
+    {
+      "word": "che",
+      "count": 1887
+    },
+    {
+      "word": "se",
+      "count": 1827
+    },
+    {
+      "word": "du",
+      "count": 1712
+    },
+    {
+      "word": "pe",
+      "count": 1531
+    },
+    {
+      "word": "ciù",
+      "count": 1460
+    },
+    {
+      "word": "na",
+      "count": 1221
+    },
+    {
+      "word": "ascì",
+      "count": 1144
+    },
+    {
+      "word": "into",
+      "count": 1122
+    },
+    {
+      "word": "inte",
+      "count": 1101
+    },
+    {
+      "word": "inta",
+      "count": 1018
+    },
+    {
+      "word": "sò",
+      "count": 988
+    },
+    {
+      "word": "progètti",
+      "count": 966
+    },
+    {
+      "word": "a-a",
+      "count": 926
+    },
+    {
+      "word": "âtri",
+      "count": 834
+    },
+    {
+      "word": "lengua",
+      "count": 827
+    },
+    {
+      "word": "con",
+      "count": 776
+    },
+    {
+      "word": "da-o",
+      "count": 768
+    },
+    {
+      "word": "cun",
+      "count": 764
+    },
+    {
+      "word": "san",
+      "count": 762
+    },
+    {
+      "word": "a-o",
+      "count": 743
+    },
+    {
+      "word": "l'à",
+      "count": 719
+    },
+    {
+      "word": "chi",
+      "count": 701
+    },
+    {
+      "word": "un",
+      "count": 615
+    },
+    {
+      "word": "no",
+      "count": 602
+    },
+    {
+      "word": "tra",
+      "count": 583
+    },
+    {
+      "word": "cómme",
+      "count": 572
+    },
+    {
+      "word": "ch'a",
+      "count": 568
+    },
+    {
+      "word": "ma",
+      "count": 539
+    },
+    {
+      "word": "stöia",
+      "count": 538
+    },
+    {
+      "word": "son",
+      "count": 514
+    },
+    {
+      "word": "ciü",
+      "count": 499
+    },
+    {
+      "word": "ch'o",
+      "count": 467
+    },
+    {
+      "word": "són",
+      "count": 453
+    },
+    {
+      "word": "léngoa",
+      "count": 453
+    },
+    {
+      "word": "nomme",
+      "count": 447
+    },
+    {
+      "word": "da-a",
+      "count": 429
+    },
+    {
+      "word": "çitæ",
+      "count": 426
+    },
+    {
+      "word": "pàrte",
+      "count": 416
+    },
+    {
+      "word": "intu",
+      "count": 390
+    },
+    {
+      "word": "lengue",
+      "count": 389
+    },
+    {
+      "word": "mâ",
+      "count": 387
+    },
+    {
+      "word": "co-a",
+      "count": 387
+    },
+    {
+      "word": "parte",
+      "count": 385
+    },
+    {
+      "word": "comme",
+      "count": 385
+    },
+    {
+      "word": "atri",
+      "count": 378
+    },
+    {
+      "word": "abitanti",
+      "count": 375
+    },
+    {
+      "word": "a-u",
+      "count": 355
+    },
+    {
+      "word": "zena",
+      "count": 351
+    },
+    {
+      "word": "stæto",
+      "count": 349
+    },
+    {
+      "word": "unn-a",
+      "count": 341
+    },
+    {
+      "word": "gh'é",
+      "count": 340
+    },
+    {
+      "word": "ghe",
+      "count": 338
+    },
+    {
+      "word": "stati",
+      "count": 334
+    },
+    {
+      "word": "quæ",
+      "count": 324
+    },
+    {
+      "word": "co-o",
+      "count": 322
+    },
+    {
+      "word": "léngoe",
+      "count": 322
+    },
+    {
+      "word": "au",
+      "count": 320
+    },
+    {
+      "word": "stæta",
+      "count": 315
+    },
+    {
+      "word": "a-i",
+      "count": 313
+    },
+    {
+      "word": "genere",
+      "count": 309
+    },
+    {
+      "word": "inti",
+      "count": 307
+    },
+    {
+      "word": "ofiçiâ",
+      "count": 304
+    },
+    {
+      "word": "ina",
+      "count": 304
+    },
+    {
+      "word": "pàize",
+      "count": 300
+    },
+    {
+      "word": "famiggia",
+      "count": 300
+    },
+    {
+      "word": "descriçion",
+      "count": 296
+    },
+    {
+      "word": "nòtte",
+      "count": 289
+    },
+    {
+      "word": "seu",
+      "count": 278
+    },
+    {
+      "word": "provinsa",
+      "count": 274
+    },
+    {
+      "word": "stato",
+      "count": 273
+    },
+    {
+      "word": "çittæ",
+      "count": 263
+    },
+    {
+      "word": "da-i",
+      "count": 257
+    },
+    {
+      "word": "specie",
+      "count": 257
+    },
+    {
+      "word": "pòsti",
+      "count": 255
+    },
+    {
+      "word": "la",
+      "count": 255
+    },
+    {
+      "word": "nòrd",
+      "count": 252
+    },
+    {
+      "word": "regno",
+      "count": 251
+    },
+    {
+      "word": "vegne",
+      "count": 249
+    },
+    {
+      "word": "tipo",
+      "count": 247
+    },
+    {
+      "word": "fìn",
+      "count": 246
+    },
+    {
+      "word": "capitâle",
+      "count": 239
+    },
+    {
+      "word": "sécolo",
+      "count": 239
+    },
+    {
+      "word": "primma",
+      "count": 238
+    },
+    {
+      "word": "l'êa",
+      "count": 237
+    },
+    {
+      "word": "pé",
+      "count": 236
+    },
+    {
+      "word": "capitâ",
+      "count": 229
+    },
+    {
+      "word": "prìmma",
+      "count": 228
+    },
+    {
+      "word": "cumme",
+      "count": 226
+    },
+    {
+      "word": "in-tu",
+      "count": 225
+    },
+    {
+      "word": "sun",
+      "count": 214
+    },
+    {
+      "word": "naçión",
+      "count": 213
+    },
+    {
+      "word": "dòppo",
+      "count": 211
+    },
+    {
+      "word": "te",
+      "count": 209
+    },
+    {
+      "word": "l'ha",
+      "count": 209
+    },
+    {
+      "word": "feste",
+      "count": 209
+    },
+    {
+      "word": "coscì",
+      "count": 208
+    },
+    {
+      "word": "colegaménti",
+      "count": 206
+    },
+    {
+      "word": "ànni",
+      "count": 205
+    },
+    {
+      "word": "fin",
+      "count": 205
+    },
+    {
+      "word": "tröva",
+      "count": 205
+    },
+    {
+      "word": "lìgure",
+      "count": 202
+    },
+    {
+      "word": "ai",
+      "count": 201
+    },
+    {
+      "word": "pe-a",
+      "count": 199
+    },
+    {
+      "word": "bén",
+      "count": 197
+    },
+    {
+      "word": "coltûa",
+      "count": 196
+    },
+    {
+      "word": "d'a",
+      "count": 194
+    },
+    {
+      "word": "quande",
+      "count": 194
+    },
+    {
+      "word": "fra",
+      "count": 194
+    },
+    {
+      "word": "sö",
+      "count": 194
+    },
+    {
+      "word": "parlâ",
+      "count": 193
+    },
+    {
+      "word": "virus",
+      "count": 193
+    },
+    {
+      "word": "sciâ",
+      "count": 192
+    },
+    {
+      "word": "sce",
+      "count": 191
+    },
+    {
+      "word": "mòddo",
+      "count": 191
+    },
+    {
+      "word": "esterni",
+      "count": 189
+    },
+    {
+      "word": "seculu",
+      "count": 189
+    },
+    {
+      "word": "zenéize",
+      "count": 186
+    },
+    {
+      "word": "sta",
+      "count": 186
+    },
+    {
+      "word": "interesse",
+      "count": 185
+    },
+    {
+      "word": "unïi",
+      "count": 185
+    },
+    {
+      "word": "ch'u",
+      "count": 183
+    },
+    {
+      "word": "zêna",
+      "count": 182
+    },
+    {
+      "word": "âtre",
+      "count": 181
+    },
+    {
+      "word": "da-u",
+      "count": 176
+    },
+    {
+      "word": "gh'à",
+      "count": 171
+    },
+    {
+      "word": "gêxa",
+      "count": 171
+    },
+    {
+      "word": "gruppo",
+      "count": 171
+    },
+    {
+      "word": "fa",
+      "count": 170
+    },
+    {
+      "word": "a-e",
+      "count": 170
+    },
+    {
+      "word": "cumün",
+      "count": 169
+    },
+    {
+      "word": "d'america",
+      "count": 169
+    },
+    {
+      "word": "àn",
+      "count": 168
+    },
+    {
+      "word": "prezénpio",
+      "count": 168
+    },
+    {
+      "word": "sann-a",
+      "count": 168
+    },
+    {
+      "word": "ün",
+      "count": 168
+    },
+    {
+      "word": "sciô",
+      "count": 166
+    },
+    {
+      "word": "anche",
+      "count": 165
+    },
+    {
+      "word": "poi",
+      "count": 165
+    },
+    {
+      "word": "comùn",
+      "count": 164
+    },
+    {
+      "word": "gh'è",
+      "count": 164
+    },
+    {
+      "word": "teritöi",
+      "count": 156
+    },
+    {
+      "word": "repùbrica",
+      "count": 155
+    },
+    {
+      "word": "teritöio",
+      "count": 154
+    },
+    {
+      "word": "ògni",
+      "count": 154
+    },
+    {
+      "word": "sutta",
+      "count": 154
+    },
+    {
+      "word": "nobel",
+      "count": 154
+    },
+    {
+      "word": "fëe",
+      "count": 153
+    },
+    {
+      "word": "burgu",
+      "count": 153
+    },
+    {
+      "word": "km",
+      "count": 152
+    },
+    {
+      "word": "grànde",
+      "count": 149
+    },
+    {
+      "word": "dî",
+      "count": 149
+    },
+    {
+      "word": "pi-â",
+      "count": 147
+    },
+    {
+      "word": "santa",
+      "count": 147
+    },
+    {
+      "word": "comunicaçioin",
+      "count": 146
+    },
+    {
+      "word": "anni",
+      "count": 145
+    },
+    {
+      "word": "ra",
+      "count": 145
+    },
+    {
+      "word": "üna",
+      "count": 145
+    },
+    {
+      "word": "animalia",
+      "count": 145
+    },
+    {
+      "word": "ligure",
+      "count": 144
+    },
+    {
+      "word": "geògrafia",
+      "count": 144
+    },
+    {
+      "word": "levànte",
+      "count": 143
+    },
+    {
+      "word": "stâto",
+      "count": 142
+    },
+    {
+      "word": "lengoìstica",
+      "count": 142
+    },
+    {
+      "word": "sêu",
+      "count": 142
+    },
+    {
+      "word": "manifestaçioin",
+      "count": 142
+    },
+    {
+      "word": "phylum",
+      "count": 142
+    },
+    {
+      "word": "biologîa",
+      "count": 142
+    },
+    {
+      "word": "d'u",
+      "count": 140
+    },
+    {
+      "word": "géxa",
+      "count": 140
+    },
+    {
+      "word": "economia",
+      "count": 139
+    },
+    {
+      "word": "cìnn-a",
+      "count": 139
+    },
+    {
+      "word": "subregno",
+      "count": 139
+    },
+    {
+      "word": "bilateria",
+      "count": 139
+    },
+    {
+      "word": "sàn",
+      "count": 138
+    },
+    {
+      "word": "eumetazoa",
+      "count": 138
+    },
+    {
+      "word": "taxonavigaçion",
+      "count": 137
+    },
+    {
+      "word": "superphylum",
+      "count": 137
+    },
+    {
+      "word": "deuterostomia",
+      "count": 137
+    },
+    {
+      "word": "to",
+      "count": 136
+    },
+    {
+      "word": "da-e",
+      "count": 136
+    },
+    {
+      "word": "metazoa",
+      "count": 135
+    },
+    {
+      "word": "nu",
+      "count": 134
+    },
+    {
+      "word": "g'ha",
+      "count": 133
+    },
+    {
+      "word": "membri",
+      "count": 133
+    },
+    {
+      "word": "régno",
+      "count": 132
+    },
+    {
+      "word": "subphylum",
+      "count": 132
+    },
+    {
+      "word": "goæra",
+      "count": 131
+    },
+    {
+      "word": "economîa",
+      "count": 131
+    },
+    {
+      "word": "quélla",
+      "count": 131
+    },
+    {
+      "word": "aa",
+      "count": 131
+    },
+    {
+      "word": "ponénte",
+      "count": 130
+    },
+    {
+      "word": "grande",
+      "count": 128
+    },
+    {
+      "word": "del",
+      "count": 128
+    },
+    {
+      "word": "chordata",
+      "count": 128
+    },
+    {
+      "word": "sud",
+      "count": 127
+    },
+    {
+      "word": "móndo",
+      "count": 127
+    },
+    {
+      "word": "vertebrata",
+      "count": 127
+    },
+    {
+      "word": "prémio",
+      "count": 127
+    },
+    {
+      "word": "fæto",
+      "count": 125
+    },
+    {
+      "word": "arbenga",
+      "count": 125
+    },
+    {
+      "word": "quéllo",
+      "count": 124
+    },
+    {
+      "word": "italian",
+      "count": 123
+    },
+    {
+      "word": "zeneise",
+      "count": 122
+    },
+    {
+      "word": "dau",
+      "count": 122
+    },
+    {
+      "word": "aprêuvo",
+      "count": 121
+    },
+    {
+      "word": "segóndo",
+      "count": 120
+    },
+    {
+      "word": "scibén",
+      "count": 120
+    },
+    {
+      "word": "ch'i",
+      "count": 120
+    },
+    {
+      "word": "l'ànno",
+      "count": 119
+    },
+    {
+      "word": "geṡe",
+      "count": 119
+    },
+    {
+      "word": "pöi",
+      "count": 118
+    },
+    {
+      "word": "popolaçión",
+      "count": 118
+    },
+    {
+      "word": "zeneize",
+      "count": 117
+    },
+    {
+      "word": "of",
+      "count": 117
+    },
+    {
+      "word": "ben",
+      "count": 116
+    },
+    {
+      "word": "stòia",
+      "count": 116
+    },
+    {
+      "word": "in-ta",
+      "count": 116
+    },
+    {
+      "word": "en",
+      "count": 114
+    },
+    {
+      "word": "ancón",
+      "count": 114
+    },
+    {
+      "word": "ti",
+      "count": 114
+    },
+    {
+      "word": "dea",
+      "count": 114
+    },
+    {
+      "word": "piemontéize",
+      "count": 114
+    },
+    {
+      "word": "abitànti",
+      "count": 113
+    },
+    {
+      "word": "per",
+      "count": 113
+    },
+    {
+      "word": "sùd",
+      "count": 112
+    },
+    {
+      "word": "l'unión",
+      "count": 112
+    },
+    {
+      "word": "architetüe",
+      "count": 111
+    },
+    {
+      "word": "sùn",
+      "count": 111
+    },
+    {
+      "word": "ordine",
+      "count": 111
+    },
+    {
+      "word": "peu",
+      "count": 110
+    },
+    {
+      "word": "svilùppo",
+      "count": 109
+    },
+    {
+      "word": "doppu",
+      "count": 109
+    },
+    {
+      "word": "frasiùn",
+      "count": 108
+    },
+    {
+      "word": "quella",
+      "count": 107
+    },
+    {
+      "word": "méntre",
+      "count": 107
+    },
+    {
+      "word": "indipendente",
+      "count": 106
+    },
+    {
+      "word": "italiàn",
+      "count": 105
+    },
+    {
+      "word": "giögrafîa",
+      "count": 105
+    },
+    {
+      "word": "sôlo",
+      "count": 105
+    },
+    {
+      "word": "finô",
+      "count": 105
+    },
+    {
+      "word": "però",
+      "count": 104
+    },
+    {
+      "word": "so",
+      "count": 103
+    },
+    {
+      "word": "dôe",
+      "count": 103
+    },
+    {
+      "word": "región",
+      "count": 103
+    },
+    {
+      "word": "sto",
+      "count": 103
+    },
+    {
+      "word": "mêno",
+      "count": 102
+    },
+    {
+      "word": "numme",
+      "count": 102
+    },
+    {
+      "word": "superregno",
+      "count": 102
+    },
+    {
+      "word": "dai",
+      "count": 101
+    },
+    {
+      "word": "segondo",
+      "count": 101
+    },
+    {
+      "word": "repubbrica",
+      "count": 101
+    },
+    {
+      "word": "d'oltremâ",
+      "count": 101
+    },
+    {
+      "word": "progetti",
+      "count": 99
+    },
+    {
+      "word": "estèrni",
+      "count": 99
+    },
+    {
+      "word": "unna",
+      "count": 99
+    },
+    {
+      "word": "parlæ",
+      "count": 98
+    },
+    {
+      "word": "festa",
+      "count": 98
+    },
+    {
+      "word": "eukarya",
+      "count": 98
+    },
+    {
+      "word": "ancheu",
+      "count": 97
+    },
+    {
+      "word": "scistêma",
+      "count": 97
+    },
+    {
+      "word": "êse",
+      "count": 97
+    },
+    {
+      "word": "conponiménti",
+      "count": 97
+    },
+    {
+      "word": "cô",
+      "count": 97
+    },
+    {
+      "word": "repübbrica",
+      "count": 97
+    },
+    {
+      "word": "paìse",
+      "count": 96
+    },
+    {
+      "word": "mammalia",
+      "count": 96
+    },
+    {
+      "word": "letiatûa",
+      "count": 95
+    },
+    {
+      "word": "sti",
+      "count": 95
+    },
+    {
+      "word": "mondo",
+      "count": 95
+    },
+    {
+      "word": "doî",
+      "count": 94
+    },
+    {
+      "word": "lóngo",
+      "count": 94
+    },
+    {
+      "word": "françéize",
+      "count": 94
+    },
+    {
+      "word": "ciû",
+      "count": 94
+    },
+    {
+      "word": "cuscì",
+      "count": 94
+    },
+    {
+      "word": "dónde",
+      "count": 93
+    },
+    {
+      "word": "nómme",
+      "count": 93
+    },
+    {
+      "word": "dónca",
+      "count": 92
+    },
+    {
+      "word": "me",
+      "count": 92
+    },
+    {
+      "word": "ta",
+      "count": 92
+    },
+    {
+      "word": "va",
+      "count": 91
+    },
+    {
+      "word": "quello",
+      "count": 91
+    },
+    {
+      "word": "inn-a",
+      "count": 91
+    },
+    {
+      "word": "provìnsa",
+      "count": 91
+    },
+    {
+      "word": "d'italia",
+      "count": 90
+    },
+    {
+      "word": "stradda",
+      "count": 90
+    },
+    {
+      "word": "za",
+      "count": 90
+    },
+    {
+      "word": "comunitæ",
+      "count": 90
+    },
+    {
+      "word": "portòu",
+      "count": 90
+    },
+    {
+      "word": "ne",
+      "count": 90
+    },
+    {
+      "word": "mi",
+      "count": 90
+    },
+    {
+      "word": "gràn",
+      "count": 89
+    },
+    {
+      "word": "ro",
+      "count": 89
+    },
+    {
+      "word": "oççidentâ",
+      "count": 89
+    },
+    {
+      "word": "cóntra",
+      "count": 88
+    },
+    {
+      "word": "naçioìn",
+      "count": 87
+    },
+    {
+      "word": "polìtica",
+      "count": 87
+    },
+    {
+      "word": "gran",
+      "count": 87
+    },
+    {
+      "word": "tuiràn",
+      "count": 87
+    },
+    {
+      "word": "fâ",
+      "count": 86
+    },
+    {
+      "word": "d'ancheu",
+      "count": 86
+    },
+    {
+      "word": "levante",
+      "count": 85
+    },
+    {
+      "word": "tùtto",
+      "count": 85
+    },
+    {
+      "word": "ségge",
+      "count": 85
+    },
+    {
+      "word": "co-i",
+      "count": 85
+    },
+    {
+      "word": "pòsto",
+      "count": 85
+    },
+    {
+      "word": "primmo",
+      "count": 85
+    },
+    {
+      "word": "d'i",
+      "count": 85
+    },
+    {
+      "word": "lengoistego",
+      "count": 85
+    },
+    {
+      "word": "segónda",
+      "count": 84
+    },
+    {
+      "word": "particolâ",
+      "count": 84
+    },
+    {
+      "word": "sempre",
+      "count": 84
+    },
+    {
+      "word": "d'o",
+      "count": 84
+    },
+    {
+      "word": "parochiae",
+      "count": 84
+    },
+    {
+      "word": "pruvinsa",
+      "count": 84
+    },
+    {
+      "word": "nord",
+      "count": 84
+    },
+    {
+      "word": "dîta",
+      "count": 83
+    },
+    {
+      "word": "tùtti",
+      "count": 83
+    },
+    {
+      "word": "via",
+      "count": 83
+    },
+    {
+      "word": "variêtæ",
+      "count": 83
+    },
+    {
+      "word": "latìn",
+      "count": 83
+    },
+    {
+      "word": "han",
+      "count": 83
+    },
+    {
+      "word": "l'eoröpa",
+      "count": 82
+    },
+    {
+      "word": "zà",
+      "count": 82
+    },
+    {
+      "word": "stu",
+      "count": 82
+    },
+    {
+      "word": "ste",
+      "count": 81
+    },
+    {
+      "word": "eoropêa",
+      "count": 81
+    },
+    {
+      "word": "lê",
+      "count": 81
+    },
+    {
+      "word": "prononçiòu",
+      "count": 80
+    },
+    {
+      "word": "ûn",
+      "count": 80
+    },
+    {
+      "word": "infraphylum",
+      "count": 80
+    },
+    {
+      "word": "pàixi",
+      "count": 79
+    },
+    {
+      "word": "grùppo",
+      "count": 79
+    },
+    {
+      "word": "gnathostomata",
+      "count": 79
+    },
+    {
+      "word": "mondiâle",
+      "count": 78
+    },
+    {
+      "word": "pe-o",
+      "count": 78
+    },
+    {
+      "word": "pe-i",
+      "count": 78
+    },
+    {
+      "word": "ii",
+      "count": 78
+    },
+    {
+      "word": "periudu",
+      "count": 78
+    },
+    {
+      "word": "l'ea",
+      "count": 77
+    },
+    {
+      "word": "sêde",
+      "count": 77
+    },
+    {
+      "word": "còsta",
+      "count": 77
+    },
+    {
+      "word": "dîto",
+      "count": 77
+    },
+    {
+      "word": "spagnòllo",
+      "count": 77
+    },
+    {
+      "word": "fèste",
+      "count": 77
+    },
+    {
+      "word": "parocchia",
+      "count": 77
+    },
+    {
+      "word": "classi",
+      "count": 77
+    },
+    {
+      "word": "ch",
+      "count": 76
+    },
+    {
+      "word": "interèsse",
+      "count": 76
+    },
+    {
+      "word": "vêgne",
+      "count": 76
+    },
+    {
+      "word": "perîodo",
+      "count": 76
+    },
+    {
+      "word": "s'é",
+      "count": 76
+    },
+    {
+      "word": "quélli",
+      "count": 76
+    },
+    {
+      "word": "fà",
+      "count": 76
+    },
+    {
+      "word": "int'u",
+      "count": 76
+    },
+    {
+      "word": "tegne",
+      "count": 76
+    },
+    {
+      "word": "secolo",
+      "count": 75
+    },
+    {
+      "word": "vôxe",
+      "count": 75
+    },
+    {
+      "word": "govèrno",
+      "count": 75
+    },
+    {
+      "word": "òpere",
+      "count": 75
+    },
+    {
+      "word": "vèrso",
+      "count": 75
+    },
+    {
+      "word": "non",
+      "count": 75
+    },
+    {
+      "word": "grassie",
+      "count": 75
+    },
+    {
+      "word": "spèza",
+      "count": 75
+    },
+    {
+      "word": "stâti",
+      "count": 74
+    },
+    {
+      "word": "confìn",
+      "count": 74
+    },
+    {
+      "word": "mêzo",
+      "count": 74
+    },
+    {
+      "word": "sorviatùtto",
+      "count": 74
+    },
+    {
+      "word": "insémme",
+      "count": 74
+    },
+    {
+      "word": "co",
+      "count": 74
+    },
+    {
+      "word": "valà",
+      "count": 74
+    },
+    {
+      "word": "növa",
+      "count": 74
+    },
+    {
+      "word": "personn-e",
+      "count": 74
+    },
+    {
+      "word": "italia",
+      "count": 73
+    },
+    {
+      "word": "çirca",
+      "count": 73
+    },
+    {
+      "word": "milioìn",
+      "count": 73
+    },
+    {
+      "word": "depoî",
+      "count": 73
+    },
+    {
+      "word": "perché",
+      "count": 73
+    },
+    {
+      "word": "l'éa",
+      "count": 73
+    },
+    {
+      "word": "dunca",
+      "count": 73
+    },
+    {
+      "word": "îzoe",
+      "count": 73
+    },
+    {
+      "word": "metropolitann-a",
+      "count": 72
+    },
+    {
+      "word": "re",
+      "count": 72
+    },
+    {
+      "word": "questa",
+      "count": 72
+    },
+    {
+      "word": "teritòiu",
+      "count": 72
+    },
+    {
+      "word": "germania",
+      "count": 72
+    },
+    {
+      "word": "l'africa",
+      "count": 72
+    },
+    {
+      "word": "livéllo",
+      "count": 71
+    },
+    {
+      "word": "prìmmo",
+      "count": 71
+    },
+    {
+      "word": "dialettu",
+      "count": 71
+    },
+    {
+      "word": "sécoli",
+      "count": 70
+    },
+    {
+      "word": "centrâle",
+      "count": 70
+    },
+    {
+      "word": "bibliografîa",
+      "count": 70
+    },
+    {
+      "word": "sénsa",
+      "count": 70
+    },
+    {
+      "word": "paise",
+      "count": 70
+    },
+    {
+      "word": "imperia",
+      "count": 70
+    },
+    {
+      "word": "opera",
+      "count": 70
+    },
+    {
+      "word": "d'ancö",
+      "count": 70
+    },
+    {
+      "word": "tæra",
+      "count": 69
+    },
+    {
+      "word": "quélle",
+      "count": 69
+    },
+    {
+      "word": "vocale",
+      "count": 69
+    },
+    {
+      "word": "fêe",
+      "count": 69
+    },
+    {
+      "word": "cumüne",
+      "count": 69
+    },
+    {
+      "word": "int'a",
+      "count": 69
+    },
+    {
+      "word": "stoia",
+      "count": 69
+    },
+    {
+      "word": "segundu",
+      "count": 69
+    },
+    {
+      "word": "vìtta",
+      "count": 68
+    },
+    {
+      "word": "l'inpêro",
+      "count": 68
+    },
+    {
+      "word": "liguria",
+      "count": 68
+    },
+    {
+      "word": "diventâ",
+      "count": 67
+    },
+    {
+      "word": "fransa",
+      "count": 67
+    },
+    {
+      "word": "commonwealth",
+      "count": 67
+    },
+    {
+      "word": "lengoàggio",
+      "count": 67
+    },
+    {
+      "word": "sensa",
+      "count": 67
+    },
+    {
+      "word": "versu",
+      "count": 67
+    },
+    {
+      "word": "conosciûa",
+      "count": 66
+    },
+    {
+      "word": "vixìn",
+      "count": 66
+    },
+    {
+      "word": "tùtte",
+      "count": 66
+    },
+    {
+      "word": "paixi",
+      "count": 66
+    },
+    {
+      "word": "region",
+      "count": 66
+    },
+    {
+      "word": "stàu",
+      "count": 66
+    },
+    {
+      "word": "in-te",
+      "count": 66
+    },
+    {
+      "word": "sæ",
+      "count": 65
+    },
+    {
+      "word": "sa",
+      "count": 65
+    },
+    {
+      "word": "l'anno",
+      "count": 65
+    },
+    {
+      "word": "sarzànn-a",
+      "count": 65
+    },
+    {
+      "word": "gexa",
+      "count": 64
+    },
+    {
+      "word": "defæti",
+      "count": 64
+    },
+    {
+      "word": "inportànti",
+      "count": 64
+    },
+    {
+      "word": "grafîa",
+      "count": 64
+    },
+    {
+      "word": "paròlle",
+      "count": 64
+    },
+    {
+      "word": "àrabo",
+      "count": 64
+    },
+    {
+      "word": "theria",
+      "count": 64
+    },
+    {
+      "word": "placentalia",
+      "count": 64
+    },
+    {
+      "word": "xix",
+      "count": 63
+    },
+    {
+      "word": "trêuva",
+      "count": 63
+    },
+    {
+      "word": "architetûe",
+      "count": 63
+    },
+    {
+      "word": "sottoclasse",
+      "count": 63
+    },
+    {
+      "word": "asæ",
+      "count": 62
+    },
+    {
+      "word": "pê",
+      "count": 62
+    },
+    {
+      "word": "spàgna",
+      "count": 62
+    },
+    {
+      "word": "spécce",
+      "count": 62
+    },
+    {
+      "word": "der",
+      "count": 62
+    },
+    {
+      "word": "costa",
+      "count": 62
+    },
+    {
+      "word": "stæti",
+      "count": 62
+    },
+    {
+      "word": "partì",
+      "count": 62
+    },
+    {
+      "word": "l'asia",
+      "count": 62
+    },
+    {
+      "word": "italiann-a",
+      "count": 61
+    },
+    {
+      "word": "scrîto",
+      "count": 61
+    },
+    {
+      "word": "céntro",
+      "count": 61
+    },
+    {
+      "word": "óltre",
+      "count": 61
+    },
+    {
+      "word": "c'a",
+      "count": 61
+    },
+    {
+      "word": "sciùmme",
+      "count": 61
+    },
+    {
+      "word": "custrusiùn",
+      "count": 61
+    },
+    {
+      "word": "l'america",
+      "count": 61
+    },
+    {
+      "word": "infraclasse",
+      "count": 61
+    },
+    {
+      "word": "frànsa",
+      "count": 60
+    },
+    {
+      "word": "regioìn",
+      "count": 60
+    },
+    {
+      "word": "partî",
+      "count": 60
+    },
+    {
+      "word": "formâ",
+      "count": 60
+    },
+    {
+      "word": "ri",
+      "count": 60
+    },
+    {
+      "word": "guæra",
+      "count": 60
+    },
+    {
+      "word": "dui",
+      "count": 60
+    },
+    {
+      "word": "prìa",
+      "count": 60
+    },
+    {
+      "word": "isoe",
+      "count": 60
+    },
+    {
+      "word": "letiaia",
+      "count": 60
+    },
+    {
+      "word": "vàrri",
+      "count": 59
+    },
+    {
+      "word": "inportànte",
+      "count": 59
+    },
+    {
+      "word": "fæti",
+      "count": 59
+    },
+    {
+      "word": "bâze",
+      "count": 59
+    },
+    {
+      "word": "indipendénte",
+      "count": 59
+    },
+    {
+      "word": "tréi",
+      "count": 59
+    },
+    {
+      "word": "zenâ",
+      "count": 59
+    },
+    {
+      "word": "pö",
+      "count": 59
+    },
+    {
+      "word": "nostra",
+      "count": 59
+    },
+    {
+      "word": "classe",
+      "count": 59
+    },
+    {
+      "word": "vocâle",
+      "count": 59
+    },
+    {
+      "word": "cu-u",
+      "count": 59
+    },
+    {
+      "word": "sentru",
+      "count": 59
+    },
+    {
+      "word": "sp",
+      "count": 59
+    },
+    {
+      "word": "orientâ",
+      "count": 59
+    },
+    {
+      "word": "pòrto",
+      "count": 58
+    },
+    {
+      "word": "persónn-e",
+      "count": 58
+    },
+    {
+      "word": "valô",
+      "count": 58
+    },
+    {
+      "word": "capitæ",
+      "count": 58
+    },
+    {
+      "word": "parlòu",
+      "count": 58
+    },
+    {
+      "word": "lì",
+      "count": 58
+    },
+    {
+      "word": "s'è",
+      "count": 58
+    },
+    {
+      "word": "unïo",
+      "count": 58
+    },
+    {
+      "word": "zona",
+      "count": 58
+    },
+    {
+      "word": "punente",
+      "count": 58
+    },
+    {
+      "word": "oatòio",
+      "count": 58
+    },
+    {
+      "word": "çentro",
+      "count": 58
+    },
+    {
+      "word": "fêua",
+      "count": 57
+    },
+    {
+      "word": "corelæ",
+      "count": 57
+    },
+    {
+      "word": "naçioîn",
+      "count": 57
+    },
+    {
+      "word": "zòna",
+      "count": 57
+    },
+    {
+      "word": "vòtta",
+      "count": 57
+    },
+    {
+      "word": "giornâ",
+      "count": 57
+    },
+    {
+      "word": "solo",
+      "count": 57
+    },
+    {
+      "word": "sardegna",
+      "count": 57
+    },
+    {
+      "word": "coltùa",
+      "count": 57
+    },
+    {
+      "word": "cinéize",
+      "count": 57
+    },
+    {
+      "word": "scìnn-a",
+      "count": 56
+    },
+    {
+      "word": "meitæ",
+      "count": 56
+    },
+    {
+      "word": "ofiçiæ",
+      "count": 56
+    },
+    {
+      "word": "sciü",
+      "count": 56
+    },
+    {
+      "word": "madonna",
+      "count": 56
+    },
+    {
+      "word": "cu-a",
+      "count": 56
+    },
+    {
+      "word": "ligùria",
+      "count": 55
+    },
+    {
+      "word": "scrîti",
+      "count": 55
+    },
+    {
+      "word": "pò-u",
+      "count": 55
+    },
+    {
+      "word": "quésto",
+      "count": 55
+    },
+    {
+      "word": "formòu",
+      "count": 55
+    },
+    {
+      "word": "contròllo",
+      "count": 55
+    },
+    {
+      "word": "américa",
+      "count": 55
+    },
+    {
+      "word": "fan",
+      "count": 55
+    },
+    {
+      "word": "due",
+      "count": 55
+    },
+    {
+      "word": "l'îzoa",
+      "count": 55
+    },
+    {
+      "word": "l'éra",
+      "count": 55
+    },
+    {
+      "word": "ingleize",
+      "count": 55
+    },
+    {
+      "word": "tànto",
+      "count": 54
+    },
+    {
+      "word": "ciàssa",
+      "count": 54
+    },
+    {
+      "word": "doppo",
+      "count": 54
+    },
+    {
+      "word": "pe-e",
+      "count": 54
+    },
+    {
+      "word": "tu",
+      "count": 54
+    },
+    {
+      "word": "manifestaçioìn",
+      "count": 54
+    },
+    {
+      "word": "vixin",
+      "count": 53
+    },
+    {
+      "word": "ànche",
+      "count": 53
+    },
+    {
+      "word": "mæximo",
+      "count": 53
+    },
+    {
+      "word": "tære",
+      "count": 53
+    },
+    {
+      "word": "zöna",
+      "count": 53
+    },
+    {
+      "word": "mediterànio",
+      "count": 53
+    },
+    {
+      "word": "conséggio",
+      "count": 53
+    },
+    {
+      "word": "quellu",
+      "count": 53
+    },
+    {
+      "word": "ca",
+      "count": 53
+    },
+    {
+      "word": "prugètti",
+      "count": 53
+    },
+    {
+      "word": "comunicaçioìn",
+      "count": 53
+    },
+    {
+      "word": "capélla",
+      "count": 53
+    },
+    {
+      "word": "festival",
+      "count": 53
+    },
+    {
+      "word": "truva",
+      "count": 53
+    },
+    {
+      "word": "âto",
+      "count": 53
+    },
+    {
+      "word": "mioin",
+      "count": 53
+    },
+    {
+      "word": "tîpo",
+      "count": 52
+    },
+    {
+      "word": "rùscia",
+      "count": 52
+    },
+    {
+      "word": "pêuan",
+      "count": 52
+    },
+    {
+      "word": "xvii",
+      "count": 52
+    },
+    {
+      "word": "unîe",
+      "count": 52
+    },
+    {
+      "word": "xiii",
+      "count": 52
+    },
+    {
+      "word": "gîo",
+      "count": 52
+    },
+    {
+      "word": "sàiva",
+      "count": 52
+    },
+    {
+      "word": "dïto",
+      "count": 52
+    },
+    {
+      "word": "parolla",
+      "count": 52
+    },
+    {
+      "word": "questo",
+      "count": 52
+    },
+    {
+      "word": "ligüre",
+      "count": 52
+    },
+    {
+      "word": "stèta",
+      "count": 52
+    },
+    {
+      "word": "quartê",
+      "count": 51
+    },
+    {
+      "word": "tiâtro",
+      "count": 51
+    },
+    {
+      "word": "mûxica",
+      "count": 51
+    },
+    {
+      "word": "stràdda",
+      "count": 51
+    },
+    {
+      "word": "antiga",
+      "count": 51
+    },
+    {
+      "word": "cà",
+      "count": 51
+    },
+    {
+      "word": "sulu",
+      "count": 51
+    },
+    {
+      "word": "çentrâ",
+      "count": 51
+    },
+    {
+      "word": "l'union",
+      "count": 51
+    },
+    {
+      "word": "speçie",
+      "count": 51
+    },
+    {
+      "word": "lonbàrdo",
+      "count": 51
+    },
+    {
+      "word": "origanum",
+      "count": 51
+    },
+    {
+      "word": "poeta",
+      "count": 50
+    },
+    {
+      "word": "vòtte",
+      "count": 50
+    },
+    {
+      "word": "ménbri",
+      "count": 50
+    },
+    {
+      "word": "variànte",
+      "count": 50
+    },
+    {
+      "word": "produçión",
+      "count": 50
+    },
+    {
+      "word": "ciamâ",
+      "count": 50
+    },
+    {
+      "word": "capolêugo",
+      "count": 50
+    },
+    {
+      "word": "serie",
+      "count": 50
+    },
+    {
+      "word": "tantu",
+      "count": 50
+    },
+    {
+      "word": "cumüna",
+      "count": 50
+    },
+    {
+      "word": "cumünàle",
+      "count": 50
+    },
+    {
+      "word": "côrxi",
+      "count": 50
+    },
+    {
+      "word": "stùdio",
+      "count": 50
+    },
+    {
+      "word": "prezénsa",
+      "count": 49
+    },
+    {
+      "word": "xx",
+      "count": 49
+    },
+    {
+      "word": "naçionâle",
+      "count": 49
+    },
+    {
+      "word": "pâ",
+      "count": 49
+    },
+    {
+      "word": "gente",
+      "count": 49
+    },
+    {
+      "word": "mentre",
+      "count": 49
+    },
+    {
+      "word": "dunde",
+      "count": 49
+    },
+    {
+      "word": "lucàle",
+      "count": 49
+    },
+    {
+      "word": "state",
+      "count": 49
+    },
+    {
+      "word": "repùblica",
+      "count": 48
+    },
+    {
+      "word": "lo",
+      "count": 48
+    },
+    {
+      "word": "stà",
+      "count": 48
+    },
+    {
+      "word": "et",
+      "count": 48
+    },
+    {
+      "word": "ramma",
+      "count": 48
+    },
+    {
+      "word": "primmi",
+      "count": 47
+    },
+    {
+      "word": "grénde",
+      "count": 47
+    },
+    {
+      "word": "sport",
+      "count": 47
+    },
+    {
+      "word": "paize",
+      "count": 47
+    },
+    {
+      "word": "vàrie",
+      "count": 47
+    },
+    {
+      "word": "série",
+      "count": 47
+    },
+    {
+      "word": "chéita",
+      "count": 47
+    },
+    {
+      "word": "paròlla",
+      "count": 47
+    },
+    {
+      "word": "carlo",
+      "count": 47
+    },
+    {
+      "word": "giorni",
+      "count": 47
+    },
+    {
+      "word": "cunfìn",
+      "count": 47
+    },
+    {
+      "word": "clavesana",
+      "count": 47
+    },
+    {
+      "word": "düante",
+      "count": 47
+    },
+    {
+      "word": "savuna",
+      "count": 47
+    },
+    {
+      "word": "vincitô",
+      "count": 47
+    },
+    {
+      "word": "l'istat",
+      "count": 46
+    },
+    {
+      "word": "colturâle",
+      "count": 46
+    },
+    {
+      "word": "fórma",
+      "count": 46
+    },
+    {
+      "word": "le",
+      "count": 46
+    },
+    {
+      "word": "tutti",
+      "count": 46
+    },
+    {
+      "word": "sitadìn",
+      "count": 46
+    },
+    {
+      "word": "regnu",
+      "count": 46
+    },
+    {
+      "word": "sanremmo",
+      "count": 46
+    },
+    {
+      "word": "burghettu",
+      "count": 46
+    },
+    {
+      "word": "meridionâ",
+      "count": 46
+    },
+    {
+      "word": "contra",
+      "count": 45
+    },
+    {
+      "word": "stæte",
+      "count": 45
+    },
+    {
+      "word": "pêu",
+      "count": 45
+    },
+    {
+      "word": "capolêughi",
+      "count": 45
+    },
+    {
+      "word": "xvi",
+      "count": 45
+    },
+    {
+      "word": "l'ûzo",
+      "count": 45
+    },
+    {
+      "word": "xiv",
+      "count": 45
+    },
+    {
+      "word": "vàlle",
+      "count": 45
+    },
+    {
+      "word": "træ",
+      "count": 45
+    },
+    {
+      "word": "nommi",
+      "count": 45
+    },
+    {
+      "word": "ätri",
+      "count": 45
+    },
+    {
+      "word": "nt'a",
+      "count": 45
+    },
+    {
+      "word": "zenese",
+      "count": 45
+    },
+    {
+      "word": "picìn",
+      "count": 45
+    },
+    {
+      "word": "lücalité",
+      "count": 45
+    },
+    {
+      "word": "scia",
+      "count": 44
+    },
+    {
+      "word": "santi",
+      "count": 44
+    },
+    {
+      "word": "co-e",
+      "count": 44
+    },
+    {
+      "word": "ténpo",
+      "count": 44
+    },
+    {
+      "word": "sede",
+      "count": 44
+    },
+    {
+      "word": "li",
+      "count": 44
+    },
+    {
+      "word": "ofiçialménte",
+      "count": 44
+    },
+    {
+      "word": "lô",
+      "count": 44
+    },
+    {
+      "word": "giuseppe",
+      "count": 44
+    },
+    {
+      "word": "chì",
+      "count": 44
+    },
+    {
+      "word": "tütti",
+      "count": 44
+    },
+    {
+      "word": "maria",
+      "count": 44
+    },
+    {
+      "word": "segonda",
+      "count": 44
+    },
+    {
+      "word": "dei",
+      "count": 44
+    },
+    {
+      "word": "castéllu",
+      "count": 44
+    },
+    {
+      "word": "feudu",
+      "count": 44
+    },
+    {
+      "word": "latin",
+      "count": 44
+    },
+    {
+      "word": "squæxi",
+      "count": 43
+    },
+    {
+      "word": "galerîa",
+      "count": 43
+    },
+    {
+      "word": "fondâ",
+      "count": 43
+    },
+    {
+      "word": "est",
+      "count": 43
+    },
+    {
+      "word": "l'italia",
+      "count": 43
+    },
+    {
+      "word": "totâle",
+      "count": 43
+    },
+    {
+      "word": "popolâre",
+      "count": 43
+    },
+    {
+      "word": "l'àrea",
+      "count": 43
+    },
+    {
+      "word": "lengoìstico",
+      "count": 43
+    },
+    {
+      "word": "pàssa",
+      "count": 43
+    },
+    {
+      "word": "quelli",
+      "count": 43
+    },
+    {
+      "word": "riva",
+      "count": 43
+    },
+    {
+      "word": "el",
+      "count": 43
+    },
+    {
+      "word": "t'u",
+      "count": 43
+    },
+    {
+      "word": "tütta",
+      "count": 43
+    },
+    {
+      "word": "generâle",
+      "count": 43
+    },
+    {
+      "word": "germanico",
+      "count": 43
+    },
+    {
+      "word": "dove",
+      "count": 42
+    },
+    {
+      "word": "provìnse",
+      "count": 42
+    },
+    {
+      "word": "italiànn-e",
+      "count": 42
+    },
+    {
+      "word": "van",
+      "count": 42
+    },
+    {
+      "word": "fórte",
+      "count": 42
+    },
+    {
+      "word": "conosciûo",
+      "count": 42
+    },
+    {
+      "word": "tradiçión",
+      "count": 42
+    },
+    {
+      "word": "êan",
+      "count": 42
+    },
+    {
+      "word": "prìmmi",
+      "count": 42
+    },
+    {
+      "word": "diverse",
+      "count": 42
+    },
+    {
+      "word": "nùmero",
+      "count": 42
+    },
+    {
+      "word": "zeneixi",
+      "count": 42
+    },
+    {
+      "word": "quelle",
+      "count": 42
+    },
+    {
+      "word": "custruìa",
+      "count": 42
+    },
+    {
+      "word": "vuè",
+      "count": 42
+    },
+    {
+      "word": "sótta",
+      "count": 42
+    },
+    {
+      "word": "daa",
+      "count": 42
+    },
+    {
+      "word": "c'u",
+      "count": 42
+    },
+    {
+      "word": "arbenganese",
+      "count": 42
+    },
+    {
+      "word": "peò",
+      "count": 42
+    },
+    {
+      "word": "frevâ",
+      "count": 42
+    },
+    {
+      "word": "ducato",
+      "count": 42
+    },
+    {
+      "word": "néigro",
+      "count": 42
+    },
+    {
+      "word": "l'avéiva",
+      "count": 42
+    },
+    {
+      "word": "argentinn-a",
+      "count": 42
+    },
+    {
+      "word": "goâgna",
+      "count": 42
+    },
+    {
+      "word": "antigo",
+      "count": 41
+    },
+    {
+      "word": "dæto",
+      "count": 41
+    },
+    {
+      "word": "avûo",
+      "count": 41
+    },
+    {
+      "word": "òcidentâle",
+      "count": 41
+    },
+    {
+      "word": "quànde",
+      "count": 41
+    },
+    {
+      "word": "xviii",
+      "count": 41
+    },
+    {
+      "word": "quésta",
+      "count": 41
+    },
+    {
+      "word": "pròpio",
+      "count": 41
+    },
+    {
+      "word": "scî",
+      "count": 41
+    },
+    {
+      "word": "una",
+      "count": 41
+    },
+    {
+      "word": "trei",
+      "count": 41
+    },
+    {
+      "word": "ëse",
+      "count": 41
+    },
+    {
+      "word": "gramàtica",
+      "count": 41
+    },
+    {
+      "word": "lengoa",
+      "count": 41
+    },
+    {
+      "word": "castellu",
+      "count": 41
+    },
+    {
+      "word": "segunda",
+      "count": 41
+    },
+    {
+      "word": "fée",
+      "count": 41
+    },
+    {
+      "word": "varatèlla",
+      "count": 41
+    },
+    {
+      "word": "còste",
+      "count": 41
+    },
+    {
+      "word": "cuôle",
+      "count": 41
+    },
+    {
+      "word": "cùmme",
+      "count": 41
+    },
+    {
+      "word": "l'oçeano",
+      "count": 41
+    },
+    {
+      "word": "canada",
+      "count": 41
+    },
+    {
+      "word": "offiçiâ",
+      "count": 41
+    },
+    {
+      "word": "àfrica",
+      "count": 41
+    },
+    {
+      "word": "giórni",
+      "count": 40
+    },
+    {
+      "word": "valle",
+      "count": 40
+    },
+    {
+      "word": "polònia",
+      "count": 40
+    },
+    {
+      "word": "confìnn-a",
+      "count": 40
+    },
+    {
+      "word": "rè",
+      "count": 40
+    },
+    {
+      "word": "quàrche",
+      "count": 40
+    },
+    {
+      "word": "pasòu",
+      "count": 40
+    },
+    {
+      "word": "giovanni",
+      "count": 40
+    },
+    {
+      "word": "man",
+      "count": 40
+    },
+    {
+      "word": "vitta",
+      "count": 40
+    },
+    {
+      "word": "spagna",
+      "count": 40
+    },
+    {
+      "word": "sô",
+      "count": 40
+    },
+    {
+      "word": "pòula",
+      "count": 40
+    },
+    {
+      "word": "val",
+      "count": 40
+    },
+    {
+      "word": "metropolitànn-a",
+      "count": 40
+    },
+    {
+      "word": "munte",
+      "count": 40
+    },
+    {
+      "word": "löa",
+      "count": 40
+    },
+    {
+      "word": "l'ànnu",
+      "count": 40
+    },
+    {
+      "word": "và",
+      "count": 40
+    },
+    {
+      "word": "ingleise",
+      "count": 40
+    },
+    {
+      "word": "plata",
+      "count": 40
+    },
+    {
+      "word": "co-ina",
+      "count": 39
+    },
+    {
+      "word": "zenéixi",
+      "count": 39
+    },
+    {
+      "word": "rivoluçión",
+      "count": 39
+    },
+    {
+      "word": "sànta",
+      "count": 39
+    },
+    {
+      "word": "e-e",
+      "count": 39
+    },
+    {
+      "word": "pòpolo",
+      "count": 39
+    },
+    {
+      "word": "neuva",
+      "count": 39
+    },
+    {
+      "word": "tempo",
+      "count": 39
+    },
+    {
+      "word": "dì",
+      "count": 39
+    },
+    {
+      "word": "ae",
+      "count": 39
+    },
+    {
+      "word": "var",
+      "count": 39
+    },
+    {
+      "word": "garlenda",
+      "count": 39
+    },
+    {
+      "word": "lungu",
+      "count": 39
+    },
+    {
+      "word": "növu",
+      "count": 39
+    },
+    {
+      "word": "d'e",
+      "count": 39
+    },
+    {
+      "word": "capeletta",
+      "count": 39
+    },
+    {
+      "word": "strutüa",
+      "count": 39
+    },
+    {
+      "word": "vi",
+      "count": 39
+    },
+    {
+      "word": "furma",
+      "count": 39
+    },
+    {
+      "word": "pòule",
+      "count": 39
+    },
+    {
+      "word": "club",
+      "count": 39
+    },
+    {
+      "word": "l'economîa",
+      "count": 39
+    },
+    {
+      "word": "braxî",
+      "count": 39
+    },
+    {
+      "word": "veddi",
+      "count": 38
+    },
+    {
+      "word": "tanto",
+      "count": 38
+    },
+    {
+      "word": "porta",
+      "count": 38
+    },
+    {
+      "word": "penîzoa",
+      "count": 38
+    },
+    {
+      "word": "sociâle",
+      "count": 38
+    },
+    {
+      "word": "nato",
+      "count": 38
+    },
+    {
+      "word": "scrîta",
+      "count": 38
+    },
+    {
+      "word": "conscideròu",
+      "count": 38
+    },
+    {
+      "word": "xv",
+      "count": 38
+    },
+    {
+      "word": "longo",
+      "count": 38
+    },
+    {
+      "word": "su",
+      "count": 38
+    },
+    {
+      "word": "vocabolâio",
+      "count": 38
+    },
+    {
+      "word": "lerze",
+      "count": 38
+    },
+    {
+      "word": "geografia",
+      "count": 38
+    },
+    {
+      "word": "tüttu",
+      "count": 38
+    },
+    {
+      "word": "vie",
+      "count": 38
+    },
+    {
+      "word": "importante",
+      "count": 38
+    },
+    {
+      "word": "unîo",
+      "count": 38
+    },
+    {
+      "word": "famìa",
+      "count": 38
+    },
+    {
+      "word": "villanöva",
+      "count": 38
+    },
+    {
+      "word": "italico",
+      "count": 38
+    },
+    {
+      "word": "tango",
+      "count": 38
+    },
+    {
+      "word": "tanti",
+      "count": 37
+    },
+    {
+      "word": "clìmma",
+      "count": 37
+    },
+    {
+      "word": "locâle",
+      "count": 37
+    },
+    {
+      "word": "forèste",
+      "count": 37
+    },
+    {
+      "word": "ve",
+      "count": 37
+    },
+    {
+      "word": "cantâ",
+      "count": 37
+    },
+    {
+      "word": "buenos",
+      "count": 37
+    },
+    {
+      "word": "aires",
+      "count": 37
+    },
+    {
+      "word": "varie",
+      "count": 37
+    },
+    {
+      "word": "mazzo",
+      "count": 37
+    },
+    {
+      "word": "là",
+      "count": 37
+    },
+    {
+      "word": "metri",
+      "count": 37
+    },
+    {
+      "word": "marina",
+      "count": 37
+    },
+    {
+      "word": "d'arbenga",
+      "count": 37
+    },
+    {
+      "word": "comûne",
+      "count": 37
+    },
+    {
+      "word": "dïta",
+      "count": 37
+    },
+    {
+      "word": "aministraçión",
+      "count": 37
+    },
+    {
+      "word": "comǜn",
+      "count": 37
+    },
+    {
+      "word": "paìze",
+      "count": 37
+    },
+    {
+      "word": "torìggia",
+      "count": 37
+    },
+    {
+      "word": "l'isoa",
+      "count": 37
+    },
+    {
+      "word": "ransu",
+      "count": 37
+    },
+    {
+      "word": "céntru",
+      "count": 37
+    },
+    {
+      "word": "meridionâle",
+      "count": 37
+    },
+    {
+      "word": "lengoìstiche",
+      "count": 37
+    },
+    {
+      "word": "àzia",
+      "count": 37
+    },
+    {
+      "word": "sûd",
+      "count": 37
+    },
+    {
+      "word": "solâre",
+      "count": 37
+    },
+    {
+      "word": "actinopterygii",
+      "count": 37
+    },
+    {
+      "word": "verso",
+      "count": 36
+    },
+    {
+      "word": "gh'àn",
+      "count": 36
+    },
+    {
+      "word": "scê",
+      "count": 36
+    },
+    {
+      "word": "intrâ",
+      "count": 36
+    },
+    {
+      "word": "consciderâ",
+      "count": 36
+    },
+    {
+      "word": "mæxima",
+      "count": 36
+    },
+    {
+      "word": "dêuviòu",
+      "count": 36
+    },
+    {
+      "word": "creâ",
+      "count": 36
+    },
+    {
+      "word": "outoî",
+      "count": 36
+    },
+    {
+      "word": "luigi",
+      "count": 36
+    },
+    {
+      "word": "civîli",
+      "count": 36
+    },
+    {
+      "word": "della",
+      "count": 36
+    },
+    {
+      "word": "consonante",
+      "count": 36
+    },
+    {
+      "word": "quæxi",
+      "count": 36
+    },
+    {
+      "word": "parla",
+      "count": 36
+    },
+    {
+      "word": "l'a",
+      "count": 36
+    },
+    {
+      "word": "i'è",
+      "count": 36
+    },
+    {
+      "word": "pâxe",
+      "count": 36
+    },
+    {
+      "word": "punénte",
+      "count": 36
+    },
+    {
+      "word": "aturnu",
+      "count": 36
+    },
+    {
+      "word": "difatti",
+      "count": 36
+    },
+    {
+      "word": "umâno",
+      "count": 36
+    },
+    {
+      "word": "ventemigliusu",
+      "count": 36
+    },
+    {
+      "word": "romagnòllo",
+      "count": 36
+    },
+    {
+      "word": "mòrti",
+      "count": 35
+    },
+    {
+      "word": "milàn",
+      "count": 35
+    },
+    {
+      "word": "gràçie",
+      "count": 35
+    },
+    {
+      "word": "stradde",
+      "count": 35
+    },
+    {
+      "word": "diversci",
+      "count": 35
+    },
+    {
+      "word": "sciù",
+      "count": 35
+    },
+    {
+      "word": "forma",
+      "count": 35
+    },
+    {
+      "word": "modèrna",
+      "count": 35
+    },
+    {
+      "word": "svilupòu",
+      "count": 35
+    },
+    {
+      "word": "econòmica",
+      "count": 35
+    },
+    {
+      "word": "testa",
+      "count": 35
+    },
+    {
+      "word": "lìguri",
+      "count": 35
+    },
+    {
+      "word": "descriçión",
+      "count": 35
+    },
+    {
+      "word": "ch'àn",
+      "count": 35
+    },
+    {
+      "word": "villa",
+      "count": 35
+    },
+    {
+      "word": "al",
+      "count": 35
+    },
+    {
+      "word": "segge",
+      "count": 35
+    },
+    {
+      "word": "ciamòu",
+      "count": 35
+    },
+    {
+      "word": "mëzo",
+      "count": 35
+    },
+    {
+      "word": "dialetti",
+      "count": 35
+    },
+    {
+      "word": "famìggia",
+      "count": 35
+    },
+    {
+      "word": "cumünicasiùn",
+      "count": 35
+    },
+    {
+      "word": "dòppu",
+      "count": 35
+    },
+    {
+      "word": "surva",
+      "count": 35
+    },
+    {
+      "word": "lucalitài",
+      "count": 35
+    },
+    {
+      "word": "aù",
+      "count": 35
+    },
+    {
+      "word": "ancùa",
+      "count": 35
+    },
+    {
+      "word": "l'ëa",
+      "count": 35
+    },
+    {
+      "word": "fèsta",
+      "count": 35
+    },
+    {
+      "word": "km²",
+      "count": 35
+    },
+    {
+      "word": "naçion",
+      "count": 35
+    },
+    {
+      "word": "àraba",
+      "count": 35
+    },
+    {
+      "word": "l'argentinn-a",
+      "count": 35
+    },
+    {
+      "word": "vedde",
+      "count": 34
+    },
+    {
+      "word": "milan",
+      "count": 34
+    },
+    {
+      "word": "sotta",
+      "count": 34
+    },
+    {
+      "word": "internaçionâli",
+      "count": 34
+    },
+    {
+      "word": "tra-i",
+      "count": 34
+    },
+    {
+      "word": "donde",
+      "count": 34
+    },
+    {
+      "word": "palassio",
+      "count": 34
+    },
+    {
+      "word": "guèra",
+      "count": 34
+    },
+    {
+      "word": "ancöi",
+      "count": 34
+    },
+    {
+      "word": "iu",
+      "count": 34
+    },
+    {
+      "word": "ànnu",
+      "count": 34
+    },
+    {
+      "word": "clascificaçion",
+      "count": 34
+    },
+    {
+      "word": "barestìn",
+      "count": 34
+    },
+    {
+      "word": "guinea",
+      "count": 34
+    },
+    {
+      "word": "l'oçeania",
+      "count": 34
+    },
+    {
+      "word": "françèixi",
+      "count": 34
+    },
+    {
+      "word": "lûnäio",
+      "count": 34
+    },
+    {
+      "word": "ni",
+      "count": 34
+    },
+    {
+      "word": "capoleughi",
+      "count": 34
+    },
+    {
+      "word": "sublasse",
+      "count": 34
+    },
+    {
+      "word": "castellin",
+      "count": 34
+    },
+    {
+      "word": "biografìe",
+      "count": 33
+    },
+    {
+      "word": "zöne",
+      "count": 33
+    },
+    {
+      "word": "insce",
+      "count": 33
+    },
+    {
+      "word": "d'in",
+      "count": 33
+    },
+    {
+      "word": "crìsto",
+      "count": 33
+    },
+    {
+      "word": "monte",
+      "count": 33
+    },
+    {
+      "word": "d'eoröpa",
+      "count": 33
+    },
+    {
+      "word": "svéçia",
+      "count": 33
+    },
+    {
+      "word": "moménto",
+      "count": 33
+    },
+    {
+      "word": "xii",
+      "count": 33
+    },
+    {
+      "word": "ciæo",
+      "count": 33
+    },
+    {
+      "word": "sei",
+      "count": 33
+    },
+    {
+      "word": "prinçìpio",
+      "count": 33
+    },
+    {
+      "word": "pöco",
+      "count": 33
+    },
+    {
+      "word": "veu",
+      "count": 33
+    },
+    {
+      "word": "giorno",
+      "count": 33
+    },
+    {
+      "word": "si",
+      "count": 33
+    },
+    {
+      "word": "liguri",
+      "count": 33
+    },
+    {
+      "word": "cöse",
+      "count": 33
+    },
+    {
+      "word": "bùrgu",
+      "count": 33
+    },
+    {
+      "word": "ciassa",
+      "count": 33
+    },
+    {
+      "word": "naçionâ",
+      "count": 33
+    },
+    {
+      "word": "carretto",
+      "count": 33
+    },
+    {
+      "word": "germània",
+      "count": 33
+    },
+    {
+      "word": "vìa",
+      "count": 33
+    },
+    {
+      "word": "sitài",
+      "count": 33
+    },
+    {
+      "word": "duminasiùn",
+      "count": 33
+    },
+    {
+      "word": "pro",
+      "count": 33
+    },
+    {
+      "word": "ligüe",
+      "count": 33
+    },
+    {
+      "word": "republic",
+      "count": 33
+    },
+    {
+      "word": "sottordine",
+      "count": 33
+    },
+    {
+      "word": "algerin",
+      "count": 33
+    },
+    {
+      "word": "iv",
+      "count": 32
+    },
+    {
+      "word": "ponente",
+      "count": 32
+    },
+    {
+      "word": "ingléize",
+      "count": 32
+    },
+    {
+      "word": "fòscia",
+      "count": 32
+    },
+    {
+      "word": "giànco",
+      "count": 32
+    },
+    {
+      "word": "nasciûo",
+      "count": 32
+    },
+    {
+      "word": "forèsti",
+      "count": 32
+    },
+    {
+      "word": "antîgo",
+      "count": 32
+    },
+    {
+      "word": "tempi",
+      "count": 32
+    },
+    {
+      "word": "córso",
+      "count": 32
+    },
+    {
+      "word": "diventòu",
+      "count": 32
+    },
+    {
+      "word": "balón",
+      "count": 32
+    },
+    {
+      "word": "unîi",
+      "count": 32
+    },
+    {
+      "word": "l'etæ",
+      "count": 32
+    },
+    {
+      "word": "nêuvo",
+      "count": 32
+    },
+    {
+      "word": "co-in",
+      "count": 32
+    },
+    {
+      "word": "tèsti",
+      "count": 32
+    },
+    {
+      "word": "pùblico",
+      "count": 32
+    },
+    {
+      "word": "mòrte",
+      "count": 32
+    },
+    {
+      "word": "michê",
+      "count": 32
+    },
+    {
+      "word": "martìn",
+      "count": 32
+    },
+    {
+      "word": "notte",
+      "count": 32
+    },
+    {
+      "word": "vista",
+      "count": 32
+    },
+    {
+      "word": "doe",
+      "count": 32
+    },
+    {
+      "word": "cunfin",
+      "count": 32
+    },
+    {
+      "word": "cu-i",
+      "count": 32
+    },
+    {
+      "word": "cu",
+      "count": 32
+    },
+    {
+      "word": "santu",
+      "count": 32
+    },
+    {
+      "word": "passa",
+      "count": 32
+    },
+    {
+      "word": "popolassion",
+      "count": 32
+    },
+    {
+      "word": "àtri",
+      "count": 32
+    },
+    {
+      "word": "cultüa",
+      "count": 32
+    },
+    {
+      "word": "pupulasiùn",
+      "count": 32
+    },
+    {
+      "word": "bertumê",
+      "count": 32
+    },
+    {
+      "word": "spêce",
+      "count": 32
+    },
+    {
+      "word": "popolaçion",
+      "count": 32
+    },
+    {
+      "word": "borṡi",
+      "count": 32
+    },
+    {
+      "word": "giurnô",
+      "count": 32
+    },
+    {
+      "word": "cun-a",
+      "count": 32
+    },
+    {
+      "word": "realis",
+      "count": 32
+    },
+    {
+      "word": "dri",
+      "count": 32
+    },
+    {
+      "word": "l'australia",
+      "count": 32
+    },
+    {
+      "word": "slavo",
+      "count": 32
+    },
+    {
+      "word": "it",
+      "count": 31
+    },
+    {
+      "word": "arvî",
+      "count": 31
+    },
+    {
+      "word": "òua",
+      "count": 31
+    },
+    {
+      "word": "l'época",
+      "count": 31
+    },
+    {
+      "word": "creaçión",
+      "count": 31
+    },
+    {
+      "word": "prìmme",
+      "count": 31
+    },
+    {
+      "word": "civîle",
+      "count": 31
+    },
+    {
+      "word": "sòlito",
+      "count": 31
+    },
+    {
+      "word": "gréndi",
+      "count": 31
+    },
+    {
+      "word": "indipendénsa",
+      "count": 31
+    },
+    {
+      "word": "costruçión",
+      "count": 31
+    },
+    {
+      "word": "pónto",
+      "count": 31
+    },
+    {
+      "word": "perchè",
+      "count": 31
+    },
+    {
+      "word": "maia",
+      "count": 31
+    },
+    {
+      "word": "ancù",
+      "count": 31
+    },
+    {
+      "word": "diferenti",
+      "count": 31
+    },
+    {
+      "word": "léngua",
+      "count": 31
+    },
+    {
+      "word": "romann-a",
+      "count": 31
+    },
+    {
+      "word": "domìnio",
+      "count": 31
+    },
+    {
+      "word": "quàttro",
+      "count": 31
+    },
+    {
+      "word": "sêrvu",
+      "count": 31
+    },
+    {
+      "word": "tradisiùn",
+      "count": 31
+    },
+    {
+      "word": "pêru",
+      "count": 31
+    },
+    {
+      "word": "caraterìstiche",
+      "count": 31
+    },
+    {
+      "word": "mitologia",
+      "count": 31
+    },
+    {
+      "word": "zùgno",
+      "count": 30
+    }
+  ]
+}

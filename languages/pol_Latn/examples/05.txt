@@ -1,0 +1,9 @@
+# Source: Wikipedia article "AWK" (https://pl.wikipedia.org/)
+
+Funkcje 
+Funkcje są wykonywane po wywołaniu ich z wyrażeń występujących we wzorcach lub akcjach. Definicja funkcji składa się ze słowa kluczowego function, jej nazwy, argumentów i ciała. Poniżej znajduje się przykład funkcji:
+function dodaj_siedem (liczba) {
+  return liczba + 7
+}
+Tę funkcję można wywołać w następujący sposób:
+print dodaj_siedem(51)     # zwraca 58

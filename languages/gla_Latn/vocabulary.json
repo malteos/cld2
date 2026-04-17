@@ -1,0 +1,4012 @@
+{
+  "code": "gla",
+  "name": "Scottish Gaelic",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (gd.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 224935,
+  "unique_tokens": 33040,
+  "words": [
+    {
+      "word": "an",
+      "count": 14518
+    },
+    {
+      "word": "na",
+      "count": 6763
+    },
+    {
+      "word": "ann",
+      "count": 6311
+    },
+    {
+      "word": "agus",
+      "count": 4751
+    },
+    {
+      "word": "tha",
+      "count": 4600
+    },
+    {
+      "word": "air",
+      "count": 4255
+    },
+    {
+      "word": "am",
+      "count": 1933
+    },
+    {
+      "word": "bha",
+      "count": 1912
+    },
+    {
+      "word": "beurla",
+      "count": 1729
+    },
+    {
+      "word": "gu",
+      "count": 1614
+    },
+    {
+      "word": "le",
+      "count": 1549
+    },
+    {
+      "word": "is",
+      "count": 1545
+    },
+    {
+      "word": "anns",
+      "count": 1507
+    },
+    {
+      "word": "aig",
+      "count": 1458
+    },
+    {
+      "word": "de",
+      "count": 1302
+    },
+    {
+      "word": "mar",
+      "count": 1204
+    },
+    {
+      "word": "ri",
+      "count": 1143
+    },
+    {
+      "word": "nan",
+      "count": 1074
+    },
+    {
+      "word": "san",
+      "count": 934
+    },
+    {
+      "word": "duais",
+      "count": 932
+    },
+    {
+      "word": "daoine",
+      "count": 906
+    },
+    {
+      "word": "às",
+      "count": 900
+    },
+    {
+      "word": "nobel",
+      "count": 888
+    },
+    {
+      "word": "do",
+      "count": 863
+    },
+    {
+      "word": "airson",
+      "count": 777
+    },
+    {
+      "word": "as",
+      "count": 769
+    },
+    {
+      "word": "iomraidhean",
+      "count": 746
+    },
+    {
+      "word": "iad",
+      "count": 738
+    },
+    {
+      "word": "ach",
+      "count": 730
+    },
+    {
+      "word": "seo",
+      "count": 718
+    },
+    {
+      "word": "chaidh",
+      "count": 697
+    },
+    {
+      "word": "no",
+      "count": 627
+    },
+    {
+      "word": "sa",
+      "count": 614
+    },
+    {
+      "word": "sin",
+      "count": 613
+    },
+    {
+      "word": "a-mach",
+      "count": 582
+    },
+    {
+      "word": "eile",
+      "count": 574
+    },
+    {
+      "word": "the",
+      "count": 573
+    },
+    {
+      "word": "aonaichte",
+      "count": 545
+    },
+    {
+      "word": "bho",
+      "count": 544
+    },
+    {
+      "word": "neo",
+      "count": 520
+    },
+    {
+      "word": "cuideachd",
+      "count": 505
+    },
+    {
+      "word": "leis",
+      "count": 503
+    },
+    {
+      "word": "mu",
+      "count": 494
+    },
+    {
+      "word": "gun",
+      "count": 483
+    },
+    {
+      "word": "gàidhlig",
+      "count": 476
+    },
+    {
+      "word": "stàitean",
+      "count": 473
+    },
+    {
+      "word": "ceimigeachd",
+      "count": 466
+    },
+    {
+      "word": "robh",
+      "count": 458
+    },
+    {
+      "word": "ceanglaichean",
+      "count": 450
+    },
+    {
+      "word": "nam",
+      "count": 446
+    },
+    {
+      "word": "bhith",
+      "count": 431
+    },
+    {
+      "word": "oilthigh",
+      "count": 429
+    },
+    {
+      "word": "bheil",
+      "count": 420
+    },
+    {
+      "word": "h-alba",
+      "count": 411
+    },
+    {
+      "word": "ris",
+      "count": 410
+    },
+    {
+      "word": "eadar",
+      "count": 408
+    },
+    {
+      "word": "den",
+      "count": 398
+    },
+    {
+      "word": "alba",
+      "count": 397
+    },
+    {
+      "word": "nuair",
+      "count": 373
+    },
+    {
+      "word": "teaghlach",
+      "count": 371
+    },
+    {
+      "word": "bhuannaich",
+      "count": 369
+    },
+    {
+      "word": "aige",
+      "count": 360
+    },
+    {
+      "word": "of",
+      "count": 349
+    },
+    {
+      "word": "deas",
+      "count": 348
+    },
+    {
+      "word": "th",
+      "count": 343
+    },
+    {
+      "word": "baile",
+      "count": 335
+    },
+    {
+      "word": "dùthaich",
+      "count": 332
+    },
+    {
+      "word": "mòr",
+      "count": 330
+    },
+    {
+      "word": "nas",
+      "count": 323
+    },
+    {
+      "word": "mh",
+      "count": 315
+    },
+    {
+      "word": "linn",
+      "count": 313
+    },
+    {
+      "word": "motha",
+      "count": 312
+    },
+    {
+      "word": "tuath",
+      "count": 310
+    },
+    {
+      "word": "ainmeil",
+      "count": 308
+    },
+    {
+      "word": "far",
+      "count": 307
+    },
+    {
+      "word": "bbc",
+      "count": 301
+    },
+    {
+      "word": "aon",
+      "count": 298
+    },
+    {
+      "word": "eilean",
+      "count": 295
+    },
+    {
+      "word": "còmhla",
+      "count": 291
+    },
+    {
+      "word": "roinn",
+      "count": 290
+    },
+    {
+      "word": "cha",
+      "count": 288
+    },
+    {
+      "word": "rugadh",
+      "count": 286
+    },
+    {
+      "word": "fhèin",
+      "count": 283
+    },
+    {
+      "word": "dèidh",
+      "count": 282
+    },
+    {
+      "word": "eil",
+      "count": 282
+    },
+    {
+      "word": "ceimigear",
+      "count": 274
+    },
+    {
+      "word": "ag",
+      "count": 271
+    },
+    {
+      "word": "litreachas",
+      "count": 270
+    },
+    {
+      "word": "chan",
+      "count": 266
+    },
+    {
+      "word": "nach",
+      "count": 260
+    },
+    {
+      "word": "gus",
+      "count": 256
+    },
+    {
+      "word": "ainm",
+      "count": 255
+    },
+    {
+      "word": "dà",
+      "count": 251
+    },
+    {
+      "word": "dhan",
+      "count": 245
+    },
+    {
+      "word": "rìoghachd",
+      "count": 243
+    },
+    {
+      "word": "eachdraidh",
+      "count": 243
+    },
+    {
+      "word": "taobh",
+      "count": 240
+    },
+    {
+      "word": "bailtean",
+      "count": 238
+    },
+    {
+      "word": "naidheachdan",
+      "count": 236
+    },
+    {
+      "word": "bhliadhna",
+      "count": 235
+    },
+    {
+      "word": "chiad",
+      "count": 235
+    },
+    {
+      "word": "cho",
+      "count": 234
+    },
+    {
+      "word": "mòran",
+      "count": 227
+    },
+    {
+      "word": "bliadhna",
+      "count": 225
+    },
+    {
+      "word": "dùthchannan",
+      "count": 223
+    },
+    {
+      "word": "bh",
+      "count": 221
+    },
+    {
+      "word": "ear",
+      "count": 219
+    },
+    {
+      "word": "àm",
+      "count": 213
+    },
+    {
+      "word": "afraga",
+      "count": 213
+    },
+    {
+      "word": "duine",
+      "count": 212
+    },
+    {
+      "word": "ged",
+      "count": 210
+    },
+    {
+      "word": "latha",
+      "count": 209
+    },
+    {
+      "word": "ghàidhlig",
+      "count": 206
+    },
+    {
+      "word": "bhon",
+      "count": 206
+    },
+    {
+      "word": "suidhichte",
+      "count": 205
+    },
+    {
+      "word": "co-cheangailte",
+      "count": 205
+    },
+    {
+      "word": "cànan",
+      "count": 203
+    },
+    {
+      "word": "rinn",
+      "count": 203
+    },
+    {
+      "word": "cuid",
+      "count": 201
+    },
+    {
+      "word": "dùthcha",
+      "count": 200
+    },
+    {
+      "word": "ceimigearan",
+      "count": 197
+    },
+    {
+      "word": "oifigeil",
+      "count": 194
+    },
+    {
+      "word": "chaochail",
+      "count": 193
+    },
+    {
+      "word": "prìomh-bhaile",
+      "count": 192
+    },
+    {
+      "word": "mac",
+      "count": 192
+    },
+    {
+      "word": "loch",
+      "count": 190
+    },
+    {
+      "word": "fo",
+      "count": 187
+    },
+    {
+      "word": "chuir",
+      "count": 186
+    },
+    {
+      "word": "ga",
+      "count": 186
+    },
+    {
+      "word": "fuireach",
+      "count": 183
+    },
+    {
+      "word": "aghaidh",
+      "count": 183
+    },
+    {
+      "word": "iar",
+      "count": 182
+    },
+    {
+      "word": "aca",
+      "count": 181
+    },
+    {
+      "word": "ghearmailt",
+      "count": 181
+    },
+    {
+      "word": "mhòr",
+      "count": 178
+    },
+    {
+      "word": "t-ainm",
+      "count": 177
+    },
+    {
+      "word": "ceann",
+      "count": 176
+    },
+    {
+      "word": "àite",
+      "count": 175
+    },
+    {
+      "word": "and",
+      "count": 174
+    },
+    {
+      "word": "aice",
+      "count": 173
+    },
+    {
+      "word": "rìgh",
+      "count": 170
+    },
+    {
+      "word": "chur",
+      "count": 169
+    },
+    {
+      "word": "fhuair",
+      "count": 168
+    },
+    {
+      "word": "fear",
+      "count": 166
+    },
+    {
+      "word": "la",
+      "count": 166
+    },
+    {
+      "word": "obair",
+      "count": 165
+    },
+    {
+      "word": "math",
+      "count": 165
+    },
+    {
+      "word": "john",
+      "count": 159
+    },
+    {
+      "word": "gach",
+      "count": 158
+    },
+    {
+      "word": "àirde",
+      "count": 157
+    },
+    {
+      "word": "àisia",
+      "count": 156
+    },
+    {
+      "word": "dh",
+      "count": 152
+    },
+    {
+      "word": "bheurla",
+      "count": 152
+    },
+    {
+      "word": "sgrìobh",
+      "count": 151
+    },
+    {
+      "word": "ceòl",
+      "count": 151
+    },
+    {
+      "word": "sgrìobhadairean",
+      "count": 151
+    },
+    {
+      "word": "chuid",
+      "count": 150
+    },
+    {
+      "word": "dha",
+      "count": 150
+    },
+    {
+      "word": "sgrìobhadair",
+      "count": 150
+    },
+    {
+      "word": "bidh",
+      "count": 149
+    },
+    {
+      "word": "dùn",
+      "count": 148
+    },
+    {
+      "word": "a-steach",
+      "count": 148
+    },
+    {
+      "word": "sasainn",
+      "count": 147
+    },
+    {
+      "word": "urrainn",
+      "count": 147
+    },
+    {
+      "word": "laideann",
+      "count": 147
+    },
+    {
+      "word": "aistean",
+      "count": 145
+    },
+    {
+      "word": "iain",
+      "count": 145
+    },
+    {
+      "word": "thoirt",
+      "count": 144
+    },
+    {
+      "word": "thàinig",
+      "count": 144
+    },
+    {
+      "word": "tric",
+      "count": 141
+    },
+    {
+      "word": "riaghaltas",
+      "count": 140
+    },
+    {
+      "word": "cur",
+      "count": 140
+    },
+    {
+      "word": "ùr",
+      "count": 140
+    },
+    {
+      "word": "èirinn",
+      "count": 140
+    },
+    {
+      "word": "nàiseanta",
+      "count": 139
+    },
+    {
+      "word": "bhaile",
+      "count": 139
+    },
+    {
+      "word": "òrdugh",
+      "count": 137
+    },
+    {
+      "word": "nuadh",
+      "count": 137
+    },
+    {
+      "word": "h-èireann",
+      "count": 135
+    },
+    {
+      "word": "thòisich",
+      "count": 131
+    },
+    {
+      "word": "fad",
+      "count": 130
+    },
+    {
+      "word": "camanachd",
+      "count": 129
+    },
+    {
+      "word": "beag",
+      "count": 128
+    },
+    {
+      "word": "dhèanamh",
+      "count": 127
+    },
+    {
+      "word": "an-diugh",
+      "count": 127
+    },
+    {
+      "word": "gabhail",
+      "count": 126
+    },
+    {
+      "word": "fhraing",
+      "count": 126
+    },
+    {
+      "word": "inbhir",
+      "count": 125
+    },
+    {
+      "word": "crìochan",
+      "count": 125
+    },
+    {
+      "word": "measg",
+      "count": 123
+    },
+    {
+      "word": "bith",
+      "count": 121
+    },
+    {
+      "word": "sgioba",
+      "count": 121
+    },
+    {
+      "word": "faic",
+      "count": 120
+    },
+    {
+      "word": "lorg",
+      "count": 119
+    },
+    {
+      "word": "thug",
+      "count": 118
+    },
+    {
+      "word": "poblachd",
+      "count": 118
+    },
+    {
+      "word": "in",
+      "count": 118
+    },
+    {
+      "word": "gur",
+      "count": 117
+    },
+    {
+      "word": "tro",
+      "count": 115
+    },
+    {
+      "word": "uair",
+      "count": 115
+    },
+    {
+      "word": "trì",
+      "count": 114
+    },
+    {
+      "word": "chleachdadh",
+      "count": 114
+    },
+    {
+      "word": "toirt",
+      "count": 113
+    },
+    {
+      "word": "leabhar",
+      "count": 113
+    },
+    {
+      "word": "facal",
+      "count": 113
+    },
+    {
+      "word": "bu",
+      "count": 112
+    },
+    {
+      "word": "sam",
+      "count": 111
+    },
+    {
+      "word": "stàite",
+      "count": 111
+    },
+    {
+      "word": "feadh",
+      "count": 111
+    },
+    {
+      "word": "celtic",
+      "count": 110
+    },
+    {
+      "word": "ciallachadh",
+      "count": 110
+    },
+    {
+      "word": "ghabh",
+      "count": 109
+    },
+    {
+      "word": "don",
+      "count": 108
+    },
+    {
+      "word": "ro",
+      "count": 107
+    },
+    {
+      "word": "cleachdadh",
+      "count": 107
+    },
+    {
+      "word": "seòrsa",
+      "count": 106
+    },
+    {
+      "word": "seann",
+      "count": 106
+    },
+    {
+      "word": "canar",
+      "count": 106
+    },
+    {
+      "word": "glaschu",
+      "count": 105
+    },
+    {
+      "word": "h-eileanan",
+      "count": 105
+    },
+    {
+      "word": "abhainn",
+      "count": 105
+    },
+    {
+      "word": "cogadh",
+      "count": 103
+    },
+    {
+      "word": "a-staigh",
+      "count": 102
+    },
+    {
+      "word": "ball-coise",
+      "count": 101
+    },
+    {
+      "word": "siorrachd",
+      "count": 101
+    },
+    {
+      "word": "saidheansail",
+      "count": 101
+    },
+    {
+      "word": "mun",
+      "count": 100
+    },
+    {
+      "word": "tè",
+      "count": 100
+    },
+    {
+      "word": "nis",
+      "count": 99
+    },
+    {
+      "word": "dèanamh",
+      "count": 99
+    },
+    {
+      "word": "roinn-eòrpa",
+      "count": 99
+    },
+    {
+      "word": "rangers",
+      "count": 99
+    },
+    {
+      "word": "a-nis",
+      "count": 98
+    },
+    {
+      "word": "buaidh",
+      "count": 97
+    },
+    {
+      "word": "iomadh",
+      "count": 97
+    },
+    {
+      "word": "dubh",
+      "count": 97
+    },
+    {
+      "word": "ceangal",
+      "count": 97
+    },
+    {
+      "word": "sgìre",
+      "count": 96
+    },
+    {
+      "word": "dol",
+      "count": 96
+    },
+    {
+      "word": "glè",
+      "count": 96
+    },
+    {
+      "word": "dhen",
+      "count": 96
+    },
+    {
+      "word": "eisimpleir",
+      "count": 96
+    },
+    {
+      "word": "bruidhinn",
+      "count": 95
+    },
+    {
+      "word": "meadhan",
+      "count": 94
+    },
+    {
+      "word": "a-muigh",
+      "count": 94
+    },
+    {
+      "word": "coltach",
+      "count": 94
+    },
+    {
+      "word": "dheireadh",
+      "count": 94
+    },
+    {
+      "word": "ràdh",
+      "count": 94
+    },
+    {
+      "word": "robert",
+      "count": 93
+    },
+    {
+      "word": "mantis",
+      "count": 93
+    },
+    {
+      "word": "canada",
+      "count": 92
+    },
+    {
+      "word": "fhathast",
+      "count": 92
+    },
+    {
+      "word": "stàit",
+      "count": 92
+    },
+    {
+      "word": "dealbhan",
+      "count": 91
+    },
+    {
+      "word": "stèidheachadh",
+      "count": 90
+    },
+    {
+      "word": "cànain",
+      "count": 90
+    },
+    {
+      "word": "cumanta",
+      "count": 89
+    },
+    {
+      "word": "leth",
+      "count": 88
+    },
+    {
+      "word": "creideamh",
+      "count": 88
+    },
+    {
+      "word": "meatailt",
+      "count": 88
+    },
+    {
+      "word": "faisg",
+      "count": 87
+    },
+    {
+      "word": "eòrpa",
+      "count": 87
+    },
+    {
+      "word": "gum",
+      "count": 87
+    },
+    {
+      "word": "toiseach",
+      "count": 86
+    },
+    {
+      "word": "comann",
+      "count": 86
+    },
+    {
+      "word": "dàrna",
+      "count": 86
+    },
+    {
+      "word": "ghlaschu",
+      "count": 86
+    },
+    {
+      "word": "gearmailteach",
+      "count": 86
+    },
+    {
+      "word": "siar",
+      "count": 85
+    },
+    {
+      "word": "albannach",
+      "count": 84
+    },
+    {
+      "word": "taigh",
+      "count": 84
+    },
+    {
+      "word": "h-uile",
+      "count": 84
+    },
+    {
+      "word": "chànan",
+      "count": 84
+    },
+    {
+      "word": "gruag",
+      "count": 84
+    },
+    {
+      "word": "pàirt",
+      "count": 83
+    },
+    {
+      "word": "chèile",
+      "count": 83
+    },
+    {
+      "word": "prìomh",
+      "count": 83
+    },
+    {
+      "word": "ìre",
+      "count": 83
+    },
+    {
+      "word": "william",
+      "count": 83
+    },
+    {
+      "word": "neach",
+      "count": 83
+    },
+    {
+      "word": "cluich",
+      "count": 81
+    },
+    {
+      "word": "sgrìobhadh",
+      "count": 81
+    },
+    {
+      "word": "mus",
+      "count": 81
+    },
+    {
+      "word": "tighinn",
+      "count": 81
+    },
+    {
+      "word": "ruadh",
+      "count": 81
+    },
+    {
+      "word": "fheàrr",
+      "count": 81
+    },
+    {
+      "word": "oir",
+      "count": 80
+    },
+    {
+      "word": "beatha",
+      "count": 80
+    },
+    {
+      "word": "eaglais",
+      "count": 80
+    },
+    {
+      "word": "a-mhàin",
+      "count": 79
+    },
+    {
+      "word": "mòra",
+      "count": 79
+    },
+    {
+      "word": "èideann",
+      "count": 79
+    },
+    {
+      "word": "lunnainn",
+      "count": 78
+    },
+    {
+      "word": "eaconomachd",
+      "count": 78
+    },
+    {
+      "word": "t-saoghal",
+      "count": 77
+    },
+    {
+      "word": "sùilean",
+      "count": 77
+    },
+    {
+      "word": "cupa",
+      "count": 76
+    },
+    {
+      "word": "james",
+      "count": 76
+    },
+    {
+      "word": "beò",
+      "count": 75
+    },
+    {
+      "word": "timcheall",
+      "count": 75
+    },
+    {
+      "word": "paul",
+      "count": 75
+    },
+    {
+      "word": "nochdadh",
+      "count": 75
+    },
+    {
+      "word": "ruis",
+      "count": 73
+    },
+    {
+      "word": "pàrlamaid",
+      "count": 72
+    },
+    {
+      "word": "dheidhinn",
+      "count": 72
+    },
+    {
+      "word": "a-rèir",
+      "count": 72
+    },
+    {
+      "word": "bhiodh",
+      "count": 72
+    },
+    {
+      "word": "se",
+      "count": 72
+    },
+    {
+      "word": "fada",
+      "count": 71
+    },
+    {
+      "word": "foghlam",
+      "count": 71
+    },
+    {
+      "word": "sna",
+      "count": 71
+    },
+    {
+      "word": "h-àraidh",
+      "count": 71
+    },
+    {
+      "word": "clàr",
+      "count": 71
+    },
+    {
+      "word": "falbh",
+      "count": 71
+    },
+    {
+      "word": "làidir",
+      "count": 71
+    },
+    {
+      "word": "dòigh",
+      "count": 70
+    },
+    {
+      "word": "bhios",
+      "count": 70
+    },
+    {
+      "word": "ais",
+      "count": 70
+    },
+    {
+      "word": "clann",
+      "count": 70
+    },
+    {
+      "word": "dùbhlachd",
+      "count": 70
+    },
+    {
+      "word": "seachad",
+      "count": 70
+    },
+    {
+      "word": "rud",
+      "count": 69
+    },
+    {
+      "word": "seach",
+      "count": 69
+    },
+    {
+      "word": "gnè",
+      "count": 69
+    },
+    {
+      "word": "dh'fhàs",
+      "count": 69
+    },
+    {
+      "word": "leabhraichean",
+      "count": 69
+    },
+    {
+      "word": "t-iuchar",
+      "count": 69
+    },
+    {
+      "word": "bharrachd",
+      "count": 68
+    },
+    {
+      "word": "chionn",
+      "count": 68
+    },
+    {
+      "word": "suas",
+      "count": 68
+    },
+    {
+      "word": "làrach-lìn",
+      "count": 68
+    },
+    {
+      "word": "deach",
+      "count": 68
+    },
+    {
+      "word": "sònraichte",
+      "count": 68
+    },
+    {
+      "word": "corp-fireannaich",
+      "count": 68
+    },
+    {
+      "word": "ceilteach",
+      "count": 67
+    },
+    {
+      "word": "dhaoine",
+      "count": 67
+    },
+    {
+      "word": "siorrachdan",
+      "count": 67
+    },
+    {
+      "word": "feadhainn",
+      "count": 67
+    },
+    {
+      "word": "duilleag",
+      "count": 67
+    },
+    {
+      "word": "ainmean",
+      "count": 66
+    },
+    {
+      "word": "t-saoghail",
+      "count": 66
+    },
+    {
+      "word": "ealain",
+      "count": 66
+    },
+    {
+      "word": "stèidhichte",
+      "count": 66
+    },
+    {
+      "word": "dham",
+      "count": 66
+    },
+    {
+      "word": "bhreatainn",
+      "count": 65
+    },
+    {
+      "word": "trice",
+      "count": 65
+    },
+    {
+      "word": "beinn",
+      "count": 65
+    },
+    {
+      "word": "iomradh",
+      "count": 65
+    },
+    {
+      "word": "iomain",
+      "count": 65
+    },
+    {
+      "word": "der",
+      "count": 65
+    },
+    {
+      "word": "dìreach",
+      "count": 65
+    },
+    {
+      "word": "berlin",
+      "count": 65
+    },
+    {
+      "word": "aimearaga",
+      "count": 64
+    },
+    {
+      "word": "diugh",
+      "count": 64
+    },
+    {
+      "word": "uisge",
+      "count": 64
+    },
+    {
+      "word": "bhàsaich",
+      "count": 64
+    },
+    {
+      "word": "bàrdachd",
+      "count": 64
+    },
+    {
+      "word": "là",
+      "count": 64
+    },
+    {
+      "word": "t-ògmhios",
+      "count": 64
+    },
+    {
+      "word": "mv",
+      "count": 64
+    },
+    {
+      "word": "dhe",
+      "count": 63
+    },
+    {
+      "word": "breatainn",
+      "count": 63
+    },
+    {
+      "word": "spòrs",
+      "count": 63
+    },
+    {
+      "word": "àireamh",
+      "count": 63
+    },
+    {
+      "word": "buidheann",
+      "count": 63
+    },
+    {
+      "word": "bàrd",
+      "count": 63
+    },
+    {
+      "word": "lorgadh",
+      "count": 63
+    },
+    {
+      "word": "liosta",
+      "count": 62
+    },
+    {
+      "word": "sreath",
+      "count": 62
+    },
+    {
+      "word": "ruith",
+      "count": 62
+    },
+    {
+      "word": "cànanan",
+      "count": 62
+    },
+    {
+      "word": "deireadh",
+      "count": 62
+    },
+    {
+      "word": "ipa",
+      "count": 62
+    },
+    {
+      "word": "bean",
+      "count": 62
+    },
+    {
+      "word": "aois",
+      "count": 61
+    },
+    {
+      "word": "dè",
+      "count": 60
+    },
+    {
+      "word": "rudan",
+      "count": 60
+    },
+    {
+      "word": "uile",
+      "count": 60
+    },
+    {
+      "word": "chuimrigh",
+      "count": 60
+    },
+    {
+      "word": "fhaighinn",
+      "count": 60
+    },
+    {
+      "word": "dhiubh",
+      "count": 60
+    },
+    {
+      "word": "fraingis",
+      "count": 60
+    },
+    {
+      "word": "sgitheanach",
+      "count": 60
+    },
+    {
+      "word": "dhùn",
+      "count": 60
+    },
+    {
+      "word": "spàinn",
+      "count": 60
+    },
+    {
+      "word": "to",
+      "count": 60
+    },
+    {
+      "word": "giblean",
+      "count": 60
+    },
+    {
+      "word": "cumhachd",
+      "count": 59
+    },
+    {
+      "word": "sgàth",
+      "count": 59
+    },
+    {
+      "word": "màrt",
+      "count": 59
+    },
+    {
+      "word": "barrachd",
+      "count": 59
+    },
+    {
+      "word": "sgoil",
+      "count": 59
+    },
+    {
+      "word": "comhairle",
+      "count": 59
+    },
+    {
+      "word": "dàmhair",
+      "count": 59
+    },
+    {
+      "word": "seumas",
+      "count": 59
+    },
+    {
+      "word": "luchd",
+      "count": 59
+    },
+    {
+      "word": "eileanan",
+      "count": 58
+    },
+    {
+      "word": "a-rithist",
+      "count": 58
+    },
+    {
+      "word": "bheag",
+      "count": 58
+    },
+    {
+      "word": "smachd",
+      "count": 58
+    },
+    {
+      "word": "george",
+      "count": 58
+    },
+    {
+      "word": "eaconamaiche",
+      "count": 58
+    },
+    {
+      "word": "aithris-bhideo",
+      "count": 57
+    },
+    {
+      "word": "sluagh",
+      "count": 57
+    },
+    {
+      "word": "tron",
+      "count": 57
+    },
+    {
+      "word": "t-eilean",
+      "count": 57
+    },
+    {
+      "word": "nochd",
+      "count": 57
+    },
+    {
+      "word": "oileanach",
+      "count": 57
+    },
+    {
+      "word": "dhaibh",
+      "count": 56
+    },
+    {
+      "word": "oirre",
+      "count": 56
+    },
+    {
+      "word": "thairis",
+      "count": 56
+    },
+    {
+      "word": "spàinntis",
+      "count": 56
+    },
+    {
+      "word": "bàs",
+      "count": 56
+    },
+    {
+      "word": "dàibhead",
+      "count": 56
+    },
+    {
+      "word": "obar",
+      "count": 55
+    },
+    {
+      "word": "phàirt",
+      "count": 55
+    },
+    {
+      "word": "muinntir",
+      "count": 55
+    },
+    {
+      "word": "talamh",
+      "count": 55
+    },
+    {
+      "word": "rannsachadh",
+      "count": 55
+    },
+    {
+      "word": "thathar",
+      "count": 55
+    },
+    {
+      "word": "mi",
+      "count": 55
+    },
+    {
+      "word": "cèitean",
+      "count": 55
+    },
+    {
+      "word": "t-suain",
+      "count": 55
+    },
+    {
+      "word": "faoilleach",
+      "count": 55
+    },
+    {
+      "word": "sàs",
+      "count": 55
+    },
+    {
+      "word": "co-sheòrsach",
+      "count": 55
+    },
+    {
+      "word": "faodaidh",
+      "count": 54
+    },
+    {
+      "word": "òg",
+      "count": 54
+    },
+    {
+      "word": "fhoillseachadh",
+      "count": 54
+    },
+    {
+      "word": "athair",
+      "count": 54
+    },
+    {
+      "word": "t-sultain",
+      "count": 53
+    },
+    {
+      "word": "ceithir",
+      "count": 53
+    },
+    {
+      "word": "nì",
+      "count": 53
+    },
+    {
+      "word": "bi",
+      "count": 53
+    },
+    {
+      "word": "thogail",
+      "count": 53
+    },
+    {
+      "word": "thoisich",
+      "count": 53
+    },
+    {
+      "word": "t-samhain",
+      "count": 53
+    },
+    {
+      "word": "chluich",
+      "count": 53
+    },
+    {
+      "word": "new",
+      "count": 53
+    },
+    {
+      "word": "thaobh",
+      "count": 52
+    },
+    {
+      "word": "sasannach",
+      "count": 52
+    },
+    {
+      "word": "fàs",
+      "count": 52
+    },
+    {
+      "word": "on",
+      "count": 52
+    },
+    {
+      "word": "atharrachadh",
+      "count": 52
+    },
+    {
+      "word": "òran",
+      "count": 52
+    },
+    {
+      "word": "faclan",
+      "count": 52
+    },
+    {
+      "word": "àrd",
+      "count": 52
+    },
+    {
+      "word": "thar",
+      "count": 52
+    },
+    {
+      "word": "seallaibh",
+      "count": 52
+    },
+    {
+      "word": "gan",
+      "count": 51
+    },
+    {
+      "word": "tràth",
+      "count": 51
+    },
+    {
+      "word": "ghobhainn",
+      "count": 51
+    },
+    {
+      "word": "km",
+      "count": 51
+    },
+    {
+      "word": "dath",
+      "count": 51
+    },
+    {
+      "word": "fiosrachadh",
+      "count": 50
+    },
+    {
+      "word": "fìor",
+      "count": 50
+    },
+    {
+      "word": "suidheachadh",
+      "count": 50
+    },
+    {
+      "word": "leasachadh",
+      "count": 50
+    },
+    {
+      "word": "gàidheal",
+      "count": 50
+    },
+    {
+      "word": "nirribhidh",
+      "count": 50
+    },
+    {
+      "word": "àird",
+      "count": 50
+    },
+    {
+      "word": "ionad",
+      "count": 50
+    },
+    {
+      "word": "die",
+      "count": 50
+    },
+    {
+      "word": "fir",
+      "count": 50
+    },
+    {
+      "word": "lagh",
+      "count": 49
+    },
+    {
+      "word": "eilein",
+      "count": 49
+    },
+    {
+      "word": "tìr",
+      "count": 49
+    },
+    {
+      "word": "thu",
+      "count": 49
+    },
+    {
+      "word": "gall",
+      "count": 49
+    },
+    {
+      "word": "for",
+      "count": 49
+    },
+    {
+      "word": "bheachd",
+      "count": 49
+    },
+    {
+      "word": "thèid",
+      "count": 49
+    },
+    {
+      "word": "shasainn",
+      "count": 49
+    },
+    {
+      "word": "ii",
+      "count": 49
+    },
+    {
+      "word": "sgeulachdan",
+      "count": 49
+    },
+    {
+      "word": "lugha",
+      "count": 49
+    },
+    {
+      "word": "sinn",
+      "count": 48
+    },
+    {
+      "word": "siud",
+      "count": 48
+    },
+    {
+      "word": "fios",
+      "count": 48
+    },
+    {
+      "word": "saidheans",
+      "count": 48
+    },
+    {
+      "word": "cudthromach",
+      "count": 48
+    },
+    {
+      "word": "gàidheil",
+      "count": 48
+    },
+    {
+      "word": "gàidhealtachd",
+      "count": 48
+    },
+    {
+      "word": "cultar",
+      "count": 48
+    },
+    {
+      "word": "prìomh-bhailtean",
+      "count": 48
+    },
+    {
+      "word": "frainge",
+      "count": 48
+    },
+    {
+      "word": "roinnean",
+      "count": 47
+    },
+    {
+      "word": "mìle",
+      "count": 47
+    },
+    {
+      "word": "rìghrean",
+      "count": 47
+    },
+    {
+      "word": "àbhaist",
+      "count": 47
+    },
+    {
+      "word": "cudromach",
+      "count": 47
+    },
+    {
+      "word": "caisteal",
+      "count": 47
+    },
+    {
+      "word": "ciùil",
+      "count": 47
+    },
+    {
+      "word": "lùnasdal",
+      "count": 47
+    },
+    {
+      "word": "eadailt",
+      "count": 47
+    },
+    {
+      "word": "common",
+      "count": 47
+    },
+    {
+      "word": "whale",
+      "count": 47
+    },
+    {
+      "word": "frangach",
+      "count": 47
+    },
+    {
+      "word": "achd",
+      "count": 46
+    },
+    {
+      "word": "h-innseachan",
+      "count": 46
+    },
+    {
+      "word": "linne",
+      "count": 46
+    },
+    {
+      "word": "sgeul",
+      "count": 46
+    },
+    {
+      "word": "aithris",
+      "count": 46
+    },
+    {
+      "word": "chumail",
+      "count": 46
+    },
+    {
+      "word": "phrìomh-bhaile",
+      "count": 46
+    },
+    {
+      "word": "port",
+      "count": 46
+    },
+    {
+      "word": "film",
+      "count": 46
+    },
+    {
+      "word": "obrach",
+      "count": 46
+    },
+    {
+      "word": "impireachd",
+      "count": 46
+    },
+    {
+      "word": "neach-poileataigs",
+      "count": 46
+    },
+    {
+      "word": "paris",
+      "count": 46
+    },
+    {
+      "word": "choisinn",
+      "count": 46
+    },
+    {
+      "word": "contae",
+      "count": 46
+    },
+    {
+      "word": "co-sheòrsachd",
+      "count": 46
+    },
+    {
+      "word": "muir",
+      "count": 45
+    },
+    {
+      "word": "astràilia",
+      "count": 45
+    },
+    {
+      "word": "traidiseanta",
+      "count": 45
+    },
+    {
+      "word": "richard",
+      "count": 45
+    },
+    {
+      "word": "ollamh",
+      "count": 45
+    },
+    {
+      "word": "fhaicinn",
+      "count": 45
+    },
+    {
+      "word": "charles",
+      "count": 45
+    },
+    {
+      "word": "thill",
+      "count": 45
+    },
+    {
+      "word": "bheatha",
+      "count": 45
+    },
+    {
+      "word": "beagan",
+      "count": 45
+    },
+    {
+      "word": "thomas",
+      "count": 45
+    },
+    {
+      "word": "colaiste",
+      "count": 45
+    },
+    {
+      "word": "isbn",
+      "count": 45
+    },
+    {
+      "word": "dheathain",
+      "count": 44
+    },
+    {
+      "word": "ghabhail",
+      "count": 44
+    },
+    {
+      "word": "seachd",
+      "count": 44
+    },
+    {
+      "word": "eabhraig",
+      "count": 44
+    },
+    {
+      "word": "leòr",
+      "count": 44
+    },
+    {
+      "word": "gàidhealach",
+      "count": 44
+    },
+    {
+      "word": "ge-tà",
+      "count": 44
+    },
+    {
+      "word": "dualchas",
+      "count": 44
+    },
+    {
+      "word": "chaill",
+      "count": 44
+    },
+    {
+      "word": "blàr",
+      "count": 44
+    },
+    {
+      "word": "ma",
+      "count": 44
+    },
+    {
+      "word": "iùdhach",
+      "count": 44
+    },
+    {
+      "word": "stèidhich",
+      "count": 44
+    },
+    {
+      "word": "tighearna",
+      "count": 44
+    },
+    {
+      "word": "cuan",
+      "count": 44
+    },
+    {
+      "word": "taic",
+      "count": 44
+    },
+    {
+      "word": "gearran",
+      "count": 44
+    },
+    {
+      "word": "chruthachadh",
+      "count": 43
+    },
+    {
+      "word": "cumail",
+      "count": 43
+    },
+    {
+      "word": "sgìrean",
+      "count": 43
+    },
+    {
+      "word": "eòrpach",
+      "count": 43
+    },
+    {
+      "word": "millean",
+      "count": 43
+    },
+    {
+      "word": "eòlas",
+      "count": 43
+    },
+    {
+      "word": "bliadhnaichean",
+      "count": 43
+    },
+    {
+      "word": "da",
+      "count": 43
+    },
+    {
+      "word": "sir",
+      "count": 43
+    },
+    {
+      "word": "mharbhadh",
+      "count": 43
+    },
+    {
+      "word": "daonna",
+      "count": 43
+    },
+    {
+      "word": "dealbh",
+      "count": 43
+    },
+    {
+      "word": "ainmeile",
+      "count": 43
+    },
+    {
+      "word": "phòlainn",
+      "count": 43
+    },
+    {
+      "word": "mheadhanach",
+      "count": 43
+    },
+    {
+      "word": "ionnsaigh",
+      "count": 42
+    },
+    {
+      "word": "deug",
+      "count": 42
+    },
+    {
+      "word": "breatannach",
+      "count": 42
+    },
+    {
+      "word": "eilbheis",
+      "count": 42
+    },
+    {
+      "word": "rìoghail",
+      "count": 42
+    },
+    {
+      "word": "bhideo",
+      "count": 42
+    },
+    {
+      "word": "gaeilge",
+      "count": 42
+    },
+    {
+      "word": "chogaidh",
+      "count": 42
+    },
+    {
+      "word": "a-riamh",
+      "count": 42
+    },
+    {
+      "word": "dh'fhàg",
+      "count": 42
+    },
+    {
+      "word": "gràmair",
+      "count": 42
+    },
+    {
+      "word": "linntean",
+      "count": 41
+    },
+    {
+      "word": "rathad",
+      "count": 41
+    },
+    {
+      "word": "gluasad",
+      "count": 41
+    },
+    {
+      "word": "mara",
+      "count": 41
+    },
+    {
+      "word": "aonghas",
+      "count": 41
+    },
+    {
+      "word": "orra",
+      "count": 41
+    },
+    {
+      "word": "leòdhas",
+      "count": 41
+    },
+    {
+      "word": "leòdhais",
+      "count": 41
+    },
+    {
+      "word": "comunn",
+      "count": 41
+    },
+    {
+      "word": "deidh",
+      "count": 41
+    },
+    {
+      "word": "david",
+      "count": 41
+    },
+    {
+      "word": "ruige",
+      "count": 41
+    },
+    {
+      "word": "gaisgeach",
+      "count": 41
+    },
+    {
+      "word": "world",
+      "count": 41
+    },
+    {
+      "word": "aonadh",
+      "count": 41
+    },
+    {
+      "word": "von",
+      "count": 41
+    },
+    {
+      "word": "lèir",
+      "count": 40
+    },
+    {
+      "word": "thachair",
+      "count": 40
+    },
+    {
+      "word": "cruinne",
+      "count": 40
+    },
+    {
+      "word": "dara",
+      "count": 40
+    },
+    {
+      "word": "chuireadh",
+      "count": 40
+    },
+    {
+      "word": "fon",
+      "count": 40
+    },
+    {
+      "word": "innd-eòrpach",
+      "count": 40
+    },
+    {
+      "word": "esan",
+      "count": 40
+    },
+    {
+      "word": "phòs",
+      "count": 40
+    },
+    {
+      "word": "oidhche",
+      "count": 40
+    },
+    {
+      "word": "rèir",
+      "count": 40
+    },
+    {
+      "word": "sìos",
+      "count": 40
+    },
+    {
+      "word": "smith",
+      "count": 40
+    },
+    {
+      "word": "nobhailean",
+      "count": 40
+    },
+    {
+      "word": "iùdhaich",
+      "count": 40
+    },
+    {
+      "word": "cheann",
+      "count": 39
+    },
+    {
+      "word": "poileataigs",
+      "count": 39
+    },
+    {
+      "word": "uaireannan",
+      "count": 39
+    },
+    {
+      "word": "pàrtaidh",
+      "count": 39
+    },
+    {
+      "word": "ùra",
+      "count": 39
+    },
+    {
+      "word": "smaoineachadh",
+      "count": 39
+    },
+    {
+      "word": "chun",
+      "count": 39
+    },
+    {
+      "word": "tìrean",
+      "count": 39
+    },
+    {
+      "word": "h-àraid",
+      "count": 39
+    },
+    {
+      "word": "alasdair",
+      "count": 39
+    },
+    {
+      "word": "mheadhan",
+      "count": 39
+    },
+    {
+      "word": "gaol",
+      "count": 39
+    },
+    {
+      "word": "chogadh",
+      "count": 39
+    },
+    {
+      "word": "el",
+      "count": 39
+    },
+    {
+      "word": "calum",
+      "count": 39
+    },
+    {
+      "word": "seinn",
+      "count": 39
+    },
+    {
+      "word": "turas",
+      "count": 39
+    },
+    {
+      "word": "clas",
+      "count": 39
+    },
+    {
+      "word": "goirid",
+      "count": 39
+    },
+    {
+      "word": "ear-thuath",
+      "count": 39
+    },
+    {
+      "word": "bhean",
+      "count": 39
+    },
+    {
+      "word": "ciad",
+      "count": 39
+    },
+    {
+      "word": "ra",
+      "count": 39
+    },
+    {
+      "word": "teirmean",
+      "count": 39
+    },
+    {
+      "word": "dheth",
+      "count": 38
+    },
+    {
+      "word": "meadhanach",
+      "count": 38
+    },
+    {
+      "word": "eachdraidheil",
+      "count": 38
+    },
+    {
+      "word": "coinneach",
+      "count": 38
+    },
+    {
+      "word": "treas",
+      "count": 38
+    },
+    {
+      "word": "cuairt",
+      "count": 38
+    },
+    {
+      "word": "làrach",
+      "count": 38
+    },
+    {
+      "word": "nighean",
+      "count": 38
+    },
+    {
+      "word": "òrain",
+      "count": 38
+    },
+    {
+      "word": "dh'imrich",
+      "count": 38
+    },
+    {
+      "word": "iomadach",
+      "count": 38
+    },
+    {
+      "word": "nobhail",
+      "count": 38
+    },
+    {
+      "word": "crab",
+      "count": 38
+    },
+    {
+      "word": "iaineatan",
+      "count": 38
+    },
+    {
+      "word": "kira",
+      "count": 38
+    },
+    {
+      "word": "raon",
+      "count": 37
+    },
+    {
+      "word": "eadar-nàiseanta",
+      "count": 37
+    },
+    {
+      "word": "inbhe",
+      "count": 37
+    },
+    {
+      "word": "dòighean",
+      "count": 37
+    },
+    {
+      "word": "th'ann",
+      "count": 37
+    },
+    {
+      "word": "sgrìobhaidhean",
+      "count": 37
+    },
+    {
+      "word": "dlùth",
+      "count": 37
+    },
+    {
+      "word": "fhacal",
+      "count": 37
+    },
+    {
+      "word": "roimhe",
+      "count": 37
+    },
+    {
+      "word": "scottish",
+      "count": 37
+    },
+    {
+      "word": "innse",
+      "count": 37
+    },
+    {
+      "word": "turasachd",
+      "count": 37
+    },
+    {
+      "word": "dearg",
+      "count": 37
+    },
+    {
+      "word": "bhàn",
+      "count": 37
+    },
+    {
+      "word": "aibidil",
+      "count": 37
+    },
+    {
+      "word": "mhair",
+      "count": 37
+    },
+    {
+      "word": "ìsle",
+      "count": 37
+    },
+    {
+      "word": "du",
+      "count": 37
+    },
+    {
+      "word": "ungair",
+      "count": 37
+    },
+    {
+      "word": "steòrnabhagh",
+      "count": 37
+    },
+    {
+      "word": "rè",
+      "count": 36
+    },
+    {
+      "word": "gearmailtis",
+      "count": 36
+    },
+    {
+      "word": "ainmeachadh",
+      "count": 36
+    },
+    {
+      "word": "sean",
+      "count": 36
+    },
+    {
+      "word": "www",
+      "count": 36
+    },
+    {
+      "word": "seinneadair",
+      "count": 36
+    },
+    {
+      "word": "friedrich",
+      "count": 36
+    },
+    {
+      "word": "macgill-eain",
+      "count": 36
+    },
+    {
+      "word": "uibhist",
+      "count": 36
+    },
+    {
+      "word": "naomh",
+      "count": 36
+    },
+    {
+      "word": "ùine",
+      "count": 36
+    },
+    {
+      "word": "dolphin",
+      "count": 36
+    },
+    {
+      "word": "ostair",
+      "count": 36
+    },
+    {
+      "word": "átha",
+      "count": 36
+    },
+    {
+      "word": "dh'obraich",
+      "count": 36
+    },
+    {
+      "word": "cruinn-eòlas",
+      "count": 35
+    },
+    {
+      "word": "thuath",
+      "count": 35
+    },
+    {
+      "word": "chluaidh",
+      "count": 35
+    },
+    {
+      "word": "dhà",
+      "count": 35
+    },
+    {
+      "word": "oilthighean",
+      "count": 35
+    },
+    {
+      "word": "ball",
+      "count": 35
+    },
+    {
+      "word": "ceangailte",
+      "count": 35
+    },
+    {
+      "word": "thuirt",
+      "count": 35
+    },
+    {
+      "word": "ruisis",
+      "count": 35
+    },
+    {
+      "word": "arabais",
+      "count": 35
+    },
+    {
+      "word": "black",
+      "count": 35
+    },
+    {
+      "word": "bonn",
+      "count": 35
+    },
+    {
+      "word": "chille",
+      "count": 35
+    },
+    {
+      "word": "leantainn",
+      "count": 35
+    },
+    {
+      "word": "karl",
+      "count": 35
+    },
+    {
+      "word": "lean",
+      "count": 35
+    },
+    {
+      "word": "luchd-ciùil",
+      "count": 35
+    },
+    {
+      "word": "nàdarra",
+      "count": 35
+    },
+    {
+      "word": "tuilleadh",
+      "count": 35
+    },
+    {
+      "word": "ameireaganach",
+      "count": 35
+    },
+    {
+      "word": "dh'ionnsaich",
+      "count": 35
+    },
+    {
+      "word": "h-obrach",
+      "count": 35
+    },
+    {
+      "word": "adhart",
+      "count": 34
+    },
+    {
+      "word": "mhuir",
+      "count": 34
+    },
+    {
+      "word": "thogadh",
+      "count": 34
+    },
+    {
+      "word": "dhith",
+      "count": 34
+    },
+    {
+      "word": "taghadh",
+      "count": 34
+    },
+    {
+      "word": "oxford",
+      "count": 34
+    },
+    {
+      "word": "dùil",
+      "count": 34
+    },
+    {
+      "word": "gairm",
+      "count": 34
+    },
+    {
+      "word": "uairibh",
+      "count": 34
+    },
+    {
+      "word": "mhanainn",
+      "count": 34
+    },
+    {
+      "word": "chaluim",
+      "count": 34
+    },
+    {
+      "word": "dhol",
+      "count": 34
+    },
+    {
+      "word": "saoghal",
+      "count": 34
+    },
+    {
+      "word": "àiteachas",
+      "count": 34
+    },
+    {
+      "word": "ghoirid",
+      "count": 34
+    },
+    {
+      "word": "buidhnean",
+      "count": 34
+    },
+    {
+      "word": "eadar-dhealaichte",
+      "count": 33
+    },
+    {
+      "word": "cille",
+      "count": 33
+    },
+    {
+      "word": "sgoiltean",
+      "count": 33
+    },
+    {
+      "word": "bithidh",
+      "count": 33
+    },
+    {
+      "word": "fhàgail",
+      "count": 33
+    },
+    {
+      "word": "fhàs",
+      "count": 33
+    },
+    {
+      "word": "gleann",
+      "count": 33
+    },
+    {
+      "word": "croitearachd",
+      "count": 33
+    },
+    {
+      "word": "prògram",
+      "count": 33
+    },
+    {
+      "word": "somhairle",
+      "count": 33
+    },
+    {
+      "word": "dreuchd",
+      "count": 33
+    },
+    {
+      "word": "bhrìgh",
+      "count": 33
+    },
+    {
+      "word": "sine",
+      "count": 33
+    },
+    {
+      "word": "cliath",
+      "count": 33
+    },
+    {
+      "word": "iar-thuath",
+      "count": 33
+    },
+    {
+      "word": "ceann-suidhe",
+      "count": 33
+    },
+    {
+      "word": "maurice",
+      "count": 33
+    },
+    {
+      "word": "en",
+      "count": 33
+    },
+    {
+      "word": "jen",
+      "count": 33
+    },
+    {
+      "word": "taibhse",
+      "count": 33
+    },
+    {
+      "word": "thog",
+      "count": 32
+    },
+    {
+      "word": "togalach",
+      "count": 32
+    },
+    {
+      "word": "bhall",
+      "count": 32
+    },
+    {
+      "word": "co-dhiù",
+      "count": 32
+    },
+    {
+      "word": "stoidhle",
+      "count": 32
+    },
+    {
+      "word": "sealltainn",
+      "count": 32
+    },
+    {
+      "word": "ràinig",
+      "count": 32
+    },
+    {
+      "word": "sealladh",
+      "count": 32
+    },
+    {
+      "word": "ratharsair",
+      "count": 32
+    },
+    {
+      "word": "càirdeas",
+      "count": 32
+    },
+    {
+      "word": "eadar-theangachadh",
+      "count": 32
+    },
+    {
+      "word": "faicinn",
+      "count": 32
+    },
+    {
+      "word": "againn",
+      "count": 32
+    },
+    {
+      "word": "ear-dheas",
+      "count": 32
+    },
+    {
+      "word": "iar-dheas",
+      "count": 32
+    },
+    {
+      "word": "mnathan",
+      "count": 32
+    },
+    {
+      "word": "ainmichte",
+      "count": 32
+    },
+    {
+      "word": "àitheanta",
+      "count": 32
+    },
+    {
+      "word": "sid",
+      "count": 32
+    },
+    {
+      "word": "cùisean",
+      "count": 31
+    },
+    {
+      "word": "dòcha",
+      "count": 31
+    },
+    {
+      "word": "gaelic",
+      "count": 31
+    },
+    {
+      "word": "inneal",
+      "count": 31
+    },
+    {
+      "word": "bhruidhinn",
+      "count": 31
+    },
+    {
+      "word": "ostaig",
+      "count": 31
+    },
+    {
+      "word": "mhòir",
+      "count": 31
+    },
+    {
+      "word": "dhi",
+      "count": 31
+    },
+    {
+      "word": "os",
+      "count": 31
+    },
+    {
+      "word": "walter",
+      "count": 31
+    },
+    {
+      "word": "làithean",
+      "count": 31
+    },
+    {
+      "word": "dh'fhoillsich",
+      "count": 31
+    },
+    {
+      "word": "live",
+      "count": 31
+    },
+    {
+      "word": "dh'aois",
+      "count": 31
+    },
+    {
+      "word": "chleachd",
+      "count": 31
+    },
+    {
+      "word": "iarraidh",
+      "count": 31
+    },
+    {
+      "word": "king",
+      "count": 31
+    },
+    {
+      "word": "mamalan",
+      "count": 31
+    },
+    {
+      "word": "ceum",
+      "count": 31
+    },
+    {
+      "word": "muhammad",
+      "count": 31
+    },
+    {
+      "word": "joseph",
+      "count": 31
+    },
+    {
+      "word": "danmhairg",
+      "count": 31
+    },
+    {
+      "word": "com",
+      "count": 31
+    },
+    {
+      "word": "llorona",
+      "count": 31
+    },
+    {
+      "word": "riaghladh",
+      "count": 30
+    },
+    {
+      "word": "buill",
+      "count": 30
+    },
+    {
+      "word": "meagsago",
+      "count": 30
+    },
+    {
+      "word": "soilleir",
+      "count": 30
+    },
+    {
+      "word": "modh",
+      "count": 30
+    },
+    {
+      "word": "còrr",
+      "count": 30
+    },
+    {
+      "word": "telebhisean",
+      "count": 30
+    },
+    {
+      "word": "innis",
+      "count": 30
+    },
+    {
+      "word": "beachd",
+      "count": 30
+    },
+    {
+      "word": "cuir",
+      "count": 30
+    },
+    {
+      "word": "cionn",
+      "count": 30
+    },
+    {
+      "word": "peter",
+      "count": 30
+    },
+    {
+      "word": "chànain",
+      "count": 30
+    },
+    {
+      "word": "rc",
+      "count": 30
+    },
+    {
+      "word": "press",
+      "count": 30
+    },
+    {
+      "word": "dòmhnall",
+      "count": 30
+    },
+    {
+      "word": "maireann",
+      "count": 30
+    },
+    {
+      "word": "biodh",
+      "count": 30
+    },
+    {
+      "word": "feallsanaiche",
+      "count": 30
+    },
+    {
+      "word": "ròimh",
+      "count": 30
+    },
+    {
+      "word": "innte",
+      "count": 30
+    },
+    {
+      "word": "des",
+      "count": 30
+    },
+    {
+      "word": "man",
+      "count": 30
+    },
+    {
+      "word": "seal",
+      "count": 30
+    },
+    {
+      "word": "tòrr",
+      "count": 30
+    },
+    {
+      "word": "cluicheadair",
+      "count": 30
+    },
+    {
+      "word": "carl",
+      "count": 30
+    },
+    {
+      "word": "mionaidean",
+      "count": 30
+    },
+    {
+      "word": "dathan",
+      "count": 30
+    },
+    {
+      "word": "arcaibh",
+      "count": 29
+    },
+    {
+      "word": "ud",
+      "count": 29
+    },
+    {
+      "word": "sia",
+      "count": 29
+    },
+    {
+      "word": "aiste",
+      "count": 29
+    },
+    {
+      "word": "còig",
+      "count": 29
+    },
+    {
+      "word": "làn",
+      "count": 29
+    },
+    {
+      "word": "stiùireadh",
+      "count": 29
+    },
+    {
+      "word": "ionadail",
+      "count": 29
+    },
+    {
+      "word": "cathair",
+      "count": 29
+    },
+    {
+      "word": "chruthaich",
+      "count": 29
+    },
+    {
+      "word": "dùthchasach",
+      "count": 29
+    },
+    {
+      "word": "reic",
+      "count": 29
+    },
+    {
+      "word": "srath",
+      "count": 29
+    },
+    {
+      "word": "white",
+      "count": 29
+    },
+    {
+      "word": "dithis",
+      "count": 29
+    },
+    {
+      "word": "raibeart",
+      "count": 29
+    },
+    {
+      "word": "les",
+      "count": 29
+    },
+    {
+      "word": "bheir",
+      "count": 29
+    },
+    {
+      "word": "org",
+      "count": 29
+    },
+    {
+      "word": "ealasaid",
+      "count": 29
+    },
+    {
+      "word": "buteo",
+      "count": 29
+    },
+    {
+      "word": "madrid",
+      "count": 29
+    },
+    {
+      "word": "chuan",
+      "count": 29
+    },
+    {
+      "word": "deireannach",
+      "count": 29
+    },
+    {
+      "word": "kahlo",
+      "count": 29
+    },
+    {
+      "word": "rapunsail",
+      "count": 29
+    },
+    {
+      "word": "iomairt",
+      "count": 28
+    },
+    {
+      "word": "coloimbia",
+      "count": 28
+    },
+    {
+      "word": "comas",
+      "count": 28
+    },
+    {
+      "word": "rudeigin",
+      "count": 28
+    },
+    {
+      "word": "arm",
+      "count": 28
+    },
+    {
+      "word": "drochaid",
+      "count": 28
+    },
+    {
+      "word": "tòiseachadh",
+      "count": 28
+    },
+    {
+      "word": "sgaoileadh",
+      "count": 28
+    },
+    {
+      "word": "sabhal",
+      "count": 28
+    },
+    {
+      "word": "bheinn",
+      "count": 28
+    },
+    {
+      "word": "dhubh",
+      "count": 28
+    },
+    {
+      "word": "taigh-tasgaidh",
+      "count": 28
+    },
+    {
+      "word": "sgiobaidhean",
+      "count": 28
+    },
+    {
+      "word": "thall",
+      "count": 28
+    },
+    {
+      "word": "saor",
+      "count": 28
+    },
+    {
+      "word": "cuspairean",
+      "count": 28
+    },
+    {
+      "word": "sgeulachd",
+      "count": 28
+    },
+    {
+      "word": "teàrlach",
+      "count": 28
+    },
+    {
+      "word": "beanntan",
+      "count": 28
+    },
+    {
+      "word": "st",
+      "count": 28
+    },
+    {
+      "word": "great",
+      "count": 28
+    },
+    {
+      "word": "braisil",
+      "count": 28
+    },
+    {
+      "word": "alfred",
+      "count": 28
+    },
+    {
+      "word": "cambridge",
+      "count": 28
+    },
+    {
+      "word": "rannsaich",
+      "count": 28
+    },
+    {
+      "word": "bean-seinn",
+      "count": 28
+    },
+    {
+      "word": "vicious",
+      "count": 28
+    },
+    {
+      "word": "leithid",
+      "count": 27
+    },
+    {
+      "word": "dheas",
+      "count": 27
+    },
+    {
+      "word": "chuain",
+      "count": 27
+    },
+    {
+      "word": "laighe",
+      "count": 27
+    },
+    {
+      "word": "leanas",
+      "count": 27
+    },
+    {
+      "word": "cinnteach",
+      "count": 27
+    },
+    {
+      "word": "caochladh",
+      "count": 27
+    },
+    {
+      "word": "cruinneachadh",
+      "count": 27
+    },
+    {
+      "word": "ar",
+      "count": 27
+    },
+    {
+      "word": "mhòr-chuid",
+      "count": 27
+    },
+    {
+      "word": "sòrbais",
+      "count": 27
+    },
+    {
+      "word": "dail",
+      "count": 27
+    },
+    {
+      "word": "earra-ghàidheal",
+      "count": 27
+    },
+    {
+      "word": "feumaidh",
+      "count": 27
+    },
+    {
+      "word": "lodair",
+      "count": 27
+    },
+    {
+      "word": "brown",
+      "count": 27
+    },
+    {
+      "word": "oirthir",
+      "count": 27
+    },
+    {
+      "word": "co",
+      "count": 27
+    },
+    {
+      "word": "choinnich",
+      "count": 27
+    },
+    {
+      "word": "leig",
+      "count": 27
+    },
+    {
+      "word": "caimbeul",
+      "count": 27
+    },
+    {
+      "word": "chlàr",
+      "count": 27
+    },
+    {
+      "word": "mhotha",
+      "count": 27
+    },
+    {
+      "word": "american",
+      "count": 27
+    },
+    {
+      "word": "ghrèig",
+      "count": 27
+    },
+    {
+      "word": "uabhasach",
+      "count": 27
+    },
+    {
+      "word": "lùnastal",
+      "count": 27
+    },
+    {
+      "word": "aodach",
+      "count": 27
+    },
+    {
+      "word": "eòlas-ur-sgeulachd",
+      "count": 27
+    },
+    {
+      "word": "feachdan",
+      "count": 27
+    },
+    {
+      "word": "gam",
+      "count": 27
+    },
+    {
+      "word": "und",
+      "count": 27
+    },
+    {
+      "word": "gràdh",
+      "count": 27
+    },
+    {
+      "word": "et",
+      "count": 27
+    },
+    {
+      "word": "comannach",
+      "count": 27
+    },
+    {
+      "word": "còmhlanan",
+      "count": 27
+    },
+    {
+      "word": "sex",
+      "count": 27
+    },
+    {
+      "word": "boireannach",
+      "count": 27
+    },
+    {
+      "word": "leasbach",
+      "count": 27
+    },
+    {
+      "word": "ghàidhealtachd",
+      "count": 26
+    },
+    {
+      "word": "clàran",
+      "count": 26
+    },
+    {
+      "word": "meadhanan",
+      "count": 26
+    },
+    {
+      "word": "dìon",
+      "count": 26
+    },
+    {
+      "word": "feallsanachd",
+      "count": 26
+    },
+    {
+      "word": "fhaide",
+      "count": 26
+    },
+    {
+      "word": "èireannach",
+      "count": 26
+    },
+    {
+      "word": "tarsainn",
+      "count": 26
+    },
+    {
+      "word": "cleachdar",
+      "count": 26
+    },
+    {
+      "word": "iii",
+      "count": 26
+    },
+    {
+      "word": "airgead",
+      "count": 26
+    },
+    {
+      "word": "beaga",
+      "count": 26
+    },
+    {
+      "word": "http",
+      "count": 26
+    },
+    {
+      "word": "dòmhnallach",
+      "count": 26
+    },
+    {
+      "word": "àiteachan",
+      "count": 26
+    },
+    {
+      "word": "chomainn",
+      "count": 26
+    },
+    {
+      "word": "comharrachadh",
+      "count": 26
+    },
+    {
+      "word": "arthur",
+      "count": 26
+    },
+    {
+      "word": "spàinne",
+      "count": 26
+    },
+    {
+      "word": "beul",
+      "count": 26
+    },
+    {
+      "word": "dia",
+      "count": 26
+    },
+    {
+      "word": "web",
+      "count": 26
+    },
+    {
+      "word": "chuairt",
+      "count": 26
+    },
+    {
+      "word": "tachartas",
+      "count": 26
+    },
+    {
+      "word": "beachdan",
+      "count": 26
+    },
+    {
+      "word": "sìona",
+      "count": 26
+    },
+    {
+      "word": "spiders",
+      "count": 26
+    },
+    {
+      "word": "sea",
+      "count": 26
+    },
+    {
+      "word": "chanada",
+      "count": 26
+    },
+    {
+      "word": "fàsach",
+      "count": 26
+    },
+    {
+      "word": "by",
+      "count": 26
+    },
+    {
+      "word": "fhios",
+      "count": 26
+    },
+    {
+      "word": "feòlmhor",
+      "count": 26
+    },
+    {
+      "word": "ronaldinho",
+      "count": 26
+    },
+    {
+      "word": "ghallda",
+      "count": 25
+    },
+    {
+      "word": "neo-eisimeileach",
+      "count": 25
+    },
+    {
+      "word": "bhonn",
+      "count": 25
+    },
+    {
+      "word": "dhuinn",
+      "count": 25
+    },
+    {
+      "word": "roimh",
+      "count": 25
+    },
+    {
+      "word": "ròmanach",
+      "count": 25
+    },
+    {
+      "word": "cill",
+      "count": 25
+    },
+    {
+      "word": "bhuineas",
+      "count": 25
+    },
+    {
+      "word": "faighinn",
+      "count": 25
+    },
+    {
+      "word": "lìog",
+      "count": 25
+    },
+    {
+      "word": "bhuidheann",
+      "count": 25
+    },
+    {
+      "word": "cruth",
+      "count": 25
+    },
+    {
+      "word": "chanar",
+      "count": 25
+    },
+    {
+      "word": "deich",
+      "count": 25
+    },
+    {
+      "word": "beul-aithris",
+      "count": 25
+    },
+    {
+      "word": "eisimpleirean",
+      "count": 25
+    },
+    {
+      "word": "coimhearsnachd",
+      "count": 25
+    },
+    {
+      "word": "ionnsachadh",
+      "count": 25
+    },
+    {
+      "word": "pàirc",
+      "count": 25
+    },
+    {
+      "word": "ar-a-mach",
+      "count": 25
+    },
+    {
+      "word": "park",
+      "count": 25
+    },
+    {
+      "word": "otto",
+      "count": 25
+    },
+    {
+      "word": "sgrìobhte",
+      "count": 25
+    },
+    {
+      "word": "greugach",
+      "count": 25
+    },
+    {
+      "word": "bhàrdachd",
+      "count": 25
+    },
+    {
+      "word": "video",
+      "count": 25
+    },
+    {
+      "word": "fèisean",
+      "count": 25
+    },
+    {
+      "word": "malairt",
+      "count": 25
+    },
+    {
+      "word": "dannsa",
+      "count": 25
+    },
+    {
+      "word": "cù",
+      "count": 25
+    },
+    {
+      "word": "donn",
+      "count": 25
+    },
+    {
+      "word": "lizards",
+      "count": 25
+    },
+    {
+      "word": "wilhelm",
+      "count": 25
+    },
+    {
+      "word": "fiù",
+      "count": 25
+    },
+    {
+      "word": "opra",
+      "count": 25
+    },
+    {
+      "word": "mhac",
+      "count": 25
+    },
+    {
+      "word": "hiort",
+      "count": 25
+    },
+    {
+      "word": "eadhon",
+      "count": 25
+    },
+    {
+      "word": "chantainn",
+      "count": 25
+    },
+    {
+      "word": "zeppelin",
+      "count": 25
+    },
+    {
+      "word": "pistols",
+      "count": 25
+    },
+    {
+      "word": "rìomhach",
+      "count": 25
+    },
+    {
+      "word": "tolkien",
+      "count": 25
+    },
+    {
+      "word": "làimh",
+      "count": 24
+    },
+    {
+      "word": "fhada",
+      "count": 24
+    },
+    {
+      "word": "togail",
+      "count": 24
+    },
+    {
+      "word": "bhuaidh",
+      "count": 24
+    },
+    {
+      "word": "phàrlamaid",
+      "count": 24
+    },
+    {
+      "word": "cothrom",
+      "count": 24
+    },
+    {
+      "word": "rugbaidh",
+      "count": 24
+    },
+    {
+      "word": "làmh",
+      "count": 24
+    },
+    {
+      "word": "matamataig",
+      "count": 24
+    },
+    {
+      "word": "idir",
+      "count": 24
+    },
+    {
+      "word": "duaisean",
+      "count": 24
+    },
+    {
+      "word": "cruithneach",
+      "count": 24
+    },
+    {
+      "word": "mòd",
+      "count": 24
+    },
+    {
+      "word": "runrig",
+      "count": 24
+    },
+    {
+      "word": "lìge",
+      "count": 24
+    },
+    {
+      "word": "t-sluaigh",
+      "count": 24
+    },
+    {
+      "word": "play",
+      "count": 24
+    },
+    {
+      "word": "tìle",
+      "count": 24
+    },
+    {
+      "word": "https",
+      "count": 24
+    },
+    {
+      "word": "beathaichean",
+      "count": 24
+    },
+    {
+      "word": "cliùiteach",
+      "count": 24
+    },
+    {
+      "word": "del",
+      "count": 24
+    },
+    {
+      "word": "sibh",
+      "count": 24
+    },
+    {
+      "word": "labhairt",
+      "count": 24
+    },
+    {
+      "word": "tuirc",
+      "count": 24
+    },
+    {
+      "word": "club",
+      "count": 24
+    }
+  ]
+}

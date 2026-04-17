@@ -1,0 +1,8 @@
+# Western Frisian grammar
+
+- **Word order**: V2 in main clauses with verb-final subordinate clauses, essentially like Dutch. Separable prefix verbs detach (*Ik stean om sân oere op*).
+- **Morphology**: Fusional but reduced, similar to Dutch in overall complexity. Case has almost entirely collapsed on nouns; pronouns preserve a nominative/oblique distinction (*ik/my*, *hy/him*, *sy/har*).
+- **Nouns**: Two genders (common and neuter), marked by articles *de* (common) and *it* (neuter). Plurals mostly in `-en` or `-s` (*hûnen, auto's*). Diminutive suffix is `-ke`/`-tsje`/`-je` (*boekje, famke, huske*) — distinct from the Dutch `-je`/`-tje` system.
+- **Verbs**: Conjugated for person and number. The infinitive has two forms (the 'first' ending in `-e`, *rinne* 'to run'; the 'second' ending in `-en`, used after other verbs). Weak past in `-e`/`-de`/`-te` and past participle with `-d`/`-t` and usually a `-e`- prefix on strong roots (unprefixed past participles are commoner than in Dutch: *makke, sjoen*). Auxiliaries *hawwe* and *wêze* form the perfect; *wurde* marks dynamic passive.
+- **Phonology**: Approximately 22 consonants and an unusually rich vowel/diphthong inventory of roughly 20 units. Characteristic sounds include falling diphthongs /iə/, /uə/, /oə/ (written *ie, oe, oa*), central /ɪə/ (written *ea*), and long/lowered /ɔː, ɛː, ʌː, œː/ (written with circumflex `â, ê, ô, û`). Word-final devoicing applies as in Dutch.
+- **Syntax**: Non-pro-drop. Copula *wêze* overt. Negation by *net* (not *niet*). Second-person plural pronoun *jimme* is diagnostic; polite *jo* (singular). Relative pronouns *dy't* (common) and *dat* (neuter).

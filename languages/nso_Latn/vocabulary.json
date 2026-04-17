@@ -1,0 +1,2196 @@
+{
+  "code": "nso",
+  "name": "Northern Sotho",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 2258,
+  "unique_tokens": 546,
+  "words": [
+    {
+      "word": "the",
+      "count": 85
+    },
+    {
+      "word": "on",
+      "count": 62
+    },
+    {
+      "word": "news",
+      "count": 59
+    },
+    {
+      "word": "it",
+      "count": 56
+    },
+    {
+      "word": "by",
+      "count": 53
+    },
+    {
+      "word": "of",
+      "count": 52
+    },
+    {
+      "word": "more",
+      "count": 51
+    },
+    {
+      "word": "april",
+      "count": 51
+    },
+    {
+      "word": "read",
+      "count": 50
+    },
+    {
+      "word": "do",
+      "count": 45
+    },
+    {
+      "word": "you",
+      "count": 45
+    },
+    {
+      "word": "published",
+      "count": 44
+    },
+    {
+      "word": "categories",
+      "count": 44
+    },
+    {
+      "word": "like",
+      "count": 44
+    },
+    {
+      "word": "to",
+      "count": 36
+    },
+    {
+      "word": "august",
+      "count": 26
+    },
+    {
+      "word": "sabc",
+      "count": 26
+    },
+    {
+      "word": "and",
+      "count": 23
+    },
+    {
+      "word": "thabiso",
+      "count": 21
+    },
+    {
+      "word": "machaka",
+      "count": 21
+    },
+    {
+      "word": "says",
+      "count": 20
+    },
+    {
+      "word": "in",
+      "count": 20
+    },
+    {
+      "word": "has",
+      "count": 18
+    },
+    {
+      "word": "fm",
+      "count": 16
+    },
+    {
+      "word": "limpopo",
+      "count": 15
+    },
+    {
+      "word": "capricorn",
+      "count": 14
+    },
+    {
+      "word": "team",
+      "count": 14
+    },
+    {
+      "word": "https",
+      "count": 13
+    },
+    {
+      "word": "www",
+      "count": 13
+    },
+    {
+      "word": "co",
+      "count": 13
+    },
+    {
+      "word": "za",
+      "count": 13
+    },
+    {
+      "word": "source",
+      "count": 12
+    },
+    {
+      "word": "sepedi",
+      "count": 12
+    },
+    {
+      "word": "taxi",
+      "count": 12
+    },
+    {
+      "word": "for",
+      "count": 12
+    },
+    {
+      "word": "mpumalanga",
+      "count": 12
+    },
+    {
+      "word": "vutomi",
+      "count": 12
+    },
+    {
+      "word": "makhubela",
+      "count": 12
+    },
+    {
+      "word": "unfair",
+      "count": 12
+    },
+    {
+      "word": "labour",
+      "count": 12
+    },
+    {
+      "word": "with",
+      "count": 11
+    },
+    {
+      "word": "south",
+      "count": 10
+    },
+    {
+      "word": "efforts",
+      "count": 8
+    },
+    {
+      "word": "anc",
+      "count": 8
+    },
+    {
+      "word": "at",
+      "count": 8
+    },
+    {
+      "word": "chairperson",
+      "count": 8
+    },
+    {
+      "word": "premier",
+      "count": 8
+    },
+    {
+      "word": "get",
+      "count": 8
+    },
+    {
+      "word": "feat",
+      "count": 8
+    },
+    {
+      "word": "made",
+      "count": 7
+    },
+    {
+      "word": "african",
+      "count": 7
+    },
+    {
+      "word": "national",
+      "count": 7
+    },
+    {
+      "word": "their",
+      "count": 7
+    },
+    {
+      "word": "department",
+      "count": 7
+    },
+    {
+      "word": "social",
+      "count": 7
+    },
+    {
+      "word": "underway",
+      "count": 7
+    },
+    {
+      "word": "commission",
+      "count": 7
+    },
+    {
+      "word": "capricornfm",
+      "count": 6
+    },
+    {
+      "word": "english",
+      "count": 6
+    },
+    {
+      "word": "santaco",
+      "count": 6
+    },
+    {
+      "word": "peace-making",
+      "count": 6
+    },
+    {
+      "word": "being",
+      "count": 6
+    },
+    {
+      "word": "metered",
+      "count": 6
+    },
+    {
+      "word": "e-hailing",
+      "count": 6
+    },
+    {
+      "word": "operators",
+      "count": 6
+    },
+    {
+      "word": "council",
+      "count": 6
+    },
+    {
+      "word": "president",
+      "count": 6
+    },
+    {
+      "word": "abnar",
+      "count": 6
+    },
+    {
+      "word": "tsebe",
+      "count": 6
+    },
+    {
+      "word": "conference",
+      "count": 6
+    },
+    {
+      "word": "year-old",
+      "count": 6
+    },
+    {
+      "word": "polokwane",
+      "count": 6
+    },
+    {
+      "word": "thobela-fm",
+      "count": 6
+    },
+    {
+      "word": "thobela",
+      "count": 6
+    },
+    {
+      "word": "radio",
+      "count": 6
+    },
+    {
+      "word": "its",
+      "count": 6
+    },
+    {
+      "word": "development",
+      "count": 6
+    },
+    {
+      "word": "is",
+      "count": 6
+    },
+    {
+      "word": "ump",
+      "count": 6
+    },
+    {
+      "word": "dismisses",
+      "count": 6
+    },
+    {
+      "word": "practice",
+      "count": 6
+    },
+    {
+      "word": "claims",
+      "count": 6
+    },
+    {
+      "word": "university",
+      "count": 6
+    },
+    {
+      "word": "dismissed",
+      "count": 6
+    },
+    {
+      "word": "videos",
+      "count": 6
+    },
+    {
+      "word": "circulating",
+      "count": 6
+    },
+    {
+      "word": "media",
+      "count": 6
+    },
+    {
+      "word": "accusing",
+      "count": 6
+    },
+    {
+      "word": "institution",
+      "count": 6
+    },
+    {
+      "word": "practices",
+      "count": 6
+    },
+    {
+      "word": "describing",
+      "count": 6
+    },
+    {
+      "word": "work",
+      "count": 6
+    },
+    {
+      "word": "inquiry",
+      "count": 6
+    },
+    {
+      "word": "into",
+      "count": 6
+    },
+    {
+      "word": "apartheid-era",
+      "count": 6
+    },
+    {
+      "word": "crimes",
+      "count": 6
+    },
+    {
+      "word": "justice",
+      "count": 6
+    },
+    {
+      "word": "sisi",
+      "count": 6
+    },
+    {
+      "word": "khampepe",
+      "count": 6
+    },
+    {
+      "word": "judicial",
+      "count": 6
+    },
+    {
+      "word": "may",
+      "count": 6
+    },
+    {
+      "word": "have",
+      "count": 5
+    },
+    {
+      "word": "regional",
+      "count": 5
+    },
+    {
+      "word": "airport",
+      "count": 5
+    },
+    {
+      "word": "community",
+      "count": 5
+    },
+    {
+      "word": "all",
+      "count": 5
+    },
+    {
+      "word": "this",
+      "count": 5
+    },
+    {
+      "word": "norman",
+      "count": 5
+    },
+    {
+      "word": "mashabane",
+      "count": 5
+    },
+    {
+      "word": "not",
+      "count": 4
+    },
+    {
+      "word": "that",
+      "count": 4
+    },
+    {
+      "word": "education",
+      "count": 4
+    },
+    {
+      "word": "march",
+      "count": 4
+    },
+    {
+      "word": "forum",
+      "count": 4
+    },
+    {
+      "word": "management",
+      "count": 4
+    },
+    {
+      "word": "next",
+      "count": 4
+    },
+    {
+      "word": "page",
+      "count": 4
+    },
+    {
+      "word": "copyright",
+      "count": 4
+    },
+    {
+      "word": "rights",
+      "count": 4
+    },
+    {
+      "word": "reserved",
+      "count": 4
+    },
+    {
+      "word": "was",
+      "count": 4
+    },
+    {
+      "word": "otp",
+      "count": 4
+    },
+    {
+      "word": "escalates",
+      "count": 4
+    },
+    {
+      "word": "allegations",
+      "count": 4
+    },
+    {
+      "word": "against",
+      "count": 4
+    },
+    {
+      "word": "ramathuba",
+      "count": 4
+    },
+    {
+      "word": "law",
+      "count": 4
+    },
+    {
+      "word": "enforcement",
+      "count": 4
+    },
+    {
+      "word": "office",
+      "count": 4
+    },
+    {
+      "word": "escalated",
+      "count": 4
+    },
+    {
+      "word": "matter",
+      "count": 4
+    },
+    {
+      "word": "across",
+      "count": 4
+    },
+    {
+      "word": "black",
+      "count": 4
+    },
+    {
+      "word": "after",
+      "count": 4
+    },
+    {
+      "word": "vat",
+      "count": 3
+    },
+    {
+      "word": "international",
+      "count": 3
+    },
+    {
+      "word": "rape",
+      "count": 3
+    },
+    {
+      "word": "members",
+      "count": 3
+    },
+    {
+      "word": "crime",
+      "count": 3
+    },
+    {
+      "word": "while",
+      "count": 3
+    },
+    {
+      "word": "health",
+      "count": 3
+    },
+    {
+      "word": "organisation",
+      "count": 3
+    },
+    {
+      "word": "under",
+      "count": 3
+    },
+    {
+      "word": "as",
+      "count": 3
+    },
+    {
+      "word": "level",
+      "count": 3
+    },
+    {
+      "word": "broadcaster",
+      "count": 3
+    },
+    {
+      "word": "equity",
+      "count": 3
+    },
+    {
+      "word": "economic",
+      "count": 3
+    },
+    {
+      "word": "local",
+      "count": 3
+    },
+    {
+      "word": "urged",
+      "count": 3
+    },
+    {
+      "word": "family",
+      "count": 3
+    },
+    {
+      "word": "which",
+      "count": 3
+    },
+    {
+      "word": "expected",
+      "count": 3
+    },
+    {
+      "word": "nkowankowa",
+      "count": 3
+    },
+    {
+      "word": "laptops",
+      "count": 3
+    },
+    {
+      "word": "parties",
+      "count": 2
+    },
+    {
+      "word": "been",
+      "count": 2
+    },
+    {
+      "word": "sekhukhune",
+      "count": 2
+    },
+    {
+      "word": "alleged",
+      "count": 2
+    },
+    {
+      "word": "fully",
+      "count": 2
+    },
+    {
+      "word": "flight",
+      "count": 2
+    },
+    {
+      "word": "operations",
+      "count": 2
+    },
+    {
+      "word": "arnot",
+      "count": 2
+    },
+    {
+      "word": "residents",
+      "count": 2
+    },
+    {
+      "word": "following",
+      "count": 2
+    },
+    {
+      "word": "anti-corruption",
+      "count": 2
+    },
+    {
+      "word": "launched",
+      "count": 2
+    },
+    {
+      "word": "border",
+      "count": 2
+    },
+    {
+      "word": "godongwana",
+      "count": 2
+    },
+    {
+      "word": "minister",
+      "count": 2
+    },
+    {
+      "word": "his",
+      "count": 2
+    },
+    {
+      "word": "february",
+      "count": 2
+    },
+    {
+      "word": "over",
+      "count": 2
+    },
+    {
+      "word": "high",
+      "count": 2
+    },
+    {
+      "word": "progress",
+      "count": 2
+    },
+    {
+      "word": "element",
+      "count": 2
+    },
+    {
+      "word": "skills",
+      "count": 2
+    },
+    {
+      "word": "bbbee",
+      "count": 2
+    },
+    {
+      "word": "employment",
+      "count": 2
+    },
+    {
+      "word": "control",
+      "count": 2
+    },
+    {
+      "word": "public",
+      "count": 2
+    },
+    {
+      "word": "socio",
+      "count": 2
+    },
+    {
+      "word": "mogalakwena",
+      "count": 2
+    },
+    {
+      "word": "municipality",
+      "count": 2
+    },
+    {
+      "word": "information",
+      "count": 2
+    },
+    {
+      "word": "woman",
+      "count": 2
+    },
+    {
+      "word": "cooperative",
+      "count": 2
+    },
+    {
+      "word": "governance",
+      "count": 2
+    },
+    {
+      "word": "human",
+      "count": 2
+    },
+    {
+      "word": "settlements",
+      "count": 2
+    },
+    {
+      "word": "traditional",
+      "count": 2
+    },
+    {
+      "word": "nomfundo",
+      "count": 2
+    },
+    {
+      "word": "moh",
+      "count": 2
+    },
+    {
+      "word": "sibaningi",
+      "count": 2
+    },
+    {
+      "word": "kwesta",
+      "count": 2
+    },
+    {
+      "word": "sky",
+      "count": 2
+    },
+    {
+      "word": "wanda",
+      "count": 2
+    },
+    {
+      "word": "amazwi",
+      "count": 2
+    },
+    {
+      "word": "drake",
+      "count": 2
+    },
+    {
+      "word": "rich",
+      "count": 2
+    },
+    {
+      "word": "flex",
+      "count": 2
+    },
+    {
+      "word": "savage",
+      "count": 2
+    },
+    {
+      "word": "aymos",
+      "count": 2
+    },
+    {
+      "word": "fatela",
+      "count": 2
+    },
+    {
+      "word": "ami",
+      "count": 2
+    },
+    {
+      "word": "faku",
+      "count": 2
+    },
+    {
+      "word": "ciara",
+      "count": 2
+    },
+    {
+      "word": "better",
+      "count": 2
+    },
+    {
+      "word": "things",
+      "count": 2
+    },
+    {
+      "word": "summer",
+      "count": 2
+    },
+    {
+      "word": "walker",
+      "count": 2
+    },
+    {
+      "word": "vusi",
+      "count": 2
+    },
+    {
+      "word": "alphaa",
+      "count": 2
+    },
+    {
+      "word": "talks",
+      "count": 2
+    },
+    {
+      "word": "chart-topping",
+      "count": 2
+    },
+    {
+      "word": "hits",
+      "count": 2
+    },
+    {
+      "word": "chats",
+      "count": 2
+    },
+    {
+      "word": "stars",
+      "count": 2
+    },
+    {
+      "word": "urbanhot",
+      "count": 2
+    },
+    {
+      "word": "open",
+      "count": 2
+    },
+    {
+      "word": "podcast",
+      "count": 2
+    },
+    {
+      "word": "drive",
+      "count": 2
+    },
+    {
+      "word": "communities",
+      "count": 2
+    },
+    {
+      "word": "focusing",
+      "count": 2
+    },
+    {
+      "word": "financial",
+      "count": 2
+    },
+    {
+      "word": "postponed",
+      "count": 2
+    },
+    {
+      "word": "th",
+      "count": 2
+    },
+    {
+      "word": "hour",
+      "count": 2
+    },
+    {
+      "word": "refilwe",
+      "count": 2
+    },
+    {
+      "word": "mathebula",
+      "count": 2
+    },
+    {
+      "word": "police",
+      "count": 2
+    },
+    {
+      "word": "continues",
+      "count": 2
+    },
+    {
+      "word": "cpf",
+      "count": 2
+    },
+    {
+      "word": "calls",
+      "count": 2
+    },
+    {
+      "word": "vigilance",
+      "count": 2
+    },
+    {
+      "word": "gang",
+      "count": 2
+    },
+    {
+      "word": "policing",
+      "count": 2
+    },
+    {
+      "word": "calling",
+      "count": 2
+    },
+    {
+      "word": "outside",
+      "count": 2
+    },
+    {
+      "word": "programme",
+      "count": 2
+    },
+    {
+      "word": "provinces",
+      "count": 2
+    },
+    {
+      "word": "year",
+      "count": 2
+    },
+    {
+      "word": "technology",
+      "count": 2
+    },
+    {
+      "word": "top",
+      "count": 2
+    },
+    {
+      "word": "africa",
+      "count": 2
+    },
+    {
+      "word": "landlords",
+      "count": 2
+    },
+    {
+      "word": "mankweng",
+      "count": 2
+    },
+    {
+      "word": "student",
+      "count": 2
+    },
+    {
+      "word": "iec",
+      "count": 2
+    },
+    {
+      "word": "infrastructure",
+      "count": 2
+    },
+    {
+      "word": "electoral",
+      "count": 2
+    },
+    {
+      "word": "victory",
+      "count": 1
+    },
+    {
+      "word": "africans",
+      "count": 1
+    },
+    {
+      "word": "political",
+      "count": 1
+    },
+    {
+      "word": "engaged",
+      "count": 1
+    },
+    {
+      "word": "fiscal",
+      "count": 1
+    },
+    {
+      "word": "framework",
+      "count": 1
+    },
+    {
+      "word": "deliberations",
+      "count": 1
+    },
+    {
+      "word": "branches",
+      "count": 1
+    },
+    {
+      "word": "gather",
+      "count": 1
+    },
+    {
+      "word": "jane",
+      "count": 1
+    },
+    {
+      "word": "furse",
+      "count": 1
+    },
+    {
+      "word": "ready",
+      "count": 1
+    },
+    {
+      "word": "proceed",
+      "count": 1
+    },
+    {
+      "word": "teacher",
+      "count": 1
+    },
+    {
+      "word": "raped",
+      "count": 1
+    },
+    {
+      "word": "learner",
+      "count": 1
+    },
+    {
+      "word": "makotopong",
+      "count": 1
+    },
+    {
+      "word": "resigns",
+      "count": 1
+    },
+    {
+      "word": "received",
+      "count": 1
+    },
+    {
+      "word": "months",
+      "count": 1
+    },
+    {
+      "word": "required",
+      "count": 1
+    },
+    {
+      "word": "resolve",
+      "count": 1
+    },
+    {
+      "word": "navigation",
+      "count": 1
+    },
+    {
+      "word": "system",
+      "count": 1
+    },
+    {
+      "word": "were",
+      "count": 1
+    },
+    {
+      "word": "disrupted",
+      "count": 1
+    },
+    {
+      "word": "close",
+      "count": 1
+    },
+    {
+      "word": "down",
+      "count": 1
+    },
+    {
+      "word": "foreign-owned",
+      "count": 1
+    },
+    {
+      "word": "spaza",
+      "count": 1
+    },
+    {
+      "word": "shops",
+      "count": 1
+    },
+    {
+      "word": "child",
+      "count": 1
+    },
+    {
+      "word": "incident",
+      "count": 1
+    },
+    {
+      "word": "confirmed",
+      "count": 1
+    },
+    {
+      "word": "they",
+      "count": 1
+    },
+    {
+      "word": "curb",
+      "count": 1
+    },
+    {
+      "word": "newly",
+      "count": 1
+    },
+    {
+      "word": "immigration",
+      "count": 1
+    },
+    {
+      "word": "sticks",
+      "count": 1
+    },
+    {
+      "word": "increase",
+      "count": 1
+    },
+    {
+      "word": "also",
+      "count": 1
+    },
+    {
+      "word": "supporting",
+      "count": 1
+    },
+    {
+      "word": "sars",
+      "count": 1
+    },
+    {
+      "word": "revenue",
+      "count": 1
+    },
+    {
+      "word": "collection",
+      "count": 1
+    },
+    {
+      "word": "finance",
+      "count": 1
+    },
+    {
+      "word": "enoch",
+      "count": 1
+    },
+    {
+      "word": "announced",
+      "count": 1
+    },
+    {
+      "word": "budget",
+      "count": 1
+    },
+    {
+      "word": "speech",
+      "count": 1
+    },
+    {
+      "word": "responds",
+      "count": 1
+    },
+    {
+      "word": "concerns",
+      "count": 1
+    },
+    {
+      "word": "cost",
+      "count": 1
+    },
+    {
+      "word": "digitising",
+      "count": 1
+    },
+    {
+      "word": "medical",
+      "count": 1
+    },
+    {
+      "word": "files",
+      "count": 1
+    },
+    {
+      "word": "acknowledged",
+      "count": 1
+    },
+    {
+      "word": "amount",
+      "count": 1
+    },
+    {
+      "word": "spent",
+      "count": 1
+    },
+    {
+      "word": "scanning",
+      "count": 1
+    },
+    {
+      "word": "although",
+      "count": 1
+    },
+    {
+      "word": "notable",
+      "count": 1
+    },
+    {
+      "word": "did",
+      "count": 1
+    },
+    {
+      "word": "meet",
+      "count": 1
+    },
+    {
+      "word": "minimum",
+      "count": 1
+    },
+    {
+      "word": "threshold",
+      "count": 1
+    },
+    {
+      "word": "priority",
+      "count": 1
+    },
+    {
+      "word": "result",
+      "count": 1
+    },
+    {
+      "word": "overall",
+      "count": 1
+    },
+    {
+      "word": "score",
+      "count": 1
+    },
+    {
+      "word": "stands",
+      "count": 1
+    },
+    {
+      "word": "points",
+      "count": 1
+    },
+    {
+      "word": "qualifying",
+      "count": 1
+    },
+    {
+      "word": "discounted",
+      "count": 1
+    },
+    {
+      "word": "based",
+      "count": 1
+    },
+    {
+      "word": "criterion",
+      "count": 1
+    },
+    {
+      "word": "measured",
+      "count": 1
+    },
+    {
+      "word": "key",
+      "count": 1
+    },
+    {
+      "word": "elements",
+      "count": 1
+    },
+    {
+      "word": "including",
+      "count": 1
+    },
+    {
+      "word": "socio-economic",
+      "count": 1
+    },
+    {
+      "word": "enterprise",
+      "count": 1
+    },
+    {
+      "word": "significant",
+      "count": 1
+    },
+    {
+      "word": "strides",
+      "count": 1
+    },
+    {
+      "word": "these",
+      "count": 1
+    },
+    {
+      "word": "areas",
+      "count": 1
+    },
+    {
+      "word": "highlight",
+      "count": 1
+    },
+    {
+      "word": "role",
+      "count": 1
+    },
+    {
+      "word": "both",
+      "count": 1
+    },
+    {
+      "word": "catalyst",
+      "count": 1
+    },
+    {
+      "word": "outlines",
+      "count": 1
+    },
+    {
+      "word": "plan",
+      "count": 1
+    },
+    {
+      "word": "patch",
+      "count": 1
+    },
+    {
+      "word": "potholes",
+      "count": 1
+    },
+    {
+      "word": "own",
+      "count": 1
+    },
+    {
+      "word": "plans",
+      "count": 1
+    },
+    {
+      "word": "small",
+      "count": 1
+    },
+    {
+      "word": "businesses",
+      "count": 1
+    },
+    {
+      "word": "anticipate",
+      "count": 1
+    },
+    {
+      "word": "adjustment",
+      "count": 1
+    },
+    {
+      "word": "glitches",
+      "count": 1
+    },
+    {
+      "word": "united",
+      "count": 1
+    },
+    {
+      "word": "business",
+      "count": 1
+    },
+    {
+      "word": "matome",
+      "count": 1
+    },
+    {
+      "word": "chidi",
+      "count": 1
+    },
+    {
+      "word": "ecd",
+      "count": 1
+    },
+    {
+      "word": "centres",
+      "count": 1
+    },
+    {
+      "word": "house",
+      "count": 1
+    },
+    {
+      "word": "order",
+      "count": 1
+    },
+    {
+      "word": "or",
+      "count": 1
+    },
+    {
+      "word": "risk",
+      "count": 1
+    },
+    {
+      "word": "funding",
+      "count": 1
+    },
+    {
+      "word": "withdrawal",
+      "count": 1
+    },
+    {
+      "word": "called",
+      "count": 1
+    },
+    {
+      "word": "early",
+      "count": 1
+    },
+    {
+      "word": "childhood",
+      "count": 1
+    },
+    {
+      "word": "eff",
+      "count": 1
+    },
+    {
+      "word": "expresses",
+      "count": 1
+    },
+    {
+      "word": "dissatisfaction",
+      "count": 1
+    },
+    {
+      "word": "million",
+      "count": 1
+    },
+    {
+      "word": "laptop",
+      "count": 1
+    },
+    {
+      "word": "investigations",
+      "count": 1
+    },
+    {
+      "word": "freedom",
+      "count": 1
+    },
+    {
+      "word": "fighters",
+      "count": 1
+    },
+    {
+      "word": "reward",
+      "count": 1
+    },
+    {
+      "word": "murder",
+      "count": 1
+    },
+    {
+      "word": "magoebaskloof",
+      "count": 1
+    },
+    {
+      "word": "atarah",
+      "count": 1
+    },
+    {
+      "word": "katzeff",
+      "count": 1
+    },
+    {
+      "word": "offering",
+      "count": 1
+    },
+    {
+      "word": "coghsta",
+      "count": 1
+    },
+    {
+      "word": "commits",
+      "count": 1
+    },
+    {
+      "word": "provide",
+      "count": 1
+    },
+    {
+      "word": "housing",
+      "count": 1
+    },
+    {
+      "word": "heath",
+      "count": 1
+    },
+    {
+      "word": "reconsider",
+      "count": 1
+    },
+    {
+      "word": "patient",
+      "count": 1
+    },
+    {
+      "word": "fee",
+      "count": 1
+    },
+    {
+      "word": "charges",
+      "count": 1
+    },
+    {
+      "word": "progressive",
+      "count": 1
+    },
+    {
+      "word": "civic",
+      "count": 1
+    },
+    {
+      "word": "congress",
+      "count": 1
+    },
+    {
+      "word": "delays",
+      "count": 1
+    },
+    {
+      "word": "cancelations",
+      "count": 1
+    },
+    {
+      "word": "gateway",
+      "count": 1
+    },
+    {
+      "word": "authority",
+      "count": 1
+    },
+    {
+      "word": "limited",
+      "count": 1
+    },
+    {
+      "word": "case",
+      "count": 1
+    },
+    {
+      "word": "missed",
+      "count": 1
+    },
+    {
+      "word": "icymi",
+      "count": 1
+    },
+    {
+      "word": "podcasts",
+      "count": 1
+    },
+    {
+      "word": "talk",
+      "count": 1
+    },
+    {
+      "word": "breakfast",
+      "count": 1
+    },
+    {
+      "word": "episodes",
+      "count": 1
+    },
+    {
+      "word": "nghamula",
+      "count": 1
+    },
+    {
+      "word": "chauke",
+      "count": 1
+    },
+    {
+      "word": "country",
+      "count": 1
+    },
+    {
+      "word": "only",
+      "count": 1
+    },
+    {
+      "word": "service",
+      "count": 1
+    },
+    {
+      "word": "uniquely",
+      "count": 1
+    },
+    {
+      "word": "positioned",
+      "count": 1
+    },
+    {
+      "word": "impact",
+      "count": 1
+    },
+    {
+      "word": "supports",
+      "count": 1
+    },
+    {
+      "word": "initiatives",
+      "count": 1
+    },
+    {
+      "word": "benefit",
+      "count": 1
+    },
+    {
+      "word": "least",
+      "count": 1
+    },
+    {
+      "word": "beneficiaries",
+      "count": 1
+    },
+    {
+      "word": "specifically",
+      "count": 1
+    },
+    {
+      "word": "ict",
+      "count": 1
+    },
+    {
+      "word": "related",
+      "count": 1
+    },
+    {
+      "word": "needs",
+      "count": 1
+    },
+    {
+      "word": "tue",
+      "count": 1
+    },
+    {
+      "word": "mar",
+      "count": 1
+    },
+    {
+      "word": "broadcasting",
+      "count": 1
+    },
+    {
+      "word": "corporation",
+      "count": 1
+    },
+    {
+      "word": "reaffirmed",
+      "count": 1
+    },
+    {
+      "word": "commitment",
+      "count": 1
+    },
+    {
+      "word": "transformation",
+      "count": 1
+    },
+    {
+      "word": "maintaining",
+      "count": 1
+    },
+    {
+      "word": "contributor",
+      "count": 1
+    },
+    {
+      "word": "status",
+      "count": 1
+    },
+    {
+      "word": "past",
+      "count": 1
+    },
+    {
+      "word": "two",
+      "count": 1
+    },
+    {
+      "word": "years",
+      "count": 1
+    },
+    {
+      "word": "achievement",
+      "count": 1
+    },
+    {
+      "word": "reflects",
+      "count": 1
+    },
+    {
+      "word": "ongoing",
+      "count": 1
+    },
+    {
+      "word": "embed",
+      "count": 1
+    },
+    {
+      "word": "inclusion",
+      "count": 1
+    },
+    {
+      "word": "value",
+      "count": 1
+    },
+    {
+      "word": "chain",
+      "count": 1
+    },
+    {
+      "word": "than",
+      "count": 1
+    },
+    {
+      "word": "delegates",
+      "count": 1
+    },
+    {
+      "word": "are",
+      "count": 1
+    },
+    {
+      "word": "converge",
+      "count": 1
+    },
+    {
+      "word": "sabie",
+      "count": 1
+    },
+    {
+      "word": "marches",
+      "count": 1
+    },
+    {
+      "word": "station",
+      "count": 1
+    },
+    {
+      "word": "teenager",
+      "count": 1
+    },
+    {
+      "word": "shooting",
+      "count": 1
+    },
+    {
+      "word": "success",
+      "count": 1
+    },
+    {
+      "word": "mokoena",
+      "count": 1
+    },
+    {
+      "word": "fight",
+      "count": 1
+    },
+    {
+      "word": "life",
+      "count": 1
+    },
+    {
+      "word": "hospital",
+      "count": 1
+    },
+    {
+      "word": "nhlamulo",
+      "count": 1
+    },
+    {
+      "word": "marhule",
+      "count": 1
+    },
+    {
+      "word": "appeal",
+      "count": 1
+    },
+    {
+      "word": "convene",
+      "count": 1
+    },
+    {
+      "word": "imbizo",
+      "count": 1
+    },
+    {
+      "word": "tzaneen",
+      "count": 1
+    },
+    {
+      "word": "flagship",
+      "count": 1
+    },
+    {
+      "word": "initiative",
+      "count": 1
+    },
+    {
+      "word": "annual",
+      "count": 1
+    },
+    {
+      "word": "computer",
+      "count": 1
+    },
+    {
+      "word": "handover",
+      "count": 1
+    },
+    {
+      "word": "provides",
+      "count": 1
+    },
+    {
+      "word": "several",
+      "count": 1
+    },
+    {
+      "word": "schools",
+      "count": 1
+    },
+    {
+      "word": "three",
+      "count": 1
+    },
+    {
+      "word": "each",
+      "count": 1
+    },
+    {
+      "word": "delivered",
+      "count": 1
+    },
+    {
+      "word": "through",
+      "count": 1
+    },
+    {
+      "word": "corporate",
+      "count": 1
+    },
+    {
+      "word": "investment",
+      "count": 1
+    },
+    {
+      "word": "csi",
+      "count": 1
+    },
+    {
+      "word": "strengthens",
+      "count": 1
+    },
+    {
+      "word": "digital",
+      "count": 1
+    },
+    {
+      "word": "literacy",
+      "count": 1
+    },
+    {
+      "word": "access",
+      "count": 1
+    },
+    {
+      "word": "underserved",
+      "count": 1
+    },
+    {
+      "word": "procured",
+      "count": 1
+    },
+    {
+      "word": "underprivileged",
+      "count": 1
+    },
+    {
+      "word": "school",
+      "count": 1
+    },
+    {
+      "word": "western",
+      "count": 1
+    },
+    {
+      "word": "cape",
+      "count": 1
+    },
+    {
+      "word": "free",
+      "count": 1
+    },
+    {
+      "word": "state",
+      "count": 1
+    },
+    {
+      "word": "see",
+      "count": 1
+    },
+    {
+      "word": "week's",
+      "count": 1
+    },
+    {
+      "word": "chart",
+      "count": 1
+    },
+    {
+      "word": "promote",
+      "count": 1
+    },
+    {
+      "word": "representative",
+      "count": 1
+    },
+    {
+      "word": "leadership",
+      "count": 1
+    },
+    {
+      "word": "structures",
+      "count": 1
+    },
+    {
+      "word": "mirror",
+      "count": 1
+    },
+    {
+      "word": "racial",
+      "count": 1
+    },
+    {
+      "word": "gender",
+      "count": 1
+    },
+    {
+      "word": "ethnic",
+      "count": 1
+    },
+    {
+      "word": "diversity",
+      "count": 1
+    },
+    {
+      "word": "includes",
+      "count": 1
+    },
+    {
+      "word": "steadily",
+      "count": 1
+    },
+    {
+      "word": "increasing",
+      "count": 1
+    },
+    {
+      "word": "participation",
+      "count": 1
+    },
+    {
+      "word": "people",
+      "count": 1
+    },
+    {
+      "word": "particularly",
+      "count": 1
+    },
+    {
+      "word": "women",
+      "count": 1
+    },
+    {
+      "word": "board",
+      "count": 1
+    },
+    {
+      "word": "directors",
+      "count": 1
+    },
+    {
+      "word": "executive",
+      "count": 1
+    },
+    {
+      "word": "committee",
+      "count": 1
+    },
+    {
+      "word": "levels",
+      "count": 1
+    },
+    {
+      "word": "halt",
+      "count": 1
+    },
+    {
+      "word": "evictions",
+      "count": 1
+    },
+    {
+      "word": "meeting",
+      "count": 1
+    },
+    {
+      "word": "nsfas",
+      "count": 1
+    },
+    {
+      "word": "private-owned",
+      "count": 1
+    },
+    {
+      "word": "accommodation",
+      "count": 1
+    },
+    {
+      "word": "halted",
+      "count": 1
+    },
+    {
+      "word": "devastated",
+      "count": 1
+    },
+    {
+      "word": "killing",
+      "count": 1
+    },
+    {
+      "word": "married",
+      "count": 1
+    },
+    {
+      "word": "ex-boyfriend",
+      "count": 1
+    },
+    {
+      "word": "mihloti",
+      "count": 1
+    },
+    {
+      "word": "faith",
+      "count": 1
+    },
+    {
+      "word": "shikhibana",
+      "count": 1
+    },
+    {
+      "word": "who",
+      "count": 1
+    },
+    {
+      "word": "allegedly",
+      "count": 1
+    },
+    {
+      "word": "electronic",
+      "count": 1
+    },
+    {
+      "word": "voting",
+      "count": 1
+    },
+    {
+      "word": "requires",
+      "count": 1
+    },
+    {
+      "word": "reliable",
+      "count": 1
+    },
+    {
+      "word": "technological",
+      "count": 1
+    },
+    {
+      "word": "chief",
+      "count": 1
+    },
+    {
+      "word": "officer",
+      "count": 1
+    },
+    {
+      "word": "municipalities",
+      "count": 1
+    },
+    {
+      "word": "district",
+      "count": 1
+    },
+    {
+      "word": "fix",
+      "count": 1
+    },
+    {
+      "word": "aging",
+      "count": 1
+    },
+    {
+      "word": "water",
+      "count": 1
+    },
+    {
+      "word": "mec",
+      "count": 1
+    },
+    {
+      "word": "affairs",
+      "count": 1
+    },
+    {
+      "word": "procurement",
+      "count": 1
+    },
+    {
+      "word": "r2m",
+      "count": 1
+    },
+    {
+      "word": "performance",
+      "count": 1
+    }
+  ]
+}

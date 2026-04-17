@@ -1,0 +1,8 @@
+# Thai grammar
+
+- **Word order**: SVO. Modifiers follow the head: noun + adjective (บ้านใหญ่ 'big house'), noun + relative clause (คนที่มา 'the person who came'), possessor with ของ: หนังสือของฉัน 'my book'.
+- **Morphology**: Strongly isolating/analytic. Words are (nearly) invariant. Grammatical meaning is carried by word order, grammatical function words, and serial verb constructions, not affixes.
+- **Nouns**: No gender, no plural inflection, no articles. Classifiers (ลักษณนาม) are obligatory for counting: หนังสือ 3 เล่ม 'three books (CL=volume)', คน 2 คน 'two people'. Demonstratives and quantifiers come after the classifier: หนังสือเล่มนี้ 'this book'.
+- **Verbs**: No tense conjugation. Aspect/time marked by auxiliaries and particles: กำลัง (progressive), แล้ว (perfective/completive), จะ (future/irrealis), ได้ (past/ability/permissive), เคย (experiential), ยัง (still/not yet). Negation: ไม่ (not), ยัง ... ไม่ (not yet), ไม่ได้ (didn't, contrasting with expectation).
+- **Phonology**: Tonal — five phonemic tones (mid, low, falling, high, rising). Syllable structure (C)(C)V(C) with limited final consonants /p t k m n ŋ j w ʔ/. Length-contrasted vowels. Initial consonant class + vowel length + tone mark together determine surface tone.
+- **Syntax notes**: Pro-drop is common. No copula before adjectival predicates — adjectives are stative verbs (เขาสูง 'he (is) tall'). เป็น and คือ are nominal copulas with different semantics (class membership vs identity). Topic fronting with comma/pause is frequent. Politeness particles ครับ (male) / ค่ะ ค่า (female) end most sentences in polite register. Question particles: ไหม (yes/no), หรือ (alternative), and wh-word in situ (ที่ไหน 'where', ทำไม 'why').

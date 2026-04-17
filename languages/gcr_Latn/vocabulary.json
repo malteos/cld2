@@ -1,0 +1,3168 @@
+{
+  "code": "gcr",
+  "name": "Guianese Creole",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 2126,
+  "unique_tokens": 789,
+  "words": [
+    {
+      "word": "de",
+      "count": 112
+    },
+    {
+      "word": "eacute",
+      "count": 65
+    },
+    {
+      "word": "la",
+      "count": 59
+    },
+    {
+      "word": "le",
+      "count": 59
+    },
+    {
+      "word": "guyane",
+      "count": 54
+    },
+    {
+      "word": "il",
+      "count": 41
+    },
+    {
+      "word": "en",
+      "count": 37
+    },
+    {
+      "word": "et",
+      "count": 34
+    },
+    {
+      "word": "rsquo",
+      "count": 34
+    },
+    {
+      "word": "des",
+      "count": 33
+    },
+    {
+      "word": "du",
+      "count": 33
+    },
+    {
+      "word": "un",
+      "count": 32
+    },
+    {
+      "word": "les",
+      "count": 30
+    },
+    {
+      "word": "une",
+      "count": 26
+    },
+    {
+      "word": "pour",
+      "count": 22
+    },
+    {
+      "word": "est",
+      "count": 20
+    },
+    {
+      "word": "direct",
+      "count": 20
+    },
+    {
+      "word": "publié",
+      "count": 18
+    },
+    {
+      "word": "ce",
+      "count": 14
+    },
+    {
+      "word": "https",
+      "count": 13
+    },
+    {
+      "word": "dans",
+      "count": 13
+    },
+    {
+      "word": "source",
+      "count": 12
+    },
+    {
+      "word": "potomitan",
+      "count": 11
+    },
+    {
+      "word": "agrave",
+      "count": 10
+    },
+    {
+      "word": "cayenne",
+      "count": 10
+    },
+    {
+      "word": "qui",
+      "count": 10
+    },
+    {
+      "word": "au",
+      "count": 10
+    },
+    {
+      "word": "lieu",
+      "count": 9
+    },
+    {
+      "word": "se",
+      "count": 8
+    },
+    {
+      "word": "centre",
+      "count": 8
+    },
+    {
+      "word": "la1ere",
+      "count": 7
+    },
+    {
+      "word": "francetvinfo",
+      "count": 7
+    },
+    {
+      "word": "fr",
+      "count": 7
+    },
+    {
+      "word": "ère",
+      "count": 7
+    },
+    {
+      "word": "mais",
+      "count": 7
+    },
+    {
+      "word": "depuis",
+      "count": 7
+    },
+    {
+      "word": "sur",
+      "count": 7
+    },
+    {
+      "word": "avril",
+      "count": 7
+    },
+    {
+      "word": "rémire-montjoly",
+      "count": 7
+    },
+    {
+      "word": "ont",
+      "count": 7
+    },
+    {
+      "word": "saint-laurent",
+      "count": 6
+    },
+    {
+      "word": "www",
+      "count": 6
+    },
+    {
+      "word": "info",
+      "count": 6
+    },
+    {
+      "word": "ans",
+      "count": 6
+    },
+    {
+      "word": "aussi",
+      "count": 6
+    },
+    {
+      "word": "avocats",
+      "count": 6
+    },
+    {
+      "word": "prix",
+      "count": 6
+    },
+    {
+      "word": "projet",
+      "count": 6
+    },
+    {
+      "word": "nouvelle",
+      "count": 6
+    },
+    {
+      "word": "pris",
+      "count": 6
+    },
+    {
+      "word": "sa",
+      "count": 5
+    },
+    {
+      "word": "caribbean-creole",
+      "count": 5
+    },
+    {
+      "word": "literature",
+      "count": 5
+    },
+    {
+      "word": "education",
+      "count": 5
+    },
+    {
+      "word": "portal",
+      "count": 5
+    },
+    {
+      "word": "moulin",
+      "count": 5
+    },
+    {
+      "word": "and",
+      "count": 5
+    },
+    {
+      "word": "sous",
+      "count": 5
+    },
+    {
+      "word": "justice",
+      "count": 5
+    },
+    {
+      "word": "contre",
+      "count": 5
+    },
+    {
+      "word": "france",
+      "count": 5
+    },
+    {
+      "word": "awara",
+      "count": 5
+    },
+    {
+      "word": "après",
+      "count": 5
+    },
+    {
+      "word": "universit",
+      "count": 5
+    },
+    {
+      "word": "cueca",
+      "count": 4
+    },
+    {
+      "word": "vie",
+      "count": 4
+    },
+    {
+      "word": "elle",
+      "count": 4
+    },
+    {
+      "word": "litt",
+      "count": 4
+    },
+    {
+      "word": "ses",
+      "count": 4
+    },
+    {
+      "word": "grève",
+      "count": 4
+    },
+    {
+      "word": "mobilisent",
+      "count": 4
+    },
+    {
+      "word": "plus",
+      "count": 4
+    },
+    {
+      "word": "rapide",
+      "count": 4
+    },
+    {
+      "word": "casino-théâtre",
+      "count": 4
+    },
+    {
+      "word": "ouverture",
+      "count": 4
+    },
+    {
+      "word": "prévue",
+      "count": 4
+    },
+    {
+      "word": "septembre",
+      "count": 4
+    },
+    {
+      "word": "saint-laurent-du-maroni",
+      "count": 4
+    },
+    {
+      "word": "étude",
+      "count": 4
+    },
+    {
+      "word": "fruit",
+      "count": 4
+    },
+    {
+      "word": "palmier",
+      "count": 4
+    },
+    {
+      "word": "menée",
+      "count": 4
+    },
+    {
+      "word": "l'université",
+      "count": 4
+    },
+    {
+      "word": "plusieurs",
+      "count": 4
+    },
+    {
+      "word": "par",
+      "count": 4
+    },
+    {
+      "word": "que",
+      "count": 4
+    },
+    {
+      "word": "deux",
+      "count": 4
+    },
+    {
+      "word": "police",
+      "count": 4
+    },
+    {
+      "word": "retard",
+      "count": 4
+    },
+    {
+      "word": "reportage",
+      "count": 4
+    },
+    {
+      "word": "voir",
+      "count": 3
+    },
+    {
+      "word": "nous",
+      "count": 3
+    },
+    {
+      "word": "son",
+      "count": 3
+    },
+    {
+      "word": "regarder",
+      "count": 3
+    },
+    {
+      "word": "raires",
+      "count": 3
+    },
+    {
+      "word": "ces",
+      "count": 3
+    },
+    {
+      "word": "tout",
+      "count": 3
+    },
+    {
+      "word": "ccedil",
+      "count": 3
+    },
+    {
+      "word": "comment",
+      "count": 3
+    },
+    {
+      "word": "était",
+      "count": 3
+    },
+    {
+      "word": "devant",
+      "count": 3
+    },
+    {
+      "word": "cour",
+      "count": 3
+    },
+    {
+      "word": "jeunes",
+      "count": 3
+    },
+    {
+      "word": "guyanais",
+      "count": 3
+    },
+    {
+      "word": "mois",
+      "count": 3
+    },
+    {
+      "word": "cosma",
+      "count": 3
+    },
+    {
+      "word": "handball",
+      "count": 3
+    },
+    {
+      "word": "champion",
+      "count": 3
+    },
+    {
+      "word": "malaise",
+      "count": 3
+    },
+    {
+      "word": "entraînement",
+      "count": 3
+    },
+    {
+      "word": "montagne",
+      "count": 3
+    },
+    {
+      "word": "pelée",
+      "count": 3
+    },
+    {
+      "word": "l'accueil",
+      "count": 3
+    },
+    {
+      "word": "sinistrés",
+      "count": 3
+    },
+    {
+      "word": "martiniquais",
+      "count": 3
+    },
+    {
+      "word": "exposition",
+      "count": 3
+    },
+    {
+      "word": "d'archives",
+      "count": 3
+    },
+    {
+      "word": "contraception",
+      "count": 3
+    },
+    {
+      "word": "enquête",
+      "count": 3
+    },
+    {
+      "word": "csf",
+      "count": 3
+    },
+    {
+      "word": "lotus",
+      "count": 3
+    },
+    {
+      "word": "sacré",
+      "count": 3
+    },
+    {
+      "word": "plante",
+      "count": 3
+    },
+    {
+      "word": "invasive",
+      "count": 3
+    },
+    {
+      "word": "menace",
+      "count": 3
+    },
+    {
+      "word": "salines",
+      "count": 3
+    },
+    {
+      "word": "egrave",
+      "count": 3
+    },
+    {
+      "word": "es",
+      "count": 3
+    },
+    {
+      "word": "cin",
+      "count": 3
+    },
+    {
+      "word": "journ",
+      "count": 3
+    },
+    {
+      "word": "travaux",
+      "count": 3
+    },
+    {
+      "word": "journée",
+      "count": 3
+    },
+    {
+      "word": "mondiale",
+      "count": 3
+    },
+    {
+      "word": "nouvel",
+      "count": 3
+    },
+    {
+      "word": "écouter",
+      "count": 3
+    },
+    {
+      "word": "tudes",
+      "count": 3
+    },
+    {
+      "word": "sopaipilas",
+      "count": 2
+    },
+    {
+      "word": "francisca",
+      "count": 2
+    },
+    {
+      "word": "jeune",
+      "count": 2
+    },
+    {
+      "word": "femme",
+      "count": 2
+    },
+    {
+      "word": "chilienne",
+      "count": 2
+    },
+    {
+      "word": "invite",
+      "count": 2
+    },
+    {
+      "word": "chez",
+      "count": 2
+    },
+    {
+      "word": "cuisiner",
+      "count": 2
+    },
+    {
+      "word": "spécialités",
+      "count": 2
+    },
+    {
+      "word": "sopaipillas",
+      "count": 2
+    },
+    {
+      "word": "jouer",
+      "count": 2
+    },
+    {
+      "word": "guitare",
+      "count": 2
+    },
+    {
+      "word": "danser",
+      "count": 2
+    },
+    {
+      "word": "venue",
+      "count": 2
+    },
+    {
+      "word": "rejoindre",
+      "count": 2
+    },
+    {
+      "word": "mère",
+      "count": 2
+    },
+    {
+      "word": "enseigne",
+      "count": 2
+    },
+    {
+      "word": "espagnol",
+      "count": 2
+    },
+    {
+      "word": "collège",
+      "count": 2
+    },
+    {
+      "word": "partage",
+      "count": 2
+    },
+    {
+      "word": "bout",
+      "count": 2
+    },
+    {
+      "word": "chili",
+      "count": 2
+    },
+    {
+      "word": "toutes",
+      "count": 2
+    },
+    {
+      "word": "culturel",
+      "count": 2
+    },
+    {
+      "word": "eure",
+      "count": 2
+    },
+    {
+      "word": "existence",
+      "count": 2
+    },
+    {
+      "word": "ann",
+      "count": 2
+    },
+    {
+      "word": "ha",
+      "count": 2
+    },
+    {
+      "word": "iuml",
+      "count": 2
+    },
+    {
+      "word": "alexis",
+      "count": 2
+    },
+    {
+      "word": "encore",
+      "count": 2
+    },
+    {
+      "word": "perec",
+      "count": 2
+    },
+    {
+      "word": "retrouver",
+      "count": 2
+    },
+    {
+      "word": "comments",
+      "count": 2
+    },
+    {
+      "word": "the",
+      "count": 2
+    },
+    {
+      "word": "in",
+      "count": 2
+    },
+    {
+      "word": "professionnels",
+      "count": 2
+    },
+    {
+      "word": "réforme",
+      "count": 2
+    },
+    {
+      "word": "quel",
+      "count": 2
+    },
+    {
+      "word": "partout",
+      "count": 2
+    },
+    {
+      "word": "loi",
+      "count": 2
+    },
+    {
+      "word": "sure",
+      "count": 2
+    },
+    {
+      "word": "sanction",
+      "count": 2
+    },
+    {
+      "word": "utile",
+      "count": 2
+    },
+    {
+      "word": "effective",
+      "count": 2
+    },
+    {
+      "word": "contestation",
+      "count": 2
+    },
+    {
+      "word": "bien",
+      "count": 2
+    },
+    {
+      "word": "visible",
+      "count": 2
+    },
+    {
+      "word": "mars",
+      "count": 2
+    },
+    {
+      "word": "durcissent",
+      "count": 2
+    },
+    {
+      "word": "ton",
+      "count": 2
+    },
+    {
+      "word": "lundi",
+      "count": 2
+    },
+    {
+      "word": "trentaine",
+      "count": 2
+    },
+    {
+      "word": "d'entre",
+      "count": 2
+    },
+    {
+      "word": "eux",
+      "count": 2
+    },
+    {
+      "word": "mobilisée",
+      "count": 2
+    },
+    {
+      "word": "d'appel",
+      "count": 2
+    },
+    {
+      "word": "organabo",
+      "count": 2
+    },
+    {
+      "word": "intronisation",
+      "count": 2
+    },
+    {
+      "word": "cheffe",
+      "count": 2
+    },
+    {
+      "word": "coutumière",
+      "count": 2
+    },
+    {
+      "word": "ravive",
+      "count": 2
+    },
+    {
+      "word": "tensions",
+      "count": 2
+    },
+    {
+      "word": "avec",
+      "count": 2
+    },
+    {
+      "word": "jaguarondi",
+      "count": 2
+    },
+    {
+      "word": "remis",
+      "count": 2
+    },
+    {
+      "word": "territoire",
+      "count": 2
+    },
+    {
+      "word": "spatial",
+      "count": 2
+    },
+    {
+      "word": "soins",
+      "count": 2
+    },
+    {
+      "word": "été",
+      "count": 2
+    },
+    {
+      "word": "décède",
+      "count": 2
+    },
+    {
+      "word": "mardi",
+      "count": 2
+    },
+    {
+      "word": "aux",
+      "count": 2
+    },
+    {
+      "word": "éruption",
+      "count": 2
+    },
+    {
+      "word": "commémore",
+      "count": 2
+    },
+    {
+      "word": "travers",
+      "count": 2
+    },
+    {
+      "word": "comportements",
+      "count": 2
+    },
+    {
+      "word": "sexuels",
+      "count": 2
+    },
+    {
+      "word": "ist",
+      "count": 2
+    },
+    {
+      "word": "révèle",
+      "count": 2
+    },
+    {
+      "word": "circulation",
+      "count": 2
+    },
+    {
+      "word": "chikungunya",
+      "count": 2
+    },
+    {
+      "word": "haute",
+      "count": 2
+    },
+    {
+      "word": "autorité",
+      "count": 2
+    },
+    {
+      "word": "santé",
+      "count": 2
+    },
+    {
+      "word": "recommande",
+      "count": 2
+    },
+    {
+      "word": "vaccins",
+      "count": 2
+    },
+    {
+      "word": "revue",
+      "count": 2
+    },
+    {
+      "word": "schneider",
+      "count": 2
+    },
+    {
+      "word": "entre",
+      "count": 2
+    },
+    {
+      "word": "recherche",
+      "count": 2
+    },
+    {
+      "word": "vue",
+      "count": 2
+    },
+    {
+      "word": "religieux",
+      "count": 2
+    },
+    {
+      "word": "société",
+      "count": 2
+    },
+    {
+      "word": "hôtel",
+      "count": 2
+    },
+    {
+      "word": "réclamé",
+      "count": 2
+    },
+    {
+      "word": "fonctionnaires",
+      "count": 2
+    },
+    {
+      "word": "instant",
+      "count": 2
+    },
+    {
+      "word": "futur",
+      "count": 2
+    },
+    {
+      "word": "commissariat",
+      "count": 2
+    },
+    {
+      "word": "ne",
+      "count": 2
+    },
+    {
+      "word": "ressemble",
+      "count": 2
+    },
+    {
+      "word": "pas",
+      "count": 2
+    },
+    {
+      "word": "grand-chose",
+      "count": 2
+    },
+    {
+      "word": "chantier",
+      "count": 2
+    },
+    {
+      "word": "jeudi",
+      "count": 2
+    },
+    {
+      "word": "représentants",
+      "count": 2
+    },
+    {
+      "word": "profession",
+      "count": 2
+    },
+    {
+      "word": "dont",
+      "count": 2
+    },
+    {
+      "word": "directeur",
+      "count": 2
+    },
+    {
+      "word": "général",
+      "count": 2
+    },
+    {
+      "word": "nationale",
+      "count": 2
+    },
+    {
+      "word": "visité",
+      "count": 2
+    },
+    {
+      "word": "site",
+      "count": 2
+    },
+    {
+      "word": "machines",
+      "count": 2
+    },
+    {
+      "word": "coudre",
+      "count": 2
+    },
+    {
+      "word": "expert",
+      "count": 2
+    },
+    {
+      "word": "réparation",
+      "count": 2
+    },
+    {
+      "word": "attendu",
+      "count": 2
+    },
+    {
+      "word": "parental",
+      "count": 2
+    },
+    {
+      "word": "phœnix",
+      "count": 2
+    },
+    {
+      "word": "accompagnement",
+      "count": 2
+    },
+    {
+      "word": "parents",
+      "count": 2
+    },
+    {
+      "word": "difficulté",
+      "count": 2
+    },
+    {
+      "word": "autisme",
+      "count": 2
+    },
+    {
+      "word": "stand",
+      "count": 2
+    },
+    {
+      "word": "marché",
+      "count": 2
+    },
+    {
+      "word": "informer",
+      "count": 2
+    },
+    {
+      "word": "sensibiliser",
+      "count": 2
+    },
+    {
+      "word": "tchekepati",
+      "count": 2
+    },
+    {
+      "word": "quartier",
+      "count": 2
+    },
+    {
+      "word": "informel",
+      "count": 2
+    },
+    {
+      "word": "maroni",
+      "count": 2
+    },
+    {
+      "word": "veut",
+      "count": 2
+    },
+    {
+      "word": "sortir",
+      "count": 2
+    },
+    {
+      "word": "condition",
+      "count": 2
+    },
+    {
+      "word": "sans",
+      "count": 2
+    },
+    {
+      "word": "eau",
+      "count": 2
+    },
+    {
+      "word": "potable",
+      "count": 2
+    },
+    {
+      "word": "pendant",
+      "count": 2
+    },
+    {
+      "word": "calvaire",
+      "count": 2
+    },
+    {
+      "word": "habitants",
+      "count": 2
+    },
+    {
+      "word": "village",
+      "count": 2
+    },
+    {
+      "word": "aloiké",
+      "count": 2
+    },
+    {
+      "word": "tv",
+      "count": 2
+    },
+    {
+      "word": "potins",
+      "count": 2
+    },
+    {
+      "word": "séries",
+      "count": 2
+    },
+    {
+      "word": "fictions",
+      "count": 2
+    },
+    {
+      "word": "suivre",
+      "count": 2
+    },
+    {
+      "word": "émission",
+      "count": 2
+    },
+    {
+      "word": "mercredi",
+      "count": 2
+    },
+    {
+      "word": "radio",
+      "count": 2
+    },
+    {
+      "word": "sampler",
+      "count": 2
+    },
+    {
+      "word": "by",
+      "count": 2
+    },
+    {
+      "word": "laprog",
+      "count": 2
+    },
+    {
+      "word": "association",
+      "count": 2
+    },
+    {
+      "word": "ind",
+      "count": 2
+    },
+    {
+      "word": "diff",
+      "count": 2
+    },
+    {
+      "word": "rentes",
+      "count": 2
+    },
+    {
+      "word": "th",
+      "count": 2
+    },
+    {
+      "word": "acirc",
+      "count": 2
+    },
+    {
+      "word": "crois",
+      "count": 2
+    },
+    {
+      "word": "sont",
+      "count": 2
+    },
+    {
+      "word": "contexte",
+      "count": 2
+    },
+    {
+      "word": "contemporain",
+      "count": 2
+    },
+    {
+      "word": "lire",
+      "count": 2
+    },
+    {
+      "word": "professeur",
+      "count": 2
+    },
+    {
+      "word": "titulaire",
+      "count": 2
+    },
+    {
+      "word": "facult",
+      "count": 2
+    },
+    {
+      "word": "sciences",
+      "count": 2
+    },
+    {
+      "word": "chaire",
+      "count": 2
+    },
+    {
+      "word": "iacute",
+      "count": 2
+    },
+    {
+      "word": "remire-montjoly",
+      "count": 2
+    },
+    {
+      "word": "premiers",
+      "count": 2
+    },
+    {
+      "word": "maintenant",
+      "count": 1
+    },
+    {
+      "word": "vidéos",
+      "count": 1
+    },
+    {
+      "word": "sociabilit",
+      "count": 1
+    },
+    {
+      "word": "artistiques",
+      "count": 1
+    },
+    {
+      "word": "pittoresque",
+      "count": 1
+    },
+    {
+      "word": "myst",
+      "count": 1
+    },
+    {
+      "word": "rieux",
+      "count": 1
+    },
+    {
+      "word": "normandie",
+      "count": 1
+    },
+    {
+      "word": "ecirc",
+      "count": 1
+    },
+    {
+      "word": "te",
+      "count": 1
+    },
+    {
+      "word": "marque",
+      "count": 1
+    },
+    {
+      "word": "centenaire",
+      "count": 1
+    },
+    {
+      "word": "naissance",
+      "count": 1
+    },
+    {
+      "word": "crivain",
+      "count": 1
+    },
+    {
+      "word": "tien",
+      "count": 1
+    },
+    {
+      "word": "jacques",
+      "count": 1
+    },
+    {
+      "word": "stephen",
+      "count": 1
+    },
+    {
+      "word": "mort",
+      "count": 1
+    },
+    {
+      "word": "torture",
+      "count": 1
+    },
+    {
+      "word": "tontons",
+      "count": 1
+    },
+    {
+      "word": "macoutes",
+      "count": 1
+    },
+    {
+      "word": "retour",
+      "count": 1
+    },
+    {
+      "word": "icirc",
+      "count": 1
+    },
+    {
+      "word": "natale",
+      "count": 1
+    },
+    {
+      "word": "autre",
+      "count": 1
+    },
+    {
+      "word": "anniversaire",
+      "count": 1
+    },
+    {
+      "word": "disparition",
+      "count": 1
+    },
+    {
+      "word": "georges",
+      "count": 1
+    },
+    {
+      "word": "dates",
+      "count": 1
+    },
+    {
+      "word": "donnent",
+      "count": 1
+    },
+    {
+      "word": "assez",
+      "count": 1
+    },
+    {
+      "word": "raisons",
+      "count": 1
+    },
+    {
+      "word": "haut",
+      "count": 1
+    },
+    {
+      "word": "ugrave",
+      "count": 1
+    },
+    {
+      "word": "commen",
+      "count": 1
+    },
+    {
+      "word": "thu",
+      "count": 1
+    },
+    {
+      "word": "dec",
+      "count": 1
+    },
+    {
+      "word": "hi",
+      "count": 1
+    },
+    {
+      "word": "this",
+      "count": 1
+    },
+    {
+      "word": "is",
+      "count": 1
+    },
+    {
+      "word": "to",
+      "count": 1
+    },
+    {
+      "word": "get",
+      "count": 1
+    },
+    {
+      "word": "started",
+      "count": 1
+    },
+    {
+      "word": "with",
+      "count": 1
+    },
+    {
+      "word": "moderating",
+      "count": 1
+    },
+    {
+      "word": "editing",
+      "count": 1
+    },
+    {
+      "word": "deleting",
+      "count": 1
+    },
+    {
+      "word": "please",
+      "count": 1
+    },
+    {
+      "word": "visit",
+      "count": 1
+    },
+    {
+      "word": "screen",
+      "count": 1
+    },
+    {
+      "word": "dashboard",
+      "count": 1
+    },
+    {
+      "word": "commenter",
+      "count": 1
+    },
+    {
+      "word": "avatars",
+      "count": 1
+    },
+    {
+      "word": "come",
+      "count": 1
+    },
+    {
+      "word": "from",
+      "count": 1
+    },
+    {
+      "word": "gravatar",
+      "count": 1
+    },
+    {
+      "word": "économie",
+      "count": 1
+    },
+    {
+      "word": "sapeurs-pompiers",
+      "count": 1
+    },
+    {
+      "word": "ouest",
+      "count": 1
+    },
+    {
+      "word": "réunis",
+      "count": 1
+    },
+    {
+      "word": "parcours",
+      "count": 1
+    },
+    {
+      "word": "sportif",
+      "count": 1
+    },
+    {
+      "word": "l'ong",
+      "count": 1
+    },
+    {
+      "word": "sea",
+      "count": 1
+    },
+    {
+      "word": "shepherd",
+      "count": 1
+    },
+    {
+      "word": "quitte",
+      "count": 1
+    },
+    {
+      "word": "reviendra",
+      "count": 1
+    },
+    {
+      "word": "navire",
+      "count": 1
+    },
+    {
+      "word": "adapté",
+      "count": 1
+    },
+    {
+      "word": "lutte",
+      "count": 1
+    },
+    {
+      "word": "pêche",
+      "count": 1
+    },
+    {
+      "word": "illégale",
+      "count": 1
+    },
+    {
+      "word": "poursuit",
+      "count": 1
+    },
+    {
+      "word": "cacao",
+      "count": 1
+    },
+    {
+      "word": "made",
+      "count": 1
+    },
+    {
+      "word": "filière",
+      "count": 1
+    },
+    {
+      "word": "s'installe",
+      "count": 1
+    },
+    {
+      "word": "flambée",
+      "count": 1
+    },
+    {
+      "word": "carburants",
+      "count": 1
+    },
+    {
+      "word": "transporteurs",
+      "count": 1
+    },
+    {
+      "word": "pression",
+      "count": 1
+    },
+    {
+      "word": "même",
+      "count": 1
+    },
+    {
+      "word": "thème",
+      "count": 1
+    },
+    {
+      "word": "liberté",
+      "count": 1
+    },
+    {
+      "word": "blessé",
+      "count": 1
+    },
+    {
+      "word": "baptisé",
+      "count": 1
+    },
+    {
+      "word": "ondi",
+      "count": 1
+    },
+    {
+      "word": "charge",
+      "count": 1
+    },
+    {
+      "word": "novembre",
+      "count": 1
+    },
+    {
+      "word": "kacik",
+      "count": 1
+    },
+    {
+      "word": "an",
+      "count": 1
+    },
+    {
+      "word": "tard",
+      "count": 1
+    },
+    {
+      "word": "félin",
+      "count": 1
+    },
+    {
+      "word": "pattes",
+      "count": 1
+    },
+    {
+      "word": "relâché",
+      "count": 1
+    },
+    {
+      "word": "joueur",
+      "count": 1
+    },
+    {
+      "word": "coupe",
+      "count": 1
+    },
+    {
+      "word": "ctg",
+      "count": 1
+    },
+    {
+      "word": "décédé",
+      "count": 1
+    },
+    {
+      "word": "survenu",
+      "count": 1
+    },
+    {
+      "word": "lors",
+      "count": 1
+    },
+    {
+      "word": "très",
+      "count": 1
+    },
+    {
+      "word": "apprécié",
+      "count": 1
+    },
+    {
+      "word": "sein",
+      "count": 1
+    },
+    {
+      "word": "club",
+      "count": 1
+    },
+    {
+      "word": "tyron",
+      "count": 1
+    },
+    {
+      "word": "joseph",
+      "count": 1
+    },
+    {
+      "word": "préparait",
+      "count": 1
+    },
+    {
+      "word": "demi-finales",
+      "count": 1
+    },
+    {
+      "word": "prévues",
+      "count": 1
+    },
+    {
+      "word": "week-end",
+      "count": 1
+    },
+    {
+      "word": "communauté",
+      "count": 1
+    },
+    {
+      "word": "sportive",
+      "count": 1
+    },
+    {
+      "word": "choc",
+      "count": 1
+    },
+    {
+      "word": "andré",
+      "count": 1
+    },
+    {
+      "word": "cognat",
+      "count": 1
+    },
+    {
+      "word": "devenu",
+      "count": 1
+    },
+    {
+      "word": "antecume",
+      "count": 1
+    },
+    {
+      "word": "dédiée",
+      "count": 1
+    },
+    {
+      "word": "wayana",
+      "count": 1
+    },
+    {
+      "word": "six",
+      "count": 1
+    },
+    {
+      "word": "peuples",
+      "count": 1
+    },
+    {
+      "word": "amérindiens",
+      "count": 1
+    },
+    {
+      "word": "min",
+      "count": 1
+    },
+    {
+      "word": "selon",
+      "count": 1
+    },
+    {
+      "word": "experts",
+      "count": 1
+    },
+    {
+      "word": "onu",
+      "count": 1
+    },
+    {
+      "word": "gangs",
+      "count": 1
+    },
+    {
+      "word": "adaptent",
+      "count": 1
+    },
+    {
+      "word": "face",
+      "count": 1
+    },
+    {
+      "word": "opérations",
+      "count": 1
+    },
+    {
+      "word": "policières",
+      "count": 1
+    },
+    {
+      "word": "haïti",
+      "count": 1
+    },
+    {
+      "word": "derniers",
+      "count": 1
+    },
+    {
+      "word": "articles",
+      "count": 1
+    },
+    {
+      "word": "patronage",
+      "count": 1
+    },
+    {
+      "word": "suzanne",
+      "count": 1
+    },
+    {
+      "word": "lipinska",
+      "count": 1
+    },
+    {
+      "word": "muse",
+      "count": 1
+    },
+    {
+      "word": "inspiratrice",
+      "count": 1
+    },
+    {
+      "word": "figure",
+      "count": 1
+    },
+    {
+      "word": "incontournable",
+      "count": 1
+    },
+    {
+      "word": "gr",
+      "count": 1
+    },
+    {
+      "word": "nent",
+      "count": 1
+    },
+    {
+      "word": "souvenirs",
+      "count": 1
+    },
+    {
+      "word": "rencontres",
+      "count": 1
+    },
+    {
+      "word": "pass",
+      "count": 1
+    },
+    {
+      "word": "pons",
+      "count": 1
+    },
+    {
+      "word": "schwartz-bart",
+      "count": 1
+    },
+    {
+      "word": "astes",
+      "count": 1
+    },
+    {
+      "word": "dramaturges",
+      "count": 1
+    },
+    {
+      "word": "critiques",
+      "count": 1
+    },
+    {
+      "word": "quipe",
+      "count": 1
+    },
+    {
+      "word": "esprit",
+      "count": 1
+    },
+    {
+      "word": "anthropologues",
+      "count": 1
+    },
+    {
+      "word": "proches",
+      "count": 1
+    },
+    {
+      "word": "homme",
+      "count": 1
+    },
+    {
+      "word": "fran",
+      "count": 1
+    },
+    {
+      "word": "ois",
+      "count": 1
+    },
+    {
+      "word": "truffaut",
+      "count": 1
+    },
+    {
+      "word": "con",
+      "count": 1
+    },
+    {
+      "word": "certains",
+      "count": 1
+    },
+    {
+      "word": "films",
+      "count": 1
+    },
+    {
+      "word": "alain",
+      "count": 1
+    },
+    {
+      "word": "cavalier",
+      "count": 1
+    },
+    {
+      "word": "jean-pierre",
+      "count": 1
+    },
+    {
+      "word": "aud",
+      "count": 1
+    },
+    {
+      "word": "jean-paul",
+      "count": 1
+    },
+    {
+      "word": "rappeneau",
+      "count": 1
+    },
+    {
+      "word": "catherine",
+      "count": 1
+    },
+    {
+      "word": "deneuve",
+      "count": 1
+    },
+    {
+      "word": "romy",
+      "count": 1
+    },
+    {
+      "word": "autres",
+      "count": 1
+    },
+    {
+      "word": "frais",
+      "count": 1
+    },
+    {
+      "word": "milieu",
+      "count": 1
+    },
+    {
+      "word": "air",
+      "count": 1
+    },
+    {
+      "word": "vivifiant",
+      "count": 1
+    },
+    {
+      "word": "extraordinaire",
+      "count": 1
+    },
+    {
+      "word": "situ",
+      "count": 1
+    },
+    {
+      "word": "km",
+      "count": 1
+    },
+    {
+      "word": "rouen",
+      "count": 1
+    },
+    {
+      "word": "campagne",
+      "count": 1
+    },
+    {
+      "word": "normande",
+      "count": 1
+    },
+    {
+      "word": "riche",
+      "count": 1
+    },
+    {
+      "word": "exaltante",
+      "count": 1
+    },
+    {
+      "word": "locale",
+      "count": 1
+    },
+    {
+      "word": "trésor",
+      "count": 1
+    },
+    {
+      "word": "local",
+      "count": 1
+    },
+    {
+      "word": "cache",
+      "count": 1
+    },
+    {
+      "word": "potentiel",
+      "count": 1
+    },
+    {
+      "word": "peu",
+      "count": 1
+    },
+    {
+      "word": "exploité",
+      "count": 1
+    },
+    {
+      "word": "université",
+      "count": 1
+    },
+    {
+      "word": "entamé",
+      "count": 1
+    },
+    {
+      "word": "scientifiques",
+      "count": 1
+    },
+    {
+      "word": "révéler",
+      "count": 1
+    },
+    {
+      "word": "tous",
+      "count": 1
+    },
+    {
+      "word": "atouts",
+      "count": 1
+    },
+    {
+      "word": "études",
+      "count": 1
+    },
+    {
+      "word": "menées",
+      "count": 1
+    },
+    {
+      "word": "l'unité",
+      "count": 1
+    },
+    {
+      "word": "covapam",
+      "count": 1
+    },
+    {
+      "word": "connaissance",
+      "count": 1
+    },
+    {
+      "word": "valorisation",
+      "count": 1
+    },
+    {
+      "word": "produits",
+      "count": 1
+    },
+    {
+      "word": "végétaux",
+      "count": 1
+    },
+    {
+      "word": "amazoniens",
+      "count": 1
+    },
+    {
+      "word": "galentine",
+      "count": 1
+    },
+    {
+      "word": "day",
+      "count": 1
+    },
+    {
+      "word": "fête",
+      "count": 1
+    },
+    {
+      "word": "célèbre",
+      "count": 1
+    },
+    {
+      "word": "amitié",
+      "count": 1
+    },
+    {
+      "word": "avant",
+      "count": 1
+    },
+    {
+      "word": "amour",
+      "count": 1
+    },
+    {
+      "word": "temoignages",
+      "count": 1
+    },
+    {
+      "word": "solitudes",
+      "count": 1
+    },
+    {
+      "word": "si",
+      "count": 1
+    },
+    {
+      "word": "vrai",
+      "count": 1
+    },
+    {
+      "word": "sujet",
+      "count": 1
+    },
+    {
+      "word": "tisser",
+      "count": 1
+    },
+    {
+      "word": "lien",
+      "count": 1
+    },
+    {
+      "word": "culture",
+      "count": 1
+    },
+    {
+      "word": "mana",
+      "count": 1
+    },
+    {
+      "word": "jean",
+      "count": 1
+    },
+    {
+      "word": "gu",
+      "count": 1
+    },
+    {
+      "word": "isarac",
+      "count": 1
+    },
+    {
+      "word": "écrit",
+      "count": 1
+    },
+    {
+      "word": "répondre",
+      "count": 1
+    },
+    {
+      "word": "détresse",
+      "count": 1
+    },
+    {
+      "word": "spirituelle",
+      "count": 1
+    },
+    {
+      "word": "installé",
+      "count": 1
+    },
+    {
+      "word": "enfance",
+      "count": 1
+    },
+    {
+      "word": "jean-guy",
+      "count": 1
+    },
+    {
+      "word": "bourdeau",
+      "count": 1
+    },
+    {
+      "word": "raconte",
+      "count": 1
+    },
+    {
+      "word": "cheminement",
+      "count": 1
+    },
+    {
+      "word": "personnel",
+      "count": 1
+    },
+    {
+      "word": "spirituel",
+      "count": 1
+    },
+    {
+      "word": "conduit",
+      "count": 1
+    },
+    {
+      "word": "écrire",
+      "count": 1
+    },
+    {
+      "word": "point",
+      "count": 1
+    },
+    {
+      "word": "serviteur",
+      "count": 1
+    },
+    {
+      "word": "yhwh",
+      "count": 1
+    },
+    {
+      "word": "ouvrage",
+      "count": 1
+    },
+    {
+      "word": "né",
+      "count": 1
+    },
+    {
+      "word": "déclic",
+      "count": 1
+    },
+    {
+      "word": "tiktok",
+      "count": 1
+    },
+    {
+      "word": "quête",
+      "count": 1
+    },
+    {
+      "word": "foi",
+      "count": 1
+    },
+    {
+      "word": "doutes",
+      "count": 1
+    },
+    {
+      "word": "volonté",
+      "count": 1
+    },
+    {
+      "word": "aider",
+      "count": 1
+    },
+    {
+      "word": "ceux",
+      "count": 1
+    },
+    {
+      "word": "vacillent",
+      "count": 1
+    },
+    {
+      "word": "sylvain",
+      "count": 1
+    },
+    {
+      "word": "kereneur",
+      "count": 1
+    },
+    {
+      "word": "renvoyé",
+      "count": 1
+    },
+    {
+      "word": "d'assises",
+      "count": 1
+    },
+    {
+      "word": "meurtre",
+      "count": 1
+    },
+    {
+      "word": "camila",
+      "count": 1
+    },
+    {
+      "word": "marques",
+      "count": 1
+    },
+    {
+      "word": "pereira",
+      "count": 1
+    },
+    {
+      "word": "avocat",
+      "count": 1
+    },
+    {
+      "word": "pénaliste",
+      "count": 1
+    },
+    {
+      "word": "s'établit",
+      "count": 1
+    },
+    {
+      "word": "diverses",
+      "count": 1
+    },
+    {
+      "word": "manifestations",
+      "count": 1
+    },
+    {
+      "word": "culturelles",
+      "count": 1
+    },
+    {
+      "word": "comm",
+      "count": 1
+    },
+    {
+      "word": "morations",
+      "count": 1
+    },
+    {
+      "word": "cette",
+      "count": 1
+    },
+    {
+      "word": "juin",
+      "count": 1
+    },
+    {
+      "word": "juillet",
+      "count": 1
+    },
+    {
+      "word": "marquer",
+      "count": 1
+    },
+    {
+      "word": "fondation",
+      "count": 1
+    },
+    {
+      "word": "cet",
+      "count": 1
+    },
+    {
+      "word": "endroit",
+      "count": 1
+    },
+    {
+      "word": "hors-norme",
+      "count": 1
+    },
+    {
+      "word": "hors",
+      "count": 1
+    },
+    {
+      "word": "temps",
+      "count": 1
+    },
+    {
+      "word": "vu",
+      "count": 1
+    },
+    {
+      "word": "croisements",
+      "count": 1
+    },
+    {
+      "word": "influences",
+      "count": 1
+    },
+    {
+      "word": "ciproques",
+      "count": 1
+    },
+    {
+      "word": "tissages",
+      "count": 1
+    },
+    {
+      "word": "liens",
+      "count": 1
+    },
+    {
+      "word": "fectibles",
+      "count": 1
+    },
+    {
+      "word": "auront",
+      "count": 1
+    },
+    {
+      "word": "communications",
+      "count": 1
+    },
+    {
+      "word": "pi",
+      "count": 1
+    },
+    {
+      "word": "tre",
+      "count": 1
+    },
+    {
+      "word": "concerts",
+      "count": 1
+    },
+    {
+      "word": "etc",
+      "count": 1
+    },
+    {
+      "word": "musical",
+      "count": 1
+    },
+    {
+      "word": "tral",
+      "count": 1
+    },
+    {
+      "word": "matographique",
+      "count": 1
+    },
+    {
+      "word": "accueille",
+      "count": 1
+    },
+    {
+      "word": "ceci",
+      "count": 1
+    },
+    {
+      "word": "critures",
+      "count": 1
+    },
+    {
+      "word": "matographiques",
+      "count": 1
+    },
+    {
+      "word": "retrouveront",
+      "count": 1
+    },
+    {
+      "word": "ami",
+      "count": 1
+    },
+    {
+      "word": "galement",
+      "count": 1
+    },
+    {
+      "word": "oelig",
+      "count": 1
+    },
+    {
+      "word": "ud",
+      "count": 1
+    },
+    {
+      "word": "raire",
+      "count": 1
+    },
+    {
+      "word": "excellence",
+      "count": 1
+    },
+    {
+      "word": "situant",
+      "count": 1
+    },
+    {
+      "word": "re",
+      "count": 1
+    },
+    {
+      "word": "post-shoah",
+      "count": 1
+    },
+    {
+      "word": "traumatismes",
+      "count": 1
+    },
+    {
+      "word": "ainsi",
+      "count": 1
+    },
+    {
+      "word": "mouvement",
+      "count": 1
+    },
+    {
+      "word": "gritude",
+      "count": 1
+    },
+    {
+      "word": "sembl",
+      "count": 1
+    },
+    {
+      "word": "propice",
+      "count": 1
+    },
+    {
+      "word": "hommage",
+      "count": 1
+    },
+    {
+      "word": "quelques",
+      "count": 1
+    },
+    {
+      "word": "grandes",
+      "count": 1
+    },
+    {
+      "word": "figures",
+      "count": 1
+    },
+    {
+      "word": "intellectuelles",
+      "count": 1
+    },
+    {
+      "word": "kathleen",
+      "count": 1
+    },
+    {
+      "word": "gyssels",
+      "count": 1
+    },
+    {
+      "word": "anvers",
+      "count": 1
+    },
+    {
+      "word": "ayant",
+      "count": 1
+    },
+    {
+      "word": "publi",
+      "count": 1
+    },
+    {
+      "word": "revues",
+      "count": 1
+    },
+    {
+      "word": "initi",
+      "count": 1
+    },
+    {
+      "word": "collaboration",
+      "count": 1
+    },
+    {
+      "word": "anne",
+      "count": 1
+    },
+    {
+      "word": "caen-normandie",
+      "count": 1
+    },
+    {
+      "word": "sorte",
+      "count": 1
+    },
+    {
+      "word": "chercheurs",
+      "count": 1
+    },
+    {
+      "word": "europ",
+      "count": 1
+    },
+    {
+      "word": "ens",
+      "count": 1
+    },
+    {
+      "word": "belges",
+      "count": 1
+    },
+    {
+      "word": "normands",
+      "count": 1
+    },
+    {
+      "word": "polonais",
+      "count": 1
+    },
+    {
+      "word": "italiens",
+      "count": 1
+    },
+    {
+      "word": "adossent",
+      "count": 1
+    },
+    {
+      "word": "festivit",
+      "count": 1
+    },
+    {
+      "word": "flexion",
+      "count": 1
+    },
+    {
+      "word": "forme",
+      "count": 1
+    },
+    {
+      "word": "fera",
+      "count": 1
+    },
+    {
+      "word": "cho",
+      "count": 1
+    },
+    {
+      "word": "circulations",
+      "count": 1
+    },
+    {
+      "word": "id",
+      "count": 1
+    },
+    {
+      "word": "poque",
+      "count": 1
+    },
+    {
+      "word": "halles",
+      "count": 1
+    },
+    {
+      "word": "stoupan",
+      "count": 1
+    },
+    {
+      "word": "officiellement",
+      "count": 1
+    },
+    {
+      "word": "ouvertes",
+      "count": 1
+    },
+    {
+      "word": "quisqueya",
+      "count": 1
+    },
+    {
+      "word": "ducation",
+      "count": 1
+    },
+    {
+      "word": "tat",
+      "count": 1
+    },
+    {
+      "word": "ti",
+      "count": 1
+    },
+    {
+      "word": "institut",
+      "count": 1
+    },
+    {
+      "word": "sup",
+      "count": 1
+    },
+    {
+      "word": "rieur",
+      "count": 1
+    },
+    {
+      "word": "recherches",
+      "count": 1
+    },
+    {
+      "word": "sociales",
+      "count": 1
+    },
+    {
+      "word": "iserss",
+      "count": 1
+    },
+    {
+      "word": "ierah",
+      "count": 1
+    },
+    {
+      "word": "associ",
+      "count": 1
+    },
+    {
+      "word": "sherbrooke-qu",
+      "count": 1
+    },
+    {
+      "word": "bec",
+      "count": 1
+    },
+    {
+      "word": "droit",
+      "count": 1
+    },
+    {
+      "word": "internationale",
+      "count": 1
+    },
+    {
+      "word": "laquo",
+      "count": 1
+    },
+    {
+      "word": "epistemolog",
+      "count": 1
+    },
+    {
+      "word": "as",
+      "count": 1
+    },
+    {
+      "word": "del",
+      "count": 1
+    },
+    {
+      "word": "fortalecimiento",
+      "count": 1
+    },
+    {
+      "word": "los",
+      "count": 1
+    },
+    {
+      "word": "saberes",
+      "count": 1
+    },
+    {
+      "word": "locales",
+      "count": 1
+    },
+    {
+      "word": "genas",
+      "count": 1
+    },
+    {
+      "word": "raquo",
+      "count": 1
+    },
+    {
+      "word": "centro",
+      "count": 1
+    },
+    {
+      "word": "universitario",
+      "count": 1
+    },
+    {
+      "word": "aut",
+      "count": 1
+    },
+    {
+      "word": "oacute",
+      "count": 1
+    },
+    {
+      "word": "nomo",
+      "count": 1
+    },
+    {
+      "word": "comunal",
+      "count": 1
+    },
+    {
+      "word": "ndaniguia",
+      "count": 1
+    },
+    {
+      "word": "mexico",
+      "count": 1
+    },
+    {
+      "word": "repr",
+      "count": 1
+    },
+    {
+      "word": "sentant",
+      "count": 1
+    },
+    {
+      "word": "national",
+      "count": 1
+    },
+    {
+      "word": "unesco",
+      "count": 1
+    },
+    {
+      "word": "ducations",
+      "count": 1
+    },
+    {
+      "word": "sant",
+      "count": 1
+    },
+    {
+      "word": "monsieur",
+      "count": 1
+    },
+    {
+      "word": "damus",
+      "count": 1
+    },
+    {
+      "word": "cipiendaire",
+      "count": 1
+    },
+    {
+      "word": "cinquantaine",
+      "count": 1
+    },
+    {
+      "word": "pièces",
+      "count": 1
+    },
+    {
+      "word": "installée",
+      "count": 1
+    },
+    {
+      "word": "bibliothèque",
+      "count": 1
+    },
+    {
+      "word": "municipale",
+      "count": 1
+    },
+    {
+      "word": "inaugurée",
+      "count": 1
+    },
+    {
+      "word": "elles",
+      "count": 1
+    },
+    {
+      "word": "rappellent",
+      "count": 1
+    },
+    {
+      "word": "saint-pierre",
+      "count": 1
+    },
+    {
+      "word": "suite",
+      "count": 1
+    },
+    {
+      "word": "l'éruption",
+      "count": 1
+    },
+    {
+      "word": "photos",
+      "count": 1
+    },
+    {
+      "word": "lettres",
+      "count": 1
+    },
+    {
+      "word": "anciens",
+      "count": 1
+    },
+    {
+      "word": "plans",
+      "count": 1
+    },
+    {
+      "word": "ville",
+      "count": 1
+    },
+    {
+      "word": "jusqu'au",
+      "count": 1
+    },
+    {
+      "word": "mai",
+      "count": 1
+    },
+    {
+      "word": "résultats",
+      "count": 1
+    },
+    {
+      "word": "sexualités",
+      "count": 1
+    },
+    {
+      "word": "dressent",
+      "count": 1
+    },
+    {
+      "word": "constat",
+      "count": 1
+    },
+    {
+      "word": "préoccupant",
+      "count": 1
+    },
+    {
+      "word": "précocité",
+      "count": 1
+    },
+    {
+      "word": "rapports",
+      "count": 1
+    },
+    {
+      "word": "multiplicité",
+      "count": 1
+    },
+    {
+      "word": "partenaires",
+      "count": 1
+    },
+    {
+      "word": "recours",
+      "count": 1
+    },
+    {
+      "word": "insuffisant",
+      "count": 1
+    },
+    {
+      "word": "préservatif",
+      "count": 1
+    },
+    {
+      "word": "autant",
+      "count": 1
+    },
+    {
+      "word": "facteurs",
+      "count": 1
+    },
+    {
+      "word": "contribuent",
+      "count": 1
+    },
+    {
+      "word": "maintenir",
+      "count": 1
+    },
+    {
+      "word": "niveau",
+      "count": 1
+    },
+    {
+      "word": "élevé",
+      "count": 1
+    },
+    {
+      "word": "infections",
+      "count": 1
+    },
+    {
+      "word": "sexuellement",
+      "count": 1
+    },
+    {
+      "word": "transmissibles",
+      "count": 1
+    },
+    {
+      "word": "soulignent",
+      "count": 1
+    },
+    {
+      "word": "fragilités",
+      "count": 1
+    },
+    {
+      "word": "persistantes",
+      "count": 1
+    },
+    {
+      "word": "matière",
+      "count": 1
+    },
+    {
+      "word": "prévention",
+      "count": 1
+    },
+    {
+      "word": "outre-mer",
+      "count": 1
+    },
+    {
+      "word": "reprise",
+      "count": 1
+    },
+    {
+      "word": "économique",
+      "count": 1
+    },
+    {
+      "word": "timide",
+      "count": 1
+    },
+    {
+      "word": "l'emploi",
+      "count": 1
+    },
+    {
+      "word": "consommation",
+      "count": 1
+    },
+    {
+      "word": "toujours",
+      "count": 1
+    },
+    {
+      "word": "peine",
+      "count": 1
+    },
+    {
+      "word": "précarité",
+      "count": 1
+    },
+    {
+      "word": "guyanaise",
+      "count": 1
+    },
+    {
+      "word": "réduction",
+      "count": 1
+    },
+    {
+      "word": "risques",
+      "count": 1
+    },
+    {
+      "word": "finale",
+      "count": 1
+    },
+    {
+      "word": "concours",
+      "count": 1
+    },
+    {
+      "word": "engage",
+      "count": 1
+    },
+    {
+      "word": "podcast",
+      "count": 1
+    },
+    {
+      "word": "vous",
+      "count": 1
+    },
+    {
+      "word": "plonge",
+      "count": 1
+    },
+    {
+      "word": "cœur",
+      "count": 1
+    },
+    {
+      "word": "élections",
+      "count": 1
+    },
+    {
+      "word": "municipales",
+      "count": 1
+    },
+    {
+      "word": "bilan",
+      "count": 1
+    },
+    {
+      "word": "maires",
+      "count": 1
+    },
+    {
+      "word": "sortants",
+      "count": 1
+    },
+    {
+      "word": "regards",
+      "count": 1
+    },
+    {
+      "word": "conseillers",
+      "count": 1
+    },
+    {
+      "word": "municipaux",
+      "count": 1
+    },
+    {
+      "word": "paroles",
+      "count": 1
+    },
+    {
+      "word": "nouveaux",
+      "count": 1
+    },
+    {
+      "word": "candidats",
+      "count": 1
+    },
+    {
+      "word": "analyses",
+      "count": 1
+    },
+    {
+      "word": "observateurs",
+      "count": 1
+    },
+    {
+      "word": "rendez-vous",
+      "count": 1
+    },
+    {
+      "word": "éclairer",
+      "count": 1
+    },
+    {
+      "word": "enjeux",
+      "count": 1
+    },
+    {
+      "word": "mieux",
+      "count": 1
+    },
+    {
+      "word": "comprendre",
+      "count": 1
+    },
+    {
+      "word": "avenir",
+      "count": 1
+    },
+    {
+      "word": "nos",
+      "count": 1
+    },
+    {
+      "word": "communes",
+      "count": 1
+    }
+  ]
+}

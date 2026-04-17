@@ -1,0 +1,8 @@
+# Malayalam grammar
+
+- **Word order**: SOV, head-final. Modifiers precede nouns; postpositions follow. Relative clauses are pre-head and built from participial verb forms.
+- **Morphology**: Strongly agglutinative and suffixing. Long strings of unambiguous suffixes attach to both noun and verb stems. Unlike most Dravidian sisters, Malayalam **does not inflect verbs for person, number, or gender** — verb tense/aspect is expressed, but agreement with the subject is lost. This is the single most distinctive grammatical feature versus Tamil.
+- **Nouns**: Two numbers (plural in `-കൾ` *-kaḷ* or `-മാർ` *-mār* for humans). Case system: nominative (Ø), accusative `-ഐ/-എ` *-e*, dative `-ന്/-ക്ക്` *-n/-kku*, genitive `-ുടെ/-ിന്റെ` *-uṭe/-inṟe*, instrumental-sociative `-ഓടു` *-ōṭu* / `-കൊണ്ട്` *-koṇṭŭ*, locative `-ിൽ` *-il*, ablative `-ിൽനിന്ന്` *-ilninnŭ*.
+- **Verbs**: Tense suffixes only — past `-ി`/`-ത്തു`, present `-ുന്നു` *-unnu*, future `-ും` *-um* — with no person/number marking. Negation via dedicated forms (`-ില്ല` *-illa*, `-ാത്ത` *-ātta*) or the negative copula **അല്ല**. Aspect/mood expressed periphrastically with auxiliaries; reportive/quotative uses **എന്ന്** *enn(ŭ)*.
+- **Phonology**: Five short/long vowel pairs, diphthongs ഐ ഔ, a neutral vowel **ഽ/ŭ** (the *samvṛtokāram*) that appears at word-ends after consonants. Full retroflex series plus distinctive **ഴ** /ɻ/ (cognate with Tamil ழ). Voicing is contrastive (unlike Tamil).
+- **Syntax notes**: Pro-drop. No present-tense copula. Heavy use of clause-final **എന്ന്** / **എന്നു** for quotation and complementation. Word-final consonants frequently carry a "half-u" (samvṛtokāram), spelled either with explicit ് or with the chandrakkala over a final *u*.

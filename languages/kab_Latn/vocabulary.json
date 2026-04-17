@@ -1,0 +1,4012 @@
+{
+  "code": "kab",
+  "name": "Kabyle",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (kab.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 203155,
+  "unique_tokens": 45209,
+  "words": [
+    {
+      "word": "deg",
+      "count": 5302
+    },
+    {
+      "word": "ad",
+      "count": 3428
+    },
+    {
+      "word": "di",
+      "count": 3005
+    },
+    {
+      "word": "ay",
+      "count": 1696
+    },
+    {
+      "word": "at",
+      "count": 1642
+    },
+    {
+      "word": "ara",
+      "count": 1353
+    },
+    {
+      "word": "ɣef",
+      "count": 1317
+    },
+    {
+      "word": "ur",
+      "count": 1303
+    },
+    {
+      "word": "seg",
+      "count": 1208
+    },
+    {
+      "word": "ar",
+      "count": 1175
+    },
+    {
+      "word": "tmurt",
+      "count": 988
+    },
+    {
+      "word": "ɣer",
+      "count": 980
+    },
+    {
+      "word": "neɣ",
+      "count": 963
+    },
+    {
+      "word": "akk",
+      "count": 916
+    },
+    {
+      "word": "akken",
+      "count": 912
+    },
+    {
+      "word": "yiwen",
+      "count": 753
+    },
+    {
+      "word": "am",
+      "count": 714
+    },
+    {
+      "word": "ma",
+      "count": 704
+    },
+    {
+      "word": "llan",
+      "count": 656
+    },
+    {
+      "word": "de",
+      "count": 639
+    },
+    {
+      "word": "taddart",
+      "count": 637
+    },
+    {
+      "word": "tizi",
+      "count": 637
+    },
+    {
+      "word": "kan",
+      "count": 624
+    },
+    {
+      "word": "la",
+      "count": 615
+    },
+    {
+      "word": "yiwet",
+      "count": 606
+    },
+    {
+      "word": "kra",
+      "count": 578
+    },
+    {
+      "word": "daɣen",
+      "count": 577
+    },
+    {
+      "word": "ass",
+      "count": 575
+    },
+    {
+      "word": "yella",
+      "count": 572
+    },
+    {
+      "word": "aṭas",
+      "count": 564
+    },
+    {
+      "word": "taɣiwant",
+      "count": 556
+    },
+    {
+      "word": "tutlayt",
+      "count": 543
+    },
+    {
+      "word": "si",
+      "count": 535
+    },
+    {
+      "word": "twilayt",
+      "count": 527
+    },
+    {
+      "word": "useggas",
+      "count": 517
+    },
+    {
+      "word": "imi",
+      "count": 480
+    },
+    {
+      "word": "wid",
+      "count": 468
+    },
+    {
+      "word": "wis",
+      "count": 460
+    },
+    {
+      "word": "maca",
+      "count": 438
+    },
+    {
+      "word": "dɣa",
+      "count": 434
+    },
+    {
+      "word": "tutlayin",
+      "count": 416
+    },
+    {
+      "word": "mi",
+      "count": 406
+    },
+    {
+      "word": "ayen",
+      "count": 401
+    },
+    {
+      "word": "anda",
+      "count": 398
+    },
+    {
+      "word": "lezzayer",
+      "count": 391
+    },
+    {
+      "word": "tella",
+      "count": 366
+    },
+    {
+      "word": "tama",
+      "count": 362
+    },
+    {
+      "word": "yernu",
+      "count": 361
+    },
+    {
+      "word": "yellan",
+      "count": 352
+    },
+    {
+      "word": "tamurt",
+      "count": 348
+    },
+    {
+      "word": "win",
+      "count": 343
+    },
+    {
+      "word": "id",
+      "count": 325
+    },
+    {
+      "word": "yennayer",
+      "count": 316
+    },
+    {
+      "word": "yimezdaɣen",
+      "count": 311
+    },
+    {
+      "word": "medden",
+      "count": 303
+    },
+    {
+      "word": "nniḍen",
+      "count": 298
+    },
+    {
+      "word": "ger",
+      "count": 295
+    },
+    {
+      "word": "azal",
+      "count": 289
+    },
+    {
+      "word": "leqbayel",
+      "count": 289
+    },
+    {
+      "word": "sin",
+      "count": 284
+    },
+    {
+      "word": "akked",
+      "count": 283
+    },
+    {
+      "word": "yal",
+      "count": 279
+    },
+    {
+      "word": "fransa",
+      "count": 279
+    },
+    {
+      "word": "tallit",
+      "count": 273
+    },
+    {
+      "word": "netta",
+      "count": 268
+    },
+    {
+      "word": "asmi",
+      "count": 265
+    },
+    {
+      "word": "wezzu",
+      "count": 262
+    },
+    {
+      "word": "zedɣen-tt",
+      "count": 262
+    },
+    {
+      "word": "ugafa",
+      "count": 257
+    },
+    {
+      "word": "et",
+      "count": 257
+    },
+    {
+      "word": "gar",
+      "count": 257
+    },
+    {
+      "word": "yerna",
+      "count": 249
+    },
+    {
+      "word": "ula",
+      "count": 248
+    },
+    {
+      "word": "iseggasen",
+      "count": 247
+    },
+    {
+      "word": "le",
+      "count": 246
+    },
+    {
+      "word": "deg-s",
+      "count": 245
+    },
+    {
+      "word": "tiɣiwanin",
+      "count": 243
+    },
+    {
+      "word": "ines",
+      "count": 241
+    },
+    {
+      "word": "wakken",
+      "count": 240
+    },
+    {
+      "word": "tmaziɣt",
+      "count": 240
+    },
+    {
+      "word": "imaziɣen",
+      "count": 235
+    },
+    {
+      "word": "uzzu",
+      "count": 231
+    },
+    {
+      "word": "paris",
+      "count": 225
+    },
+    {
+      "word": "tamdint",
+      "count": 225
+    },
+    {
+      "word": "acu",
+      "count": 221
+    },
+    {
+      "word": "tin",
+      "count": 219
+    },
+    {
+      "word": "zik",
+      "count": 218
+    },
+    {
+      "word": "bgayet",
+      "count": 214
+    },
+    {
+      "word": "tɣiwant",
+      "count": 212
+    },
+    {
+      "word": "agi",
+      "count": 207
+    },
+    {
+      "word": "isem",
+      "count": 205
+    },
+    {
+      "word": "tamaziɣt",
+      "count": 205
+    },
+    {
+      "word": "temdint",
+      "count": 205
+    },
+    {
+      "word": "awal",
+      "count": 204
+    },
+    {
+      "word": "tira",
+      "count": 204
+    },
+    {
+      "word": "ass-a",
+      "count": 202
+    },
+    {
+      "word": "akw",
+      "count": 201
+    },
+    {
+      "word": "waṭas",
+      "count": 196
+    },
+    {
+      "word": "yuɣal",
+      "count": 194
+    },
+    {
+      "word": "snat",
+      "count": 192
+    },
+    {
+      "word": "the",
+      "count": 190
+    },
+    {
+      "word": "acku",
+      "count": 188
+    },
+    {
+      "word": "aseggas",
+      "count": 187
+    },
+    {
+      "word": "tamanaɣt",
+      "count": 185
+    },
+    {
+      "word": "tesɛa",
+      "count": 184
+    },
+    {
+      "word": "sidi",
+      "count": 183
+    },
+    {
+      "word": "en",
+      "count": 182
+    },
+    {
+      "word": "wayen",
+      "count": 181
+    },
+    {
+      "word": "amezruy",
+      "count": 178
+    },
+    {
+      "word": "les",
+      "count": 176
+    },
+    {
+      "word": "des",
+      "count": 175
+    },
+    {
+      "word": "umi",
+      "count": 174
+    },
+    {
+      "word": "teqbaylit",
+      "count": 173
+    },
+    {
+      "word": "tura",
+      "count": 170
+    },
+    {
+      "word": "ilul",
+      "count": 170
+    },
+    {
+      "word": "ama",
+      "count": 168
+    },
+    {
+      "word": "du",
+      "count": 166
+    },
+    {
+      "word": "xas",
+      "count": 165
+    },
+    {
+      "word": "af",
+      "count": 164
+    },
+    {
+      "word": "nettat",
+      "count": 163
+    },
+    {
+      "word": "taqbaylit",
+      "count": 161
+    },
+    {
+      "word": "tezga-d",
+      "count": 161
+    },
+    {
+      "word": "ed",
+      "count": 159
+    },
+    {
+      "word": "tis",
+      "count": 159
+    },
+    {
+      "word": "ameqran",
+      "count": 158
+    },
+    {
+      "word": "iɣil",
+      "count": 157
+    },
+    {
+      "word": "tala",
+      "count": 156
+    },
+    {
+      "word": "mačči",
+      "count": 154
+    },
+    {
+      "word": "ugar",
+      "count": 152
+    },
+    {
+      "word": "wass",
+      "count": 152
+    },
+    {
+      "word": "armi",
+      "count": 151
+    },
+    {
+      "word": "fell-as",
+      "count": 151
+    },
+    {
+      "word": "tudrin",
+      "count": 149
+    },
+    {
+      "word": "imezdaɣ",
+      "count": 148
+    },
+    {
+      "word": "sɣur",
+      "count": 147
+    },
+    {
+      "word": "amezwaru",
+      "count": 147
+    },
+    {
+      "word": "mgal",
+      "count": 146
+    },
+    {
+      "word": "muḥend",
+      "count": 145
+    },
+    {
+      "word": "llant",
+      "count": 143
+    },
+    {
+      "word": "taɛrabt",
+      "count": 142
+    },
+    {
+      "word": "ɣas",
+      "count": 140
+    },
+    {
+      "word": "tamselyut",
+      "count": 140
+    },
+    {
+      "word": "isem-is",
+      "count": 139
+    },
+    {
+      "word": "yemmut",
+      "count": 138
+    },
+    {
+      "word": "amaziɣ",
+      "count": 137
+    },
+    {
+      "word": "aya",
+      "count": 136
+    },
+    {
+      "word": "cameroun",
+      "count": 135
+    },
+    {
+      "word": "amek",
+      "count": 134
+    },
+    {
+      "word": "yesɛa",
+      "count": 134
+    },
+    {
+      "word": "tmura",
+      "count": 133
+    },
+    {
+      "word": "fr",
+      "count": 132
+    },
+    {
+      "word": "aqbayli",
+      "count": 131
+    },
+    {
+      "word": "akka",
+      "count": 130
+    },
+    {
+      "word": "wawal",
+      "count": 130
+    },
+    {
+      "word": "ccix",
+      "count": 130
+    },
+    {
+      "word": "tameddurt",
+      "count": 129
+    },
+    {
+      "word": "wa",
+      "count": 128
+    },
+    {
+      "word": "qqaren",
+      "count": 128
+    },
+    {
+      "word": "ɛli",
+      "count": 128
+    },
+    {
+      "word": "timura",
+      "count": 128
+    },
+    {
+      "word": "of",
+      "count": 127
+    },
+    {
+      "word": "ulac",
+      "count": 126
+    },
+    {
+      "word": "atg",
+      "count": 125
+    },
+    {
+      "word": "http",
+      "count": 125
+    },
+    {
+      "word": "ldzayer",
+      "count": 125
+    },
+    {
+      "word": "km",
+      "count": 124
+    },
+    {
+      "word": "akk-n",
+      "count": 123
+    },
+    {
+      "word": "abrid",
+      "count": 122
+    },
+    {
+      "word": "wenẓul",
+      "count": 121
+    },
+    {
+      "word": "ihi",
+      "count": 121
+    },
+    {
+      "word": "ccna",
+      "count": 121
+    },
+    {
+      "word": "iqbayliyen",
+      "count": 120
+    },
+    {
+      "word": "yura",
+      "count": 120
+    },
+    {
+      "word": "dakk-n",
+      "count": 119
+    },
+    {
+      "word": "tuṭṭfa",
+      "count": 119
+    },
+    {
+      "word": "nsen",
+      "count": 117
+    },
+    {
+      "word": "sliman",
+      "count": 117
+    },
+    {
+      "word": "lḥal",
+      "count": 116
+    },
+    {
+      "word": "nezmer",
+      "count": 116
+    },
+    {
+      "word": "yakk",
+      "count": 115
+    },
+    {
+      "word": "timdinin",
+      "count": 115
+    },
+    {
+      "word": "yesɛan",
+      "count": 114
+    },
+    {
+      "word": "ben",
+      "count": 114
+    },
+    {
+      "word": "meɣres",
+      "count": 113
+    },
+    {
+      "word": "ameqqran",
+      "count": 112
+    },
+    {
+      "word": "tamezwarut",
+      "count": 112
+    },
+    {
+      "word": "tuɣal",
+      "count": 112
+    },
+    {
+      "word": "agemmay",
+      "count": 110
+    },
+    {
+      "word": "meqqren",
+      "count": 109
+    },
+    {
+      "word": "mazal",
+      "count": 109
+    },
+    {
+      "word": "tefriqt",
+      "count": 108
+    },
+    {
+      "word": "idurar",
+      "count": 108
+    },
+    {
+      "word": "wussan",
+      "count": 108
+    },
+    {
+      "word": "nni",
+      "count": 108
+    },
+    {
+      "word": "tuddar",
+      "count": 107
+    },
+    {
+      "word": "yili",
+      "count": 107
+    },
+    {
+      "word": "lqern",
+      "count": 107
+    },
+    {
+      "word": "asideg",
+      "count": 107
+    },
+    {
+      "word": "iman-is",
+      "count": 105
+    },
+    {
+      "word": "belli",
+      "count": 105
+    },
+    {
+      "word": "yebrir",
+      "count": 105
+    },
+    {
+      "word": "yuɣ",
+      "count": 105
+    },
+    {
+      "word": "ttmeslayen",
+      "count": 104
+    },
+    {
+      "word": "www",
+      "count": 104
+    },
+    {
+      "word": "tamaneɣt",
+      "count": 104
+    },
+    {
+      "word": "ɣɣaren-as",
+      "count": 104
+    },
+    {
+      "word": "windows",
+      "count": 104
+    },
+    {
+      "word": "yezmer",
+      "count": 103
+    },
+    {
+      "word": "yiseggasen",
+      "count": 103
+    },
+    {
+      "word": "tesdawit",
+      "count": 103
+    },
+    {
+      "word": "ddaw",
+      "count": 102
+    },
+    {
+      "word": "baba-s",
+      "count": 102
+    },
+    {
+      "word": "tarbaɛt",
+      "count": 101
+    },
+    {
+      "word": "timella",
+      "count": 101
+    },
+    {
+      "word": "zdat",
+      "count": 100
+    },
+    {
+      "word": "illa",
+      "count": 100
+    },
+    {
+      "word": "amur",
+      "count": 99
+    },
+    {
+      "word": "tisṭunit",
+      "count": 99
+    },
+    {
+      "word": "turuft",
+      "count": 98
+    },
+    {
+      "word": "umerri",
+      "count": 98
+    },
+    {
+      "word": "umaḍal",
+      "count": 97
+    },
+    {
+      "word": "naf",
+      "count": 97
+    },
+    {
+      "word": "tafṛensist",
+      "count": 97
+    },
+    {
+      "word": "wakal",
+      "count": 96
+    },
+    {
+      "word": "el",
+      "count": 95
+    },
+    {
+      "word": "ufella",
+      "count": 95
+    },
+    {
+      "word": "diɣ",
+      "count": 95
+    },
+    {
+      "word": "as",
+      "count": 94
+    },
+    {
+      "word": "bu",
+      "count": 94
+    },
+    {
+      "word": "isṭunya",
+      "count": 94
+    },
+    {
+      "word": "dzayer",
+      "count": 93
+    },
+    {
+      "word": "deg-sen",
+      "count": 92
+    },
+    {
+      "word": "taggara",
+      "count": 92
+    },
+    {
+      "word": "tawilayt",
+      "count": 92
+    },
+    {
+      "word": "is",
+      "count": 91
+    },
+    {
+      "word": "ilaq",
+      "count": 91
+    },
+    {
+      "word": "yugurten",
+      "count": 91
+    },
+    {
+      "word": "din",
+      "count": 91
+    },
+    {
+      "word": "tudert",
+      "count": 90
+    },
+    {
+      "word": "yisem",
+      "count": 90
+    },
+    {
+      "word": "uqbel",
+      "count": 90
+    },
+    {
+      "word": "gar-asen",
+      "count": 89
+    },
+    {
+      "word": "ala",
+      "count": 89
+    },
+    {
+      "word": "lla",
+      "count": 89
+    },
+    {
+      "word": "amenzu",
+      "count": 88
+    },
+    {
+      "word": "umalu",
+      "count": 88
+    },
+    {
+      "word": "lweqt",
+      "count": 88
+    },
+    {
+      "word": "ladɣa",
+      "count": 88
+    },
+    {
+      "word": "com",
+      "count": 88
+    },
+    {
+      "word": "cwiṭ",
+      "count": 88
+    },
+    {
+      "word": "tikkelt",
+      "count": 87
+    },
+    {
+      "word": "umata",
+      "count": 87
+    },
+    {
+      "word": "tefrensist",
+      "count": 87
+    },
+    {
+      "word": "ɣur-s",
+      "count": 86
+    },
+    {
+      "word": "tarakalt",
+      "count": 86
+    },
+    {
+      "word": "umezruy",
+      "count": 86
+    },
+    {
+      "word": "nnig",
+      "count": 86
+    },
+    {
+      "word": "tawrirt",
+      "count": 86
+    },
+    {
+      "word": "rebbi",
+      "count": 86
+    },
+    {
+      "word": "yunyu",
+      "count": 85
+    },
+    {
+      "word": "tefṛensist",
+      "count": 84
+    },
+    {
+      "word": "dujamber",
+      "count": 84
+    },
+    {
+      "word": "ɛisa",
+      "count": 83
+    },
+    {
+      "word": "dinna",
+      "count": 83
+    },
+    {
+      "word": "ẓeṛ",
+      "count": 83
+    },
+    {
+      "word": "deffir",
+      "count": 82
+    },
+    {
+      "word": "yemdanen",
+      "count": 82
+    },
+    {
+      "word": "yusef",
+      "count": 82
+    },
+    {
+      "word": "yessefk",
+      "count": 82
+    },
+    {
+      "word": "tafrensist",
+      "count": 82
+    },
+    {
+      "word": "yemma-s",
+      "count": 81
+    },
+    {
+      "word": "tefransist",
+      "count": 81
+    },
+    {
+      "word": "saɛid",
+      "count": 81
+    },
+    {
+      "word": "amedya",
+      "count": 81
+    },
+    {
+      "word": "ddunit",
+      "count": 79
+    },
+    {
+      "word": "udabu",
+      "count": 79
+    },
+    {
+      "word": "d-yezgan",
+      "count": 79
+    },
+    {
+      "word": "uɣerbaz",
+      "count": 79
+    },
+    {
+      "word": "yebda",
+      "count": 78
+    },
+    {
+      "word": "waya",
+      "count": 78
+    },
+    {
+      "word": "war",
+      "count": 77
+    },
+    {
+      "word": "ussan",
+      "count": 77
+    },
+    {
+      "word": "in",
+      "count": 77
+    },
+    {
+      "word": "nneɣ",
+      "count": 76
+    },
+    {
+      "word": "ɛin",
+      "count": 76
+    },
+    {
+      "word": "tunes",
+      "count": 75
+    },
+    {
+      "word": "muḥemmed",
+      "count": 75
+    },
+    {
+      "word": "ayt",
+      "count": 75
+    },
+    {
+      "word": "nuja",
+      "count": 75
+    },
+    {
+      "word": "argaz",
+      "count": 74
+    },
+    {
+      "word": "iwakken",
+      "count": 74
+    },
+    {
+      "word": "dakken",
+      "count": 74
+    },
+    {
+      "word": "ḥmed",
+      "count": 73
+    },
+    {
+      "word": "yidir",
+      "count": 73
+    },
+    {
+      "word": "ddula",
+      "count": 73
+    },
+    {
+      "word": "alamma",
+      "count": 73
+    },
+    {
+      "word": "imezdaɣen",
+      "count": 72
+    },
+    {
+      "word": "isefra",
+      "count": 72
+    },
+    {
+      "word": "ak",
+      "count": 71
+    },
+    {
+      "word": "tallit-nni",
+      "count": 71
+    },
+    {
+      "word": "niḍen",
+      "count": 71
+    },
+    {
+      "word": "ɣuct",
+      "count": 70
+    },
+    {
+      "word": "aselway",
+      "count": 70
+    },
+    {
+      "word": "utaram",
+      "count": 70
+    },
+    {
+      "word": "yiri",
+      "count": 69
+    },
+    {
+      "word": "muqel",
+      "count": 69
+    },
+    {
+      "word": "timselɣa",
+      "count": 69
+    },
+    {
+      "word": "adlis",
+      "count": 68
+    },
+    {
+      "word": "mulud",
+      "count": 68
+    },
+    {
+      "word": "almi",
+      "count": 68
+    },
+    {
+      "word": "tasertit",
+      "count": 68
+    },
+    {
+      "word": "aḥric",
+      "count": 68
+    },
+    {
+      "word": "adrar",
+      "count": 68
+    },
+    {
+      "word": "yulyu",
+      "count": 68
+    },
+    {
+      "word": "ay-n",
+      "count": 68
+    },
+    {
+      "word": "imiren",
+      "count": 68
+    },
+    {
+      "word": "tineṣliyin",
+      "count": 68
+    },
+    {
+      "word": "bab",
+      "count": 67
+    },
+    {
+      "word": "leqdic",
+      "count": 67
+    },
+    {
+      "word": "un",
+      "count": 67
+    },
+    {
+      "word": "kanada",
+      "count": 66
+    },
+    {
+      "word": "tazwara",
+      "count": 66
+    },
+    {
+      "word": "yedles",
+      "count": 66
+    },
+    {
+      "word": "akal",
+      "count": 66
+    },
+    {
+      "word": "asya",
+      "count": 66
+    },
+    {
+      "word": "axxam",
+      "count": 66
+    },
+    {
+      "word": "imagraden",
+      "count": 66
+    },
+    {
+      "word": "zemren",
+      "count": 65
+    },
+    {
+      "word": "twacult",
+      "count": 65
+    },
+    {
+      "word": "qqaren-as",
+      "count": 64
+    },
+    {
+      "word": "yekka-d",
+      "count": 64
+    },
+    {
+      "word": "tagara",
+      "count": 64
+    },
+    {
+      "word": "asif",
+      "count": 63
+    },
+    {
+      "word": "wasif",
+      "count": 63
+    },
+    {
+      "word": "wazal",
+      "count": 63
+    },
+    {
+      "word": "tikli",
+      "count": 63
+    },
+    {
+      "word": "tlata",
+      "count": 63
+    },
+    {
+      "word": "tussna",
+      "count": 63
+    },
+    {
+      "word": "wegdud",
+      "count": 63
+    },
+    {
+      "word": "ahat",
+      "count": 63
+    },
+    {
+      "word": "ali",
+      "count": 63
+    },
+    {
+      "word": "yekcem",
+      "count": 63
+    },
+    {
+      "word": "fṛansa",
+      "count": 62
+    },
+    {
+      "word": "tikwal",
+      "count": 62
+    },
+    {
+      "word": "taglizit",
+      "count": 62
+    },
+    {
+      "word": "uḍar",
+      "count": 62
+    },
+    {
+      "word": "wexxam",
+      "count": 62
+    },
+    {
+      "word": "da",
+      "count": 62
+    },
+    {
+      "word": "tmurt-a",
+      "count": 62
+    },
+    {
+      "word": "wiyaḍ",
+      "count": 61
+    },
+    {
+      "word": "bdan",
+      "count": 61
+    },
+    {
+      "word": "acennay",
+      "count": 61
+    },
+    {
+      "word": "tmiwa",
+      "count": 61
+    },
+    {
+      "word": "agellid",
+      "count": 61
+    },
+    {
+      "word": "umezgun",
+      "count": 61
+    },
+    {
+      "word": "isbn",
+      "count": 60
+    },
+    {
+      "word": "imyura",
+      "count": 60
+    },
+    {
+      "word": "tebda",
+      "count": 60
+    },
+    {
+      "word": "merra",
+      "count": 60
+    },
+    {
+      "word": "amdan",
+      "count": 60
+    },
+    {
+      "word": "imdanen",
+      "count": 59
+    },
+    {
+      "word": "isekkilen",
+      "count": 59
+    },
+    {
+      "word": "tegrawla",
+      "count": 59
+    },
+    {
+      "word": "waman",
+      "count": 59
+    },
+    {
+      "word": "mebla",
+      "count": 59
+    },
+    {
+      "word": "yagi",
+      "count": 59
+    },
+    {
+      "word": "maci",
+      "count": 59
+    },
+    {
+      "word": "tusnakt",
+      "count": 59
+    },
+    {
+      "word": "yeḥya",
+      "count": 59
+    },
+    {
+      "word": "tizi-uzzu",
+      "count": 59
+    },
+    {
+      "word": "tefsut",
+      "count": 58
+    },
+    {
+      "word": "tafriqt",
+      "count": 58
+    },
+    {
+      "word": "inelmaden",
+      "count": 58
+    },
+    {
+      "word": "tili",
+      "count": 57
+    },
+    {
+      "word": "amkan",
+      "count": 57
+    },
+    {
+      "word": "yimaziɣen",
+      "count": 57
+    },
+    {
+      "word": "tamedyazt",
+      "count": 57
+    },
+    {
+      "word": "amaru",
+      "count": 57
+    },
+    {
+      "word": "une",
+      "count": 57
+    },
+    {
+      "word": "net",
+      "count": 56
+    },
+    {
+      "word": "tmazɣa",
+      "count": 56
+    },
+    {
+      "word": "sɛan",
+      "count": 56
+    },
+    {
+      "word": "imenɣi",
+      "count": 56
+    },
+    {
+      "word": "tafat",
+      "count": 55
+    },
+    {
+      "word": "tayri",
+      "count": 55
+    },
+    {
+      "word": "wawalen",
+      "count": 55
+    },
+    {
+      "word": "merruk",
+      "count": 55
+    },
+    {
+      "word": "azzayri",
+      "count": 55
+    },
+    {
+      "word": "tmetti",
+      "count": 55
+    },
+    {
+      "word": "muḥ",
+      "count": 55
+    },
+    {
+      "word": "assa",
+      "count": 55
+    },
+    {
+      "word": "wegmuḍ",
+      "count": 55
+    },
+    {
+      "word": "tidayṛiwin",
+      "count": 55
+    },
+    {
+      "word": "deffir-s",
+      "count": 55
+    },
+    {
+      "word": "tid",
+      "count": 54
+    },
+    {
+      "word": "tutlayt-nsen",
+      "count": 54
+    },
+    {
+      "word": "imezwura",
+      "count": 54
+    },
+    {
+      "word": "tlemmast",
+      "count": 54
+    },
+    {
+      "word": "yeddukklen",
+      "count": 54
+    },
+    {
+      "word": "mmi-s",
+      "count": 54
+    },
+    {
+      "word": "acḥal",
+      "count": 54
+    },
+    {
+      "word": "tẓuri",
+      "count": 54
+    },
+    {
+      "word": "yeqqim",
+      "count": 54
+    },
+    {
+      "word": "wemdan",
+      "count": 54
+    },
+    {
+      "word": "ig",
+      "count": 54
+    },
+    {
+      "word": "yilel",
+      "count": 54
+    },
+    {
+      "word": "yegduden",
+      "count": 54
+    },
+    {
+      "word": "musa",
+      "count": 54
+    },
+    {
+      "word": "uselmed",
+      "count": 54
+    },
+    {
+      "word": "bisekstil",
+      "count": 54
+    },
+    {
+      "word": "alemmas",
+      "count": 53
+    },
+    {
+      "word": "udem",
+      "count": 53
+    },
+    {
+      "word": "tdukli",
+      "count": 53
+    },
+    {
+      "word": "usegwas",
+      "count": 53
+    },
+    {
+      "word": "ideg",
+      "count": 53
+    },
+    {
+      "word": "lmend",
+      "count": 52
+    },
+    {
+      "word": "internet",
+      "count": 52
+    },
+    {
+      "word": "yettmeslayen",
+      "count": 52
+    },
+    {
+      "word": "faḍma",
+      "count": 52
+    },
+    {
+      "word": "aɣelnaw",
+      "count": 52
+    },
+    {
+      "word": "aḥmed",
+      "count": 52
+    },
+    {
+      "word": "yelli",
+      "count": 52
+    },
+    {
+      "word": "tegnit",
+      "count": 52
+    },
+    {
+      "word": "tezlatin",
+      "count": 52
+    },
+    {
+      "word": "temnaṭ",
+      "count": 52
+    },
+    {
+      "word": "ugezdu",
+      "count": 52
+    },
+    {
+      "word": "iqqenen",
+      "count": 52
+    },
+    {
+      "word": "agraw",
+      "count": 51
+    },
+    {
+      "word": "aɛrab",
+      "count": 51
+    },
+    {
+      "word": "tameqrant",
+      "count": 51
+    },
+    {
+      "word": "wasmi",
+      "count": 51
+    },
+    {
+      "word": "adabu",
+      "count": 51
+    },
+    {
+      "word": "tsertit",
+      "count": 51
+    },
+    {
+      "word": "unabaḍ",
+      "count": 51
+    },
+    {
+      "word": "idlisen",
+      "count": 50
+    },
+    {
+      "word": "unṣib",
+      "count": 50
+    },
+    {
+      "word": "sur",
+      "count": 50
+    },
+    {
+      "word": "agdud",
+      "count": 50
+    },
+    {
+      "word": "colspan",
+      "count": 50
+    },
+    {
+      "word": "tamenzut",
+      "count": 50
+    },
+    {
+      "word": "tuber",
+      "count": 50
+    },
+    {
+      "word": "ɣur",
+      "count": 50
+    },
+    {
+      "word": "yettwasnen",
+      "count": 50
+    },
+    {
+      "word": "and",
+      "count": 50
+    },
+    {
+      "word": "unẓul",
+      "count": 50
+    },
+    {
+      "word": "uɣalen",
+      "count": 49
+    },
+    {
+      "word": "timaziɣin",
+      "count": 49
+    },
+    {
+      "word": "bumerdas",
+      "count": 49
+    },
+    {
+      "word": "fell-asen",
+      "count": 49
+    },
+    {
+      "word": "tafsut",
+      "count": 49
+    },
+    {
+      "word": "taẓuri",
+      "count": 49
+    },
+    {
+      "word": "amagrad",
+      "count": 49
+    },
+    {
+      "word": "mayyu",
+      "count": 49
+    },
+    {
+      "word": "ttidiren",
+      "count": 49
+    },
+    {
+      "word": "tefrikt",
+      "count": 49
+    },
+    {
+      "word": "tubiret",
+      "count": 48
+    },
+    {
+      "word": "idles",
+      "count": 48
+    },
+    {
+      "word": "amedyaz",
+      "count": 48
+    },
+    {
+      "word": "imelyan",
+      "count": 48
+    },
+    {
+      "word": "lḥebs",
+      "count": 48
+    },
+    {
+      "word": "ay-a",
+      "count": 48
+    },
+    {
+      "word": "iruḥ",
+      "count": 48
+    },
+    {
+      "word": "anamek",
+      "count": 48
+    },
+    {
+      "word": "teglizit",
+      "count": 47
+    },
+    {
+      "word": "ungal",
+      "count": 47
+    },
+    {
+      "word": "wayeḍ",
+      "count": 47
+    },
+    {
+      "word": "tilelli",
+      "count": 47
+    },
+    {
+      "word": "kabylie",
+      "count": 47
+    },
+    {
+      "word": "wadda",
+      "count": 47
+    },
+    {
+      "word": "algérie",
+      "count": 47
+    },
+    {
+      "word": "nitni",
+      "count": 47
+    },
+    {
+      "word": "yessawalen",
+      "count": 47
+    },
+    {
+      "word": "yexdem",
+      "count": 47
+    },
+    {
+      "word": "wikipedia",
+      "count": 46
+    },
+    {
+      "word": "yiqbayliyen",
+      "count": 46
+    },
+    {
+      "word": "alger",
+      "count": 46
+    },
+    {
+      "word": "tsekla",
+      "count": 46
+    },
+    {
+      "word": "maṣer",
+      "count": 46
+    },
+    {
+      "word": "taɣelnawt",
+      "count": 46
+    },
+    {
+      "word": "tamawt",
+      "count": 46
+    },
+    {
+      "word": "aman",
+      "count": 46
+    },
+    {
+      "word": "tmurt-is",
+      "count": 46
+    },
+    {
+      "word": "yinelmaden",
+      "count": 46
+    },
+    {
+      "word": "yes",
+      "count": 46
+    },
+    {
+      "word": "yemma",
+      "count": 46
+    },
+    {
+      "word": "isegwasen",
+      "count": 46
+    },
+    {
+      "word": "ssi",
+      "count": 46
+    },
+    {
+      "word": "dans",
+      "count": 45
+    },
+    {
+      "word": "lɣaci",
+      "count": 45
+    },
+    {
+      "word": "nutni",
+      "count": 45
+    },
+    {
+      "word": "amussu",
+      "count": 45
+    },
+    {
+      "word": "sṭif",
+      "count": 45
+    },
+    {
+      "word": "teɛrabt",
+      "count": 45
+    },
+    {
+      "word": "par",
+      "count": 45
+    },
+    {
+      "word": "sakin",
+      "count": 45
+    },
+    {
+      "word": "aẓawan",
+      "count": 45
+    },
+    {
+      "word": "usaru",
+      "count": 45
+    },
+    {
+      "word": "amyurar",
+      "count": 45
+    },
+    {
+      "word": "iga",
+      "count": 44
+    },
+    {
+      "word": "tameṭṭut",
+      "count": 44
+    },
+    {
+      "word": "ismawen",
+      "count": 44
+    },
+    {
+      "word": "rrif",
+      "count": 44
+    },
+    {
+      "word": "tunṣibt",
+      "count": 44
+    },
+    {
+      "word": "ilul-d",
+      "count": 44
+    },
+    {
+      "word": "tidet",
+      "count": 44
+    },
+    {
+      "word": "diɣen",
+      "count": 44
+    },
+    {
+      "word": "ɛazem",
+      "count": 44
+    },
+    {
+      "word": "tfukt",
+      "count": 44
+    },
+    {
+      "word": "zedɣen",
+      "count": 43
+    },
+    {
+      "word": "yezgan",
+      "count": 43
+    },
+    {
+      "word": "yid-s",
+      "count": 43
+    },
+    {
+      "word": "addad",
+      "count": 43
+    },
+    {
+      "word": "tamaynut",
+      "count": 43
+    },
+    {
+      "word": "wedrar",
+      "count": 43
+    },
+    {
+      "word": "isura",
+      "count": 43
+    },
+    {
+      "word": "tameqqrant",
+      "count": 43
+    },
+    {
+      "word": "tajmilt",
+      "count": 43
+    },
+    {
+      "word": "wanag",
+      "count": 43
+    },
+    {
+      "word": "ukabar",
+      "count": 43
+    },
+    {
+      "word": "wumi",
+      "count": 43
+    },
+    {
+      "word": "mliḥ",
+      "count": 43
+    },
+    {
+      "word": "rradyu",
+      "count": 43
+    },
+    {
+      "word": "mmis",
+      "count": 42
+    },
+    {
+      "word": "terbaɛt",
+      "count": 42
+    },
+    {
+      "word": "amzun",
+      "count": 42
+    },
+    {
+      "word": "yebɣa",
+      "count": 42
+    },
+    {
+      "word": "yewwi",
+      "count": 42
+    },
+    {
+      "word": "yefka",
+      "count": 42
+    },
+    {
+      "word": "talemmast",
+      "count": 42
+    },
+    {
+      "word": "tifinaɣ",
+      "count": 42
+    },
+    {
+      "word": "spanya",
+      "count": 42
+    },
+    {
+      "word": "leqran",
+      "count": 42
+    },
+    {
+      "word": "amaynut",
+      "count": 42
+    },
+    {
+      "word": "ddin",
+      "count": 42
+    },
+    {
+      "word": "tekcem",
+      "count": 42
+    },
+    {
+      "word": "talalit",
+      "count": 42
+    },
+    {
+      "word": "ii",
+      "count": 42
+    },
+    {
+      "word": "ddabex",
+      "count": 42
+    },
+    {
+      "word": "tidett",
+      "count": 42
+    },
+    {
+      "word": "spenyul",
+      "count": 42
+    },
+    {
+      "word": "lɣerb",
+      "count": 42
+    },
+    {
+      "word": "king",
+      "count": 42
+    },
+    {
+      "word": "ukaɣeḍ",
+      "count": 42
+    },
+    {
+      "word": "avril",
+      "count": 42
+    },
+    {
+      "word": "yuran",
+      "count": 41
+    },
+    {
+      "word": "kamal",
+      "count": 41
+    },
+    {
+      "word": "lwennas",
+      "count": 41
+    },
+    {
+      "word": "tafransist",
+      "count": 41
+    },
+    {
+      "word": "tawacult",
+      "count": 41
+    },
+    {
+      "word": "berbère",
+      "count": 41
+    },
+    {
+      "word": "pp",
+      "count": 41
+    },
+    {
+      "word": "gma-s",
+      "count": 41
+    },
+    {
+      "word": "alma",
+      "count": 41
+    },
+    {
+      "word": "dayen",
+      "count": 41
+    },
+    {
+      "word": "yiman-is",
+      "count": 41
+    },
+    {
+      "word": "aqerru",
+      "count": 41
+    },
+    {
+      "word": "lzzayer",
+      "count": 41
+    },
+    {
+      "word": "wamek",
+      "count": 41
+    },
+    {
+      "word": "ibn",
+      "count": 41
+    },
+    {
+      "word": "yettidiren",
+      "count": 41
+    },
+    {
+      "word": "timiḍi",
+      "count": 41
+    },
+    {
+      "word": "tewwi",
+      "count": 41
+    },
+    {
+      "word": "wi",
+      "count": 40
+    },
+    {
+      "word": "umennuɣ",
+      "count": 40
+    },
+    {
+      "word": "dda",
+      "count": 40
+    },
+    {
+      "word": "tayeḍ",
+      "count": 40
+    },
+    {
+      "word": "atan",
+      "count": 40
+    },
+    {
+      "word": "agrakal",
+      "count": 40
+    },
+    {
+      "word": "libya",
+      "count": 40
+    },
+    {
+      "word": "aken",
+      "count": 40
+    },
+    {
+      "word": "nekk",
+      "count": 40
+    },
+    {
+      "word": "sdat",
+      "count": 40
+    },
+    {
+      "word": "yerzan",
+      "count": 40
+    },
+    {
+      "word": "tasuqilt",
+      "count": 40
+    },
+    {
+      "word": "akk-d",
+      "count": 40
+    },
+    {
+      "word": "anect-a",
+      "count": 40
+    },
+    {
+      "word": "talmanit",
+      "count": 40
+    },
+    {
+      "word": "yiḍ",
+      "count": 39
+    },
+    {
+      "word": "iberdan",
+      "count": 39
+    },
+    {
+      "word": "au",
+      "count": 39
+    },
+    {
+      "word": "lalman",
+      "count": 39
+    },
+    {
+      "word": "yeḍran",
+      "count": 39
+    },
+    {
+      "word": "send",
+      "count": 39
+    },
+    {
+      "word": "tɣawsiwin",
+      "count": 39
+    },
+    {
+      "word": "gan",
+      "count": 39
+    },
+    {
+      "word": "ccerq",
+      "count": 39
+    },
+    {
+      "word": "ikemmel",
+      "count": 39
+    },
+    {
+      "word": "ugellid",
+      "count": 39
+    },
+    {
+      "word": "sakkin",
+      "count": 39
+    },
+    {
+      "word": "taɣlamt",
+      "count": 39
+    },
+    {
+      "word": "tenna-as",
+      "count": 39
+    },
+    {
+      "word": "wudem",
+      "count": 38
+    },
+    {
+      "word": "ag",
+      "count": 38
+    },
+    {
+      "word": "webrid",
+      "count": 38
+    },
+    {
+      "word": "aḍris",
+      "count": 38
+    },
+    {
+      "word": "marikan",
+      "count": 38
+    },
+    {
+      "word": "tagelda",
+      "count": 38
+    },
+    {
+      "word": "anamek-is",
+      "count": 38
+    },
+    {
+      "word": "yeffeɣ-d",
+      "count": 38
+    },
+    {
+      "word": "tezmer",
+      "count": 38
+    },
+    {
+      "word": "ait",
+      "count": 38
+    },
+    {
+      "word": "ufus",
+      "count": 38
+    },
+    {
+      "word": "imeqqranen",
+      "count": 38
+    },
+    {
+      "word": "aqbur",
+      "count": 38
+    },
+    {
+      "word": "ta",
+      "count": 37
+    },
+    {
+      "word": "afus",
+      "count": 37
+    },
+    {
+      "word": "atrar",
+      "count": 37
+    },
+    {
+      "word": "izdayen",
+      "count": 37
+    },
+    {
+      "word": "irgazen",
+      "count": 37
+    },
+    {
+      "word": "yiraten",
+      "count": 37
+    },
+    {
+      "word": "wul",
+      "count": 37
+    },
+    {
+      "word": "adrum",
+      "count": 37
+    },
+    {
+      "word": "racid",
+      "count": 37
+    },
+    {
+      "word": "mammeri",
+      "count": 37
+    },
+    {
+      "word": "nek",
+      "count": 37
+    },
+    {
+      "word": "macci",
+      "count": 37
+    },
+    {
+      "word": "tikelt",
+      "count": 37
+    },
+    {
+      "word": "jean",
+      "count": 37
+    },
+    {
+      "word": "amyaru",
+      "count": 37
+    },
+    {
+      "word": "urar",
+      "count": 37
+    },
+    {
+      "word": "izem",
+      "count": 36
+    },
+    {
+      "word": "nord",
+      "count": 36
+    },
+    {
+      "word": "ǧerǧer",
+      "count": 36
+    },
+    {
+      "word": "temnaḍt",
+      "count": 36
+    },
+    {
+      "word": "ugemmay",
+      "count": 36
+    },
+    {
+      "word": "wakud",
+      "count": 36
+    },
+    {
+      "word": "tadukli",
+      "count": 36
+    },
+    {
+      "word": "asaru",
+      "count": 36
+    },
+    {
+      "word": "tiddukla",
+      "count": 36
+    },
+    {
+      "word": "lemmer",
+      "count": 36
+    },
+    {
+      "word": "syin",
+      "count": 36
+    },
+    {
+      "word": "franṣa",
+      "count": 36
+    },
+    {
+      "word": "akli",
+      "count": 36
+    },
+    {
+      "word": "ṛṛum",
+      "count": 36
+    },
+    {
+      "word": "xedmen",
+      "count": 36
+    },
+    {
+      "word": "vietnam",
+      "count": 36
+    },
+    {
+      "word": "tugniwin",
+      "count": 35
+    },
+    {
+      "word": "tamecṭuḥt",
+      "count": 35
+    },
+    {
+      "word": "yusa-d",
+      "count": 35
+    },
+    {
+      "word": "ṛebbi",
+      "count": 35
+    },
+    {
+      "word": "tugdut",
+      "count": 35
+    },
+    {
+      "word": "ubrid",
+      "count": 35
+    },
+    {
+      "word": "org",
+      "count": 35
+    },
+    {
+      "word": "seg-sen",
+      "count": 35
+    },
+    {
+      "word": "aẓar",
+      "count": 35
+    },
+    {
+      "word": "salem",
+      "count": 35
+    },
+    {
+      "word": "it",
+      "count": 35
+    },
+    {
+      "word": "lɛesker",
+      "count": 35
+    },
+    {
+      "word": "imeqranen",
+      "count": 35
+    },
+    {
+      "word": "yisem-is",
+      "count": 35
+    },
+    {
+      "word": "tmeṭṭut",
+      "count": 35
+    },
+    {
+      "word": "furar",
+      "count": 35
+    },
+    {
+      "word": "ɣur-es",
+      "count": 35
+    },
+    {
+      "word": "udayen",
+      "count": 35
+    },
+    {
+      "word": "ccinwa",
+      "count": 35
+    },
+    {
+      "word": "lɛerc",
+      "count": 35
+    },
+    {
+      "word": "zidan",
+      "count": 35
+    },
+    {
+      "word": "ǧamila",
+      "count": 35
+    },
+    {
+      "word": "yitran",
+      "count": 34
+    },
+    {
+      "word": "yerra",
+      "count": 34
+    },
+    {
+      "word": "iman-nsen",
+      "count": 34
+    },
+    {
+      "word": "wehran",
+      "count": 34
+    },
+    {
+      "word": "taqburt",
+      "count": 34
+    },
+    {
+      "word": "tagduda",
+      "count": 34
+    },
+    {
+      "word": "temmut",
+      "count": 34
+    },
+    {
+      "word": "kraḍ",
+      "count": 34
+    },
+    {
+      "word": "aneggaru",
+      "count": 34
+    },
+    {
+      "word": "tasdawit",
+      "count": 34
+    },
+    {
+      "word": "kateb",
+      "count": 34
+    },
+    {
+      "word": "muḥemed",
+      "count": 34
+    },
+    {
+      "word": "anecta",
+      "count": 34
+    },
+    {
+      "word": "wamber",
+      "count": 34
+    },
+    {
+      "word": "tiɣilt",
+      "count": 34
+    },
+    {
+      "word": "tennis",
+      "count": 34
+    },
+    {
+      "word": "meksa",
+      "count": 34
+    },
+    {
+      "word": "japun",
+      "count": 34
+    },
+    {
+      "word": "wass-a",
+      "count": 33
+    },
+    {
+      "word": "ou",
+      "count": 33
+    },
+    {
+      "word": "amar",
+      "count": 33
+    },
+    {
+      "word": "mbeɛd",
+      "count": 33
+    },
+    {
+      "word": "uẓawan",
+      "count": 33
+    },
+    {
+      "word": "idir",
+      "count": 33
+    },
+    {
+      "word": "tudert-is",
+      "count": 33
+    },
+    {
+      "word": "tlawin",
+      "count": 33
+    },
+    {
+      "word": "taddart-is",
+      "count": 33
+    },
+    {
+      "word": "asmel",
+      "count": 33
+    },
+    {
+      "word": "imusnawen",
+      "count": 33
+    },
+    {
+      "word": "mali",
+      "count": 33
+    },
+    {
+      "word": "iberraniyen",
+      "count": 33
+    },
+    {
+      "word": "irland",
+      "count": 33
+    },
+    {
+      "word": "iwumi",
+      "count": 33
+    },
+    {
+      "word": "tlul",
+      "count": 33
+    },
+    {
+      "word": "umussu",
+      "count": 33
+    },
+    {
+      "word": "inselmen",
+      "count": 33
+    },
+    {
+      "word": "ayagi",
+      "count": 33
+    },
+    {
+      "word": "yuɣalen",
+      "count": 33
+    },
+    {
+      "word": "addal",
+      "count": 33
+    },
+    {
+      "word": "yiɣil",
+      "count": 33
+    },
+    {
+      "word": "fuṛaṛ",
+      "count": 33
+    },
+    {
+      "word": "crif",
+      "count": 33
+    },
+    {
+      "word": "radyu",
+      "count": 33
+    },
+    {
+      "word": "tasekla",
+      "count": 33
+    },
+    {
+      "word": "iswi",
+      "count": 33
+    },
+    {
+      "word": "yiwunak",
+      "count": 33
+    },
+    {
+      "word": "yibaskiyen",
+      "count": 33
+    },
+    {
+      "word": "pour",
+      "count": 33
+    },
+    {
+      "word": "wurar",
+      "count": 33
+    },
+    {
+      "word": "talɣa",
+      "count": 33
+    },
+    {
+      "word": "wlad",
+      "count": 33
+    },
+    {
+      "word": "wurigami",
+      "count": 33
+    },
+    {
+      "word": "d-yekkan",
+      "count": 32
+    },
+    {
+      "word": "meɛṭub",
+      "count": 32
+    },
+    {
+      "word": "tadelsant",
+      "count": 32
+    },
+    {
+      "word": "gar-asent",
+      "count": 32
+    },
+    {
+      "word": "yedduklen",
+      "count": 32
+    },
+    {
+      "word": "ṭṭfen",
+      "count": 32
+    },
+    {
+      "word": "tettwassen",
+      "count": 32
+    },
+    {
+      "word": "tagrawla",
+      "count": 32
+    },
+    {
+      "word": "amennuɣ",
+      "count": 32
+    },
+    {
+      "word": "wala",
+      "count": 32
+    },
+    {
+      "word": "meḥsub",
+      "count": 32
+    },
+    {
+      "word": "wigi",
+      "count": 32
+    },
+    {
+      "word": "illan",
+      "count": 32
+    },
+    {
+      "word": "tezga",
+      "count": 32
+    },
+    {
+      "word": "suq",
+      "count": 32
+    },
+    {
+      "word": "izerfan",
+      "count": 32
+    },
+    {
+      "word": "alammi",
+      "count": 32
+    },
+    {
+      "word": "ssuq",
+      "count": 32
+    },
+    {
+      "word": "deg-sent",
+      "count": 31
+    },
+    {
+      "word": "kel",
+      "count": 31
+    },
+    {
+      "word": "tuɣac",
+      "count": 31
+    },
+    {
+      "word": "yewweḍ",
+      "count": 31
+    },
+    {
+      "word": "tuget",
+      "count": 31
+    },
+    {
+      "word": "ferḥat",
+      "count": 31
+    },
+    {
+      "word": "mhenni",
+      "count": 31
+    },
+    {
+      "word": "al",
+      "count": 31
+    },
+    {
+      "word": "tajumma",
+      "count": 31
+    },
+    {
+      "word": "roma",
+      "count": 31
+    },
+    {
+      "word": "ixeddem",
+      "count": 31
+    },
+    {
+      "word": "ɣur-sen",
+      "count": 31
+    },
+    {
+      "word": "yimezdaɣ",
+      "count": 31
+    },
+    {
+      "word": "yettwassnen",
+      "count": 31
+    },
+    {
+      "word": "yeqqel",
+      "count": 31
+    },
+    {
+      "word": "afurk",
+      "count": 31
+    },
+    {
+      "word": "tameɣra",
+      "count": 31
+    },
+    {
+      "word": "trebbaɛ",
+      "count": 31
+    },
+    {
+      "word": "leḥkem",
+      "count": 31
+    },
+    {
+      "word": "tizlatin",
+      "count": 31
+    },
+    {
+      "word": "wergaz",
+      "count": 31
+    },
+    {
+      "word": "ul-iw",
+      "count": 31
+    },
+    {
+      "word": "yikilumitren",
+      "count": 31
+    },
+    {
+      "word": "israyel",
+      "count": 31
+    },
+    {
+      "word": "ilulen",
+      "count": 31
+    },
+    {
+      "word": "iɣzer",
+      "count": 31
+    },
+    {
+      "word": "shakespeare",
+      "count": 31
+    },
+    {
+      "word": "cemmini",
+      "count": 31
+    },
+    {
+      "word": "yir",
+      "count": 30
+    },
+    {
+      "word": "ilmend",
+      "count": 30
+    },
+    {
+      "word": "yelhan",
+      "count": 30
+    },
+    {
+      "word": "tiwelhiwin",
+      "count": 30
+    },
+    {
+      "word": "yizerfan",
+      "count": 30
+    },
+    {
+      "word": "imeslayen",
+      "count": 30
+    },
+    {
+      "word": "yimdanen",
+      "count": 30
+    },
+    {
+      "word": "tadamsa",
+      "count": 30
+    },
+    {
+      "word": "tgelda",
+      "count": 30
+    },
+    {
+      "word": "lameɛna",
+      "count": 30
+    },
+    {
+      "word": "iran",
+      "count": 30
+    },
+    {
+      "word": "yergazen",
+      "count": 30
+    },
+    {
+      "word": "mass",
+      "count": 30
+    },
+    {
+      "word": "wakk-n",
+      "count": 30
+    },
+    {
+      "word": "usselmed",
+      "count": 30
+    },
+    {
+      "word": "yenna-d",
+      "count": 30
+    },
+    {
+      "word": "tilisa",
+      "count": 30
+    },
+    {
+      "word": "aselmad",
+      "count": 30
+    },
+    {
+      "word": "nezzeh",
+      "count": 30
+    },
+    {
+      "word": "yamina",
+      "count": 30
+    },
+    {
+      "word": "brahim",
+      "count": 30
+    },
+    {
+      "word": "imkuẓen",
+      "count": 30
+    },
+    {
+      "word": "aɛmer",
+      "count": 30
+    },
+    {
+      "word": "est",
+      "count": 30
+    },
+    {
+      "word": "ɛmer",
+      "count": 30
+    },
+    {
+      "word": "tteryel",
+      "count": 30
+    },
+    {
+      "word": "itran",
+      "count": 29
+    },
+    {
+      "word": "taklit",
+      "count": 29
+    },
+    {
+      "word": "tuddsa",
+      "count": 29
+    },
+    {
+      "word": "tiẓrigin",
+      "count": 29
+    },
+    {
+      "word": "teɣri",
+      "count": 29
+    },
+    {
+      "word": "kabyle",
+      "count": 29
+    },
+    {
+      "word": "tlelli",
+      "count": 29
+    },
+    {
+      "word": "temdinin",
+      "count": 29
+    },
+    {
+      "word": "iɣallen",
+      "count": 29
+    },
+    {
+      "word": "leḥsab",
+      "count": 29
+    },
+    {
+      "word": "azamul",
+      "count": 29
+    },
+    {
+      "word": "asget",
+      "count": 29
+    },
+    {
+      "word": "d-nini",
+      "count": 29
+    },
+    {
+      "word": "aɣerbaz",
+      "count": 29
+    },
+    {
+      "word": "ya",
+      "count": 29
+    },
+    {
+      "word": "qrib",
+      "count": 29
+    },
+    {
+      "word": "aṭṭas",
+      "count": 29
+    },
+    {
+      "word": "yewwi-d",
+      "count": 29
+    },
+    {
+      "word": "usseggwas",
+      "count": 29
+    },
+    {
+      "word": "new",
+      "count": 29
+    },
+    {
+      "word": "yessen",
+      "count": 29
+    },
+    {
+      "word": "lxalat",
+      "count": 29
+    },
+    {
+      "word": "sseqdacen",
+      "count": 29
+    },
+    {
+      "word": "singapur",
+      "count": 29
+    },
+    {
+      "word": "teẓgi",
+      "count": 29
+    },
+    {
+      "word": "arrif",
+      "count": 29
+    },
+    {
+      "word": "igenni",
+      "count": 28
+    },
+    {
+      "word": "itri",
+      "count": 28
+    },
+    {
+      "word": "wegraw",
+      "count": 28
+    },
+    {
+      "word": "iwala",
+      "count": 28
+    },
+    {
+      "word": "web",
+      "count": 28
+    },
+    {
+      "word": "tutlayt-a",
+      "count": 28
+    },
+    {
+      "word": "tmurt-nsen",
+      "count": 28
+    },
+    {
+      "word": "anagar",
+      "count": 28
+    },
+    {
+      "word": "unagraw",
+      "count": 28
+    },
+    {
+      "word": "yessaweḍ",
+      "count": 28
+    },
+    {
+      "word": "tirni",
+      "count": 28
+    },
+    {
+      "word": "imedyazen",
+      "count": 28
+    },
+    {
+      "word": "neqqar",
+      "count": 28
+    },
+    {
+      "word": "iseddagen",
+      "count": 28
+    },
+    {
+      "word": "seg-s",
+      "count": 28
+    },
+    {
+      "word": "yeṭṭef",
+      "count": 28
+    },
+    {
+      "word": "tacennayt",
+      "count": 28
+    },
+    {
+      "word": "tilawin",
+      "count": 28
+    },
+    {
+      "word": "anida",
+      "count": 28
+    },
+    {
+      "word": "yakan",
+      "count": 28
+    },
+    {
+      "word": "ssawalen",
+      "count": 28
+    },
+    {
+      "word": "muḥamed",
+      "count": 28
+    },
+    {
+      "word": "awalen",
+      "count": 28
+    },
+    {
+      "word": "umedya",
+      "count": 28
+    },
+    {
+      "word": "algérienne",
+      "count": 28
+    },
+    {
+      "word": "ayyur",
+      "count": 28
+    },
+    {
+      "word": "yeɣra",
+      "count": 28
+    },
+    {
+      "word": "asegwas",
+      "count": 28
+    },
+    {
+      "word": "temnaḍin",
+      "count": 28
+    },
+    {
+      "word": "igduden",
+      "count": 28
+    },
+    {
+      "word": "waken",
+      "count": 28
+    },
+    {
+      "word": "yenna",
+      "count": 28
+    },
+    {
+      "word": "tarusit",
+      "count": 28
+    },
+    {
+      "word": "asegbar",
+      "count": 28
+    },
+    {
+      "word": "amarikan",
+      "count": 28
+    },
+    {
+      "word": "augustin",
+      "count": 28
+    },
+    {
+      "word": "acuɣer",
+      "count": 28
+    },
+    {
+      "word": "taberkant",
+      "count": 27
+    },
+    {
+      "word": "lmulud",
+      "count": 27
+    },
+    {
+      "word": "yidurar",
+      "count": 27
+    },
+    {
+      "word": "seld",
+      "count": 27
+    },
+    {
+      "word": "icennayen",
+      "count": 27
+    },
+    {
+      "word": "avec",
+      "count": 27
+    },
+    {
+      "word": "yuɣal-d",
+      "count": 27
+    },
+    {
+      "word": "dacu",
+      "count": 27
+    },
+    {
+      "word": "ilin",
+      "count": 27
+    },
+    {
+      "word": "azarug",
+      "count": 27
+    },
+    {
+      "word": "belqasem",
+      "count": 27
+    },
+    {
+      "word": "lebni",
+      "count": 27
+    },
+    {
+      "word": "yidles",
+      "count": 27
+    },
+    {
+      "word": "anemhal",
+      "count": 27
+    },
+    {
+      "word": "yenna-as",
+      "count": 27
+    },
+    {
+      "word": "mouvement",
+      "count": 27
+    },
+    {
+      "word": "yurar",
+      "count": 27
+    },
+    {
+      "word": "yettili-d",
+      "count": 27
+    },
+    {
+      "word": "yeqqar",
+      "count": 27
+    },
+    {
+      "word": "ikcem",
+      "count": 27
+    },
+    {
+      "word": "immut",
+      "count": 27
+    },
+    {
+      "word": "aṛumi",
+      "count": 27
+    },
+    {
+      "word": "anaẓur",
+      "count": 27
+    },
+    {
+      "word": "zekri",
+      "count": 27
+    },
+    {
+      "word": "ahil",
+      "count": 27
+    },
+    {
+      "word": "ferɛun",
+      "count": 27
+    },
+    {
+      "word": "aberkan",
+      "count": 27
+    },
+    {
+      "word": "qsenṭina",
+      "count": 27
+    },
+    {
+      "word": "lḥaǧ",
+      "count": 27
+    },
+    {
+      "word": "aṛezqi",
+      "count": 27
+    },
+    {
+      "word": "tiɣri",
+      "count": 26
+    },
+    {
+      "word": "imawlan-is",
+      "count": 26
+    },
+    {
+      "word": "ḥusin",
+      "count": 26
+    },
+    {
+      "word": "ilel",
+      "count": 26
+    },
+    {
+      "word": "akin",
+      "count": 26
+    },
+    {
+      "word": "berbères",
+      "count": 26
+    },
+    {
+      "word": "zik-nni",
+      "count": 26
+    },
+    {
+      "word": "london",
+      "count": 26
+    },
+    {
+      "word": "idammen",
+      "count": 26
+    },
+    {
+      "word": "yis-s",
+      "count": 26
+    },
+    {
+      "word": "seddaw",
+      "count": 26
+    },
+    {
+      "word": "kecmen",
+      "count": 26
+    },
+    {
+      "word": "aseqqamu",
+      "count": 26
+    },
+    {
+      "word": "php",
+      "count": 26
+    },
+    {
+      "word": "ilmeẓyen",
+      "count": 26
+    },
+    {
+      "word": "gen",
+      "count": 26
+    },
+    {
+      "word": "yeffeɣ",
+      "count": 26
+    },
+    {
+      "word": "izedɣen",
+      "count": 26
+    },
+    {
+      "word": "warrac",
+      "count": 26
+    },
+    {
+      "word": "amḍiq",
+      "count": 26
+    },
+    {
+      "word": "semman",
+      "count": 26
+    },
+    {
+      "word": "takurt",
+      "count": 26
+    },
+    {
+      "word": "inna",
+      "count": 26
+    },
+    {
+      "word": "surya",
+      "count": 26
+    },
+    {
+      "word": "semman-as",
+      "count": 26
+    },
+    {
+      "word": "yedlisen",
+      "count": 26
+    },
+    {
+      "word": "krad",
+      "count": 26
+    },
+    {
+      "word": "tilizri",
+      "count": 26
+    },
+    {
+      "word": "turar",
+      "count": 26
+    },
+    {
+      "word": "tamzikent",
+      "count": 26
+    },
+    {
+      "word": "yeṭṭafaren",
+      "count": 26
+    },
+    {
+      "word": "snitra",
+      "count": 26
+    },
+    {
+      "word": "agadir",
+      "count": 26
+    },
+    {
+      "word": "tajumma-nnes",
+      "count": 26
+    },
+    {
+      "word": "urigami",
+      "count": 26
+    },
+    {
+      "word": "bɣan",
+      "count": 25
+    },
+    {
+      "word": "tmeɣra",
+      "count": 25
+    },
+    {
+      "word": "yezmir",
+      "count": 25
+    },
+    {
+      "word": "iy",
+      "count": 25
+    },
+    {
+      "word": "ineggura",
+      "count": 25
+    },
+    {
+      "word": "france",
+      "count": 25
+    },
+    {
+      "word": "ṭaher",
+      "count": 25
+    },
+    {
+      "word": "ugaraw",
+      "count": 25
+    },
+    {
+      "word": "umeṛṛuk",
+      "count": 25
+    },
+    {
+      "word": "anagraw",
+      "count": 25
+    },
+    {
+      "word": "alatini",
+      "count": 25
+    },
+    {
+      "word": "idrimen",
+      "count": 25
+    },
+    {
+      "word": "tewwi-d",
+      "count": 25
+    },
+    {
+      "word": "ass-nni",
+      "count": 25
+    },
+    {
+      "word": "nnuba",
+      "count": 25
+    },
+    {
+      "word": "tiliẓri",
+      "count": 25
+    },
+    {
+      "word": "nesɛi",
+      "count": 25
+    },
+    {
+      "word": "amɣar",
+      "count": 25
+    },
+    {
+      "word": "teqqim",
+      "count": 25
+    },
+    {
+      "word": "html",
+      "count": 25
+    },
+    {
+      "word": "ameẓyan",
+      "count": 25
+    },
+    {
+      "word": "yeqbayliyen",
+      "count": 25
+    },
+    {
+      "word": "yidis",
+      "count": 25
+    },
+    {
+      "word": "iselmaden",
+      "count": 25
+    },
+    {
+      "word": "tussniwin",
+      "count": 25
+    },
+    {
+      "word": "qqimen",
+      "count": 25
+    },
+    {
+      "word": "yekker",
+      "count": 25
+    },
+    {
+      "word": "unadi",
+      "count": 25
+    },
+    {
+      "word": "agraɣlan",
+      "count": 25
+    },
+    {
+      "word": "asawen",
+      "count": 25
+    },
+    {
+      "word": "yiɣerbazen",
+      "count": 25
+    },
+    {
+      "word": "tamuɣli",
+      "count": 25
+    },
+    {
+      "word": "abrid-is",
+      "count": 25
+    },
+    {
+      "word": "iṛumyen",
+      "count": 25
+    },
+    {
+      "word": "yas",
+      "count": 25
+    },
+    {
+      "word": "tẓegwa",
+      "count": 25
+    },
+    {
+      "word": "iɣersiwen",
+      "count": 25
+    },
+    {
+      "word": "ibaskiyen",
+      "count": 25
+    },
+    {
+      "word": "anabaḍ",
+      "count": 25
+    },
+    {
+      "word": "yetturar",
+      "count": 25
+    },
+    {
+      "word": "taluksemburgit",
+      "count": 25
+    },
+    {
+      "word": "takfarinas",
+      "count": 25
+    },
+    {
+      "word": "uxxam",
+      "count": 25
+    },
+    {
+      "word": "amaruz",
+      "count": 25
+    },
+    {
+      "word": "tidyanin",
+      "count": 24
+    },
+    {
+      "word": "tamnaḍt",
+      "count": 24
+    },
+    {
+      "word": "ugdud",
+      "count": 24
+    },
+    {
+      "word": "usekkil",
+      "count": 24
+    },
+    {
+      "word": "sa",
+      "count": 24
+    },
+    {
+      "word": "weɣmis",
+      "count": 24
+    },
+    {
+      "word": "wagi",
+      "count": 24
+    },
+    {
+      "word": "yelli-s",
+      "count": 24
+    },
+    {
+      "word": "tiyaḍ",
+      "count": 24
+    },
+    {
+      "word": "ajjed",
+      "count": 24
+    },
+    {
+      "word": "ixxamen",
+      "count": 24
+    },
+    {
+      "word": "yelha",
+      "count": 24
+    },
+    {
+      "word": "fln",
+      "count": 24
+    },
+    {
+      "word": "mengellat",
+      "count": 24
+    },
+    {
+      "word": "way-a",
+      "count": 24
+    },
+    {
+      "word": "uselway",
+      "count": 24
+    },
+    {
+      "word": "igan",
+      "count": 24
+    },
+    {
+      "word": "tagnit",
+      "count": 24
+    },
+    {
+      "word": "yeǧǧan",
+      "count": 24
+    },
+    {
+      "word": "aɛmar",
+      "count": 24
+    },
+    {
+      "word": "inaẓuren",
+      "count": 24
+    },
+    {
+      "word": "ttrad",
+      "count": 24
+    },
+    {
+      "word": "mayu",
+      "count": 24
+    },
+    {
+      "word": "tamnaṭ",
+      "count": 24
+    },
+    {
+      "word": "ixdem",
+      "count": 24
+    },
+    {
+      "word": "tedwilt",
+      "count": 24
+    },
+    {
+      "word": "tlalit",
+      "count": 24
+    },
+    {
+      "word": "ameskar",
+      "count": 24
+    },
+    {
+      "word": "iwaḍiyen",
+      "count": 24
+    },
+    {
+      "word": "sud",
+      "count": 24
+    },
+    {
+      "word": "illul",
+      "count": 24
+    },
+    {
+      "word": "wedlis",
+      "count": 24
+    },
+    {
+      "word": "anwa",
+      "count": 24
+    },
+    {
+      "word": "der",
+      "count": 24
+    },
+    {
+      "word": "iger",
+      "count": 24
+    },
+    {
+      "word": "baba",
+      "count": 24
+    },
+    {
+      "word": "rabaḥ",
+      "count": 24
+    },
+    {
+      "word": "meṛṛa",
+      "count": 24
+    },
+    {
+      "word": "laɛzib",
+      "count": 24
+    },
+    {
+      "word": "yid-sen",
+      "count": 23
+    },
+    {
+      "word": "wer",
+      "count": 23
+    },
+    {
+      "word": "yebɣan",
+      "count": 23
+    },
+    {
+      "word": "yak",
+      "count": 23
+    },
+    {
+      "word": "izemren",
+      "count": 23
+    },
+    {
+      "word": "lmut",
+      "count": 23
+    },
+    {
+      "word": "yimukan",
+      "count": 23
+    }
+  ]
+}

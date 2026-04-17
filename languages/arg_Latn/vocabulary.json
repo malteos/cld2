@@ -1,0 +1,4012 @@
+{
+  "code": "arg",
+  "name": "Aragonese",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (an.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 566997,
+  "unique_tokens": 57203,
+  "words": [
+    {
+      "word": "de",
+      "count": 32751
+    },
+    {
+      "word": "en",
+      "count": 28743
+    },
+    {
+      "word": "d'o",
+      "count": 11647
+    },
+    {
+      "word": "que",
+      "count": 8713
+    },
+    {
+      "word": "d'a",
+      "count": 6799
+    },
+    {
+      "word": "os",
+      "count": 6147
+    },
+    {
+      "word": "con",
+      "count": 5567
+    },
+    {
+      "word": "ye",
+      "count": 5520
+    },
+    {
+      "word": "naixencia",
+      "count": 5383
+    },
+    {
+      "word": "se",
+      "count": 4344
+    },
+    {
+      "word": "as",
+      "count": 4275
+    },
+    {
+      "word": "muere",
+      "count": 4098
+    },
+    {
+      "word": "una",
+      "count": 4017
+    },
+    {
+      "word": "por",
+      "count": 3990
+    },
+    {
+      "word": "la",
+      "count": 3818
+    },
+    {
+      "word": "un",
+      "count": 3724
+    },
+    {
+      "word": "lo",
+      "count": 3098
+    },
+    {
+      "word": "d'os",
+      "count": 2930
+    },
+    {
+      "word": "como",
+      "count": 2660
+    },
+    {
+      "word": "mas",
+      "count": 2467
+    },
+    {
+      "word": "estausunidense",
+      "count": 2288
+    },
+    {
+      "word": "suya",
+      "count": 1849
+    },
+    {
+      "word": "sieglo",
+      "count": 1825
+    },
+    {
+      "word": "países",
+      "count": 1814
+    },
+    {
+      "word": "atros",
+      "count": 1735
+    },
+    {
+      "word": "d'as",
+      "count": 1686
+    },
+    {
+      "word": "aragón",
+      "count": 1680
+    },
+    {
+      "word": "tamién",
+      "count": 1613
+    },
+    {
+      "word": "son",
+      "count": 1608
+    },
+    {
+      "word": "ta",
+      "count": 1575
+    },
+    {
+      "word": "país",
+      "count": 1486
+    },
+    {
+      "word": "no",
+      "count": 1365
+    },
+    {
+      "word": "entre",
+      "count": 1351
+    },
+    {
+      "word": "reino",
+      "count": 1331
+    },
+    {
+      "word": "politico",
+      "count": 1293
+    },
+    {
+      "word": "dende",
+      "count": 1289
+    },
+    {
+      "word": "ciudat",
+      "count": 1283
+    },
+    {
+      "word": "nueva",
+      "count": 1253
+    },
+    {
+      "word": "los",
+      "count": 1245
+    },
+    {
+      "word": "francés",
+      "count": 1158
+    },
+    {
+      "word": "francia",
+      "count": 1152
+    },
+    {
+      "word": "población",
+      "count": 1143
+    },
+    {
+      "word": "suyo",
+      "count": 1090
+    },
+    {
+      "word": "escritor",
+      "count": 1087
+    },
+    {
+      "word": "norte",
+      "count": 1041
+    },
+    {
+      "word": "hue",
+      "count": 1036
+    },
+    {
+      "word": "ha",
+      "count": 1034
+    },
+    {
+      "word": "guerra",
+      "count": 1033
+    },
+    {
+      "word": "rei",
+      "count": 1019
+    },
+    {
+      "word": "estaus",
+      "count": 1005
+    },
+    {
+      "word": "aragonés",
+      "count": 990
+    },
+    {
+      "word": "zaragoza",
+      "count": 982
+    },
+    {
+      "word": "cinematografico",
+      "count": 948
+    },
+    {
+      "word": "unius",
+      "count": 927
+    },
+    {
+      "word": "gran",
+      "count": 916
+    },
+    {
+      "word": "sud",
+      "count": 915
+    },
+    {
+      "word": "l'actor",
+      "count": 910
+    },
+    {
+      "word": "york",
+      "count": 883
+    },
+    {
+      "word": "republica",
+      "count": 883
+    },
+    {
+      "word": "dica",
+      "count": 882
+    },
+    {
+      "word": "per",
+      "count": 863
+    },
+    {
+      "word": "anyos",
+      "count": 848
+    },
+    {
+      "word": "referencias",
+      "count": 838
+    },
+    {
+      "word": "encara",
+      "count": 831
+    },
+    {
+      "word": "d'aragón",
+      "count": 818
+    },
+    {
+      "word": "director",
+      "count": 809
+    },
+    {
+      "word": "alemán",
+      "count": 785
+    },
+    {
+      "word": "naixencias",
+      "count": 774
+    },
+    {
+      "word": "dimpués",
+      "count": 770
+    },
+    {
+      "word": "l'actriz",
+      "count": 759
+    },
+    {
+      "word": "escaicimientos",
+      "count": 756
+    },
+    {
+      "word": "las",
+      "count": 741
+    },
+    {
+      "word": "defuncions",
+      "count": 741
+    },
+    {
+      "word": "bi",
+      "count": 732
+    },
+    {
+      "word": "mientres",
+      "count": 724
+    },
+    {
+      "word": "california",
+      "count": 723
+    },
+    {
+      "word": "pero",
+      "count": 715
+    },
+    {
+      "word": "provincia",
+      "count": 712
+    },
+    {
+      "word": "mar",
+      "count": 711
+    },
+    {
+      "word": "dos",
+      "count": 702
+    },
+    {
+      "word": "britanico",
+      "count": 679
+    },
+    {
+      "word": "sant",
+      "count": 674
+    },
+    {
+      "word": "capital",
+      "count": 664
+    },
+    {
+      "word": "río",
+      "count": 648
+    },
+    {
+      "word": "estió",
+      "count": 642
+    },
+    {
+      "word": "parte",
+      "count": 641
+    },
+    {
+      "word": "nombre",
+      "count": 621
+    },
+    {
+      "word": "president",
+      "count": 611
+    },
+    {
+      "word": "vinclos",
+      "count": 610
+    },
+    {
+      "word": "yera",
+      "count": 607
+    },
+    {
+      "word": "l'imperio",
+      "count": 600
+    },
+    {
+      "word": "comarca",
+      "count": 597
+    },
+    {
+      "word": "mes",
+      "count": 596
+    },
+    {
+      "word": "externos",
+      "count": 596
+    },
+    {
+      "word": "tien",
+      "count": 592
+    },
+    {
+      "word": "militar",
+      "count": 590
+    },
+    {
+      "word": "fa",
+      "count": 578
+    },
+    {
+      "word": "sobre",
+      "count": 577
+    },
+    {
+      "word": "parís",
+      "count": 576
+    },
+    {
+      "word": "territorio",
+      "count": 569
+    },
+    {
+      "word": "luenga",
+      "count": 560
+    },
+    {
+      "word": "baixo",
+      "count": 559
+    },
+    {
+      "word": "italiano",
+      "count": 558
+    },
+    {
+      "word": "estato",
+      "count": 547
+    },
+    {
+      "word": "cantaire",
+      "count": 546
+    },
+    {
+      "word": "isla",
+      "count": 518
+    },
+    {
+      "word": "asinas",
+      "count": 514
+    },
+    {
+      "word": "km²",
+      "count": 512
+    },
+    {
+      "word": "luengas",
+      "count": 505
+    },
+    {
+      "word": "imperio",
+      "count": 501
+    },
+    {
+      "word": "primer",
+      "count": 493
+    },
+    {
+      "word": "muga",
+      "count": 483
+    },
+    {
+      "word": "mundo",
+      "count": 477
+    },
+    {
+      "word": "mayor",
+      "count": 477
+    },
+    {
+      "word": "guionista",
+      "count": 476
+    },
+    {
+      "word": "parti",
+      "count": 473
+    },
+    {
+      "word": "poeta",
+      "count": 471
+    },
+    {
+      "word": "compositor",
+      "count": 465
+    },
+    {
+      "word": "gubierno",
+      "count": 462
+    },
+    {
+      "word": "cuan",
+      "count": 462
+    },
+    {
+      "word": "suyos",
+      "count": 452
+    },
+    {
+      "word": "espanyol",
+      "count": 452
+    },
+    {
+      "word": "val",
+      "count": 446
+    },
+    {
+      "word": "habitants",
+      "count": 446
+    },
+    {
+      "word": "ii",
+      "count": 443
+    },
+    {
+      "word": "d'un",
+      "count": 442
+    },
+    {
+      "word": "l'anyo",
+      "count": 441
+    },
+    {
+      "word": "on",
+      "count": 436
+    },
+    {
+      "word": "superficie",
+      "count": 436
+    },
+    {
+      "word": "premio",
+      "count": 435
+    },
+    {
+      "word": "historia",
+      "count": 434
+    },
+    {
+      "word": "madrit",
+      "count": 434
+    },
+    {
+      "word": "primera",
+      "count": 423
+    },
+    {
+      "word": "alemanya",
+      "count": 421
+    },
+    {
+      "word": "islas",
+      "count": 420
+    },
+    {
+      "word": "unión",
+      "count": 419
+    },
+    {
+      "word": "mundial",
+      "count": 410
+    },
+    {
+      "word": "enta",
+      "count": 408
+    },
+    {
+      "word": "musico",
+      "count": 402
+    },
+    {
+      "word": "troba",
+      "count": 399
+    },
+    {
+      "word": "rechión",
+      "count": 399
+    },
+    {
+      "word": "segunda",
+      "count": 395
+    },
+    {
+      "word": "estando",
+      "count": 394
+    },
+    {
+      "word": "l'este",
+      "count": 391
+    },
+    {
+      "word": "roma",
+      "count": 388
+    },
+    {
+      "word": "d'una",
+      "count": 382
+    },
+    {
+      "word": "estar",
+      "count": 380
+    },
+    {
+      "word": "suyas",
+      "count": 380
+    },
+    {
+      "word": "pintor",
+      "count": 376
+    },
+    {
+      "word": "d'orichen",
+      "count": 374
+    },
+    {
+      "word": "uniu",
+      "count": 370
+    },
+    {
+      "word": "romano",
+      "count": 369
+    },
+    {
+      "word": "ilesia",
+      "count": 369
+    },
+    {
+      "word": "ista",
+      "count": 366
+    },
+    {
+      "word": "londres",
+      "count": 365
+    },
+    {
+      "word": "ruso",
+      "count": 364
+    },
+    {
+      "word": "chulio",
+      "count": 357
+    },
+    {
+      "word": "francesa",
+      "count": 357
+    },
+    {
+      "word": "productor",
+      "count": 356
+    },
+    {
+      "word": "occidental",
+      "count": 355
+    },
+    {
+      "word": "oficial",
+      "count": 353
+    },
+    {
+      "word": "fue",
+      "count": 350
+    },
+    {
+      "word": "l'ueste",
+      "count": 348
+    },
+    {
+      "word": "uesca",
+      "count": 347
+    },
+    {
+      "word": "santa",
+      "count": 346
+    },
+    {
+      "word": "novelista",
+      "count": 346
+    },
+    {
+      "word": "futbolista",
+      "count": 345
+    },
+    {
+      "word": "ya",
+      "count": 342
+    },
+    {
+      "word": "iste",
+      "count": 342
+    },
+    {
+      "word": "tot",
+      "count": 339
+    },
+    {
+      "word": "l'actual",
+      "count": 339
+    },
+    {
+      "word": "catalán",
+      "count": 336
+    },
+    {
+      "word": "alto",
+      "count": 335
+    },
+    {
+      "word": "d'octubre",
+      "count": 335
+    },
+    {
+      "word": "amás",
+      "count": 334
+    },
+    {
+      "word": "tres",
+      "count": 333
+    },
+    {
+      "word": "pa",
+      "count": 333
+    },
+    {
+      "word": "espanya",
+      "count": 329
+    },
+    {
+      "word": "el",
+      "count": 325
+    },
+    {
+      "word": "nobel",
+      "count": 323
+    },
+    {
+      "word": "chinero",
+      "count": 322
+    },
+    {
+      "word": "ciudaz",
+      "count": 321
+    },
+    {
+      "word": "italia",
+      "count": 320
+    },
+    {
+      "word": "xix",
+      "count": 317
+    },
+    {
+      "word": "setiembre",
+      "count": 317
+    },
+    {
+      "word": "mesmo",
+      "count": 316
+    },
+    {
+      "word": "angeles",
+      "count": 316
+    },
+    {
+      "word": "fútbol",
+      "count": 315
+    },
+    {
+      "word": "rusia",
+      "count": 314
+    },
+    {
+      "word": "nacional",
+      "count": 313
+    },
+    {
+      "word": "seguntes",
+      "count": 312
+    },
+    {
+      "word": "anglaterra",
+      "count": 312
+    },
+    {
+      "word": "tropas",
+      "count": 312
+    },
+    {
+      "word": "xx",
+      "count": 311
+    },
+    {
+      "word": "batalla",
+      "count": 311
+    },
+    {
+      "word": "teruel",
+      "count": 310
+    },
+    {
+      "word": "oriental",
+      "count": 310
+    },
+    {
+      "word": "territorios",
+      "count": 307
+    },
+    {
+      "word": "actor",
+      "count": 304
+    },
+    {
+      "word": "aragonesa",
+      "count": 302
+    },
+    {
+      "word": "barcelona",
+      "count": 302
+    },
+    {
+      "word": "forma",
+      "count": 300
+    },
+    {
+      "word": "central",
+      "count": 299
+    },
+    {
+      "word": "nuevo",
+      "count": 299
+    },
+    {
+      "word": "bels",
+      "count": 297
+    },
+    {
+      "word": "cheografía",
+      "count": 296
+    },
+    {
+      "word": "mayo",
+      "count": 291
+    },
+    {
+      "word": "independencia",
+      "count": 291
+    },
+    {
+      "word": "carlos",
+      "count": 289
+    },
+    {
+      "word": "costa",
+      "count": 289
+    },
+    {
+      "word": "comunidat",
+      "count": 287
+    },
+    {
+      "word": "veiga",
+      "count": 284
+    },
+    {
+      "word": "km",
+      "count": 283
+    },
+    {
+      "word": "nomás",
+      "count": 280
+    },
+    {
+      "word": "clima",
+      "count": 280
+    },
+    {
+      "word": "castellano",
+      "count": 279
+    },
+    {
+      "word": "grans",
+      "count": 277
+    },
+    {
+      "word": "cheneral",
+      "count": 276
+    },
+    {
+      "word": "muitos",
+      "count": 275
+    },
+    {
+      "word": "atras",
+      "count": 275
+    },
+    {
+      "word": "contra",
+      "count": 275
+    },
+    {
+      "word": "li",
+      "count": 273
+    },
+    {
+      "word": "centro",
+      "count": 271
+    },
+    {
+      "word": "cultura",
+      "count": 271
+    },
+    {
+      "word": "josé",
+      "count": 271
+    },
+    {
+      "word": "polonia",
+      "count": 269
+    },
+    {
+      "word": "important",
+      "count": 266
+    },
+    {
+      "word": "heba",
+      "count": 266
+    },
+    {
+      "word": "marzo",
+      "count": 263
+    },
+    {
+      "word": "espanyola",
+      "count": 262
+    },
+    {
+      "word": "importants",
+      "count": 258
+    },
+    {
+      "word": "del",
+      "count": 258
+    },
+    {
+      "word": "yeran",
+      "count": 257
+    },
+    {
+      "word": "fiestas",
+      "count": 256
+    },
+    {
+      "word": "politica",
+      "count": 255
+    },
+    {
+      "word": "emperador",
+      "count": 255
+    },
+    {
+      "word": "l'aragonés",
+      "count": 254
+    },
+    {
+      "word": "l'oceano",
+      "count": 253
+    },
+    {
+      "word": "qui",
+      "count": 252
+    },
+    {
+      "word": "l'exercito",
+      "count": 252
+    },
+    {
+      "word": "han",
+      "count": 251
+    },
+    {
+      "word": "febrero",
+      "count": 251
+    },
+    {
+      "word": "esdevién",
+      "count": 250
+    },
+    {
+      "word": "filosofo",
+      "count": 250
+    },
+    {
+      "word": "tienen",
+      "count": 249
+    },
+    {
+      "word": "iii",
+      "count": 248
+    },
+    {
+      "word": "tierra",
+      "count": 246
+    },
+    {
+      "word": "estau",
+      "count": 246
+    },
+    {
+      "word": "chuegos",
+      "count": 246
+    },
+    {
+      "word": "millons",
+      "count": 245
+    },
+    {
+      "word": "fan",
+      "count": 244
+    },
+    {
+      "word": "chunio",
+      "count": 242
+    },
+    {
+      "word": "d'europa",
+      "count": 242
+    },
+    {
+      "word": "noviembre",
+      "count": 238
+    },
+    {
+      "word": "europea",
+      "count": 237
+    },
+    {
+      "word": "toz",
+      "count": 236
+    },
+    {
+      "word": "mexico",
+      "count": 236
+    },
+    {
+      "word": "san",
+      "count": 236
+    },
+    {
+      "word": "china",
+      "count": 234
+    },
+    {
+      "word": "align",
+      "count": 234
+    },
+    {
+      "word": "sistema",
+      "count": 233
+    },
+    {
+      "word": "seu",
+      "count": 233
+    },
+    {
+      "word": "cuasi",
+      "count": 232
+    },
+    {
+      "word": "troban",
+      "count": 232
+    },
+    {
+      "word": "densidat",
+      "count": 229
+    },
+    {
+      "word": "britanica",
+      "count": 229
+    },
+    {
+      "word": "muit",
+      "count": 227
+    },
+    {
+      "word": "literatura",
+      "count": 225
+    },
+    {
+      "word": "ac",
+      "count": 223
+    },
+    {
+      "word": "anglés",
+      "count": 221
+    },
+    {
+      "word": "xviii",
+      "count": 220
+    },
+    {
+      "word": "mayoría",
+      "count": 219
+    },
+    {
+      "word": "poder",
+      "count": 218
+    },
+    {
+      "word": "puesto",
+      "count": 218
+    },
+    {
+      "word": "meya",
+      "count": 218
+    },
+    {
+      "word": "popular",
+      "count": 217
+    },
+    {
+      "word": "metros",
+      "count": 217
+    },
+    {
+      "word": "pachina",
+      "count": 217
+    },
+    {
+      "word": "nacions",
+      "count": 216
+    },
+    {
+      "word": "d'aviento",
+      "count": 215
+    },
+    {
+      "word": "feito",
+      "count": 213
+    },
+    {
+      "word": "castiella",
+      "count": 213
+    },
+    {
+      "word": "web",
+      "count": 213
+    },
+    {
+      "word": "iv",
+      "count": 213
+    },
+    {
+      "word": "zona",
+      "count": 213
+    },
+    {
+      "word": "baixa",
+      "count": 212
+    },
+    {
+      "word": "prencipals",
+      "count": 212
+    },
+    {
+      "word": "fisico",
+      "count": 212
+    },
+    {
+      "word": "organización",
+      "count": 211
+    },
+    {
+      "word": "latín",
+      "count": 210
+    },
+    {
+      "word": "chunto",
+      "count": 209
+    },
+    {
+      "word": "reyal",
+      "count": 209
+    },
+    {
+      "word": "periodista",
+      "count": 208
+    },
+    {
+      "word": "europa",
+      "count": 208
+    },
+    {
+      "word": "peninsula",
+      "count": 207
+    },
+    {
+      "word": "india",
+      "count": 206
+    },
+    {
+      "word": "diferents",
+      "count": 204
+    },
+    {
+      "word": "chuan",
+      "count": 203
+    },
+    {
+      "word": "papa",
+      "count": 203
+    },
+    {
+      "word": "cada",
+      "count": 203
+    },
+    {
+      "word": "portugal",
+      "count": 203
+    },
+    {
+      "word": "right",
+      "count": 202
+    },
+    {
+      "word": "economía",
+      "count": 202
+    },
+    {
+      "word": "arredol",
+      "count": 201
+    },
+    {
+      "word": "manimenos",
+      "count": 199
+    },
+    {
+      "word": "castiello",
+      "count": 198
+    },
+    {
+      "word": "numero",
+      "count": 198
+    },
+    {
+      "word": "d'agosto",
+      "count": 198
+    },
+    {
+      "word": "actualment",
+      "count": 198
+    },
+    {
+      "word": "navarra",
+      "count": 196
+    },
+    {
+      "word": "pueden",
+      "count": 195
+    },
+    {
+      "word": "d'espanya",
+      "count": 195
+    },
+    {
+      "word": "ministro",
+      "count": 194
+    },
+    {
+      "word": "francisco",
+      "count": 193
+    },
+    {
+      "word": "dramaturgo",
+      "count": 193
+    },
+    {
+      "word": "john",
+      "count": 192
+    },
+    {
+      "word": "olimpicos",
+      "count": 192
+    },
+    {
+      "word": "municipio",
+      "count": 192
+    },
+    {
+      "word": "sovietica",
+      "count": 190
+    },
+    {
+      "word": "lista",
+      "count": 189
+    },
+    {
+      "word": "estatos",
+      "count": 189
+    },
+    {
+      "word": "rechions",
+      "count": 189
+    },
+    {
+      "word": "muitas",
+      "count": 188
+    },
+    {
+      "word": "prencipal",
+      "count": 188
+    },
+    {
+      "word": "dita",
+      "count": 188
+    },
+    {
+      "word": "maría",
+      "count": 187
+    },
+    {
+      "word": "suiza",
+      "count": 187
+    },
+    {
+      "word": "catalunya",
+      "count": 186
+    },
+    {
+      "word": "mugas",
+      "count": 186
+    },
+    {
+      "word": "ríos",
+      "count": 186
+    },
+    {
+      "word": "provincias",
+      "count": 183
+    },
+    {
+      "word": "fer",
+      "count": 182
+    },
+    {
+      "word": "hab",
+      "count": 181
+    },
+    {
+      "word": "d'italia",
+      "count": 181
+    },
+    {
+      "word": "districto",
+      "count": 181
+    },
+    {
+      "word": "austriaco",
+      "count": 181
+    },
+    {
+      "word": "sin",
+      "count": 179
+    },
+    {
+      "word": "tercer",
+      "count": 179
+    },
+    {
+      "word": "xvi",
+      "count": 179
+    },
+    {
+      "word": "miguel",
+      "count": 179
+    },
+    {
+      "word": "sierra",
+      "count": 178
+    },
+    {
+      "word": "termin",
+      "count": 178
+    },
+    {
+      "word": "situato",
+      "count": 178
+    },
+    {
+      "word": "sobrarbe",
+      "count": 177
+    },
+    {
+      "word": "lugar",
+      "count": 177
+    },
+    {
+      "word": "baloncesto",
+      "count": 177
+    },
+    {
+      "word": "tractau",
+      "count": 177
+    },
+    {
+      "word": "periodo",
+      "count": 176
+    },
+    {
+      "word": "bien",
+      "count": 174
+    },
+    {
+      "word": "d'anglaterra",
+      "count": 174
+    },
+    {
+      "word": "mediterrania",
+      "count": 174
+    },
+    {
+      "word": "personas",
+      "count": 173
+    },
+    {
+      "word": "austria",
+      "count": 173
+    },
+    {
+      "word": "si",
+      "count": 172
+    },
+    {
+      "word": "fisica",
+      "count": 171
+    },
+    {
+      "word": "partiu",
+      "count": 171
+    },
+    {
+      "word": "bellas",
+      "count": 170
+    },
+    {
+      "word": "fació",
+      "count": 169
+    },
+    {
+      "word": "independient",
+      "count": 169
+    },
+    {
+      "word": "esporte",
+      "count": 169
+    },
+    {
+      "word": "edat",
+      "count": 165
+    },
+    {
+      "word": "alta",
+      "count": 164
+    },
+    {
+      "word": "xvii",
+      "count": 164
+    },
+    {
+      "word": "juan",
+      "count": 164
+    },
+    {
+      "word": "meyo",
+      "count": 163
+    },
+    {
+      "word": "chugador",
+      "count": 163
+    },
+    {
+      "word": "s'ha",
+      "count": 161
+    },
+    {
+      "word": "muito",
+      "count": 160
+    },
+    {
+      "word": "lugars",
+      "count": 160
+    },
+    {
+      "word": "menos",
+      "count": 159
+    },
+    {
+      "word": "primers",
+      "count": 159
+    },
+    {
+      "word": "traviés",
+      "count": 159
+    },
+    {
+      "word": "antonio",
+      "count": 159
+    },
+    {
+      "word": "matematico",
+      "count": 158
+    },
+    {
+      "word": "l'atleta",
+      "count": 157
+    },
+    {
+      "word": "dinamarca",
+      "count": 156
+    },
+    {
+      "word": "suecia",
+      "count": 156
+    },
+    {
+      "word": "colonia",
+      "count": 156
+    },
+    {
+      "word": "campo",
+      "count": 155
+    },
+    {
+      "word": "anyadas",
+      "count": 155
+    },
+    {
+      "word": "george",
+      "count": 155
+    },
+    {
+      "word": "anque",
+      "count": 154
+    },
+    {
+      "word": "escritora",
+      "count": 154
+    },
+    {
+      "word": "dito",
+      "count": 153
+    },
+    {
+      "word": "sindembargo",
+      "count": 153
+    },
+    {
+      "word": "miembro",
+      "count": 153
+    },
+    {
+      "word": "esportes",
+      "count": 153
+    },
+    {
+      "word": "total",
+      "count": 152
+    },
+    {
+      "word": "servir",
+      "count": 152
+    },
+    {
+      "word": "villa",
+      "count": 152
+    },
+    {
+      "word": "moneda",
+      "count": 152
+    },
+    {
+      "word": "zonas",
+      "count": 151
+    },
+    {
+      "word": "pakistán",
+      "count": 151
+    },
+    {
+      "word": "puede",
+      "count": 149
+    },
+    {
+      "word": "l'anglés",
+      "count": 149
+    },
+    {
+      "word": "grupo",
+      "count": 149
+    },
+    {
+      "word": "prou",
+      "count": 149
+    },
+    {
+      "word": "puet",
+      "count": 149
+    },
+    {
+      "word": "día",
+      "count": 149
+    },
+    {
+      "word": "baixos",
+      "count": 149
+    },
+    {
+      "word": "viena",
+      "count": 149
+    },
+    {
+      "word": "condau",
+      "count": 149
+    },
+    {
+      "word": "cual",
+      "count": 148
+    },
+    {
+      "word": "puestos",
+      "count": 148
+    },
+    {
+      "word": "man",
+      "count": 148
+    },
+    {
+      "word": "civil",
+      "count": 147
+    },
+    {
+      "word": "continent",
+      "count": 147
+    },
+    {
+      "word": "ucraína",
+      "count": 146
+    },
+    {
+      "word": "historiador",
+      "count": 146
+    },
+    {
+      "word": "monedas",
+      "count": 146
+    },
+    {
+      "word": "an",
+      "count": 145
+    },
+    {
+      "word": "eixemplo",
+      "count": 145
+    },
+    {
+      "word": "casa",
+      "count": 144
+    },
+    {
+      "word": "von",
+      "count": 144
+    },
+    {
+      "word": "internacional",
+      "count": 143
+    },
+    {
+      "word": "valencia",
+      "count": 143
+    },
+    {
+      "word": "este",
+      "count": 143
+    },
+    {
+      "word": "antiga",
+      "count": 143
+    },
+    {
+      "word": "berlín",
+      "count": 143
+    },
+    {
+      "word": "segundo",
+      "count": 142
+    },
+    {
+      "word": "basco",
+      "count": 141
+    },
+    {
+      "word": "d'abril",
+      "count": 140
+    },
+    {
+      "word": "pueblos",
+      "count": 140
+    },
+    {
+      "word": "istas",
+      "count": 139
+    },
+    {
+      "word": "palacio",
+      "count": 139
+    },
+    {
+      "word": "situata",
+      "count": 139
+    },
+    {
+      "word": "dreito",
+      "count": 138
+    },
+    {
+      "word": "situación",
+      "count": 137
+    },
+    {
+      "word": "cadiera",
+      "count": 136
+    },
+    {
+      "word": "demografía",
+      "count": 136
+    },
+    {
+      "word": "cuenca",
+      "count": 136
+    },
+    {
+      "word": "part",
+      "count": 135
+    },
+    {
+      "word": "consello",
+      "count": 135
+    },
+    {
+      "word": "the",
+      "count": 135
+    },
+    {
+      "word": "polaco",
+      "count": 135
+    },
+    {
+      "word": "vida",
+      "count": 135
+    },
+    {
+      "word": "manuel",
+      "count": 135
+    },
+    {
+      "word": "cuatre",
+      "count": 134
+    },
+    {
+      "word": "sociedat",
+      "count": 134
+    },
+    {
+      "word": "relichión",
+      "count": 134
+    },
+    {
+      "word": "municipios",
+      "count": 133
+    },
+    {
+      "word": "antigo",
+      "count": 133
+    },
+    {
+      "word": "estioron",
+      "count": 133
+    },
+    {
+      "word": "grecia",
+      "count": 133
+    },
+    {
+      "word": "sieglos",
+      "count": 133
+    },
+    {
+      "word": "millor",
+      "count": 132
+    },
+    {
+      "word": "tierras",
+      "count": 132
+    },
+    {
+      "word": "tiempo",
+      "count": 132
+    },
+    {
+      "word": "constitución",
+      "count": 131
+    },
+    {
+      "word": "corz",
+      "count": 130
+    },
+    {
+      "word": "chapón",
+      "count": 130
+    },
+    {
+      "word": "grupos",
+      "count": 129
+    },
+    {
+      "word": "pireneus",
+      "count": 129
+    },
+    {
+      "word": "xv",
+      "count": 129
+    },
+    {
+      "word": "puya",
+      "count": 129
+    },
+    {
+      "word": "reich",
+      "count": 129
+    },
+    {
+      "word": "amán",
+      "count": 129
+    },
+    {
+      "word": "cinco",
+      "count": 129
+    },
+    {
+      "word": "duque",
+      "count": 129
+    },
+    {
+      "word": "golfo",
+      "count": 129
+    },
+    {
+      "word": "primeras",
+      "count": 128
+    },
+    {
+      "word": "prusia",
+      "count": 128
+    },
+    {
+      "word": "diz",
+      "count": 128
+    },
+    {
+      "word": "d'africa",
+      "count": 127
+    },
+    {
+      "word": "musica",
+      "count": 127
+    },
+    {
+      "word": "medieval",
+      "count": 126
+    },
+    {
+      "word": "galligo",
+      "count": 126
+    },
+    {
+      "word": "bel",
+      "count": 126
+    },
+    {
+      "word": "miembros",
+      "count": 125
+    },
+    {
+      "word": "teneba",
+      "count": 125
+    },
+    {
+      "word": "plana",
+      "count": 125
+    },
+    {
+      "word": "neerlandés",
+      "count": 125
+    },
+    {
+      "word": "tanto",
+      "count": 124
+    },
+    {
+      "word": "ixas",
+      "count": 124
+    },
+    {
+      "word": "bizantín",
+      "count": 124
+    },
+    {
+      "word": "ducau",
+      "count": 124
+    },
+    {
+      "word": "presencia",
+      "count": 123
+    },
+    {
+      "word": "ixe",
+      "count": 123
+    },
+    {
+      "word": "social",
+      "count": 123
+    },
+    {
+      "word": "valenciano",
+      "count": 122
+    },
+    {
+      "word": "anyo",
+      "count": 122
+    },
+    {
+      "word": "octubre",
+      "count": 122
+    },
+    {
+      "word": "veyer",
+      "count": 122
+    },
+    {
+      "word": "l'antiga",
+      "count": 122
+    },
+    {
+      "word": "chermanico",
+      "count": 122
+    },
+    {
+      "word": "moscú",
+      "count": 122
+    },
+    {
+      "word": "cultural",
+      "count": 121
+    },
+    {
+      "word": "antiparte",
+      "count": 121
+    },
+    {
+      "word": "club",
+      "count": 121
+    },
+    {
+      "word": "división",
+      "count": 121
+    },
+    {
+      "word": "punto",
+      "count": 120
+    },
+    {
+      "word": "cuantos",
+      "count": 120
+    },
+    {
+      "word": "congo",
+      "count": 120
+    },
+    {
+      "word": "eleccions",
+      "count": 120
+    },
+    {
+      "word": "canadiense",
+      "count": 120
+    },
+    {
+      "word": "pacifico",
+      "count": 120
+    },
+    {
+      "word": "griego",
+      "count": 119
+    },
+    {
+      "word": "istos",
+      "count": 119
+    },
+    {
+      "word": "control",
+      "count": 119
+    },
+    {
+      "word": "bavera",
+      "count": 119
+    },
+    {
+      "word": "archentino",
+      "count": 119
+    },
+    {
+      "word": "formas",
+      "count": 118
+    },
+    {
+      "word": "victoria",
+      "count": 118
+    },
+    {
+      "word": "d'ista",
+      "count": 118
+    },
+    {
+      "word": "canadá",
+      "count": 117
+    },
+    {
+      "word": "fendo",
+      "count": 117
+    },
+    {
+      "word": "metat",
+      "count": 117
+    },
+    {
+      "word": "tener",
+      "count": 117
+    },
+    {
+      "word": "arias",
+      "count": 117
+    },
+    {
+      "word": "mont",
+      "count": 117
+    },
+    {
+      "word": "sudeste",
+      "count": 117
+    },
+    {
+      "word": "cal",
+      "count": 116
+    },
+    {
+      "word": "abril",
+      "count": 116
+    },
+    {
+      "word": "nord-este",
+      "count": 116
+    },
+    {
+      "word": "familia",
+      "count": 115
+    },
+    {
+      "word": "reina",
+      "count": 115
+    },
+    {
+      "word": "fin",
+      "count": 114
+    },
+    {
+      "word": "ixo",
+      "count": 114
+    },
+    {
+      "word": "epoca",
+      "count": 114
+    },
+    {
+      "word": "toponimo",
+      "count": 114
+    },
+    {
+      "word": "significa",
+      "count": 114
+    },
+    {
+      "word": "xiii",
+      "count": 114
+    },
+    {
+      "word": "cine",
+      "count": 114
+    },
+    {
+      "word": "redolada",
+      "count": 114
+    },
+    {
+      "word": "municipal",
+      "count": 114
+    },
+    {
+      "word": "agosto",
+      "count": 113
+    },
+    {
+      "word": "tiempos",
+      "count": 113
+    },
+    {
+      "word": "toponimia",
+      "count": 113
+    },
+    {
+      "word": "palabra",
+      "count": 112
+    },
+    {
+      "word": "aires",
+      "count": 112
+    },
+    {
+      "word": "corona",
+      "count": 111
+    },
+    {
+      "word": "d'entre",
+      "count": 111
+    },
+    {
+      "word": "federal",
+      "count": 111
+    },
+    {
+      "word": "vietnam",
+      "count": 111
+    },
+    {
+      "word": "felipe",
+      "count": 111
+    },
+    {
+      "word": "museu",
+      "count": 111
+    },
+    {
+      "word": "molimentos",
+      "count": 111
+    },
+    {
+      "word": "guerras",
+      "count": 110
+    },
+    {
+      "word": "arabe",
+      "count": 110
+    },
+    {
+      "word": "sudueste",
+      "count": 110
+    },
+    {
+      "word": "natural",
+      "count": 109
+    },
+    {
+      "word": "martín",
+      "count": 109
+    },
+    {
+      "word": "belchica",
+      "count": 109
+    },
+    {
+      "word": "corea",
+      "count": 109
+    },
+    {
+      "word": "sacro",
+      "count": 109
+    },
+    {
+      "word": "comarcas",
+      "count": 108
+    },
+    {
+      "word": "xii",
+      "count": 108
+    },
+    {
+      "word": "teoría",
+      "count": 108
+    },
+    {
+      "word": "charles",
+      "count": 108
+    },
+    {
+      "word": "luis",
+      "count": 108
+    },
+    {
+      "word": "atlantico",
+      "count": 108
+    },
+    {
+      "word": "cantón",
+      "count": 108
+    },
+    {
+      "word": "zaguers",
+      "count": 107
+    },
+    {
+      "word": "puerto",
+      "count": 107
+    },
+    {
+      "word": "proceso",
+      "count": 107
+    },
+    {
+      "word": "aviento",
+      "count": 107
+    },
+    {
+      "word": "economica",
+      "count": 107
+    },
+    {
+      "word": "otomán",
+      "count": 107
+    },
+    {
+      "word": "cabo",
+      "count": 106
+    },
+    {
+      "word": "modelo",
+      "count": 106
+    },
+    {
+      "word": "d'asia",
+      "count": 106
+    },
+    {
+      "word": "brasil",
+      "count": 106
+    },
+    {
+      "word": "especies",
+      "count": 106
+    },
+    {
+      "word": "color",
+      "count": 106
+    },
+    {
+      "word": "sobén",
+      "count": 106
+    },
+    {
+      "word": "d'altaria",
+      "count": 106
+    },
+    {
+      "word": "medico",
+      "count": 106
+    },
+    {
+      "word": "conchunto",
+      "count": 105
+    },
+    {
+      "word": "finlandia",
+      "count": 105
+    },
+    {
+      "word": "cinca",
+      "count": 105
+    },
+    {
+      "word": "polacos",
+      "count": 105
+    },
+    {
+      "word": "chorche",
+      "count": 105
+    },
+    {
+      "word": "cualques",
+      "count": 104
+    },
+    {
+      "word": "conoixito",
+      "count": 104
+    },
+    {
+      "word": "alavez",
+      "count": 104
+    },
+    {
+      "word": "occitania",
+      "count": 104
+    },
+    {
+      "word": "sicilia",
+      "count": 104
+    },
+    {
+      "word": "massachusetts",
+      "count": 104
+    },
+    {
+      "word": "van",
+      "count": 103
+    },
+    {
+      "word": "chaime",
+      "count": 103
+    },
+    {
+      "word": "asia",
+      "count": 103
+    },
+    {
+      "word": "desembolique",
+      "count": 103
+    },
+    {
+      "word": "producción",
+      "count": 103
+    },
+    {
+      "word": "comercio",
+      "count": 103
+    },
+    {
+      "word": "l'alto",
+      "count": 102
+    },
+    {
+      "word": "le",
+      "count": 102
+    },
+    {
+      "word": "districtos",
+      "count": 102
+    },
+    {
+      "word": "libro",
+      "count": 101
+    },
+    {
+      "word": "d'america",
+      "count": 101
+    },
+    {
+      "word": "musulmans",
+      "count": 101
+    },
+    {
+      "word": "austrohongaro",
+      "count": 101
+    },
+    {
+      "word": "articlo",
+      "count": 101
+    },
+    {
+      "word": "democratica",
+      "count": 101
+    },
+    {
+      "word": "turquía",
+      "count": 101
+    },
+    {
+      "word": "s'han",
+      "count": 101
+    },
+    {
+      "word": "administración",
+      "count": 101
+    },
+    {
+      "word": "unidas",
+      "count": 101
+    },
+    {
+      "word": "italiana",
+      "count": 101
+    },
+    {
+      "word": "loís",
+      "count": 101
+    },
+    {
+      "word": "montanyas",
+      "count": 100
+    },
+    {
+      "word": "estudio",
+      "count": 100
+    },
+    {
+      "word": "días",
+      "count": 100
+    },
+    {
+      "word": "alifonso",
+      "count": 100
+    },
+    {
+      "word": "regular",
+      "count": 100
+    },
+    {
+      "word": "d'alemanya",
+      "count": 100
+    },
+    {
+      "word": "alemana",
+      "count": 100
+    },
+    {
+      "word": "of",
+      "count": 100
+    },
+    {
+      "word": "atra",
+      "count": 100
+    },
+    {
+      "word": "obra",
+      "count": 100
+    },
+    {
+      "word": "livel",
+      "count": 100
+    },
+    {
+      "word": "xiv",
+      "count": 100
+    },
+    {
+      "word": "mesma",
+      "count": 99
+    },
+    {
+      "word": "ciclista",
+      "count": 99
+    },
+    {
+      "word": "lei",
+      "count": 98
+    },
+    {
+      "word": "caso",
+      "count": 98
+    },
+    {
+      "word": "robert",
+      "count": 98
+    },
+    {
+      "word": "antis",
+      "count": 98
+    },
+    {
+      "word": "einstein",
+      "count": 98
+    },
+    {
+      "word": "buenos",
+      "count": 98
+    },
+    {
+      "word": "paul",
+      "count": 98
+    },
+    {
+      "word": "revolución",
+      "count": 98
+    },
+    {
+      "word": "barrio",
+      "count": 98
+    },
+    {
+      "word": "da",
+      "count": 97
+    },
+    {
+      "word": "cuals",
+      "count": 97
+    },
+    {
+      "word": "tercera",
+      "count": 97
+    },
+    {
+      "word": "heban",
+      "count": 97
+    },
+    {
+      "word": "zaguer",
+      "count": 97
+    },
+    {
+      "word": "temperatura",
+      "count": 97
+    },
+    {
+      "word": "localidaz",
+      "count": 97
+    },
+    {
+      "word": "cocina",
+      "count": 97
+    },
+    {
+      "word": "bohemia",
+      "count": 97
+    },
+    {
+      "word": "actual",
+      "count": 96
+    },
+    {
+      "word": "tiene",
+      "count": 96
+    },
+    {
+      "word": "hongría",
+      "count": 96
+    },
+    {
+      "word": "lituania",
+      "count": 96
+    },
+    {
+      "word": "parla",
+      "count": 96
+    },
+    {
+      "word": "creiximiento",
+      "count": 96
+    },
+    {
+      "word": "altos",
+      "count": 96
+    },
+    {
+      "word": "sena",
+      "count": 96
+    },
+    {
+      "word": "style",
+      "count": 96
+    },
+    {
+      "word": "prencipalment",
+      "count": 95
+    },
+    {
+      "word": "aria",
+      "count": 95
+    },
+    {
+      "word": "conte",
+      "count": 95
+    },
+    {
+      "word": "universidat",
+      "count": 95
+    },
+    {
+      "word": "cheorchia",
+      "count": 95
+    },
+    {
+      "word": "resta",
+      "count": 95
+    },
+    {
+      "word": "temperaturas",
+      "count": 95
+    },
+    {
+      "word": "debito",
+      "count": 95
+    },
+    {
+      "word": "escultor",
+      "count": 95
+    },
+    {
+      "word": "er",
+      "count": 95
+    },
+    {
+      "word": "ciencia",
+      "count": 94
+    },
+    {
+      "word": "muerte",
+      "count": 94
+    },
+    {
+      "word": "libre",
+      "count": 94
+    },
+    {
+      "word": "d'habitants",
+      "count": 94
+    },
+    {
+      "word": "conoixita",
+      "count": 93
+    },
+    {
+      "word": "prencipia",
+      "count": 93
+    },
+    {
+      "word": "noruega",
+      "count": 93
+    },
+    {
+      "word": "reis",
+      "count": 93
+    },
+    {
+      "word": "palabras",
+      "count": 93
+    },
+    {
+      "word": "xi",
+      "count": 93
+    },
+    {
+      "word": "laco",
+      "count": 93
+    },
+    {
+      "word": "noruego",
+      "count": 93
+    },
+    {
+      "word": "naturals",
+      "count": 92
+    },
+    {
+      "word": "uno",
+      "count": 92
+    },
+    {
+      "word": "remata",
+      "count": 92
+    },
+    {
+      "word": "james",
+      "count": 92
+    },
+    {
+      "word": "l'antigo",
+      "count": 92
+    },
+    {
+      "word": "sudafrica",
+      "count": 92
+    },
+    {
+      "word": "pueblo",
+      "count": 91
+    },
+    {
+      "word": "verano",
+      "count": 91
+    },
+    {
+      "word": "campión",
+      "count": 91
+    },
+    {
+      "word": "fillo",
+      "count": 90
+    },
+    {
+      "word": "rechimen",
+      "count": 90
+    },
+    {
+      "word": "real",
+      "count": 90
+    },
+    {
+      "word": "redota",
+      "count": 90
+    },
+    {
+      "word": "dominio",
+      "count": 90
+    },
+    {
+      "word": "humana",
+      "count": 90
+    },
+    {
+      "word": "meridional",
+      "count": 90
+    },
+    {
+      "word": "formato",
+      "count": 89
+    },
+    {
+      "word": "orichen",
+      "count": 89
+    },
+    {
+      "word": "cuantas",
+      "count": 89
+    },
+    {
+      "word": "l'arquitecto",
+      "count": 89
+    },
+    {
+      "word": "quimico",
+      "count": 89
+    },
+    {
+      "word": "fuent",
+      "count": 89
+    },
+    {
+      "word": "parlamento",
+      "count": 89
+    },
+    {
+      "word": "mexicano",
+      "count": 89
+    },
+    {
+      "word": "l'escritor",
+      "count": 89
+    },
+    {
+      "word": "situada",
+      "count": 89
+    },
+    {
+      "word": "lingüistica",
+      "count": 88
+    },
+    {
+      "word": "unas",
+      "count": 88
+    },
+    {
+      "word": "eno",
+      "count": 88
+    },
+    {
+      "word": "plaza",
+      "count": 88
+    },
+    {
+      "word": "bulgaria",
+      "count": 88
+    },
+    {
+      "word": "liga",
+      "count": 88
+    },
+    {
+      "word": "monarquía",
+      "count": 88
+    },
+    {
+      "word": "incheniería",
+      "count": 88
+    },
+    {
+      "word": "illinois",
+      "count": 88
+    },
+    {
+      "word": "reparto",
+      "count": 88
+    },
+    {
+      "word": "distancia",
+      "count": 87
+    },
+    {
+      "word": "l'aria",
+      "count": 87
+    },
+    {
+      "word": "ciencias",
+      "count": 87
+    },
+    {
+      "word": "alemans",
+      "count": 87
+    },
+    {
+      "word": "uns",
+      "count": 87
+    },
+    {
+      "word": "europeus",
+      "count": 87
+    },
+    {
+      "word": "esleito",
+      "count": 87
+    },
+    {
+      "word": "departamento",
+      "count": 87
+    },
+    {
+      "word": "toscana",
+      "count": 87
+    },
+    {
+      "word": "als",
+      "count": 87
+    },
+    {
+      "word": "común",
+      "count": 86
+    },
+    {
+      "word": "importancia",
+      "count": 86
+    },
+    {
+      "word": "movimiento",
+      "count": 86
+    },
+    {
+      "word": "fotografía",
+      "count": 86
+    },
+    {
+      "word": "l'actualidat",
+      "count": 86
+    },
+    {
+      "word": "luita",
+      "count": 86
+    },
+    {
+      "word": "l'agricultura",
+      "count": 86
+    },
+    {
+      "word": "calatayú",
+      "count": 86
+    },
+    {
+      "word": "local",
+      "count": 85
+    },
+    {
+      "word": "garra",
+      "count": 85
+    },
+    {
+      "word": "america",
+      "count": 85
+    },
+    {
+      "word": "d'hibierno",
+      "count": 85
+    },
+    {
+      "word": "vi",
+      "count": 85
+    },
+    {
+      "word": "bretanya",
+      "count": 85
+    },
+    {
+      "word": "saxonia",
+      "count": 85
+    },
+    {
+      "word": "gosa",
+      "count": 84
+    },
+    {
+      "word": "estudios",
+      "count": 84
+    },
+    {
+      "word": "vii",
+      "count": 84
+    },
+    {
+      "word": "vegata",
+      "count": 84
+    },
+    {
+      "word": "canto",
+      "count": 84
+    },
+    {
+      "word": "barcelonés",
+      "count": 84
+    },
+    {
+      "word": "parque",
+      "count": 84
+    },
+    {
+      "word": "ixa",
+      "count": 83
+    },
+    {
+      "word": "destacar",
+      "count": 83
+    },
+    {
+      "word": "ix",
+      "count": 83
+    },
+    {
+      "word": "tenió",
+      "count": 83
+    },
+    {
+      "word": "paz",
+      "count": 83
+    },
+    {
+      "word": "australia",
+      "count": 83
+    },
+    {
+      "word": "d'oro",
+      "count": 83
+    },
+    {
+      "word": "feba",
+      "count": 83
+    },
+    {
+      "word": "habió",
+      "count": 83
+    },
+    {
+      "word": "menor",
+      "count": 83
+    },
+    {
+      "word": "obras",
+      "count": 83
+    },
+    {
+      "word": "alcaldes",
+      "count": 83
+    },
+    {
+      "word": "chicota",
+      "count": 82
+    },
+    {
+      "word": "idioma",
+      "count": 82
+    },
+    {
+      "word": "ribagorza",
+      "count": 82
+    },
+    {
+      "word": "chenerals",
+      "count": 82
+    },
+    {
+      "word": "envueltas",
+      "count": 82
+    },
+    {
+      "word": "ferrando",
+      "count": 82
+    },
+    {
+      "word": "zelanda",
+      "count": 82
+    },
+    {
+      "word": "linia",
+      "count": 82
+    },
+    {
+      "word": "continental",
+      "count": 82
+    },
+    {
+      "word": "militars",
+      "count": 82
+    },
+    {
+      "word": "patrimonio",
+      "count": 82
+    },
+    {
+      "word": "copa",
+      "count": 82
+    },
+    {
+      "word": "costas",
+      "count": 81
+    },
+    {
+      "word": "denominación",
+      "count": 81
+    },
+    {
+      "word": "balbastro",
+      "count": 81
+    },
+    {
+      "word": "expansión",
+      "count": 81
+    },
+    {
+      "word": "porque",
+      "count": 81
+    },
+    {
+      "word": "prencipió",
+      "count": 81
+    },
+    {
+      "word": "rematar",
+      "count": 81
+    },
+    {
+      "word": "colombia",
+      "count": 81
+    },
+    {
+      "word": "echipto",
+      "count": 81
+    },
+    {
+      "word": "irlanda",
+      "count": 81
+    },
+    {
+      "word": "fuoron",
+      "count": 81
+    },
+    {
+      "word": "teneban",
+      "count": 81
+    },
+    {
+      "word": "jean",
+      "count": 81
+    },
+    {
+      "word": "leyón",
+      "count": 81
+    },
+    {
+      "word": "d'intrés",
+      "count": 80
+    },
+    {
+      "word": "viii",
+      "count": 80
+    },
+    {
+      "word": "sector",
+      "count": 80
+    },
+    {
+      "word": "bella",
+      "count": 80
+    },
+    {
+      "word": "escocés",
+      "count": 80
+    },
+    {
+      "word": "louis",
+      "count": 80
+    },
+    {
+      "word": "marco",
+      "count": 80
+    },
+    {
+      "word": "guinea",
+      "count": 80
+    },
+    {
+      "word": "santiago",
+      "count": 80
+    },
+    {
+      "word": "diez",
+      "count": 80
+    },
+    {
+      "word": "oficialment",
+      "count": 80
+    },
+    {
+      "word": "norueste",
+      "count": 80
+    },
+    {
+      "word": "andalucía",
+      "count": 80
+    },
+    {
+      "word": "esportivas",
+      "count": 80
+    },
+    {
+      "word": "localidat",
+      "count": 80
+    },
+    {
+      "word": "florencia",
+      "count": 80
+    },
+    {
+      "word": "actriz",
+      "count": 80
+    },
+    {
+      "word": "chaca",
+      "count": 79
+    },
+    {
+      "word": "biescas",
+      "count": 79
+    },
+    {
+      "word": "considera",
+      "count": 79
+    },
+    {
+      "word": "debant",
+      "count": 79
+    },
+    {
+      "word": "poco",
+      "count": 79
+    },
+    {
+      "word": "vals",
+      "count": 79
+    },
+    {
+      "word": "creyación",
+      "count": 79
+    },
+    {
+      "word": "lacos",
+      "count": 79
+    },
+    {
+      "word": "virchen",
+      "count": 79
+    },
+    {
+      "word": "dinastía",
+      "count": 78
+    },
+    {
+      "word": "feban",
+      "count": 78
+    },
+    {
+      "word": "traza",
+      "count": 78
+    },
+    {
+      "word": "totas",
+      "count": 78
+    },
+    {
+      "word": "texas",
+      "count": 78
+    },
+    {
+      "word": "occitán",
+      "count": 78
+    },
+    {
+      "word": "divide",
+      "count": 78
+    },
+    {
+      "word": "esdevenió",
+      "count": 78
+    },
+    {
+      "word": "europeu",
+      "count": 78
+    },
+    {
+      "word": "turismo",
+      "count": 78
+    },
+    {
+      "word": "largo",
+      "count": 77
+    },
+    {
+      "word": "variedat",
+      "count": 77
+    },
+    {
+      "word": "toda",
+      "count": 77
+    },
+    {
+      "word": "iberica",
+      "count": 77
+    },
+    {
+      "word": "humanidat",
+      "count": 77
+    },
+    {
+      "word": "nápols",
+      "count": 77
+    },
+    {
+      "word": "destacan",
+      "count": 77
+    },
+    {
+      "word": "conquiesta",
+      "count": 77
+    },
+    {
+      "word": "d'estato",
+      "count": 77
+    },
+    {
+      "word": "concellers",
+      "count": 77
+    },
+    {
+      "word": "washington",
+      "count": 77
+    },
+    {
+      "word": "bispe",
+      "count": 76
+    },
+    {
+      "word": "esta",
+      "count": 76
+    },
+    {
+      "word": "congreso",
+      "count": 76
+    },
+    {
+      "word": "salvador",
+      "count": 76
+    },
+    {
+      "word": "africa",
+      "count": 76
+    },
+    {
+      "word": "autonoma",
+      "count": 76
+    },
+    {
+      "word": "territorial",
+      "count": 76
+    },
+    {
+      "word": "jazz",
+      "count": 76
+    },
+    {
+      "word": "fernández",
+      "count": 76
+    },
+    {
+      "word": "influencia",
+      "count": 75
+    },
+    {
+      "word": "trobar",
+      "count": 75
+    },
+    {
+      "word": "d'antis",
+      "count": 75
+    },
+    {
+      "word": "planas",
+      "count": 75
+    },
+    {
+      "word": "causa",
+      "count": 75
+    },
+    {
+      "word": "chile",
+      "count": 75
+    },
+    {
+      "word": "orden",
+      "count": 75
+    },
+    {
+      "word": "plegoron",
+      "count": 75
+    },
+    {
+      "word": "torre",
+      "count": 75
+    },
+    {
+      "word": "franceses",
+      "count": 75
+    },
+    {
+      "word": "antigos",
+      "count": 74
+    },
+    {
+      "word": "luz",
+      "count": 74
+    },
+    {
+      "word": "sobretot",
+      "count": 74
+    },
+    {
+      "word": "d'ebro",
+      "count": 74
+    },
+    {
+      "word": "franco",
+      "count": 74
+    },
+    {
+      "word": "archentina",
+      "count": 74
+    },
+    {
+      "word": "israel",
+      "count": 74
+    },
+    {
+      "word": "rumanía",
+      "count": 74
+    },
+    {
+      "word": "catalana",
+      "count": 74
+    },
+    {
+      "word": "william",
+      "count": 74
+    },
+    {
+      "word": "selvas",
+      "count": 74
+    },
+    {
+      "word": "decada",
+      "count": 74
+    },
+    {
+      "word": "civilización",
+      "count": 74
+    },
+    {
+      "word": "fabla",
+      "count": 73
+    },
+    {
+      "word": "solo",
+      "count": 73
+    },
+    {
+      "word": "catolica",
+      "count": 73
+    },
+    {
+      "word": "d'estar",
+      "count": 73
+    },
+    {
+      "word": "populars",
+      "count": 73
+    },
+    {
+      "word": "industria",
+      "count": 73
+    },
+    {
+      "word": "ran",
+      "count": 73
+    },
+    {
+      "word": "vegada",
+      "count": 73
+    },
+    {
+      "word": "david",
+      "count": 73
+    },
+    {
+      "word": "boltanya",
+      "count": 72
+    },
+    {
+      "word": "aliatos",
+      "count": 72
+    },
+    {
+      "word": "chaponés",
+      "count": 72
+    },
+    {
+      "word": "cuba",
+      "count": 72
+    },
+    {
+      "word": "suizo",
+      "count": 72
+    },
+    {
+      "word": "chicot",
+      "count": 72
+    },
+    {
+      "word": "chicotas",
+      "count": 72
+    },
+    {
+      "word": "portugués",
+      "count": 72
+    },
+    {
+      "word": "altaria",
+      "count": 72
+    },
+    {
+      "word": "negra",
+      "count": 72
+    },
+    {
+      "word": "censo",
+      "count": 71
+    },
+    {
+      "word": "altas",
+      "count": 71
+    },
+    {
+      "word": "d'iste",
+      "count": 71
+    },
+    {
+      "word": "romana",
+      "count": 71
+    },
+    {
+      "word": "se'n",
+      "count": 71
+    },
+    {
+      "word": "arabes",
+      "count": 71
+    },
+    {
+      "word": "checa",
+      "count": 71
+    },
+    {
+      "word": "principal",
+      "count": 71
+    },
+    {
+      "word": "prene",
+      "count": 71
+    },
+    {
+      "word": "reinos",
+      "count": 71
+    },
+    {
+      "word": "royo",
+      "count": 71
+    },
+    {
+      "word": "naturalista",
+      "count": 71
+    },
+    {
+      "word": "piloto",
+      "count": 71
+    },
+    {
+      "word": "l'idioma",
+      "count": 70
+    },
+    {
+      "word": "monzón",
+      "count": 70
+    },
+    {
+      "word": "era",
+      "count": 70
+    },
+    {
+      "word": "cristianos",
+      "count": 70
+    },
+    {
+      "word": "treballo",
+      "count": 70
+    },
+    {
+      "word": "pennsilvania",
+      "count": 70
+    },
+    {
+      "word": "marino",
+      "count": 70
+    },
+    {
+      "word": "vegadas",
+      "count": 70
+    },
+    {
+      "word": "arte",
+      "count": 70
+    },
+    {
+      "word": "facioron",
+      "count": 70
+    },
+    {
+      "word": "pedro",
+      "count": 70
+    },
+    {
+      "word": "ribera",
+      "count": 70
+    },
+    {
+      "word": "tenis",
+      "count": 70
+    },
+    {
+      "word": "botanico",
+      "count": 70
+    },
+    {
+      "word": "normandía",
+      "count": 70
+    },
+    {
+      "word": "diplomatico",
+      "count": 70
+    },
+    {
+      "word": "caracteristicas",
+      "count": 69
+    },
+    {
+      "word": "lingüista",
+      "count": 69
+    },
+    {
+      "word": "beluns",
+      "count": 69
+    },
+    {
+      "word": "plegó",
+      "count": 69
+    },
+    {
+      "word": "canal",
+      "count": 69
+    },
+    {
+      "word": "frent",
+      "count": 69
+    },
+    {
+      "word": "textos",
+      "count": 69
+    },
+    {
+      "word": "oficials",
+      "count": 69
+    },
+    {
+      "word": "base",
+      "count": 69
+    },
+    {
+      "word": "dios",
+      "count": 69
+    },
+    {
+      "word": "antigas",
+      "count": 69
+    },
+    {
+      "word": "milán",
+      "count": 69
+    },
+    {
+      "word": "panamá",
+      "count": 69
+    },
+    {
+      "word": "tota",
+      "count": 69
+    },
+    {
+      "word": "alpes",
+      "count": 69
+    },
+    {
+      "word": "ueste",
+      "count": 69
+    },
+    {
+      "word": "rusa",
+      "count": 69
+    },
+    {
+      "word": "belga",
+      "count": 69
+    },
+    {
+      "word": "santo",
+      "count": 69
+    },
+    {
+      "word": "es",
+      "count": 68
+    },
+    {
+      "word": "ormino",
+      "count": 68
+    },
+    {
+      "word": "tradición",
+      "count": 68
+    },
+    {
+      "word": "va",
+      "count": 68
+    },
+    {
+      "word": "remató",
+      "count": 68
+    },
+    {
+      "word": "muita",
+      "count": 68
+    },
+    {
+      "word": "cinematografica",
+      "count": 68
+    },
+    {
+      "word": "partir",
+      "count": 68
+    },
+    {
+      "word": "articlos",
+      "count": 68
+    },
+    {
+      "word": "condicions",
+      "count": 68
+    },
+    {
+      "word": "nicheria",
+      "count": 68
+    },
+    {
+      "word": "venecia",
+      "count": 68
+    },
+    {
+      "word": "l'arte",
+      "count": 68
+    },
+    {
+      "word": "mans",
+      "count": 68
+    },
+    {
+      "word": "utc",
+      "count": 68
+    },
+    {
+      "word": "hongaro",
+      "count": 68
+    },
+    {
+      "word": "sevilla",
+      "count": 68
+    },
+    {
+      "word": "background",
+      "count": 68
+    },
+    {
+      "word": "propia",
+      "count": 67
+    },
+    {
+      "word": "pas",
+      "count": 67
+    },
+    {
+      "word": "actuals",
+      "count": 67
+    },
+    {
+      "word": "garcía",
+      "count": 67
+    },
+    {
+      "word": "ditos",
+      "count": 67
+    },
+    {
+      "word": "partis",
+      "count": 67
+    },
+    {
+      "word": "belarrusia",
+      "count": 67
+    },
+    {
+      "word": "tailandia",
+      "count": 67
+    },
+    {
+      "word": "plega",
+      "count": 67
+    },
+    {
+      "word": "fernando",
+      "count": 67
+    },
+    {
+      "word": "fuents",
+      "count": 67
+    },
+    {
+      "word": "gastronomía",
+      "count": 67
+    },
+    {
+      "word": "relacions",
+      "count": 67
+    },
+    {
+      "word": "recursos",
+      "count": 67
+    },
+    {
+      "word": "politicament",
+      "count": 67
+    },
+    {
+      "word": "golpe",
+      "count": 67
+    },
+    {
+      "word": "platos",
+      "count": 67
+    },
+    {
+      "word": "cristianismo",
+      "count": 67
+    },
+    {
+      "word": "metropolitana",
+      "count": 67
+    },
+    {
+      "word": "l'emperador",
+      "count": 67
+    },
+    {
+      "word": "forman",
+      "count": 66
+    },
+    {
+      "word": "danés",
+      "count": 66
+    },
+    {
+      "word": "d'atros",
+      "count": 66
+    },
+    {
+      "word": "aragoneses",
+      "count": 66
+    },
+    {
+      "word": "posición",
+      "count": 66
+    },
+    {
+      "word": "evolución",
+      "count": 66
+    },
+    {
+      "word": "cosa",
+      "count": 66
+    },
+    {
+      "word": "ni",
+      "count": 66
+    },
+    {
+      "word": "tipo",
+      "count": 66
+    },
+    {
+      "word": "serie",
+      "count": 66
+    },
+    {
+      "word": "filologo",
+      "count": 66
+    },
+    {
+      "word": "barroco",
+      "count": 66
+    },
+    {
+      "word": "poblacions",
+      "count": 66
+    },
+    {
+      "word": "categoría",
+      "count": 66
+    },
+    {
+      "word": "sierras",
+      "count": 66
+    },
+    {
+      "word": "hills",
+      "count": 66
+    },
+    {
+      "word": "sueco",
+      "count": 66
+    },
+    {
+      "word": "tena",
+      "count": 65
+    },
+    {
+      "word": "t'a",
+      "count": 65
+    },
+    {
+      "word": "vaticano",
+      "count": 65
+    },
+    {
+      "word": "contina",
+      "count": 65
+    },
+    {
+      "word": "atro",
+      "count": 65
+    },
+    {
+      "word": "zaguerías",
+      "count": 65
+    },
+    {
+      "word": "plegar",
+      "count": 65
+    },
+    {
+      "word": "economico",
+      "count": 65
+    },
+    {
+      "word": "comunista",
+      "count": 65
+    },
+    {
+      "word": "mm",
+      "count": 65
+    },
+    {
+      "word": "formata",
+      "count": 65
+    },
+    {
+      "word": "d'austria",
+      "count": 65
+    },
+    {
+      "word": "henrique",
+      "count": 65
+    },
+    {
+      "word": "copenaguen",
+      "count": 65
+    },
+    {
+      "word": "caribe",
+      "count": 64
+    },
+    {
+      "word": "tradicionals",
+      "count": 64
+    },
+    {
+      "word": "incluyen",
+      "count": 64
+    },
+    {
+      "word": "les",
+      "count": 64
+    },
+    {
+      "word": "escocia",
+      "count": 64
+    },
+    {
+      "word": "isbn",
+      "count": 64
+    },
+    {
+      "word": "selva",
+      "count": 64
+    },
+    {
+      "word": "al",
+      "count": 64
+    },
+    {
+      "word": "tradicional",
+      "count": 64
+    },
+    {
+      "word": "pib",
+      "count": 64
+    },
+    {
+      "word": "destaca",
+      "count": 64
+    },
+    {
+      "word": "rusos",
+      "count": 64
+    },
+    {
+      "word": "especial",
+      "count": 63
+    },
+    {
+      "word": "papel",
+      "count": 63
+    },
+    {
+      "word": "buena",
+      "count": 63
+    },
+    {
+      "word": "educación",
+      "count": 63
+    },
+    {
+      "word": "asasinato",
+      "count": 63
+    }
+  ]
+}

@@ -1,0 +1,4012 @@
+{
+  "code": "ace",
+  "name": "Acehnese",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (ace.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 83998,
+  "unique_tokens": 12042,
+  "words": [
+    {
+      "word": "nakeuh",
+      "count": 2861
+    },
+    {
+      "word": "nyang",
+      "count": 2780
+    },
+    {
+      "word": "di",
+      "count": 2411
+    },
+    {
+      "word": "saboh",
+      "count": 1483
+    },
+    {
+      "word": "na",
+      "count": 1454
+    },
+    {
+      "word": "ngon",
+      "count": 1444
+    },
+    {
+      "word": "bak",
+      "count": 1165
+    },
+    {
+      "word": "propinsi",
+      "count": 1045
+    },
+    {
+      "word": "lam",
+      "count": 986
+    },
+    {
+      "word": "nyan",
+      "count": 932
+    },
+    {
+      "word": "keu",
+      "count": 873
+    },
+    {
+      "word": "nang",
+      "count": 737
+    },
+    {
+      "word": "banda",
+      "count": 642
+    },
+    {
+      "word": "nibak",
+      "count": 599
+    },
+    {
+      "word": "acèh",
+      "count": 598
+    },
+    {
+      "word": "bahsa",
+      "count": 550
+    },
+    {
+      "word": "ngön",
+      "count": 519
+    },
+    {
+      "word": "wilayah",
+      "count": 453
+    },
+    {
+      "word": "surat",
+      "count": 452
+    },
+    {
+      "word": "atawa",
+      "count": 445
+    },
+    {
+      "word": "lé",
+      "count": 426
+    },
+    {
+      "word": "ureuëng",
+      "count": 424
+    },
+    {
+      "word": "allah",
+      "count": 424
+    },
+    {
+      "word": "nyoë",
+      "count": 410
+    },
+    {
+      "word": "pulo",
+      "count": 405
+    },
+    {
+      "word": "nanggroë",
+      "count": 402
+    },
+    {
+      "word": "nyoe",
+      "count": 372
+    },
+    {
+      "word": "neugara",
+      "count": 370
+    },
+    {
+      "word": "nanggroe",
+      "count": 370
+    },
+    {
+      "word": "nabi",
+      "count": 346
+    },
+    {
+      "word": "boh",
+      "count": 341
+    },
+    {
+      "word": "hana",
+      "count": 323
+    },
+    {
+      "word": "that",
+      "count": 321
+    },
+    {
+      "word": "thôn",
+      "count": 314
+    },
+    {
+      "word": "nanggroejih",
+      "count": 314
+    },
+    {
+      "word": "ka",
+      "count": 309
+    },
+    {
+      "word": "barat",
+      "count": 304
+    },
+    {
+      "word": "rusia",
+      "count": 304
+    },
+    {
+      "word": "cit",
+      "count": 293
+    },
+    {
+      "word": "timu",
+      "count": 267
+    },
+    {
+      "word": "rumania",
+      "count": 261
+    },
+    {
+      "word": "rayek",
+      "count": 253
+    },
+    {
+      "word": "jih",
+      "count": 240
+    },
+    {
+      "word": "le",
+      "count": 227
+    },
+    {
+      "word": "nan",
+      "count": 211
+    },
+    {
+      "word": "ureueng",
+      "count": 205
+    },
+    {
+      "word": "jeuët",
+      "count": 201
+    },
+    {
+      "word": "seulatan",
+      "count": 189
+    },
+    {
+      "word": "deungon",
+      "count": 185
+    },
+    {
+      "word": "sukèë",
+      "count": 175
+    },
+    {
+      "word": "masa",
+      "count": 172
+    },
+    {
+      "word": "dari",
+      "count": 172
+    },
+    {
+      "word": "utara",
+      "count": 171
+    },
+    {
+      "word": "paléng",
+      "count": 171
+    },
+    {
+      "word": "barôh",
+      "count": 168
+    },
+    {
+      "word": "filipina",
+      "count": 167
+    },
+    {
+      "word": "blah",
+      "count": 166
+    },
+    {
+      "word": "la'én",
+      "count": 165
+    },
+    {
+      "word": "asia",
+      "count": 160
+    },
+    {
+      "word": "islam",
+      "count": 159
+    },
+    {
+      "word": "kawasan",
+      "count": 155
+    },
+    {
+      "word": "muangthai",
+      "count": 155
+    },
+    {
+      "word": "dayah",
+      "count": 152
+    },
+    {
+      "word": "kuwasa",
+      "count": 149
+    },
+    {
+      "word": "ban",
+      "count": 149
+    },
+    {
+      "word": "lom",
+      "count": 148
+    },
+    {
+      "word": "prefektur",
+      "count": 142
+    },
+    {
+      "word": "la'ôt",
+      "count": 141
+    },
+    {
+      "word": "luwa",
+      "count": 138
+    },
+    {
+      "word": "mongolia",
+      "count": 136
+    },
+    {
+      "word": "ta",
+      "count": 135
+    },
+    {
+      "word": "arab",
+      "count": 134
+    },
+    {
+      "word": "ayat",
+      "count": 134
+    },
+    {
+      "word": "meuseujid",
+      "count": 133
+    },
+    {
+      "word": "china",
+      "count": 131
+    },
+    {
+      "word": "viètnam",
+      "count": 130
+    },
+    {
+      "word": "pulo-pulo",
+      "count": 129
+    },
+    {
+      "word": "salah",
+      "count": 128
+    },
+    {
+      "word": "agama",
+      "count": 128
+    },
+    {
+      "word": "yang",
+      "count": 128
+    },
+    {
+      "word": "indônèsia",
+      "count": 126
+    },
+    {
+      "word": "raya",
+      "count": 125
+    },
+    {
+      "word": "droë",
+      "count": 124
+    },
+    {
+      "word": "afrika",
+      "count": 124
+    },
+    {
+      "word": "iërupa",
+      "count": 124
+    },
+    {
+      "word": "keuh",
+      "count": 124
+    },
+    {
+      "word": "tunong",
+      "count": 121
+    },
+    {
+      "word": "dan",
+      "count": 120
+    },
+    {
+      "word": "amirika",
+      "count": 120
+    },
+    {
+      "word": "geu",
+      "count": 120
+    },
+    {
+      "word": "jeuet",
+      "count": 119
+    },
+    {
+      "word": "oblast",
+      "count": 117
+    },
+    {
+      "word": "cina",
+      "count": 116
+    },
+    {
+      "word": "teungoh",
+      "count": 114
+    },
+    {
+      "word": "bansa",
+      "count": 112
+    },
+    {
+      "word": "prang",
+      "count": 111
+    },
+    {
+      "word": "kuala",
+      "count": 111
+    },
+    {
+      "word": "aceh",
+      "count": 110
+    },
+    {
+      "word": "phôn",
+      "count": 110
+    },
+    {
+      "word": "inggréh",
+      "count": 107
+    },
+    {
+      "word": "ië",
+      "count": 106
+    },
+    {
+      "word": "uroë",
+      "count": 106
+    },
+    {
+      "word": "jeut",
+      "count": 102
+    },
+    {
+      "word": "jeupun",
+      "count": 102
+    },
+    {
+      "word": "duëk",
+      "count": 101
+    },
+    {
+      "word": "indonesia",
+      "count": 98
+    },
+    {
+      "word": "da'irah",
+      "count": 97
+    },
+    {
+      "word": "mandum",
+      "count": 95
+    },
+    {
+      "word": "peunawôt",
+      "count": 95
+    },
+    {
+      "word": "nè",
+      "count": 95
+    },
+    {
+      "word": "republik",
+      "count": 95
+    },
+    {
+      "word": "pusat",
+      "count": 95
+    },
+    {
+      "word": "dônya",
+      "count": 94
+    },
+    {
+      "word": "tanoh",
+      "count": 94
+    },
+    {
+      "word": "pih",
+      "count": 94
+    },
+    {
+      "word": "duwa",
+      "count": 94
+    },
+    {
+      "word": "sumatra",
+      "count": 93
+    },
+    {
+      "word": "of",
+      "count": 92
+    },
+    {
+      "word": "leubèh",
+      "count": 91
+    },
+    {
+      "word": "lagèë",
+      "count": 90
+    },
+    {
+      "word": "teumpat",
+      "count": 90
+    },
+    {
+      "word": "dalam",
+      "count": 88
+    },
+    {
+      "word": "india",
+      "count": 88
+    },
+    {
+      "word": "jeupang",
+      "count": 88
+    },
+    {
+      "word": "geukheun",
+      "count": 87
+    },
+    {
+      "word": "al-qur'an",
+      "count": 87
+    },
+    {
+      "word": "malaysia",
+      "count": 86
+    },
+    {
+      "word": "as",
+      "count": 86
+    },
+    {
+      "word": "geupeunan",
+      "count": 84
+    },
+    {
+      "word": "lumpur",
+      "count": 84
+    },
+    {
+      "word": "seubagoë",
+      "count": 83
+    },
+    {
+      "word": "dum",
+      "count": 83
+    },
+    {
+      "word": "meuceuë",
+      "count": 82
+    },
+    {
+      "word": "gampông",
+      "count": 82
+    },
+    {
+      "word": "uroe",
+      "count": 81
+    },
+    {
+      "word": "kuta",
+      "count": 81
+    },
+    {
+      "word": "kabupaten",
+      "count": 81
+    },
+    {
+      "word": "muhammad",
+      "count": 80
+    },
+    {
+      "word": "buleuën",
+      "count": 80
+    },
+    {
+      "word": "kabupatèn",
+      "count": 79
+    },
+    {
+      "word": "la",
+      "count": 76
+    },
+    {
+      "word": "luwah",
+      "count": 76
+    },
+    {
+      "word": "mantong",
+      "count": 75
+    },
+    {
+      "word": "abad",
+      "count": 74
+    },
+    {
+      "word": "meu",
+      "count": 74
+    },
+    {
+      "word": "jumeulah",
+      "count": 73
+    },
+    {
+      "word": "keurajeuën",
+      "count": 72
+    },
+    {
+      "word": "bumoë",
+      "count": 72
+    },
+    {
+      "word": "alam",
+      "count": 71
+    },
+    {
+      "word": "gunong",
+      "count": 71
+    },
+    {
+      "word": "al",
+      "count": 71
+    },
+    {
+      "word": "hukôm",
+      "count": 71
+    },
+    {
+      "word": "rakyat",
+      "count": 71
+    },
+    {
+      "word": "rôh",
+      "count": 71
+    },
+    {
+      "word": "lagèe",
+      "count": 71
+    },
+    {
+      "word": "han",
+      "count": 71
+    },
+    {
+      "word": "padum-padum",
+      "count": 70
+    },
+    {
+      "word": "oh",
+      "count": 70
+    },
+    {
+      "word": "sabab",
+      "count": 69
+    },
+    {
+      "word": "puasa",
+      "count": 69
+    },
+    {
+      "word": "provinsi",
+      "count": 68
+    },
+    {
+      "word": "lheuëh",
+      "count": 68
+    },
+    {
+      "word": "antara",
+      "count": 67
+    },
+    {
+      "word": "jameun",
+      "count": 67
+    },
+    {
+      "word": "raja",
+      "count": 65
+    },
+    {
+      "word": "teuka",
+      "count": 65
+    },
+    {
+      "word": "ala",
+      "count": 65
+    },
+    {
+      "word": "rèpublik",
+      "count": 64
+    },
+    {
+      "word": "madinah",
+      "count": 64
+    },
+    {
+      "word": "jinoë",
+      "count": 63
+    },
+    {
+      "word": "sidroe",
+      "count": 63
+    },
+    {
+      "word": "nanggroëjih",
+      "count": 63
+    },
+    {
+      "word": "alamnyoe",
+      "count": 63
+    },
+    {
+      "word": "tarèh",
+      "count": 62
+    },
+    {
+      "word": "teunggara",
+      "count": 62
+    },
+    {
+      "word": "awak",
+      "count": 62
+    },
+    {
+      "word": "meunan",
+      "count": 61
+    },
+    {
+      "word": "riwayat",
+      "count": 61
+    },
+    {
+      "word": "wajéb",
+      "count": 61
+    },
+    {
+      "word": "watèe",
+      "count": 61
+    },
+    {
+      "word": "keucamatan",
+      "count": 61
+    },
+    {
+      "word": "manyang",
+      "count": 60
+    },
+    {
+      "word": "beunagi",
+      "count": 60
+    },
+    {
+      "word": "rot",
+      "count": 59
+    },
+    {
+      "word": "disinan",
+      "count": 59
+    },
+    {
+      "word": "aneuk",
+      "count": 59
+    },
+    {
+      "word": "sampoë",
+      "count": 58
+    },
+    {
+      "word": "kawôm",
+      "count": 58
+    },
+    {
+      "word": "seumayang",
+      "count": 58
+    },
+    {
+      "word": "watèë",
+      "count": 57
+    },
+    {
+      "word": "dairah",
+      "count": 57
+    },
+    {
+      "word": "manusia",
+      "count": 56
+    },
+    {
+      "word": "kruëng",
+      "count": 56
+    },
+    {
+      "word": "kitab",
+      "count": 56
+    },
+    {
+      "word": "neuduëk",
+      "count": 56
+    },
+    {
+      "word": "kayém",
+      "count": 56
+    },
+    {
+      "word": "korèa",
+      "count": 56
+    },
+    {
+      "word": "kamboja",
+      "count": 55
+    },
+    {
+      "word": "turuki",
+      "count": 55
+    },
+    {
+      "word": "polinesia",
+      "count": 55
+    },
+    {
+      "word": "yôh",
+      "count": 54
+    },
+    {
+      "word": "km",
+      "count": 54
+    },
+    {
+      "word": "abu",
+      "count": 53
+    },
+    {
+      "word": "teuma",
+      "count": 52
+    },
+    {
+      "word": "bin",
+      "count": 52
+    },
+    {
+      "word": "tinggai",
+      "count": 51
+    },
+    {
+      "word": "geungui",
+      "count": 51
+    },
+    {
+      "word": "lhôk",
+      "count": 51
+    },
+    {
+      "word": "timor",
+      "count": 50
+    },
+    {
+      "word": "abeujad",
+      "count": 50
+    },
+    {
+      "word": "narit",
+      "count": 49
+    },
+    {
+      "word": "panté",
+      "count": 49
+    },
+    {
+      "word": "deungön",
+      "count": 49
+    },
+    {
+      "word": "and",
+      "count": 49
+    },
+    {
+      "word": "röt",
+      "count": 48
+    },
+    {
+      "word": "latén",
+      "count": 48
+    },
+    {
+      "word": "the",
+      "count": 48
+    },
+    {
+      "word": "an",
+      "count": 48
+    },
+    {
+      "word": "dapeuta",
+      "count": 48
+    },
+    {
+      "word": "reusam",
+      "count": 47
+    },
+    {
+      "word": "thon",
+      "count": 47
+    },
+    {
+      "word": "mongol",
+      "count": 47
+    },
+    {
+      "word": "bhah",
+      "count": 47
+    },
+    {
+      "word": "teungöh",
+      "count": 46
+    },
+    {
+      "word": "meunyo",
+      "count": 46
+    },
+    {
+      "word": "droe",
+      "count": 46
+    },
+    {
+      "word": "kuril",
+      "count": 46
+    },
+    {
+      "word": "ulama",
+      "count": 45
+    },
+    {
+      "word": "peurancih",
+      "count": 45
+    },
+    {
+      "word": "lheueh",
+      "count": 45
+    },
+    {
+      "word": "qur'an",
+      "count": 45
+    },
+    {
+      "word": "sifeut",
+      "count": 45
+    },
+    {
+      "word": "sabang",
+      "count": 44
+    },
+    {
+      "word": "teuntra",
+      "count": 44
+    },
+    {
+      "word": "nyakni",
+      "count": 44
+    },
+    {
+      "word": "ceuë",
+      "count": 44
+    },
+    {
+      "word": "barô",
+      "count": 44
+    },
+    {
+      "word": "meunatang",
+      "count": 44
+    },
+    {
+      "word": "dudoë",
+      "count": 44
+    },
+    {
+      "word": "rasul",
+      "count": 44
+    },
+    {
+      "word": "musa",
+      "count": 44
+    },
+    {
+      "word": "makkiyah",
+      "count": 44
+    },
+    {
+      "word": "jinoe",
+      "count": 43
+    },
+    {
+      "word": "mangat",
+      "count": 43
+    },
+    {
+      "word": "malaikat",
+      "count": 43
+    },
+    {
+      "word": "dali",
+      "count": 43
+    },
+    {
+      "word": "administrasijih",
+      "count": 43
+    },
+    {
+      "word": "seulat",
+      "count": 42
+    },
+    {
+      "word": "kazakhstan",
+      "count": 42
+    },
+    {
+      "word": "haraih",
+      "count": 42
+    },
+    {
+      "word": "dua",
+      "count": 41
+    },
+    {
+      "word": "zat",
+      "count": 41
+    },
+    {
+      "word": "awai",
+      "count": 41
+    },
+    {
+      "word": "agam",
+      "count": 41
+    },
+    {
+      "word": "raseumi",
+      "count": 41
+    },
+    {
+      "word": "saban",
+      "count": 41
+    },
+    {
+      "word": "geupeudong",
+      "count": 41
+    },
+    {
+      "word": "haji",
+      "count": 41
+    },
+    {
+      "word": "city",
+      "count": 41
+    },
+    {
+      "word": "ujông",
+      "count": 40
+    },
+    {
+      "word": "leste",
+      "count": 40
+    },
+    {
+      "word": "sistem",
+      "count": 40
+    },
+    {
+      "word": "meuiman",
+      "count": 40
+    },
+    {
+      "word": "asoe",
+      "count": 40
+    },
+    {
+      "word": "krai",
+      "count": 40
+    },
+    {
+      "word": "ateuh",
+      "count": 39
+    },
+    {
+      "word": "maté",
+      "count": 39
+    },
+    {
+      "word": "asai",
+      "count": 39
+    },
+    {
+      "word": "hasé",
+      "count": 39
+    },
+    {
+      "word": "udép",
+      "count": 38
+    },
+    {
+      "word": "laos",
+      "count": 38
+    },
+    {
+      "word": "myanmar",
+      "count": 38
+    },
+    {
+      "word": "siblah",
+      "count": 38
+    },
+    {
+      "word": "dubai",
+      "count": 38
+    },
+    {
+      "word": "beulanda",
+      "count": 37
+    },
+    {
+      "word": "geujak",
+      "count": 37
+    },
+    {
+      "word": "jeumeulah",
+      "count": 37
+    },
+    {
+      "word": "chit",
+      "count": 37
+    },
+    {
+      "word": "jawa",
+      "count": 37
+    },
+    {
+      "word": "barang",
+      "count": 37
+    },
+    {
+      "word": "baroh",
+      "count": 37
+    },
+    {
+      "word": "ôt",
+      "count": 36
+    },
+    {
+      "word": "trôk",
+      "count": 36
+    },
+    {
+      "word": "haba",
+      "count": 36
+    },
+    {
+      "word": "kawan",
+      "count": 36
+    },
+    {
+      "word": "daya",
+      "count": 36
+    },
+    {
+      "word": "keunan",
+      "count": 36
+    },
+    {
+      "word": "bhaih",
+      "count": 36
+    },
+    {
+      "word": "utama",
+      "count": 36
+    },
+    {
+      "word": "ibrahim",
+      "count": 36
+    },
+    {
+      "word": "buet",
+      "count": 35
+    },
+    {
+      "word": "mantöng",
+      "count": 35
+    },
+    {
+      "word": "ekonomi",
+      "count": 35
+    },
+    {
+      "word": "bhutan",
+      "count": 35
+    },
+    {
+      "word": "tapi",
+      "count": 35
+    },
+    {
+      "word": "peunténg",
+      "count": 35
+    },
+    {
+      "word": "laju",
+      "count": 35
+    },
+    {
+      "word": "ék",
+      "count": 35
+    },
+    {
+      "word": "gata",
+      "count": 35
+    },
+    {
+      "word": "administratif",
+      "count": 35
+    },
+    {
+      "word": "én",
+      "count": 34
+    },
+    {
+      "word": "meunyoe",
+      "count": 34
+    },
+    {
+      "word": "peukara",
+      "count": 34
+    },
+    {
+      "word": "saw",
+      "count": 34
+    },
+    {
+      "word": "peuët",
+      "count": 34
+    },
+    {
+      "word": "honshu",
+      "count": 34
+    },
+    {
+      "word": "bani",
+      "count": 34
+    },
+    {
+      "word": "pisang",
+      "count": 34
+    },
+    {
+      "word": "neupeutrön",
+      "count": 34
+    },
+    {
+      "word": "muda",
+      "count": 33
+    },
+    {
+      "word": "gopnyan",
+      "count": 33
+    },
+    {
+      "word": "macam",
+      "count": 33
+    },
+    {
+      "word": "kaphé",
+      "count": 33
+    },
+    {
+      "word": "basa",
+      "count": 32
+    },
+    {
+      "word": "peunajôh",
+      "count": 32
+    },
+    {
+      "word": "akhé",
+      "count": 32
+    },
+    {
+      "word": "lahé",
+      "count": 32
+    },
+    {
+      "word": "geupeugot",
+      "count": 32
+    },
+    {
+      "word": "uni",
+      "count": 32
+    },
+    {
+      "word": "geucok",
+      "count": 32
+    },
+    {
+      "word": "sidroë",
+      "count": 32
+    },
+    {
+      "word": "jak",
+      "count": 32
+    },
+    {
+      "word": "bumoe",
+      "count": 32
+    },
+    {
+      "word": "cicém",
+      "count": 32
+    },
+    {
+      "word": "sagoë",
+      "count": 32
+    },
+    {
+      "word": "neu",
+      "count": 32
+    },
+    {
+      "word": "ii",
+      "count": 32
+    },
+    {
+      "word": "الله",
+      "count": 32
+    },
+    {
+      "word": "beuna",
+      "count": 32
+    },
+    {
+      "word": "suriyah",
+      "count": 32
+    },
+    {
+      "word": "rumoh",
+      "count": 31
+    },
+    {
+      "word": "meuhubông",
+      "count": 31
+    },
+    {
+      "word": "miseuë",
+      "count": 31
+    },
+    {
+      "word": "samudra",
+      "count": 31
+    },
+    {
+      "word": "hareutoejih",
+      "count": 31
+    },
+    {
+      "word": "jitamong",
+      "count": 31
+    },
+    {
+      "word": "meuphôm",
+      "count": 31
+    },
+    {
+      "word": "gamba",
+      "count": 31
+    },
+    {
+      "word": "mata",
+      "count": 31
+    },
+    {
+      "word": "trôh",
+      "count": 31
+    },
+    {
+      "word": "khan",
+      "count": 31
+    },
+    {
+      "word": "duek",
+      "count": 31
+    },
+    {
+      "word": "kalimantan",
+      "count": 31
+    },
+    {
+      "word": "meukah",
+      "count": 31
+    },
+    {
+      "word": "taman",
+      "count": 30
+    },
+    {
+      "word": "ôn",
+      "count": 30
+    },
+    {
+      "word": "padum",
+      "count": 30
+    },
+    {
+      "word": "jaya",
+      "count": 30
+    },
+    {
+      "word": "panyang",
+      "count": 30
+    },
+    {
+      "word": "iman",
+      "count": 30
+    },
+    {
+      "word": "seureuta",
+      "count": 30
+    },
+    {
+      "word": "kureuëng",
+      "count": 30
+    },
+    {
+      "word": "juta",
+      "count": 30
+    },
+    {
+      "word": "kota",
+      "count": 30
+    },
+    {
+      "word": "departemen",
+      "count": 30
+    },
+    {
+      "word": "sakhalin",
+      "count": 30
+    },
+    {
+      "word": "darussalam",
+      "count": 29
+    },
+    {
+      "word": "ubeut",
+      "count": 29
+    },
+    {
+      "word": "kayèë",
+      "count": 29
+    },
+    {
+      "word": "bandara",
+      "count": 29
+    },
+    {
+      "word": "romawi",
+      "count": 29
+    },
+    {
+      "word": "laén",
+      "count": 29
+    },
+    {
+      "word": "kiamat",
+      "count": 29
+    },
+    {
+      "word": "bagian",
+      "count": 29
+    },
+    {
+      "word": "rupa",
+      "count": 29
+    },
+    {
+      "word": "la'én-la'én",
+      "count": 29
+    },
+    {
+      "word": "meuyub",
+      "count": 29
+    },
+    {
+      "word": "gobnyan",
+      "count": 29
+    },
+    {
+      "word": "kon",
+      "count": 29
+    },
+    {
+      "word": "èleumèe",
+      "count": 29
+    },
+    {
+      "word": "ال",
+      "count": 29
+    },
+    {
+      "word": "ureueng-ureueng",
+      "count": 29
+    },
+    {
+      "word": "sinan",
+      "count": 28
+    },
+    {
+      "word": "tuhan",
+      "count": 28
+    },
+    {
+      "word": "saudi",
+      "count": 28
+    },
+    {
+      "word": "cara",
+      "count": 28
+    },
+    {
+      "word": "irlandia",
+      "count": 28
+    },
+    {
+      "word": "si",
+      "count": 28
+    },
+    {
+      "word": "tamong",
+      "count": 28
+    },
+    {
+      "word": "away",
+      "count": 28
+    },
+    {
+      "word": "latin",
+      "count": 28
+    },
+    {
+      "word": "nakhon",
+      "count": 28
+    },
+    {
+      "word": "ruja",
+      "count": 27
+    },
+    {
+      "word": "saböh",
+      "count": 27
+    },
+    {
+      "word": "laôt",
+      "count": 27
+    },
+    {
+      "word": "ji",
+      "count": 27
+    },
+    {
+      "word": "kalimat",
+      "count": 27
+    },
+    {
+      "word": "nyankeuh",
+      "count": 27
+    },
+    {
+      "word": "seunurat",
+      "count": 27
+    },
+    {
+      "word": "peu",
+      "count": 27
+    },
+    {
+      "word": "keujadian",
+      "count": 27
+    },
+    {
+      "word": "bah",
+      "count": 27
+    },
+    {
+      "word": "km²",
+      "count": 27
+    },
+    {
+      "word": "geuturi",
+      "count": 27
+    },
+    {
+      "word": "tuha",
+      "count": 27
+    },
+    {
+      "word": "distrik",
+      "count": 27
+    },
+    {
+      "word": "melanesia",
+      "count": 27
+    },
+    {
+      "word": "fiji",
+      "count": 27
+    },
+    {
+      "word": "mukim",
+      "count": 27
+    },
+    {
+      "word": "ateuëh",
+      "count": 26
+    },
+    {
+      "word": "binèh",
+      "count": 26
+    },
+    {
+      "word": "blang",
+      "count": 26
+    },
+    {
+      "word": "rayeuk",
+      "count": 26
+    },
+    {
+      "word": "adat",
+      "count": 26
+    },
+    {
+      "word": "hadih",
+      "count": 26
+    },
+    {
+      "word": "geubôh",
+      "count": 26
+    },
+    {
+      "word": "banuwa",
+      "count": 26
+    },
+    {
+      "word": "geuweuëk",
+      "count": 26
+    },
+    {
+      "word": "musibah",
+      "count": 26
+    },
+    {
+      "word": "go",
+      "count": 26
+    },
+    {
+      "word": "itam",
+      "count": 26
+    },
+    {
+      "word": "keurija",
+      "count": 26
+    },
+    {
+      "word": "langsa",
+      "count": 26
+    },
+    {
+      "word": "neubri",
+      "count": 26
+    },
+    {
+      "word": "jakeuët",
+      "count": 26
+    },
+    {
+      "word": "pabrék",
+      "count": 25
+    },
+    {
+      "word": "teungku",
+      "count": 25
+    },
+    {
+      "word": "meunurôt",
+      "count": 25
+    },
+    {
+      "word": "badan",
+      "count": 25
+    },
+    {
+      "word": "saweub",
+      "count": 25
+    },
+    {
+      "word": "papua",
+      "count": 25
+    },
+    {
+      "word": "lawan",
+      "count": 25
+    },
+    {
+      "word": "ra'uëh",
+      "count": 25
+    },
+    {
+      "word": "atol",
+      "count": 25
+    },
+    {
+      "word": "neupeunan",
+      "count": 25
+    },
+    {
+      "word": "aleuh",
+      "count": 25
+    },
+    {
+      "word": "hapé",
+      "count": 25
+    },
+    {
+      "word": "sultan",
+      "count": 24
+    },
+    {
+      "word": "ne",
+      "count": 24
+    },
+    {
+      "word": "lhèë",
+      "count": 24
+    },
+    {
+      "word": "limong",
+      "count": 24
+    },
+    {
+      "word": "makhluk",
+      "count": 24
+    },
+    {
+      "word": "pasifik",
+      "count": 24
+    },
+    {
+      "word": "maladewa",
+      "count": 24
+    },
+    {
+      "word": "otonomi",
+      "count": 24
+    },
+    {
+      "word": "in",
+      "count": 24
+    },
+    {
+      "word": "meumacam",
+      "count": 24
+    },
+    {
+      "word": "geumat",
+      "count": 24
+    },
+    {
+      "word": "kecamatan",
+      "count": 24
+    },
+    {
+      "word": "umu",
+      "count": 24
+    },
+    {
+      "word": "geuplah",
+      "count": 24
+    },
+    {
+      "word": "paleng",
+      "count": 24
+    },
+    {
+      "word": "karena",
+      "count": 24
+    },
+    {
+      "word": "kalheuh",
+      "count": 24
+    },
+    {
+      "word": "versi",
+      "count": 24
+    },
+    {
+      "word": "salar",
+      "count": 24
+    },
+    {
+      "word": "mat",
+      "count": 23
+    },
+    {
+      "word": "tiep",
+      "count": 23
+    },
+    {
+      "word": "teunuléh",
+      "count": 23
+    },
+    {
+      "word": "inong",
+      "count": 23
+    },
+    {
+      "word": "meuceue",
+      "count": 23
+    },
+    {
+      "word": "peumeurèntah",
+      "count": 23
+    },
+    {
+      "word": "da",
+      "count": 23
+    },
+    {
+      "word": "irah",
+      "count": 23
+    },
+    {
+      "word": "meulayu",
+      "count": 23
+    },
+    {
+      "word": "beu",
+      "count": 23
+    },
+    {
+      "word": "lhèe",
+      "count": 23
+    },
+    {
+      "word": "bideuëng",
+      "count": 23
+    },
+    {
+      "word": "ratu",
+      "count": 23
+    },
+    {
+      "word": "portugéh",
+      "count": 23
+    },
+    {
+      "word": "pka",
+      "count": 23
+    },
+    {
+      "word": "aseuli",
+      "count": 23
+    },
+    {
+      "word": "geurija",
+      "count": 23
+    },
+    {
+      "word": "bileuëng",
+      "count": 23
+    },
+    {
+      "word": "geunguy",
+      "count": 22
+    },
+    {
+      "word": "uteuën",
+      "count": 22
+    },
+    {
+      "word": "neugara-neugara",
+      "count": 22
+    },
+    {
+      "word": "government",
+      "count": 22
+    },
+    {
+      "word": "pidië",
+      "count": 22
+    },
+    {
+      "word": "eu",
+      "count": 22
+    },
+    {
+      "word": "hai",
+      "count": 22
+    },
+    {
+      "word": "united",
+      "count": 22
+    },
+    {
+      "word": "meuseubab",
+      "count": 22
+    },
+    {
+      "word": "sampoe",
+      "count": 22
+    },
+    {
+      "word": "ie",
+      "count": 22
+    },
+    {
+      "word": "gubernur",
+      "count": 22
+    },
+    {
+      "word": "peunula",
+      "count": 22
+    },
+    {
+      "word": "keurajeuen",
+      "count": 22
+    },
+    {
+      "word": "terjemahan",
+      "count": 22
+    },
+    {
+      "word": "aimag",
+      "count": 22
+    },
+    {
+      "word": "gajah",
+      "count": 21
+    },
+    {
+      "word": "akan",
+      "count": 21
+    },
+    {
+      "word": "meubileuëng",
+      "count": 21
+    },
+    {
+      "word": "iseulam",
+      "count": 21
+    },
+    {
+      "word": "bagi",
+      "count": 21
+    },
+    {
+      "word": "ta'ala",
+      "count": 21
+    },
+    {
+      "word": "seupanyo",
+      "count": 21
+    },
+    {
+      "word": "meuhasé",
+      "count": 21
+    },
+    {
+      "word": "no",
+      "count": 21
+    },
+    {
+      "word": "alat",
+      "count": 21
+    },
+    {
+      "word": "ateueh",
+      "count": 21
+    },
+    {
+      "word": "jeureuman",
+      "count": 21
+    },
+    {
+      "word": "brat",
+      "count": 21
+    },
+    {
+      "word": "ibadah",
+      "count": 21
+    },
+    {
+      "word": "yusuf",
+      "count": 21
+    },
+    {
+      "word": "hareuta",
+      "count": 21
+    },
+    {
+      "word": "diwan",
+      "count": 21
+    },
+    {
+      "word": "kyrgyzstan",
+      "count": 21
+    },
+    {
+      "word": "nam",
+      "count": 21
+    },
+    {
+      "word": "divisi",
+      "count": 21
+    },
+    {
+      "word": "kayèe",
+      "count": 21
+    },
+    {
+      "word": "bengkulu",
+      "count": 21
+    },
+    {
+      "word": "bandar",
+      "count": 21
+    },
+    {
+      "word": "mukaddimah",
+      "count": 21
+    },
+    {
+      "word": "budaya",
+      "count": 20
+    },
+    {
+      "word": "mirah",
+      "count": 20
+    },
+    {
+      "word": "darat",
+      "count": 20
+    },
+    {
+      "word": "keunira",
+      "count": 20
+    },
+    {
+      "word": "masyarakat",
+      "count": 20
+    },
+    {
+      "word": "èleumèë",
+      "count": 20
+    },
+    {
+      "word": "timoh",
+      "count": 20
+    },
+    {
+      "word": "rayeuek",
+      "count": 20
+    },
+    {
+      "word": "leumo",
+      "count": 20
+    },
+    {
+      "word": "putéh",
+      "count": 20
+    },
+    {
+      "word": "abdul",
+      "count": 20
+    },
+    {
+      "word": "seubab",
+      "count": 20
+    },
+    {
+      "word": "jakarta",
+      "count": 20
+    },
+    {
+      "word": "wilayahjih",
+      "count": 20
+    },
+    {
+      "word": "soviet",
+      "count": 20
+    },
+    {
+      "word": "mikronesia",
+      "count": 20
+    },
+    {
+      "word": "seubagoe",
+      "count": 20
+    },
+    {
+      "word": "de",
+      "count": 20
+    },
+    {
+      "word": "tapeugah",
+      "count": 20
+    },
+    {
+      "word": "pakiban",
+      "count": 20
+    },
+    {
+      "word": "qinghai",
+      "count": 20
+    },
+    {
+      "word": "kuasa",
+      "count": 19
+    },
+    {
+      "word": "leupah",
+      "count": 19
+    },
+    {
+      "word": "keuduwa",
+      "count": 19
+    },
+    {
+      "word": "irak",
+      "count": 19
+    },
+    {
+      "word": "turkmènistan",
+      "count": 19
+    },
+    {
+      "word": "gunong-gunong",
+      "count": 19
+    },
+    {
+      "word": "kareuna",
+      "count": 19
+    },
+    {
+      "word": "sama",
+      "count": 19
+    },
+    {
+      "word": "geupeugah",
+      "count": 19
+    },
+    {
+      "word": "keurajeun",
+      "count": 19
+    },
+    {
+      "word": "trép",
+      "count": 19
+    },
+    {
+      "word": "la'ot",
+      "count": 19
+    },
+    {
+      "word": "areuti",
+      "count": 19
+    },
+    {
+      "word": "lagè",
+      "count": 19
+    },
+    {
+      "word": "teumiëng",
+      "count": 19
+    },
+    {
+      "word": "buët",
+      "count": 19
+    },
+    {
+      "word": "tujôh",
+      "count": 19
+    },
+    {
+      "word": "mungkén",
+      "count": 19
+    },
+    {
+      "word": "salang",
+      "count": 19
+    },
+    {
+      "word": "teuningkat",
+      "count": 19
+    },
+    {
+      "word": "daar",
+      "count": 19
+    },
+    {
+      "word": "com",
+      "count": 19
+    },
+    {
+      "word": "new",
+      "count": 19
+    },
+    {
+      "word": "lheuh",
+      "count": 19
+    },
+    {
+      "word": "neumeusifeut",
+      "count": 19
+    },
+    {
+      "word": "tibet",
+      "count": 19
+    },
+    {
+      "word": "sunat",
+      "count": 19
+    },
+    {
+      "word": "dongxiang",
+      "count": 19
+    },
+    {
+      "word": "iskandar",
+      "count": 18
+    },
+    {
+      "word": "jeunèh",
+      "count": 18
+    },
+    {
+      "word": "adam",
+      "count": 18
+    },
+    {
+      "word": "po",
+      "count": 18
+    },
+    {
+      "word": "göt",
+      "count": 18
+    },
+    {
+      "word": "tom",
+      "count": 18
+    },
+    {
+      "word": "h'an",
+      "count": 18
+    },
+    {
+      "word": "peureuté",
+      "count": 18
+    },
+    {
+      "word": "hudép",
+      "count": 18
+    },
+    {
+      "word": "siti",
+      "count": 18
+    },
+    {
+      "word": "ureuëng-ureuëng",
+      "count": 18
+    },
+    {
+      "word": "tamöng",
+      "count": 18
+    },
+    {
+      "word": "suci",
+      "count": 18
+    },
+    {
+      "word": "yunani",
+      "count": 18
+    },
+    {
+      "word": "dilèe",
+      "count": 18
+    },
+    {
+      "word": "bireuen",
+      "count": 18
+    },
+    {
+      "word": "makna",
+      "count": 18
+    },
+    {
+      "word": "siyasat",
+      "count": 18
+    },
+    {
+      "word": "eungkôt",
+      "count": 18
+    },
+    {
+      "word": "biasa",
+      "count": 18
+    },
+    {
+      "word": "chik",
+      "count": 18
+    },
+    {
+      "word": "teudong",
+      "count": 18
+    },
+    {
+      "word": "fiqah",
+      "count": 18
+    },
+    {
+      "word": "geubri",
+      "count": 18
+    },
+    {
+      "word": "ra",
+      "count": 18
+    },
+    {
+      "word": "peuneudong",
+      "count": 18
+    },
+    {
+      "word": "tapajôh",
+      "count": 18
+    },
+    {
+      "word": "symbian",
+      "count": 18
+    },
+    {
+      "word": "malaka",
+      "count": 17
+    },
+    {
+      "word": "tureuki",
+      "count": 17
+    },
+    {
+      "word": "gayo",
+      "count": 17
+    },
+    {
+      "word": "jalan",
+      "count": 17
+    },
+    {
+      "word": "kapai",
+      "count": 17
+    },
+    {
+      "word": "umar",
+      "count": 17
+    },
+    {
+      "word": "beunuwa",
+      "count": 17
+    },
+    {
+      "word": "dilèë",
+      "count": 17
+    },
+    {
+      "word": "donya",
+      "count": 17
+    },
+    {
+      "word": "sabé",
+      "count": 17
+    },
+    {
+      "word": "tiëp",
+      "count": 17
+    },
+    {
+      "word": "deuh",
+      "count": 17
+    },
+    {
+      "word": "meubida",
+      "count": 17
+    },
+    {
+      "word": "padang",
+      "count": 17
+    },
+    {
+      "word": "tibèt",
+      "count": 17
+    },
+    {
+      "word": "australia",
+      "count": 17
+    },
+    {
+      "word": "geupeugèt",
+      "count": 17
+    },
+    {
+      "word": "meunyoë",
+      "count": 17
+    },
+    {
+      "word": "bupati",
+      "count": 17
+    },
+    {
+      "word": "meuhat",
+      "count": 17
+    },
+    {
+      "word": "britania",
+      "count": 17
+    },
+    {
+      "word": "asoë",
+      "count": 17
+    },
+    {
+      "word": "rukôn",
+      "count": 17
+    },
+    {
+      "word": "sikureuëng",
+      "count": 17
+    },
+    {
+      "word": "tanda",
+      "count": 17
+    },
+    {
+      "word": "siplôh",
+      "count": 17
+    },
+    {
+      "word": "toë",
+      "count": 17
+    },
+    {
+      "word": "madaniyah",
+      "count": 17
+    },
+    {
+      "word": "wikipedia",
+      "count": 17
+    },
+    {
+      "word": "surabaya",
+      "count": 17
+    },
+    {
+      "word": "simacam",
+      "count": 17
+    },
+    {
+      "word": "khutubah",
+      "count": 17
+    },
+    {
+      "word": "hindia",
+      "count": 16
+    },
+    {
+      "word": "pasi",
+      "count": 16
+    },
+    {
+      "word": "iran",
+      "count": 16
+    },
+    {
+      "word": "daerah",
+      "count": 16
+    },
+    {
+      "word": "trok",
+      "count": 16
+    },
+    {
+      "word": "éseulam",
+      "count": 16
+    },
+    {
+      "word": "tubôh",
+      "count": 16
+    },
+    {
+      "word": "dong",
+      "count": 16
+    },
+    {
+      "word": "man",
+      "count": 16
+    },
+    {
+      "word": "teuk",
+      "count": 16
+    },
+    {
+      "word": "neuweuëk",
+      "count": 16
+    },
+    {
+      "word": "geupeuna",
+      "count": 16
+    },
+    {
+      "word": "peungarôh",
+      "count": 16
+    },
+    {
+      "word": "ladôm",
+      "count": 16
+    },
+    {
+      "word": "peugah",
+      "count": 16
+    },
+    {
+      "word": "calitra",
+      "count": 16
+    },
+    {
+      "word": "kön",
+      "count": 16
+    },
+    {
+      "word": "ahli",
+      "count": 16
+    },
+    {
+      "word": "janji",
+      "count": 16
+    },
+    {
+      "word": "gaki",
+      "count": 16
+    },
+    {
+      "word": "peuet",
+      "count": 16
+    },
+    {
+      "word": "malam",
+      "count": 16
+    },
+    {
+      "word": "sa",
+      "count": 16
+    },
+    {
+      "word": "ulèë",
+      "count": 16
+    },
+    {
+      "word": "teutapi",
+      "count": 16
+    },
+    {
+      "word": "https",
+      "count": 16
+    },
+    {
+      "word": "isa",
+      "count": 16
+    },
+    {
+      "word": "kyushu",
+      "count": 16
+    },
+    {
+      "word": "yunus",
+      "count": 16
+    },
+    {
+      "word": "jazirah",
+      "count": 16
+    },
+    {
+      "word": "makkah",
+      "count": 16
+    },
+    {
+      "word": "nations",
+      "count": 16
+    },
+    {
+      "word": "sukèë-sukèë",
+      "count": 16
+    },
+    {
+      "word": "elizabeth",
+      "count": 16
+    },
+    {
+      "word": "laen",
+      "count": 15
+    },
+    {
+      "word": "universitaih",
+      "count": 15
+    },
+    {
+      "word": "teuku",
+      "count": 15
+    },
+    {
+      "word": "bireuën",
+      "count": 15
+    },
+    {
+      "word": "aljazair",
+      "count": 15
+    },
+    {
+      "word": "uröe",
+      "count": 15
+    },
+    {
+      "word": "carékat",
+      "count": 15
+    },
+    {
+      "word": "brasil",
+      "count": 15
+    },
+    {
+      "word": "lagee",
+      "count": 15
+    },
+    {
+      "word": "meutamah",
+      "count": 15
+    },
+    {
+      "word": "lugat",
+      "count": 15
+    },
+    {
+      "word": "wikipèdia",
+      "count": 15
+    },
+    {
+      "word": "syarikat",
+      "count": 15
+    },
+    {
+      "word": "sm",
+      "count": 15
+    },
+    {
+      "word": "bagoë",
+      "count": 15
+    },
+    {
+      "word": "keudroë",
+      "count": 15
+    },
+    {
+      "word": "lapan",
+      "count": 15
+    },
+    {
+      "word": "seujarah",
+      "count": 15
+    },
+    {
+      "word": "mulai",
+      "count": 15
+    },
+    {
+      "word": "glah",
+      "count": 15
+    },
+    {
+      "word": "beuët",
+      "count": 15
+    },
+    {
+      "word": "meuniaga",
+      "count": 15
+    },
+    {
+      "word": "teutap",
+      "count": 15
+    },
+    {
+      "word": "phôn-phôn",
+      "count": 15
+    },
+    {
+      "word": "patông",
+      "count": 15
+    },
+    {
+      "word": "komputer",
+      "count": 15
+    },
+    {
+      "word": "presiden",
+      "count": 15
+    },
+    {
+      "word": "ين",
+      "count": 15
+    },
+    {
+      "word": "yahudi",
+      "count": 15
+    },
+    {
+      "word": "peumerèntah",
+      "count": 15
+    },
+    {
+      "word": "federasi",
+      "count": 15
+    },
+    {
+      "word": "wèh",
+      "count": 15
+    },
+    {
+      "word": "ayatjih",
+      "count": 15
+    },
+    {
+      "word": "mp",
+      "count": 15
+    },
+    {
+      "word": "semarang",
+      "count": 15
+    },
+    {
+      "word": "sulawèsi",
+      "count": 15
+    },
+    {
+      "word": "airlines",
+      "count": 15
+    },
+    {
+      "word": "musyrék",
+      "count": 15
+    },
+    {
+      "word": "gansu",
+      "count": 15
+    },
+    {
+      "word": "windows",
+      "count": 15
+    },
+    {
+      "word": "rab",
+      "count": 14
+    },
+    {
+      "word": "pidie",
+      "count": 14
+    },
+    {
+      "word": "situs",
+      "count": 14
+    },
+    {
+      "word": "bandum",
+      "count": 14
+    },
+    {
+      "word": "tauhid",
+      "count": 14
+    },
+    {
+      "word": "cukôp",
+      "count": 14
+    },
+    {
+      "word": "honduras",
+      "count": 14
+    },
+    {
+      "word": "kanada",
+      "count": 14
+    },
+    {
+      "word": "peunyakét",
+      "count": 14
+    },
+    {
+      "word": "inöng",
+      "count": 14
+    },
+    {
+      "word": "parsi",
+      "count": 14
+    },
+    {
+      "word": "kri",
+      "count": 14
+    },
+    {
+      "word": "peuingat",
+      "count": 14
+    },
+    {
+      "word": "ubit",
+      "count": 14
+    },
+    {
+      "word": "buya",
+      "count": 14
+    },
+    {
+      "word": "saboh-saboh",
+      "count": 14
+    },
+    {
+      "word": "sigom",
+      "count": 14
+    },
+    {
+      "word": "geupeurunoë",
+      "count": 14
+    },
+    {
+      "word": "éleumèe",
+      "count": 14
+    },
+    {
+      "word": "taréh",
+      "count": 14
+    },
+    {
+      "word": "pèng",
+      "count": 14
+    },
+    {
+      "word": "ubah",
+      "count": 14
+    },
+    {
+      "word": "seumah",
+      "count": 14
+    },
+    {
+      "word": "imum",
+      "count": 14
+    },
+    {
+      "word": "ramè",
+      "count": 14
+    },
+    {
+      "word": "plôh",
+      "count": 14
+    },
+    {
+      "word": "untôk",
+      "count": 14
+    },
+    {
+      "word": "seugolom",
+      "count": 14
+    },
+    {
+      "word": "banda-banda",
+      "count": 14
+    },
+    {
+      "word": "ra'yat",
+      "count": 14
+    },
+    {
+      "word": "ramadhan",
+      "count": 14
+    },
+    {
+      "word": "hokkaido",
+      "count": 14
+    },
+    {
+      "word": "apuy",
+      "count": 14
+    },
+    {
+      "word": "bibeuëh",
+      "count": 14
+    },
+    {
+      "word": "kawômgeuh",
+      "count": 14
+    },
+    {
+      "word": "peukan",
+      "count": 14
+    },
+    {
+      "word": "blanda",
+      "count": 14
+    },
+    {
+      "word": "buleuen",
+      "count": 14
+    },
+    {
+      "word": "cut",
+      "count": 14
+    },
+    {
+      "word": "ugama",
+      "count": 14
+    },
+    {
+      "word": "kamchatka",
+      "count": 14
+    },
+    {
+      "word": "budha",
+      "count": 14
+    },
+    {
+      "word": "bungong",
+      "count": 14
+    },
+    {
+      "word": "os",
+      "count": 14
+    },
+    {
+      "word": "acehkita",
+      "count": 14
+    },
+    {
+      "word": "hubôngan",
+      "count": 13
+    },
+    {
+      "word": "teuduek",
+      "count": 13
+    },
+    {
+      "word": "keuadaan",
+      "count": 13
+    },
+    {
+      "word": "teudöng",
+      "count": 13
+    },
+    {
+      "word": "cot",
+      "count": 13
+    },
+    {
+      "word": "sië",
+      "count": 13
+    },
+    {
+      "word": "jithèë",
+      "count": 13
+    },
+    {
+      "word": "mula",
+      "count": 13
+    },
+    {
+      "word": "jitamöng",
+      "count": 13
+    },
+    {
+      "word": "bacut",
+      "count": 13
+    },
+    {
+      "word": "geuduëk",
+      "count": 13
+    },
+    {
+      "word": "atlantik",
+      "count": 13
+    },
+    {
+      "word": "hasan",
+      "count": 13
+    },
+    {
+      "word": "ali",
+      "count": 13
+    },
+    {
+      "word": "guatemala",
+      "count": 13
+    },
+    {
+      "word": "phon",
+      "count": 13
+    },
+    {
+      "word": "sah",
+      "count": 13
+    },
+    {
+      "word": "keuneubah",
+      "count": 13
+    },
+    {
+      "word": "meupadum",
+      "count": 13
+    },
+    {
+      "word": "meukat",
+      "count": 13
+    },
+    {
+      "word": "geumarit",
+      "count": 13
+    },
+    {
+      "word": "thailand",
+      "count": 13
+    },
+    {
+      "word": "bida",
+      "count": 13
+    },
+    {
+      "word": "tutô",
+      "count": 13
+    },
+    {
+      "word": "simpang",
+      "count": 13
+    },
+    {
+      "word": "muka",
+      "count": 13
+    },
+    {
+      "word": "pajôh",
+      "count": 13
+    },
+    {
+      "word": "geupuphôn",
+      "count": 13
+    },
+    {
+      "word": "peugot",
+      "count": 13
+    },
+    {
+      "word": "pariwisata",
+      "count": 13
+    },
+    {
+      "word": "meurunoë",
+      "count": 13
+    },
+    {
+      "word": "abdullah",
+      "count": 13
+    },
+    {
+      "word": "jaroë",
+      "count": 13
+    },
+    {
+      "word": "tafsir",
+      "count": 13
+    },
+    {
+      "word": "turki",
+      "count": 13
+    },
+    {
+      "word": "bèk",
+      "count": 13
+    },
+    {
+      "word": "meuprang",
+      "count": 13
+    },
+    {
+      "word": "breuëh",
+      "count": 13
+    },
+    {
+      "word": "geubagi",
+      "count": 13
+    },
+    {
+      "word": "darul",
+      "count": 13
+    },
+    {
+      "word": "ke",
+      "count": 13
+    },
+    {
+      "word": "goh",
+      "count": 13
+    },
+    {
+      "word": "syuruga",
+      "count": 13
+    },
+    {
+      "word": "sahabat",
+      "count": 13
+    },
+    {
+      "word": "maryam",
+      "count": 13
+    },
+    {
+      "word": "ayah",
+      "count": 13
+    },
+    {
+      "word": "internasional",
+      "count": 13
+    },
+    {
+      "word": "geupiléh",
+      "count": 13
+    },
+    {
+      "word": "geupinah",
+      "count": 13
+    },
+    {
+      "word": "to",
+      "count": 13
+    },
+    {
+      "word": "polandia",
+      "count": 13
+    },
+    {
+      "word": "ummat",
+      "count": 13
+    },
+    {
+      "word": "yatsrib",
+      "count": 13
+    },
+    {
+      "word": "meunara",
+      "count": 13
+    },
+    {
+      "word": "malaya",
+      "count": 13
+    },
+    {
+      "word": "neuseubôt",
+      "count": 13
+    },
+    {
+      "word": "luth",
+      "count": 13
+    },
+    {
+      "word": "siprus",
+      "count": 13
+    },
+    {
+      "word": "seumatéh",
+      "count": 13
+    },
+    {
+      "word": "iëropa",
+      "count": 13
+    },
+    {
+      "word": "georgia",
+      "count": 13
+    },
+    {
+      "word": "thani",
+      "count": 13
+    },
+    {
+      "word": "seni",
+      "count": 13
+    },
+    {
+      "word": "ankara",
+      "count": 13
+    },
+    {
+      "word": "source",
+      "count": 13
+    },
+    {
+      "word": "hui",
+      "count": 13
+    },
+    {
+      "word": "shaanxi",
+      "count": 13
+    },
+    {
+      "word": "leubeh",
+      "count": 12
+    },
+    {
+      "word": "kaya",
+      "count": 12
+    },
+    {
+      "word": "simeulue",
+      "count": 12
+    },
+    {
+      "word": "sit",
+      "count": 12
+    },
+    {
+      "word": "mètè",
+      "count": 12
+    },
+    {
+      "word": "musém",
+      "count": 12
+    },
+    {
+      "word": "miseuëjih",
+      "count": 12
+    },
+    {
+      "word": "ureung",
+      "count": 12
+    },
+    {
+      "word": "geupula",
+      "count": 12
+    },
+    {
+      "word": "böh",
+      "count": 12
+    },
+    {
+      "word": "guinea",
+      "count": 12
+    },
+    {
+      "word": "rasulullah",
+      "count": 12
+    },
+    {
+      "word": "tawhid",
+      "count": 12
+    },
+    {
+      "word": "baca",
+      "count": 12
+    },
+    {
+      "word": "kitab-kitab",
+      "count": 12
+    },
+    {
+      "word": "kalam",
+      "count": 12
+    },
+    {
+      "word": "dilee",
+      "count": 12
+    },
+    {
+      "word": "meukeumang",
+      "count": 12
+    },
+    {
+      "word": "xinjiang",
+      "count": 12
+    },
+    {
+      "word": "najih",
+      "count": 12
+    },
+    {
+      "word": "meriah",
+      "count": 12
+    },
+    {
+      "word": "simeuluë",
+      "count": 12
+    },
+    {
+      "word": "kalon",
+      "count": 12
+    },
+    {
+      "word": "hikayat",
+      "count": 12
+    },
+    {
+      "word": "acehnese",
+      "count": 12
+    },
+    {
+      "word": "org",
+      "count": 12
+    },
+    {
+      "word": "bôh",
+      "count": 12
+    },
+    {
+      "word": "kluët",
+      "count": 12
+    },
+    {
+      "word": "nasional",
+      "count": 12
+    },
+    {
+      "word": "batèe",
+      "count": 12
+    },
+    {
+      "word": "ulèe",
+      "count": 12
+    },
+    {
+      "word": "modern",
+      "count": 12
+    },
+    {
+      "word": "meukawén",
+      "count": 12
+    },
+    {
+      "word": "pakat",
+      "count": 12
+    },
+    {
+      "word": "sulaiman",
+      "count": 12
+    },
+    {
+      "word": "peuë",
+      "count": 12
+    },
+    {
+      "word": "ngui",
+      "count": 12
+    },
+    {
+      "word": "tém",
+      "count": 12
+    },
+    {
+      "word": "meunyöe",
+      "count": 12
+    },
+    {
+      "word": "imeum",
+      "count": 12
+    },
+    {
+      "word": "nuh",
+      "count": 12
+    },
+    {
+      "word": "syafi'iy",
+      "count": 12
+    },
+    {
+      "word": "mak",
+      "count": 12
+    },
+    {
+      "word": "sagai",
+      "count": 12
+    },
+    {
+      "word": "itali",
+      "count": 12
+    },
+    {
+      "word": "geumpa",
+      "count": 12
+    },
+    {
+      "word": "okhotsk",
+      "count": 12
+    },
+    {
+      "word": "kristèn",
+      "count": 12
+    },
+    {
+      "word": "geupeutrôn",
+      "count": 12
+    },
+    {
+      "word": "hud",
+      "count": 12
+    },
+    {
+      "word": "neupeugah",
+      "count": 12
+    },
+    {
+      "word": "sôleutan",
+      "count": 12
+    },
+    {
+      "word": "keulompok",
+      "count": 12
+    },
+    {
+      "word": "wahyu",
+      "count": 12
+    },
+    {
+      "word": "ba",
+      "count": 12
+    },
+    {
+      "word": "kata",
+      "count": 12
+    },
+    {
+      "word": "hak",
+      "count": 12
+    },
+    {
+      "word": "portugal",
+      "count": 12
+    },
+    {
+      "word": "toh",
+      "count": 12
+    },
+    {
+      "word": "esa",
+      "count": 12
+    },
+    {
+      "word": "seluruh",
+      "count": 12
+    },
+    {
+      "word": "beutôi",
+      "count": 12
+    },
+    {
+      "word": "pue-pue",
+      "count": 12
+    },
+    {
+      "word": "sichuan",
+      "count": 12
+    },
+    {
+      "word": "thön",
+      "count": 12
+    },
+    {
+      "word": "sigohlom",
+      "count": 12
+    },
+    {
+      "word": "java",
+      "count": 12
+    },
+    {
+      "word": "krueng",
+      "count": 12
+    },
+    {
+      "word": "hebei",
+      "count": 12
+    },
+    {
+      "word": "kareung-kareung",
+      "count": 12
+    },
+    {
+      "word": "khabomai",
+      "count": 12
+    },
+    {
+      "word": "kusuih",
+      "count": 11
+    },
+    {
+      "word": "payah",
+      "count": 11
+    },
+    {
+      "word": "adak",
+      "count": 11
+    },
+    {
+      "word": "meulabôh",
+      "count": 11
+    },
+    {
+      "word": "masalah",
+      "count": 11
+    },
+    {
+      "word": "emirat",
+      "count": 11
+    },
+    {
+      "word": "meujan",
+      "count": 11
+    },
+    {
+      "word": "sipanyang",
+      "count": 11
+    },
+    {
+      "word": "meusaboh",
+      "count": 11
+    },
+    {
+      "word": "gurôn",
+      "count": 11
+    },
+    {
+      "word": "takheun",
+      "count": 11
+    },
+    {
+      "word": "keulayi",
+      "count": 11
+    },
+    {
+      "word": "kheun",
+      "count": 11
+    },
+    {
+      "word": "tapubuët",
+      "count": 11
+    },
+    {
+      "word": "watè",
+      "count": 11
+    },
+    {
+      "word": "ujeuën",
+      "count": 11
+    },
+    {
+      "word": "nanggroë-nanggroë",
+      "count": 11
+    },
+    {
+      "word": "bahrain",
+      "count": 11
+    },
+    {
+      "word": "asèë",
+      "count": 11
+    },
+    {
+      "word": "galak",
+      "count": 11
+    },
+    {
+      "word": "dimeuyub",
+      "count": 11
+    },
+    {
+      "word": "portal",
+      "count": 11
+    },
+    {
+      "word": "bener",
+      "count": 11
+    },
+    {
+      "word": "http",
+      "count": 11
+    },
+    {
+      "word": "online",
+      "count": 11
+    },
+    {
+      "word": "waki",
+      "count": 11
+    },
+    {
+      "word": "abéh",
+      "count": 11
+    },
+    {
+      "word": "madeuhab",
+      "count": 11
+    },
+    {
+      "word": "pusaka",
+      "count": 11
+    },
+    {
+      "word": "meurdèka",
+      "count": 11
+    },
+    {
+      "word": "peusangan",
+      "count": 11
+    },
+    {
+      "word": "mamplam",
+      "count": 11
+    },
+    {
+      "word": "referensi",
+      "count": 11
+    },
+    {
+      "word": "siblaih",
+      "count": 11
+    },
+    {
+      "word": "beulanja",
+      "count": 11
+    },
+    {
+      "word": "mita",
+      "count": 11
+    },
+    {
+      "word": "buleun",
+      "count": 11
+    },
+    {
+      "word": "bohjih",
+      "count": 11
+    },
+    {
+      "word": "abuya",
+      "count": 11
+    },
+    {
+      "word": "tiep-tiep",
+      "count": 11
+    },
+    {
+      "word": "biasajih",
+      "count": 11
+    },
+    {
+      "word": "lawét",
+      "count": 11
+    },
+    {
+      "word": "abèe",
+      "count": 11
+    },
+    {
+      "word": "aseuka",
+      "count": 11
+    },
+    {
+      "word": "geuh",
+      "count": 11
+    },
+    {
+      "word": "sikula",
+      "count": 11
+    },
+    {
+      "word": "babah",
+      "count": 11
+    },
+    {
+      "word": "meuninggai",
+      "count": 11
+    },
+    {
+      "word": "web",
+      "count": 11
+    },
+    {
+      "word": "parlemen",
+      "count": 11
+    },
+    {
+      "word": "shikoku",
+      "count": 11
+    },
+    {
+      "word": "eropa",
+      "count": 11
+    },
+    {
+      "word": "meuagama",
+      "count": 11
+    },
+    {
+      "word": "industri",
+      "count": 11
+    },
+    {
+      "word": "monarki",
+      "count": 11
+    },
+    {
+      "word": "solomon",
+      "count": 11
+    },
+    {
+      "word": "bhan",
+      "count": 11
+    },
+    {
+      "word": "ya'qub",
+      "count": 11
+    },
+    {
+      "word": "èleuëmè",
+      "count": 11
+    },
+    {
+      "word": "sekejap",
+      "count": 11
+    },
+    {
+      "word": "até",
+      "count": 11
+    },
+    {
+      "word": "republic",
+      "count": 11
+    },
+    {
+      "word": "singapore",
+      "count": 11
+    },
+    {
+      "word": "geumaséh",
+      "count": 11
+    },
+    {
+      "word": "cv",
+      "count": 11
+    },
+    {
+      "word": "putra",
+      "count": 11
+    },
+    {
+      "word": "bangkok",
+      "count": 11
+    },
+    {
+      "word": "samut",
+      "count": 11
+    },
+    {
+      "word": "buri",
+      "count": 11
+    },
+    {
+      "word": "chubu",
+      "count": 11
+    },
+    {
+      "word": "moskow",
+      "count": 11
+    },
+    {
+      "word": "genghis",
+      "count": 11
+    },
+    {
+      "word": "geupeukeumang",
+      "count": 11
+    },
+    {
+      "word": "gulè",
+      "count": 11
+    },
+    {
+      "word": "henan",
+      "count": 11
+    },
+    {
+      "word": "hunan",
+      "count": 11
+    },
+    {
+      "word": "jiangxi",
+      "count": 11
+    },
+    {
+      "word": "zhejiang",
+      "count": 11
+    },
+    {
+      "word": "peutunyok",
+      "count": 11
+    },
+    {
+      "word": "bình",
+      "count": 11
+    },
+    {
+      "word": "bonan",
+      "count": 11
+    },
+    {
+      "word": "utsmani",
+      "count": 10
+    },
+    {
+      "word": "garéh",
+      "count": 10
+    },
+    {
+      "word": "baiturrahman",
+      "count": 10
+    },
+    {
+      "word": "geupeugöt",
+      "count": 10
+    },
+    {
+      "word": "seula'én",
+      "count": 10
+    },
+    {
+      "word": "kana",
+      "count": 10
+    },
+    {
+      "word": "teunong",
+      "count": 10
+    },
+    {
+      "word": "thô",
+      "count": 10
+    },
+    {
+      "word": "likôt",
+      "count": 10
+    },
+    {
+      "word": "unta",
+      "count": 10
+    },
+    {
+      "word": "geupimpin",
+      "count": 10
+    },
+    {
+      "word": "haté",
+      "count": 10
+    },
+    {
+      "word": "peukara-peukara",
+      "count": 10
+    },
+    {
+      "word": "taturi",
+      "count": 10
+    },
+    {
+      "word": "geutanyoë",
+      "count": 10
+    },
+    {
+      "word": "hamba",
+      "count": 10
+    },
+    {
+      "word": "jipeugot",
+      "count": 10
+    },
+    {
+      "word": "yordania",
+      "count": 10
+    },
+    {
+      "word": "qatar",
+      "count": 10
+    },
+    {
+      "word": "meubagoë",
+      "count": 10
+    },
+    {
+      "word": "neuweuek",
+      "count": 10
+    },
+    {
+      "word": "singapura",
+      "count": 10
+    },
+    {
+      "word": "mamalia",
+      "count": 10
+    },
+    {
+      "word": "cok",
+      "count": 10
+    },
+    {
+      "word": "peunjajah",
+      "count": 10
+    },
+    {
+      "word": "ubé",
+      "count": 10
+    },
+    {
+      "word": "harah",
+      "count": 10
+    },
+    {
+      "word": "meujampu",
+      "count": 10
+    },
+    {
+      "word": "on",
+      "count": 10
+    },
+    {
+      "word": "at",
+      "count": 10
+    },
+    {
+      "word": "www",
+      "count": 10
+    },
+    {
+      "word": "geupakèk",
+      "count": 10
+    },
+    {
+      "word": "karap",
+      "count": 10
+    },
+    {
+      "word": "ceunatat",
+      "count": 10
+    },
+    {
+      "word": "leupië",
+      "count": 10
+    },
+    {
+      "word": "bahwa",
+      "count": 10
+    },
+    {
+      "word": "curak",
+      "count": 10
+    },
+    {
+      "word": "manok",
+      "count": 10
+    },
+    {
+      "word": "bubiri",
+      "count": 10
+    },
+    {
+      "word": "peumeurintah",
+      "count": 10
+    },
+    {
+      "word": "maju",
+      "count": 10
+    },
+    {
+      "word": "asay",
+      "count": 10
+    },
+    {
+      "word": "chi",
+      "count": 10
+    },
+    {
+      "word": "ibadat",
+      "count": 10
+    },
+    {
+      "word": "meuklèh",
+      "count": 10
+    },
+    {
+      "word": "atô",
+      "count": 10
+    },
+    {
+      "word": "panglima",
+      "count": 10
+    },
+    {
+      "word": "peudong",
+      "count": 10
+    },
+    {
+      "word": "tingkat",
+      "count": 10
+    }
+  ]
+}

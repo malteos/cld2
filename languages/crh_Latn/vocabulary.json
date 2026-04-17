@@ -1,0 +1,4012 @@
+{
+  "code": "crh",
+  "name": "Crimean Tatar",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (crh.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 103291,
+  "unique_tokens": 24742,
+  "words": [
+    {
+      "word": "ve",
+      "count": 2066
+    },
+    {
+      "word": "bir",
+      "count": 1785
+    },
+    {
+      "word": "şeer",
+      "count": 1158
+    },
+    {
+      "word": "senesi",
+      "count": 952
+    },
+    {
+      "word": "kişi",
+      "count": 664
+    },
+    {
+      "word": "şeklinde",
+      "count": 661
+    },
+    {
+      "word": "qırım",
+      "count": 627
+    },
+    {
+      "word": "sayısı",
+      "count": 604
+    },
+    {
+      "word": "ukrainanıñ",
+      "count": 602
+    },
+    {
+      "word": "ealisiniñ",
+      "count": 584
+    },
+    {
+      "word": "qırımtatar",
+      "count": 583
+    },
+    {
+      "word": "vilâyetinde",
+      "count": 554
+    },
+    {
+      "word": "vilâyetindeki",
+      "count": 551
+    },
+    {
+      "word": "bu",
+      "count": 542
+    },
+    {
+      "word": "edi",
+      "count": 527
+    },
+    {
+      "word": "rayonı",
+      "count": 466
+    },
+    {
+      "word": "de",
+      "count": 414
+    },
+    {
+      "word": "http",
+      "count": 381
+    },
+    {
+      "word": "da",
+      "count": 380
+    },
+    {
+      "word": "qasaba",
+      "count": 369
+    },
+    {
+      "word": "senesinde",
+      "count": 366
+    },
+    {
+      "word": "merkezi",
+      "count": 365
+    },
+    {
+      "word": "qasabalar",
+      "count": 342
+    },
+    {
+      "word": "bağlantılar",
+      "count": 336
+    },
+    {
+      "word": "içün",
+      "count": 334
+    },
+    {
+      "word": "şurası",
+      "count": 333
+    },
+    {
+      "word": "soñ",
+      "count": 320
+    },
+    {
+      "word": "şeerler",
+      "count": 317
+    },
+    {
+      "word": "cumhuriyeti",
+      "count": 296
+    },
+    {
+      "word": "köy",
+      "count": 295
+    },
+    {
+      "word": "olğan",
+      "count": 284
+    },
+    {
+      "word": "rayonınıñ",
+      "count": 266
+    },
+    {
+      "word": "tili",
+      "count": 250
+    },
+    {
+      "word": "ile",
+      "count": 244
+    },
+    {
+      "word": "ua",
+      "count": 240
+    },
+    {
+      "word": "eñ",
+      "count": 238
+    },
+    {
+      "word": "adı",
+      "count": 229
+    },
+    {
+      "word": "olaraq",
+      "count": 226
+    },
+    {
+      "word": "oldı",
+      "count": 220
+    },
+    {
+      "word": "etti",
+      "count": 215
+    },
+    {
+      "word": "onıñ",
+      "count": 211
+    },
+    {
+      "word": "tarafından",
+      "count": 209
+    },
+    {
+      "word": "geray",
+      "count": 207
+    },
+    {
+      "word": "www",
+      "count": 206
+    },
+    {
+      "word": "resmiy",
+      "count": 203
+    },
+    {
+      "word": "milliy",
+      "count": 200
+    },
+    {
+      "word": "çoq",
+      "count": 198
+    },
+    {
+      "word": "büyük",
+      "count": 190
+    },
+    {
+      "word": "devlet",
+      "count": 179
+    },
+    {
+      "word": "ise",
+      "count": 173
+    },
+    {
+      "word": "bar",
+      "count": 168
+    },
+    {
+      "word": "memleket",
+      "count": 163
+    },
+    {
+      "word": "daa",
+      "count": 158
+    },
+    {
+      "word": "i̇lbav",
+      "count": 158
+    },
+    {
+      "word": "rusiye",
+      "count": 155
+    },
+    {
+      "word": "soñra",
+      "count": 154
+    },
+    {
+      "word": "türkiye",
+      "count": 153
+    },
+    {
+      "word": "qadar",
+      "count": 153
+    },
+    {
+      "word": "öz",
+      "count": 151
+    },
+    {
+      "word": "qırımda",
+      "count": 148
+    },
+    {
+      "word": "olıp",
+      "count": 148
+    },
+    {
+      "word": "adlı",
+      "count": 147
+    },
+    {
+      "word": "kibi",
+      "count": 145
+    },
+    {
+      "word": "yañı",
+      "count": 142
+    },
+    {
+      "word": "rus",
+      "count": 140
+    },
+    {
+      "word": "qırımnıñ",
+      "count": 139
+    },
+    {
+      "word": "belli",
+      "count": 135
+    },
+    {
+      "word": "com",
+      "count": 133
+    },
+    {
+      "word": "etken",
+      "count": 132
+    },
+    {
+      "word": "köre",
+      "count": 129
+    },
+    {
+      "word": "vilâyeti",
+      "count": 126
+    },
+    {
+      "word": "arasında",
+      "count": 126
+    },
+    {
+      "word": "halq",
+      "count": 125
+    },
+    {
+      "word": "ya",
+      "count": 125
+    },
+    {
+      "word": "han",
+      "count": 125
+    },
+    {
+      "word": "osmanlı",
+      "count": 124
+    },
+    {
+      "word": "kiyev",
+      "count": 122
+    },
+    {
+      "word": "neşir",
+      "count": 120
+    },
+    {
+      "word": "eki",
+      "count": 120
+    },
+    {
+      "word": "cumhuriyetiniñ",
+      "count": 118
+    },
+    {
+      "word": "doğğanlar",
+      "count": 118
+    },
+    {
+      "word": "türk",
+      "count": 117
+    },
+    {
+      "word": "saytı",
+      "count": 116
+    },
+    {
+      "word": "jıtomır",
+      "count": 114
+    },
+    {
+      "word": "şimaliy",
+      "count": 112
+    },
+    {
+      "word": "ades",
+      "count": 111
+    },
+    {
+      "word": "ete",
+      "count": 111
+    },
+    {
+      "word": "doğdı",
+      "count": 110
+    },
+    {
+      "word": "orta",
+      "count": 110
+    },
+    {
+      "word": "etildi",
+      "count": 109
+    },
+    {
+      "word": "türkiy",
+      "count": 107
+    },
+    {
+      "word": "bütün",
+      "count": 106
+    },
+    {
+      "word": "ii",
+      "count": 105
+    },
+    {
+      "word": "birinci",
+      "count": 102
+    },
+    {
+      "word": "aqqında",
+      "count": 101
+    },
+    {
+      "word": "etilgen",
+      "count": 101
+    },
+    {
+      "word": "vinnıtsâ",
+      "count": 100
+    },
+    {
+      "word": "qırımğa",
+      "count": 98
+    },
+    {
+      "word": "aqmescit",
+      "count": 97
+    },
+    {
+      "word": "seneleri",
+      "count": 97
+    },
+    {
+      "word": "paytahtı",
+      "count": 96
+    },
+    {
+      "word": "eski",
+      "count": 96
+    },
+    {
+      "word": "aynı",
+      "count": 95
+    },
+    {
+      "word": "ölgenler",
+      "count": 95
+    },
+    {
+      "word": "er",
+      "count": 94
+    },
+    {
+      "word": "çernigiv",
+      "count": 94
+    },
+    {
+      "word": "beraber",
+      "count": 93
+    },
+    {
+      "word": "ediler",
+      "count": 93
+    },
+    {
+      "word": "ilk",
+      "count": 92
+    },
+    {
+      "word": "şeeri",
+      "count": 91
+    },
+    {
+      "word": "aldı",
+      "count": 91
+    },
+    {
+      "word": "oğlu",
+      "count": 90
+    },
+    {
+      "word": "qara",
+      "count": 90
+    },
+    {
+      "word": "menbalar",
+      "count": 89
+    },
+    {
+      "word": "cenübiy",
+      "count": 88
+    },
+    {
+      "word": "lâkin",
+      "count": 87
+    },
+    {
+      "word": "ekinci",
+      "count": 86
+    },
+    {
+      "word": "pek",
+      "count": 86
+    },
+    {
+      "word": "ğarbiy",
+      "count": 85
+    },
+    {
+      "word": "cenki",
+      "count": 83
+    },
+    {
+      "word": "altın",
+      "count": 83
+    },
+    {
+      "word": "yaqın",
+      "count": 83
+    },
+    {
+      "word": "devam",
+      "count": 82
+    },
+    {
+      "word": "biñ",
+      "count": 82
+    },
+    {
+      "word": "ola",
+      "count": 82
+    },
+    {
+      "word": "org",
+      "count": 81
+    },
+    {
+      "word": "hmelnıtskıy",
+      "count": 81
+    },
+    {
+      "word": "i̇vano-frankivsk",
+      "count": 81
+    },
+    {
+      "word": "asır",
+      "count": 80
+    },
+    {
+      "word": "diger",
+      "count": 78
+    },
+    {
+      "word": "yıl",
+      "count": 78
+    },
+    {
+      "word": "ukraina",
+      "count": 75
+    },
+    {
+      "word": "asırnıñ",
+      "count": 75
+    },
+    {
+      "word": "yaşağan",
+      "count": 75
+    },
+    {
+      "word": "the",
+      "count": 75
+    },
+    {
+      "word": "ternopil",
+      "count": 75
+    },
+    {
+      "word": "cian",
+      "count": 74
+    },
+    {
+      "word": "qabul",
+      "count": 74
+    },
+    {
+      "word": "şarqiy",
+      "count": 74
+    },
+    {
+      "word": "tek",
+      "count": 74
+    },
+    {
+      "word": "başladı",
+      "count": 73
+    },
+    {
+      "word": "til",
+      "count": 73
+    },
+    {
+      "word": "dep",
+      "count": 73
+    },
+    {
+      "word": "qarşı",
+      "count": 72
+    },
+    {
+      "word": "qazan",
+      "count": 72
+    },
+    {
+      "word": "tilleri",
+      "count": 72
+    },
+    {
+      "word": "şu",
+      "count": 70
+    },
+    {
+      "word": "kelgen",
+      "count": 70
+    },
+    {
+      "word": "bulunğan",
+      "count": 70
+    },
+    {
+      "word": "hacı",
+      "count": 70
+    },
+    {
+      "word": "onı",
+      "count": 69
+    },
+    {
+      "word": "dünya",
+      "count": 69
+    },
+    {
+      "word": "osman",
+      "count": 69
+    },
+    {
+      "word": "bardır",
+      "count": 68
+    },
+    {
+      "word": "özü",
+      "count": 68
+    },
+    {
+      "word": "çerkası",
+      "count": 68
+    },
+    {
+      "word": "internet",
+      "count": 67
+    },
+    {
+      "word": "qırımtatarlar",
+      "count": 67
+    },
+    {
+      "word": "deñiz",
+      "count": 67
+    },
+    {
+      "word": "başqa",
+      "count": 67
+    },
+    {
+      "word": "tatar",
+      "count": 66
+    },
+    {
+      "word": "em",
+      "count": 66
+    },
+    {
+      "word": "köyünde",
+      "count": 65
+    },
+    {
+      "word": "ordu",
+      "count": 65
+    },
+    {
+      "word": "html",
+      "count": 65
+    },
+    {
+      "word": "vaqıtta",
+      "count": 64
+    },
+    {
+      "word": "meñli",
+      "count": 64
+    },
+    {
+      "word": "asırda",
+      "count": 64
+    },
+    {
+      "word": "müim",
+      "count": 64
+    },
+    {
+      "word": "üç",
+      "count": 64
+    },
+    {
+      "word": "mustafa",
+      "count": 64
+    },
+    {
+      "word": "laf",
+      "count": 64
+    },
+    {
+      "word": "yalta",
+      "count": 63
+    },
+    {
+      "word": "i̇smail",
+      "count": 62
+    },
+    {
+      "word": "keldi",
+      "count": 62
+    },
+    {
+      "word": "halqınıñ",
+      "count": 62
+    },
+    {
+      "word": "tarih",
+      "count": 62
+    },
+    {
+      "word": "domeni",
+      "count": 61
+    },
+    {
+      "word": "evel",
+      "count": 61
+    },
+    {
+      "word": "mayıs",
+      "count": 61
+    },
+    {
+      "word": "etip",
+      "count": 61
+    },
+    {
+      "word": "boş",
+      "count": 60
+    },
+    {
+      "word": "tilinde",
+      "count": 60
+    },
+    {
+      "word": "baş",
+      "count": 60
+    },
+    {
+      "word": "bazı",
+      "count": 60
+    },
+    {
+      "word": "bağçasaray",
+      "count": 60
+    },
+    {
+      "word": "zakarpattâ",
+      "count": 60
+    },
+    {
+      "word": "üst-seviye",
+      "count": 59
+    },
+    {
+      "word": "i̇slâm",
+      "count": 59
+    },
+    {
+      "word": "şeerinde",
+      "count": 59
+    },
+    {
+      "word": "künü",
+      "count": 59
+    },
+    {
+      "word": "kere",
+      "count": 59
+    },
+    {
+      "word": "buluna",
+      "count": 59
+    },
+    {
+      "word": "senesinden",
+      "count": 58
+    },
+    {
+      "word": "yazıcılar",
+      "count": 58
+    },
+    {
+      "word": "ibaret",
+      "count": 58
+    },
+    {
+      "word": "esas",
+      "count": 58
+    },
+    {
+      "word": "sv",
+      "count": 57
+    },
+    {
+      "word": "ulu",
+      "count": 57
+    },
+    {
+      "word": "çalıştı",
+      "count": 57
+    },
+    {
+      "word": "avropa",
+      "count": 57
+    },
+    {
+      "word": "devleti",
+      "count": 57
+    },
+    {
+      "word": "toppdomän",
+      "count": 56
+    },
+    {
+      "word": "afrikada",
+      "count": 56
+    },
+    {
+      "word": "edebiy",
+      "count": 56
+    },
+    {
+      "word": "vefat",
+      "count": 56
+    },
+    {
+      "word": "yaş",
+      "count": 55
+    },
+    {
+      "word": "ziyade",
+      "count": 55
+    },
+    {
+      "word": "teşkil",
+      "count": 55
+    },
+    {
+      "word": "babası",
+      "count": 55
+    },
+    {
+      "word": "kirdi",
+      "count": 54
+    },
+    {
+      "word": "ealisi",
+      "count": 54
+    },
+    {
+      "word": "şeerniñ",
+      "count": 54
+    },
+    {
+      "word": "qaç",
+      "count": 54
+    },
+    {
+      "word": "siyasiy",
+      "count": 53
+    },
+    {
+      "word": "alıp",
+      "count": 53
+    },
+    {
+      "word": "hanlığı",
+      "count": 53
+    },
+    {
+      "word": "of",
+      "count": 53
+    },
+    {
+      "word": "şimdiki",
+      "count": 52
+    },
+    {
+      "word": "mında",
+      "count": 52
+    },
+    {
+      "word": "çeşit",
+      "count": 52
+    },
+    {
+      "word": "qırımtatarlarnıñ",
+      "count": 52
+    },
+    {
+      "word": "latin",
+      "count": 52
+    },
+    {
+      "word": "yoq",
+      "count": 51
+    },
+    {
+      "word": "oquv",
+      "count": 51
+    },
+    {
+      "word": "atıflar",
+      "count": 51
+    },
+    {
+      "word": "i̇stanbul",
+      "count": 51
+    },
+    {
+      "word": "asiyada",
+      "count": 50
+    },
+    {
+      "word": "tarihı",
+      "count": 50
+    },
+    {
+      "word": "yerler",
+      "count": 50
+    },
+    {
+      "word": "yazğan",
+      "count": 50
+    },
+    {
+      "word": "tış",
+      "count": 50
+    },
+    {
+      "word": "qurulğan",
+      "count": 49
+    },
+    {
+      "word": "yer",
+      "count": 49
+    },
+    {
+      "word": "biri",
+      "count": 49
+    },
+    {
+      "word": "avropada",
+      "count": 49
+    },
+    {
+      "word": "eli",
+      "count": 49
+    },
+    {
+      "word": "lehistan",
+      "count": 49
+    },
+    {
+      "word": "arap",
+      "count": 48
+    },
+    {
+      "word": "iştirak",
+      "count": 48
+    },
+    {
+      "word": "sovet",
+      "count": 48
+    },
+    {
+      "word": "qıpçaq",
+      "count": 48
+    },
+    {
+      "word": "qaldı",
+      "count": 48
+    },
+    {
+      "word": "qadimiy",
+      "count": 48
+    },
+    {
+      "word": "qaray",
+      "count": 48
+    },
+    {
+      "word": "merkeziy",
+      "count": 47
+    },
+    {
+      "word": "ru",
+      "count": 47
+    },
+    {
+      "word": "aqmescitte",
+      "count": 47
+    },
+    {
+      "word": "şeerdir",
+      "count": 47
+    },
+    {
+      "word": "meskün",
+      "count": 47
+    },
+    {
+      "word": "tarihiy",
+      "count": 47
+    },
+    {
+      "word": "ettiler",
+      "count": 47
+    },
+    {
+      "word": "çernivtsi",
+      "count": 47
+    },
+    {
+      "word": "vaqıt",
+      "count": 46
+    },
+    {
+      "word": "çıqtı",
+      "count": 46
+    },
+    {
+      "word": "amma",
+      "count": 46
+    },
+    {
+      "word": "şair",
+      "count": 46
+    },
+    {
+      "word": "senesiniñ",
+      "count": 45
+    },
+    {
+      "word": "edebiyat",
+      "count": 45
+    },
+    {
+      "word": "bundan",
+      "count": 45
+    },
+    {
+      "word": "iii",
+      "count": 45
+    },
+    {
+      "word": "geraynıñ",
+      "count": 45
+    },
+    {
+      "word": "km",
+      "count": 45
+    },
+    {
+      "word": "ğayrı",
+      "count": 45
+    },
+    {
+      "word": "şiirler",
+      "count": 45
+    },
+    {
+      "word": "sene",
+      "count": 45
+    },
+    {
+      "word": "olğanı",
+      "count": 45
+    },
+    {
+      "word": "yazıcı",
+      "count": 44
+    },
+    {
+      "word": "i̇htar",
+      "count": 44
+    },
+    {
+      "word": "devletiniñ",
+      "count": 44
+    },
+    {
+      "word": "yuqarı",
+      "count": 44
+    },
+    {
+      "word": "kitabı",
+      "count": 43
+    },
+    {
+      "word": "hanı",
+      "count": 43
+    },
+    {
+      "word": "portalı",
+      "count": 43
+    },
+    {
+      "word": "sürgün",
+      "count": 43
+    },
+    {
+      "word": "berli",
+      "count": 43
+    },
+    {
+      "word": "yazdı",
+      "count": 43
+    },
+    {
+      "word": "olarnıñ",
+      "count": 43
+    },
+    {
+      "word": "muhtar",
+      "count": 43
+    },
+    {
+      "word": "idare",
+      "count": 43
+    },
+    {
+      "word": "gasprinskiy",
+      "count": 43
+    },
+    {
+      "word": "tiline",
+      "count": 43
+    },
+    {
+      "word": "şuralar",
+      "count": 42
+    },
+    {
+      "word": "berdi",
+      "count": 42
+    },
+    {
+      "word": "keriç",
+      "count": 42
+    },
+    {
+      "word": "neticesinde",
+      "count": 42
+    },
+    {
+      "word": "qırımdaki",
+      "count": 42
+    },
+    {
+      "word": "aluşta",
+      "count": 42
+    },
+    {
+      "word": "vaqtında",
+      "count": 42
+    },
+    {
+      "word": "şiirleri",
+      "count": 42
+    },
+    {
+      "word": "etile",
+      "count": 42
+    },
+    {
+      "word": "çoqusı",
+      "count": 42
+    },
+    {
+      "word": "ali",
+      "count": 42
+    },
+    {
+      "word": "yani",
+      "count": 42
+    },
+    {
+      "word": "xx",
+      "count": 41
+    },
+    {
+      "word": "medeniyet",
+      "count": 41
+    },
+    {
+      "word": "yerine",
+      "count": 41
+    },
+    {
+      "word": "moskva",
+      "count": 41
+    },
+    {
+      "word": "sentâbr",
+      "count": 41
+    },
+    {
+      "word": "zamanda",
+      "count": 41
+    },
+    {
+      "word": "etmek",
+      "count": 41
+    },
+    {
+      "word": "net",
+      "count": 41
+    },
+    {
+      "word": "info",
+      "count": 41
+    },
+    {
+      "word": "aprel",
+      "count": 40
+    },
+    {
+      "word": "arbiy",
+      "count": 40
+    },
+    {
+      "word": "cenk",
+      "count": 40
+    },
+    {
+      "word": "zemaneviy",
+      "count": 40
+    },
+    {
+      "word": "sultan",
+      "count": 40
+    },
+    {
+      "word": "küçük",
+      "count": 40
+    },
+    {
+      "word": "ay",
+      "count": 40
+    },
+    {
+      "word": "yalı",
+      "count": 40
+    },
+    {
+      "word": "meydanğa",
+      "count": 40
+    },
+    {
+      "word": "ekende",
+      "count": 40
+    },
+    {
+      "word": "tiller",
+      "count": 40
+    },
+    {
+      "word": "elifbesi",
+      "count": 40
+    },
+    {
+      "word": "alğan",
+      "count": 39
+    },
+    {
+      "word": "degil",
+      "count": 39
+    },
+    {
+      "word": "yerde",
+      "count": 39
+    },
+    {
+      "word": "yunan",
+      "count": 39
+    },
+    {
+      "word": "birleşken",
+      "count": 39
+    },
+    {
+      "word": "qurultay",
+      "count": 39
+    },
+    {
+      "word": "i̇lk",
+      "count": 39
+    },
+    {
+      "word": "ait",
+      "count": 39
+    },
+    {
+      "word": "selim",
+      "count": 39
+    },
+    {
+      "word": "oktâbr",
+      "count": 38
+    },
+    {
+      "word": "şamil",
+      "count": 38
+    },
+    {
+      "word": "mustaqil",
+      "count": 38
+    },
+    {
+      "word": "arasındaki",
+      "count": 38
+    },
+    {
+      "word": "yüksek",
+      "count": 38
+    },
+    {
+      "word": "kene",
+      "count": 38
+    },
+    {
+      "word": "anda",
+      "count": 38
+    },
+    {
+      "word": "musulman",
+      "count": 38
+    },
+    {
+      "word": "rusiyeniñ",
+      "count": 38
+    },
+    {
+      "word": "qırımdan",
+      "count": 38
+    },
+    {
+      "word": "castles",
+      "count": 38
+    },
+    {
+      "word": "oqudı",
+      "count": 37
+    },
+    {
+      "word": "olar",
+      "count": 37
+    },
+    {
+      "word": "devamında",
+      "count": 37
+    },
+    {
+      "word": "qalğan",
+      "count": 37
+    },
+    {
+      "word": "muzıka",
+      "count": 37
+    },
+    {
+      "word": "amerika",
+      "count": 37
+    },
+    {
+      "word": "içinde",
+      "count": 37
+    },
+    {
+      "word": "soñunda",
+      "count": 37
+    },
+    {
+      "word": "gazetasında",
+      "count": 37
+    },
+    {
+      "word": "aşıq",
+      "count": 37
+    },
+    {
+      "word": "qızıl",
+      "count": 36
+    },
+    {
+      "word": "tiliniñ",
+      "count": 36
+    },
+    {
+      "word": "işleri",
+      "count": 36
+    },
+    {
+      "word": "şimdi",
+      "count": 36
+    },
+    {
+      "word": "balaban",
+      "count": 36
+    },
+    {
+      "word": "tildir",
+      "count": 36
+    },
+    {
+      "word": "diasporası",
+      "count": 36
+    },
+    {
+      "word": "çıqqan",
+      "count": 35
+    },
+    {
+      "word": "yanvar",
+      "count": 35
+    },
+    {
+      "word": "suv",
+      "count": 35
+    },
+    {
+      "word": "altında",
+      "count": 35
+    },
+    {
+      "word": "tercime",
+      "count": 35
+    },
+    {
+      "word": "amerikada",
+      "count": 35
+    },
+    {
+      "word": "beş",
+      "count": 35
+    },
+    {
+      "word": "lenin",
+      "count": 35
+    },
+    {
+      "word": "uzun",
+      "count": 35
+    },
+    {
+      "word": "ketti",
+      "count": 35
+    },
+    {
+      "word": "qırımnı",
+      "count": 35
+    },
+    {
+      "word": "edige",
+      "count": 35
+    },
+    {
+      "word": "birliginiñ",
+      "count": 34
+    },
+    {
+      "word": "özüniñ",
+      "count": 34
+    },
+    {
+      "word": "vatan",
+      "count": 34
+    },
+    {
+      "word": "edebiyatı",
+      "count": 34
+    },
+    {
+      "word": "şeeridir",
+      "count": 34
+    },
+    {
+      "word": "ki",
+      "count": 34
+    },
+    {
+      "word": "alman",
+      "count": 34
+    },
+    {
+      "word": "adam",
+      "count": 34
+    },
+    {
+      "word": "kefe",
+      "count": 34
+    },
+    {
+      "word": "üsein",
+      "count": 34
+    },
+    {
+      "word": "senesine",
+      "count": 34
+    },
+    {
+      "word": "çalğı",
+      "count": 34
+    },
+    {
+      "word": "hannıñ",
+      "count": 34
+    },
+    {
+      "word": "roma",
+      "count": 34
+    },
+    {
+      "word": "milletler",
+      "count": 34
+    },
+    {
+      "word": "bayrağı",
+      "count": 34
+    },
+    {
+      "word": "türkiyedeki",
+      "count": 34
+    },
+    {
+      "word": "pl",
+      "count": 34
+    },
+    {
+      "word": "aq",
+      "count": 33
+    },
+    {
+      "word": "ayında",
+      "count": 33
+    },
+    {
+      "word": "eserleri",
+      "count": 33
+    },
+    {
+      "word": "bitirgen",
+      "count": 33
+    },
+    {
+      "word": "vilâyetiniñ",
+      "count": 33
+    },
+    {
+      "word": "adına",
+      "count": 33
+    },
+    {
+      "word": "ukrain",
+      "count": 33
+    },
+    {
+      "word": "yazılğan",
+      "count": 33
+    },
+    {
+      "word": "tamırlı",
+      "count": 33
+    },
+    {
+      "word": "reisi",
+      "count": 33
+    },
+    {
+      "word": "yaşay",
+      "count": 33
+    },
+    {
+      "word": "poltava",
+      "count": 33
+    },
+    {
+      "word": "qoşma",
+      "count": 32
+    },
+    {
+      "word": "dünyağa",
+      "count": 32
+    },
+    {
+      "word": "bunıñ",
+      "count": 32
+    },
+    {
+      "word": "hanlığınıñ",
+      "count": 32
+    },
+    {
+      "word": "peyda",
+      "count": 32
+    },
+    {
+      "word": "alim",
+      "count": 32
+    },
+    {
+      "word": "adını",
+      "count": 32
+    },
+    {
+      "word": "başında",
+      "count": 32
+    },
+    {
+      "word": "yanında",
+      "count": 32
+    },
+    {
+      "word": "slavân",
+      "count": 32
+    },
+    {
+      "word": "kele",
+      "count": 32
+    },
+    {
+      "word": "keçken",
+      "count": 32
+    },
+    {
+      "word": "kiril",
+      "count": 32
+    },
+    {
+      "word": "yıldız",
+      "count": 31
+    },
+    {
+      "word": "i̇stanbulda",
+      "count": 31
+    },
+    {
+      "word": "pedagogika",
+      "count": 31
+    },
+    {
+      "word": "sıra",
+      "count": 31
+    },
+    {
+      "word": "mahsus",
+      "count": 31
+    },
+    {
+      "word": "yañıdan",
+      "count": 31
+    },
+    {
+      "word": "yaptı",
+      "count": 31
+    },
+    {
+      "word": "yapılğan",
+      "count": 31
+    },
+    {
+      "word": "fevral",
+      "count": 31
+    },
+    {
+      "word": "ayrı",
+      "count": 31
+    },
+    {
+      "word": "ordusı",
+      "count": 31
+    },
+    {
+      "word": "noyabr",
+      "count": 31
+    },
+    {
+      "word": "kezlev",
+      "count": 31
+    },
+    {
+      "word": "memet",
+      "count": 31
+    },
+    {
+      "word": "mart",
+      "count": 31
+    },
+    {
+      "word": "php",
+      "count": 31
+    },
+    {
+      "word": "at",
+      "count": 30
+    },
+    {
+      "word": "noman",
+      "count": 30
+    },
+    {
+      "word": "qaytıp",
+      "count": 30
+    },
+    {
+      "word": "çalışa",
+      "count": 30
+    },
+    {
+      "word": "şeerde",
+      "count": 30
+    },
+    {
+      "word": "oña",
+      "count": 30
+    },
+    {
+      "word": "degen",
+      "count": 30
+    },
+    {
+      "word": "dağ",
+      "count": 30
+    },
+    {
+      "word": "kitap",
+      "count": 30
+    },
+    {
+      "word": "şairler",
+      "count": 30
+    },
+    {
+      "word": "çin",
+      "count": 30
+    },
+    {
+      "word": "olsa",
+      "count": 30
+    },
+    {
+      "word": "htm",
+      "count": 30
+    },
+    {
+      "word": "emel",
+      "count": 30
+    },
+    {
+      "word": "az",
+      "count": 29
+    },
+    {
+      "word": "iyün",
+      "count": 29
+    },
+    {
+      "word": "yıllıq",
+      "count": 29
+    },
+    {
+      "word": "mektebinde",
+      "count": 29
+    },
+    {
+      "word": "hristian",
+      "count": 29
+    },
+    {
+      "word": "universiteti",
+      "count": 29
+    },
+    {
+      "word": "meclis",
+      "count": 29
+    },
+    {
+      "word": "azat",
+      "count": 29
+    },
+    {
+      "word": "bağçasarayda",
+      "count": 29
+    },
+    {
+      "word": "şairi",
+      "count": 29
+    },
+    {
+      "word": "belarus",
+      "count": 29
+    },
+    {
+      "word": "iç",
+      "count": 29
+    },
+    {
+      "word": "bile",
+      "count": 29
+    },
+    {
+      "word": "mecmuası",
+      "count": 29
+    },
+    {
+      "word": "rok",
+      "count": 29
+    },
+    {
+      "word": "abibulla",
+      "count": 28
+    },
+    {
+      "word": "basıldı",
+      "count": 28
+    },
+    {
+      "word": "devrinde",
+      "count": 28
+    },
+    {
+      "word": "ümer",
+      "count": 28
+    },
+    {
+      "word": "kemal",
+      "count": 28
+    },
+    {
+      "word": "dekabr",
+      "count": 28
+    },
+    {
+      "word": "keçti",
+      "count": 28
+    },
+    {
+      "word": "başlap",
+      "count": 28
+    },
+    {
+      "word": "bağlı",
+      "count": 28
+    },
+    {
+      "word": "dört",
+      "count": 28
+    },
+    {
+      "word": "qırallığı",
+      "count": 28
+    },
+    {
+      "word": "böyle",
+      "count": 28
+    },
+    {
+      "word": "zaman",
+      "count": 28
+    },
+    {
+      "word": "zapt",
+      "count": 28
+    },
+    {
+      "word": "bey",
+      "count": 28
+    },
+    {
+      "word": "devirde",
+      "count": 27
+    },
+    {
+      "word": "inkişaf",
+      "count": 27
+    },
+    {
+      "word": "üküm",
+      "count": 27
+    },
+    {
+      "word": "km²",
+      "count": 27
+    },
+    {
+      "word": "dünyanıñ",
+      "count": 27
+    },
+    {
+      "word": "saip",
+      "count": 27
+    },
+    {
+      "word": "sahib",
+      "count": 27
+    },
+    {
+      "word": "qızı",
+      "count": 27
+    },
+    {
+      "word": "şeyh",
+      "count": 27
+    },
+    {
+      "word": "adınen",
+      "count": 27
+    },
+    {
+      "word": "kiçik",
+      "count": 27
+    },
+    {
+      "word": "ondan",
+      "count": 27
+    },
+    {
+      "word": "olmağan",
+      "count": 27
+    },
+    {
+      "word": "özeni",
+      "count": 27
+    },
+    {
+      "word": "yalısında",
+      "count": 27
+    },
+    {
+      "word": "nci",
+      "count": 27
+    },
+    {
+      "word": "diniy",
+      "count": 27
+    },
+    {
+      "word": "köyü",
+      "count": 27
+    },
+    {
+      "word": "senelerinde",
+      "count": 27
+    },
+    {
+      "word": "ukrainada",
+      "count": 27
+    },
+    {
+      "word": "para",
+      "count": 27
+    },
+    {
+      "word": "wikipedia",
+      "count": 27
+    },
+    {
+      "word": "ağır",
+      "count": 26
+    },
+    {
+      "word": "mecmuasında",
+      "count": 26
+    },
+    {
+      "word": "te",
+      "count": 26
+    },
+    {
+      "word": "yapqan",
+      "count": 26
+    },
+    {
+      "word": "tarhan",
+      "count": 26
+    },
+    {
+      "word": "iv",
+      "count": 26
+    },
+    {
+      "word": "ermeni",
+      "count": 26
+    },
+    {
+      "word": "haritasında",
+      "count": 26
+    },
+    {
+      "word": "esasen",
+      "count": 26
+    },
+    {
+      "word": "adaları",
+      "count": 26
+    },
+    {
+      "word": "on",
+      "count": 26
+    },
+    {
+      "word": "kün",
+      "count": 26
+    },
+    {
+      "word": "tasil",
+      "count": 26
+    },
+    {
+      "word": "acı",
+      "count": 26
+    },
+    {
+      "word": "olardan",
+      "count": 26
+    },
+    {
+      "word": "birligi",
+      "count": 26
+    },
+    {
+      "word": "kire",
+      "count": 26
+    },
+    {
+      "word": "özbekistan",
+      "count": 26
+    },
+    {
+      "word": "qırımçaq",
+      "count": 26
+    },
+    {
+      "word": "olğanını",
+      "count": 26
+    },
+    {
+      "word": "kırım",
+      "count": 26
+    },
+    {
+      "word": "paytahtlar",
+      "count": 26
+    },
+    {
+      "word": "berildi",
+      "count": 25
+    },
+    {
+      "word": "qaramanları",
+      "count": 25
+    },
+    {
+      "word": "timur",
+      "count": 25
+    },
+    {
+      "word": "terkibinde",
+      "count": 25
+    },
+    {
+      "word": "asırlar",
+      "count": 25
+    },
+    {
+      "word": "eali",
+      "count": 25
+    },
+    {
+      "word": "qarasuvbazar",
+      "count": 25
+    },
+    {
+      "word": "qayttı",
+      "count": 25
+    },
+    {
+      "word": "şiir",
+      "count": 25
+    },
+    {
+      "word": "yeri",
+      "count": 25
+    },
+    {
+      "word": "sanat",
+      "count": 25
+    },
+    {
+      "word": "başı",
+      "count": 25
+    },
+    {
+      "word": "or",
+      "count": 25
+    },
+    {
+      "word": "köçken",
+      "count": 25
+    },
+    {
+      "word": "ankara",
+      "count": 25
+    },
+    {
+      "word": "kelip",
+      "count": 25
+    },
+    {
+      "word": "eteler",
+      "count": 25
+    },
+    {
+      "word": "saylandı",
+      "count": 25
+    },
+    {
+      "word": "cemaat",
+      "count": 25
+    },
+    {
+      "word": "index",
+      "count": 25
+    },
+    {
+      "word": "demokratik",
+      "count": 24
+    },
+    {
+      "word": "keniş",
+      "count": 24
+    },
+    {
+      "word": "yedi",
+      "count": 24
+    },
+    {
+      "word": "başlay",
+      "count": 24
+    },
+    {
+      "word": "mektepni",
+      "count": 24
+    },
+    {
+      "word": "başlandı",
+      "count": 24
+    },
+    {
+      "word": "cenüp-şarqiy",
+      "count": 24
+    },
+    {
+      "word": "olundı",
+      "count": 24
+    },
+    {
+      "word": "ordunıñ",
+      "count": 24
+    },
+    {
+      "word": "mehmed",
+      "count": 24
+    },
+    {
+      "word": "saray",
+      "count": 24
+    },
+    {
+      "word": "yaza",
+      "count": 24
+    },
+    {
+      "word": "soñki",
+      "count": 24
+    },
+    {
+      "word": "birlikte",
+      "count": 24
+    },
+    {
+      "word": "ana",
+      "count": 24
+    },
+    {
+      "word": "gazeta",
+      "count": 24
+    },
+    {
+      "word": "qullanıla",
+      "count": 24
+    },
+    {
+      "word": "halqara",
+      "count": 24
+    },
+    {
+      "word": "cami",
+      "count": 24
+    },
+    {
+      "word": "ala",
+      "count": 24
+    },
+    {
+      "word": "amet",
+      "count": 24
+    },
+    {
+      "word": "qırq",
+      "count": 24
+    },
+    {
+      "word": "türkiyede",
+      "count": 24
+    },
+    {
+      "word": "şivesi",
+      "count": 24
+    },
+    {
+      "word": "mektep",
+      "count": 24
+    },
+    {
+      "word": "kerek",
+      "count": 24
+    },
+    {
+      "word": "https",
+      "count": 24
+    },
+    {
+      "word": "kütleviy",
+      "count": 24
+    },
+    {
+      "word": "insan",
+      "count": 24
+    },
+    {
+      "word": "amza",
+      "count": 24
+    },
+    {
+      "word": "cafer",
+      "count": 23
+    },
+    {
+      "word": "alem-i",
+      "count": 23
+    },
+    {
+      "word": "faal",
+      "count": 23
+    },
+    {
+      "word": "vilâyet",
+      "count": 23
+    },
+    {
+      "word": "rayon",
+      "count": 23
+    },
+    {
+      "word": "edil",
+      "count": 23
+    },
+    {
+      "word": "noğay",
+      "count": 23
+    },
+    {
+      "word": "abdulla",
+      "count": 23
+    },
+    {
+      "word": "baqıñız",
+      "count": 23
+    },
+    {
+      "word": "coğrafiya",
+      "count": 23
+    },
+    {
+      "word": "milâttan",
+      "count": 23
+    },
+    {
+      "word": "sudaq",
+      "count": 23
+    },
+    {
+      "word": "den",
+      "count": 23
+    },
+    {
+      "word": "aşağı",
+      "count": 23
+    },
+    {
+      "word": "regionları",
+      "count": 23
+    },
+    {
+      "word": "bugün",
+      "count": 23
+    },
+    {
+      "word": "halqı",
+      "count": 23
+    },
+    {
+      "word": "asiya",
+      "count": 23
+    },
+    {
+      "word": "şarq",
+      "count": 23
+    },
+    {
+      "word": "halqnıñ",
+      "count": 23
+    },
+    {
+      "word": "esasında",
+      "count": 23
+    },
+    {
+      "word": "bay",
+      "count": 23
+    },
+    {
+      "word": "ayrıca",
+      "count": 23
+    },
+    {
+      "word": "bizim",
+      "count": 23
+    },
+    {
+      "word": "medeniy",
+      "count": 23
+    },
+    {
+      "word": "zıncırlı",
+      "count": 23
+    },
+    {
+      "word": "albat",
+      "count": 23
+    },
+    {
+      "word": "yahşı",
+      "count": 23
+    },
+    {
+      "word": "qayd",
+      "count": 23
+    },
+    {
+      "word": "faqat",
+      "count": 23
+    },
+    {
+      "word": "tilidir",
+      "count": 23
+    },
+    {
+      "word": "yardım",
+      "count": 23
+    },
+    {
+      "word": "qısmı",
+      "count": 23
+    },
+    {
+      "word": "mırza",
+      "count": 23
+    },
+    {
+      "word": "oca",
+      "count": 23
+    },
+    {
+      "word": "qırımçaqlar",
+      "count": 23
+    },
+    {
+      "word": "sebep",
+      "count": 23
+    },
+    {
+      "word": "oturğan",
+      "count": 23
+    },
+    {
+      "word": "eşref",
+      "count": 23
+    },
+    {
+      "word": "vilâyetleri",
+      "count": 23
+    },
+    {
+      "word": "donetsk",
+      "count": 23
+    },
+    {
+      "word": "vaqialar",
+      "count": 22
+    },
+    {
+      "word": "qaramanı",
+      "count": 22
+    },
+    {
+      "word": "bitirdi",
+      "count": 22
+    },
+    {
+      "word": "tam",
+      "count": 22
+    },
+    {
+      "word": "ders",
+      "count": 22
+    },
+    {
+      "word": "ocalıq",
+      "count": 22
+    },
+    {
+      "word": "meydanlığı",
+      "count": 22
+    },
+    {
+      "word": "quruldı",
+      "count": 22
+    },
+    {
+      "word": "xv",
+      "count": 22
+    },
+    {
+      "word": "devri",
+      "count": 22
+    },
+    {
+      "word": "arareti",
+      "count": 22
+    },
+    {
+      "word": "tahminen",
+      "count": 22
+    },
+    {
+      "word": "boyunda",
+      "count": 22
+    },
+    {
+      "word": "boyu",
+      "count": 22
+    },
+    {
+      "word": "xix",
+      "count": 22
+    },
+    {
+      "word": "balalar",
+      "count": 22
+    },
+    {
+      "word": "şeeriniñ",
+      "count": 22
+    },
+    {
+      "word": "etmege",
+      "count": 22
+    },
+    {
+      "word": "quyu",
+      "count": 22
+    },
+    {
+      "word": "tüpyazılar",
+      "count": 22
+    },
+    {
+      "word": "keçe",
+      "count": 22
+    },
+    {
+      "word": "tarafında",
+      "count": 22
+    },
+    {
+      "word": "memleketler",
+      "count": 22
+    },
+    {
+      "word": "qıbrız",
+      "count": 22
+    },
+    {
+      "word": "parçası",
+      "count": 22
+    },
+    {
+      "word": "yazı",
+      "count": 22
+    },
+    {
+      "word": "german",
+      "count": 22
+    },
+    {
+      "word": "and",
+      "count": 22
+    },
+    {
+      "word": "sebebinen",
+      "count": 22
+    },
+    {
+      "word": "in",
+      "count": 22
+    },
+    {
+      "word": "narod",
+      "count": 22
+    },
+    {
+      "word": "afrika",
+      "count": 21
+    },
+    {
+      "word": "türkiyeniñ",
+      "count": 21
+    },
+    {
+      "word": "çelebicihan",
+      "count": 21
+    },
+    {
+      "word": "azası",
+      "count": 21
+    },
+    {
+      "word": "canköy",
+      "count": 21
+    },
+    {
+      "word": "eken",
+      "count": 21
+    },
+    {
+      "word": "berilgen",
+      "count": 21
+    },
+    {
+      "word": "elâk",
+      "count": 21
+    },
+    {
+      "word": "malümat",
+      "count": 21
+    },
+    {
+      "word": "ava",
+      "count": 21
+    },
+    {
+      "word": "şairniñ",
+      "count": 21
+    },
+    {
+      "word": "cumhuriyet",
+      "count": 21
+    },
+    {
+      "word": "aqyar",
+      "count": 21
+    },
+    {
+      "word": "söz",
+      "count": 21
+    },
+    {
+      "word": "rusça",
+      "count": 21
+    },
+    {
+      "word": "bekir",
+      "count": 21
+    },
+    {
+      "word": "taqımı",
+      "count": 21
+    },
+    {
+      "word": "tayin",
+      "count": 21
+    },
+    {
+      "word": "romans",
+      "count": 21
+    },
+    {
+      "word": "cengiz",
+      "count": 21
+    },
+    {
+      "word": "sefer",
+      "count": 21
+    },
+    {
+      "word": "ne",
+      "count": 21
+    },
+    {
+      "word": "gov",
+      "count": 21
+    },
+    {
+      "word": "qaraylar",
+      "count": 21
+    },
+    {
+      "word": "meselâ",
+      "count": 21
+    },
+    {
+      "word": "rayonlar",
+      "count": 21
+    },
+    {
+      "word": "bulundı",
+      "count": 20
+    },
+    {
+      "word": "yılları",
+      "count": 20
+    },
+    {
+      "word": "meşur",
+      "count": 20
+    },
+    {
+      "word": "amet-han",
+      "count": 20
+    },
+    {
+      "word": "zamanında",
+      "count": 20
+    },
+    {
+      "word": "tilinden",
+      "count": 20
+    },
+    {
+      "word": "i̇mperiyasınıñ",
+      "count": 20
+    },
+    {
+      "word": "qarar",
+      "count": 20
+    },
+    {
+      "word": "sotsialistik",
+      "count": 20
+    },
+    {
+      "word": "çerkez",
+      "count": 20
+    },
+    {
+      "word": "taş",
+      "count": 20
+    },
+    {
+      "word": "qırımtatarca",
+      "count": 20
+    },
+    {
+      "word": "qale",
+      "count": 20
+    },
+    {
+      "word": "asan",
+      "count": 20
+    },
+    {
+      "word": "tasilini",
+      "count": 20
+    },
+    {
+      "word": "erbapları",
+      "count": 20
+    },
+    {
+      "word": "felemenk",
+      "count": 20
+    },
+    {
+      "word": "anası",
+      "count": 20
+    },
+    {
+      "word": "ep",
+      "count": 20
+    },
+    {
+      "word": "cümleden",
+      "count": 20
+    },
+    {
+      "word": "lehistanda",
+      "count": 20
+    },
+    {
+      "word": "lehistandaki",
+      "count": 20
+    },
+    {
+      "word": "türkiyege",
+      "count": 20
+    },
+    {
+      "word": "terciman",
+      "count": 20
+    },
+    {
+      "word": "moldova",
+      "count": 20
+    },
+    {
+      "word": "hanım",
+      "count": 20
+    },
+    {
+      "word": "elifbesiniñ",
+      "count": 20
+    },
+    {
+      "word": "türkçe",
+      "count": 20
+    },
+    {
+      "word": "uyğur",
+      "count": 20
+    },
+    {
+      "word": "yusuf",
+      "count": 20
+    },
+    {
+      "word": "emir",
+      "count": 20
+    },
+    {
+      "word": "city",
+      "count": 20
+    },
+    {
+      "word": "velıka",
+      "count": 20
+    },
+    {
+      "word": "article",
+      "count": 20
+    },
+    {
+      "word": "oqumağa",
+      "count": 19
+    },
+    {
+      "word": "seydamet",
+      "count": 19
+    },
+    {
+      "word": "eserler",
+      "count": 19
+    },
+    {
+      "word": "alındı",
+      "count": 19
+    },
+    {
+      "word": "qazahistan",
+      "count": 19
+    },
+    {
+      "word": "iqtisadiy",
+      "count": 19
+    },
+    {
+      "word": "millet",
+      "count": 19
+    },
+    {
+      "word": "i̇van",
+      "count": 19
+    },
+    {
+      "word": "başlağan",
+      "count": 19
+    },
+    {
+      "word": "muhammed",
+      "count": 19
+    },
+    {
+      "word": "kurort",
+      "count": 19
+    },
+    {
+      "word": "asırlarda",
+      "count": 19
+    },
+    {
+      "word": "başta",
+      "count": 19
+    },
+    {
+      "word": "yolu",
+      "count": 19
+    },
+    {
+      "word": "biz",
+      "count": 19
+    },
+    {
+      "word": "sala",
+      "count": 19
+    },
+    {
+      "word": "i̇stanbulğa",
+      "count": 19
+    },
+    {
+      "word": "i̇çki",
+      "count": 19
+    },
+    {
+      "word": "ilmiy",
+      "count": 19
+    },
+    {
+      "word": "yaşında",
+      "count": 19
+    },
+    {
+      "word": "umumiy",
+      "count": 19
+    },
+    {
+      "word": "oğuz",
+      "count": 19
+    },
+    {
+      "word": "maqaleler",
+      "count": 19
+    },
+    {
+      "word": "şscb",
+      "count": 19
+    },
+    {
+      "word": "fırqa",
+      "count": 19
+    },
+    {
+      "word": "namlı",
+      "count": 19
+    },
+    {
+      "word": "hanlığını",
+      "count": 19
+    },
+    {
+      "word": "azaq",
+      "count": 19
+    },
+    {
+      "word": "keri",
+      "count": 19
+    },
+    {
+      "word": "ukrainadaki",
+      "count": 19
+    },
+    {
+      "word": "şeerine",
+      "count": 19
+    },
+    {
+      "word": "atatürk",
+      "count": 19
+    },
+    {
+      "word": "taşkent",
+      "count": 19
+    },
+    {
+      "word": "sürgen",
+      "count": 19
+    },
+    {
+      "word": "naziri",
+      "count": 19
+    },
+    {
+      "word": "özenbaşlı",
+      "count": 19
+    },
+    {
+      "word": "özbekistanda",
+      "count": 19
+    },
+    {
+      "word": "sürgünlik",
+      "count": 19
+    },
+    {
+      "word": "odabaş",
+      "count": 18
+    },
+    {
+      "word": "şiiri",
+      "count": 18
+    },
+    {
+      "word": "can",
+      "count": 18
+    },
+    {
+      "word": "kültür",
+      "count": 18
+    },
+    {
+      "word": "yarımadasında",
+      "count": 18
+    },
+    {
+      "word": "almaniya",
+      "count": 18
+    },
+    {
+      "word": "sabıq",
+      "count": 18
+    },
+    {
+      "word": "deşt-i",
+      "count": 18
+    },
+    {
+      "word": "halil",
+      "count": 18
+    },
+    {
+      "word": "nur",
+      "count": 18
+    },
+    {
+      "word": "olmaq",
+      "count": 18
+    },
+    {
+      "word": "farqlı",
+      "count": 18
+    },
+    {
+      "word": "ücüm",
+      "count": 18
+    },
+    {
+      "word": "özbek",
+      "count": 18
+    },
+    {
+      "word": "toqtamış",
+      "count": 18
+    },
+    {
+      "word": "ahmed",
+      "count": 18
+    },
+    {
+      "word": "doğğan",
+      "count": 18
+    },
+    {
+      "word": "cenkten",
+      "count": 18
+    },
+    {
+      "word": "halqlar",
+      "count": 18
+    },
+    {
+      "word": "acayip",
+      "count": 18
+    },
+    {
+      "word": "altı",
+      "count": 18
+    },
+    {
+      "word": "terkibine",
+      "count": 18
+    },
+    {
+      "word": "kirgen",
+      "count": 18
+    },
+    {
+      "word": "aliy",
+      "count": 18
+    },
+    {
+      "word": "üçünci",
+      "count": 18
+    },
+    {
+      "word": "yıllar",
+      "count": 18
+    },
+    {
+      "word": "cemiyeti",
+      "count": 18
+    },
+    {
+      "word": "dini",
+      "count": 18
+    },
+    {
+      "word": "gvineya",
+      "count": 18
+    },
+    {
+      "word": "tilini",
+      "count": 18
+    },
+    {
+      "word": "kitabını",
+      "count": 18
+    },
+    {
+      "word": "başına",
+      "count": 18
+    },
+    {
+      "word": "biñge",
+      "count": 18
+    },
+    {
+      "word": "ömür",
+      "count": 18
+    },
+    {
+      "word": "köktöbel",
+      "count": 18
+    },
+    {
+      "word": "yunanlar",
+      "count": 18
+    },
+    {
+      "word": "muqaddes",
+      "count": 18
+    },
+    {
+      "word": "gazetası",
+      "count": 18
+    },
+    {
+      "word": "bazıları",
+      "count": 18
+    },
+    {
+      "word": "biraz",
+      "count": 18
+    },
+    {
+      "word": "yapa",
+      "count": 18
+    },
+    {
+      "word": "elifbe",
+      "count": 18
+    },
+    {
+      "word": "tedqiq",
+      "count": 18
+    },
+    {
+      "word": "qırımlarnıñ",
+      "count": 18
+    },
+    {
+      "word": "morus",
+      "count": 18
+    },
+    {
+      "word": "servantes",
+      "count": 18
+    },
+    {
+      "word": "kiev",
+      "count": 18
+    },
+    {
+      "word": "xxi",
+      "count": 17
+    },
+    {
+      "word": "doğumlar",
+      "count": 17
+    },
+    {
+      "word": "ölümler",
+      "count": 17
+    },
+    {
+      "word": "qorantasında",
+      "count": 17
+    },
+    {
+      "word": "hızmet",
+      "count": 17
+    },
+    {
+      "word": "maarif",
+      "count": 17
+    },
+    {
+      "word": "medeniye",
+      "count": 17
+    },
+    {
+      "word": "kitaphanesinde",
+      "count": 17
+    },
+    {
+      "word": "çıqa",
+      "count": 17
+    },
+    {
+      "word": "etüv",
+      "count": 17
+    },
+    {
+      "word": "deñizge",
+      "count": 17
+    },
+    {
+      "word": "merkez",
+      "count": 17
+    },
+    {
+      "word": "şarqında",
+      "count": 17
+    },
+    {
+      "word": "xiii",
+      "count": 17
+    },
+    {
+      "word": "saibi",
+      "count": 17
+    },
+    {
+      "word": "lâyıq",
+      "count": 17
+    },
+    {
+      "word": "terek",
+      "count": 17
+    },
+    {
+      "word": "devletler",
+      "count": 17
+    },
+    {
+      "word": "yeudi",
+      "count": 17
+    },
+    {
+      "word": "trolleybus",
+      "count": 17
+    },
+    {
+      "word": "nasıl",
+      "count": 17
+    },
+    {
+      "word": "ilim",
+      "count": 17
+    },
+    {
+      "word": "region",
+      "count": 17
+    },
+    {
+      "word": "azerbaycan",
+      "count": 17
+    },
+    {
+      "word": "etrafında",
+      "count": 17
+    },
+    {
+      "word": "şeerni",
+      "count": 17
+    },
+    {
+      "word": "aleksandr",
+      "count": 17
+    },
+    {
+      "word": "aza",
+      "count": 17
+    },
+    {
+      "word": "ruslar",
+      "count": 17
+    },
+    {
+      "word": "mensüp",
+      "count": 17
+    },
+    {
+      "word": "etkeni",
+      "count": 17
+    },
+    {
+      "word": "rusiyege",
+      "count": 17
+    },
+    {
+      "word": "aldılar",
+      "count": 17
+    },
+    {
+      "word": "mecbur",
+      "count": 17
+    },
+    {
+      "word": "köstere",
+      "count": 17
+    },
+    {
+      "word": "icret",
+      "count": 17
+    },
+    {
+      "word": "to",
+      "count": 17
+    },
+    {
+      "word": "cıyıntığı",
+      "count": 17
+    },
+    {
+      "word": "i̇ran",
+      "count": 17
+    },
+    {
+      "word": "siyasetçileri",
+      "count": 17
+    },
+    {
+      "word": "köçip",
+      "count": 17
+    },
+    {
+      "word": "saq",
+      "count": 17
+    },
+    {
+      "word": "cenkte",
+      "count": 17
+    },
+    {
+      "word": "crh-latn",
+      "count": 17
+    },
+    {
+      "word": "crh-cyrl",
+      "count": 17
+    },
+    {
+      "word": "qırımlı",
+      "count": 17
+    },
+    {
+      "word": "basılıp",
+      "count": 17
+    },
+    {
+      "word": "sürette",
+      "count": 17
+    },
+    {
+      "word": "areketi",
+      "count": 17
+    },
+    {
+      "word": "albomlar",
+      "count": 17
+    },
+    {
+      "word": "müstecib",
+      "count": 17
+    },
+    {
+      "word": "xxii",
+      "count": 16
+    },
+    {
+      "word": "mektebini",
+      "count": 16
+    },
+    {
+      "word": "çıqardı",
+      "count": 16
+    },
+    {
+      "word": "müdiri",
+      "count": 16
+    },
+    {
+      "word": "uluğ",
+      "count": 16
+    },
+    {
+      "word": "bulğar",
+      "count": 16
+    },
+    {
+      "word": "qardaşı",
+      "count": 16
+    },
+    {
+      "word": "mm",
+      "count": 16
+    },
+    {
+      "word": "i̇mperiyası",
+      "count": 16
+    },
+    {
+      "word": "qazandı",
+      "count": 16
+    },
+    {
+      "word": "ge",
+      "count": 16
+    },
+    {
+      "word": "ev",
+      "count": 16
+    },
+    {
+      "word": "aqiqiy",
+      "count": 16
+    },
+    {
+      "word": "alda",
+      "count": 16
+    },
+    {
+      "word": "mektebine",
+      "count": 16
+    },
+    {
+      "word": "duşman",
+      "count": 16
+    },
+    {
+      "word": "i̇spaniya",
+      "count": 16
+    },
+    {
+      "word": "qış",
+      "count": 16
+    },
+    {
+      "word": "rusiyede",
+      "count": 16
+    },
+    {
+      "word": "sesi",
+      "count": 16
+    },
+    {
+      "word": "medrese",
+      "count": 16
+    },
+    {
+      "word": "qapı",
+      "count": 16
+    },
+    {
+      "word": "endi",
+      "count": 16
+    },
+    {
+      "word": "qurultayı",
+      "count": 16
+    },
+    {
+      "word": "kirip",
+      "count": 16
+    },
+    {
+      "word": "ükümetiniñ",
+      "count": 16
+    },
+    {
+      "word": "bular",
+      "count": 16
+    },
+    {
+      "word": "çar",
+      "count": 16
+    },
+    {
+      "word": "soqağı",
+      "count": 16
+    },
+    {
+      "word": "yaşap",
+      "count": 16
+    },
+    {
+      "word": "litvaniya",
+      "count": 16
+    },
+    {
+      "word": "özüne",
+      "count": 16
+    },
+    {
+      "word": "yazıcısı",
+      "count": 16
+    },
+    {
+      "word": "olarnı",
+      "count": 16
+    },
+    {
+      "word": "ilân",
+      "count": 16
+    },
+    {
+      "word": "romaniya",
+      "count": 16
+    },
+    {
+      "word": "yerli",
+      "count": 16
+    },
+    {
+      "word": "apis",
+      "count": 16
+    },
+    {
+      "word": "gruppasına",
+      "count": 16
+    },
+    {
+      "word": "bergen",
+      "count": 16
+    },
+    {
+      "word": "qısqa",
+      "count": 16
+    },
+    {
+      "word": "derc",
+      "count": 16
+    },
+    {
+      "word": "dr",
+      "count": 16
+    },
+    {
+      "word": "efendi",
+      "count": 16
+    },
+    {
+      "word": "blog",
+      "count": 16
+    },
+    {
+      "word": "id",
+      "count": 16
+    },
+    {
+      "word": "amdi",
+      "count": 15
+    },
+    {
+      "word": "çıqışı",
+      "count": 15
+    },
+    {
+      "word": "cenübinde",
+      "count": 15
+    },
+    {
+      "word": "atlantik",
+      "count": 15
+    },
+    {
+      "word": "ğarbında",
+      "count": 15
+    },
+    {
+      "word": "gizli",
+      "count": 15
+    },
+    {
+      "word": "küreş",
+      "count": 15
+    },
+    {
+      "word": "devletniñ",
+      "count": 15
+    },
+    {
+      "word": "xvi",
+      "count": 15
+    },
+    {
+      "word": "hanları",
+      "count": 15
+    },
+    {
+      "word": "ifade",
+      "count": 15
+    },
+    {
+      "word": "esir",
+      "count": 15
+    },
+    {
+      "word": "regionı",
+      "count": 15
+    },
+    {
+      "word": "vi",
+      "count": 15
+    },
+    {
+      "word": "bizans",
+      "count": 15
+    },
+    {
+      "word": "sebebi",
+      "count": 15
+    },
+    {
+      "word": "topraq",
+      "count": 15
+    },
+    {
+      "word": "devletleri",
+      "count": 15
+    },
+    {
+      "word": "bazar",
+      "count": 15
+    },
+    {
+      "word": "qullanılğan",
+      "count": 15
+    },
+    {
+      "word": "fazıl",
+      "count": 15
+    },
+    {
+      "word": "yanındaki",
+      "count": 15
+    },
+    {
+      "word": "sanayı",
+      "count": 15
+    },
+    {
+      "word": "dünyada",
+      "count": 15
+    },
+    {
+      "word": "teren",
+      "count": 15
+    },
+    {
+      "word": "avstriya",
+      "count": 15
+    },
+    {
+      "word": "derece",
+      "count": 15
+    },
+    {
+      "word": "bulğaristan",
+      "count": 15
+    },
+    {
+      "word": "şurasınıñ",
+      "count": 15
+    },
+    {
+      "word": "çöl",
+      "count": 15
+    },
+    {
+      "word": "xviii",
+      "count": 15
+    },
+    {
+      "word": "boyunca",
+      "count": 15
+    },
+    {
+      "word": "baqmadan",
+      "count": 15
+    },
+    {
+      "word": "gürcistan",
+      "count": 15
+    },
+    {
+      "word": "siyaset",
+      "count": 15
+    },
+    {
+      "word": "basıp",
+      "count": 15
+    },
+    {
+      "word": "bosporos",
+      "count": 15
+    },
+    {
+      "word": "çince",
+      "count": 15
+    },
+    {
+      "word": "makedoniya",
+      "count": 15
+    },
+    {
+      "word": "roman",
+      "count": 15
+    },
+    {
+      "word": "san",
+      "count": 15
+    },
+    {
+      "word": "aqçoqraqlı",
+      "count": 15
+    },
+    {
+      "word": "sayıla",
+      "count": 15
+    },
+    {
+      "word": "prof",
+      "count": 15
+    },
+    {
+      "word": "alâdin",
+      "count": 15
+    },
+    {
+      "word": "sekiz",
+      "count": 15
+    },
+    {
+      "word": "mükafatı",
+      "count": 15
+    },
+    {
+      "word": "историческая",
+      "count": 15
+    },
+    {
+      "word": "информация",
+      "count": 15
+    },
+    {
+      "word": "cult",
+      "count": 15
+    },
+    {
+      "word": "uruşlarda",
+      "count": 14
+    },
+    {
+      "word": "unvanı",
+      "count": 14
+    },
+    {
+      "word": "olunğan",
+      "count": 14
+    },
+    {
+      "word": "mecmuasınıñ",
+      "count": 14
+    },
+    {
+      "word": "bitirip",
+      "count": 14
+    },
+    {
+      "word": "nemse",
+      "count": 14
+    },
+    {
+      "word": "bakanlığı",
+      "count": 14
+    },
+    {
+      "word": "tüpbilgiler",
+      "count": 14
+    },
+    {
+      "word": "mektepte",
+      "count": 14
+    },
+    {
+      "word": "ulus",
+      "count": 14
+    },
+    {
+      "word": "fetih",
+      "count": 14
+    },
+    {
+      "word": "etilip",
+      "count": 14
+    },
+    {
+      "word": "üzerine",
+      "count": 14
+    },
+    {
+      "word": "geraynı",
+      "count": 14
+    },
+    {
+      "word": "suleyman",
+      "count": 14
+    },
+    {
+      "word": "devletine",
+      "count": 14
+    },
+    {
+      "word": "mahmud",
+      "count": 14
+    },
+    {
+      "word": "yerge",
+      "count": 14
+    },
+    {
+      "word": "açıldı",
+      "count": 14
+    },
+    {
+      "word": "serlevalı",
+      "count": 14
+    },
+    {
+      "word": "vefatından",
+      "count": 14
+    },
+    {
+      "word": "defa",
+      "count": 14
+    },
+    {
+      "word": "köz",
+      "count": 14
+    },
+    {
+      "word": "riza",
+      "count": 14
+    },
+    {
+      "word": "bugünki",
+      "count": 14
+    },
+    {
+      "word": "yurtu",
+      "count": 14
+    },
+    {
+      "word": "refat",
+      "count": 14
+    },
+    {
+      "word": "rayondır",
+      "count": 14
+    },
+    {
+      "word": "biy",
+      "count": 14
+    },
+    {
+      "word": "novıy",
+      "count": 14
+    },
+    {
+      "word": "yazıp",
+      "count": 14
+    },
+    {
+      "word": "içtimaiy",
+      "count": 14
+    },
+    {
+      "word": "resimler",
+      "count": 14
+    },
+    {
+      "word": "koreya",
+      "count": 14
+    },
+    {
+      "word": "memleketniñ",
+      "count": 14
+    },
+    {
+      "word": "turğan",
+      "count": 14
+    },
+    {
+      "word": "el",
+      "count": 14
+    },
+    {
+      "word": "qız",
+      "count": 14
+    },
+    {
+      "word": "asker",
+      "count": 14
+    },
+    {
+      "word": "şimal",
+      "count": 14
+    },
+    {
+      "word": "şeerleri",
+      "count": 14
+    },
+    {
+      "word": "biridir",
+      "count": 14
+    },
+    {
+      "word": "adalet",
+      "count": 14
+    },
+    {
+      "word": "alimler",
+      "count": 14
+    },
+    {
+      "word": "ükümet",
+      "count": 14
+    },
+    {
+      "word": "oğrunda",
+      "count": 14
+    },
+    {
+      "word": "ketken",
+      "count": 14
+    },
+    {
+      "word": "öldi",
+      "count": 14
+    },
+    {
+      "word": "ükümeti",
+      "count": 14
+    },
+    {
+      "word": "vii",
+      "count": 14
+    },
+    {
+      "word": "oluna",
+      "count": 14
+    },
+    {
+      "word": "yunanistan",
+      "count": 14
+    },
+    {
+      "word": "başlanğıç",
+      "count": 14
+    },
+    {
+      "word": "muallim",
+      "count": 14
+    },
+    {
+      "word": "yırcı",
+      "count": 14
+    },
+    {
+      "word": "nam",
+      "count": 14
+    },
+    {
+      "word": "otar",
+      "count": 14
+    },
+    {
+      "word": "tilde",
+      "count": 14
+    },
+    {
+      "word": "don",
+      "count": 14
+    },
+    {
+      "word": "nova",
+      "count": 14
+    },
+    {
+      "word": "özbekistannıñ",
+      "count": 14
+    },
+    {
+      "word": "dağcı",
+      "count": 14
+    },
+    {
+      "word": "ayı",
+      "count": 14
+    },
+    {
+      "word": "birlik",
+      "count": 14
+    },
+    {
+      "word": "şemi-zade",
+      "count": 14
+    },
+    {
+      "word": "crh",
+      "count": 14
+    },
+    {
+      "word": "muallimlik",
+      "count": 14
+    },
+    {
+      "word": "ülküsal",
+      "count": 14
+    },
+    {
+      "word": "medreseniñ",
+      "count": 14
+    },
+    {
+      "word": "usul-i",
+      "count": 14
+    },
+    {
+      "word": "от",
+      "count": 13
+    },
+    {
+      "word": "года",
+      "count": 13
+    },
+    {
+      "word": "erbabı",
+      "count": 13
+    },
+    {
+      "word": "yazıları",
+      "count": 13
+    },
+    {
+      "word": "bala",
+      "count": 13
+    }
+  ]
+}

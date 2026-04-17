@@ -1,0 +1,4012 @@
+{
+  "code": "lin",
+  "name": "Lingala",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (ln.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 107869,
+  "unique_tokens": 18627,
+  "words": [
+    {
+      "word": "ya",
+      "count": 7829
+    },
+    {
+      "word": "na",
+      "count": 5844
+    },
+    {
+      "word": "mpé",
+      "count": 1894
+    },
+    {
+      "word": "ezalí",
+      "count": 1457
+    },
+    {
+      "word": "de",
+      "count": 975
+    },
+    {
+      "word": "tǒ",
+      "count": 878
+    },
+    {
+      "word": "ba",
+      "count": 876
+    },
+    {
+      "word": "la",
+      "count": 602
+    },
+    {
+      "word": "kongó-kinsásá",
+      "count": 572
+    },
+    {
+      "word": "mpe",
+      "count": 557
+    },
+    {
+      "word": "kɔ",
+      "count": 537
+    },
+    {
+      "word": "wa",
+      "count": 520
+    },
+    {
+      "word": "bato",
+      "count": 509
+    },
+    {
+      "word": "esé",
+      "count": 497
+    },
+    {
+      "word": "mwa",
+      "count": 487
+    },
+    {
+      "word": "ma",
+      "count": 475
+    },
+    {
+      "word": "oyo",
+      "count": 462
+    },
+    {
+      "word": "lya",
+      "count": 371
+    },
+    {
+      "word": "te",
+      "count": 368
+    },
+    {
+      "word": "ekólo",
+      "count": 366
+    },
+    {
+      "word": "yango",
+      "count": 341
+    },
+    {
+      "word": "moto",
+      "count": 339
+    },
+    {
+      "word": "du",
+      "count": 327
+    },
+    {
+      "word": "tɛ",
+      "count": 295
+    },
+    {
+      "word": "ezali",
+      "count": 281
+    },
+    {
+      "word": "et",
+      "count": 280
+    },
+    {
+      "word": "mbóka-mokonzi",
+      "count": 276
+    },
+    {
+      "word": "eye",
+      "count": 263
+    },
+    {
+      "word": "nɛ",
+      "count": 260
+    },
+    {
+      "word": "le",
+      "count": 256
+    },
+    {
+      "word": "align",
+      "count": 256
+    },
+    {
+      "word": "yě",
+      "count": 252
+    },
+    {
+      "word": "mɔ",
+      "count": 249
+    },
+    {
+      "word": "to",
+      "count": 247
+    },
+    {
+      "word": "mpɔ",
+      "count": 245
+    },
+    {
+      "word": "mobú",
+      "count": 244
+    },
+    {
+      "word": "kinsásá",
+      "count": 240
+    },
+    {
+      "word": "bwa",
+      "count": 239
+    },
+    {
+      "word": "azalí",
+      "count": 237
+    },
+    {
+      "word": "nyama",
+      "count": 237
+    },
+    {
+      "word": "mokɔlɔ",
+      "count": 231
+    },
+    {
+      "word": "des",
+      "count": 230
+    },
+    {
+      "word": "mpo",
+      "count": 228
+    },
+    {
+      "word": "engumba",
+      "count": 228
+    },
+    {
+      "word": "yangó",
+      "count": 221
+    },
+    {
+      "word": "lokótá",
+      "count": 212
+    },
+    {
+      "word": "lɛ",
+      "count": 212
+    },
+    {
+      "word": "kasi",
+      "count": 209
+    },
+    {
+      "word": "en",
+      "count": 200
+    },
+    {
+      "word": "sánzá",
+      "count": 200
+    },
+    {
+      "word": "mingi",
+      "count": 200
+    },
+    {
+      "word": "ko",
+      "count": 194
+    },
+    {
+      "word": "tála",
+      "count": 193
+    },
+    {
+      "word": "congo",
+      "count": 192
+    },
+    {
+      "word": "lingála",
+      "count": 186
+    },
+    {
+      "word": "nzóto",
+      "count": 186
+    },
+    {
+      "word": "nkómbó",
+      "count": 184
+    },
+    {
+      "word": "ngɔ",
+      "count": 184
+    },
+    {
+      "word": "mbóka",
+      "count": 184
+    },
+    {
+      "word": "tálá",
+      "count": 181
+    },
+    {
+      "word": "kongó",
+      "count": 180
+    },
+    {
+      "word": "afríka",
+      "count": 178
+    },
+    {
+      "word": "les",
+      "count": 176
+    },
+    {
+      "word": "eténi",
+      "count": 172
+    },
+    {
+      "word": "búku",
+      "count": 163
+    },
+    {
+      "word": "sɔ",
+      "count": 160
+    },
+    {
+      "word": "mambí",
+      "count": 158
+    },
+    {
+      "word": "bɛ",
+      "count": 156
+    },
+    {
+      "word": "moko",
+      "count": 155
+    },
+    {
+      "word": "br",
+      "count": 154
+    },
+    {
+      "word": "komíni",
+      "count": 152
+    },
+    {
+      "word": "maria",
+      "count": 151
+    },
+    {
+      "word": "lingala",
+      "count": 149
+    },
+    {
+      "word": "kati",
+      "count": 145
+    },
+    {
+      "word": "mbótama",
+      "count": 144
+    },
+    {
+      "word": "nsé",
+      "count": 143
+    },
+    {
+      "word": "óyo",
+      "count": 142
+    },
+    {
+      "word": "ntángo",
+      "count": 142
+    },
+    {
+      "word": "bgcolor",
+      "count": 142
+    },
+    {
+      "word": "ye",
+      "count": 141
+    },
+    {
+      "word": "pɛnɛ",
+      "count": 137
+    },
+    {
+      "word": "isbn",
+      "count": 136
+    },
+    {
+      "word": "mya",
+      "count": 129
+    },
+    {
+      "word": "ameríka",
+      "count": 129
+    },
+    {
+      "word": "lisangá",
+      "count": 127
+    },
+    {
+      "word": "bya",
+      "count": 127
+    },
+    {
+      "word": "azía",
+      "count": 126
+    },
+    {
+      "word": "tɔ",
+      "count": 126
+    },
+    {
+      "word": "lifalansé",
+      "count": 126
+    },
+    {
+      "word": "soki",
+      "count": 125
+    },
+    {
+      "word": "yɔ",
+      "count": 125
+    },
+    {
+      "word": "lokóla",
+      "count": 124
+    },
+    {
+      "word": "nzémbo",
+      "count": 124
+    },
+    {
+      "word": "kozala",
+      "count": 121
+    },
+    {
+      "word": "yo",
+      "count": 121
+    },
+    {
+      "word": "erópa",
+      "count": 121
+    },
+    {
+      "word": "ndenge",
+      "count": 121
+    },
+    {
+      "word": "left",
+      "count": 120
+    },
+    {
+      "word": "e0e0e",
+      "count": 120
+    },
+    {
+      "word": "baye",
+      "count": 118
+    },
+    {
+      "word": "yambo",
+      "count": 117
+    },
+    {
+      "word": "the",
+      "count": 117
+    },
+    {
+      "word": "etúká",
+      "count": 116
+    },
+    {
+      "word": "of",
+      "count": 115
+    },
+    {
+      "word": "right",
+      "count": 114
+    },
+    {
+      "word": "moyémbi",
+      "count": 110
+    },
+    {
+      "word": "káti",
+      "count": 109
+    },
+    {
+      "word": "likambo",
+      "count": 109
+    },
+    {
+      "word": "bango",
+      "count": 109
+    },
+    {
+      "word": "wana",
+      "count": 108
+    },
+    {
+      "word": "ndéngé",
+      "count": 108
+    },
+    {
+      "word": "nsɔ",
+      "count": 108
+    },
+    {
+      "word": "lokóta",
+      "count": 108
+    },
+    {
+      "word": "mbuma",
+      "count": 108
+    },
+    {
+      "word": "bazali",
+      "count": 108
+    },
+    {
+      "word": "kí",
+      "count": 104
+    },
+    {
+      "word": "mái",
+      "count": 103
+    },
+    {
+      "word": "mbula",
+      "count": 102
+    },
+    {
+      "word": "ekolo",
+      "count": 102
+    },
+    {
+      "word": "kosala",
+      "count": 102
+    },
+    {
+      "word": "ndakisa",
+      "count": 101
+    },
+    {
+      "word": "monyɛlɛ",
+      "count": 101
+    },
+    {
+      "word": "katanga",
+      "count": 99
+    },
+    {
+      "word": "gilípi",
+      "count": 99
+    },
+    {
+      "word": "fer",
+      "count": 99
+    },
+    {
+      "word": "monɛ",
+      "count": 98
+    },
+    {
+      "word": "mabelé",
+      "count": 98
+    },
+    {
+      "word": "mbɛ",
+      "count": 98
+    },
+    {
+      "word": "etúka",
+      "count": 98
+    },
+    {
+      "word": "libándá",
+      "count": 97
+    },
+    {
+      "word": "nkomá",
+      "count": 97
+    },
+    {
+      "word": "bokonzi",
+      "count": 96
+    },
+    {
+      "word": "pe",
+      "count": 96
+    },
+    {
+      "word": "top",
+      "count": 96
+    },
+    {
+      "word": "dictionnaire",
+      "count": 95
+    },
+    {
+      "word": "nkásá",
+      "count": 95
+    },
+    {
+      "word": "pour",
+      "count": 94
+    },
+    {
+      "word": "valign",
+      "count": 94
+    },
+    {
+      "word": "tb",
+      "count": 93
+    },
+    {
+      "word": "mokili",
+      "count": 92
+    },
+    {
+      "word": "ebale",
+      "count": 91
+    },
+    {
+      "word": "tango",
+      "count": 90
+    },
+    {
+      "word": "míngi",
+      "count": 90
+    },
+    {
+      "word": "nsima",
+      "count": 89
+    },
+    {
+      "word": "bokɔnɔ",
+      "count": 88
+    },
+    {
+      "word": "sika",
+      "count": 88
+    },
+    {
+      "word": "ezalaki",
+      "count": 87
+    },
+    {
+      "word": "makambo",
+      "count": 87
+    },
+    {
+      "word": "mikɔlɔ",
+      "count": 87
+    },
+    {
+      "word": "bazalí",
+      "count": 86
+    },
+    {
+      "word": "karthala",
+      "count": 85
+    },
+    {
+      "word": "com",
+      "count": 85
+    },
+    {
+      "word": "lokola",
+      "count": 84
+    },
+    {
+      "word": "mobimba",
+      "count": 84
+    },
+    {
+      "word": "bavándaka",
+      "count": 84
+    },
+    {
+      "word": "que",
+      "count": 84
+    },
+    {
+      "word": "lizalí",
+      "count": 83
+    },
+    {
+      "word": "ekoki",
+      "count": 83
+    },
+    {
+      "word": "lɔ",
+      "count": 83
+    },
+    {
+      "word": "kawata",
+      "count": 82
+    },
+    {
+      "word": "bagó",
+      "count": 82
+    },
+    {
+      "word": "mboka",
+      "count": 81
+    },
+    {
+      "word": "mpó",
+      "count": 81
+    },
+    {
+      "word": "nzela",
+      "count": 81
+    },
+    {
+      "word": "joseph",
+      "count": 80
+    },
+    {
+      "word": "un",
+      "count": 80
+    },
+    {
+      "word": "sita",
+      "count": 80
+    },
+    {
+      "word": "wikipedia",
+      "count": 79
+    },
+    {
+      "word": "ashem-tem",
+      "count": 79
+    },
+    {
+      "word": "langa",
+      "count": 78
+    },
+    {
+      "word": "letá",
+      "count": 78
+    },
+    {
+      "word": "mabɛ",
+      "count": 78
+    },
+    {
+      "word": "boyíké",
+      "count": 78
+    },
+    {
+      "word": "nola",
+      "count": 78
+    },
+    {
+      "word": "moí-politíki",
+      "count": 77
+    },
+    {
+      "word": "bangó",
+      "count": 75
+    },
+    {
+      "word": "likoló",
+      "count": 75
+    },
+    {
+      "word": "mbala",
+      "count": 75
+    },
+    {
+      "word": "nsango",
+      "count": 75
+    },
+    {
+      "word": "kongo",
+      "count": 74
+    },
+    {
+      "word": "esíká",
+      "count": 74
+    },
+    {
+      "word": "ekokí",
+      "count": 74
+    },
+    {
+      "word": "mwǎna",
+      "count": 74
+    },
+    {
+      "word": "mozalí",
+      "count": 74
+    },
+    {
+      "word": "chemin",
+      "count": 74
+    },
+    {
+      "word": "nzámbe",
+      "count": 73
+    },
+    {
+      "word": "dans",
+      "count": 73
+    },
+    {
+      "word": "mamá",
+      "count": 73
+    },
+    {
+      "word": "liwâ",
+      "count": 72
+    },
+    {
+      "word": "koleka",
+      "count": 71
+    },
+    {
+      "word": "sidi",
+      "count": 71
+    },
+    {
+      "word": "sima",
+      "count": 70
+    },
+    {
+      "word": "moyángeli",
+      "count": 70
+    },
+    {
+      "word": "nzeté",
+      "count": 69
+    },
+    {
+      "word": "sa",
+      "count": 69
+    },
+    {
+      "word": "zómi",
+      "count": 69
+    },
+    {
+      "word": "mokonzi",
+      "count": 69
+    },
+    {
+      "word": "est",
+      "count": 69
+    },
+    {
+      "word": "engúmba",
+      "count": 68
+    },
+    {
+      "word": "bonkámá",
+      "count": 68
+    },
+    {
+      "word": "nɔ",
+      "count": 68
+    },
+    {
+      "word": "http",
+      "count": 67
+    },
+    {
+      "word": "maye",
+      "count": 67
+    },
+    {
+      "word": "mambénga",
+      "count": 67
+    },
+    {
+      "word": "kala",
+      "count": 67
+    },
+    {
+      "word": "po",
+      "count": 67
+    },
+    {
+      "word": "mikúwa",
+      "count": 66
+    },
+    {
+      "word": "míbalé",
+      "count": 66
+    },
+    {
+      "word": "mobu",
+      "count": 66
+    },
+    {
+      "word": "lingomba",
+      "count": 66
+    },
+    {
+      "word": "sur",
+      "count": 66
+    },
+    {
+      "word": "liboso",
+      "count": 65
+    },
+    {
+      "word": "kabila",
+      "count": 65
+    },
+    {
+      "word": "makasi",
+      "count": 65
+    },
+    {
+      "word": "azali",
+      "count": 65
+    },
+    {
+      "word": "in",
+      "count": 65
+    },
+    {
+      "word": "linɛ",
+      "count": 64
+    },
+    {
+      "word": "kivu",
+      "count": 64
+    },
+    {
+      "word": "yésu",
+      "count": 64
+    },
+    {
+      "word": "loléngé",
+      "count": 63
+    },
+    {
+      "word": "misala",
+      "count": 63
+    },
+    {
+      "word": "lɛjika",
+      "count": 63
+    },
+    {
+      "word": "batu",
+      "count": 61
+    },
+    {
+      "word": "epái",
+      "count": 61
+    },
+    {
+      "word": "malamu",
+      "count": 61
+    },
+    {
+      "word": "bandá",
+      "count": 61
+    },
+    {
+      "word": "lángi",
+      "count": 61
+    },
+    {
+      "word": "politíki",
+      "count": 60
+    },
+    {
+      "word": "koloba",
+      "count": 60
+    },
+    {
+      "word": "bana",
+      "count": 60
+    },
+    {
+      "word": "www",
+      "count": 59
+    },
+    {
+      "word": "ete",
+      "count": 59
+    },
+    {
+      "word": "mokandá",
+      "count": 59
+    },
+    {
+      "word": "nyɔ",
+      "count": 59
+    },
+    {
+      "word": "tɛlɛ",
+      "count": 59
+    },
+    {
+      "word": "une",
+      "count": 59
+    },
+    {
+      "word": "lombú",
+      "count": 59
+    },
+    {
+      "word": "nzelá-masíni",
+      "count": 59
+    },
+    {
+      "word": "pandemia",
+      "count": 59
+    },
+    {
+      "word": "liye",
+      "count": 58
+    },
+    {
+      "word": "iye",
+      "count": 58
+    },
+    {
+      "word": "bokono",
+      "count": 58
+    },
+    {
+      "word": "km",
+      "count": 58
+    },
+    {
+      "word": "kinshasa",
+      "count": 57
+    },
+    {
+      "word": "yúli",
+      "count": 57
+    },
+    {
+      "word": "abótámí",
+      "count": 56
+    },
+    {
+      "word": "vincent",
+      "count": 56
+    },
+    {
+      "word": "paul",
+      "count": 56
+    },
+    {
+      "word": "ekwatéli",
+      "count": 55
+    },
+    {
+      "word": "mokolo",
+      "count": 55
+    },
+    {
+      "word": "ingɛlɛ",
+      "count": 55
+    },
+    {
+      "word": "bikólo",
+      "count": 54
+    },
+    {
+      "word": "par",
+      "count": 54
+    },
+    {
+      "word": "bugumési",
+      "count": 54
+    },
+    {
+      "word": "il",
+      "count": 54
+    },
+    {
+      "word": "au",
+      "count": 54
+    },
+    {
+      "word": "district",
+      "count": 54
+    },
+    {
+      "word": "loyémbo",
+      "count": 54
+    },
+    {
+      "word": "do",
+      "count": 54
+    },
+    {
+      "word": "elembo",
+      "count": 53
+    },
+    {
+      "word": "nde",
+      "count": 53
+    },
+    {
+      "word": "ɛlɛ",
+      "count": 53
+    },
+    {
+      "word": "compagnie",
+      "count": 53
+    },
+    {
+      "word": "mokɛ",
+      "count": 52
+    },
+    {
+      "word": "swisi",
+      "count": 52
+    },
+    {
+      "word": "biso",
+      "count": 52
+    },
+    {
+      "word": "kongó-brazzaville",
+      "count": 51
+    },
+    {
+      "word": "paris",
+      "count": 51
+    },
+    {
+      "word": "makoki",
+      "count": 51
+    },
+    {
+      "word": "nyonso",
+      "count": 51
+    },
+    {
+      "word": "nzelá",
+      "count": 51
+    },
+    {
+      "word": "bandundu",
+      "count": 50
+    },
+    {
+      "word": "límbe",
+      "count": 50
+    },
+    {
+      "word": "sanza",
+      "count": 49
+    },
+    {
+      "word": "malámu",
+      "count": 49
+    },
+    {
+      "word": "mani",
+      "count": 49
+    },
+    {
+      "word": "motóbá",
+      "count": 49
+    },
+    {
+      "word": "nkótá",
+      "count": 49
+    },
+    {
+      "word": "société",
+      "count": 48
+    },
+    {
+      "word": "plus",
+      "count": 48
+    },
+    {
+      "word": "maloba",
+      "count": 47
+    },
+    {
+      "word": "kosála",
+      "count": 47
+    },
+    {
+      "word": "libosó",
+      "count": 47
+    },
+    {
+      "word": "esika",
+      "count": 47
+    },
+    {
+      "word": "mosala",
+      "count": 47
+    },
+    {
+      "word": "avec",
+      "count": 47
+    },
+    {
+      "word": "falansé",
+      "count": 47
+    },
+    {
+      "word": "enɛ",
+      "count": 47
+    },
+    {
+      "word": "lomposo",
+      "count": 46
+    },
+    {
+      "word": "bǎna",
+      "count": 46
+    },
+    {
+      "word": "falansia",
+      "count": 46
+    },
+    {
+      "word": "si",
+      "count": 46
+    },
+    {
+      "word": "lisapo",
+      "count": 46
+    },
+    {
+      "word": "org",
+      "count": 46
+    },
+    {
+      "word": "santu",
+      "count": 46
+    },
+    {
+      "word": "ntúkú",
+      "count": 46
+    },
+    {
+      "word": "ou",
+      "count": 46
+    },
+    {
+      "word": "mibale",
+      "count": 45
+    },
+    {
+      "word": "nga",
+      "count": 45
+    },
+    {
+      "word": "lumumba",
+      "count": 45
+    },
+    {
+      "word": "azalákí",
+      "count": 45
+    },
+    {
+      "word": "ljika",
+      "count": 45
+    },
+    {
+      "word": "bísó",
+      "count": 45
+    },
+    {
+      "word": "ntango",
+      "count": 44
+    },
+    {
+      "word": "mwambe",
+      "count": 44
+    },
+    {
+      "word": "esengeli",
+      "count": 44
+    },
+    {
+      "word": "ntína",
+      "count": 44
+    },
+    {
+      "word": "elɔ",
+      "count": 44
+    },
+    {
+      "word": "nini",
+      "count": 44
+    },
+    {
+      "word": "mokambi-ekólo",
+      "count": 44
+    },
+    {
+      "word": "likólo",
+      "count": 44
+    },
+    {
+      "word": "ezalaka",
+      "count": 44
+    },
+    {
+      "word": "se",
+      "count": 43
+    },
+    {
+      "word": "mokeli",
+      "count": 43
+    },
+    {
+      "word": "motuya",
+      "count": 42
+    },
+    {
+      "word": "lisúsu",
+      "count": 42
+    },
+    {
+      "word": "makási",
+      "count": 42
+    },
+    {
+      "word": "republíki",
+      "count": 42
+    },
+    {
+      "word": "tshombe",
+      "count": 42
+    },
+    {
+      "word": "ntéi",
+      "count": 42
+    },
+    {
+      "word": "wɛ",
+      "count": 42
+    },
+    {
+      "word": "nkisi",
+      "count": 42
+    },
+    {
+      "word": "and",
+      "count": 41
+    },
+    {
+      "word": "zuluná",
+      "count": 41
+    },
+    {
+      "word": "yúni",
+      "count": 41
+    },
+    {
+      "word": "em",
+      "count": 41
+    },
+    {
+      "word": "angola",
+      "count": 40
+    },
+    {
+      "word": "mazalí",
+      "count": 40
+    },
+    {
+      "word": "likokí",
+      "count": 40
+    },
+    {
+      "word": "biye",
+      "count": 40
+    },
+    {
+      "word": "isúsu",
+      "count": 40
+    },
+    {
+      "word": "mbɔ",
+      "count": 40
+    },
+    {
+      "word": "mafúta",
+      "count": 40
+    },
+    {
+      "word": "mobutu",
+      "count": 40
+    },
+    {
+      "word": "mosusu",
+      "count": 40
+    },
+    {
+      "word": "no",
+      "count": 40
+    },
+    {
+      "word": "ii",
+      "count": 40
+    },
+    {
+      "word": "noël",
+      "count": 40
+    },
+    {
+      "word": "molúká",
+      "count": 39
+    },
+    {
+      "word": "monɔkɔ",
+      "count": 39
+    },
+    {
+      "word": "bapɔnákí",
+      "count": 39
+    },
+    {
+      "word": "tee",
+      "count": 39
+    },
+    {
+      "word": "mísáto",
+      "count": 38
+    },
+    {
+      "word": "ozali",
+      "count": 38
+    },
+    {
+      "word": "matadi",
+      "count": 38
+    },
+    {
+      "word": "ngai",
+      "count": 38
+    },
+    {
+      "word": "bakoki",
+      "count": 38
+    },
+    {
+      "word": "lisusu",
+      "count": 37
+    },
+    {
+      "word": "bomɔi",
+      "count": 37
+    },
+    {
+      "word": "mpenzá",
+      "count": 37
+    },
+    {
+      "word": "esúsu",
+      "count": 37
+    },
+    {
+      "word": "bilɔ",
+      "count": 37
+    },
+    {
+      "word": "izalí",
+      "count": 37
+    },
+    {
+      "word": "web",
+      "count": 37
+    },
+    {
+      "word": "ekɛ",
+      "count": 37
+    },
+    {
+      "word": "mabiki",
+      "count": 37
+    },
+    {
+      "word": "feat",
+      "count": 37
+    },
+    {
+      "word": "balobaka",
+      "count": 36
+    },
+    {
+      "word": "lisanga",
+      "count": 36
+    },
+    {
+      "word": "mí",
+      "count": 36
+    },
+    {
+      "word": "ndáko",
+      "count": 36
+    },
+    {
+      "word": "nú",
+      "count": 36
+    },
+    {
+      "word": "boklísto",
+      "count": 36
+    },
+    {
+      "word": "mai",
+      "count": 36
+    },
+    {
+      "word": "tatá",
+      "count": 36
+    },
+    {
+      "word": "bulamatari",
+      "count": 36
+    },
+    {
+      "word": "biténi",
+      "count": 36
+    },
+    {
+      "word": "sida",
+      "count": 36
+    },
+    {
+      "word": "radio",
+      "count": 36
+    },
+    {
+      "word": "bisika",
+      "count": 36
+    },
+    {
+      "word": "ezalakí",
+      "count": 36
+    },
+    {
+      "word": "da",
+      "count": 36
+    },
+    {
+      "word": "mpasi",
+      "count": 35
+    },
+    {
+      "word": "molɔ",
+      "count": 35
+    },
+    {
+      "word": "ndako",
+      "count": 35
+    },
+    {
+      "word": "ndɛkɛ",
+      "count": 35
+    },
+    {
+      "word": "mwǎsí",
+      "count": 35
+    },
+    {
+      "word": "pona",
+      "count": 35
+    },
+    {
+      "word": "kopesa",
+      "count": 35
+    },
+    {
+      "word": "etímá",
+      "count": 35
+    },
+    {
+      "word": "mpɛ",
+      "count": 34
+    },
+    {
+      "word": "misálá",
+      "count": 34
+    },
+    {
+      "word": "mbísi",
+      "count": 34
+    },
+    {
+      "word": "mínei",
+      "count": 34
+    },
+    {
+      "word": "mikolo",
+      "count": 34
+    },
+    {
+      "word": "kozua",
+      "count": 34
+    },
+    {
+      "word": "kokoma",
+      "count": 34
+    },
+    {
+      "word": "ti",
+      "count": 34
+    },
+    {
+      "word": "ligne",
+      "count": 34
+    },
+    {
+      "word": "site",
+      "count": 33
+    },
+    {
+      "word": "kaka",
+      "count": 33
+    },
+    {
+      "word": "afrika",
+      "count": 33
+    },
+    {
+      "word": "makanisi",
+      "count": 33
+    },
+    {
+      "word": "téé",
+      "count": 33
+    },
+    {
+      "word": "mosálá",
+      "count": 33
+    },
+    {
+      "word": "zaire",
+      "count": 33
+    },
+    {
+      "word": "káka",
+      "count": 33
+    },
+    {
+      "word": "molɔngɔ",
+      "count": 33
+    },
+    {
+      "word": "gouvernement",
+      "count": 33
+    },
+    {
+      "word": "katolike",
+      "count": 33
+    },
+    {
+      "word": "kamerun",
+      "count": 33
+    },
+    {
+      "word": "léopoldville",
+      "count": 33
+    },
+    {
+      "word": "page",
+      "count": 33
+    },
+    {
+      "word": "motángo",
+      "count": 33
+    },
+    {
+      "word": "mángwɛlɛ",
+      "count": 33
+    },
+    {
+      "word": "motáné",
+      "count": 33
+    },
+    {
+      "word": "article",
+      "count": 33
+    },
+    {
+      "word": "lialemani",
+      "count": 32
+    },
+    {
+      "word": "makokí",
+      "count": 32
+    },
+    {
+      "word": "misusu",
+      "count": 32
+    },
+    {
+      "word": "ndé",
+      "count": 32
+    },
+    {
+      "word": "yé",
+      "count": 32
+    },
+    {
+      "word": "bcg",
+      "count": 32
+    },
+    {
+      "word": "manáka",
+      "count": 32
+    },
+    {
+      "word": "loyémbo-lokúmu",
+      "count": 32
+    },
+    {
+      "word": "ebandaki",
+      "count": 32
+    },
+    {
+      "word": "bonsɔ",
+      "count": 31
+    },
+    {
+      "word": "latɛ",
+      "count": 31
+    },
+    {
+      "word": "bisé",
+      "count": 31
+    },
+    {
+      "word": "etumba",
+      "count": 31
+    },
+    {
+      "word": "congolais",
+      "count": 31
+    },
+    {
+      "word": "boye",
+      "count": 31
+    },
+    {
+      "word": "atome",
+      "count": 31
+    },
+    {
+      "word": "stars",
+      "count": 31
+    },
+    {
+      "word": "https",
+      "count": 30
+    },
+    {
+      "word": "bikolo",
+      "count": 30
+    },
+    {
+      "word": "kama",
+      "count": 30
+    },
+    {
+      "word": "eútí",
+      "count": 30
+    },
+    {
+      "word": "kobanda",
+      "count": 30
+    },
+    {
+      "word": "bitúká",
+      "count": 30
+    },
+    {
+      "word": "bas-congo",
+      "count": 30
+    },
+    {
+      "word": "ngámbo",
+      "count": 30
+    },
+    {
+      "word": "editions",
+      "count": 30
+    },
+    {
+      "word": "nkombo",
+      "count": 30
+    },
+    {
+      "word": "penza",
+      "count": 30
+    },
+    {
+      "word": "likolo",
+      "count": 30
+    },
+    {
+      "word": "likelelo",
+      "count": 30
+    },
+    {
+      "word": "colspan",
+      "count": 30
+    },
+    {
+      "word": "virus",
+      "count": 30
+    },
+    {
+      "word": "chemins",
+      "count": 30
+    },
+    {
+      "word": "fr",
+      "count": 29
+    },
+    {
+      "word": "bolingo",
+      "count": 29
+    },
+    {
+      "word": "bizalí",
+      "count": 29
+    },
+    {
+      "word": "bingumba",
+      "count": 29
+    },
+    {
+      "word": "likonzi",
+      "count": 29
+    },
+    {
+      "word": "carte",
+      "count": 29
+    },
+    {
+      "word": "on",
+      "count": 29
+    },
+    {
+      "word": "mabele",
+      "count": 29
+    },
+    {
+      "word": "kisangani",
+      "count": 29
+    },
+    {
+      "word": "lazariste",
+      "count": 29
+    },
+    {
+      "word": "libota",
+      "count": 29
+    },
+    {
+      "word": "mizíki",
+      "count": 29
+    },
+    {
+      "word": "yoane",
+      "count": 29
+    },
+    {
+      "word": "liens",
+      "count": 29
+    },
+    {
+      "word": "wɛlɛ",
+      "count": 29
+    },
+    {
+      "word": "sakata",
+      "count": 29
+    },
+    {
+      "word": "wikipédia",
+      "count": 29
+    },
+    {
+      "word": "libóta",
+      "count": 28
+    },
+    {
+      "word": "aux",
+      "count": 28
+    },
+    {
+      "word": "politiki",
+      "count": 28
+    },
+    {
+      "word": "mikili",
+      "count": 28
+    },
+    {
+      "word": "sé",
+      "count": 28
+    },
+    {
+      "word": "mi",
+      "count": 28
+    },
+    {
+      "word": "kozwa",
+      "count": 28
+    },
+    {
+      "word": "eleko",
+      "count": 28
+    },
+    {
+      "word": "mpɔndú",
+      "count": 28
+    },
+    {
+      "word": "nkóto",
+      "count": 28
+    },
+    {
+      "word": "nkámá",
+      "count": 28
+    },
+    {
+      "word": "monzɔ",
+      "count": 28
+    },
+    {
+      "word": "malíli",
+      "count": 28
+    },
+    {
+      "word": "lingɛlɛ",
+      "count": 28
+    },
+    {
+      "word": "nzambe",
+      "count": 28
+    },
+    {
+      "word": "azalaki",
+      "count": 28
+    },
+    {
+      "word": "ni",
+      "count": 28
+    },
+    {
+      "word": "mói",
+      "count": 28
+    },
+    {
+      "word": "ekabwání",
+      "count": 28
+    },
+    {
+      "word": "ngɛngɛ",
+      "count": 28
+    },
+    {
+      "word": "bandeko",
+      "count": 28
+    },
+    {
+      "word": "province",
+      "count": 28
+    },
+    {
+      "word": "ville",
+      "count": 28
+    },
+    {
+      "word": "lístɛ",
+      "count": 28
+    },
+    {
+      "word": "nationale",
+      "count": 28
+    },
+    {
+      "word": "azalakí",
+      "count": 28
+    },
+    {
+      "word": "mwana",
+      "count": 28
+    },
+    {
+      "word": "nzoto",
+      "count": 28
+    },
+    {
+      "word": "kémi",
+      "count": 28
+    },
+    {
+      "word": "etat",
+      "count": 28
+    },
+    {
+      "word": "para",
+      "count": 28
+    },
+    {
+      "word": "bukavu",
+      "count": 28
+    },
+    {
+      "word": "molongo",
+      "count": 27
+    },
+    {
+      "word": "ntina",
+      "count": 27
+    },
+    {
+      "word": "mibeko",
+      "count": 27
+    },
+    {
+      "word": "pas",
+      "count": 27
+    },
+    {
+      "word": "bokɔ",
+      "count": 27
+    },
+    {
+      "word": "zámba",
+      "count": 27
+    },
+    {
+      "word": "elekí",
+      "count": 27
+    },
+    {
+      "word": "nkísi",
+      "count": 27
+    },
+    {
+      "word": "belge",
+      "count": 27
+    },
+    {
+      "word": "kosalisa",
+      "count": 27
+    },
+    {
+      "word": "libwá",
+      "count": 27
+    },
+    {
+      "word": "sango",
+      "count": 27
+    },
+    {
+      "word": "mítáno",
+      "count": 27
+    },
+    {
+      "word": "mpona",
+      "count": 27
+    },
+    {
+      "word": "kotdivuar",
+      "count": 27
+    },
+    {
+      "word": "wɛnzɛ",
+      "count": 27
+    },
+    {
+      "word": "ebele",
+      "count": 27
+    },
+    {
+      "word": "kotonga",
+      "count": 27
+    },
+    {
+      "word": "pátria",
+      "count": 27
+    },
+    {
+      "word": "mobeko",
+      "count": 26
+    },
+    {
+      "word": "mibéko",
+      "count": 26
+    },
+    {
+      "word": "masanga",
+      "count": 26
+    },
+    {
+      "word": "ka",
+      "count": 26
+    },
+    {
+      "word": "nsambo",
+      "count": 26
+    },
+    {
+      "word": "tíí",
+      "count": 26
+    },
+    {
+      "word": "moye",
+      "count": 26
+    },
+    {
+      "word": "basusu",
+      "count": 26
+    },
+    {
+      "word": "mission",
+      "count": 26
+    },
+    {
+      "word": "diski",
+      "count": 26
+    },
+    {
+      "word": "os",
+      "count": 26
+    },
+    {
+      "word": "distichodus",
+      "count": 26
+    },
+    {
+      "word": "l'article",
+      "count": 26
+    },
+    {
+      "word": "pandemie",
+      "count": 26
+    },
+    {
+      "word": "bazalaki",
+      "count": 25
+    },
+    {
+      "word": "ne",
+      "count": 25
+    },
+    {
+      "word": "ezalákí",
+      "count": 25
+    },
+    {
+      "word": "bruxelles",
+      "count": 25
+    },
+    {
+      "word": "biblíya",
+      "count": 25
+    },
+    {
+      "word": "makilá",
+      "count": 25
+    },
+    {
+      "word": "indépendant",
+      "count": 25
+    },
+    {
+      "word": "tala",
+      "count": 25
+    },
+    {
+      "word": "kolakisa",
+      "count": 25
+    },
+    {
+      "word": "atlantíki",
+      "count": 25
+    },
+    {
+      "word": "naye",
+      "count": 25
+    },
+    {
+      "word": "mokomi",
+      "count": 25
+    },
+    {
+      "word": "suka",
+      "count": 25
+    },
+    {
+      "word": "mweté",
+      "count": 25
+    },
+    {
+      "word": "aketi",
+      "count": 25
+    },
+    {
+      "word": "qui",
+      "count": 24
+    },
+    {
+      "word": "kopɛ",
+      "count": 24
+    },
+    {
+      "word": "ɛntɛrnɛ",
+      "count": 24
+    },
+    {
+      "word": "mobáli",
+      "count": 24
+    },
+    {
+      "word": "wâná",
+      "count": 24
+    },
+    {
+      "word": "etando",
+      "count": 24
+    },
+    {
+      "word": "zaïre",
+      "count": 24
+    },
+    {
+      "word": "lelo",
+      "count": 24
+    },
+    {
+      "word": "kolanda",
+      "count": 24
+    },
+    {
+      "word": "bitumba",
+      "count": 24
+    },
+    {
+      "word": "azaláká",
+      "count": 24
+    },
+    {
+      "word": "libanda",
+      "count": 24
+    },
+    {
+      "word": "níni",
+      "count": 24
+    },
+    {
+      "word": "epɛ",
+      "count": 24
+    },
+    {
+      "word": "libóngo",
+      "count": 24
+    },
+    {
+      "word": "okoki",
+      "count": 24
+    },
+    {
+      "word": "noki",
+      "count": 24
+    },
+    {
+      "word": "eleki",
+      "count": 24
+    },
+    {
+      "word": "dɛsɛ",
+      "count": 24
+    },
+    {
+      "word": "mangomba",
+      "count": 24
+    },
+    {
+      "word": "babola",
+      "count": 24
+    },
+    {
+      "word": "mbangu",
+      "count": 24
+    },
+    {
+      "word": "center",
+      "count": 24
+    },
+    {
+      "word": "shi",
+      "count": 24
+    },
+    {
+      "word": "dieu",
+      "count": 24
+    },
+    {
+      "word": "katumbi",
+      "count": 24
+    },
+    {
+      "word": "nioso",
+      "count": 23
+    },
+    {
+      "word": "eteni",
+      "count": 23
+    },
+    {
+      "word": "ngɛ",
+      "count": 23
+    },
+    {
+      "word": "lí",
+      "count": 23
+    },
+    {
+      "word": "bakonzi",
+      "count": 23
+    },
+    {
+      "word": "ní",
+      "count": 23
+    },
+    {
+      "word": "république",
+      "count": 23
+    },
+    {
+      "word": "projet",
+      "count": 23
+    },
+    {
+      "word": "liwá",
+      "count": 23
+    },
+    {
+      "word": "afrique",
+      "count": 23
+    },
+    {
+      "word": "etali",
+      "count": 23
+    },
+    {
+      "word": "ata",
+      "count": 23
+    },
+    {
+      "word": "éte",
+      "count": 23
+    },
+    {
+      "word": "mawa",
+      "count": 23
+    },
+    {
+      "word": "banda",
+      "count": 23
+    },
+    {
+      "word": "lolenge",
+      "count": 23
+    },
+    {
+      "word": "boyokani",
+      "count": 23
+    },
+    {
+      "word": "kamanda",
+      "count": 23
+    },
+    {
+      "word": "yézu",
+      "count": 23
+    },
+    {
+      "word": "entre",
+      "count": 23
+    },
+    {
+      "word": "nionso",
+      "count": 23
+    },
+    {
+      "word": "music",
+      "count": 23
+    },
+    {
+      "word": "neti",
+      "count": 23
+    },
+    {
+      "word": "éditions",
+      "count": 22
+    },
+    {
+      "word": "monene",
+      "count": 22
+    },
+    {
+      "word": "mokanda",
+      "count": 22
+    },
+    {
+      "word": "bisúsu",
+      "count": 22
+    },
+    {
+      "word": "lingómbá",
+      "count": 22
+    },
+    {
+      "word": "kelási",
+      "count": 22
+    },
+    {
+      "word": "biléi",
+      "count": 22
+    },
+    {
+      "word": "ndúnda",
+      "count": 22
+    },
+    {
+      "word": "lokásá",
+      "count": 22
+    },
+    {
+      "word": "mibú",
+      "count": 22
+    },
+    {
+      "word": "patrice",
+      "count": 22
+    },
+    {
+      "word": "moïse",
+      "count": 22
+    },
+    {
+      "word": "molakisi",
+      "count": 22
+    },
+    {
+      "word": "état",
+      "count": 22
+    },
+    {
+      "word": "stress",
+      "count": 22
+    },
+    {
+      "word": "banso",
+      "count": 22
+    },
+    {
+      "word": "bongo",
+      "count": 22
+    },
+    {
+      "word": "koyeba",
+      "count": 22
+    },
+    {
+      "word": "charité",
+      "count": 22
+    },
+    {
+      "word": "belgique",
+      "count": 22
+    },
+    {
+      "word": "kuna",
+      "count": 22
+    },
+    {
+      "word": "eza",
+      "count": 22
+    },
+    {
+      "word": "ngáí",
+      "count": 22
+    },
+    {
+      "word": "mol",
+      "count": 22
+    },
+    {
+      "word": "dos",
+      "count": 22
+    },
+    {
+      "word": "zali",
+      "count": 22
+    },
+    {
+      "word": "koki",
+      "count": 22
+    },
+    {
+      "word": "onatra",
+      "count": 22
+    },
+    {
+      "word": "deux",
+      "count": 21
+    },
+    {
+      "word": "sont",
+      "count": 21
+    },
+    {
+      "word": "motéma",
+      "count": 21
+    },
+    {
+      "word": "ezala",
+      "count": 21
+    },
+    {
+      "word": "koluka",
+      "count": 21
+    },
+    {
+      "word": "mabé",
+      "count": 21
+    },
+    {
+      "word": "mobali",
+      "count": 21
+    },
+    {
+      "word": "nzɔku",
+      "count": 21
+    },
+    {
+      "word": "lipandá",
+      "count": 21
+    },
+    {
+      "word": "centrale",
+      "count": 21
+    },
+    {
+      "word": "lobɔ",
+      "count": 21
+    },
+    {
+      "word": "kosalela",
+      "count": 21
+    },
+    {
+      "word": "kobongisa",
+      "count": 21
+    },
+    {
+      "word": "liloba",
+      "count": 21
+    },
+    {
+      "word": "mpô",
+      "count": 21
+    },
+    {
+      "word": "vie",
+      "count": 21
+    },
+    {
+      "word": "kombo",
+      "count": 21
+    },
+    {
+      "word": "maladi",
+      "count": 21
+    },
+    {
+      "word": "mosúsu",
+      "count": 21
+    },
+    {
+      "word": "information",
+      "count": 21
+    },
+    {
+      "word": "útá",
+      "count": 21
+    },
+    {
+      "word": "léopold",
+      "count": 21
+    },
+    {
+      "word": "etc",
+      "count": 21
+    },
+    {
+      "word": "mpenza",
+      "count": 21
+    },
+    {
+      "word": "misato",
+      "count": 21
+    },
+    {
+      "word": "pari",
+      "count": 21
+    },
+    {
+      "word": "sud",
+      "count": 21
+    },
+    {
+      "word": "mbúla",
+      "count": 21
+    },
+    {
+      "word": "bonsomi",
+      "count": 21
+    },
+    {
+      "word": "mbándáká",
+      "count": 21
+    },
+    {
+      "word": "bomoi",
+      "count": 21
+    },
+    {
+      "word": "mia",
+      "count": 21
+    },
+    {
+      "word": "máyí",
+      "count": 21
+    },
+    {
+      "word": "são",
+      "count": 21
+    },
+    {
+      "word": "voies",
+      "count": 21
+    },
+    {
+      "word": "contes",
+      "count": 21
+    },
+    {
+      "word": "depression",
+      "count": 21
+    },
+    {
+      "word": "mutos",
+      "count": 21
+    },
+    {
+      "word": "mpámba",
+      "count": 20
+    },
+    {
+      "word": "boyókani",
+      "count": 20
+    },
+    {
+      "word": "mabɔ",
+      "count": 20
+    },
+    {
+      "word": "ta",
+      "count": 20
+    },
+    {
+      "word": "miye",
+      "count": 20
+    },
+    {
+      "word": "mbíla",
+      "count": 20
+    },
+    {
+      "word": "kɛ",
+      "count": 20
+    },
+    {
+      "word": "komeka",
+      "count": 20
+    },
+    {
+      "word": "sukáli",
+      "count": 20
+    },
+    {
+      "word": "centre",
+      "count": 20
+    },
+    {
+      "word": "ná",
+      "count": 20
+    },
+    {
+      "word": "luye",
+      "count": 20
+    },
+    {
+      "word": "mitano",
+      "count": 20
+    },
+    {
+      "word": "vous",
+      "count": 20
+    },
+    {
+      "word": "etuka",
+      "count": 20
+    },
+    {
+      "word": "bôngó",
+      "count": 20
+    },
+    {
+      "word": "elingí",
+      "count": 20
+    },
+    {
+      "word": "solo",
+      "count": 20
+    },
+    {
+      "word": "santrafríka",
+      "count": 20
+    },
+    {
+      "word": "sína",
+      "count": 20
+    },
+    {
+      "word": "lialémani",
+      "count": 20
+    },
+    {
+      "word": "brazzaville",
+      "count": 20
+    },
+    {
+      "word": "mama",
+      "count": 20
+    },
+    {
+      "word": "nse",
+      "count": 20
+    },
+    {
+      "word": "sans",
+      "count": 20
+    },
+    {
+      "word": "esálela",
+      "count": 20
+    },
+    {
+      "word": "contre",
+      "count": 20
+    },
+    {
+      "word": "mársi",
+      "count": 20
+    },
+    {
+      "word": "ndámbo",
+      "count": 20
+    },
+    {
+      "word": "lisolo",
+      "count": 20
+    },
+    {
+      "word": "gérard",
+      "count": 20
+    },
+    {
+      "word": "album",
+      "count": 20
+    },
+    {
+      "word": "lien",
+      "count": 20
+    },
+    {
+      "word": "mutu",
+      "count": 20
+    },
+    {
+      "word": "l'harmattan",
+      "count": 19
+    },
+    {
+      "word": "bakokí",
+      "count": 19
+    },
+    {
+      "word": "bɔ",
+      "count": 19
+    },
+    {
+      "word": "mobéko",
+      "count": 19
+    },
+    {
+      "word": "mikandá",
+      "count": 19
+    },
+    {
+      "word": "elongo",
+      "count": 19
+    },
+    {
+      "word": "molaí",
+      "count": 19
+    },
+    {
+      "word": "kg",
+      "count": 19
+    },
+    {
+      "word": "ekakoli",
+      "count": 19
+    },
+    {
+      "word": "jean",
+      "count": 19
+    },
+    {
+      "word": "ethnologue",
+      "count": 19
+    },
+    {
+      "word": "nzéla",
+      "count": 19
+    },
+    {
+      "word": "national",
+      "count": 19
+    },
+    {
+      "word": "êná",
+      "count": 19
+    },
+    {
+      "word": "africa",
+      "count": 19
+    },
+    {
+      "word": "alémani",
+      "count": 19
+    },
+    {
+      "word": "wiki",
+      "count": 19
+    },
+    {
+      "word": "saint",
+      "count": 19
+    },
+    {
+      "word": "boyúda",
+      "count": 19
+    },
+    {
+      "word": "ngómbá",
+      "count": 19
+    },
+    {
+      "word": "mwána",
+      "count": 19
+    },
+    {
+      "word": "maladie",
+      "count": 19
+    },
+    {
+      "word": "moke",
+      "count": 19
+    },
+    {
+      "word": "eklezya",
+      "count": 19
+    },
+    {
+      "word": "kokende",
+      "count": 19
+    },
+    {
+      "word": "son",
+      "count": 19
+    },
+    {
+      "word": "liputrugɛ",
+      "count": 19
+    },
+    {
+      "word": "libongo",
+      "count": 19
+    },
+    {
+      "word": "ce",
+      "count": 19
+    },
+    {
+      "word": "mangbetu",
+      "count": 19
+    },
+    {
+      "word": "vers",
+      "count": 19
+    },
+    {
+      "word": "archive",
+      "count": 18
+    },
+    {
+      "word": "bokulaka",
+      "count": 18
+    },
+    {
+      "word": "bánsɔ",
+      "count": 18
+    },
+    {
+      "word": "evándaka",
+      "count": 18
+    },
+    {
+      "word": "íbalé",
+      "count": 18
+    },
+    {
+      "word": "makolo",
+      "count": 18
+    },
+    {
+      "word": "mosɔpɔ",
+      "count": 18
+    },
+    {
+      "word": "brazil",
+      "count": 18
+    },
+    {
+      "word": "kelasi",
+      "count": 18
+    },
+    {
+      "word": "azalaka",
+      "count": 18
+    },
+    {
+      "word": "ekomi",
+      "count": 18
+    },
+    {
+      "word": "lɛlɔ",
+      "count": 18
+    },
+    {
+      "word": "kasa-vubu",
+      "count": 18
+    },
+    {
+      "word": "babɛ",
+      "count": 18
+    },
+    {
+      "word": "maboko",
+      "count": 18
+    },
+    {
+      "word": "éd",
+      "count": 18
+    },
+    {
+      "word": "bisíká",
+      "count": 18
+    },
+    {
+      "word": "world",
+      "count": 18
+    },
+    {
+      "word": "ndeko",
+      "count": 18
+    },
+    {
+      "word": "ndénge",
+      "count": 18
+    },
+    {
+      "word": "mayi",
+      "count": 18
+    },
+    {
+      "word": "bilenge",
+      "count": 18
+    },
+    {
+      "word": "pene",
+      "count": 18
+    },
+    {
+      "word": "as",
+      "count": 18
+    },
+    {
+      "word": "fízíkí",
+      "count": 18
+    },
+    {
+      "word": "ordinaire",
+      "count": 18
+    },
+    {
+      "word": "kj",
+      "count": 18
+    },
+    {
+      "word": "lomeko",
+      "count": 18
+    },
+    {
+      "word": "lozalí",
+      "count": 18
+    },
+    {
+      "word": "albert",
+      "count": 18
+    },
+    {
+      "word": "mbú",
+      "count": 18
+    },
+    {
+      "word": "motɛ",
+      "count": 18
+    },
+    {
+      "word": "kikwit",
+      "count": 18
+    },
+    {
+      "word": "transports",
+      "count": 18
+    },
+    {
+      "word": "isiro",
+      "count": 18
+    },
+    {
+      "word": "lignes",
+      "count": 18
+    },
+    {
+      "word": "vubu",
+      "count": 18
+    },
+    {
+      "word": "papa",
+      "count": 18
+    },
+    {
+      "word": "kufaki",
+      "count": 18
+    },
+    {
+      "word": "goma",
+      "count": 17
+    },
+    {
+      "word": "bosémbo",
+      "count": 17
+    },
+    {
+      "word": "esóbé",
+      "count": 17
+    },
+    {
+      "word": "india",
+      "count": 17
+    },
+    {
+      "word": "international",
+      "count": 17
+    },
+    {
+      "word": "uganda",
+      "count": 17
+    },
+    {
+      "word": "motema",
+      "count": 17
+    },
+    {
+      "word": "bóma",
+      "count": 17
+    },
+    {
+      "word": "akúfí",
+      "count": 17
+    },
+    {
+      "word": "tí",
+      "count": 17
+    },
+    {
+      "word": "bozalí",
+      "count": 17
+    },
+    {
+      "word": "fɛ",
+      "count": 17
+    },
+    {
+      "word": "saka",
+      "count": 17
+    },
+    {
+      "word": "ndelo",
+      "count": 17
+    },
+    {
+      "word": "mateya",
+      "count": 17
+    },
+    {
+      "word": "mwasi",
+      "count": 17
+    },
+    {
+      "word": "holanda",
+      "count": 17
+    },
+    {
+      "word": "tunisia",
+      "count": 17
+    },
+    {
+      "word": "jour",
+      "count": 17
+    },
+    {
+      "word": "esanga",
+      "count": 17
+    },
+    {
+      "word": "mabe",
+      "count": 17
+    },
+    {
+      "word": "lizali",
+      "count": 17
+    },
+    {
+      "word": "misáto",
+      "count": 17
+    },
+    {
+      "word": "polo",
+      "count": 17
+    },
+    {
+      "word": "notre",
+      "count": 17
+    },
+    {
+      "word": "matari",
+      "count": 17
+    },
+    {
+      "word": "mambi",
+      "count": 17
+    },
+    {
+      "word": "px",
+      "count": 17
+    },
+    {
+      "word": "presse",
+      "count": 17
+    },
+    {
+      "word": "lubumbashi",
+      "count": 17
+    },
+    {
+      "word": "kasa",
+      "count": 17
+    },
+    {
+      "word": "kompaní",
+      "count": 17
+    },
+    {
+      "word": "esengelaki",
+      "count": 17
+    },
+    {
+      "word": "bck",
+      "count": 17
+    },
+    {
+      "word": "makomi",
+      "count": 16
+    },
+    {
+      "word": "sudi",
+      "count": 16
+    },
+    {
+      "word": "kondima",
+      "count": 16
+    },
+    {
+      "word": "lingómba",
+      "count": 16
+    },
+    {
+      "word": "bónganga-masíni",
+      "count": 16
+    },
+    {
+      "word": "motó",
+      "count": 16
+    },
+    {
+      "word": "likɛ",
+      "count": 16
+    },
+    {
+      "word": "lunda",
+      "count": 16
+    },
+    {
+      "word": "motíndo",
+      "count": 16
+    },
+    {
+      "word": "losambo",
+      "count": 16
+    },
+    {
+      "word": "culture",
+      "count": 16
+    },
+    {
+      "word": "recherche",
+      "count": 16
+    },
+    {
+      "word": "pierre",
+      "count": 16
+    },
+    {
+      "word": "président",
+      "count": 16
+    },
+    {
+      "word": "yanwáli",
+      "count": 16
+    },
+    {
+      "word": "febwáli",
+      "count": 16
+    },
+    {
+      "word": "office",
+      "count": 16
+    },
+    {
+      "word": "basúsu",
+      "count": 16
+    },
+    {
+      "word": "ewutaka",
+      "count": 16
+    },
+    {
+      "word": "kisi",
+      "count": 16
+    },
+    {
+      "word": "epai",
+      "count": 16
+    },
+    {
+      "word": "mike",
+      "count": 16
+    },
+    {
+      "word": "elingi",
+      "count": 16
+    },
+    {
+      "word": "nsúka",
+      "count": 16
+    },
+    {
+      "word": "kanadá",
+      "count": 16
+    },
+    {
+      "word": "nord",
+      "count": 16
+    },
+    {
+      "word": "an",
+      "count": 16
+    },
+    {
+      "word": "masíni",
+      "count": 16
+    },
+    {
+      "word": "kín",
+      "count": 16
+    },
+    {
+      "word": "inso",
+      "count": 16
+    },
+    {
+      "word": "elakisi",
+      "count": 16
+    },
+    {
+      "word": "ntúku",
+      "count": 16
+    },
+    {
+      "word": "matali",
+      "count": 16
+    },
+    {
+      "word": "yoko",
+      "count": 16
+    },
+    {
+      "word": "mbandaka",
+      "count": 16
+    },
+    {
+      "word": "pápa",
+      "count": 16
+    },
+    {
+      "word": "kompani",
+      "count": 16
+    },
+    {
+      "word": "ibandi",
+      "count": 16
+    },
+    {
+      "word": "congolaise",
+      "count": 16
+    },
+    {
+      "word": "c0c0c",
+      "count": 16
+    },
+    {
+      "word": "im",
+      "count": 16
+    },
+    {
+      "word": "ezalá",
+      "count": 16
+    },
+    {
+      "word": "ubangi",
+      "count": 16
+    },
+    {
+      "word": "falánga",
+      "count": 16
+    },
+    {
+      "word": "roma",
+      "count": 16
+    },
+    {
+      "word": "asómbi",
+      "count": 16
+    },
+    {
+      "word": "lotango",
+      "count": 16
+    },
+    {
+      "word": "academia",
+      "count": 16
+    },
+    {
+      "word": "und",
+      "count": 15
+    },
+    {
+      "word": "bomoto",
+      "count": 15
+    },
+    {
+      "word": "basi",
+      "count": 15
+    },
+    {
+      "word": "ebandeli",
+      "count": 15
+    },
+    {
+      "word": "ezaláká",
+      "count": 15
+    },
+    {
+      "word": "matéya",
+      "count": 15
+    },
+    {
+      "word": "mpúnda",
+      "count": 15
+    },
+    {
+      "word": "mɛ",
+      "count": 15
+    },
+    {
+      "word": "ikɛ",
+      "count": 15
+    },
+    {
+      "word": "ngungi",
+      "count": 15
+    },
+    {
+      "word": "pɔ",
+      "count": 15
+    },
+    {
+      "word": "bilembo-nkita",
+      "count": 15
+    },
+    {
+      "word": "lipanda",
+      "count": 15
+    },
+    {
+      "word": "molayi",
+      "count": 15
+    },
+    {
+      "word": "babúku",
+      "count": 15
+    },
+    {
+      "word": "kasai",
+      "count": 15
+    },
+    {
+      "word": "tata",
+      "count": 15
+    },
+    {
+      "word": "mikanda",
+      "count": 15
+    },
+    {
+      "word": "libwa",
+      "count": 15
+    },
+    {
+      "word": "sambo",
+      "count": 15
+    },
+    {
+      "word": "l'afrique",
+      "count": 15
+    },
+    {
+      "word": "mosála",
+      "count": 15
+    },
+    {
+      "word": "nous",
+      "count": 15
+    },
+    {
+      "word": "bilembo",
+      "count": 15
+    },
+    {
+      "word": "mali",
+      "count": 15
+    },
+    {
+      "word": "irak",
+      "count": 15
+    },
+    {
+      "word": "katikáti",
+      "count": 15
+    },
+    {
+      "word": "italya",
+      "count": 15
+    },
+    {
+      "word": "molungé",
+      "count": 15
+    },
+    {
+      "word": "you",
+      "count": 15
+    },
+    {
+      "word": "droit",
+      "count": 15
+    },
+    {
+      "word": "biloko",
+      "count": 15
+    },
+    {
+      "word": "kobela",
+      "count": 15
+    },
+    {
+      "word": "masano",
+      "count": 15
+    },
+    {
+      "word": "ndambo",
+      "count": 15
+    },
+    {
+      "word": "pɔlɔvɛ",
+      "count": 15
+    },
+    {
+      "word": "bobokoli",
+      "count": 15
+    },
+    {
+      "word": "bo",
+      "count": 15
+    },
+    {
+      "word": "région",
+      "count": 15
+    },
+    {
+      "word": "bilanga",
+      "count": 15
+    },
+    {
+      "word": "esalemi",
+      "count": 15
+    },
+    {
+      "word": "bomoyi",
+      "count": 15
+    },
+    {
+      "word": "bino",
+      "count": 15
+    },
+    {
+      "word": "banzémbo",
+      "count": 15
+    },
+    {
+      "word": "masi",
+      "count": 15
+    },
+    {
+      "word": "novɛ",
+      "count": 15
+    },
+    {
+      "word": "espania",
+      "count": 15
+    },
+    {
+      "word": "potentiel",
+      "count": 15
+    },
+    {
+      "word": "eyenga",
+      "count": 15
+    },
+    {
+      "word": "monsisá",
+      "count": 15
+    },
+    {
+      "word": "mais",
+      "count": 15
+    },
+    {
+      "word": "um",
+      "count": 15
+    },
+    {
+      "word": "slovenia",
+      "count": 15
+    },
+    {
+      "word": "exploitation",
+      "count": 15
+    },
+    {
+      "word": "eyaki",
+      "count": 15
+    },
+    {
+      "word": "inga",
+      "count": 15
+    },
+    {
+      "word": "remix",
+      "count": 15
+    },
+    {
+      "word": "lisakoli",
+      "count": 14
+    },
+    {
+      "word": "bansɔ",
+      "count": 14
+    },
+    {
+      "word": "komɔ",
+      "count": 14
+    },
+    {
+      "word": "lokúmu",
+      "count": 14
+    },
+    {
+      "word": "akokí",
+      "count": 14
+    },
+    {
+      "word": "bokási",
+      "count": 14
+    },
+    {
+      "word": "ezalela",
+      "count": 14
+    },
+    {
+      "word": "bonzámbe",
+      "count": 14
+    },
+    {
+      "word": "ndímo",
+      "count": 14
+    },
+    {
+      "word": "biyíké",
+      "count": 14
+    },
+    {
+      "word": "mangifera",
+      "count": 14
+    },
+    {
+      "word": "bɛndɛ",
+      "count": 14
+    },
+    {
+      "word": "bakambi",
+      "count": 14
+    },
+    {
+      "word": "antoine",
+      "count": 14
+    },
+    {
+      "word": "molímo",
+      "count": 14
+    },
+    {
+      "word": "ntólo",
+      "count": 14
+    },
+    {
+      "word": "libumu",
+      "count": 14
+    },
+    {
+      "word": "mokúwa",
+      "count": 14
+    },
+    {
+      "word": "nzambi",
+      "count": 14
+    },
+    {
+      "word": "lisalisi",
+      "count": 14
+    },
+    {
+      "word": "kobimisa",
+      "count": 14
+    },
+    {
+      "word": "monde",
+      "count": 14
+    },
+    {
+      "word": "mituya",
+      "count": 14
+    },
+    {
+      "word": "mónganga",
+      "count": 14
+    },
+    {
+      "word": "kopekisa",
+      "count": 14
+    },
+    {
+      "word": "boluki",
+      "count": 14
+    },
+    {
+      "word": "mǐno",
+      "count": 14
+    },
+    {
+      "word": "alingi",
+      "count": 14
+    },
+    {
+      "word": "mibu",
+      "count": 14
+    },
+    {
+      "word": "zambia",
+      "count": 14
+    },
+    {
+      "word": "me",
+      "count": 14
+    },
+    {
+      "word": "sánza",
+      "count": 14
+    },
+    {
+      "word": "avant",
+      "count": 14
+    },
+    {
+      "word": "source",
+      "count": 14
+    },
+    {
+      "word": "basengeli",
+      "count": 14
+    },
+    {
+      "word": "nakati",
+      "count": 14
+    },
+    {
+      "word": "kino",
+      "count": 14
+    },
+    {
+      "word": "mosantu",
+      "count": 14
+    },
+    {
+      "word": "boni",
+      "count": 14
+    },
+    {
+      "word": "filles",
+      "count": 14
+    },
+    {
+      "word": "lokasa",
+      "count": 14
+    },
+    {
+      "word": "ngonga",
+      "count": 14
+    },
+    {
+      "word": "misalisi",
+      "count": 14
+    },
+    {
+      "word": "misúsu",
+      "count": 14
+    },
+    {
+      "word": "pp",
+      "count": 14
+    },
+    {
+      "word": "be",
+      "count": 14
+    },
+    {
+      "word": "sékô",
+      "count": 14
+    },
+    {
+      "word": "bokasi",
+      "count": 14
+    },
+    {
+      "word": "rdc",
+      "count": 14
+    },
+    {
+      "word": "versions",
+      "count": 14
+    },
+    {
+      "word": "publique",
+      "count": 14
+    },
+    {
+      "word": "ejipte",
+      "count": 14
+    },
+    {
+      "word": "ekomaki",
+      "count": 14
+    },
+    {
+      "word": "elóna",
+      "count": 14
+    },
+    {
+      "word": "ekúmbi",
+      "count": 14
+    },
+    {
+      "word": "katikati",
+      "count": 14
+    },
+    {
+      "word": "tout",
+      "count": 14
+    },
+    {
+      "word": "masuwa",
+      "count": 14
+    },
+    {
+      "word": "grands",
+      "count": 14
+    },
+    {
+      "word": "lualaba",
+      "count": 14
+    },
+    {
+      "word": "bondo",
+      "count": 14
+    },
+    {
+      "word": "dolále",
+      "count": 14
+    },
+    {
+      "word": "zuwama",
+      "count": 14
+    },
+    {
+      "word": "wemba",
+      "count": 14
+    },
+    {
+      "word": "awards",
+      "count": 14
+    },
+    {
+      "word": "meilleur",
+      "count": 14
+    },
+    {
+      "word": "malariyá",
+      "count": 14
+    },
+    {
+      "word": "zomi",
+      "count": 13
+    },
+    {
+      "word": "bokokani",
+      "count": 13
+    },
+    {
+      "word": "pays",
+      "count": 13
+    },
+    {
+      "word": "bǎsí",
+      "count": 13
+    },
+    {
+      "word": "naíno",
+      "count": 13
+    },
+    {
+      "word": "ntaba",
+      "count": 13
+    },
+    {
+      "word": "kobima",
+      "count": 13
+    },
+    {
+      "word": "matíti",
+      "count": 13
+    },
+    {
+      "word": "bozitó",
+      "count": 13
+    },
+    {
+      "word": "zémi",
+      "count": 13
+    },
+    {
+      "word": "mokókóló",
+      "count": 13
+    },
+    {
+      "word": "démocratique",
+      "count": 13
+    },
+    {
+      "word": "seko",
+      "count": 13
+    },
+    {
+      "word": "mábalé",
+      "count": 13
+    },
+    {
+      "word": "leta",
+      "count": 13
+    },
+    {
+      "word": "eyebani",
+      "count": 13
+    },
+    {
+      "word": "ed",
+      "count": 13
+    },
+    {
+      "word": "we",
+      "count": 13
+    },
+    {
+      "word": "vol",
+      "count": 13
+    },
+    {
+      "word": "film",
+      "count": 13
+    },
+    {
+      "word": "comme",
+      "count": 13
+    },
+    {
+      "word": "gresi",
+      "count": 13
+    },
+    {
+      "word": "wapi",
+      "count": 13
+    },
+    {
+      "word": "stanley",
+      "count": 13
+    },
+    {
+      "word": "bisanga",
+      "count": 13
+    },
+    {
+      "word": "dipanda",
+      "count": 13
+    },
+    {
+      "word": "der",
+      "count": 13
+    },
+    {
+      "word": "ebelé",
+      "count": 13
+    },
+    {
+      "word": "marɔkɛ",
+      "count": 13
+    },
+    {
+      "word": "nizer",
+      "count": 13
+    },
+    {
+      "word": "muana",
+      "count": 13
+    },
+    {
+      "word": "ɔkɔtɔ",
+      "count": 13
+    },
+    {
+      "word": "mikakatano",
+      "count": 13
+    },
+    {
+      "word": "kabinda",
+      "count": 13
+    },
+    {
+      "word": "tibélekilosi",
+      "count": 13
+    },
+    {
+      "word": "dókótóló",
+      "count": 13
+    },
+    {
+      "word": "butú",
+      "count": 13
+    },
+    {
+      "word": "epesi",
+      "count": 13
+    }
+  ]
+}

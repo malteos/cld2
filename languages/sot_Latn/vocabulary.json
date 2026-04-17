@@ -1,0 +1,4012 @@
+{
+  "code": "sot",
+  "name": "Southern Sotho",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (st.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 135958,
+  "unique_tokens": 15455,
+  "words": [
+    {
+      "word": "le",
+      "count": 6358
+    },
+    {
+      "word": "ho",
+      "count": 6271
+    },
+    {
+      "word": "ka",
+      "count": 5639
+    },
+    {
+      "word": "ea",
+      "count": 4770
+    },
+    {
+      "word": "ba",
+      "count": 3372
+    },
+    {
+      "word": "oa",
+      "count": 2400
+    },
+    {
+      "word": "ke",
+      "count": 2352
+    },
+    {
+      "word": "la",
+      "count": 2341
+    },
+    {
+      "word": "tsa",
+      "count": 2245
+    },
+    {
+      "word": "sa",
+      "count": 2218
+    },
+    {
+      "word": "tse",
+      "count": 2044
+    },
+    {
+      "word": "ya",
+      "count": 1367
+    },
+    {
+      "word": "afrika",
+      "count": 1197
+    },
+    {
+      "word": "ile",
+      "count": 1137
+    },
+    {
+      "word": "ha",
+      "count": 1060
+    },
+    {
+      "word": "se",
+      "count": 982
+    },
+    {
+      "word": "hore",
+      "count": 812
+    },
+    {
+      "word": "ne",
+      "count": 722
+    },
+    {
+      "word": "kapa",
+      "count": 719
+    },
+    {
+      "word": "wa",
+      "count": 714
+    },
+    {
+      "word": "borwa",
+      "count": 669
+    },
+    {
+      "word": "pele",
+      "count": 663
+    },
+    {
+      "word": "li",
+      "count": 603
+    },
+    {
+      "word": "zuma",
+      "count": 558
+    },
+    {
+      "word": "hae",
+      "count": 552
+    },
+    {
+      "word": "bo",
+      "count": 541
+    },
+    {
+      "word": "batho",
+      "count": 515
+    },
+    {
+      "word": "tloha",
+      "count": 444
+    },
+    {
+      "word": "boroa",
+      "count": 435
+    },
+    {
+      "word": "naha",
+      "count": 418
+    },
+    {
+      "word": "na",
+      "count": 411
+    },
+    {
+      "word": "mme",
+      "count": 387
+    },
+    {
+      "word": "motse",
+      "count": 373
+    },
+    {
+      "word": "masepala",
+      "count": 354
+    },
+    {
+      "word": "nang",
+      "count": 347
+    },
+    {
+      "word": "provense",
+      "count": 343
+    },
+    {
+      "word": "me",
+      "count": 329
+    },
+    {
+      "word": "bakeng",
+      "count": 328
+    },
+    {
+      "word": "moka",
+      "count": 286
+    },
+    {
+      "word": "baahi",
+      "count": 269
+    },
+    {
+      "word": "the",
+      "count": 268
+    },
+    {
+      "word": "mopresidente",
+      "count": 266
+    },
+    {
+      "word": "eo",
+      "count": 246
+    },
+    {
+      "word": "nako",
+      "count": 240
+    },
+    {
+      "word": "biden",
+      "count": 238
+    },
+    {
+      "word": "bona",
+      "count": 233
+    },
+    {
+      "word": "bgcolor",
+      "count": 232
+    },
+    {
+      "word": "neng",
+      "count": 230
+    },
+    {
+      "word": "of",
+      "count": 222
+    },
+    {
+      "word": "di",
+      "count": 221
+    },
+    {
+      "word": "karolo",
+      "count": 216
+    },
+    {
+      "word": "etsa",
+      "count": 207
+    },
+    {
+      "word": "joalo",
+      "count": 207
+    },
+    {
+      "word": "molao",
+      "count": 204
+    },
+    {
+      "word": "anc",
+      "count": 204
+    },
+    {
+      "word": "lesotho",
+      "count": 202
+    },
+    {
+      "word": "haholo",
+      "count": 198
+    },
+    {
+      "word": "bolokiloe",
+      "count": 198
+    },
+    {
+      "word": "bang",
+      "count": 195
+    },
+    {
+      "word": "botjhabela",
+      "count": 195
+    },
+    {
+      "word": "go",
+      "count": 188
+    },
+    {
+      "word": "sebaka",
+      "count": 184
+    },
+    {
+      "word": "moo",
+      "count": 182
+    },
+    {
+      "word": "motho",
+      "count": 176
+    },
+    {
+      "word": "eona",
+      "count": 172
+    },
+    {
+      "word": "fetisisa",
+      "count": 167
+    },
+    {
+      "word": "bophelo",
+      "count": 167
+    },
+    {
+      "word": "hape",
+      "count": 162
+    },
+    {
+      "word": "sechaba",
+      "count": 162
+    },
+    {
+      "word": "mmesa",
+      "count": 162
+    },
+    {
+      "word": "leboya",
+      "count": 160
+    },
+    {
+      "word": "ling",
+      "count": 159
+    },
+    {
+      "word": "lilemo",
+      "count": 158
+    },
+    {
+      "word": "matla",
+      "count": 157
+    },
+    {
+      "word": "leng",
+      "count": 156
+    },
+    {
+      "word": "tsoa",
+      "count": 156
+    },
+    {
+      "word": "empa",
+      "count": 156
+    },
+    {
+      "word": "nakong",
+      "count": 156
+    },
+    {
+      "word": "ileng",
+      "count": 155
+    },
+    {
+      "word": "khutlisitsoe",
+      "count": 155
+    },
+    {
+      "word": "selemo",
+      "count": 152
+    },
+    {
+      "word": "tla",
+      "count": 151
+    },
+    {
+      "word": "fetang",
+      "count": 149
+    },
+    {
+      "word": "re",
+      "count": 149
+    },
+    {
+      "word": "palo",
+      "count": 148
+    },
+    {
+      "word": "kholo",
+      "count": 147
+    },
+    {
+      "word": "ramaphosa",
+      "count": 147
+    },
+    {
+      "word": "cyan",
+      "count": 144
+    },
+    {
+      "word": "mong",
+      "count": 140
+    },
+    {
+      "word": "ena",
+      "count": 138
+    },
+    {
+      "word": "setereke",
+      "count": 137
+    },
+    {
+      "word": "ngata",
+      "count": 135
+    },
+    {
+      "word": "hlakola",
+      "count": 135
+    },
+    {
+      "word": "lebaka",
+      "count": 133
+    },
+    {
+      "word": "limpopo",
+      "count": 130
+    },
+    {
+      "word": "ngoe",
+      "count": 128
+    },
+    {
+      "word": "amerika",
+      "count": 128
+    },
+    {
+      "word": "kamora",
+      "count": 127
+    },
+    {
+      "word": "uropa",
+      "count": 125
+    },
+    {
+      "word": "leha",
+      "count": 123
+    },
+    {
+      "word": "lekhotla",
+      "count": 119
+    },
+    {
+      "word": "united",
+      "count": 117
+    },
+    {
+      "word": "seo",
+      "count": 117
+    },
+    {
+      "word": "letsatsi",
+      "count": 116
+    },
+    {
+      "word": "ntle",
+      "count": 116
+    },
+    {
+      "word": "sehlopha",
+      "count": 116
+    },
+    {
+      "word": "puo",
+      "count": 114
+    },
+    {
+      "word": "ntse",
+      "count": 114
+    },
+    {
+      "word": "lefu",
+      "count": 113
+    },
+    {
+      "word": "sena",
+      "count": 112
+    },
+    {
+      "word": "seng",
+      "count": 111
+    },
+    {
+      "word": "lipolotiki",
+      "count": 111
+    },
+    {
+      "word": "pherekhong",
+      "count": 111
+    },
+    {
+      "word": "states",
+      "count": 110
+    },
+    {
+      "word": "fumana",
+      "count": 110
+    },
+    {
+      "word": "tšitoe",
+      "count": 110
+    },
+    {
+      "word": "and",
+      "count": 109
+    },
+    {
+      "word": "maemo",
+      "count": 109
+    },
+    {
+      "word": "mor'a",
+      "count": 107
+    },
+    {
+      "word": "hangata",
+      "count": 107
+    },
+    {
+      "word": "fapaneng",
+      "count": 107
+    },
+    {
+      "word": "mo",
+      "count": 107
+    },
+    {
+      "word": "phahameng",
+      "count": 106
+    },
+    {
+      "word": "mokhoa",
+      "count": 105
+    },
+    {
+      "word": "lefatše",
+      "count": 104
+    },
+    {
+      "word": "bobeli",
+      "count": 101
+    },
+    {
+      "word": "fana",
+      "count": 100
+    },
+    {
+      "word": "teng",
+      "count": 99
+    },
+    {
+      "word": "fihlela",
+      "count": 98
+    },
+    {
+      "word": "jacob",
+      "count": 97
+    },
+    {
+      "word": "thuto",
+      "count": 96
+    },
+    {
+      "word": "feta",
+      "count": 96
+    },
+    {
+      "word": "phupu",
+      "count": 96
+    },
+    {
+      "word": "feela",
+      "count": 95
+    },
+    {
+      "word": "ente",
+      "count": 95
+    },
+    {
+      "word": "nka",
+      "count": 95
+    },
+    {
+      "word": "isa",
+      "count": 94
+    },
+    {
+      "word": "bile",
+      "count": 94
+    },
+    {
+      "word": "mantlha",
+      "count": 94
+    },
+    {
+      "word": "kantle",
+      "count": 93
+    },
+    {
+      "word": "sebakeng",
+      "count": 93
+    },
+    {
+      "word": "boemo",
+      "count": 93
+    },
+    {
+      "word": "mosebetsi",
+      "count": 92
+    },
+    {
+      "word": "mabapi",
+      "count": 92
+    },
+    {
+      "word": "be",
+      "count": 91
+    },
+    {
+      "word": "qala",
+      "count": 89
+    },
+    {
+      "word": "litaba",
+      "count": 89
+    },
+    {
+      "word": "south",
+      "count": 88
+    },
+    {
+      "word": "phato",
+      "count": 88
+    },
+    {
+      "word": "motlatsi",
+      "count": 88
+    },
+    {
+      "word": "loetse",
+      "count": 88
+    },
+    {
+      "word": "sebetsa",
+      "count": 86
+    },
+    {
+      "word": "motse-moholo",
+      "count": 86
+    },
+    {
+      "word": "leboea",
+      "count": 86
+    },
+    {
+      "word": "hlakubele",
+      "count": 86
+    },
+    {
+      "word": "poland",
+      "count": 84
+    },
+    {
+      "word": "mora",
+      "count": 84
+    },
+    {
+      "word": "lena",
+      "count": 84
+    },
+    {
+      "word": "machaba",
+      "count": 83
+    },
+    {
+      "word": "ikemetseng",
+      "count": 83
+    },
+    {
+      "word": "african",
+      "count": 83
+    },
+    {
+      "word": "tseo",
+      "count": 82
+    },
+    {
+      "word": "tsena",
+      "count": 82
+    },
+    {
+      "word": "kang",
+      "count": 82
+    },
+    {
+      "word": "hantle",
+      "count": 82
+    },
+    {
+      "word": "setho",
+      "count": 82
+    },
+    {
+      "word": "leoatle",
+      "count": 82
+    },
+    {
+      "word": "mokhatlo",
+      "count": 82
+    },
+    {
+      "word": "boetse",
+      "count": 82
+    },
+    {
+      "word": "libaka",
+      "count": 81
+    },
+    {
+      "word": "hona",
+      "count": 80
+    },
+    {
+      "word": "bohlokoa",
+      "count": 80
+    },
+    {
+      "word": "hamorao",
+      "count": 80
+    },
+    {
+      "word": "mmuso",
+      "count": 79
+    },
+    {
+      "word": "kenyelletsa",
+      "count": 79
+    },
+    {
+      "word": "metse",
+      "count": 79
+    },
+    {
+      "word": "in",
+      "count": 79
+    },
+    {
+      "word": "maikutlo",
+      "count": 79
+    },
+    {
+      "word": "mefuta",
+      "count": 78
+    },
+    {
+      "word": "latela",
+      "count": 78
+    },
+    {
+      "word": "ebile",
+      "count": 77
+    },
+    {
+      "word": "linaha",
+      "count": 76
+    },
+    {
+      "word": "lefatšeng",
+      "count": 76
+    },
+    {
+      "word": "bana",
+      "count": 76
+    },
+    {
+      "word": "mphalane",
+      "count": 76
+    },
+    {
+      "word": "lebitso",
+      "count": 75
+    },
+    {
+      "word": "mino",
+      "count": 75
+    },
+    {
+      "word": "qeto",
+      "count": 75
+    },
+    {
+      "word": "kakaretso",
+      "count": 74
+    },
+    {
+      "word": "khoebo",
+      "count": 74
+    },
+    {
+      "word": "rabara",
+      "count": 74
+    },
+    {
+      "word": "qalong",
+      "count": 73
+    },
+    {
+      "word": "tsona",
+      "count": 72
+    },
+    {
+      "word": "boholo",
+      "count": 72
+    },
+    {
+      "word": "national",
+      "count": 72
+    },
+    {
+      "word": "mafu",
+      "count": 72
+    },
+    {
+      "word": "india",
+      "count": 70
+    },
+    {
+      "word": "naheng",
+      "count": 69
+    },
+    {
+      "word": "leshome",
+      "count": 69
+    },
+    {
+      "word": "bangata",
+      "count": 69
+    },
+    {
+      "word": "retrieved",
+      "count": 69
+    },
+    {
+      "word": "cape",
+      "count": 68
+    },
+    {
+      "word": "khahlanong",
+      "count": 68
+    },
+    {
+      "word": "mehleng",
+      "count": 67
+    },
+    {
+      "word": "moholo",
+      "count": 67
+    },
+    {
+      "word": "tsamaiso",
+      "count": 67
+    },
+    {
+      "word": "de",
+      "count": 67
+    },
+    {
+      "word": "hlahileng",
+      "count": 67
+    },
+    {
+      "word": "seoa",
+      "count": 67
+    },
+    {
+      "word": "hlaha",
+      "count": 66
+    },
+    {
+      "word": "moruo",
+      "count": 66
+    },
+    {
+      "word": "letlalo",
+      "count": 66
+    },
+    {
+      "word": "bophara",
+      "count": 66
+    },
+    {
+      "word": "maloa",
+      "count": 65
+    },
+    {
+      "word": "ntoa",
+      "count": 65
+    },
+    {
+      "word": "phuptjane",
+      "count": 65
+    },
+    {
+      "word": "mofuta",
+      "count": 64
+    },
+    {
+      "word": "motsemoholo",
+      "count": 64
+    },
+    {
+      "word": "tsoang",
+      "count": 64
+    },
+    {
+      "word": "bolwetse",
+      "count": 64
+    },
+    {
+      "word": "flag",
+      "count": 63
+    },
+    {
+      "word": "tšoaetso",
+      "count": 63
+    },
+    {
+      "word": "bochabela",
+      "count": 62
+    },
+    {
+      "word": "setso",
+      "count": 61
+    },
+    {
+      "word": "africa",
+      "count": 61
+    },
+    {
+      "word": "sebini",
+      "count": 61
+    },
+    {
+      "word": "pulungoana",
+      "count": 61
+    },
+    {
+      "word": "joale",
+      "count": 60
+    },
+    {
+      "word": "new",
+      "count": 60
+    },
+    {
+      "word": "toropo",
+      "count": 60
+    },
+    {
+      "word": "botle",
+      "count": 60
+    },
+    {
+      "word": "thibela",
+      "count": 60
+    },
+    {
+      "word": "liqoso",
+      "count": 60
+    },
+    {
+      "word": "motheo",
+      "count": 59
+    },
+    {
+      "word": "ona",
+      "count": 59
+    },
+    {
+      "word": "muso",
+      "count": 59
+    },
+    {
+      "word": "lula",
+      "count": 59
+    },
+    {
+      "word": "greater",
+      "count": 59
+    },
+    {
+      "word": "hare",
+      "count": 58
+    },
+    {
+      "word": "pakeng",
+      "count": 58
+    },
+    {
+      "word": "bolela",
+      "count": 57
+    },
+    {
+      "word": "maleme",
+      "count": 57
+    },
+    {
+      "word": "har'a",
+      "count": 57
+    },
+    {
+      "word": "taolo",
+      "count": 57
+    },
+    {
+      "word": "have",
+      "count": 57
+    },
+    {
+      "word": "all",
+      "count": 57
+    },
+    {
+      "word": "obama",
+      "count": 57
+    },
+    {
+      "word": "thepa",
+      "count": 56
+    },
+    {
+      "word": "tshwaetso",
+      "count": 56
+    },
+    {
+      "word": "december",
+      "count": 56
+    },
+    {
+      "word": "august",
+      "count": 56
+    },
+    {
+      "word": "leo",
+      "count": 55
+    },
+    {
+      "word": "tlhaho",
+      "count": 55
+    },
+    {
+      "word": "likhetho",
+      "count": 55
+    },
+    {
+      "word": "mbeki",
+      "count": 55
+    },
+    {
+      "word": "limilione",
+      "count": 54
+    },
+    {
+      "word": "lelapa",
+      "count": 54
+    },
+    {
+      "word": "lefatshe",
+      "count": 54
+    },
+    {
+      "word": "johannesburg",
+      "count": 54
+    },
+    {
+      "word": "jwalo",
+      "count": 54
+    },
+    {
+      "word": "congress",
+      "count": 54
+    },
+    {
+      "word": "univesithing",
+      "count": 54
+    },
+    {
+      "word": "metso",
+      "count": 53
+    },
+    {
+      "word": "mmasepala",
+      "count": 53
+    },
+    {
+      "word": "bao",
+      "count": 53
+    },
+    {
+      "word": "mathata",
+      "count": 53
+    },
+    {
+      "word": "municipalities",
+      "count": 53
+    },
+    {
+      "word": "europe",
+      "count": 52
+    },
+    {
+      "word": "lekholong",
+      "count": 52
+    },
+    {
+      "word": "etsang",
+      "count": 52
+    },
+    {
+      "word": "tsela",
+      "count": 52
+    },
+    {
+      "word": "haeba",
+      "count": 52
+    },
+    {
+      "word": "lichelete",
+      "count": 52
+    },
+    {
+      "word": "bobolu",
+      "count": 52
+    },
+    {
+      "word": "sebelisoa",
+      "count": 51
+    },
+    {
+      "word": "mmino",
+      "count": 51
+    },
+    {
+      "word": "spain",
+      "count": 50
+    },
+    {
+      "word": "senate",
+      "count": 50
+    },
+    {
+      "word": "white",
+      "count": 50
+    },
+    {
+      "word": "peli",
+      "count": 50
+    },
+    {
+      "word": "eena",
+      "count": 50
+    },
+    {
+      "word": "kahlolo",
+      "count": 50
+    },
+    {
+      "word": "sebelisa",
+      "count": 49
+    },
+    {
+      "word": "mele",
+      "count": 49
+    },
+    {
+      "word": "lihokelo",
+      "count": 49
+    },
+    {
+      "word": "kopaneng",
+      "count": 49
+    },
+    {
+      "word": "haufi",
+      "count": 49
+    },
+    {
+      "word": "kenyeletsa",
+      "count": 49
+    },
+    {
+      "word": "likarolo",
+      "count": 49
+    },
+    {
+      "word": "semmuso",
+      "count": 49
+    },
+    {
+      "word": "tsoela",
+      "count": 49
+    },
+    {
+      "word": "botho",
+      "count": 49
+    },
+    {
+      "word": "hoo",
+      "count": 49
+    },
+    {
+      "word": "news",
+      "count": 49
+    },
+    {
+      "word": "nyeoe",
+      "count": 49
+    },
+    {
+      "word": "yona",
+      "count": 48
+    },
+    {
+      "word": "com",
+      "count": 48
+    },
+    {
+      "word": "metsi",
+      "count": 48
+    },
+    {
+      "word": "e-na",
+      "count": 48
+    },
+    {
+      "word": "telele",
+      "count": 48
+    },
+    {
+      "word": "kanna",
+      "count": 48
+    },
+    {
+      "word": "dipuo",
+      "count": 47
+    },
+    {
+      "word": "hobane",
+      "count": 47
+    },
+    {
+      "word": "bua",
+      "count": 47
+    },
+    {
+      "word": "batla",
+      "count": 47
+    },
+    {
+      "word": "amanang",
+      "count": 47
+    },
+    {
+      "word": "ts'ebetso",
+      "count": 47
+    },
+    {
+      "word": "lehae",
+      "count": 47
+    },
+    {
+      "word": "mashome",
+      "count": 46
+    },
+    {
+      "word": "morena",
+      "count": 46
+    },
+    {
+      "word": "dilemo",
+      "count": 46
+    },
+    {
+      "word": "setsi",
+      "count": 46
+    },
+    {
+      "word": "asia",
+      "count": 46
+    },
+    {
+      "word": "tlase",
+      "count": 46
+    },
+    {
+      "word": "kroatia",
+      "count": 46
+    },
+    {
+      "word": "matshwao",
+      "count": 46
+    },
+    {
+      "word": "sebetsang",
+      "count": 46
+    },
+    {
+      "word": "chelete",
+      "count": 46
+    },
+    {
+      "word": "bohle",
+      "count": 45
+    },
+    {
+      "word": "basali",
+      "count": 45
+    },
+    {
+      "word": "likokoana-hloko",
+      "count": 45
+    },
+    {
+      "word": "tlisitsoe",
+      "count": 45
+    },
+    {
+      "word": "ncha",
+      "count": 44
+    },
+    {
+      "word": "lintho",
+      "count": 44
+    },
+    {
+      "word": "bohareng",
+      "count": 44
+    },
+    {
+      "word": "mang",
+      "count": 44
+    },
+    {
+      "word": "hloka",
+      "count": 44
+    },
+    {
+      "word": "tlhahlobo",
+      "count": 44
+    },
+    {
+      "word": "hlahisa",
+      "count": 44
+    },
+    {
+      "word": "moetapele",
+      "count": 44
+    },
+    {
+      "word": "provinces",
+      "count": 44
+    },
+    {
+      "word": "ding",
+      "count": 43
+    },
+    {
+      "word": "bophirima",
+      "count": 43
+    },
+    {
+      "word": "nyane",
+      "count": 43
+    },
+    {
+      "word": "grey",
+      "count": 43
+    },
+    {
+      "word": "matsatsi",
+      "count": 43
+    },
+    {
+      "word": "lipakeng",
+      "count": 43
+    },
+    {
+      "word": "fumane",
+      "count": 43
+    },
+    {
+      "word": "regions",
+      "count": 43
+    },
+    {
+      "word": "leano",
+      "count": 42
+    },
+    {
+      "word": "boraro",
+      "count": 42
+    },
+    {
+      "word": "litokelo",
+      "count": 42
+    },
+    {
+      "word": "bophirimela",
+      "count": 42
+    },
+    {
+      "word": "tsebo",
+      "count": 42
+    },
+    {
+      "word": "lihlekehleke",
+      "count": 42
+    },
+    {
+      "word": "sekolo",
+      "count": 42
+    },
+    {
+      "word": "meng",
+      "count": 42
+    },
+    {
+      "word": "ithuta",
+      "count": 42
+    },
+    {
+      "word": "mandela",
+      "count": 42
+    },
+    {
+      "word": "vaerase",
+      "count": 42
+    },
+    {
+      "word": "marabi",
+      "count": 42
+    },
+    {
+      "word": "may",
+      "count": 42
+    },
+    {
+      "word": "bongaka",
+      "count": 42
+    },
+    {
+      "word": "phetoho",
+      "count": 42
+    },
+    {
+      "word": "setjhaba",
+      "count": 41
+    },
+    {
+      "word": "tsohle",
+      "count": 41
+    },
+    {
+      "word": "mekhatlo",
+      "count": 41
+    },
+    {
+      "word": "kgolo",
+      "count": 41
+    },
+    {
+      "word": "basebetsi",
+      "count": 41
+    },
+    {
+      "word": "hammoho",
+      "count": 41
+    },
+    {
+      "word": "moea",
+      "count": 41
+    },
+    {
+      "word": "km",
+      "count": 41
+    },
+    {
+      "word": "morao",
+      "count": 41
+    },
+    {
+      "word": "letona",
+      "count": 41
+    },
+    {
+      "word": "komiti",
+      "count": 41
+    },
+    {
+      "word": "mosali",
+      "count": 41
+    },
+    {
+      "word": "lifolakha",
+      "count": 41
+    },
+    {
+      "word": "linaheng",
+      "count": 40
+    },
+    {
+      "word": "e-ba",
+      "count": 40
+    },
+    {
+      "word": "itseng",
+      "count": 40
+    },
+    {
+      "word": "linako",
+      "count": 40
+    },
+    {
+      "word": "tša",
+      "count": 40
+    },
+    {
+      "word": "thusa",
+      "count": 39
+    },
+    {
+      "word": "mosebetsing",
+      "count": 39
+    },
+    {
+      "word": "state",
+      "count": 39
+    },
+    {
+      "word": "motsana",
+      "count": 39
+    },
+    {
+      "word": "fumaneha",
+      "count": 39
+    },
+    {
+      "word": "www",
+      "count": 39
+    },
+    {
+      "word": "kenya",
+      "count": 39
+    },
+    {
+      "word": "bopaki",
+      "count": 39
+    },
+    {
+      "word": "times",
+      "count": 39
+    },
+    {
+      "word": "mekhoa",
+      "count": 39
+    },
+    {
+      "word": "cyril",
+      "count": 39
+    },
+    {
+      "word": "lengolo",
+      "count": 39
+    },
+    {
+      "word": "lijo",
+      "count": 38
+    },
+    {
+      "word": "china",
+      "count": 38
+    },
+    {
+      "word": "bong",
+      "count": 38
+    },
+    {
+      "word": "city",
+      "count": 38
+    },
+    {
+      "word": "tšoanang",
+      "count": 38
+    },
+    {
+      "word": "kaha",
+      "count": 38
+    },
+    {
+      "word": "mohlala",
+      "count": 38
+    },
+    {
+      "word": "fokotsa",
+      "count": 38
+    },
+    {
+      "word": "sefofane",
+      "count": 38
+    },
+    {
+      "word": "motlakase",
+      "count": 38
+    },
+    {
+      "word": "dinaheng",
+      "count": 38
+    },
+    {
+      "word": "khethollo",
+      "count": 38
+    },
+    {
+      "word": "basadi",
+      "count": 37
+    },
+    {
+      "word": "mahareng",
+      "count": 37
+    },
+    {
+      "word": "town",
+      "count": 37
+    },
+    {
+      "word": "khethoa",
+      "count": 37
+    },
+    {
+      "word": "sekolong",
+      "count": 37
+    },
+    {
+      "word": "tharo",
+      "count": 37
+    },
+    {
+      "word": "tlhahiso",
+      "count": 37
+    },
+    {
+      "word": "covid",
+      "count": 37
+    },
+    {
+      "word": "tšoaetsanoang",
+      "count": 37
+    },
+    {
+      "word": "wikipedia",
+      "count": 36
+    },
+    {
+      "word": "senyesemane",
+      "count": 36
+    },
+    {
+      "word": "latelang",
+      "count": 36
+    },
+    {
+      "word": "nalane",
+      "count": 36
+    },
+    {
+      "word": "baka",
+      "count": 36
+    },
+    {
+      "word": "lentsoe",
+      "count": 36
+    },
+    {
+      "word": "likamano",
+      "count": 36
+    },
+    {
+      "word": "leleme",
+      "count": 36
+    },
+    {
+      "word": "litho",
+      "count": 36
+    },
+    {
+      "word": "ao",
+      "count": 36
+    },
+    {
+      "word": "hlahile",
+      "count": 36
+    },
+    {
+      "word": "mmele",
+      "count": 36
+    },
+    {
+      "word": "morabe",
+      "count": 36
+    },
+    {
+      "word": "mengata",
+      "count": 36
+    },
+    {
+      "word": "demokrasi",
+      "count": 36
+    },
+    {
+      "word": "maemong",
+      "count": 36
+    },
+    {
+      "word": "kena",
+      "count": 36
+    },
+    {
+      "word": "boimana",
+      "count": 36
+    },
+    {
+      "word": "koloi",
+      "count": 36
+    },
+    {
+      "word": "sesole",
+      "count": 36
+    },
+    {
+      "word": "giyani",
+      "count": 36
+    },
+    {
+      "word": "ts'oaetso",
+      "count": 36
+    },
+    {
+      "word": "mail",
+      "count": 36
+    },
+    {
+      "word": "mesebetsi",
+      "count": 35
+    },
+    {
+      "word": "bitsoang",
+      "count": 35
+    },
+    {
+      "word": "tlasa",
+      "count": 35
+    },
+    {
+      "word": "mokha",
+      "count": 35
+    },
+    {
+      "word": "puso",
+      "count": 35
+    },
+    {
+      "word": "rephabliki",
+      "count": 35
+    },
+    {
+      "word": "vietnam",
+      "count": 35
+    },
+    {
+      "word": "lefats'e",
+      "count": 35
+    },
+    {
+      "word": "union",
+      "count": 35
+    },
+    {
+      "word": "ntho",
+      "count": 35
+    },
+    {
+      "word": "tsebahalang",
+      "count": 35
+    },
+    {
+      "word": "tsejoa",
+      "count": 35
+    },
+    {
+      "word": "theha",
+      "count": 35
+    },
+    {
+      "word": "inthaneteng",
+      "count": 35
+    },
+    {
+      "word": "matšoao",
+      "count": 35
+    },
+    {
+      "word": "lipuo",
+      "count": 34
+    },
+    {
+      "word": "ele",
+      "count": 34
+    },
+    {
+      "word": "lilemong",
+      "count": 34
+    },
+    {
+      "word": "dimilione",
+      "count": 34
+    },
+    {
+      "word": "libakeng",
+      "count": 34
+    },
+    {
+      "word": "bongata",
+      "count": 34
+    },
+    {
+      "word": "etsahala",
+      "count": 34
+    },
+    {
+      "word": "nts'etsopele",
+      "count": 34
+    },
+    {
+      "word": "district",
+      "count": 34
+    },
+    {
+      "word": "york",
+      "count": 34
+    },
+    {
+      "word": "tumellano",
+      "count": 34
+    },
+    {
+      "word": "etsoa",
+      "count": 34
+    },
+    {
+      "word": "center",
+      "count": 33
+    },
+    {
+      "word": "amohela",
+      "count": 33
+    },
+    {
+      "word": "tummeng",
+      "count": 33
+    },
+    {
+      "word": "mantsoe",
+      "count": 33
+    },
+    {
+      "word": "seterekeng",
+      "count": 33
+    },
+    {
+      "word": "itokolla",
+      "count": 33
+    },
+    {
+      "word": "thobalano",
+      "count": 33
+    },
+    {
+      "word": "filimi",
+      "count": 33
+    },
+    {
+      "word": "moahloli",
+      "count": 33
+    },
+    {
+      "word": "npa",
+      "count": 33
+    },
+    {
+      "word": "lefuba",
+      "count": 33
+    },
+    {
+      "word": "sesotho",
+      "count": 32
+    },
+    {
+      "word": "bonyane",
+      "count": 32
+    },
+    {
+      "word": "thata",
+      "count": 32
+    },
+    {
+      "word": "lero",
+      "count": 32
+    },
+    {
+      "word": "archived",
+      "count": 32
+    },
+    {
+      "word": "tlameha",
+      "count": 32
+    },
+    {
+      "word": "zimbabwe",
+      "count": 32
+    },
+    {
+      "word": "kula",
+      "count": 32
+    },
+    {
+      "word": "lipina",
+      "count": 32
+    },
+    {
+      "word": "jeremane",
+      "count": 31
+    },
+    {
+      "word": "kenyeletsoa",
+      "count": 31
+    },
+    {
+      "word": "mangata",
+      "count": 31
+    },
+    {
+      "word": "theko",
+      "count": 31
+    },
+    {
+      "word": "soweto",
+      "count": 31
+    },
+    {
+      "word": "feberu",
+      "count": 31
+    },
+    {
+      "word": "madi",
+      "count": 31
+    },
+    {
+      "word": "east",
+      "count": 31
+    },
+    {
+      "word": "efe",
+      "count": 31
+    },
+    {
+      "word": "seholo",
+      "count": 31
+    },
+    {
+      "word": "akaretsang",
+      "count": 31
+    },
+    {
+      "word": "lipatlisiso",
+      "count": 31
+    },
+    {
+      "word": "semmušo",
+      "count": 31
+    },
+    {
+      "word": "mexico",
+      "count": 31
+    },
+    {
+      "word": "kereke",
+      "count": 30
+    },
+    {
+      "word": "qalile",
+      "count": 30
+    },
+    {
+      "word": "sona",
+      "count": 30
+    },
+    {
+      "word": "holimo",
+      "count": 30
+    },
+    {
+      "word": "ntate",
+      "count": 30
+    },
+    {
+      "word": "aforika",
+      "count": 30
+    },
+    {
+      "word": "phatlalatsa",
+      "count": 30
+    },
+    {
+      "word": "tswa",
+      "count": 30
+    },
+    {
+      "word": "tlhokomelo",
+      "count": 30
+    },
+    {
+      "word": "fetileng",
+      "count": 30
+    },
+    {
+      "word": "boela",
+      "count": 30
+    },
+    {
+      "word": "tsamaisa",
+      "count": 30
+    },
+    {
+      "word": "katleho",
+      "count": 30
+    },
+    {
+      "word": "iraq",
+      "count": 30
+    },
+    {
+      "word": "qeta",
+      "count": 30
+    },
+    {
+      "word": "tsejoang",
+      "count": 30
+    },
+    {
+      "word": "kopana",
+      "count": 30
+    },
+    {
+      "word": "tumello",
+      "count": 30
+    },
+    {
+      "word": "tšehetsa",
+      "count": 30
+    },
+    {
+      "word": "tšebeliso",
+      "count": 30
+    },
+    {
+      "word": "bbc",
+      "count": 30
+    },
+    {
+      "word": "maruleng",
+      "count": 30
+    },
+    {
+      "word": "tlohaea",
+      "count": 30
+    },
+    {
+      "word": "flags",
+      "count": 30
+    },
+    {
+      "word": "ngola",
+      "count": 29
+    },
+    {
+      "word": "bitsoa",
+      "count": 29
+    },
+    {
+      "word": "liphoofolo",
+      "count": 29
+    },
+    {
+      "word": "tseba",
+      "count": 29
+    },
+    {
+      "word": "robong",
+      "count": 29
+    },
+    {
+      "word": "maoto",
+      "count": 29
+    },
+    {
+      "word": "phela",
+      "count": 29
+    },
+    {
+      "word": "ebe",
+      "count": 29
+    },
+    {
+      "word": "ama",
+      "count": 29
+    },
+    {
+      "word": "molaotheo",
+      "count": 29
+    },
+    {
+      "word": "st",
+      "count": 29
+    },
+    {
+      "word": "itse",
+      "count": 29
+    },
+    {
+      "word": "fokolang",
+      "count": 29
+    },
+    {
+      "word": "meriana",
+      "count": 29
+    },
+    {
+      "word": "ts'ireletso",
+      "count": 29
+    },
+    {
+      "word": "sehloohong",
+      "count": 29
+    },
+    {
+      "word": "boloka",
+      "count": 29
+    },
+    {
+      "word": "litšupiso",
+      "count": 29
+    },
+    {
+      "word": "moeling",
+      "count": 29
+    },
+    {
+      "word": "hana",
+      "count": 29
+    },
+    {
+      "word": "molumo",
+      "count": 29
+    },
+    {
+      "word": "risa",
+      "count": 29
+    },
+    {
+      "word": "to",
+      "count": 28
+    },
+    {
+      "word": "fora",
+      "count": 28
+    },
+    {
+      "word": "europa",
+      "count": 28
+    },
+    {
+      "word": "banna",
+      "count": 28
+    },
+    {
+      "word": "yr",
+      "count": 28
+    },
+    {
+      "word": "on",
+      "count": 28
+    },
+    {
+      "word": "lifofane",
+      "count": 28
+    },
+    {
+      "word": "with",
+      "count": 28
+    },
+    {
+      "word": "ntseng",
+      "count": 28
+    },
+    {
+      "word": "lenaneo",
+      "count": 28
+    },
+    {
+      "word": "leka",
+      "count": 28
+    },
+    {
+      "word": "taba",
+      "count": 28
+    },
+    {
+      "word": "seboka",
+      "count": 28
+    },
+    {
+      "word": "democratic",
+      "count": 28
+    },
+    {
+      "word": "tloaelehileng",
+      "count": 28
+    },
+    {
+      "word": "likhoeli",
+      "count": 28
+    },
+    {
+      "word": "univesithi",
+      "count": 28
+    },
+    {
+      "word": "mohlokomeli",
+      "count": 28
+    },
+    {
+      "word": "molaong",
+      "count": 27
+    },
+    {
+      "word": "merero",
+      "count": 27
+    },
+    {
+      "word": "lapeng",
+      "count": 27
+    },
+    {
+      "word": "tlas'a",
+      "count": 27
+    },
+    {
+      "word": "sengoloa",
+      "count": 27
+    },
+    {
+      "word": "freistata",
+      "count": 27
+    },
+    {
+      "word": "mi",
+      "count": 27
+    },
+    {
+      "word": "lekholo",
+      "count": 27
+    },
+    {
+      "word": "february",
+      "count": 27
+    },
+    {
+      "word": "hlahetse",
+      "count": 27
+    },
+    {
+      "word": "bitswang",
+      "count": 27
+    },
+    {
+      "word": "sengoli",
+      "count": 27
+    },
+    {
+      "word": "bay",
+      "count": 27
+    },
+    {
+      "word": "hlola",
+      "count": 27
+    },
+    {
+      "word": "thehiloe",
+      "count": 27
+    },
+    {
+      "word": "khale",
+      "count": 27
+    },
+    {
+      "word": "bopresidente",
+      "count": 27
+    },
+    {
+      "word": "municipality",
+      "count": 27
+    },
+    {
+      "word": "january",
+      "count": 27
+    },
+    {
+      "word": "nelson",
+      "count": 27
+    },
+    {
+      "word": "entsoe",
+      "count": 27
+    },
+    {
+      "word": "april",
+      "count": 27
+    },
+    {
+      "word": "kamano",
+      "count": 27
+    },
+    {
+      "word": "moemeli",
+      "count": 27
+    },
+    {
+      "word": "lisebelisoa",
+      "count": 27
+    },
+    {
+      "word": "lille",
+      "count": 27
+    },
+    {
+      "word": "hau",
+      "count": 27
+    },
+    {
+      "word": "bosnia",
+      "count": 26
+    },
+    {
+      "word": "sefahleho",
+      "count": 26
+    },
+    {
+      "word": "bobedi",
+      "count": 26
+    },
+    {
+      "word": "hara",
+      "count": 26
+    },
+    {
+      "word": "align",
+      "count": 26
+    },
+    {
+      "word": "mozambique",
+      "count": 26
+    },
+    {
+      "word": "theoha",
+      "count": 26
+    },
+    {
+      "word": "mpe",
+      "count": 26
+    },
+    {
+      "word": "october",
+      "count": 26
+    },
+    {
+      "word": "nngwe",
+      "count": 26
+    },
+    {
+      "word": "lokela",
+      "count": 26
+    },
+    {
+      "word": "polelo",
+      "count": 26
+    },
+    {
+      "word": "melao",
+      "count": 26
+    },
+    {
+      "word": "nahana",
+      "count": 26
+    },
+    {
+      "word": "ntsha",
+      "count": 26
+    },
+    {
+      "word": "khethiloe",
+      "count": 26
+    },
+    {
+      "word": "bokhoni",
+      "count": 26
+    },
+    {
+      "word": "kopano",
+      "count": 26
+    },
+    {
+      "word": "phatlalalitse",
+      "count": 26
+    },
+    {
+      "word": "linyeoe",
+      "count": 26
+    },
+    {
+      "word": "bitcoin",
+      "count": 26
+    },
+    {
+      "word": "bomasepala",
+      "count": 26
+    },
+    {
+      "word": "morero",
+      "count": 25
+    },
+    {
+      "word": "fapana",
+      "count": 25
+    },
+    {
+      "word": "laola",
+      "count": 25
+    },
+    {
+      "word": "kaofela",
+      "count": 25
+    },
+    {
+      "word": "badudi",
+      "count": 25
+    },
+    {
+      "word": "tikoloho",
+      "count": 25
+    },
+    {
+      "word": "gauteng",
+      "count": 25
+    },
+    {
+      "word": "madagascar",
+      "count": 25
+    },
+    {
+      "word": "america",
+      "count": 25
+    },
+    {
+      "word": "sebediswa",
+      "count": 25
+    },
+    {
+      "word": "bone",
+      "count": 25
+    },
+    {
+      "word": "moputso",
+      "count": 25
+    },
+    {
+      "word": "bohloko",
+      "count": 25
+    },
+    {
+      "word": "hlooho",
+      "count": 25
+    },
+    {
+      "word": "kalafo",
+      "count": 25
+    },
+    {
+      "word": "leholimo",
+      "count": 25
+    },
+    {
+      "word": "monna",
+      "count": 25
+    },
+    {
+      "word": "lefa",
+      "count": 25
+    },
+    {
+      "word": "sefate",
+      "count": 25
+    },
+    {
+      "word": "mpa",
+      "count": 25
+    },
+    {
+      "word": "mongoli",
+      "count": 25
+    },
+    {
+      "word": "boletse",
+      "count": 25
+    },
+    {
+      "word": "house",
+      "count": 25
+    },
+    {
+      "word": "bonono",
+      "count": 25
+    },
+    {
+      "word": "hiv",
+      "count": 25
+    },
+    {
+      "word": "coronavirus",
+      "count": 25
+    },
+    {
+      "word": "lifilimi",
+      "count": 25
+    },
+    {
+      "word": "shaik",
+      "count": 25
+    },
+    {
+      "word": "delaware",
+      "count": 25
+    },
+    {
+      "word": "free",
+      "count": 24
+    },
+    {
+      "word": "london",
+      "count": 24
+    },
+    {
+      "word": "hang",
+      "count": 24
+    },
+    {
+      "word": "khahlano",
+      "count": 24
+    },
+    {
+      "word": "letsoho",
+      "count": 24
+    },
+    {
+      "word": "for",
+      "count": 24
+    },
+    {
+      "word": "from",
+      "count": 24
+    },
+    {
+      "word": "entsoeng",
+      "count": 24
+    },
+    {
+      "word": "people",
+      "count": 24
+    },
+    {
+      "word": "kgethwa",
+      "count": 24
+    },
+    {
+      "word": "etswa",
+      "count": 24
+    },
+    {
+      "word": "sebete",
+      "count": 24
+    },
+    {
+      "word": "republic",
+      "count": 24
+    },
+    {
+      "word": "kotsi",
+      "count": 24
+    },
+    {
+      "word": "bonahala",
+      "count": 24
+    },
+    {
+      "word": "mehato",
+      "count": 24
+    },
+    {
+      "word": "fumanehang",
+      "count": 24
+    },
+    {
+      "word": "khotso",
+      "count": 24
+    },
+    {
+      "word": "molemong",
+      "count": 24
+    },
+    {
+      "word": "za",
+      "count": 24
+    },
+    {
+      "word": "hlokahala",
+      "count": 24
+    },
+    {
+      "word": "mabeli",
+      "count": 24
+    },
+    {
+      "word": "boemong",
+      "count": 24
+    },
+    {
+      "word": "nakoana",
+      "count": 24
+    },
+    {
+      "word": "ralipolotiki",
+      "count": 24
+    },
+    {
+      "word": "lipuisano",
+      "count": 24
+    },
+    {
+      "word": "khetho",
+      "count": 24
+    },
+    {
+      "word": "khau",
+      "count": 24
+    },
+    {
+      "word": "feletseng",
+      "count": 23
+    },
+    {
+      "word": "setifikeiti",
+      "count": 23
+    },
+    {
+      "word": "haholo-holo",
+      "count": 23
+    },
+    {
+      "word": "moshoeshoe",
+      "count": 23
+    },
+    {
+      "word": "paramente",
+      "count": 23
+    },
+    {
+      "word": "co",
+      "count": 23
+    },
+    {
+      "word": "atlantic",
+      "count": 23
+    },
+    {
+      "word": "hlano",
+      "count": 23
+    },
+    {
+      "word": "serbia",
+      "count": 23
+    },
+    {
+      "word": "bonolo",
+      "count": 23
+    },
+    {
+      "word": "nkoa",
+      "count": 23
+    },
+    {
+      "word": "tlhaloso",
+      "count": 23
+    },
+    {
+      "word": "futsanehileng",
+      "count": 23
+    },
+    {
+      "word": "thibelo",
+      "count": 23
+    },
+    {
+      "word": "fihla",
+      "count": 23
+    },
+    {
+      "word": "ii",
+      "count": 23
+    },
+    {
+      "word": "pina",
+      "count": 23
+    },
+    {
+      "word": "david",
+      "count": 23
+    },
+    {
+      "word": "kelello",
+      "count": 23
+    },
+    {
+      "word": "river",
+      "count": 23
+    },
+    {
+      "word": "khetha",
+      "count": 23
+    },
+    {
+      "word": "mokgatlo",
+      "count": 23
+    },
+    {
+      "word": "dibeke",
+      "count": 23
+    },
+    {
+      "word": "litsebi",
+      "count": 23
+    },
+    {
+      "word": "qosoa",
+      "count": 23
+    },
+    {
+      "word": "kwazulu-natal",
+      "count": 23
+    },
+    {
+      "word": "albamo",
+      "count": 23
+    },
+    {
+      "word": "tsositsoe",
+      "count": 23
+    },
+    {
+      "word": "esale",
+      "count": 22
+    },
+    {
+      "word": "canada",
+      "count": 22
+    },
+    {
+      "word": "kajeno",
+      "count": 22
+    },
+    {
+      "word": "hoja",
+      "count": 22
+    },
+    {
+      "word": "hoa",
+      "count": 22
+    },
+    {
+      "word": "org",
+      "count": 22
+    },
+    {
+      "word": "dr",
+      "count": 22
+    },
+    {
+      "word": "libuka",
+      "count": 22
+    },
+    {
+      "word": "hodimo",
+      "count": 22
+    },
+    {
+      "word": "boleng",
+      "count": 22
+    },
+    {
+      "word": "reka",
+      "count": 22
+    },
+    {
+      "word": "molemo",
+      "count": 22
+    },
+    {
+      "word": "tokoloho",
+      "count": 22
+    },
+    {
+      "word": "tsejwang",
+      "count": 22
+    },
+    {
+      "word": "kotsing",
+      "count": 22
+    },
+    {
+      "word": "kahoo",
+      "count": 22
+    },
+    {
+      "word": "kopanya",
+      "count": 22
+    },
+    {
+      "word": "lefapha",
+      "count": 22
+    },
+    {
+      "word": "tlang",
+      "count": 22
+    },
+    {
+      "word": "tšoaroa",
+      "count": 22
+    },
+    {
+      "word": "letšolo",
+      "count": 22
+    },
+    {
+      "word": "fa",
+      "count": 22
+    },
+    {
+      "word": "fetoha",
+      "count": 22
+    },
+    {
+      "word": "hlalosa",
+      "count": 22
+    },
+    {
+      "word": "liteko",
+      "count": 22
+    },
+    {
+      "word": "molato",
+      "count": 22
+    },
+    {
+      "word": "batšehetsi",
+      "count": 22
+    },
+    {
+      "word": "sebapali",
+      "count": 22
+    },
+    {
+      "word": "liente",
+      "count": 22
+    },
+    {
+      "word": "kwaito",
+      "count": 22
+    },
+    {
+      "word": "counties",
+      "count": 22
+    },
+    {
+      "word": "sepanishe",
+      "count": 21
+    },
+    {
+      "word": "kingdom",
+      "count": 21
+    },
+    {
+      "word": "ruta",
+      "count": 21
+    },
+    {
+      "word": "litereke",
+      "count": 21
+    },
+    {
+      "word": "tulo",
+      "count": 21
+    },
+    {
+      "word": "https",
+      "count": 21
+    },
+    {
+      "word": "buka",
+      "count": 21
+    },
+    {
+      "word": "kenella",
+      "count": 21
+    },
+    {
+      "word": "lona",
+      "count": 21
+    },
+    {
+      "word": "sebopeho",
+      "count": 21
+    },
+    {
+      "word": "air",
+      "count": 21
+    },
+    {
+      "word": "sehlekehleke",
+      "count": 21
+    },
+    {
+      "word": "lihlopha",
+      "count": 21
+    },
+    {
+      "word": "machabeng",
+      "count": 21
+    },
+    {
+      "word": "lumela",
+      "count": 21
+    },
+    {
+      "word": "molimo",
+      "count": 21
+    },
+    {
+      "word": "boima",
+      "count": 21
+    },
+    {
+      "word": "lerato",
+      "count": 21
+    },
+    {
+      "word": "june",
+      "count": 21
+    },
+    {
+      "word": "pelehi",
+      "count": 21
+    },
+    {
+      "word": "qetela",
+      "count": 21
+    },
+    {
+      "word": "baholo",
+      "count": 21
+    },
+    {
+      "word": "monyetla",
+      "count": 21
+    },
+    {
+      "word": "likoloi",
+      "count": 21
+    },
+    {
+      "word": "mapolesa",
+      "count": 21
+    },
+    {
+      "word": "etela",
+      "count": 21
+    },
+    {
+      "word": "etella",
+      "count": 21
+    },
+    {
+      "word": "teronkong",
+      "count": 21
+    },
+    {
+      "word": "tshitwe",
+      "count": 21
+    },
+    {
+      "word": "beke",
+      "count": 21
+    },
+    {
+      "word": "hapa",
+      "count": 21
+    },
+    {
+      "word": "libetsa",
+      "count": 21
+    },
+    {
+      "word": "rona",
+      "count": 20
+    },
+    {
+      "word": "sehlooho",
+      "count": 20
+    },
+    {
+      "word": "mekgwa",
+      "count": 20
+    },
+    {
+      "word": "pedi",
+      "count": 20
+    },
+    {
+      "word": "km²",
+      "count": 20
+    },
+    {
+      "word": "mediterranean",
+      "count": 20
+    },
+    {
+      "word": "mahlale",
+      "count": 20
+    },
+    {
+      "word": "yeo",
+      "count": 20
+    },
+    {
+      "word": "da",
+      "count": 20
+    },
+    {
+      "word": "tjhelete",
+      "count": 20
+    },
+    {
+      "word": "oo",
+      "count": 20
+    },
+    {
+      "word": "mararo",
+      "count": 20
+    },
+    {
+      "word": "tshwaeditsweng",
+      "count": 20
+    },
+    {
+      "word": "thoko",
+      "count": 20
+    },
+    {
+      "word": "sahara",
+      "count": 20
+    },
+    {
+      "word": "potlako",
+      "count": 20
+    },
+    {
+      "word": "phatlalatso",
+      "count": 20
+    },
+    {
+      "word": "dipolotiki",
+      "count": 20
+    },
+    {
+      "word": "profinseng",
+      "count": 20
+    },
+    {
+      "word": "ata",
+      "count": 20
+    },
+    {
+      "word": "emisa",
+      "count": 20
+    },
+    {
+      "word": "tsebahala",
+      "count": 20
+    },
+    {
+      "word": "qetella",
+      "count": 20
+    },
+    {
+      "word": "halofo",
+      "count": 20
+    },
+    {
+      "word": "setsebi",
+      "count": 20
+    },
+    {
+      "word": "ye",
+      "count": 20
+    },
+    {
+      "word": "fort",
+      "count": 20
+    },
+    {
+      "word": "beyers",
+      "count": 20
+    },
+    {
+      "word": "naudé",
+      "count": 20
+    },
+    {
+      "word": "motsamaisi",
+      "count": 20
+    },
+    {
+      "word": "molula-setulo",
+      "count": 20
+    },
+    {
+      "word": "chankaneng",
+      "count": 20
+    },
+    {
+      "word": "nyatsa",
+      "count": 20
+    },
+    {
+      "word": "boroa-bochabela",
+      "count": 20
+    },
+    {
+      "word": "us",
+      "count": 20
+    },
+    {
+      "word": "bonts'a",
+      "count": 20
+    },
+    {
+      "word": "ntantala-jordan",
+      "count": 20
+    },
+    {
+      "word": "kopa",
+      "count": 20
+    },
+    {
+      "word": "setšoantšo",
+      "count": 20
+    },
+    {
+      "word": "marang-rang",
+      "count": 20
+    },
+    {
+      "word": "lekana",
+      "count": 20
+    },
+    {
+      "word": "kgohlela",
+      "count": 20
+    },
+    {
+      "word": "boipiletso",
+      "count": 20
+    },
+    {
+      "word": "bapala",
+      "count": 20
+    },
+    {
+      "word": "mohope",
+      "count": 20
+    },
+    {
+      "word": "khauta",
+      "count": 20
+    },
+    {
+      "word": "autonomous",
+      "count": 20
+    },
+    {
+      "word": "sepheo",
+      "count": 19
+    },
+    {
+      "word": "sefora",
+      "count": 19
+    },
+    {
+      "word": "nama",
+      "count": 19
+    },
+    {
+      "word": "tumelo",
+      "count": 19
+    },
+    {
+      "word": "orange",
+      "count": 19
+    },
+    {
+      "word": "thomas",
+      "count": 19
+    },
+    {
+      "word": "ntlo",
+      "count": 19
+    },
+    {
+      "word": "batlile",
+      "count": 19
+    },
+    {
+      "word": "hi",
+      "count": 19
+    },
+    {
+      "word": "mabitso",
+      "count": 19
+    },
+    {
+      "word": "letho",
+      "count": 19
+    },
+    {
+      "word": "mohloli",
+      "count": 19
+    },
+    {
+      "word": "lintlha",
+      "count": 19
+    },
+    {
+      "word": "jwale",
+      "count": 19
+    },
+    {
+      "word": "eba",
+      "count": 19
+    },
+    {
+      "word": "tlwaelehileng",
+      "count": 19
+    },
+    {
+      "word": "bolulo",
+      "count": 19
+    },
+    {
+      "word": "temo",
+      "count": 19
+    },
+    {
+      "word": "bohlokwa",
+      "count": 19
+    },
+    {
+      "word": "lebisa",
+      "count": 19
+    },
+    {
+      "word": "sisulu",
+      "count": 19
+    },
+    {
+      "word": "joe",
+      "count": 19
+    },
+    {
+      "word": "ba-phalaborwa",
+      "count": 19
+    },
+    {
+      "word": "tlaleho",
+      "count": 19
+    },
+    {
+      "word": "dibakeng",
+      "count": 19
+    },
+    {
+      "word": "milione",
+      "count": 19
+    },
+    {
+      "word": "bontša",
+      "count": 19
+    },
+    {
+      "word": "lekhotleng",
+      "count": 19
+    },
+    {
+      "word": "john",
+      "count": 19
+    },
+    {
+      "word": "lokolloa",
+      "count": 19
+    },
+    {
+      "word": "thabo",
+      "count": 19
+    },
+    {
+      "word": "litšoantšo",
+      "count": 19
+    },
+    {
+      "word": "likhau",
+      "count": 19
+    },
+    {
+      "word": "jordan",
+      "count": 19
+    },
+    {
+      "word": "ngoana",
+      "count": 19
+    },
+    {
+      "word": "bolo",
+      "count": 19
+    },
+    {
+      "word": "latex",
+      "count": 19
+    },
+    {
+      "word": "qosa",
+      "count": 19
+    },
+    {
+      "word": "nene",
+      "count": 19
+    },
+    {
+      "word": "fromea",
+      "count": 19
+    },
+    {
+      "word": "rashea",
+      "count": 18
+    },
+    {
+      "word": "basotho",
+      "count": 18
+    },
+    {
+      "word": "diaparo",
+      "count": 18
+    },
+    {
+      "word": "http",
+      "count": 18
+    },
+    {
+      "word": "ga",
+      "count": 18
+    },
+    {
+      "word": "dula",
+      "count": 18
+    },
+    {
+      "word": "nepahetseng",
+      "count": 18
+    },
+    {
+      "word": "selemong",
+      "count": 18
+    },
+    {
+      "word": "march",
+      "count": 18
+    },
+    {
+      "word": "leoatleng",
+      "count": 18
+    },
+    {
+      "word": "lehloyo",
+      "count": 18
+    },
+    {
+      "word": "sehlopheng",
+      "count": 18
+    },
+    {
+      "word": "walter",
+      "count": 18
+    },
+    {
+      "word": "sepetlele",
+      "count": 18
+    },
+    {
+      "word": "kgahlanong",
+      "count": 18
+    },
+    {
+      "word": "eseng",
+      "count": 18
+    },
+    {
+      "word": "eketsehileng",
+      "count": 18
+    },
+    {
+      "word": "khutlela",
+      "count": 18
+    },
+    {
+      "word": "tekanyo",
+      "count": 18
+    },
+    {
+      "word": "iran",
+      "count": 18
+    },
+    {
+      "word": "mokhethoa",
+      "count": 18
+    },
+    {
+      "word": "ketsahalo",
+      "count": 18
+    },
+    {
+      "word": "motšeanong",
+      "count": 18
+    },
+    {
+      "word": "hajoale",
+      "count": 18
+    },
+    {
+      "word": "entseng",
+      "count": 18
+    },
+    {
+      "word": "aids",
+      "count": 18
+    },
+    {
+      "word": "felletseng",
+      "count": 18
+    },
+    {
+      "word": "boeing",
+      "count": 18
+    },
+    {
+      "word": "lefats'eng",
+      "count": 18
+    },
+    {
+      "word": "roala",
+      "count": 18
+    },
+    {
+      "word": "maske",
+      "count": 18
+    },
+    {
+      "word": "mocha",
+      "count": 18
+    },
+    {
+      "word": "liphio",
+      "count": 18
+    },
+    {
+      "word": "ukraine",
+      "count": 17
+    },
+    {
+      "word": "sebelisoang",
+      "count": 17
+    },
+    {
+      "word": "dinaha",
+      "count": 17
+    },
+    {
+      "word": "he",
+      "count": 17
+    },
+    {
+      "word": "tsheletseng",
+      "count": 17
+    },
+    {
+      "word": "noka",
+      "count": 17
+    },
+    {
+      "word": "histori",
+      "count": 17
+    },
+    {
+      "word": "holo",
+      "count": 17
+    },
+    {
+      "word": "k'honthinente",
+      "count": 17
+    },
+    {
+      "word": "suez",
+      "count": 17
+    },
+    {
+      "word": "references",
+      "count": 17
+    },
+    {
+      "word": "thehiloeng",
+      "count": 17
+    },
+    {
+      "word": "ana",
+      "count": 17
+    },
+    {
+      "word": "foreistata",
+      "count": 17
+    },
+    {
+      "word": "hapile",
+      "count": 17
+    },
+    {
+      "word": "university",
+      "count": 17
+    },
+    {
+      "word": "hlahloba",
+      "count": 17
+    },
+    {
+      "word": "matsoho",
+      "count": 17
+    },
+    {
+      "word": "italy",
+      "count": 17
+    },
+    {
+      "word": "lumella",
+      "count": 17
+    },
+    {
+      "word": "hola",
+      "count": 17
+    },
+    {
+      "word": "qetellong",
+      "count": 17
+    },
+    {
+      "word": "eketseha",
+      "count": 17
+    },
+    {
+      "word": "roma",
+      "count": 17
+    },
+    {
+      "word": "durban",
+      "count": 17
+    },
+    {
+      "word": "lipapali",
+      "count": 17
+    },
+    {
+      "word": "papali",
+      "count": 17
+    },
+    {
+      "word": "nile",
+      "count": 17
+    },
+    {
+      "word": "ngwana",
+      "count": 17
+    },
+    {
+      "word": "merabe",
+      "count": 17
+    },
+    {
+      "word": "libini",
+      "count": 17
+    },
+    {
+      "word": "kahare",
+      "count": 17
+    },
+    {
+      "word": "bolelele",
+      "count": 17
+    },
+    {
+      "word": "fella",
+      "count": 17
+    },
+    {
+      "word": "november",
+      "count": 17
+    },
+    {
+      "word": "league",
+      "count": 17
+    },
+    {
+      "word": "fallela",
+      "count": 17
+    },
+    {
+      "word": "tšehetso",
+      "count": 17
+    },
+    {
+      "word": "college",
+      "count": 17
+    },
+    {
+      "word": "baetapele",
+      "count": 17
+    },
+    {
+      "word": "sebelitse",
+      "count": 17
+    },
+    {
+      "word": "likepe",
+      "count": 17
+    },
+    {
+      "word": "khatello",
+      "count": 17
+    },
+    {
+      "word": "chate",
+      "count": 17
+    },
+    {
+      "word": "liperesente",
+      "count": 17
+    },
+    {
+      "word": "peto",
+      "count": 17
+    },
+    {
+      "word": "amapiano",
+      "count": 17
+    },
+    {
+      "word": "phelang",
+      "count": 16
+    },
+    {
+      "word": "buang",
+      "count": 16
+    },
+    {
+      "word": "phoofolo",
+      "count": 16
+    },
+    {
+      "word": "supileng",
+      "count": 16
+    },
+    {
+      "word": "maseru",
+      "count": 16
+    },
+    {
+      "word": "likhohlano",
+      "count": 16
+    },
+    {
+      "word": "moruong",
+      "count": 16
+    },
+    {
+      "word": "xa",
+      "count": 16
+    },
+    {
+      "word": "maoatle",
+      "count": 16
+    },
+    {
+      "word": "morocco",
+      "count": 16
+    },
+    {
+      "word": "senya",
+      "count": 16
+    },
+    {
+      "word": "bohlale",
+      "count": 16
+    },
+    {
+      "word": "kae",
+      "count": 16
+    },
+    {
+      "word": "bathong",
+      "count": 16
+    },
+    {
+      "word": "sebetsana",
+      "count": 16
+    },
+    {
+      "word": "is",
+      "count": 16
+    },
+    {
+      "word": "lik'hilomithara",
+      "count": 16
+    },
+    {
+      "word": "ikhethang",
+      "count": 16
+    },
+    {
+      "word": "etsahetse",
+      "count": 16
+    },
+    {
+      "word": "tsamaea",
+      "count": 16
+    },
+    {
+      "word": "pholletsa",
+      "count": 16
+    },
+    {
+      "word": "botswana",
+      "count": 16
+    },
+    {
+      "word": "maano",
+      "count": 16
+    },
+    {
+      "word": "mokete",
+      "count": 16
+    },
+    {
+      "word": "folaga",
+      "count": 16
+    },
+    {
+      "word": "romania",
+      "count": 16
+    },
+    {
+      "word": "makhetlo",
+      "count": 16
+    },
+    {
+      "word": "akarelletsa",
+      "count": 16
+    },
+    {
+      "word": "north",
+      "count": 16
+    },
+    {
+      "word": "teko",
+      "count": 16
+    },
+    {
+      "word": "nna",
+      "count": 16
+    },
+    {
+      "word": "qoba",
+      "count": 16
+    },
+    {
+      "word": "ngaka",
+      "count": 16
+    },
+    {
+      "word": "bohlano",
+      "count": 16
+    },
+    {
+      "word": "meraro",
+      "count": 16
+    },
+    {
+      "word": "lithuto",
+      "count": 16
+    },
+    {
+      "word": "tsotellehe",
+      "count": 16
+    },
+    {
+      "word": "tiisa",
+      "count": 16
+    },
+    {
+      "word": "khethehileng",
+      "count": 16
+    },
+    {
+      "word": "sebeletsa",
+      "count": 16
+    },
+    {
+      "word": "boo",
+      "count": 16
+    },
+    {
+      "word": "top",
+      "count": 16
+    },
+    {
+      "word": "alfred",
+      "count": 16
+    },
+    {
+      "word": "banana",
+      "count": 16
+    },
+    {
+      "word": "sehla",
+      "count": 16
+    },
+    {
+      "word": "profinse",
+      "count": 16
+    },
+    {
+      "word": "mookameli",
+      "count": 16
+    },
+    {
+      "word": "mafolofolo",
+      "count": 16
+    },
+    {
+      "word": "boitšoaro",
+      "count": 16
+    },
+    {
+      "word": "fuoa",
+      "count": 16
+    },
+    {
+      "word": "great",
+      "count": 16
+    },
+    {
+      "word": "uk",
+      "count": 16
+    },
+    {
+      "word": "tzaneen",
+      "count": 16
+    },
+    {
+      "word": "setsing",
+      "count": 16
+    },
+    {
+      "word": "muelli",
+      "count": 16
+    },
+    {
+      "word": "pretoria",
+      "count": 16
+    },
+    {
+      "word": "tloaelo",
+      "count": 16
+    },
+    {
+      "word": "hepatitis",
+      "count": 16
+    },
+    {
+      "word": "lingoliloeng",
+      "count": 16
+    },
+    {
+      "word": "bosholu",
+      "count": 16
+    },
+    {
+      "word": "lekanang",
+      "count": 16
+    },
+    {
+      "word": "putlama",
+      "count": 16
+    },
+    {
+      "word": "hlophisitsoeng",
+      "count": 16
+    },
+    {
+      "word": "kaholimo",
+      "count": 16
+    },
+    {
+      "word": "liprofinse",
+      "count": 16
+    },
+    {
+      "word": "ecuador",
+      "count": 16
+    },
+    {
+      "word": "federal",
+      "count": 16
+    },
+    {
+      "word": "islands",
+      "count": 16
+    },
+    {
+      "word": "lokolla",
+      "count": 16
+    },
+    {
+      "word": "georgia",
+      "count": 16
+    },
+    {
+      "word": "nicholson",
+      "count": 16
+    },
+    {
+      "word": "moporesidente",
+      "count": 16
+    },
+    {
+      "word": "platinum",
+      "count": 16
+    },
+    {
+      "word": "bokahohle",
+      "count": 16
+    },
+    {
+      "word": "lenane",
+      "count": 15
+    },
+    {
+      "word": "filosofi",
+      "count": 15
+    },
+    {
+      "word": "tshebediso",
+      "count": 15
+    },
+    {
+      "word": "hlokomela",
+      "count": 15
+    },
+    {
+      "word": "australia",
+      "count": 15
+    },
+    {
+      "word": "diphoofolo",
+      "count": 15
+    },
+    {
+      "word": "ditho",
+      "count": 15
+    },
+    {
+      "word": "senqu",
+      "count": 15
+    },
+    {
+      "word": "mpumalanga",
+      "count": 15
+    }
+  ]
+}

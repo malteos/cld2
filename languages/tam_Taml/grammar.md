@@ -1,0 +1,8 @@
+# Tamil grammar
+
+- **Word order**: Strictly head-final SOV. Modifiers precede heads; postpositions, not prepositions. Relative clauses precede the noun and use participial forms rather than relative pronouns.
+- **Morphology**: Highly agglutinative and suffixing. A noun or verb stem can take long chains of unambiguous, segmentable suffixes (case, number, tense, person, mood, politeness, evidentiality). No prefixes of grammatical significance.
+- **Nouns**: Two numbers (singular, plural `-கள்` *-kaḷ*), no grammatical gender in the European sense but a rational/irrational distinction that surfaces in agreement. Eight cases: nominative (unmarked), accusative `-ஐ` *-ai*, dative `-க்கு` *-kku* / `-உக்கு` *-ukku*, genitive `-இன்` *-iṉ* / `-உடைய` *-uṭaiya*, instrumental `-ஆல்` *-āl*, locative `-இல்` *-il*, ablative `-இலிருந்து` *-iliruntu*, sociative `-ஓடு` *-ōṭu*.
+- **Verbs**: Fuse tense + person/number/gender into a single suffix; three basic tenses (past, present, future) expanded with aspect/mood auxiliaries. Negation is typically a dedicated negative verb form (`-இல்லை` *illai*, `-ஆது` *-ātu*). A productive causative in `-வி-/-பி-`. Distinct reportive, permissive, and benefactive constructions via compounding with light verbs.
+- **Phonology**: Five short/long vowel pairs (அ ஆ இ ஈ உ ஊ எ ஏ ஒ ஓ) plus diphthongs ஐ, ஔ. Six places of articulation for stops but no phonemic voicing: voicing is allophonic (voiced between vowels or after nasals). Retroflex series /ʈ ɳ ɭ ɻ/ is prominent.
+- **Syntax notes**: Pro-drop (subject pronouns are regularly dropped). No copula in present-tense equational sentences (*avaṉ nallavaṉ* "he (is) a good man"). Strong diglossia: spoken forms collapse many written suffixes (written *irukkiṟatu* → spoken *irukku*).

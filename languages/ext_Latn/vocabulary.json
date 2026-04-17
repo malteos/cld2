@@ -1,0 +1,4012 @@
+{
+  "code": "ext",
+  "name": "Extremaduran",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (ext.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 334610,
+  "unique_tokens": 54546,
+  "words": [
+    {
+      "word": "de",
+      "count": 13480
+    },
+    {
+      "word": "la",
+      "count": 12766
+    },
+    {
+      "word": "el",
+      "count": 12049
+    },
+    {
+      "word": "en",
+      "count": 6927
+    },
+    {
+      "word": "que",
+      "count": 4781
+    },
+    {
+      "word": "los",
+      "count": 4603
+    },
+    {
+      "word": "es",
+      "count": 3878
+    },
+    {
+      "word": "las",
+      "count": 3284
+    },
+    {
+      "word": "se",
+      "count": 3020
+    },
+    {
+      "word": "del",
+      "count": 2917
+    },
+    {
+      "word": "con",
+      "count": 2810
+    },
+    {
+      "word": "un",
+      "count": 2778
+    },
+    {
+      "word": "su",
+      "count": 2671
+    },
+    {
+      "word": "al",
+      "count": 2580
+    },
+    {
+      "word": "una",
+      "count": 2514
+    },
+    {
+      "word": "nel",
+      "count": 2180
+    },
+    {
+      "word": "ena",
+      "count": 2137
+    },
+    {
+      "word": "pol",
+      "count": 2036
+    },
+    {
+      "word": "pa",
+      "count": 1233
+    },
+    {
+      "word": "hue",
+      "count": 1176
+    },
+    {
+      "word": "mas",
+      "count": 1117
+    },
+    {
+      "word": "cumu",
+      "count": 1020
+    },
+    {
+      "word": "son",
+      "count": 945
+    },
+    {
+      "word": "comu",
+      "count": 937
+    },
+    {
+      "word": "ciá",
+      "count": 829
+    },
+    {
+      "word": "sus",
+      "count": 786
+    },
+    {
+      "word": "lo",
+      "count": 717
+    },
+    {
+      "word": "por",
+      "count": 693
+    },
+    {
+      "word": "tamién",
+      "count": 687
+    },
+    {
+      "word": "entri",
+      "count": 631
+    },
+    {
+      "word": "esti",
+      "count": 613
+    },
+    {
+      "word": "dos",
+      "count": 609
+    },
+    {
+      "word": "atijus",
+      "count": 607
+    },
+    {
+      "word": "nu",
+      "count": 603
+    },
+    {
+      "word": "está",
+      "count": 573
+    },
+    {
+      "word": "no",
+      "count": 565
+    },
+    {
+      "word": "nombri",
+      "count": 543
+    },
+    {
+      "word": "parti",
+      "count": 533
+    },
+    {
+      "word": "pola",
+      "count": 526
+    },
+    {
+      "word": "más",
+      "count": 507
+    },
+    {
+      "word": "norti",
+      "count": 504
+    },
+    {
+      "word": "dela",
+      "count": 503
+    },
+    {
+      "word": "capital",
+      "count": 457
+    },
+    {
+      "word": "sel",
+      "count": 454
+    },
+    {
+      "word": "sul",
+      "count": 453
+    },
+    {
+      "word": "enas",
+      "count": 452
+    },
+    {
+      "word": "añu",
+      "count": 430
+    },
+    {
+      "word": "luenga",
+      "count": 429
+    },
+    {
+      "word": "província",
+      "count": 426
+    },
+    {
+      "word": "sigru",
+      "count": 424
+    },
+    {
+      "word": "primel",
+      "count": 419
+    },
+    {
+      "word": "tien",
+      "count": 403
+    },
+    {
+      "word": "enos",
+      "count": 399
+    },
+    {
+      "word": "hata",
+      "count": 388
+    },
+    {
+      "word": "obra",
+      "count": 379
+    },
+    {
+      "word": "añus",
+      "count": 374
+    },
+    {
+      "word": "mayol",
+      "count": 372
+    },
+    {
+      "word": "mu",
+      "count": 372
+    },
+    {
+      "word": "país",
+      "count": 372
+    },
+    {
+      "word": "puebración",
+      "count": 363
+    },
+    {
+      "word": "griegu",
+      "count": 356
+    },
+    {
+      "word": "españa",
+      "count": 347
+    },
+    {
+      "word": "san",
+      "count": 347
+    },
+    {
+      "word": "música",
+      "count": 347
+    },
+    {
+      "word": "le",
+      "count": 344
+    },
+    {
+      "word": "esta",
+      "count": 343
+    },
+    {
+      "word": "pal",
+      "count": 336
+    },
+    {
+      "word": "estremeñu",
+      "count": 334
+    },
+    {
+      "word": "mari",
+      "count": 327
+    },
+    {
+      "word": "era",
+      "count": 322
+    },
+    {
+      "word": "luengas",
+      "count": 316
+    },
+    {
+      "word": "via",
+      "count": 313
+    },
+    {
+      "word": "gran",
+      "count": 312
+    },
+    {
+      "word": "riu",
+      "count": 306
+    },
+    {
+      "word": "unu",
+      "count": 305
+    },
+    {
+      "word": "mesmu",
+      "count": 301
+    },
+    {
+      "word": "peru",
+      "count": 296
+    },
+    {
+      "word": "abitantis",
+      "count": 289
+    },
+    {
+      "word": "sin",
+      "count": 287
+    },
+    {
+      "word": "cona",
+      "count": 287
+    },
+    {
+      "word": "qu",
+      "count": 287
+    },
+    {
+      "word": "ya",
+      "count": 281
+    },
+    {
+      "word": "ondi",
+      "count": 279
+    },
+    {
+      "word": "mundu",
+      "count": 274
+    },
+    {
+      "word": "dendi",
+      "count": 267
+    },
+    {
+      "word": "assitiau",
+      "count": 267
+    },
+    {
+      "word": "caçris",
+      "count": 267
+    },
+    {
+      "word": "dun",
+      "count": 262
+    },
+    {
+      "word": "amás",
+      "count": 260
+    },
+    {
+      "word": "tuvu",
+      "count": 260
+    },
+    {
+      "word": "oficial",
+      "count": 258
+    },
+    {
+      "word": "tres",
+      "count": 255
+    },
+    {
+      "word": "ciais",
+      "count": 255
+    },
+    {
+      "word": "duranti",
+      "count": 253
+    },
+    {
+      "word": "puei",
+      "count": 250
+    },
+    {
+      "word": "repúbrica",
+      "count": 246
+    },
+    {
+      "word": "tentu",
+      "count": 246
+    },
+    {
+      "word": "sigún",
+      "count": 242
+    },
+    {
+      "word": "latín",
+      "count": 242
+    },
+    {
+      "word": "guerra",
+      "count": 241
+    },
+    {
+      "word": "duna",
+      "count": 240
+    },
+    {
+      "word": "sobri",
+      "count": 240
+    },
+    {
+      "word": "estau",
+      "count": 239
+    },
+    {
+      "word": "nun",
+      "count": 237
+    },
+    {
+      "word": "mairil",
+      "count": 237
+    },
+    {
+      "word": "assitiá",
+      "count": 237
+    },
+    {
+      "word": "oesti",
+      "count": 230
+    },
+    {
+      "word": "obras",
+      "count": 225
+    },
+    {
+      "word": "castellanu",
+      "count": 220
+    },
+    {
+      "word": "polos",
+      "count": 218
+    },
+    {
+      "word": "tiempu",
+      "count": 216
+    },
+    {
+      "word": "grupu",
+      "count": 215
+    },
+    {
+      "word": "si",
+      "count": 214
+    },
+    {
+      "word": "d'españa",
+      "count": 213
+    },
+    {
+      "word": "mé",
+      "count": 211
+    },
+    {
+      "word": "namás",
+      "count": 211
+    },
+    {
+      "word": "the",
+      "count": 209
+    },
+    {
+      "word": "cuenta",
+      "count": 208
+    },
+    {
+      "word": "horma",
+      "count": 203
+    },
+    {
+      "word": "quandu",
+      "count": 202
+    },
+    {
+      "word": "zona",
+      "count": 200
+    },
+    {
+      "word": "hazi",
+      "count": 200
+    },
+    {
+      "word": "angunus",
+      "count": 199
+    },
+    {
+      "word": "cola",
+      "count": 198
+    },
+    {
+      "word": "estória",
+      "count": 197
+    },
+    {
+      "word": "tierra",
+      "count": 193
+    },
+    {
+      "word": "centru",
+      "count": 193
+    },
+    {
+      "word": "castilla",
+      "count": 191
+    },
+    {
+      "word": "endi",
+      "count": 191
+    },
+    {
+      "word": "ogañu",
+      "count": 184
+    },
+    {
+      "word": "huerun",
+      "count": 184
+    },
+    {
+      "word": "web",
+      "count": 183
+    },
+    {
+      "word": "lugal",
+      "count": 183
+    },
+    {
+      "word": "arrayu",
+      "count": 182
+    },
+    {
+      "word": "paisis",
+      "count": 179
+    },
+    {
+      "word": "española",
+      "count": 179
+    },
+    {
+      "word": "sistema",
+      "count": 178
+    },
+    {
+      "word": "ca",
+      "count": 178
+    },
+    {
+      "word": "emportanti",
+      "count": 177
+    },
+    {
+      "word": "qu'el",
+      "count": 175
+    },
+    {
+      "word": "puebru",
+      "count": 173
+    },
+    {
+      "word": "ingrés",
+      "count": 172
+    },
+    {
+      "word": "anque",
+      "count": 170
+    },
+    {
+      "word": "español",
+      "count": 169
+    },
+    {
+      "word": "nacéncia",
+      "count": 169
+    },
+    {
+      "word": "da",
+      "count": 168
+    },
+    {
+      "word": "s'alcuentra",
+      "count": 168
+    },
+    {
+      "word": "fráncia",
+      "count": 168
+    },
+    {
+      "word": "nueva",
+      "count": 167
+    },
+    {
+      "word": "huentis",
+      "count": 167
+    },
+    {
+      "word": "otrus",
+      "count": 165
+    },
+    {
+      "word": "tamien",
+      "count": 165
+    },
+    {
+      "word": "inque",
+      "count": 161
+    },
+    {
+      "word": "pais",
+      "count": 160
+    },
+    {
+      "word": "sierra",
+      "count": 159
+    },
+    {
+      "word": "grandis",
+      "count": 159
+    },
+    {
+      "word": "estremaura",
+      "count": 157
+    },
+    {
+      "word": "mó",
+      "count": 156
+    },
+    {
+      "word": "península",
+      "count": 155
+    },
+    {
+      "word": "literatura",
+      "count": 153
+    },
+    {
+      "word": "td",
+      "count": 153
+    },
+    {
+      "word": "otras",
+      "count": 152
+    },
+    {
+      "word": "d'estremaura",
+      "count": 152
+    },
+    {
+      "word": "tolos",
+      "count": 152
+    },
+    {
+      "word": "isla",
+      "count": 152
+    },
+    {
+      "word": "atihus",
+      "count": 151
+    },
+    {
+      "word": "parabra",
+      "count": 151
+    },
+    {
+      "word": "estaus",
+      "count": 150
+    },
+    {
+      "word": "islas",
+      "count": 148
+    },
+    {
+      "word": "palra",
+      "count": 147
+    },
+    {
+      "word": "of",
+      "count": 147
+    },
+    {
+      "word": "menus",
+      "count": 146
+    },
+    {
+      "word": "delos",
+      "count": 145
+    },
+    {
+      "word": "endispués",
+      "count": 144
+    },
+    {
+      "word": "tantu",
+      "count": 144
+    },
+    {
+      "word": "méria",
+      "count": 143
+    },
+    {
+      "word": "emportantis",
+      "count": 142
+    },
+    {
+      "word": "rei",
+      "count": 142
+    },
+    {
+      "word": "total",
+      "count": 142
+    },
+    {
+      "word": "númiru",
+      "count": 142
+    },
+    {
+      "word": "unus",
+      "count": 141
+    },
+    {
+      "word": "qm²",
+      "count": 141
+    },
+    {
+      "word": "align",
+      "count": 140
+    },
+    {
+      "word": "francés",
+      "count": 140
+    },
+    {
+      "word": "griega",
+      "count": 140
+    },
+    {
+      "word": "badajós",
+      "count": 139
+    },
+    {
+      "word": "km",
+      "count": 139
+    },
+    {
+      "word": "andi",
+      "count": 138
+    },
+    {
+      "word": "están",
+      "count": 137
+    },
+    {
+      "word": "siu",
+      "count": 136
+    },
+    {
+      "word": "puein",
+      "count": 136
+    },
+    {
+      "word": "libru",
+      "count": 136
+    },
+    {
+      "word": "nacional",
+      "count": 135
+    },
+    {
+      "word": "romanu",
+      "count": 135
+    },
+    {
+      "word": "región",
+      "count": 135
+    },
+    {
+      "word": "nuna",
+      "count": 134
+    },
+    {
+      "word": "comuniá",
+      "count": 134
+    },
+    {
+      "word": "holma",
+      "count": 134
+    },
+    {
+      "word": "angunas",
+      "count": 133
+    },
+    {
+      "word": "prencipalis",
+      "count": 132
+    },
+    {
+      "word": "sória",
+      "count": 132
+    },
+    {
+      "word": "entre",
+      "count": 132
+    },
+    {
+      "word": "fubu",
+      "count": 132
+    },
+    {
+      "word": "lengua",
+      "count": 132
+    },
+    {
+      "word": "huendu",
+      "count": 131
+    },
+    {
+      "word": "parabras",
+      "count": 131
+    },
+    {
+      "word": "autol",
+      "count": 131
+    },
+    {
+      "word": "vezi",
+      "count": 130
+    },
+    {
+      "word": "ab",
+      "count": 129
+    },
+    {
+      "word": "santa",
+      "count": 128
+    },
+    {
+      "word": "meyu",
+      "count": 128
+    },
+    {
+      "word": "polas",
+      "count": 127
+    },
+    {
+      "word": "josé",
+      "count": 127
+    },
+    {
+      "word": "lión",
+      "count": 127
+    },
+    {
+      "word": "km²",
+      "count": 126
+    },
+    {
+      "word": "gasta",
+      "count": 125
+    },
+    {
+      "word": "comarca",
+      "count": 125
+    },
+    {
+      "word": "estu",
+      "count": 124
+    },
+    {
+      "word": "prencipal",
+      "count": 124
+    },
+    {
+      "word": "estus",
+      "count": 124
+    },
+    {
+      "word": "nuevu",
+      "count": 123
+    },
+    {
+      "word": "millonis",
+      "count": 123
+    },
+    {
+      "word": "escrebioris",
+      "count": 123
+    },
+    {
+      "word": "com",
+      "count": 121
+    },
+    {
+      "word": "ii",
+      "count": 121
+    },
+    {
+      "word": "uropa",
+      "count": 121
+    },
+    {
+      "word": "provincia",
+      "count": 120
+    },
+    {
+      "word": "océanu",
+      "count": 120
+    },
+    {
+      "word": "otru",
+      "count": 120
+    },
+    {
+      "word": "polo",
+      "count": 119
+    },
+    {
+      "word": "prencipalmenti",
+      "count": 119
+    },
+    {
+      "word": "enque",
+      "count": 119
+    },
+    {
+      "word": "hizu",
+      "count": 119
+    },
+    {
+      "word": "roma",
+      "count": 118
+    },
+    {
+      "word": "juan",
+      "count": 118
+    },
+    {
+      "word": "pala",
+      "count": 117
+    },
+    {
+      "word": "rius",
+      "count": 117
+    },
+    {
+      "word": "tó",
+      "count": 117
+    },
+    {
+      "word": "romana",
+      "count": 117
+    },
+    {
+      "word": "extremadura",
+      "count": 116
+    },
+    {
+      "word": "ai",
+      "count": 116
+    },
+    {
+      "word": "família",
+      "count": 116
+    },
+    {
+      "word": "huerça",
+      "count": 115
+    },
+    {
+      "word": "central",
+      "count": 115
+    },
+    {
+      "word": "epoca",
+      "count": 115
+    },
+    {
+      "word": "dende",
+      "count": 114
+    },
+    {
+      "word": "marcu",
+      "count": 114
+    },
+    {
+      "word": "grandi",
+      "count": 114
+    },
+    {
+      "word": "uropea",
+      "count": 113
+    },
+    {
+      "word": "discu",
+      "count": 113
+    },
+    {
+      "word": "gr",
+      "count": 113
+    },
+    {
+      "word": "bibliografia",
+      "count": 113
+    },
+    {
+      "word": "costa",
+      "count": 112
+    },
+    {
+      "word": "natural",
+      "count": 112
+    },
+    {
+      "word": "valli",
+      "count": 112
+    },
+    {
+      "word": "oxford",
+      "count": 112
+    },
+    {
+      "word": "moneas",
+      "count": 112
+    },
+    {
+      "word": "bien",
+      "count": 111
+    },
+    {
+      "word": "social",
+      "count": 111
+    },
+    {
+      "word": "colspan",
+      "count": 111
+    },
+    {
+      "word": "devisión",
+      "count": 111
+    },
+    {
+      "word": "contra",
+      "count": 109
+    },
+    {
+      "word": "monicípiu",
+      "count": 109
+    },
+    {
+      "word": "largu",
+      "count": 108
+    },
+    {
+      "word": "salamanca",
+      "count": 108
+    },
+    {
+      "word": "grécia",
+      "count": 107
+    },
+    {
+      "word": "delas",
+      "count": 105
+    },
+    {
+      "word": "segundera",
+      "count": 105
+    },
+    {
+      "word": "conociu",
+      "count": 105
+    },
+    {
+      "word": "endrentu",
+      "count": 105
+    },
+    {
+      "word": "ociental",
+      "count": 105
+    },
+    {
+      "word": "llamau",
+      "count": 105
+    },
+    {
+      "word": "pero",
+      "count": 105
+    },
+    {
+      "word": "dia",
+      "count": 105
+    },
+    {
+      "word": "datus",
+      "count": 105
+    },
+    {
+      "word": "junta",
+      "count": 105
+    },
+    {
+      "word": "ária",
+      "count": 104
+    },
+    {
+      "word": "enantis",
+      "count": 104
+    },
+    {
+      "word": "primerus",
+      "count": 104
+    },
+    {
+      "word": "d'uropa",
+      "count": 104
+    },
+    {
+      "word": "estremeñus",
+      "count": 104
+    },
+    {
+      "word": "oriental",
+      "count": 103
+    },
+    {
+      "word": "án",
+      "count": 103
+    },
+    {
+      "word": "praséncia",
+      "count": 103
+    },
+    {
+      "word": "portugal",
+      "count": 102
+    },
+    {
+      "word": "estilu",
+      "count": 102
+    },
+    {
+      "word": "pairi",
+      "count": 102
+    },
+    {
+      "word": "segunda",
+      "count": 101
+    },
+    {
+      "word": "unión",
+      "count": 101
+    },
+    {
+      "word": "ayuntamientu",
+      "count": 101
+    },
+    {
+      "word": "empériu",
+      "count": 101
+    },
+    {
+      "word": "estas",
+      "count": 101
+    },
+    {
+      "word": "vocal",
+      "count": 100
+    },
+    {
+      "word": "alemaña",
+      "count": 99
+    },
+    {
+      "word": "pocu",
+      "count": 99
+    },
+    {
+      "word": "puenti",
+      "count": 99
+    },
+    {
+      "word": "tol",
+      "count": 98
+    },
+    {
+      "word": "barcelona",
+      "count": 98
+    },
+    {
+      "word": "otra",
+      "count": 98
+    },
+    {
+      "word": "mentris",
+      "count": 98
+    },
+    {
+      "word": "zonas",
+      "count": 98
+    },
+    {
+      "word": "quien",
+      "count": 97
+    },
+    {
+      "word": "setiembri",
+      "count": 96
+    },
+    {
+      "word": "alreol",
+      "count": 96
+    },
+    {
+      "word": "tiini",
+      "count": 96
+    },
+    {
+      "word": "economia",
+      "count": 96
+    },
+    {
+      "word": "ni",
+      "count": 96
+    },
+    {
+      "word": "mayu",
+      "count": 95
+    },
+    {
+      "word": "mes",
+      "count": 95
+    },
+    {
+      "word": "guadiana",
+      "count": 95
+    },
+    {
+      "word": "purtugués",
+      "count": 95
+    },
+    {
+      "word": "tenel",
+      "count": 95
+    },
+    {
+      "word": "puntu",
+      "count": 94
+    },
+    {
+      "word": "siendu",
+      "count": 94
+    },
+    {
+      "word": "latina",
+      "count": 94
+    },
+    {
+      "word": "áugua",
+      "count": 94
+    },
+    {
+      "word": "desti",
+      "count": 94
+    },
+    {
+      "word": "autónoma",
+      "count": 94
+    },
+    {
+      "word": "pos",
+      "count": 94
+    },
+    {
+      "word": "cuandu",
+      "count": 93
+    },
+    {
+      "word": "tipu",
+      "count": 93
+    },
+    {
+      "word": "tolas",
+      "count": 93
+    },
+    {
+      "word": "él",
+      "count": 93
+    },
+    {
+      "word": "pueta",
+      "count": 93
+    },
+    {
+      "word": "mundial",
+      "count": 92
+    },
+    {
+      "word": "dias",
+      "count": 92
+    },
+    {
+      "word": "elésia",
+      "count": 92
+    },
+    {
+      "word": "primera",
+      "count": 91
+    },
+    {
+      "word": "purtugal",
+      "count": 90
+    },
+    {
+      "word": "marçu",
+      "count": 89
+    },
+    {
+      "word": "algotrus",
+      "count": 89
+    },
+    {
+      "word": "muerti",
+      "count": 89
+    },
+    {
+      "word": "vera",
+      "count": 89
+    },
+    {
+      "word": "comunidá",
+      "count": 88
+    },
+    {
+      "word": "d'estremaúra",
+      "count": 88
+    },
+    {
+      "word": "cincu",
+      "count": 88
+    },
+    {
+      "word": "términu",
+      "count": 87
+    },
+    {
+      "word": "reinu",
+      "count": 87
+    },
+    {
+      "word": "presienti",
+      "count": 87
+    },
+    {
+      "word": "menol",
+      "count": 87
+    },
+    {
+      "word": "casa",
+      "count": 87
+    },
+    {
+      "word": "ellus",
+      "count": 87
+    },
+    {
+      "word": "réinu",
+      "count": 87
+    },
+    {
+      "word": "estremeña",
+      "count": 86
+    },
+    {
+      "word": "izil",
+      "count": 86
+    },
+    {
+      "word": "solu",
+      "count": 86
+    },
+    {
+      "word": "autoris",
+      "count": 86
+    },
+    {
+      "word": "tienin",
+      "count": 85
+    },
+    {
+      "word": "wikipedia",
+      "count": 85
+    },
+    {
+      "word": "escuela",
+      "count": 85
+    },
+    {
+      "word": "partil",
+      "count": 85
+    },
+    {
+      "word": "huera",
+      "count": 85
+    },
+    {
+      "word": "hechu",
+      "count": 85
+    },
+    {
+      "word": "catalán",
+      "count": 85
+    },
+    {
+      "word": "populal",
+      "count": 85
+    },
+    {
+      "word": "style",
+      "count": 84
+    },
+    {
+      "word": "hebreru",
+      "count": 84
+    },
+    {
+      "word": "oficialmenti",
+      "count": 84
+    },
+    {
+      "word": "restu",
+      "count": 84
+    },
+    {
+      "word": "puebrus",
+      "count": 84
+    },
+    {
+      "word": "metrus",
+      "count": 84
+    },
+    {
+      "word": "áfrica",
+      "count": 84
+    },
+    {
+      "word": "províncias",
+      "count": 84
+    },
+    {
+      "word": "trata",
+      "count": 84
+    },
+    {
+      "word": "conos",
+      "count": 84
+    },
+    {
+      "word": "puesia",
+      "count": 84
+    },
+    {
+      "word": "estoria",
+      "count": 83
+    },
+    {
+      "word": "geografia",
+      "count": 83
+    },
+    {
+      "word": "assina",
+      "count": 83
+    },
+    {
+      "word": "librus",
+      "count": 83
+    },
+    {
+      "word": "densiá",
+      "count": 82
+    },
+    {
+      "word": "tema",
+      "count": 82
+    },
+    {
+      "word": "les",
+      "count": 82
+    },
+    {
+      "word": "origin",
+      "count": 82
+    },
+    {
+      "word": "noviembri",
+      "count": 81
+    },
+    {
+      "word": "política",
+      "count": 81
+    },
+    {
+      "word": "tini",
+      "count": 81
+    },
+    {
+      "word": "árabi",
+      "count": 81
+    },
+    {
+      "word": "center",
+      "count": 81
+    },
+    {
+      "word": "aluspués",
+      "count": 80
+    },
+    {
+      "word": "antonio",
+      "count": 80
+    },
+    {
+      "word": "cual",
+      "count": 80
+    },
+    {
+      "word": "final",
+      "count": 80
+    },
+    {
+      "word": "estremaúra",
+      "count": 80
+    },
+    {
+      "word": "museu",
+      "count": 80
+    },
+    {
+      "word": "chascu",
+      "count": 80
+    },
+    {
+      "word": "américa",
+      "count": 80
+    },
+    {
+      "word": "meya",
+      "count": 80
+    },
+    {
+      "word": "qu'es",
+      "count": 80
+    },
+    {
+      "word": "d'áfrica",
+      "count": 80
+    },
+    {
+      "word": "vascu",
+      "count": 80
+    },
+    {
+      "word": "muchus",
+      "count": 80
+    },
+    {
+      "word": "isbn",
+      "count": 80
+    },
+    {
+      "word": "própiu",
+      "count": 80
+    },
+    {
+      "word": "tinia",
+      "count": 79
+    },
+    {
+      "word": "territóriu",
+      "count": 79
+    },
+    {
+      "word": "deferentis",
+      "count": 79
+    },
+    {
+      "word": "in",
+      "count": 79
+    },
+    {
+      "word": "don",
+      "count": 79
+    },
+    {
+      "word": "tras",
+      "count": 79
+    },
+    {
+      "word": "china",
+      "count": 78
+    },
+    {
+      "word": "alemán",
+      "count": 78
+    },
+    {
+      "word": "desta",
+      "count": 78
+    },
+    {
+      "word": "lugaris",
+      "count": 78
+    },
+    {
+      "word": "cuyu",
+      "count": 78
+    },
+    {
+      "word": "territoriu",
+      "count": 78
+    },
+    {
+      "word": "letras",
+      "count": 78
+    },
+    {
+      "word": "para",
+      "count": 77
+    },
+    {
+      "word": "nombris",
+      "count": 77
+    },
+    {
+      "word": "várius",
+      "count": 77
+    },
+    {
+      "word": "página",
+      "count": 77
+    },
+    {
+      "word": "seya",
+      "count": 77
+    },
+    {
+      "word": "emperaol",
+      "count": 77
+    },
+    {
+      "word": "p'ahuera",
+      "count": 77
+    },
+    {
+      "word": "ásia",
+      "count": 77
+    },
+    {
+      "word": "enus",
+      "count": 76
+    },
+    {
+      "word": "general",
+      "count": 76
+    },
+    {
+      "word": "gobielnu",
+      "count": 76
+    },
+    {
+      "word": "mediterráneu",
+      "count": 76
+    },
+    {
+      "word": "parqui",
+      "count": 76
+    },
+    {
+      "word": "tupa",
+      "count": 75
+    },
+    {
+      "word": "longol",
+      "count": 75
+    },
+    {
+      "word": "continenti",
+      "count": 75
+    },
+    {
+      "word": "ibérica",
+      "count": 75
+    },
+    {
+      "word": "campu",
+      "count": 75
+    },
+    {
+      "word": "primeru",
+      "count": 74
+    },
+    {
+      "word": "ain",
+      "count": 74
+    },
+    {
+      "word": "romanus",
+      "count": 74
+    },
+    {
+      "word": "algotras",
+      "count": 74
+    },
+    {
+      "word": "escrebiol",
+      "count": 74
+    },
+    {
+      "word": "ombri",
+      "count": 74
+    },
+    {
+      "word": "real",
+      "count": 73
+    },
+    {
+      "word": "páhina",
+      "count": 73
+    },
+    {
+      "word": "mi",
+      "count": 73
+    },
+    {
+      "word": "vezis",
+      "count": 73
+    },
+    {
+      "word": "em",
+      "count": 73
+    },
+    {
+      "word": "ebiu",
+      "count": 72
+    },
+    {
+      "word": "col",
+      "count": 72
+    },
+    {
+      "word": "león",
+      "count": 72
+    },
+    {
+      "word": "tierras",
+      "count": 72
+    },
+    {
+      "word": "siempri",
+      "count": 72
+    },
+    {
+      "word": "tiempus",
+      "count": 72
+    },
+    {
+      "word": "pedro",
+      "count": 72
+    },
+    {
+      "word": "mesma",
+      "count": 71
+    },
+    {
+      "word": "fiestas",
+      "count": 71
+    },
+    {
+      "word": "brasil",
+      "count": 71
+    },
+    {
+      "word": "griegus",
+      "count": 71
+    },
+    {
+      "word": "toleu",
+      "count": 71
+    },
+    {
+      "word": "abril",
+      "count": 70
+    },
+    {
+      "word": "uguañoti",
+      "count": 70
+    },
+    {
+      "word": "background",
+      "count": 70
+    },
+    {
+      "word": "partis",
+      "count": 70
+    },
+    {
+      "word": "banda",
+      "count": 70
+    },
+    {
+      "word": "gramática",
+      "count": 70
+    },
+    {
+      "word": "villa",
+      "count": 69
+    },
+    {
+      "word": "noroesti",
+      "count": 69
+    },
+    {
+      "word": "antíguu",
+      "count": 69
+    },
+    {
+      "word": "conocia",
+      "count": 69
+    },
+    {
+      "word": "escrebió",
+      "count": 69
+    },
+    {
+      "word": "velsu",
+      "count": 69
+    },
+    {
+      "word": "tercel",
+      "count": 69
+    },
+    {
+      "word": "unas",
+      "count": 69
+    },
+    {
+      "word": "garcía",
+      "count": 69
+    },
+    {
+      "word": "palrá",
+      "count": 69
+    },
+    {
+      "word": "nivel",
+      "count": 68
+    },
+    {
+      "word": "como",
+      "count": 68
+    },
+    {
+      "word": "uniu",
+      "count": 68
+    },
+    {
+      "word": "segundu",
+      "count": 68
+    },
+    {
+      "word": "muchas",
+      "count": 68
+    },
+    {
+      "word": "francesa",
+      "count": 68
+    },
+    {
+      "word": "muestra",
+      "count": 68
+    },
+    {
+      "word": "lei",
+      "count": 67
+    },
+    {
+      "word": "casu",
+      "count": 67
+    },
+    {
+      "word": "badahó",
+      "count": 67
+    },
+    {
+      "word": "iii",
+      "count": 67
+    },
+    {
+      "word": "francisco",
+      "count": 67
+    },
+    {
+      "word": "gastau",
+      "count": 66
+    },
+    {
+      "word": "calandáriu",
+      "count": 66
+    },
+    {
+      "word": "presonas",
+      "count": 66
+    },
+    {
+      "word": "miembrus",
+      "count": 66
+    },
+    {
+      "word": "temas",
+      "count": 66
+    },
+    {
+      "word": "especialmenti",
+      "count": 65
+    },
+    {
+      "word": "heneral",
+      "count": 65
+    },
+    {
+      "word": "puestu",
+      "count": 65
+    },
+    {
+      "word": "hazel",
+      "count": 65
+    },
+    {
+      "word": "dios",
+      "count": 65
+    },
+    {
+      "word": "unta",
+      "count": 65
+    },
+    {
+      "word": "eá",
+      "count": 65
+    },
+    {
+      "word": "climi",
+      "count": 65
+    },
+    {
+      "word": "unius",
+      "count": 65
+    },
+    {
+      "word": "bel",
+      "count": 65
+    },
+    {
+      "word": "coltura",
+      "count": 65
+    },
+    {
+      "word": "mairi",
+      "count": 65
+    },
+    {
+      "word": "puemas",
+      "count": 65
+    },
+    {
+      "word": "trad",
+      "count": 65
+    },
+    {
+      "word": "xx",
+      "count": 64
+    },
+    {
+      "word": "tola",
+      "count": 64
+    },
+    {
+      "word": "tal",
+      "count": 64
+    },
+    {
+      "word": "palrau",
+      "count": 64
+    },
+    {
+      "word": "conas",
+      "count": 64
+    },
+    {
+      "word": "albondu",
+      "count": 64
+    },
+    {
+      "word": "eran",
+      "count": 64
+    },
+    {
+      "word": "poesía",
+      "count": 64
+    },
+    {
+      "word": "letra",
+      "count": 64
+    },
+    {
+      "word": "momentu",
+      "count": 63
+    },
+    {
+      "word": "colos",
+      "count": 63
+    },
+    {
+      "word": "hoy",
+      "count": 63
+    },
+    {
+      "word": "ala",
+      "count": 63
+    },
+    {
+      "word": "xix",
+      "count": 63
+    },
+    {
+      "word": "sobre",
+      "count": 63
+    },
+    {
+      "word": "alfabetu",
+      "count": 63
+    },
+    {
+      "word": "destintas",
+      "count": 62
+    },
+    {
+      "word": "vel",
+      "count": 62
+    },
+    {
+      "word": "teatru",
+      "count": 62
+    },
+    {
+      "word": "cualis",
+      "count": 62
+    },
+    {
+      "word": "sigrus",
+      "count": 62
+    },
+    {
+      "word": "and",
+      "count": 62
+    },
+    {
+      "word": "grupus",
+      "count": 62
+    },
+    {
+      "word": "lisboa",
+      "count": 62
+    },
+    {
+      "word": "naturalis",
+      "count": 62
+    },
+    {
+      "word": "destintus",
+      "count": 62
+    },
+    {
+      "word": "equipus",
+      "count": 62
+    },
+    {
+      "word": "equipu",
+      "count": 62
+    },
+    {
+      "word": "cerca",
+      "count": 61
+    },
+    {
+      "word": "assín",
+      "count": 61
+    },
+    {
+      "word": "monicípius",
+      "count": 61
+    },
+    {
+      "word": "baajós",
+      "count": 61
+    },
+    {
+      "word": "club",
+      "count": 61
+    },
+    {
+      "word": "maría",
+      "count": 61
+    },
+    {
+      "word": "luis",
+      "count": 60
+    },
+    {
+      "word": "física",
+      "count": 60
+    },
+    {
+      "word": "conoci",
+      "count": 60
+    },
+    {
+      "word": "llama",
+      "count": 60
+    },
+    {
+      "word": "atrás",
+      "count": 60
+    },
+    {
+      "word": "metá",
+      "count": 60
+    },
+    {
+      "word": "trecel",
+      "count": 60
+    },
+    {
+      "word": "referencias",
+      "count": 60
+    },
+    {
+      "word": "patrimoñu",
+      "count": 60
+    },
+    {
+      "word": "valol",
+      "count": 60
+    },
+    {
+      "word": "usu",
+      "count": 59
+    },
+    {
+      "word": "francia",
+      "count": 59
+    },
+    {
+      "word": "labutu",
+      "count": 59
+    },
+    {
+      "word": "costrución",
+      "count": 59
+    },
+    {
+      "word": "musical",
+      "count": 59
+    },
+    {
+      "word": "sinu",
+      "count": 59
+    },
+    {
+      "word": "dambus",
+      "count": 59
+    },
+    {
+      "word": "fiesta",
+      "count": 59
+    },
+    {
+      "word": "pensaeru",
+      "count": 59
+    },
+    {
+      "word": "púbricu",
+      "count": 59
+    },
+    {
+      "word": "va",
+      "count": 59
+    },
+    {
+      "word": "iso",
+      "count": 59
+    },
+    {
+      "word": "cancionis",
+      "count": 59
+    },
+    {
+      "word": "d'eneru",
+      "count": 58
+    },
+    {
+      "word": "agostu",
+      "count": 58
+    },
+    {
+      "word": "cuatru",
+      "count": 58
+    },
+    {
+      "word": "llamá",
+      "count": 58
+    },
+    {
+      "word": "vinu",
+      "count": 58
+    },
+    {
+      "word": "sé",
+      "count": 58
+    },
+    {
+      "word": "cataluña",
+      "count": 58
+    },
+    {
+      "word": "escontra",
+      "count": 58
+    },
+    {
+      "word": "cantabria",
+      "count": 58
+    },
+    {
+      "word": "sánchez",
+      "count": 58
+    },
+    {
+      "word": "iju",
+      "count": 58
+    },
+    {
+      "word": "do",
+      "count": 58
+    },
+    {
+      "word": "world",
+      "count": 58
+    },
+    {
+      "word": "direción",
+      "count": 57
+    },
+    {
+      "word": "noresti",
+      "count": 57
+    },
+    {
+      "word": "pib",
+      "count": 57
+    },
+    {
+      "word": "rehión",
+      "count": 57
+    },
+    {
+      "word": "et",
+      "count": 57
+    },
+    {
+      "word": "quatru",
+      "count": 57
+    },
+    {
+      "word": "políticu",
+      "count": 57
+    },
+    {
+      "word": "filósofu",
+      "count": 57
+    },
+    {
+      "word": "uréliu",
+      "count": 57
+    },
+    {
+      "word": "entrinacional",
+      "count": 56
+    },
+    {
+      "word": "cevil",
+      "count": 56
+    },
+    {
+      "word": "ed",
+      "count": 56
+    },
+    {
+      "word": "antigu",
+      "count": 56
+    },
+    {
+      "word": "fernando",
+      "count": 56
+    },
+    {
+      "word": "nesta",
+      "count": 56
+    },
+    {
+      "word": "frenti",
+      "count": 56
+    },
+    {
+      "word": "desarrollu",
+      "count": 56
+    },
+    {
+      "word": "dalcuerdu",
+      "count": 56
+    },
+    {
+      "word": "qual",
+      "count": 56
+    },
+    {
+      "word": "várias",
+      "count": 56
+    },
+    {
+      "word": "estaba",
+      "count": 56
+    },
+    {
+      "word": "carlos",
+      "count": 56
+    },
+    {
+      "word": "arrayus",
+      "count": 56
+    },
+    {
+      "word": "an",
+      "count": 56
+    },
+    {
+      "word": "ke",
+      "count": 56
+    },
+    {
+      "word": "diciembri",
+      "count": 55
+    },
+    {
+      "word": "nacionis",
+      "count": 55
+    },
+    {
+      "word": "fernández",
+      "count": 55
+    },
+    {
+      "word": "itália",
+      "count": 55
+    },
+    {
+      "word": "sol",
+      "count": 55
+    },
+    {
+      "word": "jeneru",
+      "count": 55
+    },
+    {
+      "word": "sabulugal",
+      "count": 55
+    },
+    {
+      "word": "casus",
+      "count": 55
+    },
+    {
+      "word": "latinu",
+      "count": 55
+    },
+    {
+      "word": "italianu",
+      "count": 55
+    },
+    {
+      "word": "finalis",
+      "count": 55
+    },
+    {
+      "word": "verbus",
+      "count": 55
+    },
+    {
+      "word": "toa",
+      "count": 55
+    },
+    {
+      "word": "d'esti",
+      "count": 55
+    },
+    {
+      "word": "embargu",
+      "count": 54
+    },
+    {
+      "word": "desistin",
+      "count": 54
+    },
+    {
+      "word": "van",
+      "count": 54
+    },
+    {
+      "word": "referéncias",
+      "count": 54
+    },
+    {
+      "word": "hazin",
+      "count": 54
+    },
+    {
+      "word": "estuyus",
+      "count": 54
+    },
+    {
+      "word": "nesti",
+      "count": 54
+    },
+    {
+      "word": "alogu",
+      "count": 54
+    },
+    {
+      "word": "mancha",
+      "count": 54
+    },
+    {
+      "word": "gastan",
+      "count": 54
+    },
+    {
+      "word": "rial",
+      "count": 54
+    },
+    {
+      "word": "ubu",
+      "count": 54
+    },
+    {
+      "word": "leonardo",
+      "count": 54
+    },
+    {
+      "word": "madrid",
+      "count": 54
+    },
+    {
+      "word": "border",
+      "count": 53
+    },
+    {
+      "word": "atual",
+      "count": 53
+    },
+    {
+      "word": "senifica",
+      "count": 53
+    },
+    {
+      "word": "orihin",
+      "count": 53
+    },
+    {
+      "word": "colas",
+      "count": 53
+    },
+    {
+      "word": "tan",
+      "count": 53
+    },
+    {
+      "word": "común",
+      "count": 53
+    },
+    {
+      "word": "essi",
+      "count": 53
+    },
+    {
+      "word": "notas",
+      "count": 53
+    },
+    {
+      "word": "to",
+      "count": 53
+    },
+    {
+      "word": "gonzález",
+      "count": 53
+    },
+    {
+      "word": "índia",
+      "count": 53
+    },
+    {
+      "word": "vocalis",
+      "count": 53
+    },
+    {
+      "word": "montermosu",
+      "count": 53
+    },
+    {
+      "word": "ríu",
+      "count": 53
+    },
+    {
+      "word": "segunderu",
+      "count": 52
+    },
+    {
+      "word": "hechus",
+      "count": 52
+    },
+    {
+      "word": "xvi",
+      "count": 52
+    },
+    {
+      "word": "proyeutu",
+      "count": 52
+    },
+    {
+      "word": "estal",
+      "count": 52
+    },
+    {
+      "word": "mestel",
+      "count": 52
+    },
+    {
+      "word": "cuenca",
+      "count": 52
+    },
+    {
+      "word": "cuya",
+      "count": 52
+    },
+    {
+      "word": "praça",
+      "count": 52
+    },
+    {
+      "word": "úrtimus",
+      "count": 52
+    },
+    {
+      "word": "org",
+      "count": 52
+    },
+    {
+      "word": "www",
+      "count": 52
+    },
+    {
+      "word": "univelsiá",
+      "count": 52
+    },
+    {
+      "word": "elecionis",
+      "count": 51
+    },
+    {
+      "word": "monea",
+      "count": 51
+    },
+    {
+      "word": "lus",
+      "count": 51
+    },
+    {
+      "word": "únicu",
+      "count": 51
+    },
+    {
+      "word": "dessistin",
+      "count": 51
+    },
+    {
+      "word": "partiu",
+      "count": 51
+    },
+    {
+      "word": "ordin",
+      "count": 51
+    },
+    {
+      "word": "siguienti",
+      "count": 51
+    },
+    {
+      "word": "qu'en",
+      "count": 51
+    },
+    {
+      "word": "cá",
+      "count": 51
+    },
+    {
+      "word": "endespues",
+      "count": 51
+    },
+    {
+      "word": "sulesti",
+      "count": 51
+    },
+    {
+      "word": "hunta",
+      "count": 51
+    },
+    {
+      "word": "pp",
+      "count": 51
+    },
+    {
+      "word": "libri",
+      "count": 51
+    },
+    {
+      "word": "bgcolor",
+      "count": 51
+    },
+    {
+      "word": "abreviaturas",
+      "count": 51
+    },
+    {
+      "word": "séneca",
+      "count": 51
+    },
+    {
+      "word": "fecha",
+      "count": 50
+    },
+    {
+      "word": "seis",
+      "count": 50
+    },
+    {
+      "word": "festival",
+      "count": 50
+    },
+    {
+      "word": "prémiu",
+      "count": 50
+    },
+    {
+      "word": "romancis",
+      "count": 50
+    },
+    {
+      "word": "bahu",
+      "count": 50
+    },
+    {
+      "word": "nacencia",
+      "count": 50
+    },
+    {
+      "word": "s'alcuentran",
+      "count": 50
+    },
+    {
+      "word": "baju",
+      "count": 50
+    },
+    {
+      "word": "parís",
+      "count": 50
+    },
+    {
+      "word": "muchu",
+      "count": 50
+    },
+    {
+      "word": "du",
+      "count": 50
+    },
+    {
+      "word": "canal",
+      "count": 50
+    },
+    {
+      "word": "hueraparti",
+      "count": 50
+    },
+    {
+      "word": "dan",
+      "count": 50
+    },
+    {
+      "word": "económica",
+      "count": 49
+    },
+    {
+      "word": "chili",
+      "count": 49
+    },
+    {
+      "word": "lingüística",
+      "count": 49
+    },
+    {
+      "word": "ata",
+      "count": 49
+    },
+    {
+      "word": "cesa",
+      "count": 49
+    },
+    {
+      "word": "comuniais",
+      "count": 49
+    },
+    {
+      "word": "atenas",
+      "count": 49
+    },
+    {
+      "word": "right",
+      "count": 49
+    },
+    {
+      "word": "atlánticu",
+      "count": 49
+    },
+    {
+      "word": "miguel",
+      "count": 49
+    },
+    {
+      "word": "númeru",
+      "count": 49
+    },
+    {
+      "word": "maestru",
+      "count": 49
+    },
+    {
+      "word": "lenguas",
+      "count": 49
+    },
+    {
+      "word": "tardi",
+      "count": 49
+    },
+    {
+      "word": "testus",
+      "count": 49
+    },
+    {
+      "word": "dis",
+      "count": 49
+    },
+    {
+      "word": "me",
+      "count": 49
+    },
+    {
+      "word": "vv",
+      "count": 49
+    },
+    {
+      "word": "nuevas",
+      "count": 48
+    },
+    {
+      "word": "palrantis",
+      "count": 48
+    },
+    {
+      "word": "úrtimu",
+      "count": 48
+    },
+    {
+      "word": "dal",
+      "count": 48
+    },
+    {
+      "word": "xviii",
+      "count": 48
+    },
+    {
+      "word": "compuestu",
+      "count": 48
+    },
+    {
+      "word": "estóricu",
+      "count": 48
+    },
+    {
+      "word": "cosas",
+      "count": 48
+    },
+    {
+      "word": "asturianu",
+      "count": 48
+    },
+    {
+      "word": "badajoz",
+      "count": 48
+    },
+    {
+      "word": "pressonas",
+      "count": 48
+    },
+    {
+      "word": "historia",
+      "count": 48
+    },
+    {
+      "word": "sonis",
+      "count": 48
+    },
+    {
+      "word": "lista",
+      "count": 48
+    },
+    {
+      "word": "segura",
+      "count": 48
+    },
+    {
+      "word": "fonética",
+      "count": 48
+    },
+    {
+      "word": "huegus",
+      "count": 48
+    },
+    {
+      "word": "céncia",
+      "count": 48
+    },
+    {
+      "word": "escala",
+      "count": 47
+    },
+    {
+      "word": "tradicional",
+      "count": 47
+    },
+    {
+      "word": "palras",
+      "count": 47
+    },
+    {
+      "word": "goviernu",
+      "count": 47
+    },
+    {
+      "word": "huerti",
+      "count": 47
+    },
+    {
+      "word": "qm",
+      "count": 47
+    },
+    {
+      "word": "cantiá",
+      "count": 47
+    },
+    {
+      "word": "maera",
+      "count": 47
+    },
+    {
+      "word": "siguientis",
+      "count": 47
+    },
+    {
+      "word": "mayoris",
+      "count": 47
+    },
+    {
+      "word": "regionis",
+      "count": 47
+    },
+    {
+      "word": "latinus",
+      "count": 47
+    },
+    {
+      "word": "hormas",
+      "count": 47
+    },
+    {
+      "word": "eición",
+      "count": 47
+    },
+    {
+      "word": "infinitivu",
+      "count": 47
+    },
+    {
+      "word": "irlanda",
+      "count": 46
+    },
+    {
+      "word": "setol",
+      "count": 46
+    },
+    {
+      "word": "sevilla",
+      "count": 46
+    },
+    {
+      "word": "asín",
+      "count": 46
+    },
+    {
+      "word": "verbu",
+      "count": 46
+    },
+    {
+      "word": "biografía",
+      "count": 46
+    },
+    {
+      "word": "júliu",
+      "count": 46
+    },
+    {
+      "word": "queó",
+      "count": 46
+    },
+    {
+      "word": "antígua",
+      "count": 46
+    },
+    {
+      "word": "posición",
+      "count": 46
+    },
+    {
+      "word": "suloesti",
+      "count": 46
+    },
+    {
+      "word": "puema",
+      "count": 46
+    },
+    {
+      "word": "socieá",
+      "count": 46
+    },
+    {
+      "word": "ideas",
+      "count": 46
+    },
+    {
+      "word": "única",
+      "count": 46
+    },
+    {
+      "word": "estrutura",
+      "count": 46
+    },
+    {
+      "word": "ella",
+      "count": 46
+    },
+    {
+      "word": "curtural",
+      "count": 46
+    },
+    {
+      "word": "tós",
+      "count": 46
+    },
+    {
+      "word": "platón",
+      "count": 46
+    },
+    {
+      "word": "http",
+      "count": 46
+    },
+    {
+      "word": "na",
+      "count": 46
+    },
+    {
+      "word": "manuel",
+      "count": 46
+    },
+    {
+      "word": "portugués",
+      "count": 46
+    },
+    {
+      "word": "relación",
+      "count": 46
+    },
+    {
+      "word": "idioma",
+      "count": 46
+    },
+    {
+      "word": "basi",
+      "count": 46
+    },
+    {
+      "word": "olivença",
+      "count": 46
+    },
+    {
+      "word": "eletrónica",
+      "count": 46
+    },
+    {
+      "word": "pie",
+      "count": 46
+    },
+    {
+      "word": "aa",
+      "count": 46
+    },
+    {
+      "word": "περὶ",
+      "count": 46
+    },
+    {
+      "word": "internet",
+      "count": 45
+    },
+    {
+      "word": "mal",
+      "count": 45
+    },
+    {
+      "word": "económicu",
+      "count": 45
+    },
+    {
+      "word": "hundá",
+      "count": 45
+    },
+    {
+      "word": "melital",
+      "count": 45
+    },
+    {
+      "word": "etc",
+      "count": 45
+    },
+    {
+      "word": "cultura",
+      "count": 45
+    },
+    {
+      "word": "destacan",
+      "count": 45
+    },
+    {
+      "word": "polque",
+      "count": 45
+    },
+    {
+      "word": "murió",
+      "count": 45
+    },
+    {
+      "word": "dessisti",
+      "count": 45
+    },
+    {
+      "word": "antigua",
+      "count": 45
+    },
+    {
+      "word": "ná",
+      "count": 45
+    },
+    {
+      "word": "hizun",
+      "count": 45
+    },
+    {
+      "word": "puel",
+      "count": 45
+    },
+    {
+      "word": "sintiu",
+      "count": 45
+    },
+    {
+      "word": "antigüeá",
+      "count": 45
+    },
+    {
+      "word": "tinin",
+      "count": 45
+    },
+    {
+      "word": "afotus",
+      "count": 45
+    },
+    {
+      "word": "iv",
+      "count": 45
+    },
+    {
+      "word": "restus",
+      "count": 45
+    },
+    {
+      "word": "sebastián",
+      "count": 45
+    },
+    {
+      "word": "artículu",
+      "count": 45
+    },
+    {
+      "word": "conjuntu",
+      "count": 45
+    },
+    {
+      "word": "d'un",
+      "count": 45
+    },
+    {
+      "word": "vi",
+      "count": 45
+    },
+    {
+      "word": "villanueva",
+      "count": 45
+    },
+    {
+      "word": "eurus",
+      "count": 45
+    },
+    {
+      "word": "serena",
+      "count": 45
+    },
+    {
+      "word": "tempurás",
+      "count": 45
+    },
+    {
+      "word": "diziembri",
+      "count": 44
+    },
+    {
+      "word": "artu",
+      "count": 44
+    },
+    {
+      "word": "quea",
+      "count": 44
+    },
+    {
+      "word": "esternus",
+      "count": 44
+    },
+    {
+      "word": "cementu",
+      "count": 44
+    },
+    {
+      "word": "cabu",
+      "count": 44
+    },
+    {
+      "word": "cursu",
+      "count": 44
+    },
+    {
+      "word": "graná",
+      "count": 44
+    },
+    {
+      "word": "puerta",
+      "count": 44
+    },
+    {
+      "word": "considerau",
+      "count": 44
+    },
+    {
+      "word": "sí",
+      "count": 44
+    },
+    {
+      "word": "olímpicus",
+      "count": 44
+    },
+    {
+      "word": "prata",
+      "count": 44
+    },
+    {
+      "word": "músicus",
+      "count": 44
+    },
+    {
+      "word": "dau",
+      "count": 44
+    },
+    {
+      "word": "estuyu",
+      "count": 44
+    },
+    {
+      "word": "fin",
+      "count": 44
+    },
+    {
+      "word": "ombris",
+      "count": 44
+    },
+    {
+      "word": "px",
+      "count": 43
+    },
+    {
+      "word": "nominativu",
+      "count": 43
+    },
+    {
+      "word": "vida",
+      "count": 43
+    },
+    {
+      "word": "sieti",
+      "count": 43
+    },
+    {
+      "word": "huenti",
+      "count": 43
+    },
+    {
+      "word": "idea",
+      "count": 43
+    },
+    {
+      "word": "corona",
+      "count": 43
+    },
+    {
+      "word": "carretera",
+      "count": 43
+    },
+    {
+      "word": "endustrial",
+      "count": 43
+    },
+    {
+      "word": "rasgus",
+      "count": 43
+    },
+    {
+      "word": "periodu",
+      "count": 43
+    },
+    {
+      "word": "d'otubri",
+      "count": 42
+    },
+    {
+      "word": "comarcas",
+      "count": 42
+    },
+    {
+      "word": "testu",
+      "count": 42
+    },
+    {
+      "word": "entovia",
+      "count": 42
+    },
+    {
+      "word": "allí",
+      "count": 42
+    },
+    {
+      "word": "espenó",
+      "count": 42
+    },
+    {
+      "word": "localiá",
+      "count": 42
+    },
+    {
+      "word": "turismu",
+      "count": 42
+    },
+    {
+      "word": "pacíficu",
+      "count": 42
+    },
+    {
+      "word": "lau",
+      "count": 42
+    },
+    {
+      "word": "campus",
+      "count": 42
+    },
+    {
+      "word": "fala",
+      "count": 42
+    },
+    {
+      "word": "filosofia",
+      "count": 42
+    },
+    {
+      "word": "vol",
+      "count": 42
+    },
+    {
+      "word": "golfu",
+      "count": 42
+    },
+    {
+      "word": "domiñu",
+      "count": 41
+    },
+    {
+      "word": "tieni",
+      "count": 41
+    },
+    {
+      "word": "superfici",
+      "count": 41
+    },
+    {
+      "word": "artis",
+      "count": 41
+    },
+    {
+      "word": "famosu",
+      "count": 41
+    },
+    {
+      "word": "llevó",
+      "count": 41
+    },
+    {
+      "word": "estuvu",
+      "count": 41
+    },
+    {
+      "word": "monicipal",
+      "count": 41
+    },
+    {
+      "word": "small",
+      "count": 41
+    },
+    {
+      "word": "augua",
+      "count": 41
+    },
+    {
+      "word": "artículus",
+      "count": 41
+    },
+    {
+      "word": "d'américa",
+      "count": 41
+    },
+    {
+      "word": "temperatura",
+      "count": 41
+    },
+    {
+      "word": "tiinin",
+      "count": 41
+    },
+    {
+      "word": "gastá",
+      "count": 41
+    },
+    {
+      "word": "crasi",
+      "count": 41
+    },
+    {
+      "word": "navarra",
+      "count": 41
+    },
+    {
+      "word": "burgus",
+      "count": 41
+    },
+    {
+      "word": "gredos",
+      "count": 41
+    },
+    {
+      "word": "representa",
+      "count": 41
+    },
+    {
+      "word": "nuvis",
+      "count": 41
+    },
+    {
+      "word": "width",
+      "count": 40
+    },
+    {
+      "word": "estación",
+      "count": 40
+    },
+    {
+      "word": "conocíu",
+      "count": 40
+    },
+    {
+      "word": "especial",
+      "count": 40
+    },
+    {
+      "word": "inu",
+      "count": 40
+    },
+    {
+      "word": "tipus",
+      "count": 40
+    },
+    {
+      "word": "labutus",
+      "count": 40
+    },
+    {
+      "word": "corti",
+      "count": 40
+    },
+    {
+      "word": "tuvun",
+      "count": 40
+    },
+    {
+      "word": "guerras",
+      "count": 40
+    },
+    {
+      "word": "derechu",
+      "count": 40
+    },
+    {
+      "word": "local",
+      "count": 40
+    },
+    {
+      "word": "naturaleza",
+      "count": 40
+    },
+    {
+      "word": "usiu",
+      "count": 40
+    },
+    {
+      "word": "d'euru",
+      "count": 40
+    },
+    {
+      "word": "escritu",
+      "count": 40
+    },
+    {
+      "word": "antología",
+      "count": 40
+    },
+    {
+      "word": "velsus",
+      "count": 40
+    },
+    {
+      "word": "lexicon",
+      "count": 40
+    },
+    {
+      "word": "gocha",
+      "count": 39
+    },
+    {
+      "word": "puebracionis",
+      "count": 39
+    },
+    {
+      "word": "non",
+      "count": 39
+    },
+    {
+      "word": "uropeu",
+      "count": 39
+    },
+    {
+      "word": "d'esta",
+      "count": 39
+    },
+    {
+      "word": "juegus",
+      "count": 39
+    },
+    {
+      "word": "temperaturas",
+      "count": 39
+    },
+    {
+      "word": "sueli",
+      "count": 39
+    },
+    {
+      "word": "argentina",
+      "count": 39
+    },
+    {
+      "word": "estrechu",
+      "count": 39
+    },
+    {
+      "word": "oficialis",
+      "count": 39
+    },
+    {
+      "word": "martín",
+      "count": 39
+    },
+    {
+      "word": "posei",
+      "count": 39
+    },
+    {
+      "word": "urbana",
+      "count": 39
+    },
+    {
+      "word": "ihu",
+      "count": 39
+    },
+    {
+      "word": "sílaba",
+      "count": 39
+    },
+    {
+      "word": "escomençó",
+      "count": 39
+    },
+    {
+      "word": "discus",
+      "count": 39
+    },
+    {
+      "word": "scott",
+      "count": 39
+    },
+    {
+      "word": "gregorianu",
+      "count": 38
+    },
+    {
+      "word": "pas",
+      "count": 38
+    },
+    {
+      "word": "primeras",
+      "count": 38
+    },
+    {
+      "word": "d'abril",
+      "count": 38
+    },
+    {
+      "word": "s'á",
+      "count": 38
+    },
+    {
+      "word": "chascus",
+      "count": 38
+    },
+    {
+      "word": "holmau",
+      "count": 38
+    },
+    {
+      "word": "políticus",
+      "count": 38
+    },
+    {
+      "word": "xv",
+      "count": 38
+    },
+    {
+      "word": "superiol",
+      "count": 38
+    },
+    {
+      "word": "monecipius",
+      "count": 38
+    },
+    {
+      "word": "f9f9f",
+      "count": 38
+    },
+    {
+      "word": "us",
+      "count": 38
+    },
+    {
+      "word": "dinamarca",
+      "count": 38
+    },
+    {
+      "word": "fauna",
+      "count": 38
+    },
+    {
+      "word": "puentis",
+      "count": 38
+    },
+    {
+      "word": "referéncia",
+      "count": 38
+    },
+    {
+      "word": "presenti",
+      "count": 38
+    },
+    {
+      "word": "continental",
+      "count": 38
+    },
+    {
+      "word": "castilla-la",
+      "count": 38
+    },
+    {
+      "word": "emportáncia",
+      "count": 38
+    },
+    {
+      "word": "batalla",
+      "count": 38
+    },
+    {
+      "word": "quasi",
+      "count": 38
+    },
+    {
+      "word": "premiti",
+      "count": 38
+    },
+    {
+      "word": "dambas",
+      "count": 38
+    },
+    {
+      "word": "enteracionis",
+      "count": 38
+    },
+    {
+      "word": "vía",
+      "count": 38
+    },
+    {
+      "word": "quiziá",
+      "count": 38
+    },
+    {
+      "word": "guinea",
+      "count": 38
+    },
+    {
+      "word": "te",
+      "count": 38
+    },
+    {
+      "word": "paí",
+      "count": 38
+    },
+    {
+      "word": "tonu",
+      "count": 38
+    },
+    {
+      "word": "espritu",
+      "count": 38
+    },
+    {
+      "word": "liddell",
+      "count": 38
+    },
+    {
+      "word": "greek-english",
+      "count": 38
+    },
+    {
+      "word": "perú",
+      "count": 37
+    },
+    {
+      "word": "mm",
+      "count": 37
+    },
+    {
+      "word": "redi",
+      "count": 37
+    },
+    {
+      "word": "pintol",
+      "count": 37
+    },
+    {
+      "word": "pressona",
+      "count": 37
+    },
+    {
+      "word": "varius",
+      "count": 37
+    },
+    {
+      "word": "horman",
+      "count": 37
+    },
+    {
+      "word": "romanci",
+      "count": 37
+    },
+    {
+      "word": "nuversidá",
+      "count": 37
+    },
+    {
+      "word": "d'una",
+      "count": 37
+    },
+    {
+      "word": "localis",
+      "count": 37
+    },
+    {
+      "word": "brevi",
+      "count": 37
+    },
+    {
+      "word": "diseñu",
+      "count": 37
+    },
+    {
+      "word": "poeta",
+      "count": 37
+    },
+    {
+      "word": "haci",
+      "count": 37
+    },
+    {
+      "word": "normalmenti",
+      "count": 37
+    },
+    {
+      "word": "vietnam",
+      "count": 37
+    },
+    {
+      "word": "enhormación",
+      "count": 37
+    },
+    {
+      "word": "semana",
+      "count": 37
+    },
+    {
+      "word": "abondu",
+      "count": 37
+    },
+    {
+      "word": "monti",
+      "count": 37
+    },
+    {
+      "word": "sistemas",
+      "count": 37
+    },
+    {
+      "word": "güena",
+      "count": 37
+    },
+    {
+      "word": "ebi",
+      "count": 37
+    },
+    {
+      "word": "cortis",
+      "count": 37
+    },
+    {
+      "word": "xiv",
+      "count": 37
+    },
+    {
+      "word": "escrebieru",
+      "count": 37
+    },
+    {
+      "word": "gallegu",
+      "count": 37
+    },
+    {
+      "word": "moernu",
+      "count": 37
+    },
+    {
+      "word": "acentu",
+      "count": 37
+    },
+    {
+      "word": "extremeña",
+      "count": 37
+    },
+    {
+      "word": "escuelas",
+      "count": 37
+    },
+    {
+      "word": "discografia",
+      "count": 37
+    },
+    {
+      "word": "comercial",
+      "count": 36
+    },
+    {
+      "word": "curtura",
+      "count": 36
+    },
+    {
+      "word": "miia",
+      "count": 36
+    },
+    {
+      "word": "rodríguez",
+      "count": 36
+    },
+    {
+      "word": "luna",
+      "count": 36
+    },
+    {
+      "word": "xvii",
+      "count": 36
+    },
+    {
+      "word": "prural",
+      "count": 36
+    },
+    {
+      "word": "dispués",
+      "count": 36
+    },
+    {
+      "word": "consiguió",
+      "count": 36
+    },
+    {
+      "word": "hormau",
+      "count": 36
+    },
+    {
+      "word": "onol",
+      "count": 36
+    },
+    {
+      "word": "tahu",
+      "count": 36
+    },
+    {
+      "word": "matemáticas",
+      "count": 36
+    },
+    {
+      "word": "estensión",
+      "count": 36
+    },
+    {
+      "word": "velaquí",
+      "count": 36
+    },
+    {
+      "word": "carreteras",
+      "count": 36
+    },
+    {
+      "word": "mestura",
+      "count": 36
+    },
+    {
+      "word": "albondus",
+      "count": 36
+    },
+    {
+      "word": "tratau",
+      "count": 36
+    },
+    {
+      "word": "güen",
+      "count": 36
+    },
+    {
+      "word": "varias",
+      "count": 36
+    },
+    {
+      "word": "pretenecienti",
+      "count": 36
+    },
+    {
+      "word": "arreol",
+      "count": 36
+    },
+    {
+      "word": "úrtima",
+      "count": 36
+    },
+    {
+      "word": "monumentus",
+      "count": 36
+    },
+    {
+      "word": "abondus",
+      "count": 36
+    },
+    {
+      "word": "títulu",
+      "count": 36
+    },
+    {
+      "word": "corrienti",
+      "count": 36
+    },
+    {
+      "word": "larga",
+      "count": 36
+    },
+    {
+      "word": "día",
+      "count": 36
+    },
+    {
+      "word": "castillanu",
+      "count": 36
+    },
+    {
+      "word": "valenciana",
+      "count": 36
+    },
+    {
+      "word": "nuevus",
+      "count": 36
+    },
+    {
+      "word": "gabriel",
+      "count": 36
+    },
+    {
+      "word": "ffffff",
+      "count": 36
+    },
+    {
+      "word": "mou",
+      "count": 36
+    },
+    {
+      "word": "át",
+      "count": 36
+    }
+  ]
+}

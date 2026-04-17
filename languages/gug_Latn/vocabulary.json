@@ -1,0 +1,4012 @@
+{
+  "code": "gug",
+  "name": "Paraguayan Guarani",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (gn.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 335760,
+  "unique_tokens": 47699,
+  "words": [
+    {
+      "word": "ha",
+      "count": 16881
+    },
+    {
+      "word": "de",
+      "count": 5197
+    },
+    {
+      "word": "ko",
+      "count": 4130
+    },
+    {
+      "word": "pe",
+      "count": 3503
+    },
+    {
+      "word": "umi",
+      "count": 3171
+    },
+    {
+      "word": "avei",
+      "count": 3006
+    },
+    {
+      "word": "mba",
+      "count": 2486
+    },
+    {
+      "word": "peteĩ",
+      "count": 2466
+    },
+    {
+      "word": "ary",
+      "count": 2402
+    },
+    {
+      "word": "la",
+      "count": 1710
+    },
+    {
+      "word": "ekue",
+      "count": 1673
+    },
+    {
+      "word": "upe",
+      "count": 1671
+    },
+    {
+      "word": "oĩ",
+      "count": 1651
+    },
+    {
+      "word": "ñe",
+      "count": 1518
+    },
+    {
+      "word": "rupi",
+      "count": 1508
+    },
+    {
+      "word": "heta",
+      "count": 1505
+    },
+    {
+      "word": "del",
+      "count": 1470
+    },
+    {
+      "word": "tetã",
+      "count": 1333
+    },
+    {
+      "word": "jave",
+      "count": 1301
+    },
+    {
+      "word": "táva",
+      "count": 1276
+    },
+    {
+      "word": "paraguái",
+      "count": 1112
+    },
+    {
+      "word": "paraguay",
+      "count": 1081
+    },
+    {
+      "word": "ára",
+      "count": 1068
+    },
+    {
+      "word": "oiko",
+      "count": 1055
+    },
+    {
+      "word": "ha'e",
+      "count": 1010
+    },
+    {
+      "word": "guasu",
+      "count": 996
+    },
+    {
+      "word": "rehegua",
+      "count": 956
+    },
+    {
+      "word": "gotyo",
+      "count": 933
+    },
+    {
+      "word": "hag",
+      "count": 930
+    },
+    {
+      "word": "ua",
+      "count": 904
+    },
+    {
+      "word": "guive",
+      "count": 845
+    },
+    {
+      "word": "ambue",
+      "count": 826
+    },
+    {
+      "word": "térã",
+      "count": 819
+    },
+    {
+      "word": "péicha",
+      "count": 794
+    },
+    {
+      "word": "el",
+      "count": 782
+    },
+    {
+      "word": "katu",
+      "count": 782
+    },
+    {
+      "word": "ndive",
+      "count": 775
+    },
+    {
+      "word": "rehe",
+      "count": 771
+    },
+    {
+      "word": "yvy",
+      "count": 770
+    },
+    {
+      "word": "he",
+      "count": 770
+    },
+    {
+      "word": "che",
+      "count": 757
+    },
+    {
+      "word": "ramo",
+      "count": 756
+    },
+    {
+      "word": "va",
+      "count": 695
+    },
+    {
+      "word": "tetãvore",
+      "count": 693
+    },
+    {
+      "word": "ka",
+      "count": 689
+    },
+    {
+      "word": "peve",
+      "count": 682
+    },
+    {
+      "word": "guarani",
+      "count": 667
+    },
+    {
+      "word": "san",
+      "count": 666
+    },
+    {
+      "word": "chupe",
+      "count": 662
+    },
+    {
+      "word": "oguereko",
+      "count": 654
+    },
+    {
+      "word": "ikatu",
+      "count": 646
+    },
+    {
+      "word": "mbo",
+      "count": 628
+    },
+    {
+      "word": "porã",
+      "count": 620
+    },
+    {
+      "word": "tenda",
+      "count": 611
+    },
+    {
+      "word": "ysyry",
+      "count": 604
+    },
+    {
+      "word": "rire",
+      "count": 602
+    },
+    {
+      "word": "ava",
+      "count": 596
+    },
+    {
+      "word": "hikuái",
+      "count": 582
+    },
+    {
+      "word": "éva",
+      "count": 570
+    },
+    {
+      "word": "en",
+      "count": 552
+    },
+    {
+      "word": "ñande",
+      "count": 547
+    },
+    {
+      "word": "karai",
+      "count": 547
+    },
+    {
+      "word": "ñane",
+      "count": 546
+    },
+    {
+      "word": "oĩva",
+      "count": 533
+    },
+    {
+      "word": "haguã",
+      "count": 533
+    },
+    {
+      "word": "omba",
+      "count": 520
+    },
+    {
+      "word": "pegua",
+      "count": 516
+    },
+    {
+      "word": "apo",
+      "count": 504
+    },
+    {
+      "word": "nacional",
+      "count": 488
+    },
+    {
+      "word": "apytépe",
+      "count": 484
+    },
+    {
+      "word": "tapicha",
+      "count": 484
+    },
+    {
+      "word": "rupive",
+      "count": 484
+    },
+    {
+      "word": "kóva",
+      "count": 477
+    },
+    {
+      "word": "niko",
+      "count": 461
+    },
+    {
+      "word": "tembiapo",
+      "count": 459
+    },
+    {
+      "word": "tape",
+      "count": 452
+    },
+    {
+      "word": "upéicha",
+      "count": 443
+    },
+    {
+      "word": "ãva",
+      "count": 441
+    },
+    {
+      "word": "péva",
+      "count": 440
+    },
+    {
+      "word": "oho",
+      "count": 439
+    },
+    {
+      "word": "upépe",
+      "count": 438
+    },
+    {
+      "word": "ojapo",
+      "count": 437
+    },
+    {
+      "word": "hérava",
+      "count": 425
+    },
+    {
+      "word": "opa",
+      "count": 420
+    },
+    {
+      "word": "paraguaýpe",
+      "count": 418
+    },
+    {
+      "word": "opyta",
+      "count": 415
+    },
+    {
+      "word": "ñe'ẽ",
+      "count": 412
+    },
+    {
+      "word": "yvyra",
+      "count": 403
+    },
+    {
+      "word": "paraguáipe",
+      "count": 403
+    },
+    {
+      "word": "mba'e",
+      "count": 396
+    },
+    {
+      "word": "mymba",
+      "count": 392
+    },
+    {
+      "word": "erã",
+      "count": 390
+    },
+    {
+      "word": "techapyrã",
+      "count": 388
+    },
+    {
+      "word": "orekóva",
+      "count": 388
+    },
+    {
+      "word": "josé",
+      "count": 386
+    },
+    {
+      "word": "ári",
+      "count": 385
+    },
+    {
+      "word": "ichupe",
+      "count": 379
+    },
+    {
+      "word": "oñepyrũ",
+      "count": 372
+    },
+    {
+      "word": "aty",
+      "count": 371
+    },
+    {
+      "word": "los",
+      "count": 359
+    },
+    {
+      "word": "juan",
+      "count": 352
+    },
+    {
+      "word": "mokõi",
+      "count": 349
+    },
+    {
+      "word": "joaju",
+      "count": 347
+    },
+    {
+      "word": "hagua",
+      "count": 342
+    },
+    {
+      "word": "hína",
+      "count": 341
+    },
+    {
+      "word": "upéi",
+      "count": 340
+    },
+    {
+      "word": "oikóva",
+      "count": 334
+    },
+    {
+      "word": "pa",
+      "count": 329
+    },
+    {
+      "word": "retãme",
+      "count": 324
+    },
+    {
+      "word": "km",
+      "count": 322
+    },
+    {
+      "word": "oike",
+      "count": 321
+    },
+    {
+      "word": "hese",
+      "count": 321
+    },
+    {
+      "word": "ojejapo",
+      "count": 317
+    },
+    {
+      "word": "nde",
+      "count": 316
+    },
+    {
+      "word": "ñorairõ",
+      "count": 310
+    },
+    {
+      "word": "ou",
+      "count": 308
+    },
+    {
+      "word": "oreko",
+      "count": 303
+    },
+    {
+      "word": "guare",
+      "count": 299
+    },
+    {
+      "word": "argentina",
+      "count": 298
+    },
+    {
+      "word": "retã",
+      "count": 295
+    },
+    {
+      "word": "ápe",
+      "count": 295
+    },
+    {
+      "word": "héra",
+      "count": 288
+    },
+    {
+      "word": "osẽ",
+      "count": 286
+    },
+    {
+      "word": "yvate",
+      "count": 285
+    },
+    {
+      "word": "hi",
+      "count": 285
+    },
+    {
+      "word": "asunción",
+      "count": 283
+    },
+    {
+      "word": "jey",
+      "count": 283
+    },
+    {
+      "word": "ome",
+      "count": 278
+    },
+    {
+      "word": "lópez",
+      "count": 276
+    },
+    {
+      "word": "tekove",
+      "count": 271
+    },
+    {
+      "word": "ohai",
+      "count": 268
+    },
+    {
+      "word": "peteĩha",
+      "count": 268
+    },
+    {
+      "word": "kuéra",
+      "count": 265
+    },
+    {
+      "word": "ja",
+      "count": 263
+    },
+    {
+      "word": "hembiapo",
+      "count": 262
+    },
+    {
+      "word": "heñói",
+      "count": 262
+    },
+    {
+      "word": "ho",
+      "count": 260
+    },
+    {
+      "word": "tava",
+      "count": 250
+    },
+    {
+      "word": "oje",
+      "count": 248
+    },
+    {
+      "word": "ỹva",
+      "count": 246
+    },
+    {
+      "word": "general",
+      "count": 244
+    },
+    {
+      "word": "omano",
+      "count": 243
+    },
+    {
+      "word": "opaichagua",
+      "count": 238
+    },
+    {
+      "word": "sa",
+      "count": 238
+    },
+    {
+      "word": "tapichakuéra",
+      "count": 237
+    },
+    {
+      "word": "aja",
+      "count": 236
+    },
+    {
+      "word": "río",
+      "count": 236
+    },
+    {
+      "word": "paraguaya",
+      "count": 235
+    },
+    {
+      "word": "voi",
+      "count": 234
+    },
+    {
+      "word": "paraguayo",
+      "count": 233
+    },
+    {
+      "word": "su",
+      "count": 230
+    },
+    {
+      "word": "umíva",
+      "count": 230
+    },
+    {
+      "word": "antonio",
+      "count": 229
+    },
+    {
+      "word": "guarã",
+      "count": 228
+    },
+    {
+      "word": "ẽva",
+      "count": 226
+    },
+    {
+      "word": "carlos",
+      "count": 226
+    },
+    {
+      "word": "kuarahy",
+      "count": 226
+    },
+    {
+      "word": "távape",
+      "count": 226
+    },
+    {
+      "word": "óga",
+      "count": 225
+    },
+    {
+      "word": "kuña",
+      "count": 224
+    },
+    {
+      "word": "pyahu",
+      "count": 223
+    },
+    {
+      "word": "hetave",
+      "count": 221
+    },
+    {
+      "word": "guaraní",
+      "count": 220
+    },
+    {
+      "word": "buenos",
+      "count": 219
+    },
+    {
+      "word": "mburuvicha",
+      "count": 219
+    },
+    {
+      "word": "oguerekóva",
+      "count": 218
+    },
+    {
+      "word": "tembi",
+      "count": 217
+    },
+    {
+      "word": "lengua",
+      "count": 216
+    },
+    {
+      "word": "purahéi",
+      "count": 215
+    },
+    {
+      "word": "ipype",
+      "count": 213
+    },
+    {
+      "word": "para",
+      "count": 213
+    },
+    {
+      "word": "ekuéra",
+      "count": 213
+    },
+    {
+      "word": "mitã",
+      "count": 213
+    },
+    {
+      "word": "oime",
+      "count": 213
+    },
+    {
+      "word": "pedro",
+      "count": 212
+    },
+    {
+      "word": "mbohapy",
+      "count": 210
+    },
+    {
+      "word": "upévare",
+      "count": 209
+    },
+    {
+      "word": "tavaguasu",
+      "count": 208
+    },
+    {
+      "word": "amo",
+      "count": 207
+    },
+    {
+      "word": "cultura",
+      "count": 205
+    },
+    {
+      "word": "hague",
+      "count": 205
+    },
+    {
+      "word": "ohasa",
+      "count": 205
+    },
+    {
+      "word": "aguy",
+      "count": 205
+    },
+    {
+      "word": "eva",
+      "count": 204
+    },
+    {
+      "word": "arte",
+      "count": 204
+    },
+    {
+      "word": "las",
+      "count": 202
+    },
+    {
+      "word": "py",
+      "count": 202
+    },
+    {
+      "word": "guerra",
+      "count": 200
+    },
+    {
+      "word": "turismo",
+      "count": 200
+    },
+    {
+      "word": "jasyteĩ",
+      "count": 198
+    },
+    {
+      "word": "ehára",
+      "count": 197
+    },
+    {
+      "word": "reta",
+      "count": 197
+    },
+    {
+      "word": "ohupyty",
+      "count": 195
+    },
+    {
+      "word": "opaite",
+      "count": 194
+    },
+    {
+      "word": "oguahẽ",
+      "count": 193
+    },
+    {
+      "word": "kuimba",
+      "count": 193
+    },
+    {
+      "word": "me",
+      "count": 192
+    },
+    {
+      "word": "ohechauka",
+      "count": 192
+    },
+    {
+      "word": "tuichavéva",
+      "count": 192
+    },
+    {
+      "word": "oúva",
+      "count": 191
+    },
+    {
+      "word": "chupekuéra",
+      "count": 189
+    },
+    {
+      "word": "yvypóra",
+      "count": 188
+    },
+    {
+      "word": "hetaiterei",
+      "count": 188
+    },
+    {
+      "word": "jajuhu",
+      "count": 187
+    },
+    {
+      "word": "kuri",
+      "count": 186
+    },
+    {
+      "word": "chugui",
+      "count": 186
+    },
+    {
+      "word": "francisco",
+      "count": 186
+    },
+    {
+      "word": "tetãme",
+      "count": 185
+    },
+    {
+      "word": "república",
+      "count": 181
+    },
+    {
+      "word": "arandu",
+      "count": 179
+    },
+    {
+      "word": "ojehecha",
+      "count": 179
+    },
+    {
+      "word": "jasyapy",
+      "count": 177
+    },
+    {
+      "word": "por",
+      "count": 176
+    },
+    {
+      "word": "enlaces",
+      "count": 175
+    },
+    {
+      "word": "jasykõi",
+      "count": 173
+    },
+    {
+      "word": "geografía",
+      "count": 173
+    },
+    {
+      "word": "mboyve",
+      "count": 173
+    },
+    {
+      "word": "ojejuhu",
+      "count": 173
+    },
+    {
+      "word": "marangatu",
+      "count": 173
+    },
+    {
+      "word": "yvyty",
+      "count": 171
+    },
+    {
+      "word": "ra",
+      "count": 171
+    },
+    {
+      "word": "guyra",
+      "count": 170
+    },
+    {
+      "word": "ruta",
+      "count": 168
+    },
+    {
+      "word": "gobierno",
+      "count": 167
+    },
+    {
+      "word": "opytáva",
+      "count": 166
+    },
+    {
+      "word": "pukukue",
+      "count": 165
+    },
+    {
+      "word": "upéva",
+      "count": 163
+    },
+    {
+      "word": "tuicha",
+      "count": 163
+    },
+    {
+      "word": "oiméva",
+      "count": 163
+    },
+    {
+      "word": "paraguaigua",
+      "count": 163
+    },
+    {
+      "word": "ape",
+      "count": 161
+    },
+    {
+      "word": "po",
+      "count": 161
+    },
+    {
+      "word": "omombe",
+      "count": 160
+    },
+    {
+      "word": "chaco",
+      "count": 160
+    },
+    {
+      "word": "tero",
+      "count": 159
+    },
+    {
+      "word": "hekove",
+      "count": 159
+    },
+    {
+      "word": "ñemby",
+      "count": 158
+    },
+    {
+      "word": "jasypo",
+      "count": 157
+    },
+    {
+      "word": "ojejapóva",
+      "count": 156
+    },
+    {
+      "word": "museo",
+      "count": 155
+    },
+    {
+      "word": "brasil",
+      "count": 154
+    },
+    {
+      "word": "oñe",
+      "count": 154
+    },
+    {
+      "word": "opavave",
+      "count": 153
+    },
+    {
+      "word": "centro",
+      "count": 153
+    },
+    {
+      "word": "oikuaa",
+      "count": 152
+    },
+    {
+      "word": "ku",
+      "count": 152
+    },
+    {
+      "word": "ndaha",
+      "count": 150
+    },
+    {
+      "word": "jepe",
+      "count": 149
+    },
+    {
+      "word": "guaraníme",
+      "count": 149
+    },
+    {
+      "word": "tekoha",
+      "count": 149
+    },
+    {
+      "word": "ẽme",
+      "count": 147
+    },
+    {
+      "word": "yma",
+      "count": 147
+    },
+    {
+      "word": "ko'ã",
+      "count": 147
+    },
+    {
+      "word": "ojekuaa",
+      "count": 147
+    },
+    {
+      "word": "avakuéra",
+      "count": 146
+    },
+    {
+      "word": "terã",
+      "count": 146
+    },
+    {
+      "word": "ryepýpe",
+      "count": 145
+    },
+    {
+      "word": "mbytépe",
+      "count": 145
+    },
+    {
+      "word": "santa",
+      "count": 145
+    },
+    {
+      "word": "luis",
+      "count": 144
+    },
+    {
+      "word": "meve",
+      "count": 144
+    },
+    {
+      "word": "galeano",
+      "count": 144
+    },
+    {
+      "word": "upérõ",
+      "count": 144
+    },
+    {
+      "word": "primera",
+      "count": 144
+    },
+    {
+      "word": "jasypoapy",
+      "count": 143
+    },
+    {
+      "word": "departamento",
+      "count": 143
+    },
+    {
+      "word": "ka'avo",
+      "count": 143
+    },
+    {
+      "word": "tembiasa",
+      "count": 143
+    },
+    {
+      "word": "peteï",
+      "count": 143
+    },
+    {
+      "word": "ta",
+      "count": 142
+    },
+    {
+      "word": "oñemomba",
+      "count": 142
+    },
+    {
+      "word": "árape",
+      "count": 142
+    },
+    {
+      "word": "ao",
+      "count": 142
+    },
+    {
+      "word": "maría",
+      "count": 141
+    },
+    {
+      "word": "arýpe",
+      "count": 141
+    },
+    {
+      "word": "vy",
+      "count": 141
+    },
+    {
+      "word": "imba",
+      "count": 141
+    },
+    {
+      "word": "oñemoĩ",
+      "count": 139
+    },
+    {
+      "word": "rembe",
+      "count": 139
+    },
+    {
+      "word": "mano",
+      "count": 139
+    },
+    {
+      "word": "tupão",
+      "count": 139
+    },
+    {
+      "word": "mandu'apy",
+      "count": 138
+    },
+    {
+      "word": "ciudad",
+      "count": 138
+    },
+    {
+      "word": "villa",
+      "count": 138
+    },
+    {
+      "word": "omano'akue",
+      "count": 138
+    },
+    {
+      "word": "gonzález",
+      "count": 137
+    },
+    {
+      "word": "apóva",
+      "count": 137
+    },
+    {
+      "word": "oararecha'akue",
+      "count": 137
+    },
+    {
+      "word": "asy",
+      "count": 136
+    },
+    {
+      "word": "música",
+      "count": 136
+    },
+    {
+      "word": "jasyporundy",
+      "count": 134
+    },
+    {
+      "word": "reko",
+      "count": 133
+    },
+    {
+      "word": "oñemoarandu",
+      "count": 133
+    },
+    {
+      "word": "anga",
+      "count": 133
+    },
+    {
+      "word": "ehao",
+      "count": 133
+    },
+    {
+      "word": "ýpe",
+      "count": 132
+    },
+    {
+      "word": "hembiapokue",
+      "count": 131
+    },
+    {
+      "word": "aires",
+      "count": 131
+    },
+    {
+      "word": "ohóva",
+      "count": 131
+    },
+    {
+      "word": "ág",
+      "count": 131
+    },
+    {
+      "word": "katupyry",
+      "count": 130
+    },
+    {
+      "word": "ambuéva",
+      "count": 129
+    },
+    {
+      "word": "ñepyrũ",
+      "count": 129
+    },
+    {
+      "word": "og",
+      "count": 129
+    },
+    {
+      "word": "que",
+      "count": 128
+    },
+    {
+      "word": "omotenonde",
+      "count": 128
+    },
+    {
+      "word": "distrito",
+      "count": 128
+    },
+    {
+      "word": "ohóvo",
+      "count": 127
+    },
+    {
+      "word": "oipuru",
+      "count": 127
+    },
+    {
+      "word": "universidad",
+      "count": 127
+    },
+    {
+      "word": "opáichagua",
+      "count": 127
+    },
+    {
+      "word": "eve",
+      "count": 127
+    },
+    {
+      "word": "arete",
+      "count": 127
+    },
+    {
+      "word": "jare",
+      "count": 127
+    },
+    {
+      "word": "mayma",
+      "count": 126
+    },
+    {
+      "word": "éichapa",
+      "count": 126
+    },
+    {
+      "word": "úva",
+      "count": 126
+    },
+    {
+      "word": "peteĩva",
+      "count": 125
+    },
+    {
+      "word": "presidente",
+      "count": 125
+    },
+    {
+      "word": "externos",
+      "count": 124
+    },
+    {
+      "word": "internacional",
+      "count": 124
+    },
+    {
+      "word": "jasypa",
+      "count": 124
+    },
+    {
+      "word": "puerto",
+      "count": 124
+    },
+    {
+      "word": "oñemohenda",
+      "count": 123
+    },
+    {
+      "word": "españa",
+      "count": 123
+    },
+    {
+      "word": "jasypoteĩ",
+      "count": 123
+    },
+    {
+      "word": "gueteri",
+      "count": 123
+    },
+    {
+      "word": "itúva",
+      "count": 123
+    },
+    {
+      "word": "tee",
+      "count": 122
+    },
+    {
+      "word": "iporã",
+      "count": 122
+    },
+    {
+      "word": "ijyvy",
+      "count": 122
+    },
+    {
+      "word": "he'i",
+      "count": 122
+    },
+    {
+      "word": "hendive",
+      "count": 122
+    },
+    {
+      "word": "ekuaa",
+      "count": 122
+    },
+    {
+      "word": "tendápe",
+      "count": 121
+    },
+    {
+      "word": "manuel",
+      "count": 121
+    },
+    {
+      "word": "félix",
+      "count": 121
+    },
+    {
+      "word": "yva",
+      "count": 121
+    },
+    {
+      "word": "ojapóva",
+      "count": 121
+    },
+    {
+      "word": "tuichakue",
+      "count": 120
+    },
+    {
+      "word": "áva",
+      "count": 120
+    },
+    {
+      "word": "paraguaýgui",
+      "count": 120
+    },
+    {
+      "word": "katuete",
+      "count": 120
+    },
+    {
+      "word": "ẽte",
+      "count": 119
+    },
+    {
+      "word": "aranduka",
+      "count": 118
+    },
+    {
+      "word": "uarã",
+      "count": 117
+    },
+    {
+      "word": "oñeha",
+      "count": 117
+    },
+    {
+      "word": "iñe",
+      "count": 117
+    },
+    {
+      "word": "dirección",
+      "count": 117
+    },
+    {
+      "word": "tupã",
+      "count": 116
+    },
+    {
+      "word": "ypykue",
+      "count": 116
+    },
+    {
+      "word": "david",
+      "count": 116
+    },
+    {
+      "word": "mborayhu",
+      "count": 116
+    },
+    {
+      "word": "kachíke",
+      "count": 116
+    },
+    {
+      "word": "ñe'ẽnguéra",
+      "count": 115
+    },
+    {
+      "word": "omoheñói",
+      "count": 115
+    },
+    {
+      "word": "ikatúva",
+      "count": 115
+    },
+    {
+      "word": "hũ",
+      "count": 115
+    },
+    {
+      "word": "íva",
+      "count": 115
+    },
+    {
+      "word": "téra",
+      "count": 114
+    },
+    {
+      "word": "referencias",
+      "count": 114
+    },
+    {
+      "word": "ẽpoty",
+      "count": 114
+    },
+    {
+      "word": "mi",
+      "count": 114
+    },
+    {
+      "word": "omotenondéva",
+      "count": 114
+    },
+    {
+      "word": "ita",
+      "count": 113
+    },
+    {
+      "word": "jasypokõi",
+      "count": 113
+    },
+    {
+      "word": "historia",
+      "count": 113
+    },
+    {
+      "word": "ypy",
+      "count": 112
+    },
+    {
+      "word": "ojupi",
+      "count": 112
+    },
+    {
+      "word": "mokõiha",
+      "count": 111
+    },
+    {
+      "word": "oĩha",
+      "count": 111
+    },
+    {
+      "word": "edición",
+      "count": 111
+    },
+    {
+      "word": "éi",
+      "count": 111
+    },
+    {
+      "word": "al",
+      "count": 110
+    },
+    {
+      "word": "ñandéve",
+      "count": 110
+    },
+    {
+      "word": "solano",
+      "count": 110
+    },
+    {
+      "word": "ojeheróva",
+      "count": 110
+    },
+    {
+      "word": "vaka",
+      "count": 110
+    },
+    {
+      "word": "educación",
+      "count": 109
+    },
+    {
+      "word": "ani",
+      "count": 109
+    },
+    {
+      "word": "cultural",
+      "count": 109
+    },
+    {
+      "word": "un",
+      "count": 108
+    },
+    {
+      "word": "osẽva",
+      "count": 108
+    },
+    {
+      "word": "editorial",
+      "count": 108
+    },
+    {
+      "word": "tetãnguéra",
+      "count": 107
+    },
+    {
+      "word": "ateneo",
+      "count": 107
+    },
+    {
+      "word": "don",
+      "count": 107
+    },
+    {
+      "word": "haguépe",
+      "count": 107
+    },
+    {
+      "word": "hendápe",
+      "count": 107
+    },
+    {
+      "word": "cardozo",
+      "count": 107
+    },
+    {
+      "word": "caballero",
+      "count": 106
+    },
+    {
+      "word": "escuela",
+      "count": 106
+    },
+    {
+      "word": "uahẽ",
+      "count": 105
+    },
+    {
+      "word": "olivera",
+      "count": 105
+    },
+    {
+      "word": "oguata",
+      "count": 105
+    },
+    {
+      "word": "gua",
+      "count": 105
+    },
+    {
+      "word": "jasy",
+      "count": 104
+    },
+    {
+      "word": "akue",
+      "count": 104
+    },
+    {
+      "word": "ñu",
+      "count": 104
+    },
+    {
+      "word": "ha'éva",
+      "count": 104
+    },
+    {
+      "word": "morotĩ",
+      "count": 104
+    },
+    {
+      "word": "kavaju",
+      "count": 104
+    },
+    {
+      "word": "cerro",
+      "count": 104
+    },
+    {
+      "word": "pindoráma",
+      "count": 103
+    },
+    {
+      "word": "jepémo",
+      "count": 103
+    },
+    {
+      "word": "omoñepyrũ",
+      "count": 103
+    },
+    {
+      "word": "mymbakuéra",
+      "count": 103
+    },
+    {
+      "word": "sy",
+      "count": 103
+    },
+    {
+      "word": "mariscal",
+      "count": 103
+    },
+    {
+      "word": "pya",
+      "count": 102
+    },
+    {
+      "word": "tendota",
+      "count": 102
+    },
+    {
+      "word": "tembiasakue",
+      "count": 102
+    },
+    {
+      "word": "ayala",
+      "count": 101
+    },
+    {
+      "word": "dr",
+      "count": 101
+    },
+    {
+      "word": "teñõi",
+      "count": 101
+    },
+    {
+      "word": "tavayguakuéra",
+      "count": 101
+    },
+    {
+      "word": "eha",
+      "count": 100
+    },
+    {
+      "word": "kuarahyresẽ",
+      "count": 100
+    },
+    {
+      "word": "vai",
+      "count": 100
+    },
+    {
+      "word": "tuicháva",
+      "count": 100
+    },
+    {
+      "word": "puku",
+      "count": 100
+    },
+    {
+      "word": "róga",
+      "count": 100
+    },
+    {
+      "word": "teko",
+      "count": 100
+    },
+    {
+      "word": "oñeme",
+      "count": 100
+    },
+    {
+      "word": "jasypakõi",
+      "count": 99
+    },
+    {
+      "word": "mbarete",
+      "count": 99
+    },
+    {
+      "word": "jasyrundy",
+      "count": 99
+    },
+    {
+      "word": "oikova",
+      "count": 99
+    },
+    {
+      "word": "srl",
+      "count": 99
+    },
+    {
+      "word": "javeve",
+      "count": 98
+    },
+    {
+      "word": "jasypateĩ",
+      "count": 98
+    },
+    {
+      "word": "tembiporu",
+      "count": 98
+    },
+    {
+      "word": "ojepuru",
+      "count": 98
+    },
+    {
+      "word": "parque",
+      "count": 97
+    },
+    {
+      "word": "irundy",
+      "count": 96
+    },
+    {
+      "word": "ichugui",
+      "count": 96
+    },
+    {
+      "word": "isy",
+      "count": 96
+    },
+    {
+      "word": "alianza",
+      "count": 96
+    },
+    {
+      "word": "colegio",
+      "count": 96
+    },
+    {
+      "word": "oipytyvõ",
+      "count": 95
+    },
+    {
+      "word": "oñemba",
+      "count": 95
+    },
+    {
+      "word": "yvoty",
+      "count": 95
+    },
+    {
+      "word": "paraná",
+      "count": 95
+    },
+    {
+      "word": "derecho",
+      "count": 95
+    },
+    {
+      "word": "va'ekue",
+      "count": 94
+    },
+    {
+      "word": "ogueraha",
+      "count": 94
+    },
+    {
+      "word": "rekove",
+      "count": 94
+    },
+    {
+      "word": "distribuidora",
+      "count": 94
+    },
+    {
+      "word": "chipa",
+      "count": 94
+    },
+    {
+      "word": "arygua",
+      "count": 94
+    },
+    {
+      "word": "sobre",
+      "count": 93
+    },
+    {
+      "word": "amérika",
+      "count": 93
+    },
+    {
+      "word": "jahecha",
+      "count": 93
+    },
+    {
+      "word": "alto",
+      "count": 93
+    },
+    {
+      "word": "ohasáva",
+      "count": 93
+    },
+    {
+      "word": "ro",
+      "count": 93
+    },
+    {
+      "word": "hetã",
+      "count": 92
+    },
+    {
+      "word": "chína",
+      "count": 92
+    },
+    {
+      "word": "kuatia",
+      "count": 92
+    },
+    {
+      "word": "ag",
+      "count": 92
+    },
+    {
+      "word": "colonia",
+      "count": 92
+    },
+    {
+      "word": "año",
+      "count": 92
+    },
+    {
+      "word": "ningo",
+      "count": 91
+    },
+    {
+      "word": "ága",
+      "count": 91
+    },
+    {
+      "word": "oñangareko",
+      "count": 91
+    },
+    {
+      "word": "aravo",
+      "count": 91
+    },
+    {
+      "word": "pype",
+      "count": 91
+    },
+    {
+      "word": "diccionario",
+      "count": 90
+    },
+    {
+      "word": "francia",
+      "count": 90
+    },
+    {
+      "word": "mombe",
+      "count": 90
+    },
+    {
+      "word": "pág",
+      "count": 90
+    },
+    {
+      "word": "tekotevẽ",
+      "count": 89
+    },
+    {
+      "word": "ore",
+      "count": 89
+    },
+    {
+      "word": "ehaópe",
+      "count": 89
+    },
+    {
+      "word": "rembiapo",
+      "count": 89
+    },
+    {
+      "word": "omopyenda",
+      "count": 89
+    },
+    {
+      "word": "réra",
+      "count": 88
+    },
+    {
+      "word": "oñembohéra",
+      "count": 88
+    },
+    {
+      "word": "ohecha",
+      "count": 88
+    },
+    {
+      "word": "left",
+      "count": 88
+    },
+    {
+      "word": "tembi'u",
+      "count": 88
+    },
+    {
+      "word": "paraguasu",
+      "count": 87
+    },
+    {
+      "word": "triple",
+      "count": 87
+    },
+    {
+      "word": "avo",
+      "count": 87
+    },
+    {
+      "word": "ru",
+      "count": 86
+    },
+    {
+      "word": "kuarahyreike",
+      "count": 86
+    },
+    {
+      "word": "haguére",
+      "count": 86
+    },
+    {
+      "word": "coronel",
+      "count": 86
+    },
+    {
+      "word": "estigarribia",
+      "count": 86
+    },
+    {
+      "word": "haihára",
+      "count": 86
+    },
+    {
+      "word": "poguýpe",
+      "count": 86
+    },
+    {
+      "word": "iporãva",
+      "count": 86
+    },
+    {
+      "word": "ete",
+      "count": 85
+    },
+    {
+      "word": "oheja",
+      "count": 85
+    },
+    {
+      "word": "agua",
+      "count": 85
+    },
+    {
+      "word": "oĩháme",
+      "count": 85
+    },
+    {
+      "word": "orquesta",
+      "count": 85
+    },
+    {
+      "word": "pu",
+      "count": 84
+    },
+    {
+      "word": "vera",
+      "count": 84
+    },
+    {
+      "word": "európa",
+      "count": 84
+    },
+    {
+      "word": "km²",
+      "count": 84
+    },
+    {
+      "word": "pytã",
+      "count": 84
+    },
+    {
+      "word": "festival",
+      "count": 84
+    },
+    {
+      "word": "omomba",
+      "count": 83
+    },
+    {
+      "word": "teroja",
+      "count": 83
+    },
+    {
+      "word": "estado",
+      "count": 83
+    },
+    {
+      "word": "hesu",
+      "count": 83
+    },
+    {
+      "word": "ipu",
+      "count": 83
+    },
+    {
+      "word": "ñana",
+      "count": 83
+    },
+    {
+      "word": "ndéve",
+      "count": 83
+    },
+    {
+      "word": "encuestas",
+      "count": 83
+    },
+    {
+      "word": "avañe",
+      "count": 82
+    },
+    {
+      "word": "ii",
+      "count": 82
+    },
+    {
+      "word": "marandu",
+      "count": 82
+    },
+    {
+      "word": "gui",
+      "count": 82
+    },
+    {
+      "word": "renda",
+      "count": 82
+    },
+    {
+      "word": "kuñakarai",
+      "count": 82
+    },
+    {
+      "word": "ndaje",
+      "count": 82
+    },
+    {
+      "word": "pohã",
+      "count": 82
+    },
+    {
+      "word": "reserva",
+      "count": 82
+    },
+    {
+      "word": "árupi",
+      "count": 82
+    },
+    {
+      "word": "ijerére",
+      "count": 81
+    },
+    {
+      "word": "ymave",
+      "count": 81
+    },
+    {
+      "word": "avano",
+      "count": 80
+    },
+    {
+      "word": "tesoro",
+      "count": 80
+    },
+    {
+      "word": "épe",
+      "count": 80
+    },
+    {
+      "word": "censos",
+      "count": 80
+    },
+    {
+      "word": "rosa",
+      "count": 80
+    },
+    {
+      "word": "ºc",
+      "count": 80
+    },
+    {
+      "word": "ae",
+      "count": 79
+    },
+    {
+      "word": "américa",
+      "count": 79
+    },
+    {
+      "word": "tendáre",
+      "count": 79
+    },
+    {
+      "word": "rape",
+      "count": 79
+    },
+    {
+      "word": "ne",
+      "count": 79
+    },
+    {
+      "word": "obra",
+      "count": 79
+    },
+    {
+      "word": "con",
+      "count": 78
+    },
+    {
+      "word": "ñe'ẽpehẽtai",
+      "count": 78
+    },
+    {
+      "word": "épa",
+      "count": 78
+    },
+    {
+      "word": "rodríguez",
+      "count": 78
+    },
+    {
+      "word": "estados",
+      "count": 78
+    },
+    {
+      "word": "mandyju",
+      "count": 78
+    },
+    {
+      "word": "kamby",
+      "count": 78
+    },
+    {
+      "word": "guasúpe",
+      "count": 77
+    },
+    {
+      "word": "uperire",
+      "count": 77
+    },
+    {
+      "word": "mombyry",
+      "count": 77
+    },
+    {
+      "word": "peru",
+      "count": 77
+    },
+    {
+      "word": "aires-pe",
+      "count": 77
+    },
+    {
+      "word": "jerére",
+      "count": 77
+    },
+    {
+      "word": "concepción",
+      "count": 77
+    },
+    {
+      "word": "omoĩ",
+      "count": 76
+    },
+    {
+      "word": "mburuvi",
+      "count": 76
+    },
+    {
+      "word": "porãva",
+      "count": 76
+    },
+    {
+      "word": "ogueru",
+      "count": 76
+    },
+    {
+      "word": "kuatiahaipyre",
+      "count": 76
+    },
+    {
+      "word": "kóicha",
+      "count": 75
+    },
+    {
+      "word": "ỹre",
+      "count": 75
+    },
+    {
+      "word": "pira",
+      "count": 75
+    },
+    {
+      "word": "ndaipóri",
+      "count": 75
+    },
+    {
+      "word": "instituto",
+      "count": 75
+    },
+    {
+      "word": "yvýpe",
+      "count": 75
+    },
+    {
+      "word": "parana",
+      "count": 75
+    },
+    {
+      "word": "resẽ",
+      "count": 75
+    },
+    {
+      "word": "align",
+      "count": 75
+    },
+    {
+      "word": "rembiapokue",
+      "count": 74
+    },
+    {
+      "word": "ohechaukáva",
+      "count": 74
+    },
+    {
+      "word": "ombohovái",
+      "count": 74
+    },
+    {
+      "word": "avati",
+      "count": 74
+    },
+    {
+      "word": "ha'ehína",
+      "count": 73
+    },
+    {
+      "word": "pirapire",
+      "count": 73
+    },
+    {
+      "word": "ẽtéva",
+      "count": 73
+    },
+    {
+      "word": "nueva",
+      "count": 73
+    },
+    {
+      "word": "ramón",
+      "count": 73
+    },
+    {
+      "word": "mitãrusu",
+      "count": 73
+    },
+    {
+      "word": "joapykuéra",
+      "count": 73
+    },
+    {
+      "word": "tavusu",
+      "count": 73
+    },
+    {
+      "word": "ykére",
+      "count": 73
+    },
+    {
+      "word": "kokuépe",
+      "count": 73
+    },
+    {
+      "word": "ojogua",
+      "count": 73
+    },
+    {
+      "word": "flores",
+      "count": 73
+    },
+    {
+      "word": "teatro",
+      "count": 73
+    },
+    {
+      "word": "este",
+      "count": 73
+    },
+    {
+      "word": "ojeguereko",
+      "count": 73
+    },
+    {
+      "word": "miguel",
+      "count": 72
+    },
+    {
+      "word": "jagua",
+      "count": 72
+    },
+    {
+      "word": "kure",
+      "count": 72
+    },
+    {
+      "word": "jopói",
+      "count": 72
+    },
+    {
+      "word": "omohu",
+      "count": 72
+    },
+    {
+      "word": "oha",
+      "count": 72
+    },
+    {
+      "word": "araka",
+      "count": 72
+    },
+    {
+      "word": "oñondive",
+      "count": 71
+    },
+    {
+      "word": "ũme",
+      "count": 71
+    },
+    {
+      "word": "capital",
+      "count": 71
+    },
+    {
+      "word": "imitã",
+      "count": 71
+    },
+    {
+      "word": "apoha",
+      "count": 71
+    },
+    {
+      "word": "atã",
+      "count": 71
+    },
+    {
+      "word": "kuimba'e",
+      "count": 70
+    },
+    {
+      "word": "martínez",
+      "count": 70
+    },
+    {
+      "word": "mbohapyha",
+      "count": 70
+    },
+    {
+      "word": "tavakuairetã",
+      "count": 70
+    },
+    {
+      "word": "central",
+      "count": 70
+    },
+    {
+      "word": "hete",
+      "count": 70
+    },
+    {
+      "word": "estadísticas",
+      "count": 70
+    },
+    {
+      "word": "premio",
+      "count": 70
+    },
+    {
+      "word": "tavaygua",
+      "count": 70
+    },
+    {
+      "word": "santo",
+      "count": 70
+    },
+    {
+      "word": "chéve",
+      "count": 70
+    },
+    {
+      "word": "ojeporu",
+      "count": 70
+    },
+    {
+      "word": "vaerä",
+      "count": 70
+    },
+    {
+      "word": "mba'éichapa",
+      "count": 69
+    },
+    {
+      "word": "viru",
+      "count": 69
+    },
+    {
+      "word": "oikovéva",
+      "count": 69
+    },
+    {
+      "word": "oñembo",
+      "count": 69
+    },
+    {
+      "word": "siglo",
+      "count": 69
+    },
+    {
+      "word": "mbyte",
+      "count": 69
+    },
+    {
+      "word": "sapy",
+      "count": 69
+    },
+    {
+      "word": "economía",
+      "count": 69
+    },
+    {
+      "word": "yvytu",
+      "count": 68
+    },
+    {
+      "word": "uruguái",
+      "count": 68
+    },
+    {
+      "word": "omba'apo",
+      "count": 68
+    },
+    {
+      "word": "máva",
+      "count": 68
+    },
+    {
+      "word": "hákatu",
+      "count": 68
+    },
+    {
+      "word": "reheve",
+      "count": 68
+    },
+    {
+      "word": "misiones",
+      "count": 68
+    },
+    {
+      "word": "municipal",
+      "count": 68
+    },
+    {
+      "word": "ypykuéra",
+      "count": 67
+    },
+    {
+      "word": "ojehu",
+      "count": 67
+    },
+    {
+      "word": "iséva",
+      "count": 67
+    },
+    {
+      "word": "santiago",
+      "count": 67
+    },
+    {
+      "word": "paha",
+      "count": 67
+    },
+    {
+      "word": "partido",
+      "count": 67
+    },
+    {
+      "word": "ediciones",
+      "count": 67
+    },
+    {
+      "word": "omyakãva",
+      "count": 67
+    },
+    {
+      "word": "okaháre",
+      "count": 67
+    },
+    {
+      "word": "tendagua",
+      "count": 67
+    },
+    {
+      "word": "turdus",
+      "count": 67
+    },
+    {
+      "word": "se",
+      "count": 66
+    },
+    {
+      "word": "fernández",
+      "count": 66
+    },
+    {
+      "word": "léi",
+      "count": 66
+    },
+    {
+      "word": "memby",
+      "count": 66
+    },
+    {
+      "word": "oikove",
+      "count": 66
+    },
+    {
+      "word": "mante",
+      "count": 66
+    },
+    {
+      "word": "mundo",
+      "count": 66
+    },
+    {
+      "word": "ñoha",
+      "count": 66
+    },
+    {
+      "word": "demografía",
+      "count": 66
+    },
+    {
+      "word": "sur",
+      "count": 66
+    },
+    {
+      "word": "avañe'ẽ",
+      "count": 65
+    },
+    {
+      "word": "ãnga",
+      "count": 65
+    },
+    {
+      "word": "tekombo",
+      "count": 65
+    },
+    {
+      "word": "vore",
+      "count": 65
+    },
+    {
+      "word": "fernando",
+      "count": 65
+    },
+    {
+      "word": "omenda",
+      "count": 65
+    },
+    {
+      "word": "pérez",
+      "count": 65
+    },
+    {
+      "word": "ẽpapára",
+      "count": 65
+    },
+    {
+      "word": "ehína",
+      "count": 65
+    },
+    {
+      "word": "radio",
+      "count": 65
+    },
+    {
+      "word": "nda",
+      "count": 65
+    },
+    {
+      "word": "moĩmbaha",
+      "count": 65
+    },
+    {
+      "word": "sector",
+      "count": 65
+    },
+    {
+      "word": "temimbo",
+      "count": 64
+    },
+    {
+      "word": "español",
+      "count": 64
+    },
+    {
+      "word": "una",
+      "count": 64
+    },
+    {
+      "word": "va'erã",
+      "count": 64
+    },
+    {
+      "word": "oficial",
+      "count": 64
+    },
+    {
+      "word": "paraguáigua",
+      "count": 64
+    },
+    {
+      "word": "añetehápe",
+      "count": 64
+    },
+    {
+      "word": "argentina-pe",
+      "count": 64
+    },
+    {
+      "word": "asociación",
+      "count": 64
+    },
+    {
+      "word": "ko'ãva",
+      "count": 63
+    },
+    {
+      "word": "apópe",
+      "count": 63
+    },
+    {
+      "word": "hetaite",
+      "count": 63
+    },
+    {
+      "word": "porãite",
+      "count": 63
+    },
+    {
+      "word": "ymaite",
+      "count": 63
+    },
+    {
+      "word": "plata",
+      "count": 63
+    },
+    {
+      "word": "militar",
+      "count": 63
+    },
+    {
+      "word": "política",
+      "count": 63
+    },
+    {
+      "word": "barrios",
+      "count": 63
+    },
+    {
+      "word": "mbaraka",
+      "count": 63
+    },
+    {
+      "word": "ípe",
+      "count": 63
+    },
+    {
+      "word": "oguejy",
+      "count": 63
+    },
+    {
+      "word": "mandu",
+      "count": 63
+    },
+    {
+      "word": "municipalidad",
+      "count": 63
+    },
+    {
+      "word": "kokatu",
+      "count": 62
+    },
+    {
+      "word": "ministerio",
+      "count": 62
+    },
+    {
+      "word": "pépe",
+      "count": 62
+    },
+    {
+      "word": "pyhare",
+      "count": 62
+    },
+    {
+      "word": "imemby",
+      "count": 62
+    },
+    {
+      "word": "renondépe",
+      "count": 62
+    },
+    {
+      "word": "iháicha",
+      "count": 62
+    },
+    {
+      "word": "upégui",
+      "count": 61
+    },
+    {
+      "word": "oikéva",
+      "count": 61
+    },
+    {
+      "word": "ombo",
+      "count": 61
+    },
+    {
+      "word": "pehẽngue",
+      "count": 61
+    },
+    {
+      "word": "of",
+      "count": 61
+    },
+    {
+      "word": "ãga",
+      "count": 61
+    },
+    {
+      "word": "ojuhu",
+      "count": 61
+    },
+    {
+      "word": "okakuaa",
+      "count": 61
+    },
+    {
+      "word": "no",
+      "count": 61
+    },
+    {
+      "word": "okambúva",
+      "count": 61
+    },
+    {
+      "word": "oguahẽvo",
+      "count": 61
+    },
+    {
+      "word": "político",
+      "count": 61
+    },
+    {
+      "word": "agustín",
+      "count": 61
+    },
+    {
+      "word": "mávapa",
+      "count": 61
+    },
+    {
+      "word": "jaikuaa",
+      "count": 61
+    },
+    {
+      "word": "gaspar",
+      "count": 60
+    },
+    {
+      "word": "ojehero",
+      "count": 60
+    },
+    {
+      "word": "isbn",
+      "count": 60
+    },
+    {
+      "word": "doctor",
+      "count": 60
+    },
+    {
+      "word": "lo",
+      "count": 59
+    },
+    {
+      "word": "oipurúva",
+      "count": 59
+    },
+    {
+      "word": "guarania",
+      "count": 59
+    },
+    {
+      "word": "sua",
+      "count": 59
+    },
+    {
+      "word": "omoheñóiva",
+      "count": 59
+    },
+    {
+      "word": "ogueraháva",
+      "count": 59
+    },
+    {
+      "word": "omohenda",
+      "count": 59
+    },
+    {
+      "word": "arpa",
+      "count": 59
+    },
+    {
+      "word": "club",
+      "count": 59
+    },
+    {
+      "word": "jeko",
+      "count": 59
+    },
+    {
+      "word": "sociedad",
+      "count": 58
+    },
+    {
+      "word": "montoya",
+      "count": 58
+    },
+    {
+      "word": "hyãsia",
+      "count": 58
+    },
+    {
+      "word": "oñemopu",
+      "count": 58
+    },
+    {
+      "word": "ministro",
+      "count": 58
+    },
+    {
+      "word": "te",
+      "count": 58
+    },
+    {
+      "word": "okaru",
+      "count": 58
+    },
+    {
+      "word": "kokue",
+      "count": 58
+    },
+    {
+      "word": "mcal",
+      "count": 58
+    },
+    {
+      "word": "ilustrada",
+      "count": 58
+    },
+    {
+      "word": "ẽpehẽtai",
+      "count": 57
+    },
+    {
+      "word": "ipahápe",
+      "count": 57
+    },
+    {
+      "word": "gramática",
+      "count": 57
+    },
+    {
+      "word": "congreso",
+      "count": 57
+    },
+    {
+      "word": "popular",
+      "count": 57
+    },
+    {
+      "word": "ñorãirõ",
+      "count": 57
+    },
+    {
+      "word": "franco",
+      "count": 57
+    },
+    {
+      "word": "ha'ekuéra",
+      "count": 56
+    },
+    {
+      "word": "oisãmbyhy",
+      "count": 56
+    },
+    {
+      "word": "avave",
+      "count": 56
+    },
+    {
+      "word": "itavusu",
+      "count": 56
+    },
+    {
+      "word": "pytagua",
+      "count": 56
+    },
+    {
+      "word": "omyakã",
+      "count": 56
+    },
+    {
+      "word": "upérupi",
+      "count": 56
+    },
+    {
+      "word": "hu",
+      "count": 56
+    },
+    {
+      "word": "lorenzo",
+      "count": 56
+    },
+    {
+      "word": "tupãsy",
+      "count": 56
+    },
+    {
+      "word": "oñemboja",
+      "count": 56
+    },
+    {
+      "word": "upéichante",
+      "count": 56
+    },
+    {
+      "word": "natural",
+      "count": 56
+    },
+    {
+      "word": "com",
+      "count": 55
+    },
+    {
+      "word": "hembiasa",
+      "count": 55
+    },
+    {
+      "word": "castellano",
+      "count": 55
+    },
+    {
+      "word": "tiempo",
+      "count": 55
+    },
+    {
+      "word": "oguahẽva",
+      "count": 55
+    },
+    {
+      "word": "sãso",
+      "count": 55
+    },
+    {
+      "word": "opu",
+      "count": 55
+    },
+    {
+      "word": "eguasu",
+      "count": 55
+    },
+    {
+      "word": "fuerte",
+      "count": 55
+    },
+    {
+      "word": "tuja",
+      "count": 55
+    },
+    {
+      "word": "yno",
+      "count": 55
+    },
+    {
+      "word": "hispana",
+      "count": 55
+    },
+    {
+      "word": "tavarandu",
+      "count": 55
+    },
+    {
+      "word": "ogakuéra",
+      "count": 55
+    },
+    {
+      "word": "jehai",
+      "count": 54
+    },
+    {
+      "word": "parte",
+      "count": 54
+    },
+    {
+      "word": "ignacio",
+      "count": 54
+    },
+    {
+      "word": "ortiz",
+      "count": 54
+    },
+    {
+      "word": "haimete",
+      "count": 54
+    },
+    {
+      "word": "atýpe",
+      "count": 54
+    },
+    {
+      "word": "hekosãsóva",
+      "count": 54
+    },
+    {
+      "word": "iii",
+      "count": 54
+    },
+    {
+      "word": "bolivia",
+      "count": 54
+    },
+    {
+      "word": "rio",
+      "count": 54
+    },
+    {
+      "word": "poytuga",
+      "count": 54
+    },
+    {
+      "word": "salvador",
+      "count": 54
+    },
+    {
+      "word": "facultad",
+      "count": 54
+    },
+    {
+      "word": "artista",
+      "count": 54
+    },
+    {
+      "word": "korapy",
+      "count": 54
+    },
+    {
+      "word": "kakuaa",
+      "count": 54
+    },
+    {
+      "word": "añete",
+      "count": 54
+    },
+    {
+      "word": "omoñepyrũva",
+      "count": 54
+    },
+    {
+      "word": "ipy",
+      "count": 54
+    },
+    {
+      "word": "casa",
+      "count": 54
+    },
+    {
+      "word": "yruguata",
+      "count": 54
+    },
+    {
+      "word": "arami",
+      "count": 54
+    },
+    {
+      "word": "ararova",
+      "count": 54
+    },
+    {
+      "word": "es",
+      "count": 53
+    },
+    {
+      "word": "tierra",
+      "count": 53
+    },
+    {
+      "word": "www",
+      "count": 53
+    },
+    {
+      "word": "ñemohenda",
+      "count": 53
+    },
+    {
+      "word": "karaiñe'ẽme",
+      "count": 53
+    },
+    {
+      "word": "ojoajúva",
+      "count": 53
+    },
+    {
+      "word": "grado",
+      "count": 53
+    },
+    {
+      "word": "ohaíva",
+      "count": 53
+    },
+    {
+      "word": "heko",
+      "count": 53
+    },
+    {
+      "word": "ruiz",
+      "count": 53
+    },
+    {
+      "word": "oñepyrũva",
+      "count": 53
+    },
+    {
+      "word": "ymaguare",
+      "count": 53
+    },
+    {
+      "word": "ndaikatúi",
+      "count": 53
+    },
+    {
+      "word": "enero",
+      "count": 53
+    },
+    {
+      "word": "literatura",
+      "count": 53
+    },
+    {
+      "word": "remiandu",
+      "count": 53
+    },
+    {
+      "word": "secretaria",
+      "count": 53
+    },
+    {
+      "word": "oky",
+      "count": 53
+    },
+    {
+      "word": "kurusu",
+      "count": 53
+    },
+    {
+      "word": "paso",
+      "count": 52
+    },
+    {
+      "word": "díaz",
+      "count": 52
+    },
+    {
+      "word": "oipe",
+      "count": 52
+    },
+    {
+      "word": "ko'ápe",
+      "count": 52
+    },
+    {
+      "word": "epáña",
+      "count": 52
+    },
+    {
+      "word": "tete",
+      "count": 52
+    },
+    {
+      "word": "are",
+      "count": 52
+    },
+    {
+      "word": "norte",
+      "count": 52
+    },
+    {
+      "word": "méhiko",
+      "count": 52
+    },
+    {
+      "word": "temiandu",
+      "count": 52
+    },
+    {
+      "word": "reheguáva",
+      "count": 52
+    },
+    {
+      "word": "estilo",
+      "count": 52
+    },
+    {
+      "word": "ohupytýva",
+      "count": 52
+    },
+    {
+      "word": "hogue",
+      "count": 52
+    },
+    {
+      "word": "hayes",
+      "count": 52
+    },
+    {
+      "word": "mba'asy",
+      "count": 52
+    },
+    {
+      "word": "upevarã",
+      "count": 51
+    },
+    {
+      "word": "hesekuéra",
+      "count": 51
+    },
+    {
+      "word": "oñemotenonde",
+      "count": 51
+    },
+    {
+      "word": "ojerure",
+      "count": 51
+    },
+    {
+      "word": "uáicha",
+      "count": 51
+    },
+    {
+      "word": "unidos",
+      "count": 51
+    },
+    {
+      "word": "área",
+      "count": 51
+    },
+    {
+      "word": "oñembosako",
+      "count": 51
+    },
+    {
+      "word": "pueblo",
+      "count": 51
+    },
+    {
+      "word": "oipyhy",
+      "count": 51
+    },
+    {
+      "word": "ojekuaáva",
+      "count": 51
+    },
+    {
+      "word": "omoañete",
+      "count": 51
+    },
+    {
+      "word": "poyvi",
+      "count": 51
+    },
+    {
+      "word": "rete",
+      "count": 51
+    },
+    {
+      "word": "araro",
+      "count": 51
+    },
+    {
+      "word": "avakuaaty",
+      "count": 51
+    },
+    {
+      "word": "reve",
+      "count": 51
+    },
+    {
+      "word": "tĩgua",
+      "count": 50
+    },
+    {
+      "word": "apekue",
+      "count": 50
+    },
+    {
+      "word": "the",
+      "count": 50
+    },
+    {
+      "word": "ỹi",
+      "count": 50
+    },
+    {
+      "word": "oñemopyenda",
+      "count": 50
+    },
+    {
+      "word": "ryguasu",
+      "count": 50
+    },
+    {
+      "word": "fundación",
+      "count": 50
+    },
+    {
+      "word": "ojeikuaa",
+      "count": 50
+    },
+    {
+      "word": "uruguay",
+      "count": 50
+    },
+    {
+      "word": "región",
+      "count": 50
+    },
+    {
+      "word": "ome'ẽ",
+      "count": 50
+    },
+    {
+      "word": "diario",
+      "count": 50
+    },
+    {
+      "word": "mimi",
+      "count": 50
+    },
+    {
+      "word": "omopu",
+      "count": 50
+    },
+    {
+      "word": "apu",
+      "count": 50
+    },
+    {
+      "word": "koty",
+      "count": 50
+    },
+    {
+      "word": "imágenes",
+      "count": 50
+    },
+    {
+      "word": "tavetã",
+      "count": 49
+    },
+    {
+      "word": "porãve",
+      "count": 49
+    },
+    {
+      "word": "retãygua",
+      "count": 49
+    },
+    {
+      "word": "tetãvorekuéra",
+      "count": 49
+    },
+    {
+      "word": "oheka",
+      "count": 49
+    },
+    {
+      "word": "ñandejára",
+      "count": 49
+    },
+    {
+      "word": "ẽvo",
+      "count": 49
+    },
+    {
+      "word": "cabildo",
+      "count": 49
+    },
+    {
+      "word": "ombopu",
+      "count": 49
+    },
+    {
+      "word": "poder",
+      "count": 49
+    },
+    {
+      "word": "ocampo",
+      "count": 49
+    },
+    {
+      "word": "musical",
+      "count": 49
+    },
+    {
+      "word": "kapi",
+      "count": 49
+    },
+    {
+      "word": "mora",
+      "count": 49
+    },
+    {
+      "word": "bautista",
+      "count": 49
+    },
+    {
+      "word": "salto",
+      "count": 49
+    },
+    {
+      "word": "grande",
+      "count": 48
+    },
+    {
+      "word": "iñambue",
+      "count": 48
+    },
+    {
+      "word": "hovy",
+      "count": 48
+    },
+    {
+      "word": "vocabulario",
+      "count": 48
+    },
+    {
+      "word": "bertoni",
+      "count": 48
+    },
+    {
+      "word": "papapy",
+      "count": 48
+    },
+    {
+      "word": "rérape",
+      "count": 48
+    },
+    {
+      "word": "ise",
+      "count": 48
+    },
+    {
+      "word": "chile",
+      "count": 48
+    },
+    {
+      "word": "pokõi",
+      "count": 48
+    },
+    {
+      "word": "roque",
+      "count": 48
+    },
+    {
+      "word": "ohaiva",
+      "count": 48
+    },
+    {
+      "word": "compositor",
+      "count": 48
+    },
+    {
+      "word": "takuare",
+      "count": 48
+    },
+    {
+      "word": "ojegueromandu",
+      "count": 48
+    },
+    {
+      "word": "rembiasa",
+      "count": 48
+    },
+    {
+      "word": "oporandu",
+      "count": 48
+    },
+    {
+      "word": "arahaku",
+      "count": 48
+    },
+    {
+      "word": "ikatuhápe",
+      "count": 48
+    },
+    {
+      "word": "umía",
+      "count": 48
+    },
+    {
+      "word": "guairá",
+      "count": 47
+    },
+    {
+      "word": "ysaja",
+      "count": 47
+    },
+    {
+      "word": "pu'ae",
+      "count": 47
+    },
+    {
+      "word": "pa'i",
+      "count": 47
+    },
+    {
+      "word": "andrés",
+      "count": 47
+    },
+    {
+      "word": "gómez",
+      "count": 47
+    },
+    {
+      "word": "jaipuru",
+      "count": 47
+    },
+    {
+      "word": "oikuaauka",
+      "count": 47
+    },
+    {
+      "word": "ñe'ẽme",
+      "count": 47
+    },
+    {
+      "word": "mboka",
+      "count": 47
+    },
+    {
+      "word": "añoite",
+      "count": 47
+    },
+    {
+      "word": "ikatupyry",
+      "count": 47
+    },
+    {
+      "word": "hembireko",
+      "count": 47
+    },
+    {
+      "word": "forjadores",
+      "count": 47
+    },
+    {
+      "word": "rógape",
+      "count": 47
+    },
+    {
+      "word": "iporãvéva",
+      "count": 47
+    },
+    {
+      "word": "ojapova",
+      "count": 47
+    },
+    {
+      "word": "hamba",
+      "count": 47
+    },
+    {
+      "word": "jeroky",
+      "count": 47
+    },
+    {
+      "word": "pópe",
+      "count": 47
+    },
+    {
+      "word": "pytu",
+      "count": 47
+    },
+    {
+      "word": "reike",
+      "count": 47
+    },
+    {
+      "word": "paraguay-pe",
+      "count": 47
+    },
+    {
+      "word": "jevy",
+      "count": 47
+    },
+    {
+      "word": "nº",
+      "count": 47
+    },
+    {
+      "word": "kesu",
+      "count": 47
+    },
+    {
+      "word": "eusebio",
+      "count": 47
+    },
+    {
+      "word": "ara",
+      "count": 46
+    },
+    {
+      "word": "hemiandu",
+      "count": 46
+    },
+    {
+      "word": "tembipuru",
+      "count": 46
+    },
+    {
+      "word": "apohára",
+      "count": 46
+    },
+    {
+      "word": "tetãygua",
+      "count": 46
+    },
+    {
+      "word": "akã",
+      "count": 46
+    },
+    {
+      "word": "ojere",
+      "count": 46
+    },
+    {
+      "word": "ojeipuru",
+      "count": 46
+    },
+    {
+      "word": "oipytyvõva",
+      "count": 46
+    },
+    {
+      "word": "herakuã",
+      "count": 46
+    },
+    {
+      "word": "europa",
+      "count": 46
+    },
+    {
+      "word": "jepokuaa",
+      "count": 46
+    },
+    {
+      "word": "ka'a",
+      "count": 46
+    },
+    {
+      "word": "cámara",
+      "count": 46
+    },
+    {
+      "word": "aquino",
+      "count": 46
+    },
+    {
+      "word": "eguasúva",
+      "count": 46
+    },
+    {
+      "word": "ágã",
+      "count": 46
+    },
+    {
+      "word": "segunda",
+      "count": 46
+    },
+    {
+      "word": "tenonde",
+      "count": 46
+    },
+    {
+      "word": "julio",
+      "count": 46
+    },
+    {
+      "word": "ña",
+      "count": 46
+    },
+    {
+      "word": "loma",
+      "count": 46
+    },
+    {
+      "word": "satelitales",
+      "count": 46
+    },
+    {
+      "word": "ayvu",
+      "count": 45
+    },
+    {
+      "word": "revista",
+      "count": 45
+    },
+    {
+      "word": "ñe'ẽtéva",
+      "count": 45
+    },
+    {
+      "word": "ỹijo",
+      "count": 45
+    },
+    {
+      "word": "yguasu",
+      "count": 45
+    },
+    {
+      "word": "ova",
+      "count": 45
+    },
+    {
+      "word": "maymáva",
+      "count": 45
+    },
+    {
+      "word": "ruvicha",
+      "count": 45
+    },
+    {
+      "word": "apa",
+      "count": 45
+    },
+    {
+      "word": "mbói",
+      "count": 45
+    },
+    {
+      "word": "paraguayos",
+      "count": 45
+    },
+    {
+      "word": "opurahéi",
+      "count": 45
+    },
+    {
+      "word": "giménez",
+      "count": 45
+    },
+    {
+      "word": "mauricio",
+      "count": 45
+    },
+    {
+      "word": "ojeporúva",
+      "count": 45
+    },
+    {
+      "word": "isla",
+      "count": 45
+    },
+    {
+      "word": "so",
+      "count": 45
+    },
+    {
+      "word": "geográficas",
+      "count": 45
+    },
+    {
+      "word": "poty",
+      "count": 45
+    },
+    {
+      "word": "ẽkuaaty",
+      "count": 45
+    },
+    {
+      "word": "indígena",
+      "count": 45
+    },
+    {
+      "word": "ejército",
+      "count": 45
+    },
+    {
+      "word": "gran",
+      "count": 44
+    },
+    {
+      "word": "estudio",
+      "count": 44
+    },
+    {
+      "word": "henda",
+      "count": 44
+    },
+    {
+      "word": "jaha",
+      "count": 44
+    },
+    {
+      "word": "motenondehára",
+      "count": 44
+    },
+    {
+      "word": "alberto",
+      "count": 44
+    },
+    {
+      "word": "ni",
+      "count": 44
+    },
+    {
+      "word": "oï",
+      "count": 44
+    },
+    {
+      "word": "vida",
+      "count": 44
+    },
+    {
+      "word": "èva",
+      "count": 44
+    },
+    {
+      "word": "omopyendáva",
+      "count": 44
+    },
+    {
+      "word": "túva",
+      "count": 44
+    },
+    {
+      "word": "aguýre",
+      "count": 44
+    },
+    {
+      "word": "rafael",
+      "count": 44
+    },
+    {
+      "word": "aguasu",
+      "count": 44
+    },
+    {
+      "word": "encarnación",
+      "count": 44
+    },
+    {
+      "word": "ojeho",
+      "count": 44
+    },
+    {
+      "word": "ñaguahẽ",
+      "count": 44
+    },
+    {
+      "word": "báez",
+      "count": 44
+    },
+    {
+      "word": "biblioteca",
+      "count": 44
+    },
+    {
+      "word": "ýre",
+      "count": 44
+    },
+    {
+      "word": "arapy",
+      "count": 43
+    },
+    {
+      "word": "augusto",
+      "count": 43
+    },
+    {
+      "word": "ojoaju",
+      "count": 43
+    },
+    {
+      "word": "taha",
+      "count": 43
+    },
+    {
+      "word": "paulo",
+      "count": 43
+    },
+    {
+      "word": "academia",
+      "count": 43
+    },
+    {
+      "word": "histórico",
+      "count": 43
+    },
+    {
+      "word": "hembiapópe",
+      "count": 43
+    },
+    {
+      "word": "ñorairõhára",
+      "count": 43
+    },
+    {
+      "word": "oje'e",
+      "count": 43
+    },
+    {
+      "word": "tavakuéra",
+      "count": 43
+    },
+    {
+      "word": "oĩhápe",
+      "count": 43
+    },
+    {
+      "word": "irundyha",
+      "count": 43
+    },
+    {
+      "word": "so'o",
+      "count": 43
+    },
+    {
+      "word": "hóga",
+      "count": 43
+    },
+    {
+      "word": "lima",
+      "count": 43
+    },
+    {
+      "word": "guýpe",
+      "count": 43
+    },
+    {
+      "word": "comisión",
+      "count": 43
+    }
+  ]
+}

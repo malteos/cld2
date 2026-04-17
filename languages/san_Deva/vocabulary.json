@@ -1,0 +1,4012 @@
+{
+  "code": "san",
+  "name": "Sanskrit",
+  "script": "Deva",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (sa.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 377244,
+  "unique_tokens": 19055,
+  "words": [
+    {
+      "word": "इत",
+      "count": 7967
+    },
+    {
+      "word": "अस",
+      "count": 7589
+    },
+    {
+      "word": "वर",
+      "count": 5966
+    },
+    {
+      "word": "यत",
+      "count": 5570
+    },
+    {
+      "word": "तम",
+      "count": 5402
+    },
+    {
+      "word": "रत",
+      "count": 4740
+    },
+    {
+      "word": "जन",
+      "count": 4115
+    },
+    {
+      "word": "रस",
+      "count": 4090
+    },
+    {
+      "word": "सम",
+      "count": 4045
+    },
+    {
+      "word": "सर",
+      "count": 3945
+    },
+    {
+      "word": "तस",
+      "count": 3906
+    },
+    {
+      "word": "यस",
+      "count": 3874
+    },
+    {
+      "word": "पर",
+      "count": 3820
+    },
+    {
+      "word": "अप",
+      "count": 3802
+    },
+    {
+      "word": "यम",
+      "count": 3742
+    },
+    {
+      "word": "अन",
+      "count": 3544
+    },
+    {
+      "word": "तत",
+      "count": 3531
+    },
+    {
+      "word": "रम",
+      "count": 3319
+    },
+    {
+      "word": "आस",
+      "count": 3018
+    },
+    {
+      "word": "सन",
+      "count": 2973
+    },
+    {
+      "word": "यन",
+      "count": 2853
+    },
+    {
+      "word": "अत",
+      "count": 2786
+    },
+    {
+      "word": "तव",
+      "count": 2694
+    },
+    {
+      "word": "एव",
+      "count": 2565
+    },
+    {
+      "word": "मह",
+      "count": 2471
+    },
+    {
+      "word": "कर",
+      "count": 2374
+    },
+    {
+      "word": "भवत",
+      "count": 2317
+    },
+    {
+      "word": "तर",
+      "count": 2308
+    },
+    {
+      "word": "बद",
+      "count": 2087
+    },
+    {
+      "word": "मन",
+      "count": 2067
+    },
+    {
+      "word": "यक",
+      "count": 1995
+    },
+    {
+      "word": "नगर",
+      "count": 1994
+    },
+    {
+      "word": "वन",
+      "count": 1919
+    },
+    {
+      "word": "रद",
+      "count": 1888
+    },
+    {
+      "word": "रक",
+      "count": 1765
+    },
+    {
+      "word": "वत",
+      "count": 1762
+    },
+    {
+      "word": "वस",
+      "count": 1688
+    },
+    {
+      "word": "उत",
+      "count": 1471
+    },
+    {
+      "word": "तद",
+      "count": 1467
+    },
+    {
+      "word": "रव",
+      "count": 1388
+    },
+    {
+      "word": "षय",
+      "count": 1311
+    },
+    {
+      "word": "अध",
+      "count": 1289
+    },
+    {
+      "word": "नक",
+      "count": 1267
+    },
+    {
+      "word": "नस",
+      "count": 1257
+    },
+    {
+      "word": "षत",
+      "count": 1237
+    },
+    {
+      "word": "तथ",
+      "count": 1235
+    },
+    {
+      "word": "यद",
+      "count": 1224
+    },
+    {
+      "word": "सह",
+      "count": 1221
+    },
+    {
+      "word": "णल",
+      "count": 1219
+    },
+    {
+      "word": "पत",
+      "count": 1219
+    },
+    {
+      "word": "टब",
+      "count": 1208
+    },
+    {
+      "word": "तन",
+      "count": 1206
+    },
+    {
+      "word": "चन",
+      "count": 1205
+    },
+    {
+      "word": "मण",
+      "count": 1191
+    },
+    {
+      "word": "रह",
+      "count": 1186
+    },
+    {
+      "word": "रतस",
+      "count": 1176
+    },
+    {
+      "word": "रय",
+      "count": 1125
+    },
+    {
+      "word": "of",
+      "count": 1105
+    },
+    {
+      "word": "लय",
+      "count": 1102
+    },
+    {
+      "word": "शस",
+      "count": 1101
+    },
+    {
+      "word": "दर",
+      "count": 1086
+    },
+    {
+      "word": "नम",
+      "count": 1071
+    },
+    {
+      "word": "यप",
+      "count": 1044
+    },
+    {
+      "word": "अभवत",
+      "count": 1040
+    },
+    {
+      "word": "शक",
+      "count": 1033
+    },
+    {
+      "word": "यव",
+      "count": 1016
+    },
+    {
+      "word": "सङ",
+      "count": 996
+    },
+    {
+      "word": "एक",
+      "count": 994
+    },
+    {
+      "word": "रमञ",
+      "count": 989
+    },
+    {
+      "word": "रन",
+      "count": 988
+    },
+    {
+      "word": "the",
+      "count": 956
+    },
+    {
+      "word": "बन",
+      "count": 951
+    },
+    {
+      "word": "लस",
+      "count": 951
+    },
+    {
+      "word": "इद",
+      "count": 948
+    },
+    {
+      "word": "एत",
+      "count": 942
+    },
+    {
+      "word": "रण",
+      "count": 942
+    },
+    {
+      "word": "कल",
+      "count": 939
+    },
+    {
+      "word": "षण",
+      "count": 917
+    },
+    {
+      "word": "बह",
+      "count": 908
+    },
+    {
+      "word": "मध",
+      "count": 903
+    },
+    {
+      "word": "वक",
+      "count": 902
+    },
+    {
+      "word": "अभ",
+      "count": 886
+    },
+    {
+      "word": "नद",
+      "count": 852
+    },
+    {
+      "word": "लक",
+      "count": 849
+    },
+    {
+      "word": "कस",
+      "count": 843
+    },
+    {
+      "word": "अर",
+      "count": 842
+    },
+    {
+      "word": "भव",
+      "count": 824
+    },
+    {
+      "word": "पन",
+      "count": 822
+    },
+    {
+      "word": "सस",
+      "count": 819
+    },
+    {
+      "word": "धर",
+      "count": 806
+    },
+    {
+      "word": "तय",
+      "count": 801
+    },
+    {
+      "word": "पद",
+      "count": 791
+    },
+    {
+      "word": "अय",
+      "count": 781
+    },
+    {
+      "word": "रभ",
+      "count": 780
+    },
+    {
+      "word": "पञ",
+      "count": 767
+    },
+    {
+      "word": "ऽप",
+      "count": 766
+    },
+    {
+      "word": "शन",
+      "count": 748
+    },
+    {
+      "word": "वल",
+      "count": 742
+    },
+    {
+      "word": "मस",
+      "count": 741
+    },
+    {
+      "word": "पश",
+      "count": 740
+    },
+    {
+      "word": "उद",
+      "count": 740
+    },
+    {
+      "word": "नन",
+      "count": 732
+    },
+    {
+      "word": "षस",
+      "count": 726
+    },
+    {
+      "word": "सत",
+      "count": 724
+    },
+    {
+      "word": "दय",
+      "count": 700
+    },
+    {
+      "word": "धम",
+      "count": 699
+    },
+    {
+      "word": "अम",
+      "count": 691
+    },
+    {
+      "word": "यथ",
+      "count": 684
+    },
+    {
+      "word": "चत",
+      "count": 684
+    },
+    {
+      "word": "यर",
+      "count": 676
+    },
+    {
+      "word": "रश",
+      "count": 668
+    },
+    {
+      "word": "नर",
+      "count": 667
+    },
+    {
+      "word": "मक",
+      "count": 665
+    },
+    {
+      "word": "गत",
+      "count": 659
+    },
+    {
+      "word": "शत",
+      "count": 656
+    },
+    {
+      "word": "मत",
+      "count": 654
+    },
+    {
+      "word": "वम",
+      "count": 653
+    },
+    {
+      "word": "दक",
+      "count": 652
+    },
+    {
+      "word": "धन",
+      "count": 631
+    },
+    {
+      "word": "वव",
+      "count": 630
+    },
+    {
+      "word": "भवन",
+      "count": 630
+    },
+    {
+      "word": "हर",
+      "count": 627
+    },
+    {
+      "word": "कव",
+      "count": 616
+    },
+    {
+      "word": "मर",
+      "count": 616
+    },
+    {
+      "word": "एष",
+      "count": 603
+    },
+    {
+      "word": "नगरस",
+      "count": 592
+    },
+    {
+      "word": "थल",
+      "count": 589
+    },
+    {
+      "word": "वय",
+      "count": 582
+    },
+    {
+      "word": "पक",
+      "count": 569
+    },
+    {
+      "word": "दस",
+      "count": 566
+    },
+    {
+      "word": "रप",
+      "count": 559
+    },
+    {
+      "word": "शब",
+      "count": 551
+    },
+    {
+      "word": "यसम",
+      "count": 550
+    },
+    {
+      "word": "आर",
+      "count": 545
+    },
+    {
+      "word": "वप",
+      "count": 543
+    },
+    {
+      "word": "and",
+      "count": 542
+    },
+    {
+      "word": "तक",
+      "count": 537
+    },
+    {
+      "word": "कथ",
+      "count": 530
+    },
+    {
+      "word": "छत",
+      "count": 528
+    },
+    {
+      "word": "डल",
+      "count": 501
+    },
+    {
+      "word": "यय",
+      "count": 493
+    },
+    {
+      "word": "गर",
+      "count": 488
+    },
+    {
+      "word": "मद",
+      "count": 486
+    },
+    {
+      "word": "अक",
+      "count": 468
+    },
+    {
+      "word": "तमस",
+      "count": 467
+    },
+    {
+      "word": "चलच",
+      "count": 467
+    },
+    {
+      "word": "गस",
+      "count": 462
+    },
+    {
+      "word": "अग",
+      "count": 461
+    },
+    {
+      "word": "बर",
+      "count": 456
+    },
+    {
+      "word": "दन",
+      "count": 455
+    },
+    {
+      "word": "रच",
+      "count": 455
+    },
+    {
+      "word": "कम",
+      "count": 451
+    },
+    {
+      "word": "इन",
+      "count": 447
+    },
+    {
+      "word": "तवन",
+      "count": 444
+    },
+    {
+      "word": "ऽस",
+      "count": 442
+    },
+    {
+      "word": "यश",
+      "count": 441
+    },
+    {
+      "word": "भक",
+      "count": 439
+    },
+    {
+      "word": "करण",
+      "count": 438
+    },
+    {
+      "word": "टर",
+      "count": 436
+    },
+    {
+      "word": "रथम",
+      "count": 435
+    },
+    {
+      "word": "नव",
+      "count": 431
+    },
+    {
+      "word": "कश",
+      "count": 429
+    },
+    {
+      "word": "वद",
+      "count": 427
+    },
+    {
+      "word": "यभ",
+      "count": 426
+    },
+    {
+      "word": "लन",
+      "count": 422
+    },
+    {
+      "word": "एतत",
+      "count": 419
+    },
+    {
+      "word": "आध",
+      "count": 416
+    },
+    {
+      "word": "रध",
+      "count": 410
+    },
+    {
+      "word": "हस",
+      "count": 410
+    },
+    {
+      "word": "जर",
+      "count": 409
+    },
+    {
+      "word": "मप",
+      "count": 408
+    },
+    {
+      "word": "तप",
+      "count": 406
+    },
+    {
+      "word": "यज",
+      "count": 401
+    },
+    {
+      "word": "सक",
+      "count": 399
+    },
+    {
+      "word": "गम",
+      "count": 394
+    },
+    {
+      "word": "जस",
+      "count": 394
+    },
+    {
+      "word": "पस",
+      "count": 384
+    },
+    {
+      "word": "रज",
+      "count": 384
+    },
+    {
+      "word": "तवत",
+      "count": 378
+    },
+    {
+      "word": "सप",
+      "count": 374
+    },
+    {
+      "word": "रर",
+      "count": 370
+    },
+    {
+      "word": "नत",
+      "count": 369
+    },
+    {
+      "word": "कन",
+      "count": 368
+    },
+    {
+      "word": "सव",
+      "count": 368
+    },
+    {
+      "word": "पण",
+      "count": 367
+    },
+    {
+      "word": "महत",
+      "count": 365
+    },
+    {
+      "word": "गण",
+      "count": 363
+    },
+    {
+      "word": "उपन",
+      "count": 361
+    },
+    {
+      "word": "छन",
+      "count": 360
+    },
+    {
+      "word": "षद",
+      "count": 358
+    },
+    {
+      "word": "आसन",
+      "count": 358
+    },
+    {
+      "word": "शर",
+      "count": 356
+    },
+    {
+      "word": "दत",
+      "count": 351
+    },
+    {
+      "word": "आत",
+      "count": 348
+    },
+    {
+      "word": "यवस",
+      "count": 347
+    },
+    {
+      "word": "अनन",
+      "count": 345
+    },
+    {
+      "word": "मम",
+      "count": 344
+    },
+    {
+      "word": "in",
+      "count": 342
+    },
+    {
+      "word": "अकर",
+      "count": 339
+    },
+    {
+      "word": "चर",
+      "count": 336
+    },
+    {
+      "word": "गच",
+      "count": 336
+    },
+    {
+      "word": "जध",
+      "count": 334
+    },
+    {
+      "word": "जय",
+      "count": 331
+    },
+    {
+      "word": "हल",
+      "count": 329
+    },
+    {
+      "word": "उच",
+      "count": 322
+    },
+    {
+      "word": "णम",
+      "count": 319
+    },
+    {
+      "word": "अल",
+      "count": 319
+    },
+    {
+      "word": "अद",
+      "count": 318
+    },
+    {
+      "word": "कतन",
+      "count": 314
+    },
+    {
+      "word": "नप",
+      "count": 313
+    },
+    {
+      "word": "लम",
+      "count": 312
+    },
+    {
+      "word": "दम",
+      "count": 312
+    },
+    {
+      "word": "कद",
+      "count": 311
+    },
+    {
+      "word": "आद",
+      "count": 308
+    },
+    {
+      "word": "हत",
+      "count": 307
+    },
+    {
+      "word": "आश",
+      "count": 305
+    },
+    {
+      "word": "आक",
+      "count": 304
+    },
+    {
+      "word": "अव",
+      "count": 303
+    },
+    {
+      "word": "परम",
+      "count": 303
+    },
+    {
+      "word": "वश",
+      "count": 302
+    },
+    {
+      "word": "नगरम",
+      "count": 302
+    },
+    {
+      "word": "कत",
+      "count": 298
+    },
+    {
+      "word": "पम",
+      "count": 298
+    },
+    {
+      "word": "खण",
+      "count": 297
+    },
+    {
+      "word": "रमण",
+      "count": 294
+    },
+    {
+      "word": "गन",
+      "count": 292
+    },
+    {
+      "word": "दश",
+      "count": 290
+    },
+    {
+      "word": "थम",
+      "count": 288
+    },
+    {
+      "word": "एतस",
+      "count": 287
+    },
+    {
+      "word": "लव",
+      "count": 282
+    },
+    {
+      "word": "पय",
+      "count": 281
+    },
+    {
+      "word": "मय",
+      "count": 277
+    },
+    {
+      "word": "आन",
+      "count": 277
+    },
+    {
+      "word": "आङ",
+      "count": 277
+    },
+    {
+      "word": "रशस",
+      "count": 276
+    },
+    {
+      "word": "उक",
+      "count": 274
+    },
+    {
+      "word": "रसम",
+      "count": 266
+    },
+    {
+      "word": "नकम",
+      "count": 265
+    },
+    {
+      "word": "परन",
+      "count": 263
+    },
+    {
+      "word": "जम",
+      "count": 263
+    },
+    {
+      "word": "डलस",
+      "count": 261
+    },
+    {
+      "word": "णस",
+      "count": 260
+    },
+    {
+      "word": "षक",
+      "count": 260
+    },
+    {
+      "word": "चक",
+      "count": 258
+    },
+    {
+      "word": "रतम",
+      "count": 257
+    },
+    {
+      "word": "अह",
+      "count": 256
+    },
+    {
+      "word": "लभ",
+      "count": 256
+    },
+    {
+      "word": "शय",
+      "count": 255
+    },
+    {
+      "word": "अश",
+      "count": 255
+    },
+    {
+      "word": "नय",
+      "count": 254
+    },
+    {
+      "word": "गल",
+      "count": 254
+    },
+    {
+      "word": "अष",
+      "count": 252
+    },
+    {
+      "word": "डस",
+      "count": 250
+    },
+    {
+      "word": "रवर",
+      "count": 249
+    },
+    {
+      "word": "तसम",
+      "count": 248
+    },
+    {
+      "word": "सद",
+      "count": 248
+    },
+    {
+      "word": "शङ",
+      "count": 246
+    },
+    {
+      "word": "धव",
+      "count": 244
+    },
+    {
+      "word": "रग",
+      "count": 243
+    },
+    {
+      "word": "कप",
+      "count": 243
+    },
+    {
+      "word": "जल",
+      "count": 243
+    },
+    {
+      "word": "हन",
+      "count": 241
+    },
+    {
+      "word": "कक",
+      "count": 239
+    },
+    {
+      "word": "तरम",
+      "count": 239
+    },
+    {
+      "word": "हम",
+      "count": 238
+    },
+    {
+      "word": "टम",
+      "count": 237
+    },
+    {
+      "word": "आरब",
+      "count": 237
+    },
+    {
+      "word": "लघ",
+      "count": 234
+    },
+    {
+      "word": "तभ",
+      "count": 233
+    },
+    {
+      "word": "गद",
+      "count": 232
+    },
+    {
+      "word": "उल",
+      "count": 232
+    },
+    {
+      "word": "from",
+      "count": 232
+    },
+    {
+      "word": "मव",
+      "count": 231
+    },
+    {
+      "word": "बसय",
+      "count": 228
+    },
+    {
+      "word": "on",
+      "count": 226
+    },
+    {
+      "word": "रदर",
+      "count": 225
+    },
+    {
+      "word": "ससम",
+      "count": 224
+    },
+    {
+      "word": "दप",
+      "count": 223
+    },
+    {
+      "word": "रपत",
+      "count": 223
+    },
+    {
+      "word": "मल",
+      "count": 223
+    },
+    {
+      "word": "अङ",
+      "count": 221
+    },
+    {
+      "word": "उपय",
+      "count": 221
+    },
+    {
+      "word": "सञ",
+      "count": 220
+    },
+    {
+      "word": "खल",
+      "count": 216
+    },
+    {
+      "word": "लयस",
+      "count": 216
+    },
+    {
+      "word": "वतन",
+      "count": 215
+    },
+    {
+      "word": "मग",
+      "count": 212
+    },
+    {
+      "word": "धस",
+      "count": 211
+    },
+    {
+      "word": "समय",
+      "count": 209
+    },
+    {
+      "word": "शसम",
+      "count": 209
+    },
+    {
+      "word": "उप",
+      "count": 208
+    },
+    {
+      "word": "टव",
+      "count": 206
+    },
+    {
+      "word": "आय",
+      "count": 206
+    },
+    {
+      "word": "डलम",
+      "count": 206
+    },
+    {
+      "word": "वभ",
+      "count": 204
+    },
+    {
+      "word": "षम",
+      "count": 204
+    },
+    {
+      "word": "भगवत",
+      "count": 203
+    },
+    {
+      "word": "एकस",
+      "count": 202
+    },
+    {
+      "word": "थस",
+      "count": 201
+    },
+    {
+      "word": "षर",
+      "count": 200
+    },
+    {
+      "word": "ईश",
+      "count": 199
+    },
+    {
+      "word": "आगत",
+      "count": 199
+    },
+    {
+      "word": "by",
+      "count": 199
+    },
+    {
+      "word": "तल",
+      "count": 195
+    },
+    {
+      "word": "धत",
+      "count": 195
+    },
+    {
+      "word": "वज",
+      "count": 195
+    },
+    {
+      "word": "रयत",
+      "count": 193
+    },
+    {
+      "word": "यतम",
+      "count": 191
+    },
+    {
+      "word": "समर",
+      "count": 191
+    },
+    {
+      "word": "यण",
+      "count": 190
+    },
+    {
+      "word": "तश",
+      "count": 188
+    },
+    {
+      "word": "बहव",
+      "count": 188
+    },
+    {
+      "word": "तमवर",
+      "count": 187
+    },
+    {
+      "word": "एवम",
+      "count": 186
+    },
+    {
+      "word": "इव",
+      "count": 186
+    },
+    {
+      "word": "शल",
+      "count": 182
+    },
+    {
+      "word": "र-नगर",
+      "count": 181
+    },
+    {
+      "word": "जगत",
+      "count": 180
+    },
+    {
+      "word": "वसन",
+      "count": 178
+    },
+    {
+      "word": "लत",
+      "count": 178
+    },
+    {
+      "word": "उन",
+      "count": 178
+    },
+    {
+      "word": "चय",
+      "count": 176
+    },
+    {
+      "word": "शम",
+      "count": 176
+    },
+    {
+      "word": "लङ",
+      "count": 176
+    },
+    {
+      "word": "मभ",
+      "count": 175
+    },
+    {
+      "word": "टक",
+      "count": 174
+    },
+    {
+      "word": "जक",
+      "count": 173
+    },
+    {
+      "word": "रब",
+      "count": 172
+    },
+    {
+      "word": "अथव",
+      "count": 172
+    },
+    {
+      "word": "अण",
+      "count": 171
+    },
+    {
+      "word": "official",
+      "count": 171
+    },
+    {
+      "word": "at",
+      "count": 171
+    },
+    {
+      "word": "आफ",
+      "count": 170
+    },
+    {
+      "word": "यवह",
+      "count": 169
+    },
+    {
+      "word": "नमन",
+      "count": 169
+    },
+    {
+      "word": "षणम",
+      "count": 168
+    },
+    {
+      "word": "मनस",
+      "count": 167
+    },
+    {
+      "word": "सनम",
+      "count": 167
+    },
+    {
+      "word": "वयम",
+      "count": 164
+    },
+    {
+      "word": "सभ",
+      "count": 163
+    },
+    {
+      "word": "for",
+      "count": 163
+    },
+    {
+      "word": "दव",
+      "count": 162
+    },
+    {
+      "word": "खन",
+      "count": 162
+    },
+    {
+      "word": "km",
+      "count": 162
+    },
+    {
+      "word": "यग",
+      "count": 161
+    },
+    {
+      "word": "जव",
+      "count": 161
+    },
+    {
+      "word": "यच",
+      "count": 160
+    },
+    {
+      "word": "सहस",
+      "count": 159
+    },
+    {
+      "word": "खनगर",
+      "count": 159
+    },
+    {
+      "word": "धक",
+      "count": 158
+    },
+    {
+      "word": "रचन",
+      "count": 158
+    },
+    {
+      "word": "हप",
+      "count": 158
+    },
+    {
+      "word": "थक",
+      "count": 157
+    },
+    {
+      "word": "ययन",
+      "count": 157
+    },
+    {
+      "word": "खक",
+      "count": 157
+    },
+    {
+      "word": "वरस",
+      "count": 156
+    },
+    {
+      "word": "इच",
+      "count": 156
+    },
+    {
+      "word": "आह",
+      "count": 155
+    },
+    {
+      "word": "कण",
+      "count": 155
+    },
+    {
+      "word": "फल",
+      "count": 154
+    },
+    {
+      "word": "जप",
+      "count": 154
+    },
+    {
+      "word": "टन",
+      "count": 154
+    },
+    {
+      "word": "रष",
+      "count": 152
+    },
+    {
+      "word": "न-व",
+      "count": 152
+    },
+    {
+      "word": "यध",
+      "count": 150
+    },
+    {
+      "word": "गप",
+      "count": 150
+    },
+    {
+      "word": "उपर",
+      "count": 150
+    },
+    {
+      "word": "खर",
+      "count": 150
+    },
+    {
+      "word": "इण",
+      "count": 150
+    },
+    {
+      "word": "आच",
+      "count": 149
+    },
+    {
+      "word": "पव",
+      "count": 149
+    },
+    {
+      "word": "गङ",
+      "count": 149
+    },
+    {
+      "word": "चम",
+      "count": 148
+    },
+    {
+      "word": "धय",
+      "count": 148
+    },
+    {
+      "word": "वदन",
+      "count": 148
+    },
+    {
+      "word": "अपर",
+      "count": 147
+    },
+    {
+      "word": "इय",
+      "count": 147
+    },
+    {
+      "word": "रदत",
+      "count": 146
+    },
+    {
+      "word": "रतद",
+      "count": 146
+    },
+    {
+      "word": "वनस",
+      "count": 145
+    },
+    {
+      "word": "लर",
+      "count": 144
+    },
+    {
+      "word": "रल",
+      "count": 144
+    },
+    {
+      "word": "रङ",
+      "count": 143
+    },
+    {
+      "word": "णभ",
+      "count": 142
+    },
+    {
+      "word": "मङ",
+      "count": 141
+    },
+    {
+      "word": "to",
+      "count": 140
+    },
+    {
+      "word": "पठ",
+      "count": 139
+    },
+    {
+      "word": "मरण",
+      "count": 139
+    },
+    {
+      "word": "वरण",
+      "count": 138
+    },
+    {
+      "word": "णय",
+      "count": 138
+    },
+    {
+      "word": "ऽन",
+      "count": 137
+    },
+    {
+      "word": "पट",
+      "count": 137
+    },
+    {
+      "word": "बल",
+      "count": 137
+    },
+    {
+      "word": "अभवन",
+      "count": 137
+    },
+    {
+      "word": "लप",
+      "count": 136
+    },
+    {
+      "word": "आरम",
+      "count": 136
+    },
+    {
+      "word": "सल",
+      "count": 135
+    },
+    {
+      "word": "आनन",
+      "count": 134
+    },
+    {
+      "word": "जयप",
+      "count": 134
+    },
+    {
+      "word": "थन",
+      "count": 133
+    },
+    {
+      "word": "उष",
+      "count": 133
+    },
+    {
+      "word": "कट",
+      "count": 133
+    },
+    {
+      "word": "अज",
+      "count": 133
+    },
+    {
+      "word": "अथ",
+      "count": 132
+    },
+    {
+      "word": "ऋग",
+      "count": 131
+    },
+    {
+      "word": "रमस",
+      "count": 131
+    },
+    {
+      "word": "रवक",
+      "count": 131
+    },
+    {
+      "word": "शनम",
+      "count": 130
+    },
+    {
+      "word": "पष",
+      "count": 130
+    },
+    {
+      "word": "एश",
+      "count": 130
+    },
+    {
+      "word": "यल",
+      "count": 130
+    },
+    {
+      "word": "वयस",
+      "count": 130
+    },
+    {
+      "word": "अयम",
+      "count": 130
+    },
+    {
+      "word": "आव",
+      "count": 129
+    },
+    {
+      "word": "तग",
+      "count": 129
+    },
+    {
+      "word": "ब-र",
+      "count": 129
+    },
+    {
+      "word": "यनश",
+      "count": 128
+    },
+    {
+      "word": "शव",
+      "count": 128
+    },
+    {
+      "word": "णक",
+      "count": 128
+    },
+    {
+      "word": "जनस",
+      "count": 127
+    },
+    {
+      "word": "तज",
+      "count": 126
+    },
+    {
+      "word": "गव",
+      "count": 125
+    },
+    {
+      "word": "णन",
+      "count": 125
+    },
+    {
+      "word": "वनम",
+      "count": 124
+    },
+    {
+      "word": "तदनन",
+      "count": 123
+    },
+    {
+      "word": "website",
+      "count": 123
+    },
+    {
+      "word": "आकर",
+      "count": 122
+    },
+    {
+      "word": "अलङ",
+      "count": 121
+    },
+    {
+      "word": "तरप",
+      "count": 120
+    },
+    {
+      "word": "सदस",
+      "count": 120
+    },
+    {
+      "word": "णव",
+      "count": 119
+    },
+    {
+      "word": "रहस",
+      "count": 119
+    },
+    {
+      "word": "डन",
+      "count": 119
+    },
+    {
+      "word": "थलम",
+      "count": 119
+    },
+    {
+      "word": "वध",
+      "count": 118
+    },
+    {
+      "word": "षप",
+      "count": 118
+    },
+    {
+      "word": "आप",
+      "count": 118
+    },
+    {
+      "word": "वचन",
+      "count": 117
+    },
+    {
+      "word": "पयत",
+      "count": 117
+    },
+    {
+      "word": "आवश",
+      "count": 117
+    },
+    {
+      "word": "ठत",
+      "count": 116
+    },
+    {
+      "word": "लद",
+      "count": 115
+    },
+    {
+      "word": "रणम",
+      "count": 115
+    },
+    {
+      "word": "वसर",
+      "count": 115
+    },
+    {
+      "word": "com",
+      "count": 114
+    },
+    {
+      "word": "धनम",
+      "count": 113
+    },
+    {
+      "word": "नभ",
+      "count": 113
+    },
+    {
+      "word": "रथ",
+      "count": 111
+    },
+    {
+      "word": "नश",
+      "count": 111
+    },
+    {
+      "word": "अवश",
+      "count": 111
+    },
+    {
+      "word": "श-र",
+      "count": 111
+    },
+    {
+      "word": "जननम",
+      "count": 111
+    },
+    {
+      "word": "चलप",
+      "count": 111
+    },
+    {
+      "word": "वग",
+      "count": 110
+    },
+    {
+      "word": "एतद",
+      "count": 110
+    },
+    {
+      "word": "कय",
+      "count": 110
+    },
+    {
+      "word": "णत",
+      "count": 110
+    },
+    {
+      "word": "कतत",
+      "count": 110
+    },
+    {
+      "word": "खत",
+      "count": 110
+    },
+    {
+      "word": "सरस",
+      "count": 110
+    },
+    {
+      "word": "एल",
+      "count": 110
+    },
+    {
+      "word": "परस",
+      "count": 108
+    },
+    {
+      "word": "इम",
+      "count": 107
+    },
+    {
+      "word": "धभ",
+      "count": 107
+    },
+    {
+      "word": "तरभ",
+      "count": 107
+    },
+    {
+      "word": "दयस",
+      "count": 107
+    },
+    {
+      "word": "अवदत",
+      "count": 107
+    },
+    {
+      "word": "महर",
+      "count": 106
+    },
+    {
+      "word": "कभ",
+      "count": 106
+    },
+    {
+      "word": "एस",
+      "count": 106
+    },
+    {
+      "word": "वङ",
+      "count": 106
+    },
+    {
+      "word": "करणम",
+      "count": 105
+    },
+    {
+      "word": "रसङ",
+      "count": 105
+    },
+    {
+      "word": "पल",
+      "count": 104
+    },
+    {
+      "word": "आचर",
+      "count": 104
+    },
+    {
+      "word": "यटनस",
+      "count": 104
+    },
+    {
+      "word": "यञ",
+      "count": 103
+    },
+    {
+      "word": "वदत",
+      "count": 103
+    },
+    {
+      "word": "शतक",
+      "count": 103
+    },
+    {
+      "word": "state",
+      "count": 103
+    },
+    {
+      "word": "भगव",
+      "count": 102
+    },
+    {
+      "word": "षष",
+      "count": 102
+    },
+    {
+      "word": "एन",
+      "count": 102
+    },
+    {
+      "word": "टरम",
+      "count": 102
+    },
+    {
+      "word": "दद",
+      "count": 101
+    },
+    {
+      "word": "यकत",
+      "count": 101
+    },
+    {
+      "word": "with",
+      "count": 101
+    },
+    {
+      "word": "government",
+      "count": 101
+    },
+    {
+      "word": "वच",
+      "count": 100
+    },
+    {
+      "word": "णद",
+      "count": 100
+    },
+    {
+      "word": "गश",
+      "count": 100
+    },
+    {
+      "word": "आग",
+      "count": 100
+    },
+    {
+      "word": "ननगर",
+      "count": 100
+    },
+    {
+      "word": "मश",
+      "count": 99
+    },
+    {
+      "word": "समस",
+      "count": 99
+    },
+    {
+      "word": "य-स",
+      "count": 99
+    },
+    {
+      "word": "site",
+      "count": 99
+    },
+    {
+      "word": "तनम",
+      "count": 97
+    },
+    {
+      "word": "यमन",
+      "count": 97
+    },
+    {
+      "word": "डव",
+      "count": 97
+    },
+    {
+      "word": "आगच",
+      "count": 97
+    },
+    {
+      "word": "information",
+      "count": 97
+    },
+    {
+      "word": "बर-म",
+      "count": 97
+    },
+    {
+      "word": "इदम",
+      "count": 96
+    },
+    {
+      "word": "थव",
+      "count": 96
+    },
+    {
+      "word": "ऐत",
+      "count": 96
+    },
+    {
+      "word": "ययम",
+      "count": 96
+    },
+    {
+      "word": "झर",
+      "count": 96
+    },
+    {
+      "word": "मज",
+      "count": 95
+    },
+    {
+      "word": "तच",
+      "count": 95
+    },
+    {
+      "word": "यसङ",
+      "count": 95
+    },
+    {
+      "word": "षणस",
+      "count": 95
+    },
+    {
+      "word": "उपद",
+      "count": 94
+    },
+    {
+      "word": "गय",
+      "count": 94
+    },
+    {
+      "word": "लग",
+      "count": 94
+    },
+    {
+      "word": "डर",
+      "count": 94
+    },
+    {
+      "word": "भगवद",
+      "count": 93
+    },
+    {
+      "word": "टस",
+      "count": 93
+    },
+    {
+      "word": "बङ",
+      "count": 93
+    },
+    {
+      "word": "वह",
+      "count": 92
+    },
+    {
+      "word": "वण",
+      "count": 92
+    },
+    {
+      "word": "मशकटम",
+      "count": 92
+    },
+    {
+      "word": "रळ-र",
+      "count": 92
+    },
+    {
+      "word": "थय",
+      "count": 91
+    },
+    {
+      "word": "जत",
+      "count": 91
+    },
+    {
+      "word": "हरण",
+      "count": 91
+    },
+    {
+      "word": "घटन",
+      "count": 91
+    },
+    {
+      "word": "सरलतय",
+      "count": 91
+    },
+    {
+      "word": "आल",
+      "count": 90
+    },
+    {
+      "word": "टल",
+      "count": 90
+    },
+    {
+      "word": "यमस",
+      "count": 90
+    },
+    {
+      "word": "सरद",
+      "count": 90
+    },
+    {
+      "word": "चण",
+      "count": 89
+    },
+    {
+      "word": "अब",
+      "count": 89
+    },
+    {
+      "word": "biography",
+      "count": 89
+    },
+    {
+      "word": "भद",
+      "count": 89
+    },
+    {
+      "word": "र-र",
+      "count": 89
+    },
+    {
+      "word": "जनम",
+      "count": 88
+    },
+    {
+      "word": "यकर",
+      "count": 88
+    },
+    {
+      "word": "घट",
+      "count": 88
+    },
+    {
+      "word": "जनसङ",
+      "count": 87
+    },
+    {
+      "word": "नवम",
+      "count": 87
+    },
+    {
+      "word": "बई-मह",
+      "count": 87
+    },
+    {
+      "word": "करणस",
+      "count": 86
+    },
+    {
+      "word": "आज",
+      "count": 86
+    },
+    {
+      "word": "नल",
+      "count": 85
+    },
+    {
+      "word": "रणत",
+      "count": 85
+    },
+    {
+      "word": "कच",
+      "count": 85
+    },
+    {
+      "word": "history",
+      "count": 85
+    },
+    {
+      "word": "http",
+      "count": 85
+    },
+    {
+      "word": "धयत",
+      "count": 84
+    },
+    {
+      "word": "नमस",
+      "count": 84
+    },
+    {
+      "word": "शनस",
+      "count": 84
+    },
+    {
+      "word": "षन",
+      "count": 84
+    },
+    {
+      "word": "खम",
+      "count": 84
+    },
+    {
+      "word": "अगच",
+      "count": 84
+    },
+    {
+      "word": "new",
+      "count": 84
+    },
+    {
+      "word": "भग",
+      "count": 83
+    },
+    {
+      "word": "एम",
+      "count": 83
+    },
+    {
+      "word": "नचन",
+      "count": 83
+    },
+    {
+      "word": "समग",
+      "count": 82
+    },
+    {
+      "word": "कज",
+      "count": 82
+    },
+    {
+      "word": "गतव",
+      "count": 82
+    },
+    {
+      "word": "जयत",
+      "count": 81
+    },
+    {
+      "word": "रहण",
+      "count": 81
+    },
+    {
+      "word": "षपर",
+      "count": 81
+    },
+    {
+      "word": "रकल",
+      "count": 81
+    },
+    {
+      "word": "बस",
+      "count": 81
+    },
+    {
+      "word": "www",
+      "count": 81
+    },
+    {
+      "word": "गदर",
+      "count": 81
+    },
+    {
+      "word": "डम",
+      "count": 80
+    },
+    {
+      "word": "भर",
+      "count": 80
+    },
+    {
+      "word": "india",
+      "count": 80
+    },
+    {
+      "word": "वसत",
+      "count": 80
+    },
+    {
+      "word": "षयत",
+      "count": 79
+    },
+    {
+      "word": "लनस",
+      "count": 79
+    },
+    {
+      "word": "गज",
+      "count": 79
+    },
+    {
+      "word": "अथर",
+      "count": 78
+    },
+    {
+      "word": "रख",
+      "count": 78
+    },
+    {
+      "word": "लश",
+      "count": 78
+    },
+    {
+      "word": "णप",
+      "count": 78
+    },
+    {
+      "word": "उपसर",
+      "count": 78
+    },
+    {
+      "word": "एकत",
+      "count": 77
+    },
+    {
+      "word": "यब",
+      "count": 77
+    },
+    {
+      "word": "अच",
+      "count": 77
+    },
+    {
+      "word": "भय",
+      "count": 77
+    },
+    {
+      "word": "तरद",
+      "count": 77
+    },
+    {
+      "word": "द-नगर",
+      "count": 77
+    },
+    {
+      "word": "अवक",
+      "count": 77
+    },
+    {
+      "word": "लब",
+      "count": 76
+    },
+    {
+      "word": "मञ",
+      "count": 76
+    },
+    {
+      "word": "जग",
+      "count": 76
+    },
+    {
+      "word": "उपस",
+      "count": 76
+    },
+    {
+      "word": "news",
+      "count": 76
+    },
+    {
+      "word": "library",
+      "count": 76
+    },
+    {
+      "word": "रमप",
+      "count": 75
+    },
+    {
+      "word": "वतश",
+      "count": 75
+    },
+    {
+      "word": "हव",
+      "count": 75
+    },
+    {
+      "word": "असम-र",
+      "count": 75
+    },
+    {
+      "word": "तरस",
+      "count": 74
+    },
+    {
+      "word": "यतमम",
+      "count": 74
+    },
+    {
+      "word": "शश",
+      "count": 74
+    },
+    {
+      "word": "षड",
+      "count": 74
+    },
+    {
+      "word": "रपर",
+      "count": 74
+    },
+    {
+      "word": "ड-र",
+      "count": 74
+    },
+    {
+      "word": "रफ",
+      "count": 74
+    },
+    {
+      "word": "पठन",
+      "count": 73
+    },
+    {
+      "word": "तट",
+      "count": 73
+    },
+    {
+      "word": "यपर",
+      "count": 73
+    },
+    {
+      "word": "शच",
+      "count": 73
+    },
+    {
+      "word": "इङ",
+      "count": 73
+    },
+    {
+      "word": "गभ",
+      "count": 73
+    },
+    {
+      "word": "ऋष",
+      "count": 73
+    },
+    {
+      "word": "मरणम",
+      "count": 73
+    },
+    {
+      "word": "फर",
+      "count": 73
+    },
+    {
+      "word": "वनन",
+      "count": 72
+    },
+    {
+      "word": "वरणम",
+      "count": 72
+    },
+    {
+      "word": "कतय",
+      "count": 72
+    },
+    {
+      "word": "चव",
+      "count": 72
+    },
+    {
+      "word": "एकम",
+      "count": 72
+    },
+    {
+      "word": "world",
+      "count": 72
+    },
+    {
+      "word": "गळ",
+      "count": 72
+    },
+    {
+      "word": "धप",
+      "count": 71
+    },
+    {
+      "word": "ईस",
+      "count": 71
+    },
+    {
+      "word": "उज",
+      "count": 71
+    },
+    {
+      "word": "लयत",
+      "count": 71
+    },
+    {
+      "word": "शद",
+      "count": 70
+    },
+    {
+      "word": "नसम",
+      "count": 70
+    },
+    {
+      "word": "गमन",
+      "count": 70
+    },
+    {
+      "word": "सपर",
+      "count": 70
+    },
+    {
+      "word": "जलप",
+      "count": 70
+    },
+    {
+      "word": "ठम",
+      "count": 69
+    },
+    {
+      "word": "थश",
+      "count": 69
+    },
+    {
+      "word": "about",
+      "count": 69
+    },
+    {
+      "word": "धनस",
+      "count": 69
+    },
+    {
+      "word": "यतय",
+      "count": 68
+    },
+    {
+      "word": "ठस",
+      "count": 68
+    },
+    {
+      "word": "पथ",
+      "count": 68
+    },
+    {
+      "word": "दण",
+      "count": 68
+    },
+    {
+      "word": "यपद",
+      "count": 68
+    },
+    {
+      "word": "भज",
+      "count": 68
+    },
+    {
+      "word": "जनज",
+      "count": 68
+    },
+    {
+      "word": "सनस",
+      "count": 67
+    },
+    {
+      "word": "तनस",
+      "count": 67
+    },
+    {
+      "word": "एकद",
+      "count": 67
+    },
+    {
+      "word": "टकय",
+      "count": 67
+    },
+    {
+      "word": "जनवर",
+      "count": 66
+    },
+    {
+      "word": "पदव",
+      "count": 66
+    },
+    {
+      "word": "करस",
+      "count": 66
+    },
+    {
+      "word": "इट",
+      "count": 66
+    },
+    {
+      "word": "लनम",
+      "count": 65
+    },
+    {
+      "word": "ओड",
+      "count": 65
+    },
+    {
+      "word": "उर",
+      "count": 65
+    },
+    {
+      "word": "अफ",
+      "count": 65
+    },
+    {
+      "word": "org",
+      "count": 65
+    },
+    {
+      "word": "जलव",
+      "count": 65
+    },
+    {
+      "word": "ग-नगर",
+      "count": 65
+    },
+    {
+      "word": "धधर",
+      "count": 64
+    },
+    {
+      "word": "ऽभ",
+      "count": 64
+    },
+    {
+      "word": "जयन",
+      "count": 64
+    },
+    {
+      "word": "यङ",
+      "count": 64
+    },
+    {
+      "word": "इल",
+      "count": 64
+    },
+    {
+      "word": "ऑफ",
+      "count": 64
+    },
+    {
+      "word": "university",
+      "count": 64
+    },
+    {
+      "word": "ल-नगर",
+      "count": 64
+    },
+    {
+      "word": "यदर",
+      "count": 63
+    },
+    {
+      "word": "रगत",
+      "count": 63
+    },
+    {
+      "word": "नष",
+      "count": 62
+    },
+    {
+      "word": "तदर",
+      "count": 62
+    },
+    {
+      "word": "दयत",
+      "count": 62
+    },
+    {
+      "word": "पयन",
+      "count": 62
+    },
+    {
+      "word": "जगद",
+      "count": 62
+    },
+    {
+      "word": "सय",
+      "count": 62
+    },
+    {
+      "word": "एकव",
+      "count": 62
+    },
+    {
+      "word": "ऽय",
+      "count": 61
+    },
+    {
+      "word": "रबन",
+      "count": 61
+    },
+    {
+      "word": "रञ",
+      "count": 61
+    },
+    {
+      "word": "गक",
+      "count": 61
+    },
+    {
+      "word": "यणस",
+      "count": 61
+    },
+    {
+      "word": "यनय",
+      "count": 61
+    },
+    {
+      "word": "औरङ",
+      "count": 61
+    },
+    {
+      "word": "रहम",
+      "count": 60
+    },
+    {
+      "word": "हद",
+      "count": 60
+    },
+    {
+      "word": "जनन",
+      "count": 60
+    },
+    {
+      "word": "षव",
+      "count": 60
+    },
+    {
+      "word": "कष",
+      "count": 60
+    },
+    {
+      "word": "उपव",
+      "count": 60
+    },
+    {
+      "word": "र-नगरस",
+      "count": 60
+    },
+    {
+      "word": "वजन",
+      "count": 59
+    },
+    {
+      "word": "ऽध",
+      "count": 59
+    },
+    {
+      "word": "अहम",
+      "count": 59
+    },
+    {
+      "word": "अवर",
+      "count": 59
+    },
+    {
+      "word": "profile",
+      "count": 59
+    },
+    {
+      "word": "इष",
+      "count": 59
+    },
+    {
+      "word": "अहमद",
+      "count": 59
+    },
+    {
+      "word": "आचरन",
+      "count": 59
+    },
+    {
+      "word": "tourism",
+      "count": 59
+    },
+    {
+      "word": "वनव",
+      "count": 59
+    },
+    {
+      "word": "मतम",
+      "count": 58
+    },
+    {
+      "word": "कथयत",
+      "count": 58
+    },
+    {
+      "word": "अमर",
+      "count": 58
+    },
+    {
+      "word": "national",
+      "count": 58
+    },
+    {
+      "word": "portal",
+      "count": 58
+    },
+    {
+      "word": "इस",
+      "count": 57
+    },
+    {
+      "word": "रतसर",
+      "count": 57
+    },
+    {
+      "word": "कसभ",
+      "count": 57
+    },
+    {
+      "word": "वयन",
+      "count": 57
+    },
+    {
+      "word": "शप",
+      "count": 57
+    },
+    {
+      "word": "nobel",
+      "count": 57
+    },
+    {
+      "word": "तदन",
+      "count": 56
+    },
+    {
+      "word": "रयन",
+      "count": 56
+    },
+    {
+      "word": "अनय",
+      "count": 56
+    },
+    {
+      "word": "रचल",
+      "count": 56
+    },
+    {
+      "word": "घस",
+      "count": 56
+    },
+    {
+      "word": "अयच",
+      "count": 56
+    },
+    {
+      "word": "चस",
+      "count": 56
+    },
+    {
+      "word": "सच",
+      "count": 56
+    },
+    {
+      "word": "मवङ",
+      "count": 56
+    },
+    {
+      "word": "अवसर",
+      "count": 56
+    },
+    {
+      "word": "षश",
+      "count": 55
+    },
+    {
+      "word": "भस",
+      "count": 55
+    },
+    {
+      "word": "पदस",
+      "count": 55
+    },
+    {
+      "word": "कठ",
+      "count": 55
+    },
+    {
+      "word": "शयत",
+      "count": 55
+    },
+    {
+      "word": "नग",
+      "count": 55
+    },
+    {
+      "word": "बई",
+      "count": 55
+    },
+    {
+      "word": "सज",
+      "count": 55
+    },
+    {
+      "word": "कग",
+      "count": 55
+    },
+    {
+      "word": "औद",
+      "count": 55
+    },
+    {
+      "word": "दल",
+      "count": 55
+    },
+    {
+      "word": "online",
+      "count": 55
+    },
+    {
+      "word": "isbn",
+      "count": 55
+    },
+    {
+      "word": "दवक",
+      "count": 55
+    },
+    {
+      "word": "वलम",
+      "count": 54
+    },
+    {
+      "word": "यमप",
+      "count": 54
+    },
+    {
+      "word": "बत",
+      "count": 54
+    },
+    {
+      "word": "महम",
+      "count": 54
+    },
+    {
+      "word": "आम",
+      "count": 54
+    },
+    {
+      "word": "इक",
+      "count": 54
+    },
+    {
+      "word": "डक",
+      "count": 54
+    },
+    {
+      "word": "science",
+      "count": 54
+    },
+    {
+      "word": "बच",
+      "count": 54
+    },
+    {
+      "word": "दभ",
+      "count": 53
+    },
+    {
+      "word": "कब",
+      "count": 53
+    },
+    {
+      "word": "थर",
+      "count": 53
+    },
+    {
+      "word": "यसभ",
+      "count": 53
+    },
+    {
+      "word": "अगस",
+      "count": 53
+    },
+    {
+      "word": "नतम",
+      "count": 53
+    },
+    {
+      "word": "रचलन",
+      "count": 53
+    },
+    {
+      "word": "ऋत",
+      "count": 53
+    },
+    {
+      "word": "रतय",
+      "count": 53
+    },
+    {
+      "word": "षट",
+      "count": 53
+    },
+    {
+      "word": "resources",
+      "count": 53
+    },
+    {
+      "word": "लज",
+      "count": 53
+    },
+    {
+      "word": "लय-र",
+      "count": 53
+    },
+    {
+      "word": "लल",
+      "count": 52
+    },
+    {
+      "word": "टय",
+      "count": 52
+    },
+    {
+      "word": "तवर",
+      "count": 52
+    },
+    {
+      "word": "हतप",
+      "count": 52
+    },
+    {
+      "word": "दनम",
+      "count": 52
+    },
+    {
+      "word": "links",
+      "count": 52
+    },
+    {
+      "word": "मकस",
+      "count": 52
+    },
+    {
+      "word": "department",
+      "count": 52
+    },
+    {
+      "word": "मकर",
+      "count": 51
+    },
+    {
+      "word": "उपलभ",
+      "count": 51
+    },
+    {
+      "word": "कसम",
+      "count": 51
+    },
+    {
+      "word": "अवध",
+      "count": 51
+    },
+    {
+      "word": "कथयन",
+      "count": 51
+    },
+    {
+      "word": "षणक",
+      "count": 51
+    },
+    {
+      "word": "असम",
+      "count": 51
+    },
+    {
+      "word": "पखण",
+      "count": 51
+    },
+    {
+      "word": "फत",
+      "count": 51
+    },
+    {
+      "word": "दध",
+      "count": 50
+    },
+    {
+      "word": "तमप",
+      "count": 50
+    },
+    {
+      "word": "वमप",
+      "count": 50
+    },
+    {
+      "word": "खस",
+      "count": 50
+    },
+    {
+      "word": "पदम",
+      "count": 50
+    },
+    {
+      "word": "ञवल",
+      "count": 50
+    },
+    {
+      "word": "मचन",
+      "count": 50
+    },
+    {
+      "word": "ळम",
+      "count": 50
+    },
+    {
+      "word": "अरब",
+      "count": 50
+    },
+    {
+      "word": "चल",
+      "count": 50
+    },
+    {
+      "word": "अभय",
+      "count": 50
+    },
+    {
+      "word": "नह",
+      "count": 49
+    },
+    {
+      "word": "रकर",
+      "count": 49
+    },
+    {
+      "word": "मसम",
+      "count": 49
+    },
+    {
+      "word": "कञ",
+      "count": 49
+    },
+    {
+      "word": "लण",
+      "count": 49
+    },
+    {
+      "word": "यवन",
+      "count": 49
+    },
+    {
+      "word": "मचर",
+      "count": 49
+    },
+    {
+      "word": "तमन",
+      "count": 49
+    },
+    {
+      "word": "english",
+      "count": 49
+    },
+    {
+      "word": "दशवर",
+      "count": 49
+    },
+    {
+      "word": "ततश",
+      "count": 48
+    },
+    {
+      "word": "रमन",
+      "count": 48
+    },
+    {
+      "word": "बभ",
+      "count": 48
+    },
+    {
+      "word": "घर",
+      "count": 48
+    },
+    {
+      "word": "कथन",
+      "count": 48
+    },
+    {
+      "word": "चनम",
+      "count": 48
+    },
+    {
+      "word": "आरभ",
+      "count": 48
+    },
+    {
+      "word": "ठश",
+      "count": 48
+    },
+    {
+      "word": "शतम",
+      "count": 48
+    },
+    {
+      "word": "ऊर",
+      "count": 48
+    },
+    {
+      "word": "पप",
+      "count": 48
+    },
+    {
+      "word": "रवहत",
+      "count": 48
+    },
+    {
+      "word": "जनप",
+      "count": 48
+    },
+    {
+      "word": "अरण",
+      "count": 48
+    },
+    {
+      "word": "मच",
+      "count": 47
+    },
+    {
+      "word": "तपस",
+      "count": 47
+    },
+    {
+      "word": "थलस",
+      "count": 47
+    },
+    {
+      "word": "रमह",
+      "count": 47
+    },
+    {
+      "word": "गणन",
+      "count": 47
+    },
+    {
+      "word": "आभ",
+      "count": 47
+    },
+    {
+      "word": "आहत",
+      "count": 47
+    },
+    {
+      "word": "पटन",
+      "count": 47
+    },
+    {
+      "word": "बई-नगर",
+      "count": 47
+    },
+    {
+      "word": "तमम",
+      "count": 46
+    },
+    {
+      "word": "रवण",
+      "count": 46
+    },
+    {
+      "word": "दग",
+      "count": 46
+    },
+    {
+      "word": "वथ",
+      "count": 46
+    },
+    {
+      "word": "एतय",
+      "count": 46
+    },
+    {
+      "word": "रथमव",
+      "count": 46
+    },
+    {
+      "word": "यवर",
+      "count": 46
+    },
+    {
+      "word": "थग",
+      "count": 46
+    },
+    {
+      "word": "इयम",
+      "count": 46
+    },
+    {
+      "word": "कपर",
+      "count": 46
+    },
+    {
+      "word": "रचलत",
+      "count": 46
+    },
+    {
+      "word": "गपत",
+      "count": 46
+    },
+    {
+      "word": "life",
+      "count": 46
+    },
+    {
+      "word": "खग",
+      "count": 46
+    },
+    {
+      "word": "न-द",
+      "count": 46
+    },
+    {
+      "word": "an",
+      "count": 46
+    },
+    {
+      "word": "institute",
+      "count": 46
+    },
+    {
+      "word": "जबलप",
+      "count": 46
+    },
+    {
+      "word": "रपञ",
+      "count": 45
+    },
+    {
+      "word": "वहन",
+      "count": 45
+    },
+    {
+      "word": "यकम",
+      "count": 45
+    },
+    {
+      "word": "सनक",
+      "count": 45
+    },
+    {
+      "word": "खद",
+      "count": 45
+    },
+    {
+      "word": "उण",
+      "count": 45
+    },
+    {
+      "word": "हनस",
+      "count": 45
+    },
+    {
+      "word": "षरत",
+      "count": 45
+    },
+    {
+      "word": "न-नगर",
+      "count": 45
+    },
+    {
+      "word": "interview",
+      "count": 45
+    },
+    {
+      "word": "वमन",
+      "count": 44
+    },
+    {
+      "word": "कवय",
+      "count": 44
+    },
+    {
+      "word": "सग",
+      "count": 44
+    },
+    {
+      "word": "नवस",
+      "count": 44
+    },
+    {
+      "word": "पतञ",
+      "count": 44
+    },
+    {
+      "word": "ठक",
+      "count": 44
+    },
+    {
+      "word": "ठभ",
+      "count": 44
+    },
+    {
+      "word": "भट",
+      "count": 44
+    },
+    {
+      "word": "यजन",
+      "count": 44
+    },
+    {
+      "word": "is",
+      "count": 44
+    },
+    {
+      "word": "travel",
+      "count": 44
+    },
+    {
+      "word": "guide",
+      "count": 44
+    },
+    {
+      "word": "चरण",
+      "count": 44
+    },
+    {
+      "word": "article",
+      "count": 44
+    },
+    {
+      "word": "रपद",
+      "count": 43
+    },
+    {
+      "word": "समन",
+      "count": 43
+    },
+    {
+      "word": "थप",
+      "count": 43
+    },
+    {
+      "word": "हनम",
+      "count": 43
+    },
+    {
+      "word": "ञय",
+      "count": 43
+    },
+    {
+      "word": "अवल",
+      "count": 43
+    },
+    {
+      "word": "चयत",
+      "count": 43
+    },
+    {
+      "word": "इर",
+      "count": 43
+    },
+    {
+      "word": "मरत",
+      "count": 43
+    },
+    {
+      "word": "नड",
+      "count": 43
+    },
+    {
+      "word": "आदर",
+      "count": 43
+    },
+    {
+      "word": "sri",
+      "count": 43
+    },
+    {
+      "word": "औन",
+      "count": 43
+    },
+    {
+      "word": "जनत",
+      "count": 43
+    },
+    {
+      "word": "office",
+      "count": 43
+    },
+    {
+      "word": "रसन",
+      "count": 42
+    },
+    {
+      "word": "करणश",
+      "count": 42
+    },
+    {
+      "word": "थठ",
+      "count": 42
+    },
+    {
+      "word": "ऽभवत",
+      "count": 42
+    },
+    {
+      "word": "यह",
+      "count": 42
+    },
+    {
+      "word": "हक",
+      "count": 42
+    },
+    {
+      "word": "other",
+      "count": 42
+    },
+    {
+      "word": "डप",
+      "count": 42
+    },
+    {
+      "word": "physics",
+      "count": 42
+    },
+    {
+      "word": "कह",
+      "count": 42
+    },
+    {
+      "word": "मणस",
+      "count": 41
+    },
+    {
+      "word": "टप",
+      "count": 41
+    },
+    {
+      "word": "ठन",
+      "count": 41
+    },
+    {
+      "word": "पज",
+      "count": 41
+    },
+    {
+      "word": "सकल",
+      "count": 41
+    },
+    {
+      "word": "ऽत",
+      "count": 41
+    },
+    {
+      "word": "तयत",
+      "count": 41
+    },
+    {
+      "word": "लपर",
+      "count": 41
+    },
+    {
+      "word": "तयन",
+      "count": 41
+    },
+    {
+      "word": "यरत",
+      "count": 41
+    },
+    {
+      "word": "यकल",
+      "count": 41
+    },
+    {
+      "word": "चयन",
+      "count": 41
+    },
+    {
+      "word": "scientific",
+      "count": 41
+    },
+    {
+      "word": "अधस",
+      "count": 41
+    },
+    {
+      "word": "energy",
+      "count": 41
+    },
+    {
+      "word": "गवत",
+      "count": 40
+    },
+    {
+      "word": "वब",
+      "count": 40
+    },
+    {
+      "word": "वञ",
+      "count": 40
+    },
+    {
+      "word": "वहत",
+      "count": 40
+    },
+    {
+      "word": "उभ",
+      "count": 40
+    },
+    {
+      "word": "वधर",
+      "count": 40
+    },
+    {
+      "word": "असमर",
+      "count": 40
+    },
+    {
+      "word": "गतम",
+      "count": 40
+    },
+    {
+      "word": "नच",
+      "count": 40
+    },
+    {
+      "word": "रमत",
+      "count": 40
+    },
+    {
+      "word": "जश",
+      "count": 40
+    },
+    {
+      "word": "यनस",
+      "count": 40
+    },
+    {
+      "word": "डश",
+      "count": 40
+    },
+    {
+      "word": "सश",
+      "count": 40
+    },
+    {
+      "word": "जह",
+      "count": 40
+    },
+    {
+      "word": "एतन",
+      "count": 40
+    },
+    {
+      "word": "मलय",
+      "count": 40
+    },
+    {
+      "word": "american",
+      "count": 40
+    },
+    {
+      "word": "his",
+      "count": 40
+    },
+    {
+      "word": "यमत",
+      "count": 39
+    },
+    {
+      "word": "वसम",
+      "count": 39
+    },
+    {
+      "word": "महद",
+      "count": 39
+    },
+    {
+      "word": "मदनम",
+      "count": 39
+    },
+    {
+      "word": "तञ",
+      "count": 39
+    },
+    {
+      "word": "तरक",
+      "count": 39
+    },
+    {
+      "word": "दशम",
+      "count": 39
+    },
+    {
+      "word": "यसर",
+      "count": 39
+    },
+    {
+      "word": "धयन",
+      "count": 39
+    },
+    {
+      "word": "णश",
+      "count": 39
+    },
+    {
+      "word": "मनम",
+      "count": 39
+    },
+    {
+      "word": "जयस",
+      "count": 39
+    },
+    {
+      "word": "united",
+      "count": 39
+    },
+    {
+      "word": "टकस",
+      "count": 39
+    },
+    {
+      "word": "पनम",
+      "count": 39
+    },
+    {
+      "word": "रड",
+      "count": 39
+    },
+    {
+      "word": "रजन",
+      "count": 39
+    },
+    {
+      "word": "रघ",
+      "count": 39
+    },
+    {
+      "word": "पलभ",
+      "count": 38
+    },
+    {
+      "word": "हण",
+      "count": 38
+    },
+    {
+      "word": "उभय",
+      "count": 38
+    },
+    {
+      "word": "रणस",
+      "count": 38
+    },
+    {
+      "word": "रथमम",
+      "count": 38
+    },
+    {
+      "word": "मथ",
+      "count": 38
+    },
+    {
+      "word": "ववर",
+      "count": 38
+    },
+    {
+      "word": "पलब",
+      "count": 38
+    },
+    {
+      "word": "सख",
+      "count": 38
+    },
+    {
+      "word": "दयन",
+      "count": 38
+    },
+    {
+      "word": "अट",
+      "count": 38
+    },
+    {
+      "word": "अखण",
+      "count": 38
+    },
+    {
+      "word": "external",
+      "count": 38
+    },
+    {
+      "word": "शयन",
+      "count": 38
+    },
+    {
+      "word": "घन",
+      "count": 38
+    },
+    {
+      "word": "णयज",
+      "count": 38
+    },
+    {
+      "word": "धनक",
+      "count": 38
+    },
+    {
+      "word": "ऽर",
+      "count": 37
+    },
+    {
+      "word": "रतट",
+      "count": 37
+    },
+    {
+      "word": "धरत",
+      "count": 37
+    },
+    {
+      "word": "नसभ",
+      "count": 37
+    },
+    {
+      "word": "वतप",
+      "count": 37
+    },
+    {
+      "word": "रकट",
+      "count": 37
+    },
+    {
+      "word": "वरम",
+      "count": 37
+    },
+    {
+      "word": "टतय",
+      "count": 37
+    },
+    {
+      "word": "नट",
+      "count": 37
+    },
+    {
+      "word": "जनक",
+      "count": 37
+    },
+    {
+      "word": "आसक",
+      "count": 37
+    },
+    {
+      "word": "digital",
+      "count": 37
+    },
+    {
+      "word": "तनक",
+      "count": 37
+    },
+    {
+      "word": "शचन",
+      "count": 37
+    },
+    {
+      "word": "र-मण",
+      "count": 37
+    },
+    {
+      "word": "जयलक",
+      "count": 37
+    },
+    {
+      "word": "थत",
+      "count": 36
+    },
+    {
+      "word": "षयस",
+      "count": 36
+    },
+    {
+      "word": "ठय",
+      "count": 36
+    },
+    {
+      "word": "हरल",
+      "count": 36
+    },
+    {
+      "word": "यशस",
+      "count": 36
+    },
+    {
+      "word": "उपम",
+      "count": 36
+    },
+    {
+      "word": "दमन",
+      "count": 36
+    },
+    {
+      "word": "states",
+      "count": 36
+    },
+    {
+      "word": "republic",
+      "count": 36
+    },
+    {
+      "word": "णकट",
+      "count": 36
+    },
+    {
+      "word": "रत-द",
+      "count": 36
+    },
+    {
+      "word": "अवस",
+      "count": 35
+    },
+    {
+      "word": "दनस",
+      "count": 35
+    },
+    {
+      "word": "षभ",
+      "count": 35
+    },
+    {
+      "word": "जगन",
+      "count": 35
+    },
+    {
+      "word": "ञस",
+      "count": 35
+    },
+    {
+      "word": "हरणम",
+      "count": 35
+    },
+    {
+      "word": "भरत",
+      "count": 35
+    },
+    {
+      "word": "यभट",
+      "count": 35
+    },
+    {
+      "word": "ऽऽस",
+      "count": 35
+    },
+    {
+      "word": "रमश",
+      "count": 35
+    },
+    {
+      "word": "रबल",
+      "count": 35
+    },
+    {
+      "word": "समक",
+      "count": 35
+    },
+    {
+      "word": "यणम",
+      "count": 35
+    },
+    {
+      "word": "बरम",
+      "count": 35
+    },
+    {
+      "word": "मठ",
+      "count": 35
+    },
+    {
+      "word": "bbc",
+      "count": 35
+    },
+    {
+      "word": "फरवर",
+      "count": 35
+    },
+    {
+      "word": "मब",
+      "count": 34
+    },
+    {
+      "word": "बध",
+      "count": 34
+    },
+    {
+      "word": "मकम",
+      "count": 34
+    },
+    {
+      "word": "पकल",
+      "count": 34
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# Afrikaans grammar
+
+- **Word order**: V2 in main clauses and verb-final in subordinate clauses, inherited from Dutch. Particles, auxiliaries, and participles cluster at clause end, often in long strings (*… dat hy die boek gelees het*).
+- **Morphology**: Strongly analytic — the most isolating of the Germanic languages. Verbs have no person/number agreement and no distinct past-tense inflection: present and past use the same form, with past marked periphrastically by *het* + past participle (often just *ge-* + stem: *het gewerk, het geloop*). Only a handful of irregulars preserve a simple past: *was* ('was'), *had* ('had'), *kon* ('could'), *wou* ('wanted'), *moes* ('had to'), *sou* ('would').
+- **Nouns**: No grammatical gender and no case. Plurals in `-e` (*honde, huise*) or `-s` (*appels, outo's*); a handful add `-ers` (*kind → kinders*). Diminutive `-tjie`/`-jie`/`-kie`/`-ie` (*boompie, bietjie, kindjie*).
+- **Verbs**: Infinitive and present forms are identical. Copula *is* (present) / *was* (past) is invariable across all persons. Passive with *word* (dynamic) or *is* (stative) + past participle. Modals *kan, sal, moet, wil, mag* take a bare infinitive.
+- **Phonology**: About 20 consonants and 15 vowels. Distinctive velar/uvular fricative /x/ (spelled *g*), nasalisation of vowels before *ns* (*mens* /mẽs/), and retained Dutch diphthongs /əi/ (*y*), /œy/ (*ui*), /œu/ (*ou*).
+- **Syntax**: Obligatory double negation *nie … nie* in almost every negated clause (*Ek weet nie waar hy is nie*). Non-pro-drop; copula always overt. Definite article *die*, indefinite *'n*. Relative pronoun *wat* covers both animate and inanimate, person and thing.

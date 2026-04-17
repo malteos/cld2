@@ -1,0 +1,3592 @@
+{
+  "code": "aeb",
+  "name": "Tunisian Arabic",
+  "script": "Arab",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 2140,
+  "unique_tokens": 895,
+  "words": [
+    {
+      "word": "ou",
+      "count": 48
+    },
+    {
+      "word": "في",
+      "count": 36
+    },
+    {
+      "word": "de",
+      "count": 32
+    },
+    {
+      "word": "le",
+      "count": 29
+    },
+    {
+      "word": "la",
+      "count": 28
+    },
+    {
+      "word": "des",
+      "count": 25
+    },
+    {
+      "word": "accès",
+      "count": 24
+    },
+    {
+      "word": "une",
+      "count": 23
+    },
+    {
+      "word": "pour",
+      "count": 22
+    },
+    {
+      "word": "tunisie",
+      "count": 20
+    },
+    {
+      "word": "stockage",
+      "count": 20
+    },
+    {
+      "word": "technique",
+      "count": 20
+    },
+    {
+      "word": "est",
+      "count": 20
+    },
+    {
+      "word": "statistiques",
+      "count": 20
+    },
+    {
+      "word": "من",
+      "count": 20
+    },
+    {
+      "word": "https",
+      "count": 17
+    },
+    {
+      "word": "www",
+      "count": 17
+    },
+    {
+      "word": "dans",
+      "count": 16
+    },
+    {
+      "word": "tunisienumerique",
+      "count": 14
+    },
+    {
+      "word": "com",
+      "count": 14
+    },
+    {
+      "word": "les",
+      "count": 14
+    },
+    {
+      "word": "source",
+      "count": 12
+    },
+    {
+      "word": "nécessaire",
+      "count": 12
+    },
+    {
+      "word": "un",
+      "count": 12
+    },
+    {
+      "word": "sur",
+      "count": 12
+    },
+    {
+      "word": "préférences",
+      "count": 12
+    },
+    {
+      "word": "qui",
+      "count": 12
+    },
+    {
+      "word": "marketing",
+      "count": 12
+    },
+    {
+      "word": "eacute",
+      "count": 12
+    },
+    {
+      "word": "articles",
+      "count": 10
+    },
+    {
+      "word": "u00e",
+      "count": 10
+    },
+    {
+      "word": "france",
+      "count": 10
+    },
+    {
+      "word": "target",
+      "count": 10
+    },
+    {
+      "word": "blank",
+      "count": 10
+    },
+    {
+      "word": "sport",
+      "count": 10
+    },
+    {
+      "word": "numérique",
+      "count": 9
+    },
+    {
+      "word": "en",
+      "count": 9
+    },
+    {
+      "word": "على",
+      "count": 9
+    },
+    {
+      "word": "finalité",
+      "count": 8
+    },
+    {
+      "word": "intérêt",
+      "count": 8
+    },
+    {
+      "word": "légitime",
+      "count": 8
+    },
+    {
+      "word": "par",
+      "count": 8
+    },
+    {
+      "word": "abonné",
+      "count": 8
+    },
+    {
+      "word": "utilisateur",
+      "count": 8
+    },
+    {
+      "word": "ne",
+      "count": 8
+    },
+    {
+      "word": "pas",
+      "count": 8
+    },
+    {
+      "word": "utilisé",
+      "count": 8
+    },
+    {
+      "word": "exclusivement",
+      "count": 8
+    },
+    {
+      "word": "finalités",
+      "count": 8
+    },
+    {
+      "word": "web",
+      "count": 8
+    },
+    {
+      "word": "economie",
+      "count": 7
+    },
+    {
+      "word": "تونس",
+      "count": 7
+    },
+    {
+      "word": "justice",
+      "count": 7
+    },
+    {
+      "word": "dossiers",
+      "count": 6
+    },
+    {
+      "word": "news",
+      "count": 6
+    },
+    {
+      "word": "babnet",
+      "count": 6
+    },
+    {
+      "word": "مع",
+      "count": 6
+    },
+    {
+      "word": "gions",
+      "count": 6
+    },
+    {
+      "word": "ajouter",
+      "count": 5
+    },
+    {
+      "word": "et",
+      "count": 5
+    },
+    {
+      "word": "lire",
+      "count": 5
+    },
+    {
+      "word": "plus",
+      "count": 5
+    },
+    {
+      "word": "tard",
+      "count": 5
+    },
+    {
+      "word": "gratuitement",
+      "count": 5
+    },
+    {
+      "word": "inscrivez-vous",
+      "count": 5
+    },
+    {
+      "word": "u00e9bloque",
+      "count": 5
+    },
+    {
+      "word": "tous",
+      "count": 5
+    },
+    {
+      "word": "premium",
+      "count": 5
+    },
+    {
+      "word": "u2019abonner",
+      "count": 5
+    },
+    {
+      "word": "u00e9j",
+      "count": 5
+    },
+    {
+      "word": "abonn",
+      "count": 5
+    },
+    {
+      "word": "connectez-vous",
+      "count": 5
+    },
+    {
+      "word": "authentication_redirect",
+      "count": 5
+    },
+    {
+      "word": "dev_mode",
+      "count": 5
+    },
+    {
+      "word": "logged_in",
+      "count": 5
+    },
+    {
+      "word": "user_id",
+      "count": 5
+    },
+    {
+      "word": "authentication_redirect_url",
+      "count": 5
+    },
+    {
+      "word": "tnmanager",
+      "count": 5
+    },
+    {
+      "word": "annuaires",
+      "count": 5
+    },
+    {
+      "word": "horaires",
+      "count": 5
+    },
+    {
+      "word": "prières",
+      "count": 5
+    },
+    {
+      "word": "taux",
+      "count": 5
+    },
+    {
+      "word": "change",
+      "count": 5
+    },
+    {
+      "word": "espace",
+      "count": 5
+    },
+    {
+      "word": "annonceurs",
+      "count": 5
+    },
+    {
+      "word": "immo-neuf",
+      "count": 5
+    },
+    {
+      "word": "vidéos",
+      "count": 5
+    },
+    {
+      "word": "emploi",
+      "count": 5
+    },
+    {
+      "word": "connexion",
+      "count": 5
+    },
+    {
+      "word": "français",
+      "count": 5
+    },
+    {
+      "word": "anglais",
+      "count": 5
+    },
+    {
+      "word": "العربية",
+      "count": 5
+    },
+    {
+      "word": "numerique",
+      "count": 5
+    },
+    {
+      "word": "abonner",
+      "count": 5
+    },
+    {
+      "word": "ar",
+      "count": 5
+    },
+    {
+      "word": "fr",
+      "count": 5
+    },
+    {
+      "word": "conflit",
+      "count": 5
+    },
+    {
+      "word": "iranien",
+      "count": 5
+    },
+    {
+      "word": "propulse",
+      "count": 5
+    },
+    {
+      "word": "إلى",
+      "count": 5
+    },
+    {
+      "word": "monde",
+      "count": 5
+    },
+    {
+      "word": "خلال",
+      "count": 5
+    },
+    {
+      "word": "strictement",
+      "count": 4
+    },
+    {
+      "word": "permettre",
+      "count": 4
+    },
+    {
+      "word": "utilisation",
+      "count": 4
+    },
+    {
+      "word": "service",
+      "count": 4
+    },
+    {
+      "word": "spécifique",
+      "count": 4
+    },
+    {
+      "word": "explicitement",
+      "count": 4
+    },
+    {
+      "word": "demandé",
+      "count": 4
+    },
+    {
+      "word": "seul",
+      "count": 4
+    },
+    {
+      "word": "but",
+      "count": 4
+    },
+    {
+      "word": "effectuer",
+      "count": 4
+    },
+    {
+      "word": "transmission",
+      "count": 4
+    },
+    {
+      "word": "communication",
+      "count": 4
+    },
+    {
+      "word": "réseau",
+      "count": 4
+    },
+    {
+      "word": "communications",
+      "count": 4
+    },
+    {
+      "word": "électroniques",
+      "count": 4
+    },
+    {
+      "word": "stocker",
+      "count": 4
+    },
+    {
+      "word": "sont",
+      "count": 4
+    },
+    {
+      "word": "demandées",
+      "count": 4
+    },
+    {
+      "word": "internaute",
+      "count": 4
+    },
+    {
+      "word": "fins",
+      "count": 4
+    },
+    {
+      "word": "anonymes",
+      "count": 4
+    },
+    {
+      "word": "absence",
+      "count": 4
+    },
+    {
+      "word": "assignation",
+      "count": 4
+    },
+    {
+      "word": "comparaître",
+      "count": 4
+    },
+    {
+      "word": "conformité",
+      "count": 4
+    },
+    {
+      "word": "volontaire",
+      "count": 4
+    },
+    {
+      "word": "part",
+      "count": 4
+    },
+    {
+      "word": "votre",
+      "count": 4
+    },
+    {
+      "word": "fournisseur",
+      "count": 4
+    },
+    {
+      "word": "internet",
+      "count": 4
+    },
+    {
+      "word": "enregistrements",
+      "count": 4
+    },
+    {
+      "word": "supplémentaires",
+      "count": 4
+    },
+    {
+      "word": "provenant",
+      "count": 4
+    },
+    {
+      "word": "tierce",
+      "count": 4
+    },
+    {
+      "word": "partie",
+      "count": 4
+    },
+    {
+      "word": "informations",
+      "count": 4
+    },
+    {
+      "word": "stockées",
+      "count": 4
+    },
+    {
+      "word": "extraites",
+      "count": 4
+    },
+    {
+      "word": "cette",
+      "count": 4
+    },
+    {
+      "word": "seule",
+      "count": 4
+    },
+    {
+      "word": "fin",
+      "count": 4
+    },
+    {
+      "word": "peuvent",
+      "count": 4
+    },
+    {
+      "word": "généralement",
+      "count": 4
+    },
+    {
+      "word": "être",
+      "count": 4
+    },
+    {
+      "word": "utilisées",
+      "count": 4
+    },
+    {
+      "word": "vous",
+      "count": 4
+    },
+    {
+      "word": "identifier",
+      "count": 4
+    },
+    {
+      "word": "créer",
+      "count": 4
+    },
+    {
+      "word": "profils",
+      "count": 4
+    },
+    {
+      "word": "internautes",
+      "count": 4
+    },
+    {
+      "word": "afin",
+      "count": 4
+    },
+    {
+      "word": "envoyer",
+      "count": 4
+    },
+    {
+      "word": "publicités",
+      "count": 4
+    },
+    {
+      "word": "suivre",
+      "count": 4
+    },
+    {
+      "word": "site",
+      "count": 4
+    },
+    {
+      "word": "plusieurs",
+      "count": 4
+    },
+    {
+      "word": "sites",
+      "count": 4
+    },
+    {
+      "word": "ayant",
+      "count": 4
+    },
+    {
+      "word": "similaires",
+      "count": 4
+    },
+    {
+      "word": "dollarisation",
+      "count": 4
+    },
+    {
+      "word": "يوم",
+      "count": 4
+    },
+    {
+      "word": "منوبة",
+      "count": 4
+    },
+    {
+      "word": "لكرة",
+      "count": 4
+    },
+    {
+      "word": "التونسي",
+      "count": 4
+    },
+    {
+      "word": "بن",
+      "count": 4
+    },
+    {
+      "word": "عن",
+      "count": 4
+    },
+    {
+      "word": "بين",
+      "count": 4
+    },
+    {
+      "word": "الدولي",
+      "count": 4
+    },
+    {
+      "word": "الوطنية",
+      "count": 4
+    },
+    {
+      "word": "politique",
+      "count": 4
+    },
+    {
+      "word": "قانون",
+      "count": 4
+    },
+    {
+      "word": "دينار",
+      "count": 4
+    },
+    {
+      "word": "top",
+      "count": 3
+    },
+    {
+      "word": "net",
+      "count": 3
+    },
+    {
+      "word": "tunisian",
+      "count": 3
+    },
+    {
+      "word": "لتعزيز",
+      "count": 3
+    },
+    {
+      "word": "وزير",
+      "count": 3
+    },
+    {
+      "word": "النهائي",
+      "count": 3
+    },
+    {
+      "word": "بتونس",
+      "count": 3
+    },
+    {
+      "word": "أفريل",
+      "count": 3
+    },
+    {
+      "word": "لقاء",
+      "count": 3
+    },
+    {
+      "word": "الرابطة",
+      "count": 3
+    },
+    {
+      "word": "الثانية",
+      "count": 3
+    },
+    {
+      "word": "الدولة",
+      "count": 3
+    },
+    {
+      "word": "عدد",
+      "count": 3
+    },
+    {
+      "word": "حول",
+      "count": 3
+    },
+    {
+      "word": "مقترح",
+      "count": 3
+    },
+    {
+      "word": "أبطال",
+      "count": 3
+    },
+    {
+      "word": "الى",
+      "count": 3
+    },
+    {
+      "word": "تسوية",
+      "count": 3
+    },
+    {
+      "word": "مليون",
+      "count": 3
+    },
+    {
+      "word": "دوري",
+      "count": 3
+    },
+    {
+      "word": "شراكة",
+      "count": 2
+    },
+    {
+      "word": "جديدة",
+      "count": 2
+    },
+    {
+      "word": "ربط",
+      "count": 2
+    },
+    {
+      "word": "دار",
+      "count": 2
+    },
+    {
+      "word": "مشروع",
+      "count": 2
+    },
+    {
+      "word": "بالمائة",
+      "count": 2
+    },
+    {
+      "word": "فضاء",
+      "count": 2
+    },
+    {
+      "word": "القادم",
+      "count": 2
+    },
+    {
+      "word": "اليد",
+      "count": 2
+    },
+    {
+      "word": "الجولة",
+      "count": 2
+    },
+    {
+      "word": "الرابعة",
+      "count": 2
+    },
+    {
+      "word": "الخارجية",
+      "count": 2
+    },
+    {
+      "word": "الذكاء",
+      "count": 2
+    },
+    {
+      "word": "الاصطناعي",
+      "count": 2
+    },
+    {
+      "word": "طبية",
+      "count": 2
+    },
+    {
+      "word": "الجامعة",
+      "count": 2
+    },
+    {
+      "word": "عروس",
+      "count": 2
+    },
+    {
+      "word": "انطلاق",
+      "count": 2
+    },
+    {
+      "word": "عمل",
+      "count": 2
+    },
+    {
+      "word": "هل",
+      "count": 2
+    },
+    {
+      "word": "ساعة",
+      "count": 2
+    },
+    {
+      "word": "ترامب",
+      "count": 2
+    },
+    {
+      "word": "تواصل",
+      "count": 2
+    },
+    {
+      "word": "الماء",
+      "count": 2
+    },
+    {
+      "word": "المناطق",
+      "count": 2
+    },
+    {
+      "word": "الغذائية",
+      "count": 2
+    },
+    {
+      "word": "التونسية",
+      "count": 2
+    },
+    {
+      "word": "غلق",
+      "count": 2
+    },
+    {
+      "word": "بسبب",
+      "count": 2
+    },
+    {
+      "word": "برلماني",
+      "count": 2
+    },
+    {
+      "word": "مدريد",
+      "count": 2
+    },
+    {
+      "word": "أوروبا",
+      "count": 2
+    },
+    {
+      "word": "إطلاق",
+      "count": 2
+    },
+    {
+      "word": "أحكام",
+      "count": 2
+    },
+    {
+      "word": "سجنا",
+      "count": 2
+    },
+    {
+      "word": "الباجي",
+      "count": 2
+    },
+    {
+      "word": "النظر",
+      "count": 2
+    },
+    {
+      "word": "قضية",
+      "count": 2
+    },
+    {
+      "word": "غياب",
+      "count": 2
+    },
+    {
+      "word": "مخالفات",
+      "count": 2
+    },
+    {
+      "word": "الصرف",
+      "count": 2
+    },
+    {
+      "word": "أجانب",
+      "count": 2
+    },
+    {
+      "word": "ألف",
+      "count": 2
+    },
+    {
+      "word": "قرص",
+      "count": 2
+    },
+    {
+      "word": "بعد",
+      "count": 2
+    },
+    {
+      "word": "الفراولة",
+      "count": 2
+    },
+    {
+      "word": "نصف",
+      "count": 2
+    },
+    {
+      "word": "برشلونة",
+      "count": 2
+    },
+    {
+      "word": "مجلس",
+      "count": 2
+    },
+    {
+      "word": "أن",
+      "count": 2
+    },
+    {
+      "word": "الوضعيات",
+      "count": 2
+    },
+    {
+      "word": "يتم",
+      "count": 2
+    },
+    {
+      "word": "الشرق",
+      "count": 2
+    },
+    {
+      "word": "تنظيم",
+      "count": 2
+    },
+    {
+      "word": "الطب",
+      "count": 2
+    },
+    {
+      "word": "أعوام",
+      "count": 2
+    },
+    {
+      "word": "ال",
+      "count": 2
+    },
+    {
+      "word": "نواب",
+      "count": 2
+    },
+    {
+      "word": "الشعب",
+      "count": 2
+    },
+    {
+      "word": "الأبطال",
+      "count": 2
+    },
+    {
+      "word": "يستقبل",
+      "count": 2
+    },
+    {
+      "word": "معبر",
+      "count": 2
+    },
+    {
+      "word": "dédollarisation",
+      "count": 1
+    },
+    {
+      "word": "تظاهرة",
+      "count": 1
+    },
+    {
+      "word": "للتشبيك",
+      "count": 1
+    },
+    {
+      "word": "البحث",
+      "count": 1
+    },
+    {
+      "word": "العلمي",
+      "count": 1
+    },
+    {
+      "word": "بالاقتصاد",
+      "count": 1
+    },
+    {
+      "word": "نابل",
+      "count": 1
+    },
+    {
+      "word": "الخدمات",
+      "count": 1
+    },
+    {
+      "word": "الرقمية",
+      "count": 1
+    },
+    {
+      "word": "ببلديتي",
+      "count": 1
+    },
+    {
+      "word": "الشريفات",
+      "count": 1
+    },
+    {
+      "word": "بوشراي",
+      "count": 1
+    },
+    {
+      "word": "وتاكلسة",
+      "count": 1
+    },
+    {
+      "word": "تدخل",
+      "count": 1
+    },
+    {
+      "word": "حيز",
+      "count": 1
+    },
+    {
+      "word": "النشاط",
+      "count": 1
+    },
+    {
+      "word": "الفعلي",
+      "count": 1
+    },
+    {
+      "word": "قفصة",
+      "count": 1
+    },
+    {
+      "word": "تقد",
+      "count": 1
+    },
+    {
+      "word": "تهيئة",
+      "count": 1
+    },
+    {
+      "word": "وتهذيب",
+      "count": 1
+    },
+    {
+      "word": "حي",
+      "count": 1
+    },
+    {
+      "word": "النور",
+      "count": 1
+    },
+    {
+      "word": "بقفصة",
+      "count": 1
+    },
+    {
+      "word": "المدينة",
+      "count": 1
+    },
+    {
+      "word": "بنسبة",
+      "count": 1
+    },
+    {
+      "word": "الاستعداد",
+      "count": 1
+    },
+    {
+      "word": "لفتح",
+      "count": 1
+    },
+    {
+      "word": "السوق",
+      "count": 1
+    },
+    {
+      "word": "البلدي",
+      "count": 1
+    },
+    {
+      "word": "بجبل",
+      "count": 1
+    },
+    {
+      "word": "جلود",
+      "count": 1
+    },
+    {
+      "word": "جديد",
+      "count": 1
+    },
+    {
+      "word": "غرة",
+      "count": 1
+    },
+    {
+      "word": "ماي",
+      "count": 1
+    },
+    {
+      "word": "البطولة",
+      "count": 1
+    },
+    {
+      "word": "المتوسطية",
+      "count": 1
+    },
+    {
+      "word": "للأصاغر",
+      "count": 1
+    },
+    {
+      "word": "للدور",
+      "count": 1
+    },
+    {
+      "word": "الاول",
+      "count": 1
+    },
+    {
+      "word": "المنتخب",
+      "count": 1
+    },
+    {
+      "word": "يوف",
+      "count": 1
+    },
+    {
+      "word": "فرصا",
+      "count": 1
+    },
+    {
+      "word": "هامة",
+      "count": 1
+    },
+    {
+      "word": "نجاعة",
+      "count": 1
+    },
+    {
+      "word": "العمل",
+      "count": 1
+    },
+    {
+      "word": "الدبلوماسي",
+      "count": 1
+    },
+    {
+      "word": "choc",
+      "count": 1
+    },
+    {
+      "word": "pétrolier",
+      "count": 1
+    },
+    {
+      "word": "face",
+      "count": 1
+    },
+    {
+      "word": "fenêtre",
+      "count": 1
+    },
+    {
+      "word": "المركز",
+      "count": 1
+    },
+    {
+      "word": "الفني",
+      "count": 1
+    },
+    {
+      "word": "للبطاطا",
+      "count": 1
+    },
+    {
+      "word": "والقنارية",
+      "count": 1
+    },
+    {
+      "word": "يشرع",
+      "count": 1
+    },
+    {
+      "word": "تجربة",
+      "count": 1
+    },
+    {
+      "word": "صنفين",
+      "count": 1
+    },
+    {
+      "word": "جديدين",
+      "count": 1
+    },
+    {
+      "word": "القنارية",
+      "count": 1
+    },
+    {
+      "word": "تدعيم",
+      "count": 1
+    },
+    {
+      "word": "المستشفى",
+      "count": 1
+    },
+    {
+      "word": "الجهوي",
+      "count": 1
+    },
+    {
+      "word": "بمنزل",
+      "count": 1
+    },
+    {
+      "word": "بورقيبة",
+      "count": 1
+    },
+    {
+      "word": "ولاية",
+      "count": 1
+    },
+    {
+      "word": "بنزرت",
+      "count": 1
+    },
+    {
+      "word": "بتجهيزات",
+      "count": 1
+    },
+    {
+      "word": "حديثة",
+      "count": 1
+    },
+    {
+      "word": "الدوري",
+      "count": 1
+    },
+    {
+      "word": "الأوروبي",
+      "count": 1
+    },
+    {
+      "word": "أربع",
+      "count": 1
+    },
+    {
+      "word": "مواجهات",
+      "count": 1
+    },
+    {
+      "word": "إياب",
+      "count": 1
+    },
+    {
+      "word": "ربع",
+      "count": 1
+    },
+    {
+      "word": "غدا",
+      "count": 1
+    },
+    {
+      "word": "الاحتفاء",
+      "count": 1
+    },
+    {
+      "word": "الدورة",
+      "count": 1
+    },
+    {
+      "word": "معرض",
+      "count": 1
+    },
+    {
+      "word": "الكتاب",
+      "count": 1
+    },
+    {
+      "word": "العربي",
+      "count": 1
+    },
+    {
+      "word": "الكندي",
+      "count": 1
+    },
+    {
+      "word": "حواري",
+      "count": 1
+    },
+    {
+      "word": "طلبة",
+      "count": 1
+    },
+    {
+      "word": "الفنان",
+      "count": 1
+    },
+    {
+      "word": "رؤوف",
+      "count": 1
+    },
+    {
+      "word": "يغلان",
+      "count": 1
+    },
+    {
+      "word": "يجيب",
+      "count": 1
+    },
+    {
+      "word": "سؤال",
+      "count": 1
+    },
+    {
+      "word": "كيف",
+      "count": 1
+    },
+    {
+      "word": "تكون",
+      "count": 1
+    },
+    {
+      "word": "أغورا",
+      "count": 1
+    },
+    {
+      "word": "القطيعة",
+      "count": 1
+    },
+    {
+      "word": "بالتراضي",
+      "count": 1
+    },
+    {
+      "word": "سبورتينغ",
+      "count": 1
+    },
+    {
+      "word": "والمدرب",
+      "count": 1
+    },
+    {
+      "word": "إسكندر",
+      "count": 1
+    },
+    {
+      "word": "مجبورة",
+      "count": 1
+    },
+    {
+      "word": "ورشات",
+      "count": 1
+    },
+    {
+      "word": "المخطط",
+      "count": 1
+    },
+    {
+      "word": "المديري",
+      "count": 1
+    },
+    {
+      "word": "للتنقلات",
+      "count": 1
+    },
+    {
+      "word": "الحضرية",
+      "count": 1
+    },
+    {
+      "word": "باقليم",
+      "count": 1
+    },
+    {
+      "word": "الكبرى",
+      "count": 1
+    },
+    {
+      "word": "أفق",
+      "count": 1
+    },
+    {
+      "word": "دقت",
+      "count": 1
+    },
+    {
+      "word": "الصفر",
+      "count": 1
+    },
+    {
+      "word": "مبادرة",
+      "count": 1
+    },
+    {
+      "word": "عزل",
+      "count": 1
+    },
+    {
+      "word": "تحظى",
+      "count": 1
+    },
+    {
+      "word": "بدعم",
+      "count": 1
+    },
+    {
+      "word": "أكثر",
+      "count": 1
+    },
+    {
+      "word": "عضوا",
+      "count": 1
+    },
+    {
+      "word": "الكونغرس",
+      "count": 1
+    },
+    {
+      "word": "أولمبيك",
+      "count": 1
+    },
+    {
+      "word": "مرسيليا",
+      "count": 1
+    },
+    {
+      "word": "يتحرك",
+      "count": 1
+    },
+    {
+      "word": "لضم",
+      "count": 1
+    },
+    {
+      "word": "الجزائري",
+      "count": 1
+    },
+    {
+      "word": "رياض",
+      "count": 1
+    },
+    {
+      "word": "محرز",
+      "count": 1
+    },
+    {
+      "word": "تراجع",
+      "count": 1
+    },
+    {
+      "word": "تدريجي",
+      "count": 1
+    },
+    {
+      "word": "للتضخم",
+      "count": 1
+    },
+    {
+      "word": "مجهود",
+      "count": 1
+    },
+    {
+      "word": "لتحسين",
+      "count": 1
+    },
+    {
+      "word": "القدرة",
+      "count": 1
+    },
+    {
+      "word": "الشرائية",
+      "count": 1
+    },
+    {
+      "word": "فندق",
+      "count": 1
+    },
+    {
+      "word": "برج",
+      "count": 1
+    },
+    {
+      "word": "العرب",
+      "count": 1
+    },
+    {
+      "word": "دبي",
+      "count": 1
+    },
+    {
+      "word": "سيغلق",
+      "count": 1
+    },
+    {
+      "word": "للترميم",
+      "count": 1
+    },
+    {
+      "word": "لمدة",
+      "count": 1
+    },
+    {
+      "word": "عام",
+      "count": 1
+    },
+    {
+      "word": "ونص",
+      "count": 1
+    },
+    {
+      "word": "قافلة",
+      "count": 1
+    },
+    {
+      "word": "للكشف",
+      "count": 1
+    },
+    {
+      "word": "الأبيض",
+      "count": 1
+    },
+    {
+      "word": "افريل",
+      "count": 1
+    },
+    {
+      "word": "بالمركز",
+      "count": 1
+    },
+    {
+      "word": "الوسيط",
+      "count": 1
+    },
+    {
+      "word": "بفوشانة",
+      "count": 1
+    },
+    {
+      "word": "تسج",
+      "count": 1
+    },
+    {
+      "word": "إضطرابات",
+      "count": 1
+    },
+    {
+      "word": "ظرف",
+      "count": 1
+    },
+    {
+      "word": "توز",
+      "count": 1
+    },
+    {
+      "word": "الصالح",
+      "count": 1
+    },
+    {
+      "word": "للشرب",
+      "count": 1
+    },
+    {
+      "word": "ببعض",
+      "count": 1
+    },
+    {
+      "word": "international",
+      "count": 1
+    },
+    {
+      "word": "éliminatoires",
+      "count": 1
+    },
+    {
+      "word": "mondial",
+      "count": 1
+    },
+    {
+      "word": "féminin",
+      "count": 1
+    },
+    {
+      "word": "résultats",
+      "count": 1
+    },
+    {
+      "word": "complets",
+      "count": 1
+    },
+    {
+      "word": "matchs",
+      "count": 1
+    },
+    {
+      "word": "aller",
+      "count": 1
+    },
+    {
+      "word": "sciences",
+      "count": 1
+    },
+    {
+      "word": "مدينة",
+      "count": 1
+    },
+    {
+      "word": "العلوم",
+      "count": 1
+    },
+    {
+      "word": "تستضيف",
+      "count": 1
+    },
+    {
+      "word": "رائد",
+      "count": 1
+    },
+    {
+      "word": "الفضاء",
+      "count": 1
+    },
+    {
+      "word": "الروسي",
+      "count": 1
+    },
+    {
+      "word": "كيريل",
+      "count": 1
+    },
+    {
+      "word": "بيسكوف",
+      "count": 1
+    },
+    {
+      "word": "علمي",
+      "count": 1
+    },
+    {
+      "word": "مفتوح",
+      "count": 1
+    },
+    {
+      "word": "للجمهور",
+      "count": 1
+    },
+    {
+      "word": "ارتفاع",
+      "count": 1
+    },
+    {
+      "word": "صادرات",
+      "count": 1
+    },
+    {
+      "word": "الصناعات",
+      "count": 1
+    },
+    {
+      "word": "بولونيا",
+      "count": 1
+    },
+    {
+      "word": "بحوالي",
+      "count": 1
+    },
+    {
+      "word": "صدمة",
+      "count": 1
+    },
+    {
+      "word": "نفطية",
+      "count": 1
+    },
+    {
+      "word": "أمام",
+      "count": 1
+    },
+    {
+      "word": "نافذة",
+      "count": 1
+    },
+    {
+      "word": "فرص",
+      "count": 1
+    },
+    {
+      "word": "تمويلات",
+      "count": 1
+    },
+    {
+      "word": "صندوق",
+      "count": 1
+    },
+    {
+      "word": "النقد",
+      "count": 1
+    },
+    {
+      "word": "والبنك",
+      "count": 1
+    },
+    {
+      "word": "المتناول",
+      "count": 1
+    },
+    {
+      "word": "مونديال",
+      "count": 1
+    },
+    {
+      "word": "التايكواندو",
+      "count": 1
+    },
+    {
+      "word": "للاواسط",
+      "count": 1
+    },
+    {
+      "word": "والوسطيات",
+      "count": 1
+    },
+    {
+      "word": "آدم",
+      "count": 1
+    },
+    {
+      "word": "الحسناوي",
+      "count": 1
+    },
+    {
+      "word": "يحزر",
+      "count": 1
+    },
+    {
+      "word": "برونزية",
+      "count": 1
+    },
+    {
+      "word": "وزن",
+      "count": 1
+    },
+    {
+      "word": "أقل",
+      "count": 1
+    },
+    {
+      "word": "كلغ",
+      "count": 1
+    },
+    {
+      "word": "القصرين",
+      "count": 1
+    },
+    {
+      "word": "الطريق",
+      "count": 1
+    },
+    {
+      "word": "مستوى",
+      "count": 1
+    },
+    {
+      "word": "معتمدية",
+      "count": 1
+    },
+    {
+      "word": "ماجل",
+      "count": 1
+    },
+    {
+      "word": "بلعباس",
+      "count": 1
+    },
+    {
+      "word": "احتجاج",
+      "count": 1
+    },
+    {
+      "word": "تدهور",
+      "count": 1
+    },
+    {
+      "word": "حالتها",
+      "count": 1
+    },
+    {
+      "word": "وتسب",
+      "count": 1
+    },
+    {
+      "word": "بها",
+      "count": 1
+    },
+    {
+      "word": "dias",
+      "count": 1
+    },
+    {
+      "word": "جدل",
+      "count": 1
+    },
+    {
+      "word": "واسع",
+      "count": 1
+    },
+    {
+      "word": "تدوينة",
+      "count": 1
+    },
+    {
+      "word": "للأستاذة",
+      "count": 1
+    },
+    {
+      "word": "سلوى",
+      "count": 1
+    },
+    {
+      "word": "الشرفي",
+      "count": 1
+    },
+    {
+      "word": "تصريح",
+      "count": 1
+    },
+    {
+      "word": "وقصة",
+      "count": 1
+    },
+    {
+      "word": "النبي",
+      "count": 1
+    },
+    {
+      "word": "لوط",
+      "count": 1
+    },
+    {
+      "word": "ثروات",
+      "count": 1
+    },
+    {
+      "word": "طبيعية",
+      "count": 1
+    },
+    {
+      "word": "الحوكمة",
+      "count": 1
+    },
+    {
+      "word": "والسيادة",
+      "count": 1
+    },
+    {
+      "word": "الثروات",
+      "count": 1
+    },
+    {
+      "word": "الطبيعية",
+      "count": 1
+    },
+    {
+      "word": "إلقاء",
+      "count": 1
+    },
+    {
+      "word": "الفضلات",
+      "count": 1
+    },
+    {
+      "word": "الأماكن",
+      "count": 1
+    },
+    {
+      "word": "العامة",
+      "count": 1
+    },
+    {
+      "word": "لتسليط",
+      "count": 1
+    },
+    {
+      "word": "العقوبات",
+      "count": 1
+    },
+    {
+      "word": "وتعزيز",
+      "count": 1
+    },
+    {
+      "word": "التوعية",
+      "count": 1
+    },
+    {
+      "word": "ليلة",
+      "count": 1
+    },
+    {
+      "word": "الحسم",
+      "count": 1
+    },
+    {
+      "word": "بايرن",
+      "count": 1
+    },
+    {
+      "word": "ميونخ",
+      "count": 1
+    },
+    {
+      "word": "وريال",
+      "count": 1
+    },
+    {
+      "word": "مواجهة",
+      "count": 1
+    },
+    {
+      "word": "نارية",
+      "count": 1
+    },
+    {
+      "word": "بدوري",
+      "count": 1
+    },
+    {
+      "word": "نار",
+      "count": 1
+    },
+    {
+      "word": "بمدرسة",
+      "count": 1
+    },
+    {
+      "word": "تركيا",
+      "count": 1
+    },
+    {
+      "word": "يخلف",
+      "count": 1
+    },
+    {
+      "word": "قتلى",
+      "count": 1
+    },
+    {
+      "word": "سفينة",
+      "count": 1
+    },
+    {
+      "word": "بضائع",
+      "count": 1
+    },
+    {
+      "word": "وناقلة",
+      "count": 1
+    },
+    {
+      "word": "نفط",
+      "count": 1
+    },
+    {
+      "word": "خاضعة",
+      "count": 1
+    },
+    {
+      "word": "للعقوبات",
+      "count": 1
+    },
+    {
+      "word": "تعبران",
+      "count": 1
+    },
+    {
+      "word": "هرمز",
+      "count": 1
+    },
+    {
+      "word": "ابتدائية",
+      "count": 1
+    },
+    {
+      "word": "سنة",
+      "count": 1
+    },
+    {
+      "word": "ضد",
+      "count": 1
+    },
+    {
+      "word": "راشد",
+      "count": 1
+    },
+    {
+      "word": "الغنوشي",
+      "count": 1
+    },
+    {
+      "word": "سياسيا",
+      "count": 1
+    },
+    {
+      "word": "وناشطا",
+      "count": 1
+    },
+    {
+      "word": "آخرين",
+      "count": 1
+    },
+    {
+      "word": "الأولمبي",
+      "count": 1
+    },
+    {
+      "word": "انهاء",
+      "count": 1
+    },
+    {
+      "word": "العلاقة",
+      "count": 1
+    },
+    {
+      "word": "التعاقدية",
+      "count": 1
+    },
+    {
+      "word": "اللاعب",
+      "count": 1
+    },
+    {
+      "word": "النيجري",
+      "count": 1
+    },
+    {
+      "word": "ايبيه",
+      "count": 1
+    },
+    {
+      "word": "أوفوفو",
+      "count": 1
+    },
+    {
+      "word": "جندوبة",
+      "count": 1
+    },
+    {
+      "word": "طرقات",
+      "count": 1
+    },
+    {
+      "word": "وتحذيرات",
+      "count": 1
+    },
+    {
+      "word": "للمواطنين",
+      "count": 1
+    },
+    {
+      "word": "فيضان",
+      "count": 1
+    },
+    {
+      "word": "اودية",
+      "count": 1
+    },
+    {
+      "word": "ومخاطر",
+      "count": 1
+    },
+    {
+      "word": "انزلاقات",
+      "count": 1
+    },
+    {
+      "word": "ارضية",
+      "count": 1
+    },
+    {
+      "word": "بعدد",
+      "count": 1
+    },
+    {
+      "word": "تأجيل",
+      "count": 1
+    },
+    {
+      "word": "تشمل",
+      "count": 1
+    },
+    {
+      "word": "يوسف",
+      "count": 1
+    },
+    {
+      "word": "الشاهد",
+      "count": 1
+    },
+    {
+      "word": "ومهدي",
+      "count": 1
+    },
+    {
+      "word": "غربية",
+      "count": 1
+    },
+    {
+      "word": "بالسجن",
+      "count": 1
+    },
+    {
+      "word": "سنوات",
+      "count": 1
+    },
+    {
+      "word": "لعصابة",
+      "count": 1
+    },
+    {
+      "word": "ترو",
+      "count": 1
+    },
+    {
+      "word": "المخدرات",
+      "count": 1
+    },
+    {
+      "word": "الوسط",
+      "count": 1
+    },
+    {
+      "word": "المدرسي",
+      "count": 1
+    },
+    {
+      "word": "بالكرم",
+      "count": 1
+    },
+    {
+      "word": "الغربي",
+      "count": 1
+    },
+    {
+      "word": "ماهر",
+      "count": 1
+    },
+    {
+      "word": "الكتاري",
+      "count": 1
+    },
+    {
+      "word": "نائبا",
+      "count": 1
+    },
+    {
+      "word": "مناقشة",
+      "count": 1
+    },
+    {
+      "word": "الحرس",
+      "count": 1
+    },
+    {
+      "word": "الوطني",
+      "count": 1
+    },
+    {
+      "word": "ايقاف",
+      "count": 1
+    },
+    {
+      "word": "وتونسي",
+      "count": 1
+    },
+    {
+      "word": "وحجز",
+      "count": 1
+    },
+    {
+      "word": "مخدر",
+      "count": 1
+    },
+    {
+      "word": "ملايين",
+      "count": 1
+    },
+    {
+      "word": "طور",
+      "count": 1
+    },
+    {
+      "word": "التصنيع",
+      "count": 1
+    },
+    {
+      "word": "رابطة",
+      "count": 1
+    },
+    {
+      "word": "إفريقيا",
+      "count": 1
+    },
+    {
+      "word": "السلة",
+      "count": 1
+    },
+    {
+      "word": "النادي",
+      "count": 1
+    },
+    {
+      "word": "الإفريقي",
+      "count": 1
+    },
+    {
+      "word": "يعزز",
+      "count": 1
+    },
+    {
+      "word": "صفوفه",
+      "count": 1
+    },
+    {
+      "word": "بثلاثة",
+      "count": 1
+    },
+    {
+      "word": "لاعبين",
+      "count": 1
+    },
+    {
+      "word": "مطالبته",
+      "count": 1
+    },
+    {
+      "word": "التاس",
+      "count": 1
+    },
+    {
+      "word": "تقضي",
+      "count": 1
+    },
+    {
+      "word": "بدفع",
+      "count": 1
+    },
+    {
+      "word": "لمهدي",
+      "count": 1
+    },
+    {
+      "word": "النفطي",
+      "count": 1
+    },
+    {
+      "word": "sant",
+      "count": 1
+    },
+    {
+      "word": "محمد",
+      "count": 1
+    },
+    {
+      "word": "الرابحي",
+      "count": 1
+    },
+    {
+      "word": "آمنة",
+      "count": 1
+    },
+    {
+      "word": "والإشاعات",
+      "count": 1
+    },
+    {
+      "word": "المتداولة",
+      "count": 1
+    },
+    {
+      "word": "مضللة",
+      "count": 1
+    },
+    {
+      "word": "ترمب",
+      "count": 1
+    },
+    {
+      "word": "يتحدث",
+      "count": 1
+    },
+    {
+      "word": "نهاية",
+      "count": 1
+    },
+    {
+      "word": "وشيكة",
+      "count": 1
+    },
+    {
+      "word": "للحرب",
+      "count": 1
+    },
+    {
+      "word": "واستعدادات",
+      "count": 1
+    },
+    {
+      "word": "أمريكية",
+      "count": 1
+    },
+    {
+      "word": "لجولة",
+      "count": 1
+    },
+    {
+      "word": "تفاوض",
+      "count": 1
+    },
+    {
+      "word": "باريس",
+      "count": 1
+    },
+    {
+      "word": "سان",
+      "count": 1
+    },
+    {
+      "word": "جيرمان",
+      "count": 1
+    },
+    {
+      "word": "قصي",
+      "count": 1
+    },
+    {
+      "word": "ليفربول",
+      "count": 1
+    },
+    {
+      "word": "بثنائية",
+      "count": 1
+    },
+    {
+      "word": "ديمبيلي",
+      "count": 1
+    },
+    {
+      "word": "ويبلغ",
+      "count": 1
+    },
+    {
+      "word": "يود",
+      "count": 1
+    },
+    {
+      "word": "رغم",
+      "count": 1
+    },
+    {
+      "word": "الفوز",
+      "count": 1
+    },
+    {
+      "word": "وأتلتيكو",
+      "count": 1
+    },
+    {
+      "word": "يبلغ",
+      "count": 1
+    },
+    {
+      "word": "ممثلو",
+      "count": 1
+    },
+    {
+      "word": "رئاسة",
+      "count": 1
+    },
+    {
+      "word": "الحكومة",
+      "count": 1
+    },
+    {
+      "word": "الجهات",
+      "count": 1
+    },
+    {
+      "word": "والأقاليم",
+      "count": 1
+    },
+    {
+      "word": "التاكيد",
+      "count": 1
+    },
+    {
+      "word": "تعمل",
+      "count": 1
+    },
+    {
+      "word": "الشغلية",
+      "count": 1
+    },
+    {
+      "word": "بيان",
+      "count": 1
+    },
+    {
+      "word": "أمريكي",
+      "count": 1
+    },
+    {
+      "word": "إسرائيلي",
+      "count": 1
+    },
+    {
+      "word": "لبناني",
+      "count": 1
+    },
+    {
+      "word": "اتفقت",
+      "count": 1
+    },
+    {
+      "word": "الأطراف",
+      "count": 1
+    },
+    {
+      "word": "مفاوضات",
+      "count": 1
+    },
+    {
+      "word": "مباشرة",
+      "count": 1
+    },
+    {
+      "word": "زمان",
+      "count": 1
+    },
+    {
+      "word": "ومكان",
+      "count": 1
+    },
+    {
+      "word": "التوافق",
+      "count": 1
+    },
+    {
+      "word": "عليهما",
+      "count": 1
+    },
+    {
+      "word": "تأخير",
+      "count": 1
+    },
+    {
+      "word": "برهان",
+      "count": 1
+    },
+    {
+      "word": "بسيس",
+      "count": 1
+    },
+    {
+      "word": "ومراد",
+      "count": 1
+    },
+    {
+      "word": "الزغيدي",
+      "count": 1
+    },
+    {
+      "word": "لجلسة",
+      "count": 1
+    },
+    {
+      "word": "ورفض",
+      "count": 1
+    },
+    {
+      "word": "مطالب",
+      "count": 1
+    },
+    {
+      "word": "الإفراج",
+      "count": 1
+    },
+    {
+      "word": "مصدر",
+      "count": 1
+    },
+    {
+      "word": "قضائي",
+      "count": 1
+    },
+    {
+      "word": "طويل",
+      "count": 1
+    },
+    {
+      "word": "الجزائر",
+      "count": 1
+    },
+    {
+      "word": "تمنح",
+      "count": 1
+    },
+    {
+      "word": "بريتيش",
+      "count": 1
+    },
+    {
+      "word": "بتروليوم",
+      "count": 1
+    },
+    {
+      "word": "رخصة",
+      "count": 1
+    },
+    {
+      "word": "استكشاف",
+      "count": 1
+    },
+    {
+      "word": "حوض",
+      "count": 1
+    },
+    {
+      "word": "قبلي",
+      "count": 1
+    },
+    {
+      "word": "إعطاء",
+      "count": 1
+    },
+    {
+      "word": "إشارة",
+      "count": 1
+    },
+    {
+      "word": "الجهة",
+      "count": 1
+    },
+    {
+      "word": "بالغاز",
+      "count": 1
+    },
+    {
+      "word": "الطبيعي",
+      "count": 1
+    },
+    {
+      "word": "بكلفة",
+      "count": 1
+    },
+    {
+      "word": "تناهز",
+      "count": 1
+    },
+    {
+      "word": "تفكيك",
+      "count": 1
+    },
+    {
+      "word": "شبكة",
+      "count": 1
+    },
+    {
+      "word": "لترويج",
+      "count": 1
+    },
+    {
+      "word": "وسائل",
+      "count": 1
+    },
+    {
+      "word": "الغش",
+      "count": 1
+    },
+    {
+      "word": "الامتحانات",
+      "count": 1
+    },
+    {
+      "word": "تنشط",
+      "count": 1
+    },
+    {
+      "word": "بالمنستير",
+      "count": 1
+    },
+    {
+      "word": "باجة",
+      "count": 1
+    },
+    {
+      "word": "العثور",
+      "count": 1
+    },
+    {
+      "word": "جثة",
+      "count": 1
+    },
+    {
+      "word": "شاب",
+      "count": 1
+    },
+    {
+      "word": "غرق",
+      "count": 1
+    },
+    {
+      "word": "منذ",
+      "count": 1
+    },
+    {
+      "word": "يوما",
+      "count": 1
+    },
+    {
+      "word": "وادي",
+      "count": 1
+    },
+    {
+      "word": "مجردة",
+      "count": 1
+    },
+    {
+      "word": "إعلان",
+      "count": 1
+    },
+    {
+      "word": "الزيارة",
+      "count": 1
+    },
+    {
+      "word": "السنوية",
+      "count": 1
+    },
+    {
+      "word": "لمعبد",
+      "count": 1
+    },
+    {
+      "word": "الغر",
+      "count": 1
+    },
+    {
+      "word": "يبة",
+      "count": 1
+    },
+    {
+      "word": "اليهودي",
+      "count": 1
+    },
+    {
+      "word": "بجربة",
+      "count": 1
+    },
+    {
+      "word": "الجاري",
+      "count": 1
+    },
+    {
+      "word": "جوان",
+      "count": 1
+    },
+    {
+      "word": "social",
+      "count": 1
+    },
+    {
+      "word": "اقتراح",
+      "count": 1
+    },
+    {
+      "word": "إحداث",
+      "count": 1
+    },
+    {
+      "word": "بمدينة",
+      "count": 1
+    },
+    {
+      "word": "دوسلدورف",
+      "count": 1
+    },
+    {
+      "word": "القنصل",
+      "count": 1
+    },
+    {
+      "word": "العام",
+      "count": 1
+    },
+    {
+      "word": "بممثلي",
+      "count": 1
+    },
+    {
+      "word": "جمعيات",
+      "count": 1
+    },
+    {
+      "word": "تونسية",
+      "count": 1
+    },
+    {
+      "word": "التعليم",
+      "count": 1
+    },
+    {
+      "word": "العالي",
+      "count": 1
+    },
+    {
+      "word": "يفتتح",
+      "count": 1
+    },
+    {
+      "word": "بسوسة",
+      "count": 1
+    },
+    {
+      "word": "أشغال",
+      "count": 1
+    },
+    {
+      "word": "المؤتمر",
+      "count": 1
+    },
+    {
+      "word": "الرابع",
+      "count": 1
+    },
+    {
+      "word": "للصحة",
+      "count": 1
+    },
+    {
+      "word": "والبحث",
+      "count": 1
+    },
+    {
+      "word": "والتكوين",
+      "count": 1
+    },
+    {
+      "word": "بطولة",
+      "count": 1
+    },
+    {
+      "word": "النخبة",
+      "count": 1
+    },
+    {
+      "word": "برنامج",
+      "count": 1
+    },
+    {
+      "word": "التاسعة",
+      "count": 1
+    },
+    {
+      "word": "مرحلة",
+      "count": 1
+    },
+    {
+      "word": "التتويج",
+      "count": 1
+    },
+    {
+      "word": "لجنة",
+      "count": 1
+    },
+    {
+      "word": "الاستئناف",
+      "count": 1
+    },
+    {
+      "word": "تقرر",
+      "count": 1
+    },
+    {
+      "word": "تثبيت",
+      "count": 1
+    },
+    {
+      "word": "قرار",
+      "count": 1
+    },
+    {
+      "word": "بقبول",
+      "count": 1
+    },
+    {
+      "word": "اعتراض",
+      "count": 1
+    },
+    {
+      "word": "الاولمبي",
+      "count": 1
+    },
+    {
+      "word": "هزم",
+      "count": 1
+    },
+    {
+      "word": "الملعب",
+      "count": 1
+    },
+    {
+      "word": "جزائيا",
+      "count": 1
+    },
+    {
+      "word": "خمسة",
+      "count": 1
+    },
+    {
+      "word": "لسامي",
+      "count": 1
+    },
+    {
+      "word": "الفهري",
+      "count": 1
+    },
+    {
+      "word": "وست",
+      "count": 1
+    },
+    {
+      "word": "لمنتصر",
+      "count": 1
+    },
+    {
+      "word": "وايلي",
+      "count": 1
+    },
+    {
+      "word": "وخطية",
+      "count": 1
+    },
+    {
+      "word": "تفوق",
+      "count": 1
+    },
+    {
+      "word": "لكل",
+      "count": 1
+    },
+    {
+      "word": "واحد",
+      "count": 1
+    },
+    {
+      "word": "منهما",
+      "count": 1
+    },
+    {
+      "word": "سليانة",
+      "count": 1
+    },
+    {
+      "word": "التدخ",
+      "count": 1
+    },
+    {
+      "word": "الطرقات",
+      "count": 1
+    },
+    {
+      "word": "والمسالك",
+      "count": 1
+    },
+    {
+      "word": "الريفية",
+      "count": 1
+    },
+    {
+      "word": "بالروحية",
+      "count": 1
+    },
+    {
+      "word": "ومكثر",
+      "count": 1
+    },
+    {
+      "word": "وكسرى",
+      "count": 1
+    },
+    {
+      "word": "وسليانة",
+      "count": 1
+    },
+    {
+      "word": "الجنوبية",
+      "count": 1
+    },
+    {
+      "word": "إثر",
+      "count": 1
+    },
+    {
+      "word": "تساقط",
+      "count": 1
+    },
+    {
+      "word": "يدعون",
+      "count": 1
+    },
+    {
+      "word": "المصادقة",
+      "count": 1
+    },
+    {
+      "word": "لتسوية",
+      "count": 1
+    },
+    {
+      "word": "العديد",
+      "count": 1
+    },
+    {
+      "word": "وإدماج",
+      "count": 1
+    },
+    {
+      "word": "هيئة",
+      "count": 1
+    },
+    {
+      "word": "السلامة",
+      "count": 1
+    },
+    {
+      "word": "الصحية",
+      "count": 1
+    },
+    {
+      "word": "للمنتجات",
+      "count": 1
+    },
+    {
+      "word": "تؤكد",
+      "count": 1
+    },
+    {
+      "word": "سليمة",
+      "count": 1
+    },
+    {
+      "word": "وصالحة",
+      "count": 1
+    },
+    {
+      "word": "للاستهلاك",
+      "count": 1
+    },
+    {
+      "word": "وتحذر",
+      "count": 1
+    },
+    {
+      "word": "عملية",
+      "count": 1
+    },
+    {
+      "word": "الصحة",
+      "count": 1
+    },
+    {
+      "word": "ونقل",
+      "count": 1
+    },
+    {
+      "word": "الدم",
+      "count": 1
+    },
+    {
+      "word": "وبوكينا",
+      "count": 1
+    },
+    {
+      "word": "فاسو",
+      "count": 1
+    },
+    {
+      "word": "تسجيل",
+      "count": 1
+    },
+    {
+      "word": "مليمترا",
+      "count": 1
+    },
+    {
+      "word": "الامطار",
+      "count": 1
+    },
+    {
+      "word": "بسد",
+      "count": 1
+    },
+    {
+      "word": "بربرة",
+      "count": 1
+    },
+    {
+      "word": "الماضية",
+      "count": 1
+    },
+    {
+      "word": "اتفاق",
+      "count": 1
+    },
+    {
+      "word": "تونسي",
+      "count": 1
+    },
+    {
+      "word": "ايطالي",
+      "count": 1
+    },
+    {
+      "word": "اقتصادي",
+      "count": 1
+    },
+    {
+      "word": "وتظاهرة",
+      "count": 1
+    },
+    {
+      "word": "ثقافية",
+      "count": 1
+    },
+    {
+      "word": "العلاقات",
+      "count": 1
+    },
+    {
+      "word": "التاريخية",
+      "count": 1
+    },
+    {
+      "word": "طقس",
+      "count": 1
+    },
+    {
+      "word": "تهاطل",
+      "count": 1
+    },
+    {
+      "word": "الأمطار",
+      "count": 1
+    },
+    {
+      "word": "اليوم",
+      "count": 1
+    },
+    {
+      "word": "الاربعاء",
+      "count": 1
+    },
+    {
+      "word": "وغدا",
+      "count": 1
+    },
+    {
+      "word": "الخميس",
+      "count": 1
+    },
+    {
+      "word": "الحماية",
+      "count": 1
+    },
+    {
+      "word": "المدنية",
+      "count": 1
+    },
+    {
+      "word": "تدخلا",
+      "count": 1
+    },
+    {
+      "word": "بينها",
+      "count": 1
+    },
+    {
+      "word": "للإسعاف",
+      "count": 1
+    },
+    {
+      "word": "غير",
+      "count": 1
+    },
+    {
+      "word": "حوادث",
+      "count": 1
+    },
+    {
+      "word": "المرور",
+      "count": 1
+    },
+    {
+      "word": "الأربع",
+      "count": 1
+    },
+    {
+      "word": "يهلوس",
+      "count": 1
+    },
+    {
+      "word": "لسعد",
+      "count": 1
+    },
+    {
+      "word": "الشريطي",
+      "count": 1
+    },
+    {
+      "word": "مدربا",
+      "count": 1
+    },
+    {
+      "word": "جديدا",
+      "count": 1
+    },
+    {
+      "word": "لبعث",
+      "count": 1
+    },
+    {
+      "word": "بوحجلة",
+      "count": 1
+    },
+    {
+      "word": "agil",
+      "count": 1
+    },
+    {
+      "word": "energy",
+      "count": 1
+    },
+    {
+      "word": "met",
+      "count": 1
+    },
+    {
+      "word": "épreuve",
+      "count": 1
+    },
+    {
+      "word": "ses",
+      "count": 1
+    },
+    {
+      "word": "dispositifs",
+      "count": 1
+    },
+    {
+      "word": "gestion",
+      "count": 1
+    },
+    {
+      "word": "وزارة",
+      "count": 1
+    },
+    {
+      "word": "الصناعة",
+      "count": 1
+    },
+    {
+      "word": "تدعو",
+      "count": 1
+    },
+    {
+      "word": "تقديم",
+      "count": 1
+    },
+    {
+      "word": "مشاريع",
+      "count": 1
+    },
+    {
+      "word": "لإنتاج",
+      "count": 1
+    },
+    {
+      "word": "الكهرباء",
+      "count": 1
+    },
+    {
+      "word": "الطاقة",
+      "count": 1
+    },
+    {
+      "word": "الشمسية",
+      "count": 1
+    },
+    {
+      "word": "الفولطاضوئية",
+      "count": 1
+    },
+    {
+      "word": "روسيا",
+      "count": 1
+    },
+    {
+      "word": "تخصيب",
+      "count": 1
+    },
+    {
+      "word": "اليورانيوم",
+      "count": 1
+    },
+    {
+      "word": "حق",
+      "count": 1
+    },
+    {
+      "word": "مؤكد",
+      "count": 1
+    },
+    {
+      "word": "لإيران",
+      "count": 1
+    },
+    {
+      "word": "صحفي",
+      "count": 1
+    },
+    {
+      "word": "abc",
+      "count": 1
+    },
+    {
+      "word": "الأمريكية",
+      "count": 1
+    },
+    {
+      "word": "يعلن",
+      "count": 1
+    },
+    {
+      "word": "يومين",
+      "count": 1
+    },
+    {
+      "word": "رائعين",
+      "count": 1
+    },
+    {
+      "word": "سياق",
+      "count": 1
+    },
+    {
+      "word": "الهدنة",
+      "count": 1
+    },
+    {
+      "word": "إيران",
+      "count": 1
+    },
+    {
+      "word": "لقطة",
+      "count": 1
+    },
+    {
+      "word": "مروعة",
+      "count": 1
+    },
+    {
+      "word": "حرم",
+      "count": 1
+    },
+    {
+      "word": "حقه",
+      "count": 1
+    },
+    {
+      "word": "رئيس",
+      "count": 1
+    },
+    {
+      "word": "وفدا",
+      "count": 1
+    },
+    {
+      "word": "برلمانيا",
+      "count": 1
+    },
+    {
+      "word": "جزائريا",
+      "count": 1
+    },
+    {
+      "word": "الهيئة",
+      "count": 1
+    },
+    {
+      "word": "المحلية",
+      "count": 1
+    },
+    {
+      "word": "للهلال",
+      "count": 1
+    },
+    {
+      "word": "الأحمر",
+      "count": 1
+    },
+    {
+      "word": "بالزهراء",
+      "count": 1
+    },
+    {
+      "word": "تنظ",
+      "count": 1
+    },
+    {
+      "word": "النسخة",
+      "count": 1
+    },
+    {
+      "word": "لتظاهرة",
+      "count": 1
+    },
+    {
+      "word": "اجري",
+      "count": 1
+    },
+    {
+      "word": "الاتحاد",
+      "count": 1
+    },
+    {
+      "word": "الآسيوي",
+      "count": 1
+    },
+    {
+      "word": "القدم",
+      "count": 1
+    },
+    {
+      "word": "يعتزم",
+      "count": 1
+    },
+    {
+      "word": "زيادة",
+      "count": 1
+    },
+    {
+      "word": "أندية",
+      "count": 1
+    },
+    {
+      "word": "للنخبة",
+      "count": 1
+    },
+    {
+      "word": "فريقا",
+      "count": 1
+    },
+    {
+      "word": "توفر",
+      "count": 1
+    },
+    {
+      "word": "الف",
+      "count": 1
+    },
+    {
+      "word": "راسا",
+      "count": 1
+    },
+    {
+      "word": "الاضاحي",
+      "count": 1
+    },
+    {
+      "word": "لتغطية",
+      "count": 1
+    },
+    {
+      "word": "جزء",
+      "count": 1
+    },
+    {
+      "word": "الطلب",
+      "count": 1
+    },
+    {
+      "word": "القائم",
+      "count": 1
+    },
+    {
+      "word": "بالأعمال",
+      "count": 1
+    },
+    {
+      "word": "بالنيابة",
+      "count": 1
+    },
+    {
+      "word": "بسفارة",
+      "count": 1
+    },
+    {
+      "word": "بطرابلس",
+      "count": 1
+    },
+    {
+      "word": "تحويل",
+      "count": 1
+    },
+    {
+      "word": "راس",
+      "count": 1
+    },
+    {
+      "word": "الجدير",
+      "count": 1
+    },
+    {
+      "word": "قاري",
+      "count": 1
+    },
+    {
+      "word": "كاتب",
+      "count": 1
+    },
+    {
+      "word": "لدى",
+      "count": 1
+    },
+    {
+      "word": "سفيري",
+      "count": 1
+    },
+    {
+      "word": "إسبانيا",
+      "count": 1
+    },
+    {
+      "word": "والمملكة",
+      "count": 1
+    },
+    {
+      "word": "المتحدة",
+      "count": 1
+    },
+    {
+      "word": "اللجنة",
+      "count": 1
+    },
+    {
+      "word": "الأولمبية",
+      "count": 1
+    },
+    {
+      "word": "تعز",
+      "count": 1
+    },
+    {
+      "word": "دعمها",
+      "count": 1
+    },
+    {
+      "word": "للأبطال",
+      "count": 1
+    },
+    {
+      "word": "والمواهب",
+      "count": 1
+    },
+    {
+      "word": "الواعدة",
+      "count": 1
+    },
+    {
+      "word": "الرياضة",
+      "count": 1
+    },
+    {
+      "word": "جلسة",
+      "count": 1
+    },
+    {
+      "word": "وفد",
+      "count": 1
+    },
+    {
+      "word": "جزائري",
+      "count": 1
+    },
+    {
+      "word": "الدعوة",
+      "count": 1
+    },
+    {
+      "word": "المبادرات",
+      "count": 1
+    },
+    {
+      "word": "المشتركة",
+      "count": 1
+    },
+    {
+      "word": "إرساء",
+      "count": 1
+    },
+    {
+      "word": "آليات",
+      "count": 1
+    }
+  ]
+}

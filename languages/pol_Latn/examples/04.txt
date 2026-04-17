@@ -1,0 +1,4 @@
+# Source: Wikipedia article "AWK" (https://pl.wikipedia.org/)
+
+Tablice 
+Tablice są indeksowane wyrażeniem ujętym w nawiasy kwadratowe ([]). Jeśli wyrażenie jest listą wyrażeń (wyrażenie, wyrażenie, ...), to indeks tablicy jest sklejany z wartości (łańcuchowych) każdego wyrażenia, oddzielonych wartością zmiennej SUBSEP. Jest tak dlatego, że AWK posiada wyłącznie tablice asocjacyjne, zaś klucze numeryczne pamiętane są jako łańcuchy.

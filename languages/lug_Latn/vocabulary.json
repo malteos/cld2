@@ -1,0 +1,4012 @@
+{
+  "code": "lug",
+  "name": "Ganda",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (lg.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 263117,
+  "unique_tokens": 43346,
+  "words": [
+    {
+      "word": "mu",
+      "count": 10991
+    },
+    {
+      "word": "nga",
+      "count": 5496
+    },
+    {
+      "word": "ku",
+      "count": 5056
+    },
+    {
+      "word": "oba",
+      "count": 3087
+    },
+    {
+      "word": "ne",
+      "count": 2513
+    },
+    {
+      "word": "era",
+      "count": 2140
+    },
+    {
+      "word": "nti",
+      "count": 1659
+    },
+    {
+      "word": "buli",
+      "count": 1306
+    },
+    {
+      "word": "bw",
+      "count": 1294
+    },
+    {
+      "word": "abantu",
+      "count": 1239
+    },
+    {
+      "word": "ng",
+      "count": 1187
+    },
+    {
+      "word": "bwe",
+      "count": 1120
+    },
+    {
+      "word": "ate",
+      "count": 1024
+    },
+    {
+      "word": "omuntu",
+      "count": 1008
+    },
+    {
+      "word": "kino",
+      "count": 990
+    },
+    {
+      "word": "ky",
+      "count": 863
+    },
+    {
+      "word": "ya",
+      "count": 839
+    },
+    {
+      "word": "the",
+      "count": 832
+    },
+    {
+      "word": "okuva",
+      "count": 831
+    },
+    {
+      "word": "nnyo",
+      "count": 796
+    },
+    {
+      "word": "of",
+      "count": 743
+    },
+    {
+      "word": "yuganda",
+      "count": 718
+    },
+    {
+      "word": "by",
+      "count": 676
+    },
+    {
+      "word": "kya",
+      "count": 673
+    },
+    {
+      "word": "namba",
+      "count": 662
+    },
+    {
+      "word": "ey",
+      "count": 640
+    },
+    {
+      "word": "eno",
+      "count": 633
+    },
+    {
+      "word": "okuba",
+      "count": 629
+    },
+    {
+      "word": "naye",
+      "count": 616
+    },
+    {
+      "word": "wa",
+      "count": 612
+    },
+    {
+      "word": "eby",
+      "count": 589
+    },
+    {
+      "word": "gw",
+      "count": 544
+    },
+    {
+      "word": "bwa",
+      "count": 541
+    },
+    {
+      "word": "ez",
+      "count": 541
+    },
+    {
+      "word": "embeera",
+      "count": 533
+    },
+    {
+      "word": "kye",
+      "count": 527
+    },
+    {
+      "word": "empalirizo",
+      "count": 525
+    },
+    {
+      "word": "amazzi",
+      "count": 516
+    },
+    {
+      "word": "bino",
+      "count": 506
+    },
+    {
+      "word": "nsi",
+      "count": 506
+    },
+    {
+      "word": "enjawulo",
+      "count": 504
+    },
+    {
+      "word": "ebintu",
+      "count": 485
+    },
+    {
+      "word": "gwa",
+      "count": 476
+    },
+    {
+      "word": "mbeera",
+      "count": 470
+    },
+    {
+      "word": "okukola",
+      "count": 466
+    },
+    {
+      "word": "ensi",
+      "count": 464
+    },
+    {
+      "word": "singa",
+      "count": 460
+    },
+    {
+      "word": "gy",
+      "count": 459
+    },
+    {
+      "word": "eri",
+      "count": 454
+    },
+    {
+      "word": "za",
+      "count": 453
+    },
+    {
+      "word": "kyokka",
+      "count": 441
+    },
+    {
+      "word": "waliwo",
+      "count": 429
+    },
+    {
+      "word": "kubanga",
+      "count": 427
+    },
+    {
+      "word": "eky",
+      "count": 427
+    },
+    {
+      "word": "gye",
+      "count": 421
+    },
+    {
+      "word": "awamu",
+      "count": 401
+    },
+    {
+      "word": "na",
+      "count": 400
+    },
+    {
+      "word": "zino",
+      "count": 398
+    },
+    {
+      "word": "bya",
+      "count": 389
+    },
+    {
+      "word": "ye",
+      "count": 381
+    },
+    {
+      "word": "ekintu",
+      "count": 377
+    },
+    {
+      "word": "ddala",
+      "count": 370
+    },
+    {
+      "word": "ngeri",
+      "count": 370
+    },
+    {
+      "word": "kuba",
+      "count": 364
+    },
+    {
+      "word": "emu",
+      "count": 360
+    },
+    {
+      "word": "wakati",
+      "count": 354
+    },
+    {
+      "word": "olw",
+      "count": 354
+    },
+    {
+      "word": "eba",
+      "count": 349
+    },
+    {
+      "word": "buno",
+      "count": 349
+    },
+    {
+      "word": "wamu",
+      "count": 345
+    },
+    {
+      "word": "endala",
+      "count": 345
+    },
+    {
+      "word": "to",
+      "count": 344
+    },
+    {
+      "word": "wansi",
+      "count": 344
+    },
+    {
+      "word": "eya",
+      "count": 335
+    },
+    {
+      "word": "emmere",
+      "count": 334
+    },
+    {
+      "word": "engeri",
+      "count": 332
+    },
+    {
+      "word": "obulwadde",
+      "count": 332
+    },
+    {
+      "word": "bye",
+      "count": 331
+    },
+    {
+      "word": "ref",
+      "count": 331
+    },
+    {
+      "word": "we",
+      "count": 329
+    },
+    {
+      "word": "ekibuga",
+      "count": 325
+    },
+    {
+      "word": "kwe",
+      "count": 323
+    },
+    {
+      "word": "ka",
+      "count": 319
+    },
+    {
+      "word": "amasoboza",
+      "count": 309
+    },
+    {
+      "word": "omwana",
+      "count": 306
+    },
+    {
+      "word": "atomu",
+      "count": 304
+    },
+    {
+      "word": "obutonde",
+      "count": 290
+    },
+    {
+      "word": "kiba",
+      "count": 290
+    },
+    {
+      "word": "waggulu",
+      "count": 289
+    },
+    {
+      "word": "abaana",
+      "count": 289
+    },
+    {
+      "word": "endwadde",
+      "count": 289
+    },
+    {
+      "word": "amaanyi",
+      "count": 288
+    },
+    {
+      "word": "ebirala",
+      "count": 286
+    },
+    {
+      "word": "mulimu",
+      "count": 282
+    },
+    {
+      "word": "aba",
+      "count": 281
+    },
+    {
+      "word": "kintu",
+      "count": 279
+    },
+    {
+      "word": "enjuba",
+      "count": 276
+    },
+    {
+      "word": "bulungi",
+      "count": 274
+    },
+    {
+      "word": "akawuka",
+      "count": 273
+    },
+    {
+      "word": "ekyo",
+      "count": 272
+    },
+    {
+      "word": "ze",
+      "count": 271
+    },
+    {
+      "word": "yonna",
+      "count": 268
+    },
+    {
+      "word": "muwanga",
+      "count": 267
+    },
+    {
+      "word": "alina",
+      "count": 263
+    },
+    {
+      "word": "kifo",
+      "count": 262
+    },
+    {
+      "word": "ennyo",
+      "count": 260
+    },
+    {
+      "word": "eddagala",
+      "count": 257
+    },
+    {
+      "word": "okufuna",
+      "count": 255
+    },
+    {
+      "word": "wano",
+      "count": 253
+    },
+    {
+      "word": "obulamu",
+      "count": 252
+    },
+    {
+      "word": "ettaka",
+      "count": 251
+    },
+    {
+      "word": "kitegeeza",
+      "count": 251
+    },
+    {
+      "word": "wabula",
+      "count": 250
+    },
+    {
+      "word": "ki",
+      "count": 250
+    },
+    {
+      "word": "okumanya",
+      "count": 249
+    },
+    {
+      "word": "gwe",
+      "count": 249
+    },
+    {
+      "word": "katonda",
+      "count": 248
+    },
+    {
+      "word": "omubiri",
+      "count": 247
+    },
+    {
+      "word": "be",
+      "count": 243
+    },
+    {
+      "word": "buganda",
+      "count": 237
+    },
+    {
+      "word": "ebyo",
+      "count": 237
+    },
+    {
+      "word": "omu",
+      "count": 236
+    },
+    {
+      "word": "guno",
+      "count": 234
+    },
+    {
+      "word": "ebitundu",
+      "count": 233
+    },
+    {
+      "word": "olina",
+      "count": 233
+    },
+    {
+      "word": "and",
+      "count": 231
+    },
+    {
+      "word": "si",
+      "count": 231
+    },
+    {
+      "word": "luganda",
+      "count": 227
+    },
+    {
+      "word": "naddala",
+      "count": 226
+    },
+    {
+      "word": "uganda",
+      "count": 225
+    },
+    {
+      "word": "lw",
+      "count": 224
+    },
+    {
+      "word": "ii",
+      "count": 222
+    },
+    {
+      "word": "okusobola",
+      "count": 222
+    },
+    {
+      "word": "maaso",
+      "count": 220
+    },
+    {
+      "word": "bantu",
+      "count": 220
+    },
+    {
+      "word": "obulungi",
+      "count": 220
+    },
+    {
+      "word": "kw",
+      "count": 219
+    },
+    {
+      "word": "ga",
+      "count": 218
+    },
+    {
+      "word": "obuziba",
+      "count": 217
+    },
+    {
+      "word": "muntu",
+      "count": 216
+    },
+    {
+      "word": "obw",
+      "count": 216
+    },
+    {
+      "word": "kimu",
+      "count": 216
+    },
+    {
+      "word": "oyinza",
+      "count": 215
+    },
+    {
+      "word": "ensonga",
+      "count": 212
+    },
+    {
+      "word": "abalala",
+      "count": 212
+    },
+    {
+      "word": "lya",
+      "count": 208
+    },
+    {
+      "word": "okukozesa",
+      "count": 205
+    },
+    {
+      "word": "sayansi",
+      "count": 205
+    },
+    {
+      "word": "ly",
+      "count": 204
+    },
+    {
+      "word": "ebiramu",
+      "count": 204
+    },
+    {
+      "word": "okutuuka",
+      "count": 201
+    },
+    {
+      "word": "okusinga",
+      "count": 197
+    },
+    {
+      "word": "ensolo",
+      "count": 194
+    },
+    {
+      "word": "eyo",
+      "count": 190
+    },
+    {
+      "word": "mwe",
+      "count": 189
+    },
+    {
+      "word": "ensengekera",
+      "count": 189
+    },
+    {
+      "word": "yadde",
+      "count": 188
+    },
+    {
+      "word": "olwo",
+      "count": 185
+    },
+    {
+      "word": "byonna",
+      "count": 184
+    },
+    {
+      "word": "bbiri",
+      "count": 183
+    },
+    {
+      "word": "okubeera",
+      "count": 182
+    },
+    {
+      "word": "ennamba",
+      "count": 180
+    },
+    {
+      "word": "enkulungo",
+      "count": 178
+    },
+    {
+      "word": "okulaba",
+      "count": 177
+    },
+    {
+      "word": "omuwendo",
+      "count": 175
+    },
+    {
+      "word": "awatali",
+      "count": 174
+    },
+    {
+      "word": "okugeza",
+      "count": 173
+    },
+    {
+      "word": "kiva",
+      "count": 173
+    },
+    {
+      "word": "akaziba",
+      "count": 173
+    },
+    {
+      "word": "lwa",
+      "count": 172
+    },
+    {
+      "word": "akabonero",
+      "count": 171
+    },
+    {
+      "word": "lvceep",
+      "count": 171
+    },
+    {
+      "word": "awo",
+      "count": 169
+    },
+    {
+      "word": "enkola",
+      "count": 167
+    },
+    {
+      "word": "okuyita",
+      "count": 166
+    },
+    {
+      "word": "bulamu",
+      "count": 166
+    },
+    {
+      "word": "charles",
+      "count": 166
+    },
+    {
+      "word": "ba",
+      "count": 165
+    },
+    {
+      "word": "oli",
+      "count": 165
+    },
+    {
+      "word": "wwf",
+      "count": 165
+    },
+    {
+      "word": "is",
+      "count": 164
+    },
+    {
+      "word": "omuli",
+      "count": 164
+    },
+    {
+      "word": "eza",
+      "count": 163
+    },
+    {
+      "word": "disitulikiti",
+      "count": 163
+    },
+    {
+      "word": "yo",
+      "count": 161
+    },
+    {
+      "word": "ebika",
+      "count": 160
+    },
+    {
+      "word": "in",
+      "count": 159
+    },
+    {
+      "word": "okulabirako",
+      "count": 159
+    },
+    {
+      "word": "kiri",
+      "count": 158
+    },
+    {
+      "word": "oluvannyuma",
+      "count": 158
+    },
+    {
+      "word": "bigambo",
+      "count": 156
+    },
+    {
+      "word": "obusannyalazo",
+      "count": 156
+    },
+    {
+      "word": "ebiri",
+      "count": 155
+    },
+    {
+      "word": "ogwa",
+      "count": 155
+    },
+    {
+      "word": "ag",
+      "count": 154
+    },
+    {
+      "word": "ebimera",
+      "count": 154
+    },
+    {
+      "word": "mubiri",
+      "count": 154
+    },
+    {
+      "word": "obuntu",
+      "count": 154
+    },
+    {
+      "word": "obwa",
+      "count": 153
+    },
+    {
+      "word": "ali",
+      "count": 153
+    },
+    {
+      "word": "lwe",
+      "count": 151
+    },
+    {
+      "word": "kwa",
+      "count": 150
+    },
+    {
+      "word": "kabaka",
+      "count": 149
+    },
+    {
+      "word": "bitundu",
+      "count": 148
+    },
+    {
+      "word": "ttaka",
+      "count": 148
+    },
+    {
+      "word": "bintu",
+      "count": 148
+    },
+    {
+      "word": "amakumi",
+      "count": 147
+    },
+    {
+      "word": "ono",
+      "count": 147
+    },
+    {
+      "word": "bingi",
+      "count": 146
+    },
+    {
+      "word": "lino",
+      "count": 146
+    },
+    {
+      "word": "yali",
+      "count": 146
+    },
+    {
+      "word": "ebirowoozo",
+      "count": 146
+    },
+    {
+      "word": "erina",
+      "count": 145
+    },
+    {
+      "word": "ziba",
+      "count": 145
+    },
+    {
+      "word": "omugendo",
+      "count": 145
+    },
+    {
+      "word": "obuzibu",
+      "count": 144
+    },
+    {
+      "word": "munda",
+      "count": 144
+    },
+    {
+      "word": "empewo",
+      "count": 144
+    },
+    {
+      "word": "enzitoya",
+      "count": 144
+    },
+    {
+      "word": "okusinziira",
+      "count": 143
+    },
+    {
+      "word": "obubonero",
+      "count": 143
+    },
+    {
+      "word": "bulijjo",
+      "count": 143
+    },
+    {
+      "word": "kati",
+      "count": 142
+    },
+    {
+      "word": "iii",
+      "count": 142
+    },
+    {
+      "word": "zonna",
+      "count": 141
+    },
+    {
+      "word": "olwekyo",
+      "count": 141
+    },
+    {
+      "word": "energy",
+      "count": 141
+    },
+    {
+      "word": "oyo",
+      "count": 140
+    },
+    {
+      "word": "ekitangaala",
+      "count": 140
+    },
+    {
+      "word": "bwengula",
+      "count": 139
+    },
+    {
+      "word": "namunigina",
+      "count": 139
+    },
+    {
+      "word": "ekya",
+      "count": 138
+    },
+    {
+      "word": "km",
+      "count": 137
+    },
+    {
+      "word": "ow",
+      "count": 137
+    },
+    {
+      "word": "kuva",
+      "count": 137
+    },
+    {
+      "word": "oluganda",
+      "count": 137
+    },
+    {
+      "word": "km²",
+      "count": 135
+    },
+    {
+      "word": "ezo",
+      "count": 135
+    },
+    {
+      "word": "gya",
+      "count": 135
+    },
+    {
+      "word": "mazzi",
+      "count": 135
+    },
+    {
+      "word": "ge",
+      "count": 133
+    },
+    {
+      "word": "byo",
+      "count": 133
+    },
+    {
+      "word": "olwa",
+      "count": 132
+    },
+    {
+      "word": "obungi",
+      "count": 132
+    },
+    {
+      "word": "ekimu",
+      "count": 130
+    },
+    {
+      "word": "amateeka",
+      "count": 130
+    },
+    {
+      "word": "amawanga",
+      "count": 130
+    },
+    {
+      "word": "ebisolo",
+      "count": 130
+    },
+    {
+      "word": "gakuweebwa",
+      "count": 130
+    },
+    {
+      "word": "kiyitibwa",
+      "count": 129
+    },
+    {
+      "word": "or",
+      "count": 129
+    },
+    {
+      "word": "butonde",
+      "count": 129
+    },
+    {
+      "word": "obugazi",
+      "count": 128
+    },
+    {
+      "word": "gano",
+      "count": 126
+    },
+    {
+      "word": "ebimu",
+      "count": 125
+    },
+    {
+      "word": "ekikolwa",
+      "count": 125
+    },
+    {
+      "word": "ekifo",
+      "count": 124
+    },
+    {
+      "word": "kiseera",
+      "count": 124
+    },
+    {
+      "word": "abo",
+      "count": 124
+    },
+    {
+      "word": "obwongo",
+      "count": 123
+    },
+    {
+      "word": "okudda",
+      "count": 123
+    },
+    {
+      "word": "numbers",
+      "count": 123
+    },
+    {
+      "word": "baana",
+      "count": 122
+    },
+    {
+      "word": "enkoko",
+      "count": 122
+    },
+    {
+      "word": "mmere",
+      "count": 122
+    },
+    {
+      "word": "abamu",
+      "count": 121
+    },
+    {
+      "word": "hiv",
+      "count": 121
+    },
+    {
+      "word": "lwaki",
+      "count": 121
+    },
+    {
+      "word": "motion",
+      "count": 120
+    },
+    {
+      "word": "molekyo",
+      "count": 120
+    },
+    {
+      "word": "mwaka",
+      "count": 119
+    },
+    {
+      "word": "emyaka",
+      "count": 119
+    },
+    {
+      "word": "amasannyalaze",
+      "count": 119
+    },
+    {
+      "word": "osobola",
+      "count": 118
+    },
+    {
+      "word": "emiti",
+      "count": 118
+    },
+    {
+      "word": "kano",
+      "count": 116
+    },
+    {
+      "word": "chemical",
+      "count": 116
+    },
+    {
+      "word": "disitulikit",
+      "count": 115
+    },
+    {
+      "word": "obudde",
+      "count": 114
+    },
+    {
+      "word": "okumala",
+      "count": 114
+    },
+    {
+      "word": "kikolwa",
+      "count": 114
+    },
+    {
+      "word": "mpalirizo",
+      "count": 114
+    },
+    {
+      "word": "kitundu",
+      "count": 113
+    },
+    {
+      "word": "ab",
+      "count": 113
+    },
+    {
+      "word": "tewali",
+      "count": 113
+    },
+    {
+      "word": "ayinza",
+      "count": 113
+    },
+    {
+      "word": "kaboni",
+      "count": 113
+    },
+    {
+      "word": "gamba",
+      "count": 112
+    },
+    {
+      "word": "omusaayi",
+      "count": 111
+    },
+    {
+      "word": "ekiseera",
+      "count": 110
+    },
+    {
+      "word": "emirimu",
+      "count": 110
+    },
+    {
+      "word": "nampewo",
+      "count": 109
+    },
+    {
+      "word": "bonna",
+      "count": 108
+    },
+    {
+      "word": "ente",
+      "count": 108
+    },
+    {
+      "word": "ekitundu",
+      "count": 107
+    },
+    {
+      "word": "oluusi",
+      "count": 107
+    },
+    {
+      "word": "iv",
+      "count": 107
+    },
+    {
+      "word": "ddagala",
+      "count": 106
+    },
+    {
+      "word": "okuzimba",
+      "count": 104
+    },
+    {
+      "word": "kiyinza",
+      "count": 104
+    },
+    {
+      "word": "magineeti",
+      "count": 104
+    },
+    {
+      "word": "afirika",
+      "count": 103
+    },
+    {
+      "word": "laba",
+      "count": 103
+    },
+    {
+      "word": "kyonna",
+      "count": 103
+    },
+    {
+      "word": "negatiivu",
+      "count": 103
+    },
+    {
+      "word": "asobola",
+      "count": 102
+    },
+    {
+      "word": "egy",
+      "count": 102
+    },
+    {
+      "word": "okukendeeza",
+      "count": 102
+    },
+    {
+      "word": "so",
+      "count": 100
+    },
+    {
+      "word": "okukuuma",
+      "count": 100
+    },
+    {
+      "word": "mugendo",
+      "count": 100
+    },
+    {
+      "word": "ennaku",
+      "count": 100
+    },
+    {
+      "word": "ebya",
+      "count": 100
+    },
+    {
+      "word": "njuba",
+      "count": 100
+    },
+    {
+      "word": "empiki",
+      "count": 100
+    },
+    {
+      "word": "endagakintu",
+      "count": 100
+    },
+    {
+      "word": "erimu",
+      "count": 99
+    },
+    {
+      "word": "gino",
+      "count": 99
+    },
+    {
+      "word": "ekirala",
+      "count": 99
+    },
+    {
+      "word": "buba",
+      "count": 99
+    },
+    {
+      "word": "obulabe",
+      "count": 99
+    },
+    {
+      "word": "wo",
+      "count": 98
+    },
+    {
+      "word": "ekibalangulo",
+      "count": 98
+    },
+    {
+      "word": "molekyu",
+      "count": 98
+    },
+    {
+      "word": "ekikulu",
+      "count": 97
+    },
+    {
+      "word": "lye",
+      "count": 97
+    },
+    {
+      "word": "ebiseera",
+      "count": 97
+    },
+    {
+      "word": "yenna",
+      "count": 97
+    },
+    {
+      "word": "nno",
+      "count": 96
+    },
+    {
+      "word": "ekiyitibwa",
+      "count": 96
+    },
+    {
+      "word": "obusobozi",
+      "count": 96
+    },
+    {
+      "word": "force",
+      "count": 96
+    },
+    {
+      "word": "ggwanga",
+      "count": 95
+    },
+    {
+      "word": "omusujja",
+      "count": 95
+    },
+    {
+      "word": "kyetaagisa",
+      "count": 95
+    },
+    {
+      "word": "makkati",
+      "count": 95
+    },
+    {
+      "word": "kika",
+      "count": 94
+    },
+    {
+      "word": "ekika",
+      "count": 94
+    },
+    {
+      "word": "omwenge",
+      "count": 94
+    },
+    {
+      "word": "ekibalo",
+      "count": 94
+    },
+    {
+      "word": "ery",
+      "count": 93
+    },
+    {
+      "word": "ebisinga",
+      "count": 92
+    },
+    {
+      "word": "njawulo",
+      "count": 92
+    },
+    {
+      "word": "mangu",
+      "count": 92
+    },
+    {
+      "word": "ebbugumu",
+      "count": 92
+    },
+    {
+      "word": "balina",
+      "count": 91
+    },
+    {
+      "word": "okulya",
+      "count": 91
+    },
+    {
+      "word": "myaka",
+      "count": 90
+    },
+    {
+      "word": "eyitibwa",
+      "count": 90
+    },
+    {
+      "word": "langi",
+      "count": 90
+    },
+    {
+      "word": "number",
+      "count": 89
+    },
+    {
+      "word": "amakulu",
+      "count": 89
+    },
+    {
+      "word": "ggaasi",
+      "count": 89
+    },
+    {
+      "word": "omulimu",
+      "count": 88
+    },
+    {
+      "word": "ogw",
+      "count": 88
+    },
+    {
+      "word": "tuba",
+      "count": 88
+    },
+    {
+      "word": "ebikozesebwa",
+      "count": 88
+    },
+    {
+      "word": "emiramwa",
+      "count": 88
+    },
+    {
+      "word": "omulala",
+      "count": 87
+    },
+    {
+      "word": "muno",
+      "count": 87
+    },
+    {
+      "word": "bwo",
+      "count": 87
+    },
+    {
+      "word": "abali",
+      "count": 87
+    },
+    {
+      "word": "ela",
+      "count": 87
+    },
+    {
+      "word": "ennyanguyirizi",
+      "count": 87
+    },
+    {
+      "word": "gumu",
+      "count": 86
+    },
+    {
+      "word": "omusingi",
+      "count": 86
+    },
+    {
+      "word": "emirundi",
+      "count": 86
+    },
+    {
+      "word": "okulima",
+      "count": 86
+    },
+    {
+      "word": "obutoffaali",
+      "count": 86
+    },
+    {
+      "word": "guba",
+      "count": 86
+    },
+    {
+      "word": "bungi",
+      "count": 86
+    },
+    {
+      "word": "nsonga",
+      "count": 85
+    },
+    {
+      "word": "erinnya",
+      "count": 85
+    },
+    {
+      "word": "omulamwa",
+      "count": 85
+    },
+    {
+      "word": "nnyingi",
+      "count": 85
+    },
+    {
+      "word": "edda",
+      "count": 85
+    },
+    {
+      "word": "ekitegeeza",
+      "count": 85
+    },
+    {
+      "word": "enkula",
+      "count": 85
+    },
+    {
+      "word": "ebigambo",
+      "count": 84
+    },
+    {
+      "word": "enkyukakyuka",
+      "count": 84
+    },
+    {
+      "word": "entobazi",
+      "count": 84
+    },
+    {
+      "word": "gavumenti",
+      "count": 83
+    },
+    {
+      "word": "bibiri",
+      "count": 83
+    },
+    {
+      "word": "kukola",
+      "count": 83
+    },
+    {
+      "word": "system",
+      "count": 83
+    },
+    {
+      "word": "abato",
+      "count": 83
+    },
+    {
+      "word": "maanyi",
+      "count": 83
+    },
+    {
+      "word": "mathematical",
+      "count": 83
+    },
+    {
+      "word": "ekitambuzo",
+      "count": 83
+    },
+    {
+      "word": "ebirime",
+      "count": 82
+    },
+    {
+      "word": "kuno",
+      "count": 81
+    },
+    {
+      "word": "kilo",
+      "count": 81
+    },
+    {
+      "word": "awaka",
+      "count": 81
+    },
+    {
+      "word": "kyagi",
+      "count": 81
+    },
+    {
+      "word": "ebikolwa",
+      "count": 80
+    },
+    {
+      "word": "bangi",
+      "count": 80
+    },
+    {
+      "word": "ekiri",
+      "count": 80
+    },
+    {
+      "word": "ludda",
+      "count": 80
+    },
+    {
+      "word": "empisa",
+      "count": 80
+    },
+    {
+      "word": "amagezi",
+      "count": 80
+    },
+    {
+      "word": "okubaawo",
+      "count": 80
+    },
+    {
+      "word": "kirina",
+      "count": 80
+    },
+    {
+      "word": "essikirizo",
+      "count": 80
+    },
+    {
+      "word": "ggwe",
+      "count": 79
+    },
+    {
+      "word": "enku",
+      "count": 79
+    },
+    {
+      "word": "bulwadde",
+      "count": 79
+    },
+    {
+      "word": "bwonna",
+      "count": 79
+    },
+    {
+      "word": "okwewala",
+      "count": 79
+    },
+    {
+      "word": "zo",
+      "count": 78
+    },
+    {
+      "word": "okulaga",
+      "count": 78
+    },
+    {
+      "word": "mulamwa",
+      "count": 77
+    },
+    {
+      "word": "buziba",
+      "count": 77
+    },
+    {
+      "word": "mw",
+      "count": 76
+    },
+    {
+      "word": "emigaso",
+      "count": 76
+    },
+    {
+      "word": "with",
+      "count": 75
+    },
+    {
+      "word": "kkumi",
+      "count": 75
+    },
+    {
+      "word": "nkola",
+      "count": 75
+    },
+    {
+      "word": "biba",
+      "count": 75
+    },
+    {
+      "word": "obuwanvu",
+      "count": 75
+    },
+    {
+      "word": "okukozesebwa",
+      "count": 75
+    },
+    {
+      "word": "omukka",
+      "count": 75
+    },
+    {
+      "word": "ennyingo",
+      "count": 75
+    },
+    {
+      "word": "obukontanyo",
+      "count": 75
+    },
+    {
+      "word": "n'ebirala",
+      "count": 74
+    },
+    {
+      "word": "kamu",
+      "count": 74
+    },
+    {
+      "word": "bano",
+      "count": 74
+    },
+    {
+      "word": "biseera",
+      "count": 74
+    },
+    {
+      "word": "agamba",
+      "count": 74
+    },
+    {
+      "word": "baba",
+      "count": 74
+    },
+    {
+      "word": "amangu",
+      "count": 74
+    },
+    {
+      "word": "emisinde",
+      "count": 74
+    },
+    {
+      "word": "etteeka",
+      "count": 74
+    },
+    {
+      "word": "nampawengwa",
+      "count": 74
+    },
+    {
+      "word": "omugerageranyo",
+      "count": 74
+    },
+    {
+      "word": "from",
+      "count": 73
+    },
+    {
+      "word": "ensibuko",
+      "count": 73
+    },
+    {
+      "word": "emabega",
+      "count": 73
+    },
+    {
+      "word": "enkuba",
+      "count": 73
+    },
+    {
+      "word": "empagi",
+      "count": 73
+    },
+    {
+      "word": "kkalwe",
+      "count": 73
+    },
+    {
+      "word": "for",
+      "count": 72
+    },
+    {
+      "word": "obukadde",
+      "count": 72
+    },
+    {
+      "word": "okwagala",
+      "count": 72
+    },
+    {
+      "word": "abakulu",
+      "count": 72
+    },
+    {
+      "word": "olubuto",
+      "count": 72
+    },
+    {
+      "word": "ensigo",
+      "count": 72
+    },
+    {
+      "word": "tuyinza",
+      "count": 72
+    },
+    {
+      "word": "okisigyeni",
+      "count": 72
+    },
+    {
+      "word": "okwogera",
+      "count": 71
+    },
+    {
+      "word": "mukaaga",
+      "count": 71
+    },
+    {
+      "word": "abiri",
+      "count": 71
+    },
+    {
+      "word": "okuyamba",
+      "count": 71
+    },
+    {
+      "word": "kaba",
+      "count": 71
+    },
+    {
+      "word": "okutya",
+      "count": 71
+    },
+    {
+      "word": "omuti",
+      "count": 71
+    },
+    {
+      "word": "obutono",
+      "count": 70
+    },
+    {
+      "word": "bwongo",
+      "count": 70
+    },
+    {
+      "word": "eziri",
+      "count": 70
+    },
+    {
+      "word": "forces",
+      "count": 70
+    },
+    {
+      "word": "ebibira",
+      "count": 69
+    },
+    {
+      "word": "nayo",
+      "count": 69
+    },
+    {
+      "word": "kozesa",
+      "count": 69
+    },
+    {
+      "word": "butuufu",
+      "count": 69
+    },
+    {
+      "word": "abalina",
+      "count": 69
+    },
+    {
+      "word": "obuwangwa",
+      "count": 69
+    },
+    {
+      "word": "nabuzimbe",
+      "count": 69
+    },
+    {
+      "word": "obwengula",
+      "count": 69
+    },
+    {
+      "word": "entabaganya",
+      "count": 69
+    },
+    {
+      "word": "nnya",
+      "count": 68
+    },
+    {
+      "word": "kumanya",
+      "count": 68
+    },
+    {
+      "word": "nabo",
+      "count": 68
+    },
+    {
+      "word": "gwo",
+      "count": 68
+    },
+    {
+      "word": "bbanga",
+      "count": 68
+    },
+    {
+      "word": "anti",
+      "count": 68
+    },
+    {
+      "word": "vi",
+      "count": 68
+    },
+    {
+      "word": "manya",
+      "count": 68
+    },
+    {
+      "word": "eggwanga",
+      "count": 67
+    },
+    {
+      "word": "lunaku",
+      "count": 67
+    },
+    {
+      "word": "mugaso",
+      "count": 67
+    },
+    {
+      "word": "ebyenfuna",
+      "count": 67
+    },
+    {
+      "word": "wiiki",
+      "count": 67
+    },
+    {
+      "word": "sooka",
+      "count": 67
+    },
+    {
+      "word": "nsolo",
+      "count": 67
+    },
+    {
+      "word": "bulaaya",
+      "count": 66
+    },
+    {
+      "word": "tulina",
+      "count": 66
+    },
+    {
+      "word": "kumpi",
+      "count": 66
+    },
+    {
+      "word": "kasooli",
+      "count": 66
+    },
+    {
+      "word": "wammanga",
+      "count": 66
+    },
+    {
+      "word": "obuzito",
+      "count": 66
+    },
+    {
+      "word": "lulimi",
+      "count": 66
+    },
+    {
+      "word": "omuddo",
+      "count": 66
+    },
+    {
+      "word": "y'akaziba",
+      "count": 66
+    },
+    {
+      "word": "endowooza",
+      "count": 65
+    },
+    {
+      "word": "maka",
+      "count": 65
+    },
+    {
+      "word": "are",
+      "count": 65
+    },
+    {
+      "word": "obuwuka",
+      "count": 65
+    },
+    {
+      "word": "kikontana",
+      "count": 65
+    },
+    {
+      "word": "that",
+      "count": 64
+    },
+    {
+      "word": "okutuusa",
+      "count": 64
+    },
+    {
+      "word": "zirina",
+      "count": 64
+    },
+    {
+      "word": "mingi",
+      "count": 64
+    },
+    {
+      "word": "okuteeka",
+      "count": 64
+    },
+    {
+      "word": "motoka",
+      "count": 64
+    },
+    {
+      "word": "obulala",
+      "count": 64
+    },
+    {
+      "word": "birina",
+      "count": 64
+    },
+    {
+      "word": "omuzadde",
+      "count": 64
+    },
+    {
+      "word": "ebikusike",
+      "count": 64
+    },
+    {
+      "word": "obuziizi",
+      "count": 64
+    },
+    {
+      "word": "obunene",
+      "count": 63
+    },
+    {
+      "word": "ana",
+      "count": 63
+    },
+    {
+      "word": "kumi",
+      "count": 63
+    },
+    {
+      "word": "kikumi",
+      "count": 63
+    },
+    {
+      "word": "okugenda",
+      "count": 63
+    },
+    {
+      "word": "ezitali",
+      "count": 63
+    },
+    {
+      "word": "amafuta",
+      "count": 63
+    },
+    {
+      "word": "mass",
+      "count": 63
+    },
+    {
+      "word": "ke",
+      "count": 62
+    },
+    {
+      "word": "obwo",
+      "count": 62
+    },
+    {
+      "word": "okusingawo",
+      "count": 62
+    },
+    {
+      "word": "luno",
+      "count": 62
+    },
+    {
+      "word": "akola",
+      "count": 62
+    },
+    {
+      "word": "okubala",
+      "count": 62
+    },
+    {
+      "word": "ebikoola",
+      "count": 62
+    },
+    {
+      "word": "bimu",
+      "count": 62
+    },
+    {
+      "word": "ennene",
+      "count": 62
+    },
+    {
+      "word": "tukozesa",
+      "count": 62
+    },
+    {
+      "word": "obuzimbe",
+      "count": 62
+    },
+    {
+      "word": "as",
+      "count": 61
+    },
+    {
+      "word": "baali",
+      "count": 61
+    },
+    {
+      "word": "ebitali",
+      "count": 61
+    },
+    {
+      "word": "enteekateeka",
+      "count": 61
+    },
+    {
+      "word": "omusawo",
+      "count": 61
+    },
+    {
+      "word": "okuyiga",
+      "count": 61
+    },
+    {
+      "word": "ensikirizo",
+      "count": 61
+    },
+    {
+      "word": "namuziga",
+      "count": 61
+    },
+    {
+      "word": "kampala",
+      "count": 60
+    },
+    {
+      "word": "mawanga",
+      "count": 60
+    },
+    {
+      "word": "obumu",
+      "count": 60
+    },
+    {
+      "word": "amannya",
+      "count": 60
+    },
+    {
+      "word": "bwabwe",
+      "count": 60
+    },
+    {
+      "word": "mwana",
+      "count": 60
+    },
+    {
+      "word": "olumu",
+      "count": 60
+    },
+    {
+      "word": "musaayi",
+      "count": 60
+    },
+    {
+      "word": "ezimu",
+      "count": 60
+    },
+    {
+      "word": "kamwa",
+      "count": 60
+    },
+    {
+      "word": "okutegeera",
+      "count": 60
+    },
+    {
+      "word": "musanvu",
+      "count": 59
+    },
+    {
+      "word": "ekyokulabirako",
+      "count": 59
+    },
+    {
+      "word": "enda",
+      "count": 59
+    },
+    {
+      "word": "omutwe",
+      "count": 59
+    },
+    {
+      "word": "ekigambo",
+      "count": 59
+    },
+    {
+      "word": "okukyusa",
+      "count": 59
+    },
+    {
+      "word": "kiyamba",
+      "count": 59
+    },
+    {
+      "word": "enkulaakulana",
+      "count": 59
+    },
+    {
+      "word": "enkozesa",
+      "count": 59
+    },
+    {
+      "word": "okw",
+      "count": 59
+    },
+    {
+      "word": "masoboza",
+      "count": 59
+    },
+    {
+      "word": "ekikyusabuziba",
+      "count": 59
+    },
+    {
+      "word": "pozitiivu",
+      "count": 59
+    },
+    {
+      "word": "abaganda",
+      "count": 58
+    },
+    {
+      "word": "olaba",
+      "count": 58
+    },
+    {
+      "word": "okufa",
+      "count": 58
+    },
+    {
+      "word": "wabaawo",
+      "count": 58
+    },
+    {
+      "word": "ensimbi",
+      "count": 58
+    },
+    {
+      "word": "enkolagana",
+      "count": 58
+    },
+    {
+      "word": "omulimi",
+      "count": 58
+    },
+    {
+      "word": "mathematics",
+      "count": 58
+    },
+    {
+      "word": "kalonda",
+      "count": 58
+    },
+    {
+      "word": "owa",
+      "count": 57
+    },
+    {
+      "word": "www",
+      "count": 57
+    },
+    {
+      "word": "eyinza",
+      "count": 57
+    },
+    {
+      "word": "abeera",
+      "count": 57
+    },
+    {
+      "word": "lubuto",
+      "count": 57
+    },
+    {
+      "word": "bubonero",
+      "count": 57
+    },
+    {
+      "word": "bakozesa",
+      "count": 57
+    },
+    {
+      "word": "omugaso",
+      "count": 57
+    },
+    {
+      "word": "ddyo",
+      "count": 57
+    },
+    {
+      "word": "matter",
+      "count": 57
+    },
+    {
+      "word": "gravity",
+      "count": 57
+    },
+    {
+      "word": "atom",
+      "count": 57
+    },
+    {
+      "word": "nkulungo",
+      "count": 57
+    },
+    {
+      "word": "entunnunsi",
+      "count": 57
+    },
+    {
+      "word": "entababutonde",
+      "count": 57
+    },
+    {
+      "word": "okufuga",
+      "count": 56
+    },
+    {
+      "word": "bo",
+      "count": 56
+    },
+    {
+      "word": "bali",
+      "count": 56
+    },
+    {
+      "word": "olulimi",
+      "count": 56
+    },
+    {
+      "word": "oyagala",
+      "count": 56
+    },
+    {
+      "word": "afuna",
+      "count": 56
+    },
+    {
+      "word": "embi",
+      "count": 56
+    },
+    {
+      "word": "abakyala",
+      "count": 56
+    },
+    {
+      "word": "ebiwuka",
+      "count": 56
+    },
+    {
+      "word": "emisango",
+      "count": 56
+    },
+    {
+      "word": "ekipimo",
+      "count": 56
+    },
+    {
+      "word": "ennukuta",
+      "count": 56
+    },
+    {
+      "word": "kikwata",
+      "count": 56
+    },
+    {
+      "word": "obutaffaali",
+      "count": 56
+    },
+    {
+      "word": "lulattini",
+      "count": 56
+    },
+    {
+      "word": "ekibiina",
+      "count": 55
+    },
+    {
+      "word": "kyo",
+      "count": 55
+    },
+    {
+      "word": "emitendera",
+      "count": 55
+    },
+    {
+      "word": "ko",
+      "count": 55
+    },
+    {
+      "word": "agenda",
+      "count": 55
+    },
+    {
+      "word": "mutendera",
+      "count": 55
+    },
+    {
+      "word": "weetegereze",
+      "count": 55
+    },
+    {
+      "word": "amaaso",
+      "count": 55
+    },
+    {
+      "word": "abazadde",
+      "count": 55
+    },
+    {
+      "word": "tekinologiya",
+      "count": 55
+    },
+    {
+      "word": "poliisi",
+      "count": 55
+    },
+    {
+      "word": "amakkati",
+      "count": 55
+    },
+    {
+      "word": "ebifo",
+      "count": 54
+    },
+    {
+      "word": "water",
+      "count": 54
+    },
+    {
+      "word": "movement",
+      "count": 54
+    },
+    {
+      "word": "ebyuma",
+      "count": 54
+    },
+    {
+      "word": "nakyo",
+      "count": 54
+    },
+    {
+      "word": "kawooya",
+      "count": 54
+    },
+    {
+      "word": "obuyinza",
+      "count": 54
+    },
+    {
+      "word": "ebitongole",
+      "count": 54
+    },
+    {
+      "word": "ayidologyeni",
+      "count": 54
+    },
+    {
+      "word": "n'abantu",
+      "count": 53
+    },
+    {
+      "word": "ebbanga",
+      "count": 53
+    },
+    {
+      "word": "g'afirika",
+      "count": 53
+    },
+    {
+      "word": "obugunjufu",
+      "count": 53
+    },
+    {
+      "word": "zirimu",
+      "count": 53
+    },
+    {
+      "word": "okwongera",
+      "count": 53
+    },
+    {
+      "word": "ennungi",
+      "count": 53
+    },
+    {
+      "word": "joyce",
+      "count": 53
+    },
+    {
+      "word": "nanjobe",
+      "count": 53
+    },
+    {
+      "word": "omulwadde",
+      "count": 53
+    },
+    {
+      "word": "ndwadde",
+      "count": 53
+    },
+    {
+      "word": "omweso",
+      "count": 53
+    },
+    {
+      "word": "okwetoloola",
+      "count": 53
+    },
+    {
+      "word": "esikira",
+      "count": 53
+    },
+    {
+      "word": "obuwangaaliro",
+      "count": 53
+    },
+    {
+      "word": "akawakatirwa",
+      "count": 53
+    },
+    {
+      "word": "kirimu",
+      "count": 52
+    },
+    {
+      "word": "buwangwa",
+      "count": 52
+    },
+    {
+      "word": "bifo",
+      "count": 52
+    },
+    {
+      "word": "erya",
+      "count": 52
+    },
+    {
+      "word": "byabwe",
+      "count": 52
+    },
+    {
+      "word": "omusajja",
+      "count": 52
+    },
+    {
+      "word": "lumonde",
+      "count": 52
+    },
+    {
+      "word": "omwaka",
+      "count": 52
+    },
+    {
+      "word": "cell",
+      "count": 52
+    },
+    {
+      "word": "mmeeza",
+      "count": 52
+    },
+    {
+      "word": "kyagulanyi",
+      "count": 52
+    },
+    {
+      "word": "ekikuubagano",
+      "count": 52
+    },
+    {
+      "word": "oludda",
+      "count": 51
+    },
+    {
+      "word": "okusooka",
+      "count": 51
+    },
+    {
+      "word": "obuvune",
+      "count": 51
+    },
+    {
+      "word": "nabire",
+      "count": 51
+    },
+    {
+      "word": "atomic",
+      "count": 51
+    },
+    {
+      "word": "ngulu",
+      "count": 50
+    },
+    {
+      "word": "on",
+      "count": 50
+    },
+    {
+      "word": "biri",
+      "count": 50
+    },
+    {
+      "word": "mulembe",
+      "count": 50
+    },
+    {
+      "word": "mwenda",
+      "count": 50
+    },
+    {
+      "word": "bika",
+      "count": 50
+    },
+    {
+      "word": "omutima",
+      "count": 50
+    },
+    {
+      "word": "kava",
+      "count": 50
+    },
+    {
+      "word": "ogenda",
+      "count": 50
+    },
+    {
+      "word": "okutandika",
+      "count": 50
+    },
+    {
+      "word": "nabyo",
+      "count": 50
+    },
+    {
+      "word": "ebigendererwa",
+      "count": 50
+    },
+    {
+      "word": "okusimba",
+      "count": 50
+    },
+    {
+      "word": "abalimi",
+      "count": 50
+    },
+    {
+      "word": "obujjanjabi",
+      "count": 50
+    },
+    {
+      "word": "bwaffe",
+      "count": 50
+    },
+    {
+      "word": "ebirungo",
+      "count": 50
+    },
+    {
+      "word": "okweyongerayo",
+      "count": 50
+    },
+    {
+      "word": "endo",
+      "count": 50
+    },
+    {
+      "word": "matiiriyo",
+      "count": 50
+    },
+    {
+      "word": "erementi",
+      "count": 50
+    },
+    {
+      "word": "asatu",
+      "count": 49
+    },
+    {
+      "word": "ago",
+      "count": 49
+    },
+    {
+      "word": "bikola",
+      "count": 49
+    },
+    {
+      "word": "abasinga",
+      "count": 49
+    },
+    {
+      "word": "eddembe",
+      "count": 49
+    },
+    {
+      "word": "ebibala",
+      "count": 49
+    },
+    {
+      "word": "base",
+      "count": 49
+    },
+    {
+      "word": "obwakalimagezi",
+      "count": 49
+    },
+    {
+      "word": "ziri",
+      "count": 48
+    },
+    {
+      "word": "muli",
+      "count": 48
+    },
+    {
+      "word": "olukiiko",
+      "count": 48
+    },
+    {
+      "word": "okuwa",
+      "count": 48
+    },
+    {
+      "word": "enva",
+      "count": 48
+    },
+    {
+      "word": "enkulakulana",
+      "count": 48
+    },
+    {
+      "word": "bulabe",
+      "count": 48
+    },
+    {
+      "word": "ekitongole",
+      "count": 48
+    },
+    {
+      "word": "newankubadde",
+      "count": 48
+    },
+    {
+      "word": "akakwate",
+      "count": 48
+    },
+    {
+      "word": "kikolebwa",
+      "count": 48
+    },
+    {
+      "word": "okuziyiza",
+      "count": 48
+    },
+    {
+      "word": "eng",
+      "count": 48
+    },
+    {
+      "word": "emotoka",
+      "count": 48
+    },
+    {
+      "word": "ekitondekamaanyi",
+      "count": 48
+    },
+    {
+      "word": "atoms",
+      "count": 48
+    },
+    {
+      "word": "okwennyika",
+      "count": 48
+    },
+    {
+      "word": "bayita",
+      "count": 47
+    },
+    {
+      "word": "munaana",
+      "count": 47
+    },
+    {
+      "word": "bulina",
+      "count": 47
+    },
+    {
+      "word": "kizibu",
+      "count": 47
+    },
+    {
+      "word": "esinga",
+      "count": 47
+    },
+    {
+      "word": "esatu",
+      "count": 47
+    },
+    {
+      "word": "kirungi",
+      "count": 47
+    },
+    {
+      "word": "ebeera",
+      "count": 47
+    },
+    {
+      "word": "ebizibu",
+      "count": 47
+    },
+    {
+      "word": "vii",
+      "count": 47
+    },
+    {
+      "word": "aka",
+      "count": 47
+    },
+    {
+      "word": "siriimu",
+      "count": 47
+    },
+    {
+      "word": "ensengeka",
+      "count": 47
+    },
+    {
+      "word": "okutwalira",
+      "count": 47
+    },
+    {
+      "word": "okuvaamu",
+      "count": 47
+    },
+    {
+      "word": "kaziba",
+      "count": 47
+    },
+    {
+      "word": "konta",
+      "count": 47
+    },
+    {
+      "word": "ekisannyalazo",
+      "count": 47
+    },
+    {
+      "word": "kibiina",
+      "count": 46
+    },
+    {
+      "word": "ssatu",
+      "count": 46
+    },
+    {
+      "word": "guli",
+      "count": 46
+    },
+    {
+      "word": "okubiri",
+      "count": 46
+    },
+    {
+      "word": "ennyanja",
+      "count": 46
+    },
+    {
+      "word": "ssente",
+      "count": 46
+    },
+    {
+      "word": "ezisinga",
+      "count": 46
+    },
+    {
+      "word": "okusoma",
+      "count": 46
+    },
+    {
+      "word": "ayagala",
+      "count": 46
+    },
+    {
+      "word": "liba",
+      "count": 46
+    },
+    {
+      "word": "kulya",
+      "count": 46
+    },
+    {
+      "word": "reaction",
+      "count": 46
+    },
+    {
+      "word": "tempulikya",
+      "count": 46
+    },
+    {
+      "word": "amabwa",
+      "count": 45
+    },
+    {
+      "word": "eyali",
+      "count": 45
+    },
+    {
+      "word": "abasajja",
+      "count": 45
+    },
+    {
+      "word": "okunywa",
+      "count": 45
+    },
+    {
+      "word": "awali",
+      "count": 45
+    },
+    {
+      "word": "omukyala",
+      "count": 45
+    },
+    {
+      "word": "omutindo",
+      "count": 45
+    },
+    {
+      "word": "kookolo",
+      "count": 45
+    },
+    {
+      "word": "kirala",
+      "count": 45
+    },
+    {
+      "word": "obusa",
+      "count": 45
+    },
+    {
+      "word": "okulowooza",
+      "count": 45
+    },
+    {
+      "word": "balala",
+      "count": 45
+    },
+    {
+      "word": "unit",
+      "count": 45
+    },
+    {
+      "word": "kipimo",
+      "count": 45
+    },
+    {
+      "word": "biramu",
+      "count": 45
+    },
+    {
+      "word": "mechanics",
+      "count": 45
+    },
+    {
+      "word": "ekigerageranyo",
+      "count": 45
+    },
+    {
+      "word": "seng",
+      "count": 45
+    },
+    {
+      "word": "kiddannyuma",
+      "count": 45
+    },
+    {
+      "word": "semayanja",
+      "count": 45
+    },
+    {
+      "word": "nsengekera",
+      "count": 45
+    },
+    {
+      "word": "ttaano",
+      "count": 44
+    },
+    {
+      "word": "ebyafaayo",
+      "count": 44
+    },
+    {
+      "word": "ziyitibwa",
+      "count": 44
+    },
+    {
+      "word": "lumu",
+      "count": 44
+    },
+    {
+      "word": "okutambula",
+      "count": 44
+    },
+    {
+      "word": "abawala",
+      "count": 44
+    },
+    {
+      "word": "environment",
+      "count": 44
+    },
+    {
+      "word": "kkono",
+      "count": 44
+    },
+    {
+      "word": "esobola",
+      "count": 44
+    },
+    {
+      "word": "okiraba",
+      "count": 44
+    },
+    {
+      "word": "abakazi",
+      "count": 44
+    },
+    {
+      "word": "butereevu",
+      "count": 44
+    },
+    {
+      "word": "bwangu",
+      "count": 44
+    },
+    {
+      "word": "alimu",
+      "count": 44
+    },
+    {
+      "word": "silimu",
+      "count": 44
+    },
+    {
+      "word": "aga",
+      "count": 43
+    },
+    {
+      "word": "it",
+      "count": 43
+    },
+    {
+      "word": "nkula",
+      "count": 43
+    },
+    {
+      "word": "ky'ensi",
+      "count": 43
+    },
+    {
+      "word": "yaffe",
+      "count": 43
+    },
+    {
+      "word": "okulunda",
+      "count": 43
+    },
+    {
+      "word": "okujjako",
+      "count": 43
+    },
+    {
+      "word": "science",
+      "count": 43
+    },
+    {
+      "word": "okulwanyisa",
+      "count": 43
+    },
+    {
+      "word": "basobola",
+      "count": 43
+    },
+    {
+      "word": "egyo",
+      "count": 43
+    },
+    {
+      "word": "essomo",
+      "count": 43
+    },
+    {
+      "word": "ekiriisa",
+      "count": 43
+    },
+    {
+      "word": "kukozesa",
+      "count": 43
+    },
+    {
+      "word": "okukwata",
+      "count": 43
+    },
+    {
+      "word": "ekizibu",
+      "count": 43
+    },
+    {
+      "word": "ebbiri",
+      "count": 43
+    },
+    {
+      "word": "wakiso",
+      "count": 43
+    },
+    {
+      "word": "physics",
+      "count": 43
+    },
+    {
+      "word": "okutondeka",
+      "count": 43
+    },
+    {
+      "word": "nampa",
+      "count": 43
+    },
+    {
+      "word": "nze",
+      "count": 42
+    },
+    {
+      "word": "katongole",
+      "count": 42
+    },
+    {
+      "word": "nnaku",
+      "count": 42
+    },
+    {
+      "word": "basajja",
+      "count": 42
+    },
+    {
+      "word": "emyezi",
+      "count": 42
+    },
+    {
+      "word": "ebirungi",
+      "count": 42
+    },
+    {
+      "word": "taata",
+      "count": 42
+    },
+    {
+      "word": "viii",
+      "count": 42
+    },
+    {
+      "word": "cd",
+      "count": 42
+    },
+    {
+      "word": "okufuuka",
+      "count": 42
+    },
+    {
+      "word": "ntobazi",
+      "count": 42
+    },
+    {
+      "word": "mpewo",
+      "count": 42
+    },
+    {
+      "word": "bimera",
+      "count": 42
+    },
+    {
+      "word": "omut",
+      "count": 42
+    },
+    {
+      "word": "mugerageranyo",
+      "count": 42
+    },
+    {
+      "word": "ekibangirizi",
+      "count": 41
+    },
+    {
+      "word": "okwegatta",
+      "count": 41
+    },
+    {
+      "word": "munsi",
+      "count": 41
+    },
+    {
+      "word": "kale",
+      "count": 41
+    },
+    {
+      "word": "bisatu",
+      "count": 41
+    },
+    {
+      "word": "okwo",
+      "count": 41
+    },
+    {
+      "word": "eryo",
+      "count": 41
+    },
+    {
+      "word": "talk",
+      "count": 41
+    },
+    {
+      "word": "okozesa",
+      "count": 41
+    },
+    {
+      "word": "ebiyinza",
+      "count": 41
+    },
+    {
+      "word": "okola",
+      "count": 41
+    },
+    {
+      "word": "ak",
+      "count": 41
+    },
+    {
+      "word": "kigambo",
+      "count": 41
+    },
+    {
+      "word": "obusirikitu",
+      "count": 41
+    },
+    {
+      "word": "yekka",
+      "count": 41
+    },
+    {
+      "word": "busobola",
+      "count": 41
+    },
+    {
+      "word": "ofuna",
+      "count": 41
+    },
+    {
+      "word": "ekikula",
+      "count": 41
+    },
+    {
+      "word": "otya",
+      "count": 41
+    },
+    {
+      "word": "yetaaga",
+      "count": 41
+    },
+    {
+      "word": "wuuma",
+      "count": 41
+    },
+    {
+      "word": "maama",
+      "count": 40
+    },
+    {
+      "word": "muti",
+      "count": 40
+    },
+    {
+      "word": "okuwandiika",
+      "count": 40
+    },
+    {
+      "word": "mitendera",
+      "count": 40
+    },
+    {
+      "word": "ddamulira",
+      "count": 40
+    },
+    {
+      "word": "munne",
+      "count": 40
+    },
+    {
+      "word": "enneeyisa",
+      "count": 40
+    },
+    {
+      "word": "obuyitibwa",
+      "count": 40
+    },
+    {
+      "word": "omuliro",
+      "count": 40
+    },
+    {
+      "word": "amasiga",
+      "count": 40
+    },
+    {
+      "word": "byalo",
+      "count": 40
+    },
+    {
+      "word": "ekigero",
+      "count": 40
+    },
+    {
+      "word": "wewale",
+      "count": 40
+    },
+    {
+      "word": "obulumi",
+      "count": 40
+    },
+    {
+      "word": "kiddamaaso",
+      "count": 40
+    },
+    {
+      "word": "kire",
+      "count": 40
+    },
+    {
+      "word": "sensa",
+      "count": 40
+    },
+    {
+      "word": "ssaako",
+      "count": 39
+    },
+    {
+      "word": "kigambibwa",
+      "count": 39
+    },
+    {
+      "word": "bagamba",
+      "count": 39
+    },
+    {
+      "word": "natural",
+      "count": 39
+    },
+    {
+      "word": "okunoonyereza",
+      "count": 39
+    },
+    {
+      "word": "kyangu",
+      "count": 39
+    },
+    {
+      "word": "okujja",
+      "count": 39
+    },
+    {
+      "word": "ndala",
+      "count": 39
+    },
+    {
+      "word": "oluvanyuma",
+      "count": 39
+    },
+    {
+      "word": "ziyinza",
+      "count": 39
+    },
+    {
+      "word": "buntu",
+      "count": 39
+    },
+    {
+      "word": "human",
+      "count": 39
+    },
+    {
+      "word": "bakola",
+      "count": 39
+    },
+    {
+      "word": "bikolwa",
+      "count": 39
+    },
+    {
+      "word": "mukono",
+      "count": 39
+    },
+    {
+      "word": "emigga",
+      "count": 39
+    },
+    {
+      "word": "nyo",
+      "count": 39
+    },
+    {
+      "word": "okwekuuma",
+      "count": 39
+    },
+    {
+      "word": "misinde",
+      "count": 39
+    },
+    {
+      "word": "omulembe",
+      "count": 39
+    },
+    {
+      "word": "okutta",
+      "count": 39
+    },
+    {
+      "word": "sekazzi",
+      "count": 39
+    },
+    {
+      "word": "kyebiriga",
+      "count": 39
+    },
+    {
+      "word": "concept",
+      "count": 39
+    },
+    {
+      "word": "okubaamu",
+      "count": 38
+    },
+    {
+      "word": "ekigendererwa",
+      "count": 38
+    },
+    {
+      "word": "bubiri",
+      "count": 38
+    },
+    {
+      "word": "jens",
+      "count": 38
+    },
+    {
+      "word": "wikipedia",
+      "count": 38
+    },
+    {
+      "word": "amalala",
+      "count": 38
+    },
+    {
+      "word": "okumpi",
+      "count": 38
+    },
+    {
+      "word": "kaseera",
+      "count": 38
+    },
+    {
+      "word": "emibiri",
+      "count": 38
+    },
+    {
+      "word": "kulowooza",
+      "count": 38
+    },
+    {
+      "word": "engine",
+      "count": 38
+    },
+    {
+      "word": "enkyusabuziba",
+      "count": 38
+    },
+    {
+      "word": "ekinonoozo",
+      "count": 38
+    },
+    {
+      "word": "particles",
+      "count": 38
+    },
+    {
+      "word": "sabusitansi",
+      "count": 38
+    },
+    {
+      "word": "keriyamu",
+      "count": 38
+    },
+    {
+      "word": "word",
+      "count": 37
+    },
+    {
+      "word": "obubi",
+      "count": 37
+    },
+    {
+      "word": "bukadde",
+      "count": 37
+    },
+    {
+      "word": "okuzaala",
+      "count": 37
+    },
+    {
+      "word": "okukuba",
+      "count": 37
+    },
+    {
+      "word": "abaali",
+      "count": 37
+    },
+    {
+      "word": "mukasa",
+      "count": 37
+    },
+    {
+      "word": "tusobola",
+      "count": 37
+    },
+    {
+      "word": "eva",
+      "count": 37
+    },
+    {
+      "word": "mateeka",
+      "count": 37
+    },
+    {
+      "word": "lyo",
+      "count": 37
+    },
+    {
+      "word": "okuyigiriza",
+      "count": 37
+    },
+    {
+      "word": "ebigimusa",
+      "count": 37
+    },
+    {
+      "word": "nazo",
+      "count": 37
+    },
+    {
+      "word": "cells",
+      "count": 37
+    },
+    {
+      "word": "okukwatibwa",
+      "count": 37
+    },
+    {
+      "word": "endagabutonde",
+      "count": 37
+    },
+    {
+      "word": "okufaanana",
+      "count": 37
+    },
+    {
+      "word": "ekitiibwa",
+      "count": 37
+    },
+    {
+      "word": "embuzi",
+      "count": 37
+    },
+    {
+      "word": "gaba",
+      "count": 37
+    },
+    {
+      "word": "obuli",
+      "count": 37
+    },
+    {
+      "word": "emiwendo",
+      "count": 37
+    },
+    {
+      "word": "obadde",
+      "count": 37
+    },
+    {
+      "word": "kitangaala",
+      "count": 37
+    },
+    {
+      "word": "essomabuzimbe",
+      "count": 37
+    },
+    {
+      "word": "safeesi",
+      "count": 37
+    },
+    {
+      "word": "emmeeza",
+      "count": 37
+    },
+    {
+      "word": "kyegabanya",
+      "count": 37
+    },
+    {
+      "word": "kigaanira",
+      "count": 37
+    },
+    {
+      "word": "esingayo",
+      "count": 37
+    },
+    {
+      "word": "digito",
+      "count": 37
+    },
+    {
+      "word": "akasannyalazo",
+      "count": 37
+    },
+    {
+      "word": "ekijjulo",
+      "count": 37
+    },
+    {
+      "word": "this",
+      "count": 36
+    },
+    {
+      "word": "earth",
+      "count": 36
+    },
+    {
+      "word": "talina",
+      "count": 36
+    },
+    {
+      "word": "omukulu",
+      "count": 36
+    },
+    {
+      "word": "utc",
+      "count": 36
+    },
+    {
+      "word": "olungereza",
+      "count": 36
+    },
+    {
+      "word": "ebibiina",
+      "count": 36
+    },
+    {
+      "word": "entono",
+      "count": 36
+    },
+    {
+      "word": "emirala",
+      "count": 36
+    },
+    {
+      "word": "olususu",
+      "count": 36
+    },
+    {
+      "word": "omukwano",
+      "count": 36
+    },
+    {
+      "word": "akozesa",
+      "count": 36
+    },
+    {
+      "word": "ebinyonyi",
+      "count": 36
+    },
+    {
+      "word": "essomabuziba",
+      "count": 36
+    },
+    {
+      "word": "kibalirampuyibbiri",
+      "count": 36
+    },
+    {
+      "word": "obubaka",
+      "count": 35
+    },
+    {
+      "word": "http",
+      "count": 35
+    },
+    {
+      "word": "nnyanja",
+      "count": 35
+    },
+    {
+      "word": "kikulu",
+      "count": 35
+    },
+    {
+      "word": "obwetaavu",
+      "count": 35
+    },
+    {
+      "word": "nate",
+      "count": 35
+    },
+    {
+      "word": "ffe",
+      "count": 35
+    },
+    {
+      "word": "ekibumbe",
+      "count": 35
+    },
+    {
+      "word": "kisobola",
+      "count": 35
+    },
+    {
+      "word": "bwoba",
+      "count": 35
+    },
+    {
+      "word": "amagatte",
+      "count": 35
+    },
+    {
+      "word": "okukula",
+      "count": 35
+    },
+    {
+      "word": "okuleetawo",
+      "count": 35
+    },
+    {
+      "word": "ssa",
+      "count": 35
+    },
+    {
+      "word": "bumu",
+      "count": 35
+    },
+    {
+      "word": "obuyonjo",
+      "count": 35
+    },
+    {
+      "word": "okutegeeza",
+      "count": 35
+    },
+    {
+      "word": "makolero",
+      "count": 35
+    },
+    {
+      "word": "tufuna",
+      "count": 35
+    },
+    {
+      "word": "okwebuuza",
+      "count": 35
+    },
+    {
+      "word": "nsiko",
+      "count": 35
+    },
+    {
+      "word": "ekituufu",
+      "count": 35
+    },
+    {
+      "word": "okunyiiga",
+      "count": 35
+    },
+    {
+      "word": "nakavundira",
+      "count": 35
+    },
+    {
+      "word": "ekoma",
+      "count": 35
+    },
+    {
+      "word": "chemistry",
+      "count": 35
+    },
+    {
+      "word": "okutebenta",
+      "count": 35
+    },
+    {
+      "word": "omugereko",
+      "count": 35
+    },
+    {
+      "word": "lugereeki",
+      "count": 35
+    },
+    {
+      "word": "enkwasowazo",
+      "count": 35
+    },
+    {
+      "word": "eyannamaddala",
+      "count": 34
+    },
+    {
+      "word": "kityo",
+      "count": 34
+    },
+    {
+      "word": "buyinza",
+      "count": 34
+    },
+    {
+      "word": "n'ensuusuuba",
+      "count": 34
+    },
+    {
+      "word": "org",
+      "count": 34
+    },
+    {
+      "word": "kagolo",
+      "count": 34
+    },
+    {
+      "word": "kulaba",
+      "count": 34
+    },
+    {
+      "word": "zaabwe",
+      "count": 34
+    },
+    {
+      "word": "obuvunaanyizibwa",
+      "count": 34
+    },
+    {
+      "word": "omwezi",
+      "count": 34
+    },
+    {
+      "word": "ebibumbe",
+      "count": 34
+    },
+    {
+      "word": "ekiyinza",
+      "count": 34
+    },
+    {
+      "word": "okuli",
+      "count": 34
+    },
+    {
+      "word": "nnkulakulanna",
+      "count": 34
+    },
+    {
+      "word": "buttonde",
+      "count": 34
+    },
+    {
+      "word": "ndowooza",
+      "count": 34
+    },
+    {
+      "word": "zisobola",
+      "count": 34
+    },
+    {
+      "word": "muwendo",
+      "count": 34
+    },
+    {
+      "word": "amagi",
+      "count": 34
+    },
+    {
+      "word": "nnimiro",
+      "count": 34
+    },
+    {
+      "word": "kawuka",
+      "count": 34
+    },
+    {
+      "word": "obutaba",
+      "count": 34
+    },
+    {
+      "word": "abavubuka",
+      "count": 34
+    },
+    {
+      "word": "okukolebwa",
+      "count": 34
+    },
+    {
+      "word": "ekisinga",
+      "count": 34
+    },
+    {
+      "word": "egenda",
+      "count": 34
+    },
+    {
+      "word": "buziizi",
+      "count": 34
+    },
+    {
+      "word": "ekiva",
+      "count": 34
+    },
+    {
+      "word": "okwesa",
+      "count": 34
+    },
+    {
+      "word": "okulambulula",
+      "count": 34
+    },
+    {
+      "word": "buzibu",
+      "count": 34
+    },
+    {
+      "word": "ensindikano",
+      "count": 34
+    },
+    {
+      "word": "obuzzi",
+      "count": 34
+    },
+    {
+      "word": "kibuga",
+      "count": 33
+    },
+    {
+      "word": "eddiini",
+      "count": 33
+    },
+    {
+      "word": "ebitabo",
+      "count": 33
+    },
+    {
+      "word": "kibi",
+      "count": 33
+    },
+    {
+      "word": "omulundi",
+      "count": 33
+    },
+    {
+      "word": "abayizi",
+      "count": 33
+    },
+    {
+      "word": "ogwo",
+      "count": 33
+    },
+    {
+      "word": "ekisooka",
+      "count": 33
+    },
+    {
+      "word": "abakozi",
+      "count": 33
+    }
+  ]
+}

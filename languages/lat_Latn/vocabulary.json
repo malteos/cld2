@@ -1,0 +1,4012 @@
+{
+  "code": "lat",
+  "name": "Latin",
+  "script": "Latn",
+  "tier": "low",
+  "tier_target": 1000,
+  "source": "Wikipedia (la.wikipedia.org) via wikimedia/wikipedia 20231101; examples/*.txt (live WebFetch of curated non-benchmark URLs)",
+  "total_tokens": 686291,
+  "unique_tokens": 113227,
+  "words": [
+    {
+      "word": "et",
+      "count": 18938
+    },
+    {
+      "word": "in",
+      "count": 15158
+    },
+    {
+      "word": "est",
+      "count": 14979
+    },
+    {
+      "word": "anno",
+      "count": 8426
+    },
+    {
+      "word": "ad",
+      "count": 4436
+    },
+    {
+      "word": "sunt",
+      "count": 4406
+    },
+    {
+      "word": "de",
+      "count": 3631
+    },
+    {
+      "word": "cum",
+      "count": 3380
+    },
+    {
+      "word": "mense",
+      "count": 3287
+    },
+    {
+      "word": "natus",
+      "count": 2904
+    },
+    {
+      "word": "quae",
+      "count": 2403
+    },
+    {
+      "word": "the",
+      "count": 2319
+    },
+    {
+      "word": "inter",
+      "count": 2199
+    },
+    {
+      "word": "qui",
+      "count": 2046
+    },
+    {
+      "word": "ab",
+      "count": 2026
+    },
+    {
+      "word": "ex",
+      "count": 1918
+    },
+    {
+      "word": "ut",
+      "count": 1914
+    },
+    {
+      "word": "isbn",
+      "count": 1788
+    },
+    {
+      "word": "of",
+      "count": 1771
+    },
+    {
+      "word": "non",
+      "count": 1737
+    },
+    {
+      "word": "per",
+      "count": 1584
+    },
+    {
+      "word": "quod",
+      "count": 1522
+    },
+    {
+      "word": "rerum",
+      "count": 1515
+    },
+    {
+      "word": "mortuus",
+      "count": 1498
+    },
+    {
+      "word": "etiam",
+      "count": 1451
+    },
+    {
+      "word": "lingua",
+      "count": 1417
+    },
+    {
+      "word": "vel",
+      "count": 1316
+    },
+    {
+      "word": "sed",
+      "count": 1283
+    },
+    {
+      "word": "apud",
+      "count": 1119
+    },
+    {
+      "word": "die",
+      "count": 1057
+    },
+    {
+      "word": "urbs",
+      "count": 1057
+    },
+    {
+      "word": "peritus",
+      "count": 1046
+    },
+    {
+      "word": "factionis",
+      "count": 1031
+    },
+    {
+      "word": "fuit",
+      "count": 1029
+    },
+    {
+      "word": "esse",
+      "count": 1013
+    },
+    {
+      "word": "and",
+      "count": 986
+    },
+    {
+      "word": "politicarum",
+      "count": 984
+    },
+    {
+      "word": "post",
+      "count": 972
+    },
+    {
+      "word": "quam",
+      "count": 967
+    },
+    {
+      "word": "vir",
+      "count": 952
+    },
+    {
+      "word": "publicus",
+      "count": 927
+    },
+    {
+      "word": "secundum",
+      "count": 921
+    },
+    {
+      "word": "se",
+      "count": 920
+    },
+    {
+      "word": "nexus",
+      "count": 906
+    },
+    {
+      "word": "scriptor",
+      "count": 901
+    },
+    {
+      "word": "praeses",
+      "count": 896
+    },
+    {
+      "word": "americanus",
+      "count": 852
+    },
+    {
+      "word": "erat",
+      "count": 846
+    },
+    {
+      "word": "ioannes",
+      "count": 818
+    },
+    {
+      "word": "aut",
+      "count": 813
+    },
+    {
+      "word": "ac",
+      "count": 812
+    },
+    {
+      "word": "usque",
+      "count": 806
+    },
+    {
+      "word": "notae",
+      "count": 804
+    },
+    {
+      "word": "sive",
+      "count": 796
+    },
+    {
+      "word": "pro",
+      "count": 790
+    },
+    {
+      "word": "nomen",
+      "count": 786
+    },
+    {
+      "word": "res",
+      "count": 779
+    },
+    {
+      "word": "externi",
+      "count": 765
+    },
+    {
+      "word": "autem",
+      "count": 756
+    },
+    {
+      "word": "linguae",
+      "count": 744
+    },
+    {
+      "word": "anni",
+      "count": 726
+    },
+    {
+      "word": "saeculo",
+      "count": 726
+    },
+    {
+      "word": "incolarum",
+      "count": 717
+    },
+    {
+      "word": "iulii",
+      "count": 694
+    },
+    {
+      "word": "homines",
+      "count": 681
+    },
+    {
+      "word": "ianuarii",
+      "count": 676
+    },
+    {
+      "word": "atque",
+      "count": 670
+    },
+    {
+      "word": "pars",
+      "count": 662
+    },
+    {
+      "word": "germanicus",
+      "count": 657
+    },
+    {
+      "word": "eius",
+      "count": 656
+    },
+    {
+      "word": "historia",
+      "count": 655
+    },
+    {
+      "word": "hoc",
+      "count": 644
+    },
+    {
+      "word": "februarii",
+      "count": 641
+    },
+    {
+      "word": "contra",
+      "count": 638
+    },
+    {
+      "word": "pedilusor",
+      "count": 635
+    },
+    {
+      "word": "bellum",
+      "count": 620
+    },
+    {
+      "word": "seu",
+      "count": 602
+    },
+    {
+      "word": "circa",
+      "count": 599
+    },
+    {
+      "word": "habet",
+      "count": 595
+    },
+    {
+      "word": "civitates",
+      "count": 591
+    },
+    {
+      "word": "press",
+      "count": 588
+    },
+    {
+      "word": "primus",
+      "count": 587
+    },
+    {
+      "word": "martii",
+      "count": 580
+    },
+    {
+      "word": "hodie",
+      "count": 574
+    },
+    {
+      "word": "caput",
+      "count": 574
+    },
+    {
+      "word": "maii",
+      "count": 573
+    },
+    {
+      "word": "augusti",
+      "count": 562
+    },
+    {
+      "word": "iunii",
+      "count": 560
+    },
+    {
+      "word": "novembris",
+      "count": 553
+    },
+    {
+      "word": "urbes",
+      "count": 553
+    },
+    {
+      "word": "octobris",
+      "count": 553
+    },
+    {
+      "word": "publica",
+      "count": 548
+    },
+    {
+      "word": "septembris",
+      "count": 545
+    },
+    {
+      "word": "civitatum",
+      "count": 543
+    },
+    {
+      "word": "decembris",
+      "count": 536
+    },
+    {
+      "word": "ed",
+      "count": 534
+    },
+    {
+      "word": "quo",
+      "count": 533
+    },
+    {
+      "word": "ubi",
+      "count": 531
+    },
+    {
+      "word": "actrix",
+      "count": 531
+    },
+    {
+      "word": "aprilis",
+      "count": 523
+    },
+    {
+      "word": "annum",
+      "count": 523
+    },
+    {
+      "word": "una",
+      "count": 506
+    },
+    {
+      "word": "italiane",
+      "count": 506
+    },
+    {
+      "word": "mare",
+      "count": 502
+    },
+    {
+      "word": "annos",
+      "count": 496
+    },
+    {
+      "word": "civitas",
+      "count": 488
+    },
+    {
+      "word": "university",
+      "count": 483
+    },
+    {
+      "word": "fere",
+      "count": 482
+    },
+    {
+      "word": "nata",
+      "count": 476
+    },
+    {
+      "word": "haec",
+      "count": 475
+    },
+    {
+      "word": "la",
+      "count": 472
+    },
+    {
+      "word": "nomine",
+      "count": 471
+    },
+    {
+      "word": "urbis",
+      "count": 468
+    },
+    {
+      "word": "cuius",
+      "count": 466
+    },
+    {
+      "word": "germaniae",
+      "count": 465
+    },
+    {
+      "word": "maxima",
+      "count": 464
+    },
+    {
+      "word": "civitatis",
+      "count": 462
+    },
+    {
+      "word": "americae",
+      "count": 460
+    },
+    {
+      "word": "primum",
+      "count": 458
+    },
+    {
+      "word": "iam",
+      "count": 456
+    },
+    {
+      "word": "annis",
+      "count": 455
+    },
+    {
+      "word": "bibliographia",
+      "count": 445
+    },
+    {
+      "word": "anglice",
+      "count": 441
+    },
+    {
+      "word": "tempore",
+      "count": 440
+    },
+    {
+      "word": "propter",
+      "count": 440
+    },
+    {
+      "word": "italicus",
+      "count": 436
+    },
+    {
+      "word": "britannicus",
+      "count": 431
+    },
+    {
+      "word": "publicae",
+      "count": 430
+    },
+    {
+      "word": "facta",
+      "count": 425
+    },
+    {
+      "word": "quia",
+      "count": 424
+    },
+    {
+      "word": "sicut",
+      "count": 422
+    },
+    {
+      "word": "sancti",
+      "count": 417
+    },
+    {
+      "word": "ii",
+      "count": 412
+    },
+    {
+      "word": "rei",
+      "count": 411
+    },
+    {
+      "word": "novi",
+      "count": 410
+    },
+    {
+      "word": "omnes",
+      "count": 409
+    },
+    {
+      "word": "carolus",
+      "count": 408
+    },
+    {
+      "word": "insula",
+      "count": 407
+    },
+    {
+      "word": "latina",
+      "count": 406
+    },
+    {
+      "word": "regnum",
+      "count": 400
+    },
+    {
+      "word": "factus",
+      "count": 397
+    },
+    {
+      "word": "rex",
+      "count": 394
+    },
+    {
+      "word": "graece",
+      "count": 393
+    },
+    {
+      "word": "si",
+      "count": 392
+    },
+    {
+      "word": "minister",
+      "count": 391
+    },
+    {
+      "word": "circiter",
+      "count": 388
+    },
+    {
+      "word": "americana",
+      "count": 388
+    },
+    {
+      "word": "condita",
+      "count": 385
+    },
+    {
+      "word": "nati",
+      "count": 383
+    },
+    {
+      "word": "numerus",
+      "count": 382
+    },
+    {
+      "word": "ecclesia",
+      "count": 380
+    },
+    {
+      "word": "foederatarum",
+      "count": 378
+    },
+    {
+      "word": "francicus",
+      "count": 378
+    },
+    {
+      "word": "quoque",
+      "count": 376
+    },
+    {
+      "word": "quibus",
+      "count": 375
+    },
+    {
+      "word": "terrarum",
+      "count": 371
+    },
+    {
+      "word": "prima",
+      "count": 371
+    },
+    {
+      "word": "partes",
+      "count": 371
+    },
+    {
+      "word": "erant",
+      "count": 368
+    },
+    {
+      "word": "ante",
+      "count": 362
+    },
+    {
+      "word": "urbe",
+      "count": 362
+    },
+    {
+      "word": "ecclesiae",
+      "count": 362
+    },
+    {
+      "word": "nova",
+      "count": 361
+    },
+    {
+      "word": "aliis",
+      "count": 354
+    },
+    {
+      "word": "sub",
+      "count": 353
+    },
+    {
+      "word": "sita",
+      "count": 350
+    },
+    {
+      "word": "alia",
+      "count": 348
+    },
+    {
+      "word": "mortui",
+      "count": 348
+    },
+    {
+      "word": "dux",
+      "count": 347
+    },
+    {
+      "word": "urbem",
+      "count": 347
+    },
+    {
+      "word": "primo",
+      "count": 346
+    },
+    {
+      "word": "insulae",
+      "count": 346
+    },
+    {
+      "word": "provincia",
+      "count": 342
+    },
+    {
+      "word": "michael",
+      "count": 341
+    },
+    {
+      "word": "nomina",
+      "count": 341
+    },
+    {
+      "word": "quamquam",
+      "count": 340
+    },
+    {
+      "word": "romani",
+      "count": 339
+    },
+    {
+      "word": "civitatibus",
+      "count": 337
+    },
+    {
+      "word": "hominum",
+      "count": 336
+    },
+    {
+      "word": "nunc",
+      "count": 334
+    },
+    {
+      "word": "quattuor",
+      "count": 334
+    },
+    {
+      "word": "histrio",
+      "count": 334
+    },
+    {
+      "word": "der",
+      "count": 333
+    },
+    {
+      "word": "sedes",
+      "count": 333
+    },
+    {
+      "word": "potest",
+      "count": 332
+    },
+    {
+      "word": "imperium",
+      "count": 330
+    },
+    {
+      "word": "media",
+      "count": 330
+    },
+    {
+      "word": "georgius",
+      "count": 330
+    },
+    {
+      "word": "bello",
+      "count": 328
+    },
+    {
+      "word": "tres",
+      "count": 328
+    },
+    {
+      "word": "mons",
+      "count": 328
+    },
+    {
+      "word": "lacus",
+      "count": 323
+    },
+    {
+      "word": "to",
+      "count": 322
+    },
+    {
+      "word": "solum",
+      "count": 322
+    },
+    {
+      "word": "ianuario",
+      "count": 322
+    },
+    {
+      "word": "franciae",
+      "count": 321
+    },
+    {
+      "word": "iulio",
+      "count": 320
+    },
+    {
+      "word": "saepe",
+      "count": 315
+    },
+    {
+      "word": "augusto",
+      "count": 315
+    },
+    {
+      "word": "incolae",
+      "count": 314
+    },
+    {
+      "word": "eboraci",
+      "count": 312
+    },
+    {
+      "word": "regio",
+      "count": 312
+    },
+    {
+      "word": "qua",
+      "count": 311
+    },
+    {
+      "word": "centesimae",
+      "count": 311
+    },
+    {
+      "word": "graeciae",
+      "count": 310
+    },
+    {
+      "word": "terrae",
+      "count": 309
+    },
+    {
+      "word": "causa",
+      "count": 308
+    },
+    {
+      "word": "decembri",
+      "count": 306
+    },
+    {
+      "word": "olim",
+      "count": 304
+    },
+    {
+      "word": "poeta",
+      "count": 303
+    },
+    {
+      "word": "theodiscus",
+      "count": 303
+    },
+    {
+      "word": "vide",
+      "count": 302
+    },
+    {
+      "word": "www",
+      "count": 301
+    },
+    {
+      "word": "germania",
+      "count": 300
+    },
+    {
+      "word": "dies",
+      "count": 299
+    },
+    {
+      "word": "regiones",
+      "count": 299
+    },
+    {
+      "word": "terra",
+      "count": 298
+    },
+    {
+      "word": "postea",
+      "count": 297
+    },
+    {
+      "word": "situs",
+      "count": 296
+    },
+    {
+      "word": "petrus",
+      "count": 295
+    },
+    {
+      "word": "partem",
+      "count": 294
+    },
+    {
+      "word": "maio",
+      "count": 292
+    },
+    {
+      "word": "octobri",
+      "count": 291
+    },
+    {
+      "word": "latine",
+      "count": 290
+    },
+    {
+      "word": "hic",
+      "count": 290
+    },
+    {
+      "word": "septembri",
+      "count": 290
+    },
+    {
+      "word": "mortua",
+      "count": 289
+    },
+    {
+      "word": "ob",
+      "count": 287
+    },
+    {
+      "word": "maria",
+      "count": 287
+    },
+    {
+      "word": "martio",
+      "count": 287
+    },
+    {
+      "word": "imperii",
+      "count": 287
+    },
+    {
+      "word": "id",
+      "count": 284
+    },
+    {
+      "word": "iunio",
+      "count": 284
+    },
+    {
+      "word": "magna",
+      "count": 280
+    },
+    {
+      "word": "loci",
+      "count": 279
+    },
+    {
+      "word": "italiae",
+      "count": 279
+    },
+    {
+      "word": "universitas",
+      "count": 278
+    },
+    {
+      "word": "februario",
+      "count": 277
+    },
+    {
+      "word": "parte",
+      "count": 276
+    },
+    {
+      "word": "adhuc",
+      "count": 276
+    },
+    {
+      "word": "modo",
+      "count": 274
+    },
+    {
+      "word": "musica",
+      "count": 273
+    },
+    {
+      "word": "history",
+      "count": 272
+    },
+    {
+      "word": "huius",
+      "count": 272
+    },
+    {
+      "word": "re",
+      "count": 271
+    },
+    {
+      "word": "democraticae",
+      "count": 271
+    },
+    {
+      "word": "duo",
+      "count": 270
+    },
+    {
+      "word": "sine",
+      "count": 270
+    },
+    {
+      "word": "velut",
+      "count": 268
+    },
+    {
+      "word": "und",
+      "count": 267
+    },
+    {
+      "word": "sit",
+      "count": 267
+    },
+    {
+      "word": "flumen",
+      "count": 267
+    },
+    {
+      "word": "novembri",
+      "count": 267
+    },
+    {
+      "word": "libri",
+      "count": 266
+    },
+    {
+      "word": "praesertim",
+      "count": 265
+    },
+    {
+      "word": "praecipue",
+      "count": 265
+    },
+    {
+      "word": "tempus",
+      "count": 265
+    },
+    {
+      "word": "sui",
+      "count": 265
+    },
+    {
+      "word": "aprili",
+      "count": 265
+    },
+    {
+      "word": "dum",
+      "count": 264
+    },
+    {
+      "word": "plus",
+      "count": 263
+    },
+    {
+      "word": "rebus",
+      "count": 261
+    },
+    {
+      "word": "franciscus",
+      "count": 261
+    },
+    {
+      "word": "prope",
+      "count": 260
+    },
+    {
+      "word": "antiqua",
+      "count": 259
+    },
+    {
+      "word": "iosephus",
+      "count": 258
+    },
+    {
+      "word": "romana",
+      "count": 257
+    },
+    {
+      "word": "habent",
+      "count": 256
+    },
+    {
+      "word": "imperator",
+      "count": 256
+    },
+    {
+      "word": "homo",
+      "count": 256
+    },
+    {
+      "word": "que",
+      "count": 256
+    },
+    {
+      "word": "quorum",
+      "count": 255
+    },
+    {
+      "word": "index",
+      "count": 254
+    },
+    {
+      "word": "tamen",
+      "count": 254
+    },
+    {
+      "word": "iuris",
+      "count": 253
+    },
+    {
+      "word": "londinii",
+      "count": 251
+    },
+    {
+      "word": "regni",
+      "count": 250
+    },
+    {
+      "word": "regione",
+      "count": 248
+    },
+    {
+      "word": "unionis",
+      "count": 248
+    },
+    {
+      "word": "popularis",
+      "count": 247
+    },
+    {
+      "word": "pp",
+      "count": 244
+    },
+    {
+      "word": "deinde",
+      "count": 243
+    },
+    {
+      "word": "suam",
+      "count": 242
+    },
+    {
+      "word": "cfa",
+      "count": 242
+    },
+    {
+      "word": "romae",
+      "count": 240
+    },
+    {
+      "word": "ius",
+      "count": 240
+    },
+    {
+      "word": "gratia",
+      "count": 239
+    },
+    {
+      "word": "portus",
+      "count": 239
+    },
+    {
+      "word": "francia",
+      "count": 238
+    },
+    {
+      "word": "mundi",
+      "count": 238
+    },
+    {
+      "word": "sodalis",
+      "count": 238
+    },
+    {
+      "word": "possunt",
+      "count": 237
+    },
+    {
+      "word": "europa",
+      "count": 237
+    },
+    {
+      "word": "opera",
+      "count": 237
+    },
+    {
+      "word": "milia",
+      "count": 237
+    },
+    {
+      "word": "septentrionali",
+      "count": 237
+    },
+    {
+      "word": "paulus",
+      "count": 237
+    },
+    {
+      "word": "multi",
+      "count": 236
+    },
+    {
+      "word": "hispanice",
+      "count": 236
+    },
+    {
+      "word": "di",
+      "count": 235
+    },
+    {
+      "word": "maris",
+      "count": 235
+    },
+    {
+      "word": "liber",
+      "count": 234
+    },
+    {
+      "word": "henricus",
+      "count": 232
+    },
+    {
+      "word": "hisp",
+      "count": 230
+    },
+    {
+      "word": "eo",
+      "count": 229
+    },
+    {
+      "word": "septentrionalis",
+      "count": 229
+    },
+    {
+      "word": "montes",
+      "count": 229
+    },
+    {
+      "word": "quas",
+      "count": 228
+    },
+    {
+      "word": "cultura",
+      "count": 227
+    },
+    {
+      "word": "gulielmus",
+      "count": 227
+    },
+    {
+      "word": "perita",
+      "count": 227
+    },
+    {
+      "word": "sic",
+      "count": 226
+    },
+    {
+      "word": "lutetiae",
+      "count": 226
+    },
+    {
+      "word": "linguis",
+      "count": 225
+    },
+    {
+      "word": "vita",
+      "count": 224
+    },
+    {
+      "word": "eorum",
+      "count": 224
+    },
+    {
+      "word": "des",
+      "count": 220
+    },
+    {
+      "word": "ita",
+      "count": 219
+    },
+    {
+      "word": "ibi",
+      "count": 219
+    },
+    {
+      "word": "quinque",
+      "count": 219
+    },
+    {
+      "word": "vol",
+      "count": 218
+    },
+    {
+      "word": "provinciae",
+      "count": 217
+    },
+    {
+      "word": "sua",
+      "count": 217
+    },
+    {
+      "word": "ei",
+      "count": 217
+    },
+    {
+      "word": "medio",
+      "count": 216
+    },
+    {
+      "word": "dicitur",
+      "count": 216
+    },
+    {
+      "word": "geographia",
+      "count": 216
+    },
+    {
+      "word": "multis",
+      "count": 215
+    },
+    {
+      "word": "verba",
+      "count": 214
+    },
+    {
+      "word": "episcopus",
+      "count": 214
+    },
+    {
+      "word": "systema",
+      "count": 213
+    },
+    {
+      "word": "alii",
+      "count": 213
+    },
+    {
+      "word": "ergo",
+      "count": 211
+    },
+    {
+      "word": "litterae",
+      "count": 211
+    },
+    {
+      "word": "diebus",
+      "count": 211
+    },
+    {
+      "word": "antonius",
+      "count": 211
+    },
+    {
+      "word": "plerumque",
+      "count": 210
+    },
+    {
+      "word": "linguam",
+      "count": 210
+    },
+    {
+      "word": "iacobus",
+      "count": 210
+    },
+    {
+      "word": "quidem",
+      "count": 209
+    },
+    {
+      "word": "cantor",
+      "count": 209
+    },
+    {
+      "word": "iterum",
+      "count": 208
+    },
+    {
+      "word": "britanniarum",
+      "count": 208
+    },
+    {
+      "word": "nationum",
+      "count": 207
+    },
+    {
+      "word": "musicus",
+      "count": 207
+    },
+    {
+      "word": "suum",
+      "count": 206
+    },
+    {
+      "word": "eum",
+      "count": 206
+    },
+    {
+      "word": "secunda",
+      "count": 205
+    },
+    {
+      "word": "enim",
+      "count": 204
+    },
+    {
+      "word": "italia",
+      "count": 204
+    },
+    {
+      "word": "antiquae",
+      "count": 204
+    },
+    {
+      "word": "omnibus",
+      "count": 203
+    },
+    {
+      "word": "david",
+      "count": 203
+    },
+    {
+      "word": "electus",
+      "count": 203
+    },
+    {
+      "word": "moderator",
+      "count": 203
+    },
+    {
+      "word": "europae",
+      "count": 202
+    },
+    {
+      "word": "super",
+      "count": 202
+    },
+    {
+      "word": "saeculi",
+      "count": 202
+    },
+    {
+      "word": "iii",
+      "count": 201
+    },
+    {
+      "word": "russia",
+      "count": 201
+    },
+    {
+      "word": "helveticus",
+      "count": 201
+    },
+    {
+      "word": "iaponice",
+      "count": 201
+    },
+    {
+      "word": "unum",
+      "count": 200
+    },
+    {
+      "word": "nec",
+      "count": 200
+    },
+    {
+      "word": "exempli",
+      "count": 199
+    },
+    {
+      "word": "coepit",
+      "count": 198
+    },
+    {
+      "word": "aliae",
+      "count": 198
+    },
+    {
+      "word": "novae",
+      "count": 198
+    },
+    {
+      "word": "europaeae",
+      "count": 198
+    },
+    {
+      "word": "omnium",
+      "count": 197
+    },
+    {
+      "word": "multa",
+      "count": 196
+    },
+    {
+      "word": "his",
+      "count": 196
+    },
+    {
+      "word": "philosophus",
+      "count": 196
+    },
+    {
+      "word": "aquae",
+      "count": 195
+    },
+    {
+      "word": "intra",
+      "count": 195
+    },
+    {
+      "word": "fuerunt",
+      "count": 194
+    },
+    {
+      "word": "maior",
+      "count": 194
+    },
+    {
+      "word": "annorum",
+      "count": 193
+    },
+    {
+      "word": "germanica",
+      "count": 193
+    },
+    {
+      "word": "postquam",
+      "count": 192
+    },
+    {
+      "word": "mundanum",
+      "count": 192
+    },
+    {
+      "word": "genus",
+      "count": 191
+    },
+    {
+      "word": "numerum",
+      "count": 191
+    },
+    {
+      "word": "graeca",
+      "count": 191
+    },
+    {
+      "word": "orbis",
+      "count": 191
+    },
+    {
+      "word": "augustus",
+      "count": 191
+    },
+    {
+      "word": "fit",
+      "count": 191
+    },
+    {
+      "word": "scriptrix",
+      "count": 191
+    },
+    {
+      "word": "novum",
+      "count": 190
+    },
+    {
+      "word": "vi",
+      "count": 189
+    },
+    {
+      "word": "ministrorum",
+      "count": 189
+    },
+    {
+      "word": "occidentalis",
+      "count": 188
+    },
+    {
+      "word": "politicorum",
+      "count": 188
+    },
+    {
+      "word": "rem",
+      "count": 186
+    },
+    {
+      "word": "britannica",
+      "count": 186
+    },
+    {
+      "word": "eventa",
+      "count": 186
+    },
+    {
+      "word": "praeterea",
+      "count": 185
+    },
+    {
+      "word": "km",
+      "count": 185
+    },
+    {
+      "word": "an",
+      "count": 184
+    },
+    {
+      "word": "thomas",
+      "count": 184
+    },
+    {
+      "word": "foederatis",
+      "count": 184
+    },
+    {
+      "word": "romanae",
+      "count": 183
+    },
+    {
+      "word": "foedus",
+      "count": 183
+    },
+    {
+      "word": "nota",
+      "count": 183
+    },
+    {
+      "word": "motus",
+      "count": 182
+    },
+    {
+      "word": "minus",
+      "count": 182
+    },
+    {
+      "word": "societas",
+      "count": 182
+    },
+    {
+      "word": "spd",
+      "count": 182
+    },
+    {
+      "word": "actor",
+      "count": 181
+    },
+    {
+      "word": "tum",
+      "count": 180
+    },
+    {
+      "word": "iuxta",
+      "count": 180
+    },
+    {
+      "word": "papa",
+      "count": 180
+    },
+    {
+      "word": "cantrix",
+      "count": 180
+    },
+    {
+      "word": "eodem",
+      "count": 179
+    },
+    {
+      "word": "magnus",
+      "count": 179
+    },
+    {
+      "word": "genera",
+      "count": 179
+    },
+    {
+      "word": "vulgo",
+      "count": 179
+    },
+    {
+      "word": "hac",
+      "count": 178
+    },
+    {
+      "word": "robertus",
+      "count": 178
+    },
+    {
+      "word": "mari",
+      "count": 178
+    },
+    {
+      "word": "exercitus",
+      "count": 178
+    },
+    {
+      "word": "cives",
+      "count": 178
+    },
+    {
+      "word": "versus",
+      "count": 178
+    },
+    {
+      "word": "diurnarius",
+      "count": 178
+    },
+    {
+      "word": "america",
+      "count": 177
+    },
+    {
+      "word": "locus",
+      "count": 177
+    },
+    {
+      "word": "dei",
+      "count": 177
+    },
+    {
+      "word": "via",
+      "count": 176
+    },
+    {
+      "word": "vitae",
+      "count": 176
+    },
+    {
+      "word": "forma",
+      "count": 176
+    },
+    {
+      "word": "caesar",
+      "count": 176
+    },
+    {
+      "word": "fontes",
+      "count": 176
+    },
+    {
+      "word": "flumina",
+      "count": 176
+    },
+    {
+      "word": "imperio",
+      "count": 176
+    },
+    {
+      "word": "cinematographicus",
+      "count": 176
+    },
+    {
+      "word": "omnia",
+      "count": 175
+    },
+    {
+      "word": "compositor",
+      "count": 175
+    },
+    {
+      "word": "tantum",
+      "count": 174
+    },
+    {
+      "word": "oxford",
+      "count": 174
+    },
+    {
+      "word": "cui",
+      "count": 174
+    },
+    {
+      "word": "ea",
+      "count": 174
+    },
+    {
+      "word": "textus",
+      "count": 174
+    },
+    {
+      "word": "com",
+      "count": 174
+    },
+    {
+      "word": "religio",
+      "count": 174
+    },
+    {
+      "word": "anglica",
+      "count": 174
+    },
+    {
+      "word": "russiae",
+      "count": 173
+    },
+    {
+      "word": "magni",
+      "count": 172
+    },
+    {
+      "word": "sueciae",
+      "count": 171
+    },
+    {
+      "word": "sex",
+      "count": 171
+    },
+    {
+      "word": "alexander",
+      "count": 171
+    },
+    {
+      "word": "saeculum",
+      "count": 171
+    },
+    {
+      "word": "sanctus",
+      "count": 171
+    },
+    {
+      "word": "decem",
+      "count": 170
+    },
+    {
+      "word": "septem",
+      "count": 170
+    },
+    {
+      "word": "valde",
+      "count": 170
+    },
+    {
+      "word": "libertatem",
+      "count": 170
+    },
+    {
+      "word": "aym",
+      "count": 170
+    },
+    {
+      "word": "belli",
+      "count": 169
+    },
+    {
+      "word": "filius",
+      "count": 169
+    },
+    {
+      "word": "europaea",
+      "count": 169
+    },
+    {
+      "word": "oeconomia",
+      "count": 169
+    },
+    {
+      "word": "dedit",
+      "count": 168
+    },
+    {
+      "word": "sinus",
+      "count": 168
+    },
+    {
+      "word": "cdu",
+      "count": 167
+    },
+    {
+      "word": "archiepiscopus",
+      "count": 167
+    },
+    {
+      "word": "fecit",
+      "count": 166
+    },
+    {
+      "word": "sibi",
+      "count": 165
+    },
+    {
+      "word": "libro",
+      "count": 165
+    },
+    {
+      "word": "graecia",
+      "count": 165
+    },
+    {
+      "word": "regionis",
+      "count": 165
+    },
+    {
+      "word": "temporis",
+      "count": 165
+    },
+    {
+      "word": "marcus",
+      "count": 165
+    },
+    {
+      "word": "francica",
+      "count": 165
+    },
+    {
+      "word": "romanum",
+      "count": 164
+    },
+    {
+      "word": "nationalis",
+      "count": 164
+    },
+    {
+      "word": "nicolaus",
+      "count": 164
+    },
+    {
+      "word": "linguarum",
+      "count": 164
+    },
+    {
+      "word": "eam",
+      "count": 163
+    },
+    {
+      "word": "numeri",
+      "count": 162
+    },
+    {
+      "word": "numero",
+      "count": 162
+    },
+    {
+      "word": "esset",
+      "count": 162
+    },
+    {
+      "word": "viginti",
+      "count": 161
+    },
+    {
+      "word": "orientalis",
+      "count": 161
+    },
+    {
+      "word": "aqua",
+      "count": 160
+    },
+    {
+      "word": "significat",
+      "count": 159
+    },
+    {
+      "word": "aevo",
+      "count": 159
+    },
+    {
+      "word": "appellatur",
+      "count": 159
+    },
+    {
+      "word": "ars",
+      "count": 158
+    },
+    {
+      "word": "opus",
+      "count": 158
+    },
+    {
+      "word": "momenti",
+      "count": 157
+    },
+    {
+      "word": "magister",
+      "count": 157
+    },
+    {
+      "word": "maxime",
+      "count": 156
+    },
+    {
+      "word": "ludovicus",
+      "count": 155
+    },
+    {
+      "word": "fines",
+      "count": 155
+    },
+    {
+      "word": "latini",
+      "count": 155
+    },
+    {
+      "word": "situm",
+      "count": 155
+    },
+    {
+      "word": "praeter",
+      "count": 154
+    },
+    {
+      "word": "secundo",
+      "count": 154
+    },
+    {
+      "word": "semper",
+      "count": 153
+    },
+    {
+      "word": "andreas",
+      "count": 153
+    },
+    {
+      "word": "familia",
+      "count": 153
+    },
+    {
+      "word": "org",
+      "count": 153
+    },
+    {
+      "word": "africa",
+      "count": 153
+    },
+    {
+      "word": "milliones",
+      "count": 153
+    },
+    {
+      "word": "catholicae",
+      "count": 152
+    },
+    {
+      "word": "loco",
+      "count": 151
+    },
+    {
+      "word": "deus",
+      "count": 151
+    },
+    {
+      "word": "hanc",
+      "count": 150
+    },
+    {
+      "word": "mortem",
+      "count": 150
+    },
+    {
+      "word": "paene",
+      "count": 150
+    },
+    {
+      "word": "romanus",
+      "count": 150
+    },
+    {
+      "word": "milites",
+      "count": 150
+    },
+    {
+      "word": "le",
+      "count": 149
+    },
+    {
+      "word": "usu",
+      "count": 149
+    },
+    {
+      "word": "roma",
+      "count": 149
+    },
+    {
+      "word": "theodisca",
+      "count": 149
+    },
+    {
+      "word": "berolini",
+      "count": 148
+    },
+    {
+      "word": "generis",
+      "count": 148
+    },
+    {
+      "word": "orbe",
+      "count": 148
+    },
+    {
+      "word": "litus",
+      "count": 148
+    },
+    {
+      "word": "orientali",
+      "count": 148
+    },
+    {
+      "word": "litterarum",
+      "count": 147
+    },
+    {
+      "word": "domus",
+      "count": 147
+    },
+    {
+      "word": "vicit",
+      "count": 147
+    },
+    {
+      "word": "magis",
+      "count": 147
+    },
+    {
+      "word": "utuntur",
+      "count": 147
+    },
+    {
+      "word": "primi",
+      "count": 146
+    },
+    {
+      "word": "regno",
+      "count": 146
+    },
+    {
+      "word": "quos",
+      "count": 146
+    },
+    {
+      "word": "hispania",
+      "count": 146
+    },
+    {
+      "word": "suis",
+      "count": 145
+    },
+    {
+      "word": "foederalis",
+      "count": 145
+    },
+    {
+      "word": "mundo",
+      "count": 145
+    },
+    {
+      "word": "musicae",
+      "count": 145
+    },
+    {
+      "word": "sinarum",
+      "count": 145
+    },
+    {
+      "word": "scilicet",
+      "count": 144
+    },
+    {
+      "word": "unus",
+      "count": 144
+    },
+    {
+      "word": "ne",
+      "count": 144
+    },
+    {
+      "word": "consilium",
+      "count": 144
+    },
+    {
+      "word": "suo",
+      "count": 144
+    },
+    {
+      "word": "gestarum",
+      "count": 144
+    },
+    {
+      "word": "toto",
+      "count": 144
+    },
+    {
+      "word": "clima",
+      "count": 144
+    },
+    {
+      "word": "scientia",
+      "count": 143
+    },
+    {
+      "word": "scripsit",
+      "count": 143
+    },
+    {
+      "word": "on",
+      "count": 143
+    },
+    {
+      "word": "successor",
+      "count": 143
+    },
+    {
+      "word": "tribus",
+      "count": 143
+    },
+    {
+      "word": "maximum",
+      "count": 142
+    },
+    {
+      "word": "aetate",
+      "count": 142
+    },
+    {
+      "word": "pictor",
+      "count": 142
+    },
+    {
+      "word": "habuit",
+      "count": 142
+    },
+    {
+      "word": "australis",
+      "count": 142
+    },
+    {
+      "word": "societatis",
+      "count": 142
+    },
+    {
+      "word": "tunc",
+      "count": 141
+    },
+    {
+      "word": "temporibus",
+      "count": 141
+    },
+    {
+      "word": "maximus",
+      "count": 140
+    },
+    {
+      "word": "litteris",
+      "count": 140
+    },
+    {
+      "word": "ipse",
+      "count": 140
+    },
+    {
+      "word": "populi",
+      "count": 140
+    },
+    {
+      "word": "john",
+      "count": 140
+    },
+    {
+      "word": "decimo",
+      "count": 140
+    },
+    {
+      "word": "scripta",
+      "count": 139
+    },
+    {
+      "word": "museum",
+      "count": 139
+    },
+    {
+      "word": "duas",
+      "count": 139
+    },
+    {
+      "word": "factum",
+      "count": 139
+    },
+    {
+      "word": "civitatem",
+      "count": 139
+    },
+    {
+      "word": "reipublicae",
+      "count": 139
+    },
+    {
+      "word": "sicuti",
+      "count": 139
+    },
+    {
+      "word": "novus",
+      "count": 138
+    },
+    {
+      "word": "regionem",
+      "count": 138
+    },
+    {
+      "word": "at",
+      "count": 137
+    },
+    {
+      "word": "cambridge",
+      "count": 137
+    },
+    {
+      "word": "multae",
+      "count": 137
+    },
+    {
+      "word": "littera",
+      "count": 137
+    },
+    {
+      "word": "laboris",
+      "count": 137
+    },
+    {
+      "word": "anglicus",
+      "count": 137
+    },
+    {
+      "word": "theodisce",
+      "count": 136
+    },
+    {
+      "word": "haud",
+      "count": 136
+    },
+    {
+      "word": "accepit",
+      "count": 136
+    },
+    {
+      "word": "militum",
+      "count": 136
+    },
+    {
+      "word": "italica",
+      "count": 136
+    },
+    {
+      "word": "quem",
+      "count": 135
+    },
+    {
+      "word": "vallis",
+      "count": 135
+    },
+    {
+      "word": "dioecesis",
+      "count": 135
+    },
+    {
+      "word": "necatus",
+      "count": 135
+    },
+    {
+      "word": "linguas",
+      "count": 135
+    },
+    {
+      "word": "politicus",
+      "count": 135
+    },
+    {
+      "word": "iaponia",
+      "count": 135
+    },
+    {
+      "word": "is",
+      "count": 134
+    },
+    {
+      "word": "nihilominus",
+      "count": 134
+    },
+    {
+      "word": "species",
+      "count": 134
+    },
+    {
+      "word": "fuisse",
+      "count": 134
+    },
+    {
+      "word": "natio",
+      "count": 134
+    },
+    {
+      "word": "casus",
+      "count": 133
+    },
+    {
+      "word": "oppidum",
+      "count": 133
+    },
+    {
+      "word": "historiae",
+      "count": 133
+    },
+    {
+      "word": "civitate",
+      "count": 133
+    },
+    {
+      "word": "diem",
+      "count": 133
+    },
+    {
+      "word": "foederatae",
+      "count": 133
+    },
+    {
+      "word": "oriente",
+      "count": 132
+    },
+    {
+      "word": "internationalis",
+      "count": 132
+    },
+    {
+      "word": "minor",
+      "count": 131
+    },
+    {
+      "word": "catholica",
+      "count": 131
+    },
+    {
+      "word": "meridiem",
+      "count": 131
+    },
+    {
+      "word": "usus",
+      "count": 130
+    },
+    {
+      "word": "nam",
+      "count": 130
+    },
+    {
+      "word": "books",
+      "count": 129
+    },
+    {
+      "word": "cantabrigiae",
+      "count": 129
+    },
+    {
+      "word": "variis",
+      "count": 129
+    },
+    {
+      "word": "latinae",
+      "count": 129
+    },
+    {
+      "word": "francice",
+      "count": 129
+    },
+    {
+      "word": "cardinalis",
+      "count": 129
+    },
+    {
+      "word": "romanis",
+      "count": 128
+    },
+    {
+      "word": "fortasse",
+      "count": 128
+    },
+    {
+      "word": "magnum",
+      "count": 128
+    },
+    {
+      "word": "quarum",
+      "count": 128
+    },
+    {
+      "word": "regionibus",
+      "count": 128
+    },
+    {
+      "word": "alias",
+      "count": 127
+    },
+    {
+      "word": "iulius",
+      "count": 127
+    },
+    {
+      "word": "factio",
+      "count": 127
+    },
+    {
+      "word": "comitatus",
+      "count": 126
+    },
+    {
+      "word": "medium",
+      "count": 125
+    },
+    {
+      "word": "hispanica",
+      "count": 125
+    },
+    {
+      "word": "fridericus",
+      "count": 125
+    },
+    {
+      "word": "hispaniae",
+      "count": 125
+    },
+    {
+      "word": "nisi",
+      "count": 124
+    },
+    {
+      "word": "from",
+      "count": 124
+    },
+    {
+      "word": "suecice",
+      "count": 124
+    },
+    {
+      "word": "verbum",
+      "count": 124
+    },
+    {
+      "word": "libera",
+      "count": 124
+    },
+    {
+      "word": "finnia",
+      "count": 124
+    },
+    {
+      "word": "physica",
+      "count": 123
+    },
+    {
+      "word": "al",
+      "count": 123
+    },
+    {
+      "word": "insulam",
+      "count": 123
+    },
+    {
+      "word": "partibus",
+      "count": 123
+    },
+    {
+      "word": "pater",
+      "count": 123
+    },
+    {
+      "word": "guardian",
+      "count": 123
+    },
+    {
+      "word": "imprimis",
+      "count": 122
+    },
+    {
+      "word": "divisa",
+      "count": 122
+    },
+    {
+      "word": "iv",
+      "count": 122
+    },
+    {
+      "word": "for",
+      "count": 122
+    },
+    {
+      "word": "consociationis",
+      "count": 122
+    },
+    {
+      "word": "videtur",
+      "count": 121
+    },
+    {
+      "word": "eis",
+      "count": 121
+    },
+    {
+      "word": "rege",
+      "count": 121
+    },
+    {
+      "word": "publicam",
+      "count": 121
+    },
+    {
+      "word": "classis",
+      "count": 120
+    },
+    {
+      "word": "new",
+      "count": 120
+    },
+    {
+      "word": "scriptores",
+      "count": 120
+    },
+    {
+      "word": "tertia",
+      "count": 120
+    },
+    {
+      "word": "telluris",
+      "count": 119
+    },
+    {
+      "word": "von",
+      "count": 119
+    },
+    {
+      "word": "artes",
+      "count": 119
+    },
+    {
+      "word": "world",
+      "count": 119
+    },
+    {
+      "word": "navis",
+      "count": 119
+    },
+    {
+      "word": "francogallice",
+      "count": 119
+    },
+    {
+      "word": "interretialis",
+      "count": 119
+    },
+    {
+      "word": "austriae",
+      "count": 119
+    },
+    {
+      "word": "politica",
+      "count": 119
+    },
+    {
+      "word": "britanniae",
+      "count": 119
+    },
+    {
+      "word": "brasilia",
+      "count": 119
+    },
+    {
+      "word": "del",
+      "count": 118
+    },
+    {
+      "word": "antiqui",
+      "count": 118
+    },
+    {
+      "word": "britannia",
+      "count": 118
+    },
+    {
+      "word": "maximi",
+      "count": 117
+    },
+    {
+      "word": "sint",
+      "count": 117
+    },
+    {
+      "word": "pinacotheca",
+      "count": 117
+    },
+    {
+      "word": "geologia",
+      "count": 117
+    },
+    {
+      "word": "san",
+      "count": 117
+    },
+    {
+      "word": "chomsky",
+      "count": 117
+    },
+    {
+      "word": "igitur",
+      "count": 115
+    },
+    {
+      "word": "legatus",
+      "count": 115
+    },
+    {
+      "word": "iaponiae",
+      "count": 115
+    },
+    {
+      "word": "mathematicus",
+      "count": 115
+    },
+    {
+      "word": "asia",
+      "count": 114
+    },
+    {
+      "word": "philosophia",
+      "count": 114
+    },
+    {
+      "word": "dominus",
+      "count": 114
+    },
+    {
+      "word": "duce",
+      "count": 114
+    },
+    {
+      "word": "terram",
+      "count": 114
+    },
+    {
+      "word": "nominatus",
+      "count": 114
+    },
+    {
+      "word": "austriacus",
+      "count": 114
+    },
+    {
+      "word": "gubernatio",
+      "count": 114
+    },
+    {
+      "word": "loquuntur",
+      "count": 114
+    },
+    {
+      "word": "domine",
+      "count": 114
+    },
+    {
+      "word": "unam",
+      "count": 113
+    },
+    {
+      "word": "regis",
+      "count": 113
+    },
+    {
+      "word": "dania",
+      "count": 113
+    },
+    {
+      "word": "locum",
+      "count": 112
+    },
+    {
+      "word": "monte",
+      "count": 112
+    },
+    {
+      "word": "mythologia",
+      "count": 112
+    },
+    {
+      "word": "occidentali",
+      "count": 112
+    },
+    {
+      "word": "octo",
+      "count": 112
+    },
+    {
+      "word": "oceanus",
+      "count": 112
+    },
+    {
+      "word": "idem",
+      "count": 111
+    },
+    {
+      "word": "finem",
+      "count": 111
+    },
+    {
+      "word": "en",
+      "count": 111
+    },
+    {
+      "word": "ordo",
+      "count": 111
+    },
+    {
+      "word": "denique",
+      "count": 111
+    },
+    {
+      "word": "sanctae",
+      "count": 111
+    },
+    {
+      "word": "it",
+      "count": 111
+    },
+    {
+      "word": "nationis",
+      "count": 111
+    },
+    {
+      "word": "amplius",
+      "count": 111
+    },
+    {
+      "word": "naturalis",
+      "count": 110
+    },
+    {
+      "word": "tam",
+      "count": 110
+    },
+    {
+      "word": "altera",
+      "count": 110
+    },
+    {
+      "word": "philippus",
+      "count": 110
+    },
+    {
+      "word": "gentes",
+      "count": 110
+    },
+    {
+      "word": "unione",
+      "count": 110
+    },
+    {
+      "word": "leges",
+      "count": 109
+    },
+    {
+      "word": "eos",
+      "count": 109
+    },
+    {
+      "word": "dicit",
+      "count": 109
+    },
+    {
+      "word": "corpus",
+      "count": 109
+    },
+    {
+      "word": "regina",
+      "count": 109
+    },
+    {
+      "word": "duae",
+      "count": 109
+    },
+    {
+      "word": "oceanum",
+      "count": 109
+    },
+    {
+      "word": "necati",
+      "count": 109
+    },
+    {
+      "word": "grex",
+      "count": 109
+    },
+    {
+      "word": "praecipua",
+      "count": 109
+    },
+    {
+      "word": "occidente",
+      "count": 109
+    },
+    {
+      "word": "meridie",
+      "count": 109
+    },
+    {
+      "word": "generalis",
+      "count": 108
+    },
+    {
+      "word": "hodierna",
+      "count": 108
+    },
+    {
+      "word": "oxoniae",
+      "count": 108
+    },
+    {
+      "word": "bene",
+      "count": 108
+    },
+    {
+      "word": "magnam",
+      "count": 108
+    },
+    {
+      "word": "spatium",
+      "count": 108
+    },
+    {
+      "word": "itaque",
+      "count": 108
+    },
+    {
+      "word": "mediae",
+      "count": 108
+    },
+    {
+      "word": "stephanus",
+      "count": 108
+    },
+    {
+      "word": "auctor",
+      "count": 108
+    },
+    {
+      "word": "totum",
+      "count": 107
+    },
+    {
+      "word": "etc",
+      "count": 107
+    },
+    {
+      "word": "plerique",
+      "count": 107
+    },
+    {
+      "word": "gentium",
+      "count": 107
+    },
+    {
+      "word": "area",
+      "count": 107
+    },
+    {
+      "word": "centum",
+      "count": 106
+    },
+    {
+      "word": "respublica",
+      "count": 106
+    },
+    {
+      "word": "unio",
+      "count": 106
+    },
+    {
+      "word": "aetas",
+      "count": 105
+    },
+    {
+      "word": "novam",
+      "count": 105
+    },
+    {
+      "word": "fretum",
+      "count": 105
+    },
+    {
+      "word": "latinus",
+      "count": 105
+    },
+    {
+      "word": "magnae",
+      "count": 105
+    },
+    {
+      "word": "eduardus",
+      "count": 105
+    },
+    {
+      "word": "hodiernae",
+      "count": 105
+    },
+    {
+      "word": "van",
+      "count": 105
+    },
+    {
+      "word": "oceano",
+      "count": 105
+    },
+    {
+      "word": "meridionalis",
+      "count": 105
+    },
+    {
+      "word": "illa",
+      "count": 104
+    },
+    {
+      "word": "pertinet",
+      "count": 104
+    },
+    {
+      "word": "artis",
+      "count": 104
+    },
+    {
+      "word": "exeunte",
+      "count": 104
+    },
+    {
+      "word": "unde",
+      "count": 104
+    },
+    {
+      "word": "ignotis",
+      "count": 104
+    },
+    {
+      "word": "oceani",
+      "count": 104
+    },
+    {
+      "word": "russicus",
+      "count": 104
+    },
+    {
+      "word": "danice",
+      "count": 104
+    },
+    {
+      "word": "denuo",
+      "count": 103
+    },
+    {
+      "word": "solis",
+      "count": 103
+    },
+    {
+      "word": "hominibus",
+      "count": 103
+    },
+    {
+      "word": "es",
+      "count": 103
+    },
+    {
+      "word": "quinto",
+      "count": 103
+    },
+    {
+      "word": "physicus",
+      "count": 103
+    },
+    {
+      "word": "praefectus",
+      "count": 103
+    },
+    {
+      "word": "claudius",
+      "count": 102
+    },
+    {
+      "word": "ille",
+      "count": 102
+    },
+    {
+      "word": "grammatica",
+      "count": 102
+    },
+    {
+      "word": "princeps",
+      "count": 102
+    },
+    {
+      "word": "auctores",
+      "count": 102
+    },
+    {
+      "word": "antea",
+      "count": 102
+    },
+    {
+      "word": "ineunte",
+      "count": 102
+    },
+    {
+      "word": "canada",
+      "count": 102
+    },
+    {
+      "word": "libertatis",
+      "count": 102
+    },
+    {
+      "word": "rationes",
+      "count": 101
+    },
+    {
+      "word": "partim",
+      "count": 101
+    },
+    {
+      "word": "verlag",
+      "count": 101
+    },
+    {
+      "word": "plures",
+      "count": 101
+    },
+    {
+      "word": "sententia",
+      "count": 101
+    },
+    {
+      "word": "familiae",
+      "count": 101
+    },
+    {
+      "word": "africae",
+      "count": 101
+    },
+    {
+      "word": "les",
+      "count": 101
+    },
+    {
+      "word": "italice",
+      "count": 101
+    },
+    {
+      "word": "tu",
+      "count": 101
+    },
+    {
+      "word": "austria",
+      "count": 101
+    },
+    {
+      "word": "extra",
+      "count": 100
+    },
+    {
+      "word": "omnis",
+      "count": 100
+    },
+    {
+      "word": "bis",
+      "count": 100
+    },
+    {
+      "word": "mundano",
+      "count": 100
+    },
+    {
+      "word": "romam",
+      "count": 100
+    },
+    {
+      "word": "praesens",
+      "count": 100
+    },
+    {
+      "word": "me",
+      "count": 100
+    },
+    {
+      "word": "praefecturae",
+      "count": 100
+    },
+    {
+      "word": "comprehendit",
+      "count": 99
+    },
+    {
+      "word": "iter",
+      "count": 99
+    },
+    {
+      "word": "duodecim",
+      "count": 99
+    },
+    {
+      "word": "maximam",
+      "count": 99
+    },
+    {
+      "word": "vero",
+      "count": 99
+    },
+    {
+      "word": "pelliculae",
+      "count": 99
+    },
+    {
+      "word": "fluminis",
+      "count": 99
+    },
+    {
+      "word": "centesimas",
+      "count": 99
+    },
+    {
+      "word": "tota",
+      "count": 99
+    },
+    {
+      "word": "metra",
+      "count": 99
+    },
+    {
+      "word": "chiliometrorum",
+      "count": 99
+    },
+    {
+      "word": "supra",
+      "count": 98
+    },
+    {
+      "word": "nominis",
+      "count": 98
+    },
+    {
+      "word": "constat",
+      "count": 98
+    },
+    {
+      "word": "concilium",
+      "count": 98
+    },
+    {
+      "word": "mille",
+      "count": 98
+    },
+    {
+      "word": "appellantur",
+      "count": 97
+    },
+    {
+      "word": "totius",
+      "count": 97
+    },
+    {
+      "word": "mox",
+      "count": 97
+    },
+    {
+      "word": "casu",
+      "count": 97
+    },
+    {
+      "word": "latinum",
+      "count": 97
+    },
+    {
+      "word": "viri",
+      "count": 97
+    },
+    {
+      "word": "orta",
+      "count": 97
+    },
+    {
+      "word": "status",
+      "count": 97
+    },
+    {
+      "word": "ponderis",
+      "count": 97
+    },
+    {
+      "word": "civium",
+      "count": 97
+    },
+    {
+      "word": "medicus",
+      "count": 97
+    },
+    {
+      "word": "territorium",
+      "count": 97
+    },
+    {
+      "word": "estonia",
+      "count": 97
+    },
+    {
+      "word": "hitler",
+      "count": 97
+    },
+    {
+      "word": "regimen",
+      "count": 97
+    },
+    {
+      "word": "utitur",
+      "count": 96
+    },
+    {
+      "word": "tria",
+      "count": 96
+    },
+    {
+      "word": "maiores",
+      "count": 96
+    },
+    {
+      "word": "verbis",
+      "count": 96
+    },
+    {
+      "word": "cicero",
+      "count": 96
+    },
+    {
+      "word": "litore",
+      "count": 96
+    },
+    {
+      "word": "series",
+      "count": 96
+    },
+    {
+      "word": "insulis",
+      "count": 96
+    },
+    {
+      "word": "chiliometra",
+      "count": 96
+    },
+    {
+      "word": "romano",
+      "count": 96
+    },
+    {
+      "word": "multas",
+      "count": 96
+    },
+    {
+      "word": "nationes",
+      "count": 96
+    },
+    {
+      "word": "monaci",
+      "count": 95
+    },
+    {
+      "word": "suae",
+      "count": 95
+    },
+    {
+      "word": "culturae",
+      "count": 95
+    },
+    {
+      "word": "orientem",
+      "count": 95
+    },
+    {
+      "word": "atlantico",
+      "count": 95
+    },
+    {
+      "word": "aeroportus",
+      "count": 95
+    },
+    {
+      "word": "catalana",
+      "count": 95
+    },
+    {
+      "word": "editio",
+      "count": 94
+    },
+    {
+      "word": "insulas",
+      "count": 94
+    },
+    {
+      "word": "pagina",
+      "count": 94
+    },
+    {
+      "word": "colonia",
+      "count": 94
+    },
+    {
+      "word": "xvi",
+      "count": 94
+    },
+    {
+      "word": "angliae",
+      "count": 94
+    },
+    {
+      "word": "praemium",
+      "count": 94
+    },
+    {
+      "word": "sovietica",
+      "count": 94
+    },
+    {
+      "word": "locis",
+      "count": 93
+    },
+    {
+      "word": "gradus",
+      "count": 93
+    },
+    {
+      "word": "primam",
+      "count": 93
+    },
+    {
+      "word": "quid",
+      "count": 93
+    },
+    {
+      "word": "magno",
+      "count": 93
+    },
+    {
+      "word": "facit",
+      "count": 93
+    },
+    {
+      "word": "praesidis",
+      "count": 93
+    },
+    {
+      "word": "albertus",
+      "count": 92
+    },
+    {
+      "word": "liberalis",
+      "count": 92
+    },
+    {
+      "word": "vitam",
+      "count": 92
+    },
+    {
+      "word": "senatus",
+      "count": 92
+    },
+    {
+      "word": "novo",
+      "count": 92
+    },
+    {
+      "word": "romanorum",
+      "count": 92
+    },
+    {
+      "word": "nos",
+      "count": 92
+    },
+    {
+      "word": "australia",
+      "count": 92
+    },
+    {
+      "word": "russica",
+      "count": 92
+    },
+    {
+      "word": "mexicum",
+      "count": 92
+    },
+    {
+      "word": "studiosus",
+      "count": 92
+    },
+    {
+      "word": "hispanicus",
+      "count": 92
+    },
+    {
+      "word": "aliquot",
+      "count": 91
+    },
+    {
+      "word": "graeci",
+      "count": 91
+    },
+    {
+      "word": "invenitur",
+      "count": 91
+    },
+    {
+      "word": "quasi",
+      "count": 91
+    },
+    {
+      "word": "graecae",
+      "count": 91
+    },
+    {
+      "word": "scientiae",
+      "count": 91
+    },
+    {
+      "word": "munere",
+      "count": 91
+    },
+    {
+      "word": "meridionali",
+      "count": 91
+    },
+    {
+      "word": "parlamentum",
+      "count": 91
+    },
+    {
+      "word": "urbibus",
+      "count": 91
+    },
+    {
+      "word": "lacerta",
+      "count": 90
+    },
+    {
+      "word": "te",
+      "count": 90
+    },
+    {
+      "word": "occidentem",
+      "count": 90
+    },
+    {
+      "word": "antiquis",
+      "count": 90
+    },
+    {
+      "word": "romaniae",
+      "count": 90
+    },
+    {
+      "word": "sensu",
+      "count": 89
+    },
+    {
+      "word": "hae",
+      "count": 89
+    },
+    {
+      "word": "novem",
+      "count": 89
+    },
+    {
+      "word": "naves",
+      "count": 89
+    },
+    {
+      "word": "triginta",
+      "count": 89
+    },
+    {
+      "word": "capita",
+      "count": 89
+    },
+    {
+      "word": "suas",
+      "count": 89
+    },
+    {
+      "word": "primis",
+      "count": 89
+    },
+    {
+      "word": "christiana",
+      "count": 89
+    },
+    {
+      "word": "appellata",
+      "count": 89
+    },
+    {
+      "word": "insularum",
+      "count": 89
+    },
+    {
+      "word": "originem",
+      "count": 88
+    },
+    {
+      "word": "auxilium",
+      "count": 88
+    },
+    {
+      "word": "schola",
+      "count": 88
+    },
+    {
+      "word": "nihil",
+      "count": 88
+    },
+    {
+      "word": "vici",
+      "count": 88
+    },
+    {
+      "word": "socialis",
+      "count": 88
+    },
+    {
+      "word": "militaris",
+      "count": 88
+    },
+    {
+      "word": "eds",
+      "count": 88
+    },
+    {
+      "word": "manu",
+      "count": 88
+    },
+    {
+      "word": "inde",
+      "count": 88
+    },
+    {
+      "word": "paulo",
+      "count": 88
+    },
+    {
+      "word": "neque",
+      "count": 88
+    },
+    {
+      "word": "societates",
+      "count": 88
+    },
+    {
+      "word": "verbi",
+      "count": 88
+    },
+    {
+      "word": "habetur",
+      "count": 88
+    },
+    {
+      "word": "iohannes",
+      "count": 88
+    },
+    {
+      "word": "omnino",
+      "count": 87
+    },
+    {
+      "word": "cursum",
+      "count": 87
+    },
+    {
+      "word": "historica",
+      "count": 87
+    },
+    {
+      "word": "latin",
+      "count": 87
+    },
+    {
+      "word": "duobus",
+      "count": 87
+    },
+    {
+      "word": "unionem",
+      "count": 87
+    },
+    {
+      "word": "philosophy",
+      "count": 87
+    },
+    {
+      "word": "natione",
+      "count": 87
+    },
+    {
+      "word": "brasiliensis",
+      "count": 87
+    },
+    {
+      "word": "aliquando",
+      "count": 86
+    },
+    {
+      "word": "elementa",
+      "count": 86
+    },
+    {
+      "word": "ipsa",
+      "count": 86
+    },
+    {
+      "word": "vera",
+      "count": 86
+    },
+    {
+      "word": "nominibus",
+      "count": 86
+    },
+    {
+      "word": "municipium",
+      "count": 86
+    },
+    {
+      "word": "aetatis",
+      "count": 86
+    },
+    {
+      "word": "democratica",
+      "count": 86
+    },
+    {
+      "word": "scholae",
+      "count": 86
+    },
+    {
+      "word": "populo",
+      "count": 86
+    },
+    {
+      "word": "mexici",
+      "count": 86
+    },
+    {
+      "word": "vis",
+      "count": 85
+    },
+    {
+      "word": "duos",
+      "count": 85
+    },
+    {
+      "word": "exemplum",
+      "count": 85
+    },
+    {
+      "word": "simul",
+      "count": 85
+    },
+    {
+      "word": "multos",
+      "count": 85
+    },
+    {
+      "word": "multum",
+      "count": 85
+    },
+    {
+      "word": "benedictus",
+      "count": 85
+    },
+    {
+      "word": "montis",
+      "count": 85
+    },
+    {
+      "word": "suecia",
+      "count": 85
+    },
+    {
+      "word": "metropolitana",
+      "count": 85
+    },
+    {
+      "word": "mater",
+      "count": 84
+    },
+    {
+      "word": "externus",
+      "count": 84
+    },
+    {
+      "word": "necnon",
+      "count": 84
+    },
+    {
+      "word": "quarta",
+      "count": 84
+    },
+    {
+      "word": "gaius",
+      "count": 84
+    },
+    {
+      "word": "incolas",
+      "count": 84
+    },
+    {
+      "word": "circuitus",
+      "count": 84
+    },
+    {
+      "word": "studium",
+      "count": 83
+    },
+    {
+      "word": "annus",
+      "count": 83
+    },
+    {
+      "word": "vii",
+      "count": 83
+    },
+    {
+      "word": "universitatis",
+      "count": 83
+    },
+    {
+      "word": "varia",
+      "count": 83
+    },
+    {
+      "word": "pacis",
+      "count": 83
+    },
+    {
+      "word": "officialis",
+      "count": 83
+    },
+    {
+      "word": "putatur",
+      "count": 83
+    },
+    {
+      "word": "philologus",
+      "count": 83
+    },
+    {
+      "word": "christianae",
+      "count": 83
+    },
+    {
+      "word": "eiusdem",
+      "count": 83
+    },
+    {
+      "word": "venit",
+      "count": 83
+    },
+    {
+      "word": "copiae",
+      "count": 83
+    },
+    {
+      "word": "urbi",
+      "count": 83
+    },
+    {
+      "word": "oeconomiae",
+      "count": 83
+    },
+    {
+      "word": "habitati",
+      "count": 83
+    },
+    {
+      "word": "dixit",
+      "count": 82
+    },
+    {
+      "word": "ludi",
+      "count": 82
+    },
+    {
+      "word": "anna",
+      "count": 82
+    },
+    {
+      "word": "el",
+      "count": 82
+    },
+    {
+      "word": "augusta",
+      "count": 82
+    },
+    {
+      "word": "initio",
+      "count": 82
+    },
+    {
+      "word": "calendarium",
+      "count": 82
+    },
+    {
+      "word": "lucius",
+      "count": 82
+    },
+    {
+      "word": "populus",
+      "count": 82
+    },
+    {
+      "word": "christiani",
+      "count": 82
+    },
+    {
+      "word": "nazistis",
+      "count": 82
+    },
+    {
+      "word": "cancellarius",
+      "count": 82
+    },
+    {
+      "word": "geschichte",
+      "count": 81
+    },
+    {
+      "word": "tabula",
+      "count": 81
+    },
+    {
+      "word": "superior",
+      "count": 81
+    },
+    {
+      "word": "ratio",
+      "count": 81
+    },
+    {
+      "word": "science",
+      "count": 81
+    },
+    {
+      "word": "interdum",
+      "count": 81
+    },
+    {
+      "word": "theologus",
+      "count": 81
+    },
+    {
+      "word": "origine",
+      "count": 81
+    },
+    {
+      "word": "sovieticae",
+      "count": 81
+    },
+    {
+      "word": "georgia",
+      "count": 81
+    },
+    {
+      "word": "dacoromanicus",
+      "count": 81
+    },
+    {
+      "word": "exempla",
+      "count": 80
+    },
+    {
+      "word": "inveniuntur",
+      "count": 80
+    },
+    {
+      "word": "victor",
+      "count": 80
+    },
+    {
+      "word": "language",
+      "count": 80
+    },
+    {
+      "word": "vetus",
+      "count": 80
+    },
+    {
+      "word": "du",
+      "count": 80
+    },
+    {
+      "word": "domini",
+      "count": 80
+    },
+    {
+      "word": "sola",
+      "count": 80
+    },
+    {
+      "word": "india",
+      "count": 80
+    },
+    {
+      "word": "comitia",
+      "count": 80
+    },
+    {
+      "word": "capite",
+      "count": 80
+    },
+    {
+      "word": "erythraea",
+      "count": 80
+    }
+  ]
+}

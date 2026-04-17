@@ -1,0 +1,4 @@
+# Source: Wikipedia article "AWK" (https://pl.wikipedia.org/)
+
+Zmienne 
+Zmienne AWK są dynamiczne — zaczynają istnieć, gdy są po raz pierwszy użyte. Nazwy zmiennych mogą zawierać znaki z zakresu [A-Za-z0-9_], lecz nie mogą być słowami kluczowymi. Zmienne oraz pola mogą być liczbami (zmiennoprzecinkowymi), łańcuchami lub jednym i drugim naraz. Interpretacja wartości zmiennej zależy od kontekstu. Jeśli jest użyta w wyrażeniu numerycznym, jest interpretowana jako liczba. Natomiast jeśli jest użyta w wyrażeniu łańcuchowym — jest traktowana jak łańcuch.
