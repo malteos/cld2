@@ -107,8 +107,8 @@ extern const char* const kLanguageToName[kLanguageToNameSize] = {
   "BOSNIAN",               // 78 bs
   "SINHALESE",             // 79 si
   "NORWEGIAN_N",           // 80 nn
-  "81",                    // 81
-  "82",                    // 82
+  "CHUVASH",  // 81 cv
+  "SILESIAN",  // 82 szl
   "XHOSA",                 // 83 xh
   "ZULU",                  // 84 zu
   "GUARANI",               // 85 gn
@@ -726,8 +726,8 @@ extern const char* const kLanguageToCode[kLanguageToCodeSize] = {
   "bs",    // 78 BOSNIAN
   "si",    // 79 SINHALESE
   "nn",    // 80 NORWEGIAN_N
-  "",      // 81 81
-  "",      // 82 82
+  "cv",  // 81 CHUVASH
+  "szl",  // 82 SILESIAN
   "xh",    // 83 XHOSA
   "zu",    // 84 ZULU
   "gn",    // 85 GUARANI
@@ -1345,8 +1345,8 @@ extern const char* const kLanguageToCName[kLanguageToCNameSize] = {
   "BOSNIAN",               // 78 bs
   "SINHALESE",             // 79 si
   "NORWEGIAN_N",           // 80 nn
-  "X_81",                  // 81
-  "X_82",                  // 82
+  "Chuvash",  // 81 cv
+  "Silesian",  // 82 szl
   "XHOSA",                 // 83 xh
   "ZULU",                  // 84 zu
   "GUARANI",               // 85 gn
@@ -1965,8 +1965,8 @@ extern const FourScripts kLanguageToScripts[kLanguageToScriptsSize] = {
   {ULScript_Latin, ULScript_Cyrillic, None, None, },  // 78 bs
   {ULScript_Sinhala, None, None, None, },  // 79 si
   {ULScript_Latin, None, None, None, },  // 80 nn
-  {None, None, None, None, },  // 81
-  {None, None, None, None, },  // 82
+  {ULScript_Cyrillic, None, None, None, },  // 81 cv
+  {ULScript_Latin, None, None, None, },  // 82 szl
   {ULScript_Latin, None, None, None, },  // 83 xh
   {ULScript_Latin, None, None, None, },  // 84 zu
   {ULScript_Latin, None, None, None, },  // 85 gn
@@ -2585,8 +2585,8 @@ extern const uint8 kLanguageToPLang[kLanguageToPLangSize] = {
    50,  // 78 bs
    34,  // 79 si
    51,  // 80 nn
-    0,  // 81
-    0,  // 82
+  249,  // 81 cv
+  249,  // 82 szl
    52,  // 83 xh
    53,  // 84 zu
    54,  // 85 gn
@@ -3269,7 +3269,7 @@ extern const uint16 kPLangToLanguageLatn[256] = {
   UNKNOWN_LANGUAGE,      // 246
   UNKNOWN_LANGUAGE,      // 247
   UNKNOWN_LANGUAGE,      // 248
-  UNKNOWN_LANGUAGE,      // 249
+  X_82,                 // 249 SILESIAN szl
   NDEBELE,               // 250
   X_BORK_BORK_BORK,      // 251
   X_PIG_LATIN,           // 252
@@ -3529,7 +3529,7 @@ extern const uint16 kPLangToLanguageOthr[256] = {
   UNKNOWN_LANGUAGE,      // 246
   UNKNOWN_LANGUAGE,      // 247
   UNKNOWN_LANGUAGE,      // 248
-  UNKNOWN_LANGUAGE,      // 249
+  X_81,                 // 249 CHUVASH cv
   UNKNOWN_LANGUAGE,      // 250
   UNKNOWN_LANGUAGE,      // 251
   UNKNOWN_LANGUAGE,      // 252
@@ -4059,7 +4059,7 @@ extern const uint8 kPLangToCloseSetOthr[256] = {
 };
 
 // Alphabetical order for binary search
-extern const int kNameToLanguageSize = 304;
+extern const int kNameToLanguageSize = 306;
 extern const CharIntPair kNameToLanguage[kNameToLanguageSize] = {
   {"ABKHAZIAN",            130},  // ab
   {"AFAR",                 131},  // aa
@@ -4086,6 +4086,7 @@ extern const CharIntPair kNameToLanguage[kNameToLanguageSize] = {
   {"CEBUANO",              165},  // ceb
   {"CHEROKEE",             107},  // chr
   {"CHICHEWA",             174},  // ny
+  {"CHUVASH", 81},  // cv
   {"CORSICAN",             112},  // co
   {"CROATIAN",              28},  // hr
   {"CROATIAN",              28},  // sh-Latn
@@ -4216,6 +4217,7 @@ extern const CharIntPair kNameToLanguage[kNameToLanguageSize] = {
   {"SESELWA_CREOLE_FRENCH", 179},  // crs
   {"SESOTHO",               86},  // st
   {"SHONA",                119},  // sn
+  {"SILESIAN", 82},  // szl
   {"SINDHI",                99},  // sd
   {"SINHALESE",             79},  // si
   {"SISWANT",              151},  // ss
@@ -4368,7 +4370,7 @@ extern const CharIntPair kNameToLanguage[kNameToLanguageSize] = {
 };
 
 // Alphabetical order for binary search
-extern const int kCodeToLanguageSize = 304;
+extern const int kCodeToLanguageSize = 306;
 extern const CharIntPair kCodeToLanguage[kCodeToLanguageSize] = {
   {"aa",   131},  // aa
   {"ab",   130},  // ab
@@ -4396,6 +4398,7 @@ extern const CharIntPair kCodeToLanguage[kCodeToLanguageSize] = {
   {"crs",  179},  // crs
   {"crs",  179},  // crs
   {"cs",    17},  // cs
+  {"cv", 81},  // cv
   {"cy",    42},  // cy
   {"da",     1},  // da
   {"de",     5},  // de
@@ -4528,6 +4531,7 @@ extern const CharIntPair kCodeToLanguage[kCodeToLanguageSize] = {
   {"sv",    15},  // sv
   {"sw",    62},  // sw
   {"syr",  108},  // syr
+  {"szl", 82},  // szl
   {"ta",    46},  // ta
   {"te",    44},  // te
   {"tg",   120},  // tg

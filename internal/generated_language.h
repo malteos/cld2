@@ -110,8 +110,8 @@ typedef enum {
   BOSNIAN                      = 78,  // bs
   SINHALESE                    = 79,  // si
   NORWEGIAN_N                  = 80,  // nn
-  X_81                         = 81,  //
-  X_82                         = 82,  //
+  X_81                         = 81,  // CHUVASH cv (registered by register_language.py)
+  X_82                         = 82,  // SILESIAN szl (registered by register_language.py)
   XHOSA                        = 83,  // xh
   ZULU                         = 84,  // zu
   GUARANI                      = 85,  // gn
