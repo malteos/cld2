@@ -1,103 +1,103 @@
 # Language Knowledge Base Progress
 
-Generated: 2026-07-21 19:44 UTC
+Generated: 2026-11-21 18:55 UTC
 Total languages: 119
-Complete: 0 / 119 (0%)
+Complete: 1 / 119 (1%)
 
 | Language | Code | Overview | Grammar | Characteristics | Differences | Vocab | Examples | Status |
 |----------|------|----------|---------|-----------------|-------------|-------|----------|--------|
-| Acehnese | `ace_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Afrikaans | `afr_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Tosk Albanian | `als_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Amharic | `amh_Ethi` | - | - | - | - | 0 | 0 | EMPTY |
-| Modern Standard Arabic | `arb_Arab` | - | - | - | - | 0 | 0 | EMPTY |
-| Assamese | `asm_Beng` | - | - | - | - | 0 | 0 | EMPTY |
-| North Azerbaijani | `azj_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Bambara | `bam_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Belarusian | `bel_Cyrl` | - | - | - | - | 0 | 0 | EMPTY |
-| Bengali | `ben_Beng` | - | - | - | - | 0 | 0 | EMPTY |
-| Tibetan | `bod_Tibt` | - | - | - | - | 0 | 0 | EMPTY |
-| Bosnian | `bos_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Breton | `bre_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Bulgarian | `bul_Cyrl` | - | - | - | - | 0 | 0 | EMPTY |
-| Catalan | `cat_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Cebuano | `ceb_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Czech | `ces_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Central Kurdish | `ckb_Arab` | - | - | - | - | 0 | 0 | EMPTY |
-| Welsh | `cym_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Danish | `dan_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| German | `deu_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Dhivehi | `div_Thaa` | - | - | - | - | 0 | 0 | EMPTY |
-| Dzongkha | `dzo_Tibt` | - | - | - | - | 0 | 0 | EMPTY |
-| Greek | `ell_Grek` | - | - | - | - | 0 | 0 | EMPTY |
-| English | `eng_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Esperanto | `epo_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Estonian | `est_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Basque | `eus_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Faroese | `fao_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Finnish | `fin_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| French | `fra_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Fula | `ful_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Irish | `gle_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Galician | `glg_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Ancient Greek | `grc_Grek` | - | - | - | - | 0 | 0 | EMPTY |
-| Gujarati | `guj_Gujr` | - | - | - | - | 0 | 0 | EMPTY |
+| Acehnese | `ace_Latn` | done | done | done | done | 500 | 1 | PARTIAL |
+| Afrikaans | `afr_Latn` | done | done | done | done | 0 | 10 | PARTIAL |
+| Tosk Albanian | `als_Latn` | done | done | done | done | 500 | 2 | PARTIAL |
+| Amharic | `amh_Ethi` | done | done | done | done | 0 | 3 | PARTIAL |
+| Modern Standard Arabic | `arb_Arab` | done | done | done | done | 0 | 9 | PARTIAL |
+| Assamese | `asm_Beng` | done | done | done | done | 0 | 4 | PARTIAL |
+| North Azerbaijani | `azj_Latn` | done | done | done | done | 0 | 4 | PARTIAL |
+| Bambara | `bam_Latn` | done | done | done | done | 0 | 2 | PARTIAL |
+| Belarusian | `bel_Cyrl` | done | done | done | done | 0 | 4 | PARTIAL |
+| Bengali | `ben_Beng` | done | done | done | done | 0 | 0 | PARTIAL |
+| Tibetan | `bod_Tibt` | done | done | done | done | 0 | 0 | PARTIAL |
+| Bosnian | `bos_Latn` | done | done | done | done | 0 | 9 | PARTIAL |
+| Breton | `bre_Latn` | done | done | done | done | 0 | 7 | PARTIAL |
+| Bulgarian | `bul_Cyrl` | done | done | done | done | 0 | 6 | PARTIAL |
+| Catalan | `cat_Latn` | done | done | done | done | 0 | 10 | PARTIAL |
+| Cebuano | `ceb_Latn` | done | done | done | done | 0 | 6 | PARTIAL |
+| Czech | `ces_Latn` | done | done | done | done | 0 | 5 | PARTIAL |
+| Central Kurdish | `ckb_Arab` | done | done | done | done | 0 | 3 | PARTIAL |
+| Welsh | `cym_Latn` | done | done | done | done | 0 | 2 | PARTIAL |
+| Danish | `dan_Latn` | done | done | done | done | 0 | 2 | PARTIAL |
+| German | `deu_Latn` | done | done | done | done | 520 | 10 | COMPLETE |
+| Dhivehi | `div_Thaa` | done | done | done | done | 0 | 3 | PARTIAL |
+| Dzongkha | `dzo_Tibt` | done | done | done | - | 0 | 8 | PARTIAL |
+| Greek | `ell_Grek` | done | done | done | done | 0 | 5 | PARTIAL |
+| English | `eng_Latn` | done | done | done | done | 0 | 8 | PARTIAL |
+| Esperanto | `epo_Latn` | done | done | done | done | 0 | 0 | PARTIAL |
+| Estonian | `est_Latn` | done | done | done | done | 0 | 1 | PARTIAL |
+| Basque | `eus_Latn` | done | done | done | done | 0 | 1 | PARTIAL |
+| Faroese | `fao_Latn` | done | done | done | done | 0 | 9 | PARTIAL |
+| Finnish | `fin_Latn` | done | done | done | - | 0 | 0 | PARTIAL |
+| French | `fra_Latn` | done | done | done | done | 0 | 0 | PARTIAL |
+| Fula | `ful_Latn` | done | done | - | - | 0 | 0 | PARTIAL |
+| Irish | `gle_Latn` | done | done | - | - | 0 | 0 | PARTIAL |
+| Galician | `glg_Latn` | done | done | - | - | 0 | 0 | PARTIAL |
+| Ancient Greek | `grc_Grek` | done | - | - | - | 0 | 0 | PARTIAL |
+| Gujarati | `guj_Gujr` | done | - | - | - | 0 | 0 | PARTIAL |
 | Haitian Creole | `hat_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Hausa | `hau_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Hebrew | `heb_Hebr` | - | - | - | - | 0 | 0 | EMPTY |
 | Hindi | `hin_Deva` | - | - | - | - | 0 | 0 | EMPTY |
-| Croatian | `hrv_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Hungarian | `hun_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Armenian | `hye_Armn` | - | - | - | - | 0 | 0 | EMPTY |
-| Igbo | `ibo_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Ilocano | `ilo_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Indonesian | `ind_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Icelandic | `isl_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Italian | `ita_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Javanese | `jav_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Japanese | `jpn_Jpan` | - | - | - | - | 0 | 0 | EMPTY |
-| Kannada | `kan_Knda` | - | - | - | - | 0 | 0 | EMPTY |
-| Georgian | `kat_Geor` | - | - | - | - | 0 | 0 | EMPTY |
-| Kazakh | `kaz_Cyrl` | - | - | - | - | 0 | 0 | EMPTY |
-| Khmer | `khm_Khmr` | - | - | - | - | 0 | 0 | EMPTY |
-| Kinyarwanda | `kin_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Kyrgyz | `kir_Cyrl` | - | - | - | - | 0 | 0 | EMPTY |
-| Northern Kurdish | `kmr_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Korean | `kor_Hang` | - | - | - | - | 0 | 0 | EMPTY |
-| Lao | `lao_Laoo` | - | - | - | - | 0 | 0 | EMPTY |
-| Latin | `lat_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Lingala | `lin_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Lithuanian | `lit_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Luxembourgish | `ltz_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Luganda | `lug_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Latvian | `lvs_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Malayalam | `mal_Mlym` | - | - | - | - | 0 | 0 | EMPTY |
+| Croatian | `hrv_Latn` | done | done | done | done | 0 | 0 | PARTIAL |
+| Hungarian | `hun_Latn` | done | done | done | done | 0 | 0 | PARTIAL |
+| Armenian | `hye_Armn` | done | done | done | - | 0 | 0 | PARTIAL |
+| Igbo | `ibo_Latn` | done | done | done | - | 0 | 0 | PARTIAL |
+| Ilocano | `ilo_Latn` | done | done | done | - | 0 | 0 | PARTIAL |
+| Indonesian | `ind_Latn` | done | done | - | - | 0 | 0 | PARTIAL |
+| Icelandic | `isl_Latn` | done | done | - | - | 0 | 0 | PARTIAL |
+| Italian | `ita_Latn` | done | done | - | - | 0 | 0 | PARTIAL |
+| Javanese | `jav_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
+| Japanese | `jpn_Jpan` | done | - | - | - | 0 | 0 | PARTIAL |
+| Kannada | `kan_Knda` | done | done | done | done | 0 | 1 | PARTIAL |
+| Georgian | `kat_Geor` | done | done | - | - | 0 | 0 | PARTIAL |
+| Kazakh | `kaz_Cyrl` | done | done | - | - | 0 | 0 | PARTIAL |
+| Khmer | `khm_Khmr` | done | done | - | done | 0 | 1 | PARTIAL |
+| Kinyarwanda | `kin_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
+| Kyrgyz | `kir_Cyrl` | done | done | - | - | 0 | 0 | PARTIAL |
+| Northern Kurdish | `kmr_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
+| Korean | `kor_Hang` | done | - | - | - | 0 | 0 | PARTIAL |
+| Lao | `lao_Laoo` | done | - | - | - | 0 | 0 | PARTIAL |
+| Latin | `lat_Latn` | done | done | - | - | 0 | 0 | PARTIAL |
+| Lingala | `lin_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
+| Lithuanian | `lit_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
+| Luxembourgish | `ltz_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
+| Luganda | `lug_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
+| Latvian | `lvs_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
+| Malayalam | `mal_Mlym` | done | - | - | - | 0 | 0 | PARTIAL |
 | Marathi | `mar_Deva` | - | - | - | - | 0 | 0 | EMPTY |
 | Macedonian | `mkd_Cyrl` | - | - | - | - | 0 | 0 | EMPTY |
 | Maltese | `mlt_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Mongolian | `mon_Cyrl` | - | - | - | - | 0 | 0 | EMPTY |
-| Maori | `mri_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Malay | `msa_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Burmese | `mya_Mymr` | - | - | - | - | 0 | 0 | EMPTY |
-| Dutch | `nld_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Norwegian Nynorsk | `nno_Latn` | - | - | - | - | 0 | 0 | EMPTY |
+| Maori | `mri_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
+| Malay | `msa_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
+| Burmese | `mya_Mymr` | done | - | - | - | 0 | 0 | PARTIAL |
+| Dutch | `nld_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
+| Norwegian Nynorsk | `nno_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
 | Norwegian Bokmal | `nob_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Nepali | `npi_Deva` | - | - | - | - | 0 | 0 | EMPTY |
 | Northern Sotho | `nso_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Chichewa | `nya_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Odia | `ori_Orya` | - | - | - | - | 0 | 0 | EMPTY |
-| Punjabi | `pan_Guru` | - | - | - | - | 0 | 0 | EMPTY |
-| Western Persian | `pes_Arab` | - | - | - | - | 0 | 0 | EMPTY |
-| Plateau Malagasy | `plt_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Polish | `pol_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Portuguese | `por_Latn` | - | - | - | - | 0 | 0 | EMPTY |
+| Punjabi | `pan_Guru` | done | - | - | - | 0 | 0 | PARTIAL |
+| Western Persian | `pes_Arab` | done | - | - | - | 0 | 0 | PARTIAL |
+| Plateau Malagasy | `plt_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
+| Polish | `pol_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
+| Portuguese | `por_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
 | Pashto | `pus_Arab` | - | - | - | - | 0 | 0 | EMPTY |
 | Romanian | `ron_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Rundi | `run_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Russian | `rus_Cyrl` | - | - | - | - | 0 | 0 | EMPTY |
 | Sinhala | `sin_Sinh` | - | - | - | - | 0 | 0 | EMPTY |
-| Slovak | `slk_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Slovenian | `slv_Latn` | - | - | - | - | 0 | 0 | EMPTY |
+| Slovak | `slk_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
+| Slovenian | `slv_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
 | Shona | `sna_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Sindhi | `snd_Arab` | - | - | - | - | 0 | 0 | EMPTY |
 | Somali | `som_Latn` | - | - | - | - | 0 | 0 | EMPTY |
@@ -106,7 +106,7 @@ Complete: 0 / 119 (0%)
 | Serbian | `srp_Cyrl` | - | - | - | - | 0 | 0 | EMPTY |
 | Sundanese | `sun_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Swedish | `swe_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Swahili | `swh_Latn` | - | - | - | - | 0 | 0 | EMPTY |
+| Swahili | `swh_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
 | Tamil | `tam_Taml` | - | - | - | - | 0 | 0 | EMPTY |
 | Telugu | `tel_Telu` | - | - | - | - | 0 | 0 | EMPTY |
 | Tajik | `tgk_Cyrl` | - | - | - | - | 0 | 0 | EMPTY |
@@ -115,7 +115,7 @@ Complete: 0 / 119 (0%)
 | Tswana | `tsn_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Turkmen | `tuk_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Turkish | `tur_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Ukrainian | `ukr_Cyrl` | - | - | - | - | 0 | 0 | EMPTY |
+| Ukrainian | `ukr_Cyrl` | done | - | - | - | 0 | 0 | PARTIAL |
 | Urdu | `urd_Arab` | - | - | - | - | 0 | 0 | EMPTY |
 | Northern Uzbek | `uzn_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Vietnamese | `vie_Latn` | - | - | - | - | 0 | 0 | EMPTY |
