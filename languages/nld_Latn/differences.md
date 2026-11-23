@@ -16,8 +16,8 @@ Afrikaans developed from 17th-century Dutch; written texts share much vocabulary
 | I / you / she / they | *ik, jij, zij, zij/ze* | *ek, jy, sy, hulle* |
 | for / very | *voor, erg/heel* | *vir, baie* |
 | Verb inflection | *ik werk, hij werkt, wij werken* | *werk* for all persons |
-| Simple past | common: *was, had, liep, kwam* | almost only perfect, except *was, het, kon, wou, moes* |
-| -tie / -sie | *politie, informatie* | *polisie, inligting* |
+| Simple past | common: *was, had, liep, kwam* | almost only perfect; a few preterites survive (*was, kon, wou, moes, sou*) |
+| -tie / -sie | *politie, informatie* | *polisie, informasie* (also *inligting*) |
 | *z-* | *zon, zee, zeggen* | *son, see, sê* |
 | Final -d/-g/-cht | *goed, nacht, acht* | *goed, nag, ag* |
 | Diminutive | *-je/-tje* (*meisje*) | *-ie/-tjie* (*meisie*) |
@@ -49,7 +49,8 @@ See also `deu_Latn/differences.md`.
 - Dutch **ij** vs German **ei** (*mijn/mein, tijd/Zeit*); Dutch doubled vowels *aa/ee/oo* vs German *ah/eh/oh* or single vowels.
 - Articles *de/het/een* vs *der/die/das/ein*; Dutch has no case-marked articles (*den/dem/des* are German; Dutch *den* is archaic or in names).
 - Function words: *niet/nicht, ook/auch, met/mit, van/von, voor/für, wat/was, maar/aber, zijn/sein, heeft/hat, wordt/wird*.
-- Spelling of /x/: Dutch *g* where German has *g* but Dutch also *ch/cht* (*acht, nacht, recht* - same) and *sch* initial in both, but German *sch* before consonants (*schreiben, Schwester*) vs Dutch *schr-* only (*schrijven*), Dutch *zw-, sl-, sm-, sn-* (*zwart, slapen, smal, sneeuw*) vs German *schw-, schl-, schm-, schn-*.
+- Initial clusters: Dutch *zw-, sl-, sm-, sn-* (*zwart, slapen, smal, sneeuw*) vs German *schw-, schl-, schm-, schn-* (*schwarz, schlafen, schmal, Schnee*); Dutch *schr-* (*schrijven*) matches German *schr-*.
+- Dutch *-heid, -lijk, -tje* vs German *-heit, -lich, -chen*.
 
 ## Dutch vs Danish (CHALIS contrast)
 

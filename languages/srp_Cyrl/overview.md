@@ -8,7 +8,7 @@ Serbian is **digraphic**: it is written in **Serbian Cyrillic** (*ћирилиц
 
 ## Geographic Distribution and Official Status
 
-Serbian is the official language of **Serbia** and one of the official languages of **Bosnia and Herzegovina** (dominant in the Republika Srpska entity). It is co-official in **Kosovo** with Albanian, and is widely spoken in **Montenegro**, where it is the most commonly declared mother tongue in recent censuses (it has a recognized status there; Montenegrin is the constitutional official language). Serbian is a recognized minority language in Croatia, Hungary, Romania, North Macedonia, Slovakia and the Czech Republic, and there are large diaspora communities in Germany, Austria, Switzerland, the USA, Canada and Australia.
+Serbian is the official language of **Serbia** and one of the official languages of **Bosnia and Herzegovina** (dominant in the Republika Srpska entity). It is co-official in **Kosovo** with Albanian, and is widely spoken in **Montenegro**, where it is the most commonly declared mother tongue in recent censuses (it has a recognized status there; Montenegrin is the constitutional official language). It is a recognized minority language in several neighbouring countries, with large diaspora communities in German-speaking Europe and overseas.
 
 ## Language Family
 
@@ -25,7 +25,7 @@ Both are standard. Most written Serbian from Serbia (and most news text) is ekav
 
 ## Historical Development
 
-Medieval Serbian literacy used Serbian recensions of Church Slavonic (e.g. the 12th-century *Miroslav Gospel*). In the 18th century, Russian-influenced Slavonic-Serbian (*славеносербски*) was the literary language. The decisive reform was carried out by **Vuk Stefanović Karadžić** in the first half of the 19th century: a phonemic Cyrillic alphabet ("write as you speak"), adding **ј, љ, њ, ђ, ћ, џ** and dropping redundant letters (no ъ, ь, я, ю, щ, ы). His dictionary (*Srpski rječnik*, 1818) and the 1850 Vienna Literary Agreement with Croatian writers laid the foundation for a common Shtokavian standard. During Yugoslavia, the joint Serbo-Croatian standard had eastern (ekavian, Cyrillic-and-Latin) and western variants; after 1991 Serbian, Croatian, Bosnian and Montenegrin have been codified separately.
+Medieval Serbian literacy used Serbian recensions of Church Slavonic (e.g. the 12th-century *Miroslav Gospel*). In the 18th century, Russian-influenced Slavonic-Serbian was the literary language. The decisive reform was carried out by **Vuk Stefanović Karadžić** in the first half of the 19th century: a phonemic Cyrillic alphabet ("write as you speak"), adding **ј, љ, њ, ђ, ћ, џ** and dropping redundant letters (no ъ, ь, я, ю, щ, ы). His dictionary (*Srpski rječnik*, 1818) and the 1850 Vienna Literary Agreement with Croatian writers laid the foundation for a common Shtokavian standard. After the breakup of Yugoslavia the joint Serbo-Croatian standard gave way to separately codified Serbian, Croatian, Bosnian and Montenegrin.
 
 ## Writing System Summary
 
