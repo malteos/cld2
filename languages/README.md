@@ -15,6 +15,15 @@ Each language has a subfolder named `{iso639-3}_{Script}` containing:
 | `vocabulary.json` | Frequency-ranked word list (target: 10,000 entries) |
 | `examples/` | At least 10 texts of 100+ words each, covering different domains |
 
+## Benchmarks
+
+- **CommonLID**: the full language list in `language_list.json`. It was compiled from model knowledge
+  because Hugging Face was not reachable when the list was made, so it needs checking against the
+  dataset's actual labels.
+- **CHALIS** (cousin languages and non-standard orthography): see [`chalis/README.md`](chalis/README.md). Its
+  17 languages have real 10k-word vocabularies, authentic Universal Dependencies example texts, noisy-orthography
+  variants, cousin-pair discriminator lists and a per-language `chalis.md` guide.
+
 ## Data Sources
 
 - **AI knowledge** — initial generation of overviews, grammar, characteristics, differences
@@ -40,6 +49,10 @@ See [`PROGRESS.md`](PROGRESS.md) for per-language completion status.
 | `scripts/build_progress.py` | Regenerate PROGRESS.md from filesystem state |
 | `scripts/fetch_vocabulary.py` | Fetch word lists from Wiktionary/Wikipedia APIs |
 | `scripts/fetch_examples.py` | Fetch example texts from Wikipedia API |
+| `scripts/build_vocabulary.py` | 10k frequency vocabularies from wordfreq / FrequencyWords |
+| `scripts/fetch_ud_examples.py` | Authentic example passages from Universal Dependencies |
+| `scripts/translit.py` | Transliteration / noise helpers (romanization, tote jazuw, diacritics) |
+| `scripts/build_chalis_variants.py` | CHALIS orthographic variants + cousin discriminators |
 
 ## CLD2 Confusable Language Groups
 
