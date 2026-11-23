@@ -18,7 +18,7 @@ Consequences visible in text:
 
 ## Characteristic Romanized Words
 
-Top Bulgarian forms in `variants/romanized_en/vocabulary.tsv`: *na, i, v, da, e, ot, za, se, s, ne, si, che, po, shte, sa, tova, kato, a, mi, no, do, go, mnogo, nay, ima, mu, ako, kam, mozhe, sam, ti, li, samo, nyama, sled, prez, az, koito, pri, vi, ili, kak, kakvo, toy, ni, tryabva, vsichki, koyto, vav, koeto, edin, oshte, taka, sas, vreme, kogato, tozi, veche*.
+Top Bulgarian forms in `variants/romanized_en/vocabulary.tsv` begin: *na, i, v, da, e, ot, za, se, s, ne, si, che, po, shte, sa, tova, kato, a, mi, no, do, go, mnogo, nay, ima*.
 
 Strongest positive markers (absent from the other language's top list, per `../chalis/discriminators.md`):
 
