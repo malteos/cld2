@@ -23,7 +23,7 @@ Informal Macedonian Latin varies a lot (not verified against CHALIS): ќ as **kj
 
 ## Characteristic Romanized Words
 
-Top forms in `variants/romanized_en/vocabulary.tsv`: *na, i, vo, da, se, od, za, e, so, ne, go, kje, shto, deka, gi, kako, ja, toa, a, koj, koi, si, po, mi, do, ti, mnogu, no, ili, samo, ima, koga, beshe, site, toj, ako, taka, mozhe, koja, ova, jas, godina, eden, nema, sum, bide*.
+Top forms in `variants/romanized_en/vocabulary.tsv` begin: *na, i, vo, da, se, od, za, e, so, ne, go, kje, shto, deka, gi, kako, ja, toa*.
 
 Markers (`../chalis/discriminators.md`):
 
