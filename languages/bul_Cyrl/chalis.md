@@ -10,8 +10,8 @@ The repo's scheme (`translit.py`, language `bg`) matches the Bulgarian official 
 
 Consequences visible in text:
 
-- **sht** everywhere: *shte* (ще, future), *oshte* (още), *zashtoto* (защото), *kashta* (къща), *ploshtad*, *noshtna*. Russian щ is usually *shch*; Ukrainian *shch*; Macedonian has *sht* only in a few words (*shto* is spelled *sht-o* too -- see below).
-- **a** for ъ, giving clusters that look odd for Slavic: *kam* (към), *sas* (със), *vav* (във), *balgarski*, *daljina*, *parvi*, *varna se* (върна се), *dazhd* (дъжд).
+- **sht** everywhere: *shte* (ще, future), *oshte* (още), *zashtoto* (защото), *kashta* (къща), *ploshtad*, *noshtna*. Russian/Ukrainian щ is romanized *shch*. Caution: Macedonian *shto* (што) and *ushte* (уште) also contain the letters *sht*, so look for the Bulgarian word forms (*shte, oshte, zashtoto*), not just the letter sequence.
+- **a** for ъ, giving clusters that look odd for Slavic: *kam* (към), *sas* (със), *vav* (във), *balgarski*, *parvi*, *varna se* (върна се), *dazhd* (дъжд).
 - **y / ya / yu**: *toy, koy, nay, moy, koyto, koyato, nyama, tryabva, tya, golyam, lyubov*. The letter **j does not appear** in native Bulgarian words under this scheme. Frequent **j** therefore points to Macedonian or Serbian.
 - **h** (not *kh*) for х: *hora, hubavo, haresva, hlyab*. Russian/Ukrainian romanizations in this repo use *kh*.
 - **ts** (not *c*) for ц: *detsata, tsel, gradets, tsarkva*. Macedonian and Serbian romanizations use *c*.
@@ -30,7 +30,7 @@ Also very useful: **che** ("that"; Macedonian *deka*, Serbian *da*, Russian *cht
 ## Endings
 
 - **Definite article**: masc. **-at / -yat** (from -ът/-ят: *gradat, narodat, kmetat, knyazat, nachalnikat, plodat*), short form **-a / -ya** (*grada, mazha si*), fem. **-ta** (*zhenata, proletta*), neut. **-to** (*seloto, darvoto, shoseto*), pl. **-te** (*horata* irregular, *sivite, debelite*). Adjectives: **-iyat / -iya** (*nashiyat, shirokiya, strashniya*). The ending **-at** on nouns (and **-iyat/-iya**) is distinctive against Macedonian **-ot / -iot**.
-- **Verbs**: 1sg often **-a / -ya** (*pisha, misliya*... in practice *mislya*, *zhiveya*), past **-h, -hme, -hte, -ha** (*imah, chetoh, izbrahte, nameriha, razbyagaha*) -- the past endings in **-h-** are a good Bulgarian signal (Macedonian *-v, -vme, -vte, -a*: *vidov, bevme*).
+- **Verbs**: 1sg often **-a / -ya** (*pisha, mislya, zhiveya*), past **-h, -hme, -hte, -ha** (*imah, chetoh, izbrahte, nameriha, razbyagaha*) -- the past endings in **-h-** are a good Bulgarian signal (Macedonian *-v, -vme, -vte, -a*: *vidov, bevme*).
 - Imperfect 3sg **-she** (*imashe, deleshe*) is shared with Macedonian.
 
 ## Telling Bulgarian From ...

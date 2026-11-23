@@ -36,4 +36,4 @@ The **Real Academia Española** (RAE, founded 1713) and the **Asociación de Aca
 
 ## Status
 
-Spanish is a safe, institutionally dominant language with very large online presence. In Spain it coexists with regional languages and frequently appears mixed with them (Catalan, Galician), which matters for language identification.
+Spanish is institutionally dominant with a very large online presence; in Spain it frequently appears mixed with Catalan and Galician, which matters for language identification.
