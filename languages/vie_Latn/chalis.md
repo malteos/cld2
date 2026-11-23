@@ -11,7 +11,7 @@ In CHALIS (Tichý & Libovický 2026, arXiv 2606.06088) Vietnamese appears in the
 There is no close cousin in CHALIS. Realistic confusions for stripped Vietnamese are other short-token Latin strings: toneless Hanyu Pinyin, Cantonese/Korean/Thai/Hmong romanizations, and Austronesian languages (Indonesian, Malay, Tagalog). Cues that survive stripping:
 
 - **One syllable per token**, almost always 1–7 letters; Pinyin, Indonesian, Tagalog and Thai romanization join syllables into longer words.
-- **Stop codas** *-c, -ch, -t, -p* and nasal codas *-m, -n, -ng, -nh* (*mot, viet, hoc, dep, cach, lam, anh*). Pinyin has no stop codas; *-nh* exists nowhere else in common romanizations.
+- **Stop codas** *-c, -ch, -t, -p* and nasal codas *-m, -n, -ng, -nh* (*mot, viet, hoc, dep, cach, lam, anh*). Pinyin has no stop codas; word-final *-nh* is rare in other common romanizations.
 - **No *f, j, w, z*** in native words (Pinyin uses *j, w, z, zh* constantly).
 - **Vietnamese-only onsets**: *ngh-* (*nghe, nghi, nghiep*), *gh-* (*ghe*), *nh-* (*nhu, nhung, nha*), *tr-*, *th-*, *ph-*, *kh-*, *gi-* (*gia, gio*), *qu-* (*quoc, qua*), *ng-* (*nguoi, ngay*). *ngh*, *nh-* and *gh-* as word onsets are especially telling.
 
