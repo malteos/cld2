@@ -155,7 +155,7 @@ Serbian, like Russian, has a full case system, producing word forms with endings
 
 ### Vocabulary and Phonology
 
-Serbian uses the ijekavian reflex of the Proto-Slavic *yat* vowel in its standard form (e.g., *млеко/млијеко* "milk"), while Bulgarian uses *мляко*. Many everyday words differ:
+Standard Serbian allows both the ekavian and the ijekavian reflex of the Proto-Slavic *yat* vowel; ekavian dominates in Serbia (e.g., *млеко*, ijekavian *млијеко*, "milk"), while Bulgarian uses *мляко*. Many everyday words differ:
 
 | English | Bulgarian | Serbian |
 |---------|-----------|--------|
