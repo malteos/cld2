@@ -32,8 +32,6 @@ Most function words are shared (*i, og, er, det, at, en, til, på, jeg, har, for
 | perhaps | **kanskje** (114) | **måske** (118) |
 | such / so | **slik, sånn** (119, 228) | **sådan** (122) |
 | good | **bra** (120) | (godt/god; *bra* absent) |
-| thanks | **takk** (187) | **tak** (136) |
-| always / never | **alltid, aldri** | **altid, aldrig** |
 | between / through / back | **mellom, gjennom, tilbake** | **mellem, gennem, tilbage** |
 
 ### Systematic Spelling Correspondences
@@ -49,7 +47,6 @@ Most function words are shared (*i, og, er, det, at, en, til, på, jeg, har, for
 | nn/ll vs nd/ld | mann, vann, finne, kvinne | mand, vand, finde, kvinde |
 | Final double consonant | takk, fikk, opp, litt, hatt | tak, fik, op, lidt, haft |
 | e vs æ | tenke, lese, kjent, hjelp | tænke, læse, kendt, hjælp |
-| -ighet vs -ighed | viktighet | vigtighed |
 | Word-level | barn, jente, gutt, språk, spørsmål | børn (pl.), pige, dreng, sprog, spørgsmål |
 
 ### Morphological and Syntactic Cues

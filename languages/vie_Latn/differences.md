@@ -32,7 +32,7 @@ These are mostly diacritic-free and polysyllabic: *yang, dengan, untuk, tidak, a
 
 ## Vietnamese vs. other mainland SE Asian romanizations
 
-- **Thai/Lao romanization** (RTGS etc.): polysyllabic joined words, finals like *-k, -p, -t* written with *k* (*Sukhumvit, krung thep*), *ph, th, kh* shared with Vietnamese. Final *-k* and initials *kr-, kl-, pr-, pl-* are impossible in Vietnamese.
+- **Thai/Lao romanization** (RTGS etc.): often polysyllabic joined words (*Sukhumvit*), velar stop final written *-k* (*Bangkok, Phuket*) where Vietnamese writes *-c*; *ph, th, kh* are shared with Vietnamese. Final *-k* and initials *kr-, kl-, pr-, pl-* are impossible in Vietnamese.
 - **Khmer romanization**: clusters such as *kh, chh, sr, pr, tr, kr* and finals *-k, -h, -s* (*Kampuchea, Preah, Sihanouk*).
 - **Hmong RPA**: syllables end in tone letters *-b, -j, -v, -s, -g, -m, -d* and use doubled vowels for nasality (*kuv, hmoob, ntawv, peb*); onsets *hm, ntx, nq, pl* are impossible in Vietnamese.
 - **Burmese romanization**: *-aung, -yi, ky-, hl-, hm-* (*Aung San, Kyaw*).

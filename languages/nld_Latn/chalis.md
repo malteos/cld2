@@ -50,5 +50,5 @@ The real hazard runs the other way: Danish/Norwegian text with **ø→oe** and *
 ## 5. Illustrative snippets (constructed examples)
 
 - *"Ik heb er geen zin in, maar we moeten toch even naar de winkel."* → **nld**: *ik, heb, geen, maar, moeten, toch, even, naar*; *er* here is the Dutch pronominal adverb.
-- *"Hun er op arbejde i dag, men kommer hjem senere."* → **dan**, despite *hun, er, op, dag* (all shared spellings): *arbejde, men, kommer, hjem, senere*, and *er* is a verb after a pronoun subject. Dutch: *Zij is vandaag aan het werk, maar komt later thuis.*
+- *"Hun er på arbejde hele dagen, men kan komme over i aften."* → **dan**, despite *hun, er, hele, kan, over* (all shared spellings) and *men* (also a Dutch word, "one/people"): *på, arbejde, dagen* (suffixed article), *komme, aften*; *er* is a verb after a pronoun subject. Dutch: *Zij is de hele dag aan het werk, maar kan vanavond langskomen.*
 - *"Da's nie waar, ge moet da nie geloven."* → **nld** (Flemish colloquial): *ge moet, geloven, waar*; *nie/da* are colloquial Dutch, not Afrikaans (Afrikaans: *Dis nie waar nie, jy moet dit nie glo nie*).

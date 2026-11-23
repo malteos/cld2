@@ -28,7 +28,7 @@ Spanish is an official language of the United Nations, the European Union, the O
 
 Spanish arose from Vulgar Latin in the County of Castile (north-central Iberia) around the 9th-10th centuries. Glosses in Latin manuscripts (the *Glosas Emilianenses* and *Silenses*, c. 10th-11th century) are often cited as early written evidence of Ibero-Romance. The language expanded southward with the Reconquista, absorbing a substantial Arabic lexical layer (e.g. *aceite*, *almohada*, *ojalá*, many words in *al-*). Under Alfonso X (13th century) Castilian became a language of prose, law and science.
 
-1492 is a symbolic year: Antonio de Nebrija published the first grammar of a modern European vernacular, the Jewish expulsion produced the diaspora that kept Judaeo-Spanish (Ladino, ISO `lad`) alive, and Columbus's voyage began the expansion to the Americas. The 16th-17th-century *Siglo de Oro* (Cervantes, Lope de Vega, Quevedo) fixed much of the literary standard. Medieval sibilants merged during the 16th-17th centuries, producing the modern /θ/ vs /s/ distinction of northern and central Spain and *seseo* in Andalusia, the Canaries and the Americas.
+1492 is a symbolic year: Antonio de Nebrija published his Castilian grammar, the Jewish expulsion created the diaspora of Judaeo-Spanish (Ladino, ISO `lad`), and Columbus's voyage began the expansion to the Americas. The 16th-17th-century *Siglo de Oro* (Cervantes, Lope de Vega) fixed much of the literary standard, while a sibilant merger produced today's /θ/ vs /s/ distinction in central Spain and *seseo* elsewhere.
 
 ## Standardization
 
