@@ -26,7 +26,7 @@ Catalan has a rich vowel system that varies significantly between dialects. The 
 - Unstressed vowels: 5 vowels /a, e, i, o, u/ (no vowel reduction to schwa)
 - The Western system more closely resembles that of Spanish
 
-The contrast between open and closed mid vowels (/e/ vs /ɛ/, /o/ vs /ɔ/) is phonemic and distinguishes meaning: "be" /be/ (well) vs "be" /bɛ/ (good/asset), "os" /os/ (bone) vs "os" /ɔs/ (bear).
+The contrast between open and closed mid vowels (/e/ vs /ɛ/, /o/ vs /ɔ/) is phonemic and distinguishes meaning: "bé" /be/ (well) vs "be" /bɛ/ (lamb), "ós" /os/ (bear) vs "os" /ɔs/ (bone). The written accent marks only some of these contrasts (acute = closed, grave = open); in most words the mid-vowel quality is not shown in spelling.
 
 ### Consonants
 
@@ -59,9 +59,9 @@ Catalan has two grammatical genders: **masculine** and **feminine**. Gender assi
 
 Plural formation follows several patterns:
 - Add **-s** to words ending in an unstressed vowel: *casa > cases*, *home > homes*
-- Add **-os** to words ending in a stressed vowel or certain consonants: *pis > pisos*
-- Add **-s** to words ending in a stressed vowel with accent shift: *cafe > cafes*
-- Words ending in **-s**, **-x**, **-ç** remain unchanged or add **-os**: *peix > peixos*
+- Add **-os** to masculine words ending in a stressed syllable with a sibilant: *pis > pisos*, *braç > braços*
+- Words ending in a stressed vowel add **-s** (*cafè > cafès*, *sofà > sofàs*) or, when a lost -n reappears, **-ns** (*camió > camions*, *mà > mans*); the accent drops when the stress no longer falls on the final syllable (*camió > camions*)
+- Words ending in **-s**, **-x**, **-ç** remain unchanged (unstressed: *llapis > llapis*) or add **-os**: *peix > peixos*
 
 ### Articles
 
@@ -95,8 +95,8 @@ Catalan verbs are traditionally divided into three conjugation classes, though t
 
 1. **First conjugation (-ar):** *cantar* (to sing), *parlar* (to speak) -- the most productive class
 2. **Second conjugation:**
-   - **-er/-re subgroup (pure):** *perdre* (to lose), *prendre* (to take)
-   - **-er inceptive subgroup:** *coneixer* (to know), *neixer* (to be born) -- these insert the infix *-eix-* in certain forms
+   - **-re subgroup:** *perdre* (to lose), *prendre* (to take)
+   - **unstressed -er subgroup:** *conèixer* (to know), *néixer* (to be born), *témer* (to fear) -- here *-eix-* is part of the stem, not an inceptive infix
 3. **Third conjugation (-ir):**
    - **Pure:** *dormir* (to sleep), *sentir* (to feel)
    - **Inceptive:** *servir* (to serve), *llegir* (to read) -- these also use the *-eix-* infix
@@ -106,21 +106,21 @@ Catalan verbs are traditionally divided into three conjugation classes, though t
 Catalan has a full range of tenses and moods typical of Romance languages:
 
 **Indicative mood:**
-- Present: *canto, cantes, canta, cantem, canteu, canten*
-- Imperfect: *cantava, cantaves, cantava, cantavem, cantaveu, cantaven*
-- Preterite (simple past): *canti, cantares, canta, cantarem, cantareu, cantaren* (largely literary)
-- **Periphrastic past (passat perifràstic):** *vaig cantar, vas/vares cantar, va cantar, vam/varem cantar, vau/vareu cantar, van/varen cantar* -- This is **unique to Catalan** among Romance languages. It uses the verb "anar" (to go) as an auxiliary followed by the infinitive to express the simple past. Despite using the verb "to go," this construction refers to past events, not future ones. This is one of the most diagnostic features of Catalan.
-- Future: *cantare, cantaras, cantara, cantarem, cantareu, cantaran*
-- Conditional: *cantaria, cantaries, cantaria, cantariem, cantarieu, cantarien*
+- Present: *canto, cantes, canta, cantem, canteu, canten* (1sg *canto* is Central Catalan; Valencian *cante*, Balearic *cant*)
+- Imperfect: *cantava, cantaves, cantava, cantàvem, cantàveu, cantaven*
+- Preterite (simple past): *cantí, cantares, cantà, cantàrem, cantàreu, cantaren* (largely literary)
+- **Periphrastic past (passat perifràstic):** *vaig cantar, vas/vares cantar, va cantar, vam/vàrem cantar, vau/vàreu cantar, van/varen cantar* -- This is **unique to Catalan** among Romance languages. It uses the verb "anar" (to go) as an auxiliary followed by the infinitive to express the simple past. Despite using the verb "to go," this construction refers to past events, not future ones. This is one of the most diagnostic features of Catalan.
+- Future: *cantaré, cantaràs, cantarà, cantarem, cantareu, cantaran*
+- Conditional: *cantaria, cantaries, cantaria, cantaríem, cantaríeu, cantarien*
 - Present perfect: *he cantat, has cantat, ha cantat, hem cantat, heu cantat, han cantat*
 - Pluperfect: *havia cantat*
 
 **Subjunctive mood:**
 - Present subjunctive: *canti, cantis, canti, cantem, canteu, cantin*
-- Imperfect subjunctive: *cantes, cantessis, cantes, cantessim, cantessiu, cantessin*
+- Imperfect subjunctive: *cantés, cantessis, cantés, cantéssim, cantéssiu, cantessin*
 
 **Imperative:**
-- *canta (tu), canti (voste), cantem (nosaltres), canteu (vosaltres), cantin (vostes)*
+- *canta (tu), canti (vostè), cantem (nosaltres), canteu (vosaltres), cantin (vostès)*
 
 ### Auxiliary Verbs
 
@@ -145,8 +145,8 @@ Catalan has a rich system of clitic (weak) pronouns that attach to verbs:
 | Reflexive | es (se) | es (se) |
 
 **Special clitics (highly diagnostic):**
-- **en** (partitive/locative): replaces partitive noun phrases or complements introduced by *de*. Equivalent to French "en": *Vols pa? -- Si, en vull* (Do you want bread? -- Yes, I want some)
-- **hi** (locative/other): replaces locative complements or complements introduced by *a*, *en*, *amb*. Equivalent to French "y": *Vas a Barcelona? -- Si, hi vaig* (Are you going to Barcelona? -- Yes, I'm going there)
+- **en** (partitive/locative): replaces partitive noun phrases or complements introduced by *de*. Equivalent to French "en": *Vols pa? -- Sí, en vull* (Do you want bread? -- Yes, I want some)
+- **hi** (locative/other): replaces locative complements or complements introduced by *a*, *en*, *amb*. Equivalent to French "y": *Vas a Barcelona? -- Sí, hi vaig* (Are you going to Barcelona? -- Yes, I'm going there)
 
 The presence and frequent use of *en* and *hi* clitics distinguishes Catalan from Spanish (which lacks direct equivalents) and aligns it with French and Occitan.
 
@@ -158,7 +158,7 @@ The presence and frequent use of *en* and *hi* clitics distinguishes Catalan fro
 
 ### Negation
 
-Negation is formed with **no** placed before the verb: *No parlo catala* (I don't speak Catalan). Unlike French, Catalan does not use a two-part negation system (no equivalent of *ne...pas*), though negative polarity items like *pas* exist in some northern dialects influenced by French and Occitan.
+Negation is formed with **no** placed before the verb: *No parlo català* (I don't speak Catalan). Unlike French, Catalan does not use a two-part negation system (no equivalent of *ne...pas*), though negative polarity items like *pas* exist in some northern dialects influenced by French and Occitan.
 
 ### Question Formation
 

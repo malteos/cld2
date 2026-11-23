@@ -2,44 +2,45 @@
 
 ## Distinctive Characters
 
-Czech uses the Latin alphabet extended with a systematic set of diacritical marks, primarily the hacek (caron) and carka (acute accent). The following characters are distinctive to Czech orthography:
+Czech uses the Latin alphabet extended with a systematic set of diacritical marks, primarily the háček (caron) and čárka (acute accent), plus the kroužek (ring) on ů. The following characters are distinctive to Czech orthography:
 
-### Hacek (caron) characters
-- **c** - /tsh/ as in "cas" (time)
-- **d** - /dj/ as in "deti" (children) - written as d' before non-front vowels
-- **e** - /je/ or palatalization trigger, as in "mesto" (city)
-- **n** - /nj/ as in "kon" (horse) - written as n' before non-front vowels
-- **r** - /rzh/ a raised alveolar trill UNIQUE TO CZECH worldwide, as in "reka" (river)
-- **s** - /sh/ as in "skola" (school)
-- **t** - /tj/ as in "telo" (body) - written as t' before non-front vowels
-- **z** - /zh/ as in "zivot" (life)
+### Háček (caron) characters
+- **č** - /tʃ/ as in "čas" (time)
+- **ď** - /ɟ/ as in "ďábel" (devil), "loď" (ship); before e/i the same sound is spelled dě/di, as in "děti" (children). In some fonts lowercase ď looks like d'.
+- **ě** - /jɛ/ after labials or palatalization trigger after d, t, n, as in "město" (city), "děti" (children)
+- **ň** - /ɲ/ as in "kůň" (horse), "píseň" (song); before e/i spelled ně/ni
+- **ř** - /r̝/ a raised alveolar trill UNIQUE TO CZECH among standard languages, as in "řeka" (river)
+- **š** - /ʃ/ as in "škola" (school)
+- **ť** - /c/ as in "chuť" (taste), "ťukat" (to tap); before e/i spelled tě/ti, as in "tělo" (body). In some fonts lowercase ť looks like t'.
+- **ž** - /ʒ/ as in "život" (life)
 
-### Carka (acute accent) characters for long vowels
-- **a** - long /aa/ as in "maly" (small)
-- **e** - long /ee/ as in "leka" (medicine)
-- **i** - long /ii/ as in "pivo" (beer - with short i, but "bily" = white)
-- **o** - long /oo/ as in "dobro" (rare in native words)
-- **u** - long /uu/ in word-initial position, as in "urad" (office)
-- **y** - long /ii/ as in "byci" (bull's)
+### Čárka (acute accent) characters for long vowels
+- **á** - long /aː/ as in "málo" (little), "dát" (to give)
+- **é** - long /ɛː/ as in "lék" (medicine), "dobré" (good, neut./fem.)
+- **í** - long /iː/ as in "bílý" (white) (compare "pivo" (beer) with short i)
+- **ó** - long /oː/ as in "móda" (fashion) (mostly in loanwords and interjections; rare in native words)
+- **ú** - long /uː/ in word-initial position, as in "úřad" (office)
+- **ý** - long /iː/ as in "býčí" (bull's), "malý" (small)
 
-### The krouzek (ring above)
-- **u** - long /uu/ in non-initial positions, as in "dum" (house), "pusobeni" (effect)
+### The kroužek (ring above)
+- **ů** - long /uː/ in non-initial positions, as in "dům" (house), "působení" (effect)
 
 This character is HIGHLY DIAGNOSTIC for Czech. It developed historically from the diphthong /uo/ and is found almost exclusively in Czech. Its presence in a text is an extremely strong indicator that the text is Czech.
 
 ### The ř character
 
-The letter **r** deserves special attention as the single most diagnostic character for Czech language identification. The sound it represents - a raised alveolar trill, sometimes described as a simultaneous r-trill and zh-fricative - exists in no other standard language in the world. Words like "tri" (three), "reka" (river), "more" (sea), "pri" (at/during), and "potreba" (need) are unmistakably Czech. The frequency of r in Czech text is approximately 1.5-2% of all characters, making it a reliable statistical signal.
+The letter **ř** deserves special attention as the single most diagnostic character for Czech language identification. The sound it represents - a raised alveolar trill, sometimes described as a simultaneous r-trill and zh-fricative - exists in no other standard language in the world. Words like "tři" (three), "řeka" (river), "moře" (sea), "při" (at/during), and "potřeba" (need) are unmistakably Czech. The frequency of ř in Czech text is roughly 1% of all letters, making it a reliable statistical signal even in short texts.
 
 ## Character Frequency Patterns
 
-The most frequent letters in Czech text (approximate percentages):
-- e: ~8.2%, a: ~7.2%, o: ~6.8%, n: ~6.5%, t: ~5.7%, s: ~5.2%
-- i: ~4.5%, l: ~3.8%, v: ~3.8%, r: ~3.5%, d: ~3.4%, k: ~3.4%
-- p: ~3.1%, m: ~3.0%, u: ~2.8%, z: ~2.5%, j: ~2.4%, y: ~1.9%
-- c: ~1.4%, b: ~1.4%, h: ~1.3%, e: ~1.1%, a: ~1.0%, s: ~0.9%
+The most frequent letters in Czech text (approximate percentages of letters):
+- e: ~8.5%, o: ~7%, a: ~7%, n: ~6%, t: ~5.5%, s: ~5%
+- i: ~4.5%, l: ~4.5%, v: ~4%, k: ~4%, d: ~3.5%, r: ~3.5%, m: ~3.5%
+- p: ~3%, u: ~2.8%, j: ~2.5%, í: ~2.5%, á: ~2.2%, z: ~2%, y: ~1.9%
+- c: ~1.5%, ě: ~1.5-2%, h: ~1.5%, b: ~1.5%, ž: ~1.2%, é: ~1.1%, č: ~1%, ř: ~1%, ý: ~1%, š: ~0.8%, ů: ~0.4-0.6%
+- ď, ť, ň, ú, ó are rare (each well under 0.2%)
 
-The combined frequency of diacritical characters (a, c, d, e, e, i, n, o, r, s, t, u, u, y, z) typically constitutes 8-12% of all characters in Czech text, providing a strong distinguishing signal.
+The combined frequency of diacritical characters (á, č, ď, é, ě, í, ň, ó, ř, š, ť, ú, ů, ý, ž) typically constitutes about 10-15% of all letters in Czech text, providing a strong distinguishing signal. (Text with all of these stripped to plain ASCII still occurs online; there, rely on function words and endings instead.)
 
 ## Top 50 Function Words
 
@@ -51,7 +52,7 @@ The following are the most frequent function words in Czech, ranked approximatel
 4. se (reflexive particle)
 5. na (on, at)
 6. to (it, that)
-7. ze (that - conjunction)
+7. že (that - conjunction)
 8. s (with)
 9. z (from, out of)
 10. do (to, into)
@@ -69,22 +70,22 @@ The following are the most frequent function words in Czech, ranked approximatel
 22. byl (was)
 23. jeho (his)
 24. si (reflexive dative)
-25. jeste (still, yet)
+25. ještě (still, yet)
 26. za (behind, for)
 27. od (from)
 28. jsem (I am)
 29. tento (this)
 30. jejich (their)
-31. uz (already)
+31. už (already)
 32. jen (only)
 33. jak (how)
 34. nebo (or)
-35. taky/take (also)
-36. vsak (however)
-37. vice (more)
+35. taky/také (also)
+36. však (however)
+37. více (more)
 38. mezi (between, among)
-39. pri (at, during)
-40. ktery (which, that - relative)
+39. při (at, during)
+40. který (which, that - relative)
 41. kde (where)
 42. kdy (when)
 43. byla (was - feminine)
@@ -94,19 +95,20 @@ The following are the most frequent function words in Czech, ranked approximatel
 47. tom (that - locative)
 48. mu (him - dative clitic)
 49. ji (her - accusative)
-50. pred (before, in front of)
+50. před (before, in front of)
 
 ## Common Bigrams
 
 The most frequent letter bigrams in Czech include:
 - "st", "pr", "po", "na", "ro", "te", "ne", "ov", "od", "ko"
-- "ni", "en", "ra", "no", "to", "al", "sk", "je", "la", "os"
+- "ní", "en", "ra", "no", "to", "al", "sk", "je", "la", "os"
+- Diacritic bigrams characteristic of Czech: "ně", "že", "ří", "dě", "vě", "mě", "ch"
 
 ## Common Trigrams
 
 Frequent trigrams include:
-- "pro", "pre", "ost", "sta", "pra", "ova", "pod", "pri", "nie", "eni"
-- "nos", "kou", "tel", "ych", "ick", "ova", "ani", "sti", "rod", "ske"
+- "pro", "pře", "při", "ost", "sta", "pra", "ova", "pod", "jse", "ení"
+- "nos", "kou", "tel", "ých", "ick", "ého", "ání", "stí", "rod", "ské"
 
 ## Morphological Patterns and Case Endings
 
@@ -120,21 +122,21 @@ Czech case endings provide strong identification signals. Common patterns includ
 - Locative singular: -ovi / -u ("studentovi")
 - Instrumental singular: -em ("studentem")
 - Nominative plural: -i ("studenti")
-- Genitive plural: -u ("studentu")
+- Genitive plural: -ů ("studentů")
 
 ### Common adjectival endings
-- Masculine: -y, -eho, -emu, -ym, -em, -i, -ych, -ym, -ymi
-- Feminine: -a, -e, -ou, -e, -ych, -ym, -ymi
-- Neuter: -e, -eho, -emu, -ym, -em, -a, -ych, -ym, -ymi
+- Masculine: -ý, -ého, -ému, -ým, -ém, -í (animate nom. pl.), -ých, -ým, -ými
+- Feminine: -á, -é, -ou, -é, -ých, -ým, -ými
+- Neuter: -é, -ého, -ému, -ým, -ém, -á, -ých, -ým, -ými
 
 ### Verb endings (present tense)
-- 1st person singular: -u / -i / -m / -am / -im
-- 2nd person singular: -es / -is
-- 3rd person singular: -e / -i / -a
-- 1st person plural: -eme / -ime / -ame
-- 2nd person plural: -ete / -ite / -ate
-- 3rd person plural: -ou / -i / -aji / -eji
+- 1st person singular: -u / -i / -m / -ám / -ím
+- 2nd person singular: -eš / -íš / -áš
+- 3rd person singular: -e / -í / -á
+- 1st person plural: -eme / -íme / -áme
+- 2nd person plural: -ete / -íte / -áte
+- 3rd person plural: -ou / -í / -ají / -ějí
 
-## The Hacek System
+## The Háček System
 
-The hacek (literally "little hook", also called caron) system is the cornerstone of Czech orthography and one of its most recognizable features for language identification. Introduced by Jan Hus in the early 15th century, it replaced earlier digraph spellings (cz for c, rz for r, sz for s, etc.) with a single diacritical mark. This system was later adopted by Slovak, Slovenian, Croatian (partially), Lithuanian, Latvian, and several other languages, though each uses a different subset of hacek characters. The combination of hacek characters present in a text is a powerful discriminator: the presence of r (unique to Czech) combined with e (absent from Slovak) provides near-certain Czech identification.
+The háček (literally "little hook", also called caron) system is the cornerstone of Czech orthography and one of its most recognizable features for language identification. Introduced by Jan Hus in the early 15th century, it replaced earlier digraph spellings (cz for č, rz for ř, sz for š, etc.) with a single diacritical mark. This system was later adopted by Slovak, Slovenian, Croatian (partially), Lithuanian, Latvian, and several other languages, though each uses a different subset of háček characters. The combination of háček characters present in a text is a powerful discriminator: the presence of ř (unique to Czech) combined with ě (absent from Slovak) provides near-certain Czech identification.

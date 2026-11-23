@@ -28,7 +28,7 @@ Spanish is the most commonly confused language with Catalan, as they coexist in 
 
 **Periphrastic past tense:**
 - Catalan: *vaig cantar* (I sang) -- uses "anar" (to go) + infinitive
-- Spanish: *cante* -- simple synthetic form
+- Spanish: *canté* -- simple synthetic form
 - This construction is unique to Catalan among Romance languages
 
 **Demonstratives:**
@@ -39,8 +39,8 @@ Spanish is the most commonly confused language with Catalan, as they coexist in 
 | Catalan | Spanish | English |
 |---------|---------|---------|
 | molt | muy/mucho | very/much |
-| pero | pero | but |
-| tambe | tambien | also |
+| però | pero | but (Catalan has a grave accent) |
+| també | también | also |
 | sempre | siempre | always |
 | menjar | comer | to eat |
 | parlar | hablar | to speak |
@@ -52,6 +52,11 @@ Spanish is the most commonly confused language with Catalan, as they coexist in 
 **Cedilla usage:**
 - Catalan uses **ç** frequently: *plaça*, *començar*, *coneixença*
 - Spanish does not use ç at all
+
+**Accents:**
+- Catalan uses grave accents (à, è, ò) as well as acute (é, í, ó, ú) and ï, ü: *català*, *però*, *també*, *informació*, *raïm*
+- Spanish uses only acute accents (á, é, í, ó, ú), plus ñ and ü: *también*, *información*, *está*
+- Any à, è or ò points away from Spanish; á or ñ points away from Catalan
 
 **Clitic pronouns en/hi:**
 - Catalan has *en* and *hi* clitics (shared with French/Occitan)
@@ -87,7 +92,7 @@ Occitan is historically the closest language to Catalan. The two languages share
 **Function words:**
 - Catalan *aquest* vs Occitan *aqueste/aquel*
 - Catalan *amb* vs Occitan *amb/dab*
-- Catalan *pero* vs Occitan *mas/mes*
+- Catalan *però* vs Occitan *mas/mes*
 
 The Occitan *lh* and *nh* digraphs are strong differentiators, as Catalan uses *ll* and *ny* for the same sounds.
 
@@ -103,14 +108,14 @@ Despite both being Western Romance languages with some shared features, Catalan 
 - Note: feminine plural *les* is shared but masculine forms differ
 
 **Negation:**
-- Catalan: single negation with *no*: *No parlo catala*
+- Catalan: single negation with *no*: *No parlo català*
 - French: two-part negation *ne...pas*: *Je ne parle pas catalan*
 
 **Orthography:**
 - Catalan uses the **punt volat** (l·l): absent in French
 - French uses circumflex accent (â, ê, î, ô, û): rare or absent in Catalan
 - French uses extensive silent final consonants; Catalan pronounces most final consonants
-- French uses **-tion** ending; Catalan uses **-cio**
+- French uses **-tion** ending; Catalan uses **-ció**
 
 **Shared features (can cause confusion):**
 - Both use ç (cedilla)
@@ -120,8 +125,8 @@ Despite both being Western Romance languages with some shared features, Catalan 
 **Distinguishing function words:**
 - Catalan *amb* vs French *avec*
 - Catalan *el/els* vs French *le/les*
-- Catalan *pero* vs French *mais*
-- Catalan *molt* vs French *tres/beaucoup*
+- Catalan *però* vs French *mais*
+- Catalan *molt* vs French *très/beaucoup*
 
 ## Catalan vs Portuguese
 
@@ -146,7 +151,7 @@ Portuguese and Catalan share several orthographic features, including the cedill
 - Catalan *i* (and) vs Portuguese *e*
 - Catalan *amb* (with) vs Portuguese *com*
 - Catalan *que* vs Portuguese *que* (shared)
-- Catalan *es* vs Portuguese *e* (is)
+- Catalan *és* vs Portuguese *é* (is)
 
 ## Catalan vs Italian
 
@@ -164,7 +169,7 @@ Italian and Catalan are less commonly confused but share some structural similar
 
 **Final vowels:**
 - Italian words almost always end in vowels: *informazione*, *collaborare*
-- Catalan words frequently end in consonants: *informacio*, *col·laborar*
+- Catalan words frequently end in consonants: *informació*, *col·laborar*
 
 ## Summary of Diagnostic Features (Ranked by Reliability)
 
@@ -175,6 +180,6 @@ Italian and Catalan are less commonly confused but share some structural similar
 5. **Demonstratives "aquest/aquesta"** -- distinct from all confusable languages
 6. **Clitic pronouns "en" and "hi"** -- shared only with French and Occitan
 7. **Digraphs "ll" (word-initial) and "ny"** -- distinguishes from Occitan and Portuguese (lh/nh)
-8. **Suffix "-cio"** -- vs Spanish "-cion", French "-tion", Italian "-zione"
+8. **Suffix "-ció"** -- vs Spanish "-ción", French "-tion", Italian "-zione", Portuguese "-ção"
 9. **Conjunction "i"** (and) -- vs Spanish "y", French "et", Portuguese "e", Italian "e"
 10. **Grave + acute accent distinction on e/o** -- shared with some languages but distribution is characteristic

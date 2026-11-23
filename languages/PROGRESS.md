@@ -1,8 +1,8 @@
 # Language Knowledge Base Progress
 
-Generated: 2026-11-23 06:17 UTC
+Generated: 2026-11-23 06:34 UTC
 Total languages: 119
-Complete: 6 / 119 (5%)
+Complete: 18 / 119 (15%)
 
 | Language | Code | Overview | Grammar | Characteristics | Differences | Vocab | Examples | Status |
 |----------|------|----------|---------|-----------------|-------------|-------|----------|--------|
@@ -39,7 +39,7 @@ Complete: 6 / 119 (5%)
 | French | `fra_Latn` | done | done | done | done | 0 | 0 | PARTIAL |
 | Fula | `ful_Latn` | done | done | - | - | 0 | 0 | PARTIAL |
 | Irish | `gle_Latn` | done | done | - | - | 0 | 0 | PARTIAL |
-| Galician | `glg_Latn` | done | done | - | - | 10,000 | 12 | PARTIAL |
+| Galician | `glg_Latn` | done | done | done | done | 10,000 | 12 | COMPLETE |
 | Ancient Greek | `grc_Grek` | done | - | - | - | 0 | 0 | PARTIAL |
 | Gujarati | `guj_Gujr` | done | - | - | - | 0 | 0 | PARTIAL |
 | Haitian Creole | `hat_Latn` | - | - | - | - | 0 | 0 | EMPTY |
@@ -58,7 +58,7 @@ Complete: 6 / 119 (5%)
 | Japanese | `jpn_Jpan` | done | - | - | - | 0 | 0 | PARTIAL |
 | Kannada | `kan_Knda` | done | done | done | done | 0 | 1 | PARTIAL |
 | Georgian | `kat_Geor` | done | done | - | - | 0 | 0 | PARTIAL |
-| Kazakh | `kaz_Cyrl` | done | done | - | - | 3,402 | 12 | PARTIAL |
+| Kazakh | `kaz_Cyrl` | done | done | done | done | 3,402 | 12 | COMPLETE |
 | Khmer | `khm_Khmr` | done | done | - | done | 0 | 1 | PARTIAL |
 | Kinyarwanda | `kin_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
 | Kyrgyz | `kir_Cyrl` | done | done | - | - | 0 | 0 | PARTIAL |
@@ -73,15 +73,15 @@ Complete: 6 / 119 (5%)
 | Latvian | `lvs_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
 | Malayalam | `mal_Mlym` | done | - | - | - | 0 | 0 | PARTIAL |
 | Marathi | `mar_Deva` | - | - | - | - | 0 | 0 | EMPTY |
-| Macedonian | `mkd_Cyrl` | - | - | - | - | 10,000 | 9 | EMPTY |
+| Macedonian | `mkd_Cyrl` | done | done | done | done | 10,000 | 10 | COMPLETE |
 | Maltese | `mlt_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Mongolian | `mon_Cyrl` | - | - | - | - | 0 | 0 | EMPTY |
 | Maori | `mri_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
 | Malay | `msa_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
 | Burmese | `mya_Mymr` | done | - | - | - | 0 | 0 | PARTIAL |
-| Dutch | `nld_Latn` | done | - | - | - | 10,000 | 12 | PARTIAL |
+| Dutch | `nld_Latn` | done | done | done | done | 10,000 | 12 | COMPLETE |
 | Norwegian Nynorsk | `nno_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
-| Norwegian Bokmal | `nob_Latn` | - | - | - | - | 10,000 | 12 | EMPTY |
+| Norwegian Bokmal | `nob_Latn` | done | done | done | done | 10,000 | 12 | COMPLETE |
 | Nepali | `npi_Deva` | - | - | - | - | 0 | 0 | EMPTY |
 | Northern Sotho | `nso_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Chichewa | `nya_Latn` | - | - | - | - | 0 | 0 | EMPTY |
@@ -90,20 +90,20 @@ Complete: 6 / 119 (5%)
 | Western Persian | `pes_Arab` | done | - | - | - | 0 | 0 | PARTIAL |
 | Plateau Malagasy | `plt_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
 | Polish | `pol_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
-| Portuguese | `por_Latn` | done | - | - | - | 10,000 | 12 | PARTIAL |
+| Portuguese | `por_Latn` | done | done | done | done | 10,000 | 12 | COMPLETE |
 | Pashto | `pus_Arab` | - | - | - | - | 0 | 0 | EMPTY |
 | Romanian | `ron_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Rundi | `run_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Russian | `rus_Cyrl` | - | - | - | - | 10,000 | 12 | EMPTY |
+| Russian | `rus_Cyrl` | done | done | done | done | 10,000 | 12 | COMPLETE |
 | Sinhala | `sin_Sinh` | - | - | - | - | 0 | 0 | EMPTY |
-| Slovak | `slk_Latn` | done | - | - | - | 10,000 | 12 | PARTIAL |
+| Slovak | `slk_Latn` | done | done | done | done | 10,000 | 12 | COMPLETE |
 | Slovenian | `slv_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
 | Shona | `sna_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Sindhi | `snd_Arab` | - | - | - | - | 0 | 0 | EMPTY |
 | Somali | `som_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Southern Sotho | `sot_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Spanish | `spa_Latn` | - | - | - | - | 10,000 | 12 | EMPTY |
-| Serbian | `srp_Cyrl` | - | - | - | - | 9,506 | 12 | EMPTY |
+| Spanish | `spa_Latn` | done | done | done | done | 10,000 | 12 | COMPLETE |
+| Serbian | `srp_Cyrl` | done | done | done | done | 9,506 | 12 | COMPLETE |
 | Sundanese | `sun_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Swedish | `swe_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Swahili | `swh_Latn` | done | - | - | - | 0 | 0 | PARTIAL |
@@ -115,10 +115,10 @@ Complete: 6 / 119 (5%)
 | Tswana | `tsn_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Turkmen | `tuk_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Turkish | `tur_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Ukrainian | `ukr_Cyrl` | done | - | - | - | 10,000 | 12 | PARTIAL |
+| Ukrainian | `ukr_Cyrl` | done | done | done | done | 10,000 | 12 | COMPLETE |
 | Urdu | `urd_Arab` | - | - | - | - | 0 | 0 | EMPTY |
 | Northern Uzbek | `uzn_Latn` | - | - | - | - | 0 | 0 | EMPTY |
-| Vietnamese | `vie_Latn` | - | - | - | - | 10,000 | 12 | EMPTY |
+| Vietnamese | `vie_Latn` | done | done | done | done | 10,000 | 12 | COMPLETE |
 | Wolof | `wol_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Xhosa | `xho_Latn` | - | - | - | - | 0 | 0 | EMPTY |
 | Yoruba | `yor_Latn` | - | - | - | - | 0 | 0 | EMPTY |

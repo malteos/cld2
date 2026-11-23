@@ -43,8 +43,6 @@ See [`PROGRESS.md`](PROGRESS.md) for per-language completion status.
 
 | Script | Purpose |
 |--------|---------|
-| `scripts/extract_language_list.py` | Extract language list from HuggingFace dataset |
-| `scripts/generate_skeleton.py` | Create folder structure for all languages |
 | `scripts/validate_completeness.py` | Check all languages have required files |
 | `scripts/build_progress.py` | Regenerate PROGRESS.md from filesystem state |
 | `scripts/fetch_vocabulary.py` | Fetch word lists from Wiktionary/Wikipedia APIs |

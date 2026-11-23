@@ -8,25 +8,25 @@ Danish is a moderately fusional language that has become relatively analytic com
 
 ### Vowel System
 
-Danish has one of the largest vowel inventories of any language in the world, with approximately 20-30 vowel phonemes depending on the analysis. The exact count varies among phonologists because of the complex interplay between vowel quality, length, and the presence or absence of stoed. The front unrounded vowels include /i, e, ae/, the front rounded vowels include /y, oe, oe/, the central vowels include /a/, and the back vowels include /u, o, aa/. Each of these can appear in both short and long variants, effectively doubling the inventory. Additionally, several diphthongs occur in Danish.
+Danish has one of the largest vowel inventories of any language in the world, with approximately 20-30 vowel phonemes depending on the analysis. The exact count varies among phonologists because of the complex interplay between vowel quality, length, and the presence or absence of stød. The front unrounded vowels include /i, e, ɛ/ (written i, e, æ), the front rounded vowels include /y, ø, œ/ (written y, ø), the central/low vowels include /a/, and the back vowels include /u, o, ɔ/ (written u, o, å). Each of these can appear in both short and long variants, effectively doubling the inventory. Additionally, several diphthongs occur in Danish.
 
-### Stoed (Glottal Constriction)
+### Stød (Glottal Constriction)
 
-The most distinctive phonological feature of Danish is the stoed, a suprasegmental phenomenon that has no direct parallel in any other language. It is often described as a kind of creaky voice or glottal constriction that interrupts a vowel or sonorant consonant. Stoed is phonemically contrastive, meaning that two words can differ only in the presence or absence of stoed. For example, "hun" (she) without stoed versus "hund" (dog) with stoed. Historically, stoed developed from the pitch accent system present in Old Norse, which is preserved as a tonal accent in Swedish and Norwegian but took a different evolutionary path in Danish.
+The most distinctive phonological feature of Danish is the stød, a suprasegmental phenomenon that has no direct parallel in any other language. It is often described as a kind of creaky voice or glottal constriction that interrupts a vowel or sonorant consonant. Stød is phonemically contrastive, meaning that two words can differ only in the presence or absence of stød. For example, "hun" (she) without stød versus "hund" (dog) with stød. Historically, stød corresponds to the accent 1 vs. accent 2 distinction (pitch accent) preserved as a tonal contrast in most Swedish and Norwegian dialects, which took a different evolutionary path in Danish.
 
 ### Consonant System
 
-Danish consonants have undergone significant lenition (weakening) compared to other Scandinavian languages. The most notable feature is the so-called "soft d" (blaadt d), an approximant sound written as d but pronounced approximately as the English "th" in "the" or even weaker. This occurs in medial and final positions. Voiceless stops /p, t, k/ are aspirated initially and may become voiced or lenited in other positions. The consonant /r/ is typically a uvular approximant or fricative in standard Danish (Rigsdansk), quite different from the trilled or tapped r found in Norwegian and Swedish.
+Danish consonants have undergone significant lenition (weakening) compared to other Scandinavian languages. The most notable feature is the so-called "soft d" (blødt d), an approximant sound written as d but pronounced approximately as the English "th" in "the" or even weaker. This occurs in medial and final positions (e.g. "mad", "gade"). Voiceless stops /p, t, k/ are aspirated initially and may become voiced or lenited in other positions. The consonant /r/ is typically a uvular approximant or fricative in standard Danish (rigsdansk), quite different from the trilled or tapped r found in much of Norwegian and Swedish.
 
 ### Prosody
 
-Danish prosody differs markedly from Swedish and Norwegian. While Swedish and Norwegian are pitch-accent languages with characteristic "singing" intonation patterns, Danish lacks lexical pitch accent (having replaced it with stoed) and tends toward a flatter intonation contour. This contributes to the stereotype among other Scandinavians that Danish sounds "mumbled" or difficult to understand.
+Danish prosody differs markedly from Swedish and Norwegian. While Swedish and Norwegian are pitch-accent languages with characteristic "singing" intonation patterns, Danish lacks lexical pitch accent (having stød instead) and tends toward a flatter intonation contour. This contributes to the stereotype among other Scandinavians that Danish sounds "mumbled" or difficult to understand.
 
 ## Noun System
 
 ### Gender
 
-Danish nouns belong to one of two grammatical genders: common gender (faelleskaen, also called n-gender or utrum) and neuter gender (intetkaen, also called t-gender). The common gender resulted from the merger of the old masculine and feminine genders. Approximately 75% of Danish nouns are common gender. Gender affects the form of articles, adjectives, and some pronouns.
+Danish nouns belong to one of two grammatical genders: common gender (fælleskøn, also called n-gender or utrum) and neuter gender (intetkøn, also called t-gender). The common gender resulted from the merger of the old masculine and feminine genders. Approximately 75% of Danish nouns are common gender. Gender affects the form of articles, adjectives, and some pronouns.
 
 ### Articles
 
@@ -35,18 +35,18 @@ The indefinite article precedes the noun: "en" for common gender and "et" for ne
 The definite article is suffixed to the noun, which is a shared Scandinavian feature not found in other Germanic languages:
 - Common gender singular: -en (e.g., "bogen" = the book)
 - Neuter gender singular: -et (e.g., "huset" = the house)
-- Plural (both genders): -ne or -ene (e.g., "boegerne" = the books, "husene" = the houses)
+- Plural (both genders): -ne or -ene (e.g., "bøgerne" = the books, "husene" = the houses)
 
-When an adjective precedes a definite noun, a free-standing definite article (den/det/de) is also used in front of the adjective, creating a "double definiteness" construction: "den store bog" (the big book).
+When an adjective precedes a definite noun, a free-standing definite article (den/det/de) is used in front of the adjective instead of the suffix: "den store bog" (the big book), not *"den store bogen". (Unlike Swedish and Norwegian, standard Danish does not use double definiteness.)
 
 ### Plural
 
 Plural formation in Danish follows several patterns:
-- Add -er: "bog" > "boeger" (books)
-- Add -e: "hund" > "hunde" (dogs)
-- No change (zero plural): "hus" > "hus" (houses)
-- Add -r: "sko" > "skor" (shoes)
-- Irregular vowel change: some nouns show vowel alternation
+- Add -er: "by" > "byer" (towns), "avis" > "aviser" (newspapers)
+- Add -e: "hund" > "hunde" (dogs), "hus" > "huse" (houses)
+- Add -r (nouns ending in -e): "pige" > "piger" (girls), "uge" > "uger" (weeks)
+- No change (zero plural): "år" > "år" (years), "dyr" > "dyr" (animals), "sko" > "sko" (shoes)
+- Irregular vowel change (umlaut): "bog" > "bøger" (books), "mand" > "mænd" (men), "barn" > "børn" (children)
 
 ### Case
 
@@ -60,7 +60,7 @@ Danish verbs are remarkably simple in their conjugation compared to most other I
 
 ### Tense Forms
 
-**Present tense**: Formed by adding -r to the stem: "at tale" (to speak) > "taler" (speaks/speak).
+**Present tense**: Formed by adding -r to the infinitive (most verbs end in -e): "at tale" (to speak) > "taler" (speaks/speak); "at gå" > "går".
 
 **Past tense**: Danish verbs fall into two conjugation classes:
 - Weak verbs (regular): Add -ede or -te to the stem: "talte" (spoke), "arbejdede" (worked)
@@ -77,12 +77,12 @@ Danish verbs are remarkably simple in their conjugation compared to most other I
 ### Passive Voice
 
 Danish has two ways to form the passive:
-- **S-passive**: Add -s to the verb form: "bogen laeses" (the book is being read). This is used for general, habitual, or generic actions.
-- **Periphrastic passive**: Use "blive" (become) plus the past participle: "bogen bliver laest" (the book is being read). This is used for specific, individual events.
+- **S-passive**: Add -s to the verb form: "bogen læses" (the book is read). This is used for general, habitual, or generic actions.
+- **Periphrastic passive**: Use "blive" (become) plus the past participle: "bogen bliver læst" (the book is being read). This is used for specific, individual events.
 
 ### Imperative
 
-The imperative is formed from the bare stem of the verb: "tal!" (speak!), "kom!" (come!).
+The imperative is formed from the bare stem of the verb: "tal!" (speak!), "kom!" (come!), "gå!" (go!).
 
 ## Syntax
 
@@ -90,21 +90,21 @@ The imperative is formed from the bare stem of the verb: "tal!" (speak!), "kom!"
 
 Danish follows the verb-second (V2) rule in main clauses, which is characteristic of Germanic languages. The finite verb must occupy the second position in declarative main clauses. The first position can be filled by the subject, an adverb, an object, or another constituent:
 
-- "Peter spiser et aeble" (Peter eats an apple) - Subject first
-- "I dag spiser Peter et aeble" (Today eats Peter an apple = Today Peter eats an apple) - Adverb first, subject inverts with verb
+- "Peter spiser et æble" (Peter eats an apple) - Subject first
+- "I dag spiser Peter et æble" (Today eats Peter an apple = Today Peter eats an apple) - Adverb first, subject inverts with verb
 
 ### Subordinate Clause Word Order
 
 In subordinate clauses, the word order differs from main clauses. Sentence adverbs (such as "ikke" = not, "altid" = always) precede the finite verb in subordinate clauses but follow it in main clauses:
 
-- Main clause: "Peter spiser ikke aebler" (Peter eats not apples = Peter does not eat apples)
-- Subordinate clause: "...fordi Peter ikke spiser aebler" (...because Peter not eats apples = ...because Peter does not eat apples)
+- Main clause: "Peter spiser ikke æbler" (Peter eats not apples = Peter does not eat apples)
+- Subordinate clause: "...fordi Peter ikke spiser æbler" (...because Peter not eats apples = ...because Peter does not eat apples)
 
 This adverb placement difference between main and subordinate clauses is a key syntactic feature of Danish and the other Mainland Scandinavian languages.
 
 ### Questions
 
-Yes/no questions are formed by placing the verb first (V1 order): "Spiser Peter et aeble?" (Eats Peter an apple? = Does Peter eat an apple?). Wh-questions place the question word first, followed by the verb (maintaining V2): "Hvad spiser Peter?" (What eats Peter? = What does Peter eat?).
+Yes/no questions are formed by placing the verb first (V1 order): "Spiser Peter et æble?" (Eats Peter an apple? = Does Peter eat an apple?). Wh-questions place the question word first, followed by the verb (maintaining V2): "Hvad spiser Peter?" (What eats Peter? = What does Peter eat?).
 
 ### Negation
 
@@ -115,9 +115,9 @@ Negation is expressed by the adverb "ikke" (not), placed after the finite verb i
 Adjectives agree with the noun they modify in gender, number, and definiteness:
 - Common singular indefinite: base form ("en stor bog" = a big book)
 - Neuter singular indefinite: add -t ("et stort hus" = a big house)
-- Plural or definite: add -e ("store boeger" = big books, "den store bog" = the big book)
+- Plural or definite: add -e ("store bøger" = big books, "den store bog" = the big book)
 
-Comparison uses -ere for comparative and -est for superlative, or "mere/mest" for longer adjectives: "stor, stoerre, stoerst" (big, bigger, biggest).
+Comparison uses -ere for comparative and -est for superlative, or "mere/mest" for longer adjectives: "ny, nyere, nyest" (new, newer, newest). Some common adjectives are irregular with umlaut: "stor, større, størst" (big, bigger, biggest), "lang, længere, længst" (long, longer, longest).
 
 ## Pronouns
 
